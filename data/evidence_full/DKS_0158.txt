@@ -1,0 +1,105 @@
+# STORY DKS_0158 — The Kings Debate and Bhishmaka Yields
+
+## Index entry
+title: The Kings Debate and Bhishmaka Yields
+summary: Dantavakra urges peace with Krishna while Salwa scorns fear; Bhishmaka, fearing for his arrogant son Rukmi, resolves to go and propitiate Krishna.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Bhishmaka, Dantavakra, Salwa, Krishna, Rukmi
+locations: Kundina
+themes: debate, pride, conciliation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0180
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 106 | verses  | confidence 4
+  excerpt: Dantavakra said: ... 'let us go and offer the high-souled Keshava hospitality ... if we make peace with Keshava we shall be able to live freed from anxiety and fear.' ... Bhismaka felt a desire to go to eternal Krishna for propitiating him.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.106 ()
+TITLE: DANTAVAKRAS SPEECH
+
+Vaishampayana said:—After the highly powerful Sunitha had thus expressed
+himself, the heroic Dantavakra, the king of Karusha said (1).
+
+Dantavakra said:—"O ye kings, what the king of Magadha and Sunitha have
+said for our well-being appears to me as proper (2). I cannot blame
+these nectarine words out of malice, pride or of my own desire for
+victory (3). Who, else save them, can give vent, in the midst of kings,
+to such words grave like an ocean and sanctioned by the science of
+Polity? (4). Listen to what I say which you should keep in memory. O
+kings, what wonder is there that Vāsudeva has come here? (5). He has
+come here for this maiden as we have all done. What virtue or blemish
+lies there? (6). We all unitedly laid siege to Gomanta. Why do you then
+find fault with the battle? (7). O kings, on account of Kansa’s
+foolishness those two heroes first lived in Vrindāvana (8). Thereupon in
+order to slay them both Kansa invited Rāma and Keshava and set an
+infuriated elephant against them. Slaying that elephant those two heroes
+entered the arena (9). Thereafter by virtue of their own prowess, they
+slew Kansa, the king of Mathurā, seated in the sporting arena, like one
+dead, with his followers (10). What offence did they commit thereby,
+that we all, elderly in age, came to Mathura at (another’s) instigation
+(11). O kings, terrified at our huge and overwhelming army, Rāma and
+Keshava, leaving their own city and soldiers, fled away to Gomanta (12).
+We still pursued them there; and though expert in the art of fighting we
+were defeated in the battle-field by those two boys (13). Though they
+did not fight with us, with cars, elephants, horses and infantry, still,
+as the Kshatriyas should do, we laid seige to the hill and set fire to
+it (14). O ye leading Kshatryas, if they had given up their life quietly
+in that conflagration considering it a forest fire we would have
+considered them humbled. We blame Janārddana because he fought against
+us (15). As the matters have now stood it appears that wherever we shall
+go we will pick up a quarrel. Let us, therefore, O king, contract
+friendship with Krishna (16). Besides, Krishna has not come to this city
+of Kundina for picking up a quarrel. He has come for the maiden. Why
+should he fight with another (17)? Krishna is not an ordinary human
+being. He is the foremost of men in this land of mortals, the foremost
+of gods in the land of celestials. He is the Deity and the Creator of
+the worlds. In God there is no malice, pride or crookedness (18–19).
+They are not stupified, they do not grow lean and are not visited by any
+calamity. They always remove the calamities of those who bow unto them.
+In order to show his true form, Vishnu, the king of gods has come here
+with Garuda. You should also know that Krishna never goes with his army
+to slay his enemies. That he has come here accompanied by the leading
+Bhojas, Vrishnis, Andhakas and Yadavas indicates his desire of
+contracting friendship with you (20–22). Therefore, O kings, let us go
+and offer the high-souled Keshava hospitality with _arghya_ and water to
+rinse his mouth (23). What more, if we make peace with Keshava we shall
+be able to live freed from anxiety and fear" (24).
+
+Hearing the words of the intelligent Dantavakra, Sālwa, the foremost of
+speakers, said to the kings (25).
+
+Salwa said:—"What is the use of this fear? Had we trembled in Krishna’s
+fear and thought it proper to make peace with him, we would have left
+our weapons at that time (26). Besides what is the necessity of speaking
+ill of our own army and extolling another? Such is not the duty of the
+Kshatriya kings (27). We are all born in great royal families and have
+glorified our respective races. Why should then our sense be poorly like
+that of a coward (28)? I know Devaki’s son Krishna as the immortal,
+eternal, Prime Deity Vishnu, invincible unto the kings, powerful, adored
+of all the worlds, Vaikuntha and the preceptor of the entire world,
+mobile and immobile (29-30). I know full well all the objects of Vishnu.
+He has in view, for incarnating a portion of His Self, the destruction
+of king Kansa, the relieving of the earth of her burden, our destruction
+and the protection of the worlds. (I know also) that a great battle will
+take place between Vishnu and all the kings (31–32). O kings, I know
+truly that consumed by the fire of his discus we will go to the abode of
+Yama. Still considering that no one meets with untimely death, no one
+survives when the proper time comes and the lease of his life runs out
+in due time; therefore a man should not entertain fear (33–34). When the
+ascetic virtue of the Daityas is annihilated the Divine Vishnu,
+conversant with Yoga, brings about their destruction in proper time
+(35). This Lord of gods sent down Virochona’s son, the highly powerful
+Bali, to the nether region (36). O kings, Vishnu has performed many
+other feats like this; you should not therefore question the subject of
+fighting—for Vishnu has not co
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0157 | next_story_id: DKS_0159
+previous title: Jarasandha Warns the Assembled Kings
+next title: Shalya Proposes Inviting Kalayavana

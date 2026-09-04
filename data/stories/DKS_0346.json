@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0346",
+ "title": "The Thousand Arms of Bana",
+ "subtitle": null,
+ "story": "Bana stood before his broken city with a thousand arms and every weapon his pride could carry, and he called out to the lord of the Yadavas. \"Wait! Wait!\" he roared. \"You will not escape me alive today. I have a thousand arms, and you have eight — how will you fight me? You will see my thousand arms multiply into a million.\" The sage Narada, watching from the palace roof, laughed until the sky seemed to split; he had seen what Bana had not.\n\nKrishna answered the boast with arrows. \"Heroes do not vaunt,\" he said. \"Come and fight.\" The two kings clashed, and the earth shuddered under the meeting. Bana covered Krishna with clubs and maces and spears, and when Krishna's arrows cut him to the quick, the demon king fell back on the oldest weapon in his house: a celestial weapon that the god Brahma had created long ago for Hiranyakashipu, the terror of the worlds. When Bana loosed it, darkness swallowed everything — the field, the sky, the watching gods — and out of the dark came a downpour of burning arrows. But Krishna took up the weapon that Indra had given him, and the darkness broke like a wave on a shore; the fire was quenched, the gods laughed like lions, and the demon host lost heart. Krishna's arrows from the great bow Sharnga shattered Bana's car, horses and standards together, stripped away his crown, his mail, his bow and his shield, and a last winged arrow struck the king of Shonitapura full on the breast. Bana lost consciousness and swooned where he stood.\n\nWhen he woke, he saw his city half in ruins and his pride in the dust, and something in him broke. The great demon rose and rushed at Krishna with all his thousand arms, bearing every weapon his countless hands could seize.\n\nThen Krishna took up the discus.\n\nThe Sudarshana wheel left his hand spinning like a ring of light, and it did not miss. Arm after arm fell — the wheel worked the way a man prunes a tree, each arm dropping clean. Bana's thousand arms were sheared away one by one, and the weapons in them rained to the ground, and the king of Shonitapura stood at last before the lord of the Yadavas with his terrible strength gone, helpless as a bird with clipped wings.\n\nIt was Shiva who stopped the end. As the discus worked, the great god — recovered now from the yawning weapon — watched his devotee's arms fall, and he was moved beyond anger. He came forward and spoke for Bana, singing of the one he now faced: the first of beings, the single source of all worlds, the sun hidden only by its own light. And he pleaded like a supplicant: \"This one is dear to me. He has followed me; I have given him freedom from fear.\" From respect for that promise, the discus stayed its work.\n\nKrishna looked at the ruined king and remembered the boon he had given long ago to Prahlada, the forefather of Bana's house, that his line would not be destroyed. \"This demon is not to be killed, even by me,\" Krishna said. \"His arms were cut to humble his pride.\" And he left Bana four arms out of the thousand, freedom from fear, and a life that would not know age or death. The gods watching understood the mercy: Krishna had taken the demon's boast and left him only what a man needs.\n\nBana, who had entered the battle with a million arms in his imagination, stood in the field with four — humbled, alive, and bound to a mercy he had done nothing to earn. The war for Aniruddha was over. And somewhere in the city, in a cell that would soon stand open, a prince of the Yadavas waited for the one thing the battle had been for all along: freedom.",
+ "reflection": "The mercy at the end is the point of the battle: Krishna could destroy, but what he does instead is humble — he takes the boast of a thousand arms and leaves the man with four, an age without death, and the memory of what he almost lost. The sparing of Bana, urged by the very god who had come to fight for him, turns an enemy into a witness.",
+ "tradition_note": "The sources differ on how many arms Bana kept: four in the Bhagavata Purana, two in the Harivamsha and Vishnu Purana. This account follows the Bhagavata Purana.",
+ "content_note": "Battle violence, described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Bana",
+  "Shiva",
+  "Prahlada"
+ ],
+ "locations": [
+  "Shonitapura"
+ ],
+ "themes": [
+  "mercy",
+  "devotion",
+  "honor"
+ ],
+ "previous_story_id": "DKS_0345",
+ "next_story_id": "DKS_0347",
+ "next_story_tease": "With the war ended, the cell of the captive prince was about to open — and Shonitapura would give back what it had stolen.",
+ "hero_scene": "Krishna stands calm before the ruined gates of Shonitapura as the Sudarshana discus shears away Bana's thousand arms one by one — arms and weapons raining to the ground like lopped branches, while the humbled king sinks to his knees and Shiva watches, pleading.",
+ "visual_elements": [
+  "Bana boasting at the gates of the ruined city with a thousand arms raised",
+  "the darkness weapon swallowing the field, then breaking before Krishna's counter",
+  "Krishna's arrows shattering Bana's car, crown and shield",
+  "the Sudarshana discus shearing away arm after arm like pruning branches",
+  "Shiva pleading before Krishna as the humbled Bana kneels with four arms remaining"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.63.20-48",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.275",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.33",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:16:00Z",
+  "source_event_id": "evt_0227",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0531",
+ "title": "The Last Message to Daruka",
+ "subtitle": null,
+ "story": "The hunter who had shot the arrow could not stop trembling. He was Jara, a hunter of the forest near Prabhasa, and his arrow had struck the foot of a man lying in the grass — and the man was Krishna, and the hour the gods had been promised was upon him.\n\nKrishna looked at the hunter, and his voice was gentle. \"Fear not,\" he said. \"Rise. This was my own doing.\" And he granted the hunter the last thing the man expected to hear: \"Go, with my leave, to the abode of the virtuous.\" The man who had brought about his death was not cursed but blessed; the arrow had only done what Krishna himself had arranged. Jara rose, and went, and was saved.\n\nThen his charioteer Daruka came. Krishna had sent him away, and Daruka, seeking his master's path, had found him at last — at the foot of an ashvattha tree, the great pipal, surrounded by the divine weapons of Vishnu, which stood blazing guard around the lord who had planted his banner there. Daruka leapt from the chariot and fell at Krishna's feet, his heart flooding with love, his eyes full of tears.\n\n\"Your lotus feet are gone from my sight, master,\" he wept. \"My sight has perished; it has entered into darkness.\"\n\nEven as he spoke, the chariot — the one with Garuda on its banner, the one that had carried Krishna through every war — rose into the air, and the divine weapons of Vishnu rose with it, following their master out of this world.\n\nKrishna looked at his charioteer with the old fondness, and gave him the last message he would ever send. \"Go to Dwaraka, Daruka,\" he said. \"Tell my kinsmen of their destruction — they have slain one another. Tell them Balarama has gone, and tell them the state I am in. Do not stay in Dwaraka, you or your relatives. Take all your possessions, every one of you, and with Arjuna's help lead the people to Indraprastha. The sea will soon flood the city I have left.\"\n\nIt was a message for a whole city: a people to be moved, a flood to be outrun, a road pointed out to safety. And then, for the charioteer himself, one final word of counsel. \"But you, Daruka — hold to my dharma. Be firm in knowledge. Be indifferent to the pairs of opposites, unshaken, seeing all things as one.\"\n\nDaruka circled his master, bowed again and again, and went on his way to Dwaraka, carrying the last words of Krishna in his heart. Behind him, under the pipal tree, lay the stillest figure in the world, guarded by weapons that were no longer there. The last message had been sent, and there remained only the last departure — the one that no messenger could carry and no friend could delay.",
+ "reflection": "The last message is not about Krishna at all but about everyone he is leaving: a people who must move before the sea comes, a hunter forgiven for what he could not know, a charioteer told how to live after his master is gone. Even in leaving, he is arranging the world's safety — and his final counsel to Daruka, to stand firm in knowledge and indifferent to loss and gain, is his whole teaching compressed into a goodbye.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Krishna",
+  "Daruka",
+  "Jara",
+  "Arjuna"
+ ],
+ "locations": [
+  "the forest near Prabhasa"
+ ],
+ "themes": [
+  "the final message",
+  "compassion",
+  "the coming flood"
+ ],
+ "previous_story_id": "DKS_0530",
+ "next_story_id": "DKS_0532",
+ "next_story_tease": "The last message sent, only Krishna's own departure remained.",
+ "hero_scene": "Krishna lying at the foot of the ashvattha tree while the blazing weapons of Vishnu stand guard around him, Daruka weeping at his feet, and the Garuda-bannered chariot rising into the sky.",
+ "visual_elements": [
+  "the pipal tree at the edge of the forest",
+  "the blazing weapons of Vishnu standing guard",
+  "Daruka fallen at Krishna's feet, weeping",
+  "the chariot with the Garuda banner ascending",
+  "the hunter Jara rising, forgiven",
+  "a mood of farewell and the coming flood"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.30.38-49",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:20:09Z",
+  "source_event_id": "evt_0507"
+ },
+ "editorial_status": "unreviewed"
+}

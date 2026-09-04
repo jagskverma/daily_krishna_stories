@@ -1,0 +1,106 @@
+# STORY DKS_0404 — Shalva's Illusion of Vasudeva's Death
+
+## Index entry
+title: Shalva's Illusion of Vasudeva's Death
+summary: Shalva conjures the illusion that his men have captured and beheaded Vasudeva before Krishna's eyes; Krishna, briefly appearing grief-stricken, then sees through the sorcery.
+life_stage: dwaraka | story_arc: rajasuya_and_sisupala
+characters: Krishna, Shalva, Vasudeva
+locations: Dwaraka (battlefield)
+themes: illusion, sorcery, composure
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0218
+variant_notes: BP: Krishna briefly appears grief-stricken then sees through the sorcery; MB: Krishna swoons and drops the Sharnga bow.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 77 | verses 19-31 | confidence 5
+  excerpt: A man appears weeping and tells Krishna that Shalva has carried off his father Vasudeva like an animal, and Shalva then seems to behead Vasudeva before Krishna, taunting him to save him if he can. Krishna, adopting a human mood, appears bewildered for a moment, then perceives it to be the demon's sorcery wrought by Maya, and seeing neither messenger nor his father's body, prepares to destroy the e
+- Mahabharata (Ganguli translation) | book/canto 3 | chapter/section 21 | verses  | confidence 4
+  excerpt: And now I saw, O great monarch, Vasudeva himself falling from the car of precious metals! And, O warrior I swooned away ... Then the bow Sharanga dropped from my hand, and, O son of Kunti I swooned away! ... Then I concluded in my mind that it was certainly illusion.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.77 (19-31)
+19. ity uktvā bhagavāñ chālvaṃ gadayā bhīma-vegayā /
+20. gadāyāṃ sannivṛttāyāṃ śālvas tv antaradhīyata /
+21. kṛṣṇa kṛṣṇa mahā-bāho pitā te pitṛ-vatsala /
+22. niśamya vipriyaṃ kṛṣṇo mānusīṃ prakṛtiṃ gataḥ /
+23. kathaṃ rāmam asambhrāntaṃ jitvājeyaṃ surāsuraiḥ /
+24. iti bruvāṇe govinde saubha-rāṭ pratyupasthitaḥ /
+25. eṣa te janitā tāto yad-artham iha jīvasi /
+26. evaṃ nirbhartsya māyāvī khaḍgenānakadundubheḥ /
+27. tato muhūrtaṃ prakṛtāv upaplutaḥ sva-bodha āste sva-janānuṣaṅgataḥ /
+28. na tatra dūtaṃ na pituḥ kalevaraṃ prabuddha ājau samapaśyad acyutaḥ /
+29. evaṃ vadanti rājarṣe ṛṣayaḥ ke ca nānvitāḥ /
+30. kva śoka-mohau sneho vā bhayaṃ vā ye 'jña-sambhavāḥ /
+31. yat-pāda-sevorjitayātma-vidyayā hinvanty anādyātma-viparyaya-graham /
+
+### Mahabharata (Ganguli translation) 3.21 ()
+“Vasudeva said, ‘O thou tiger among men, my great enemy king Salwa, thus
+encountered by me in battle, again ascended the sky. And O mighty
+monarch, inspired with the desire of victory, that wicked one hurled at
+me Sataghnis, and mighty maces, and flaming lances, and stout clubs, and
+as the weapons came along the sky, I speedily resisted them with my swift
+arrows, and cut them in two or three pieces before they came at me. And
+there was a great noise in the welkins. And Salwa covered Daruka, and my
+steeds, and my car also with hundreds of straight shafts. Then, O hero,
+Daruka, evidently about to faint, said unto me, ‘Afflicted with the
+shafts of Salwa I stay in the field, because it is my duty to do so. But
+I am incapable of doing so (any longer). My body hath become weak!’
+Hearing these piteous words of my charioteer, I looked at him, and found
+the driver wounded with arrows. Nor was there a spot on his breasts or
+the crown of his head, or body or his arms which was not, O thou foremost
+of sons of Pandu, covered with shafts! And blood flowed profusely from
+his wounds inflicted by arrows, and he looked like unto a mountain of red
+chalk after a heavy shower. And, O thou of mighty arms, seeing the
+charioteer with the reins in his hands thus pierced and enfeebled by the
+shafts of Salwa in the field of battle, I cheered him up!
+
+“‘And, O Bharata, about this time, a certain person, having his home in
+Dwaraka quickly coming to my car, addressed me like a friend, delivering
+to me, O hero, a message from Ahuka! He seemed to be one of Ahuka’s
+followers. And sadly and in a voice choked in sorrow, know, O
+Yudhishthira, he said words’--O warrior, Ahuka, the lord of Dwaraka, hath
+said these words unto thee! O Kesava, hear what thy father’s friend
+sayeth: O son of the Vrishni race, O thou irrepressible one, in thy
+absence today Salwa, coming to Dwaraka, hath by main force killed
+Vasudeva! Therefore, no need of battle any more. Cease, O Janardana! Do
+thou defend Dwaraka! This is thy principal duty!--Hearing these words of
+his, my heart became heavy, and I could not ascertain what I should do
+and what I should not. And, O hero, hearing of that great misfortune, I
+mentally censured Satyaki, and Baladeva, and also that mighty pradyumna.
+Having reposed on them the duty of protecting Dwaraka and Vasudeva, I had
+gone, O son of the Kuru race, to effect the destruction of Salwa’s city.
+And in a sorrowful heart, I asked myself,--Doth that destroyer of foes,
+the mighty-armed Baladeva, live, and Satyaki, and the son of Rukmini and
+Charudeshna possessed of prowess, and Shamva and others? For, O thou
+tiger among men, these living, even the bearer himself of the thunderbolt
+could by no means destroy Suta’s son (Vasudeva)! And thought, I, It is
+plain that Vasudeva is dead and equally plain that the others with
+Baladeva at their head have been deprived of life--This was my certain
+conclusion. And, O mighty king, thinking of the destruction of those all,
+I was overwhelmed with grief! And it was in this state of mind that I
+encountered Salwa afresh. And now I saw, O great monarch, Vasudeva
+himself falling from the car of precious metals! And, O warrior I swooned
+away, and, O king of men, my sire seemed like unto Yayati after the loss
+of his merit, falling towards the earth from heaven! And like unto a
+luminary whose merit hath been lost saw my father falling, his head-gear
+foul and flowing loosely, and his hair and dress disordered. And then the
+bow Sharanga dropped from my hand, and, O son of Kunti I swooned away! I
+sat down on the side of the car. And, O thou descendant of the Bharata
+race, seeing me deprived of consciousness on the car, and as if dead, my
+entire host exclaimed Oh! and Alas! And my prone father with
+out-stretched arms and lower limbs, appeared like a dropping bird. And
+him thus falling, O thou of mighty arms, O hero, the hostile warriors
+bearing in their hands lances and axes struck grievously! And (beholding
+this) my heart trembled! and soon regaining my consciousness, O warrior,
+I could not see in that mighty contest either the car of costly metals,
+or the enemy Salwa, or my old father! Then I concluded in my mind that it
+was certainly illusion. And recovering my senses, I again began to
+discharge arrows by hundreds.”
+
+## Corpus chain
+previous_story_id: DKS_0403 | next_story_id: DKS_0405
+previous title: Krishna Returns to the Battle || Returning from Indraprastha and seeing evil omens, Krishna hurries to Dwaraka, orders his chariot against Shalva, and joins the fight, shattering Shalva's weapons.
+next title: Krishna Destroys the Flying City Saubha and Slays Shalva

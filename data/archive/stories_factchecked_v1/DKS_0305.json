@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0305",
+ "title": "The Nooses Given by Shiva",
+ "subtitle": "Pradyumna binds the kings who sided with the Asuras and holds them in the illusory cave.",
+ "story": "There was a cave beneath Shatpura that no map of the city showed — and by the middle of that day, half the Yadava army had been swallowed into it.\n\nThe kings who had come to witness Brahmadatta's sacrifice had stayed to fight one. Narada's whispers had done their work among the camps; when the sun rose, the kings who had sided with the Asuras were arrayed against the Yadavas, and the sacrificial ground looked like a battlefield.\n\nAt dawn Baladeva, Krishna and Satyaki mounted Garuda. They bathed in the sacred river Avarta, made holy by a boon of Rudra, put on their coats of mail and finger-guards, and worshipped Shiva, the lord of the bel leaf and the waters. Pradyumna was placed in front of the army; the Pandavas stood in charge of the sacrifice; soldiers watched the mouth of the cave. Krishna thought of Jayanta and Pravara, and they arrived the instant they were remembered, and were posted above with Pradyumna.\n\nThe war-instruments sounded — conches and drums and battle-bugles. Samba and Gada drew up the soldiers in the shape of a makara, the great sea-creature; Uddhava, Kritavarma, Charudeshna, Sanatkumar and the rest guarded Aniruddha and protected the rear. And out of Shatpura came the Danavas, dreadful in battle, roaring like gathering clouds — riding on asses and elephants, on crocodiles and hares, on horses, buffaloes, lions and tortoises, their chariots drawn by such beasts as these. Nikumbha came at their head, as the lord of gods issues out at the head of the celestial host, the earth and sky filled with his shouts and leonine roars.\n\nBehind them came the kings. The hundred brothers of the Chedi king Shishupala, led by Duryodhana, stood with their chariots, wheeling and rattling like the city of the Gandharvas. Rukmi and Ahvati joined them, readying their great bows. Bhagadatta, Shalya, Shakuni, Jarasandha, Trigarta, Virata and Uttara made ready for the encounter, to fight the Yadavas and win victory.\n\nNikumbha struck first, pouring arrows like serpents into the Yadava ranks. Anadhristhi, the commander-in-chief of the Yadu army, could not bear it; he answered shaft for shaft with arrows adorned with variegated feathers and whetted on stone, slaying the enemy's soldiers until the demon himself — his chariot, his standard, his horses — disappeared under the hail. Then Nikumbha, foremost of those skilled in illusion, worked his magic: he bewildered Anadhristhi, carried him off to the cave named Shatpura, and imprisoned him there. He came back invisible to every eye, and one by one took Kritavarma, Charudeshna, Vaitarana of the Bhoja race, Sanatkumar, Arksha the son of Jambavati, Nishatha, Ulmuka and many more Yadavas, dragging them all into that dreadful cave.\n\nThe fury of the Yadavas was terrible to behold. Krishna set his Sharanga bow and moved among the Danavas as the god of fire ranges over dry grass. The demons hurled their weapons by the thousand — iron missiles and iron clubs, fiery lances and burning axes, great rocks and boulders, and whole elephants, chariots and horses thrown up and flung at him. The Narayana fire consumed them all, and Krishna, smiling, baffled the demons with the fire of his arrows, bearing their onslaught as a bull bears the autumn rain.\n\nAnd then, at Nandi's command, bearing the nooses given by Hara — by Shiva himself — Pradyumna moved among the kings who had sided with the Asuras. He bound Bhagadatta, and Shishupala, and Rukmi, and Ahvati, and the other kings who had come to fight the Yadavas, with those divine nooses, and took them all to the illusory cave. The cave that had swallowed the Yadava captains now held the bribed kings — bound fast, kept where the demons' own magic would hold them.",
+ "reflection": "The cave is the story's slyest image: first the demons' prison for Yadava heroes, then — by the same magic — the prison for the kings who chose the Asuras' side. And it is Shiva's nooses, not Krishna's arrows, that settle the day: capture where slaughter might have been, and a binding more complete than any wound.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Krishna",
+  "Nandi",
+  "Shiva",
+  "Nikumbha",
+  "Shishupala",
+  "Rukmi",
+  "Bhagadatta"
+ ],
+ "locations": [
+  "Shatpura",
+  "illusory cave"
+ ],
+ "themes": [
+  "binding",
+  "divine command",
+  "capture"
+ ],
+ "previous_story_id": "DKS_0304",
+ "next_story_id": "DKS_0306",
+ "next_story_tease": "But Nikumbha had not surrendered the day — and the next time the cave opened, he came out swinging his thorned club.",
+ "hero_scene": "At the mouth of the illusory cave beneath Shatpura, Pradyumna — bearing the shining nooses given by Shiva — binds the allied kings Shishupala, Bhagadatta and Rukmi, while the battle between the Yadavas and the Danavas rages behind him.",
+ "visual_elements": [
+  "Pradyumna binding the allied kings with Shiva's nooses",
+  "the illusory cave's mouth beneath Shatpura",
+  "Nikumbha leading the Danava host on strange beasts",
+  "Krishna moving through the demons with his Sharanga bow like fire",
+  "the Yadava army in makara formation",
+  "binding and capture"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.231",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:03Z",
+  "source_event_id": "evt_0311"
+ },
+ "editorial_status": "unreviewed"
+}

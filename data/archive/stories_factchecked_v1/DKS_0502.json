@@ -1,0 +1,49 @@
+{
+ "id": "DKS_0502",
+ "title": "Krishna Sends Uddhava to Vrindavan",
+ "subtitle": null,
+ "story": "In the palace at Mathura there were kings and counselors, kinsmen and crowds — but when Krishna wanted comfort carried to the people of his boyhood, he did not look to any of them. He looked to Uddhava, his beloved devotee, his friend whose heart was fixed on him alone.\n\nUddhava held no office and no rank. What he had was rarer: he had been at Krishna's side through the long years in Mathura, and he had seen how the young hero of the city grew quiet whenever the talk turned to Vrindavan — how a single mention of the village could stop him mid-sentence. Krishna's heart was still there, among the cowherds who had raised him and the women who had loved him, and Uddhava knew it.\n\nOne day Krishna called Uddhava to him and gave him a journey. Go to Vraja, he said. Bring joy to my parents. Nanda and Yashoda had raised him in the village of his childhood; the summons of Kamsa's court had carried him away to Mathura, and the years since had been long for the people who still loved him there. But it was not only his parents that Krishna spoke of.\n\nThe women of Gokula, he told Uddhava, had their minds fixed on him; their very lives were given up for his sake; for his sake they had abandoned everything — comfort, standing, even their own bodies. To them he was the dearest of all dear ones, and he was far away. They were keeping themselves alive, he said, with great difficulty, somehow, only just.\n\nUddhava understood what was being asked of him. Krishna was not sending a herald to deliver orders, or a prince to settle accounts. He was sending his own affection into the village that still sang his name — and he was sending Uddhava of all people, because Uddhava could speak of him most truly. The women who had given up everything for Krishna were pining, and Krishna, who could have sent anyone, was sending the one friend who would say the words the way they needed to be said.\n\nUddhava accepted the charge. He would go to Vrindavan, he promised, and he would tell Nanda and Yashoda of their son, and he would carry Krishna's love to the women of Gokula, and he would not rest until he had done all that could be done to console them.\n\nSo he made ready to leave Mathura, carrying the strangest of royal messages: that Krishna, far away, remembered — remembered their songs and their meadows and their faces — and had sent the dearest of his friends to say so. He carried no army and no gifts, only words that would have to be worth the years of waiting. The road to Vrindavan lay open before him, and he set out.",
+ "reflection": "The message Krishna entrusts to Uddhava is not doctrine but a description of love — minds fixed on him, lives given up for his sake. In sending his dearest friend to console Vrindavan, Krishna sends a part of himself, and comfort travels in both directions.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "Krishna",
+  "Uddhava"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "mission",
+  "message"
+ ],
+ "previous_story_id": "DKS_0501",
+ "next_story_id": "DKS_0503",
+ "next_story_tease": "He reached Vrindavan as the sun went down, to a welcome he had not expected.",
+ "hero_scene": "In Mathura, Krishna sends his dearest devotee Uddhava on his way toward Vrindavan, one hand raised in farewell, while Uddhava turns toward the road that leads to the village of Krishna's childhood.",
+ "visual_elements": [
+  "the palace at Mathura",
+  "Krishna speaking with Uddhava, hand raised in farewell",
+  "Uddhava with a traveler's bundle, turning toward the road",
+  "the distant road toward Vrindavan",
+  "the unseen village of Krishna's childhood beyond the horizon"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.46.1-6",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:13Z",
+  "source_event_id": "evt_0155"
+ },
+ "editorial_status": "unreviewed"
+}

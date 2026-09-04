@@ -1,0 +1,41 @@
+# STORY DKS_0403 — Krishna Returns to the Battle || Returning from Indraprastha and seeing evil omens, Krishna hurries to Dwaraka, orders his chariot against Shalva, and joins the fight, shattering Shalva's weapons.
+
+## Index entry
+title: Krishna Returns to the Battle || Returning from Indraprastha and seeing evil omens, Krishna hurries to Dwaraka, orders his chariot against Shalva, and joins the fight, shattering Shalva's weapons.
+summary: Returning from Indraprastha and seeing evil omens, Krishna hurries to Dwaraka, orders his chariot against Shalva, and joins the fight, shattering Shalva's weapons.
+life_stage: dwaraka | story_arc: rajasuya_and_sisupala
+characters: Krishna, Shalva, Daruka
+locations: Dwaraka, the sky
+themes: urgency, leadership, combat
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0270
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 77 | verses 5-18 | confidence 5
+  excerpt: Krishna, summoned to Indraprastha for the Rajasuya, returns to Dwaraka perceiving dire omens, and realizing the Chaidya's allies have attacked his city, orders Daruka to drive his chariot against Shalva. Shalva hurls a blazing spear at Krishna's charioteer, which Krishna cuts to a hundred pieces with his arrows, and he pierces Shalva with sixteen shafts. (rendered from Sanskrit, verse 5-18)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.77 (5-18)
+5. indraprasthaṃ gataḥ kṛṣṇa āhūto dharma-sūnunā /
+6. kuru-vṛddhān anujñāpya munīṃś ca sa-sutāṃ pṛthām /
+7. āha cāham ihāyāta ārya-miśrābhisaṅgataḥ /
+8. vīkṣya tat kadanaṃ svānāṃ nirūpya pura-rakṣaṇam /
+9. rathaṃ prāpaya me sūta śālvasyāntikam āśu vai /
+10. ity uktaś codayām āsa ratham āsthāya dārukaḥ /
+11. śālvaś ca kṛṣṇam ālokya hata-prāya-baleśvaraḥ /
+12. tām āpatantīṃ nabhasi maholkām iva raṃhasā /
+13. taṃ ca ṣoḍaśabhir viddhvā bānaiḥ saubhaṃ ca khe bhramat /
+14. śālvaḥ śaures tu doḥ savyaṃ sa-śārṅgaṃ śārṅga-dhanvanaḥ /
+15. hāhā-kāro mahān āsīd bhūtānāṃ tatra paśyatām /
+16. yat tvayā mūḍha naḥ sakhyur bhrātur bhāryā hṛtekṣatām /
+17. taṃ tvādya niśitair bāṇair aparājita-māninam /
+18. bhp_10.77.019/0 śrī-bhagavān uvāca
+
+## Corpus chain
+previous_story_id: DKS_0402 | next_story_id: DKS_0404
+previous title: Shalva Besieges Dwaraka || Shalva arrives at Dwaraka in the indestructible flying city Saubha and rains weapons, rocks and serpents upon the city, terrifying its people.
+next title: Shalva's Illusion of Vasudeva's Death

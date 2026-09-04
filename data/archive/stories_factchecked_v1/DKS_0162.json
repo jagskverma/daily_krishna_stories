@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0162",
+ "title": "The Serpent-Jar Stratagem Against Kalayavana",
+ "subtitle": null,
+ "story": "They saw the host before they understood what it was — a swarm of kings and barbarians covering the plain like locusts, and behind it a river that had never flowed before, born of the urine and dung of its horses and camels, which men afterward called Aswasakrit.\n\nThe story of its leader was known now across the land. The sage Gargya, dishonored by his own brother-in-law before the king, had given up his wife in anger and engaged in hard penances for a son; living on pounded iron for twelve years he worshipped Mahadeva, and Rudra conferred on him a boon — an all-powerful son who would be able to discomfit in battle the descendants of the Vrishni and Andhaka races. The childless king of the Yavanas heard of the boon, brought Gargya into his own kingdom, and consoled him; and by an Apsara in the guise of a milk-woman, Gopali by name, Gargya begot the highly powerful hero Kalayavana, who was brought up in the king's inner apartment like his own son and, after the old king's demise, became king. When he grew exceedingly powerful, the Shaka, the Tukhara, the Darava, the Parava, the Tangana, the Khasha, the Panhava, and hundreds of Mlechcha kings living near Himavan took shelter under him. Encircled by those Dasyu kings, assuming various dresses and holding various weapons, the king of the Yavanas set out for Mathura. He agitated the surface of the earth with innumerable horses, elephants, asses, camels and a huge army; the path of the sun was covered with the dust raised by his soldiers; and the river that followed him took its name from the beasts that made it.\n\nKrishna had taken no notice of Kalayavana while he grew up in the midst of the Yavanas, for he had heard from Narada the story of his obtaining the boon. But now, hearing of the approach of this huge army, the leader of the Vrishnis and Andhakas addressed his kinsmen. \"Great is the calamity that has befallen the descendants of the Vrishni and Andhaka races,\" he said. \"This enemy is unslayable by us, on account of the boon conferred on him by the holder of the trident. I employed all other means — conciliation and the rest — to win him over. But he wishes for battle, worked up with pride. 'I am to live here,' Narada said to me; and I tell you the same. The emperor Jarasandha is not forgiving towards us, and the other kings, assailed by the Vrishni discus and on account of the destruction of Kamsa, have been displeased with us and sought refuge with the Magadha king. Under his protection they want to obstruct us, and many kinsmen of the Yadavas have been slain by them. What more shall I say? We will never acquire prosperity if we live in this city.\"\n\nSaying this, and desirous of retreating, Keshava sent an envoy to the king of the Yavanas. To terrorize him, the highly intelligent Madhava put a highly dreadful black serpent — resembling a collection of collyrium — into a jar and sealed it up, and sent it to the king of the Yavanas through his own emissary. \"Krishna is like a deadly serpent,\" the emissary said, and showed the jar to Kalayavana.\n\nThe king of the Yavanas looked at the sealed jar and understood at once what the Yadavas meant to say. Without a word, he had the jar filled with dreadful ants. The black serpent, eaten by the innumerable ants having sharp beaks, was reduced to ashes; and the jar, sealed anew, went back the way it had come.\n\nSo the warning returned to Mathura devoured — a serpent turned to ashes, and a king of the Yavanas who could not be frightened. Whatever answer Krishna meant to send next would have to be stronger than fear.",
+ "reflection": "The exchange of sealed jars is a conversation without words, each side answering a threat with a sharper one. Krishna's warning is devoured before it is even delivered — a reminder that a terror meant for the proud may only harden them.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Kalayavana",
+  "Gargya",
+  "Narada"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "stratagem",
+  "counter-stratagem",
+  "omens"
+ ],
+ "previous_story_id": "DKS_0161",
+ "next_story_id": "DKS_0163",
+ "next_story_tease": "But the exchange of warnings was not over; Jarasandha's mace was already hurtling toward Mathura.",
+ "hero_scene": "The emissary unsealing the jar before Kalayavana's court to reveal the black serpent coiled within, like a stroke of collyrium, while the king of the Yavanas watches unafraid.",
+ "visual_elements": [
+  "the sealed jar",
+  "the black serpent coiled within like collyrium",
+  "the emissary of the Yadavas",
+  "Kalayavana watching unafraid",
+  "his court gathered around",
+  "a threat being answered"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.114",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0191"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0423",
+ "title": "Krishna Refuses Duryodhana's Feast",
+ "subtitle": null,
+ "story": "With Pritha's leave, and having walked around her in farewell, Krishna went to the palace of Duryodhana. It was furnished with great wealth and adorned with beautiful seats, like unto the abode of Indra himself; unhindered by the orderlies-in-waiting, Krishna crossed three spacious yards and entered the mansion, which looked like a mass of clouds, high as the summit of a hill and blazing forth in splendour. There, in the midst of a thousand kings and surrounded by all the Kurus, sat Dhritarashtra's son of mighty arms on his throne, with Dussasana and Karna and Sakuni, the son of Suvala, on their seats beside him.\n\nAt Krishna's entry, Duryodhana rose from his seat with his counsellors to honour him. Krishna greeted the sons of Dhritarashtra, and all his counsellors, and every king present, according to their respective ages, and took his seat on a beautiful throne of gold overlaid with a carpet embroidered with gold. The Kuru king offered him a cow, and honey and curds and water, and placed at his service palaces and mansions and the whole kingdom. The Kauravas, with all the kings there present, worshipped him as he sat there, resembling the sun itself in splendour.\n\nThen, the worship being over, king Duryodhana invited Krishna to eat at his house. Krishna did not accept the invitation.\n\nThe king pressed him, in a gentle voice with deception lurking behind his words, eyeing Karna as he spoke. Why did Janardana not accept the diverse kinds of viands and drinks, the robes and beds, all prepared and kept ready for him? He had granted aid to both sides; he was engaged in the good of both parties; he was the foremost of Dhritarashtra's relations and much loved by him. I desire to hear, Duryodhana said, what the true reason is of this refusal.\n\nKrishna raised his mighty right arm, and in a voice deep as that of the clouds replied, in words clear and distinct and without a single letter dropped: envoys, O king, eat and accept worship only after the success of their missions. Therefore, O Bharata, after his mission became successful, Duryodhana might entertain him and his attendants.\n\nIt behooved him not, the king answered, to behave towards them in this way; whether he became successful or unsuccessful, they were endeavouring to please him because of his relationship with them. With Krishna they had no hostility, no war; on reflection, words such as these scarcely became him.\n\nBut Krishna had not finished. Not from desire, nor from wrath, nor from malice, nor for gain, nor for the sake of argument, nor from temptation, would he abandon virtue. One takes another's food when one is in distress; at present Duryodhana had not inspired love in him by any act, nor had Krishna himself been plunged into distress. Without any reason, O king, he said, you hate, from the moment of their birth, your dear and gentle brothers, the Pandavas, endued with every virtue. This unreasonable hatred of yours for the sons of Pritha ill becomes you. The sons of Pandu are devoted to virtue; who, indeed, can do them the least injury? He who hates them hates me; he who loves them loves me. Know that the virtuous Pandavas and my own self have but a common soul. And the food of that house, defiled by wickedness, did not deserve to be eaten by him; the food supplied by Vidura alone, he said, should be eaten by him.\n\nIn a palace furnished for a thousand kings, Krishna had chosen the table of a minister's house. The refusal was not discourtesy; it was a line drawn. A guest may eat where he is welcomed, but a friend of the Pandavas could not sit down at the table of the man who had spent his life hating them.",
+ "reflection": "Krishna's refusal of Duryodhana's food is not a diplomatic slight but a statement of identity: he and the Pandavas, he says, have but a common soul, and one does not eat at the table of a man who hates one's own self. It is also a quiet correction of Duryodhana's arithmetic, which counts feasts and favours where Krishna counts only love and virtue.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Karna",
+  "Vidura"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "integrity",
+  "refusal",
+  "hospitality"
+ ],
+ "previous_story_id": "DKS_0422",
+ "next_story_id": "DKS_0424",
+ "next_story_tease": "That night, at the table Krishna had chosen, Vidura would tell him the truth about the court he had come to save.",
+ "hero_scene": "In Duryodhana's jewel-bright court before a thousand kings, Krishna raises his mighty right arm and refuses the feast, while Duryodhana watches with Karna and Sakuni at his side and the assembled kings look on.",
+ "visual_elements": [
+  "Duryodhana's cloud-high palace blazing with wealth",
+  "Duryodhana on his throne amid a thousand kings, Karna and Sakuni beside him",
+  "Krishna seated on the golden throne with its embroidered carpet",
+  "Krishna raising his right arm as he refuses the invitation",
+  "Duryodhana's eyes on Karna as he presses the invitation"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.91",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0430"
+ },
+ "editorial_status": "unreviewed"
+}

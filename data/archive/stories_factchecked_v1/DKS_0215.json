@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0215",
+ "title": "Krishna Returns the Jewel and Clears His Name",
+ "subtitle": null,
+ "story": "Dwaraka had given Krishna up for dead. He had walked into the bear king's den and not come out, and the days had passed, and the city had begun to mourn. Devaki and Rukmini wept for him; and the people of Dwaraka, in their grief, turned on Satrajit — it was his refusal, they said, that had sent Krishna into the forest after the jewel, and his pride that had cost the city its prince. From every quarter, citizens cursed the man who had once been the envy of them all, and the curses followed him through the streets he had once walked in triumph.\n\nThen Krishna came home, as if risen from the dead. He emerged from the forest with the Syamantaka restored and a bride at his side — Jambavati, the daughter of the bear king who had kept the jewel. The city that had mourned him filled the streets to see him return, and the talk that had cursed Satrajit fell quiet, waiting to see what Krishna would do.\n\nWhat he did was summon an assembly. In the presence of the king, before all of Dwaraka, Krishna told the whole story in order: how Prasena had fallen to the lion, how the lion had fallen to the bear, how the jewel had gone into the bear king's den and been given to his cub as a plaything, and how Krishna had entered the den and wrestled Jambavan day after day in the dark, until the bear king yielded both the jewel and his daughter in marriage. He held nothing back, and he asked nothing for himself.\n\nThen he took the Syamantaka and placed it before Satrajit, and gave the jewel back to its owner — the very stone he had asked for once and been refused, now returned without a word of reproach.\n\nThe assembly went silent. Every whisper that had followed Krishna — that he had killed Prasena, that the jewel had been his true motive, that a man who wanted a thing that much could not be trusted — had been answered, not with denials but with the jewel itself, carried back across the mountains and laid at the feet of the very man who had refused him. Satrajit took the Syamantaka with his face bowed, deeply ashamed. He had suspected Krishna, had denied him, and now Krishna had returned the jewel to him freely, before the whole city.\n\nShame turned to resolution. Satrajit thought of the enmity his refusal had caused, of the curses the city had heaped on his name, of his brother dead in the forest, and of what he could do that would ever undo it. He could not give back the dead, and he could not silence the talk with words. But he could give everything he had left. He offered Krishna his daughter — Satyabhama, a jewel among women — and with her, the Syamantaka itself, both together as reparation.\n\nKrishna accepted Satyabhama and married her according to the rites, before the same assembly that had watched his name be cleared. But the jewel he refused. \"We do not accept the jewel, O king,\" he said. He had not crossed mountains and wrestled a bear king to own the Syamantaka; he had gone to clear his name, and his name was clear. The jewel had come from the sun, and it belonged with the man the sun had chosen to hold it.\n\nSo Satrajit stood in the assembly with the jewel in his hands and his daughter married to the man he had wronged — richer in kinship than he had ever been in gold, and, for the first time in months, at peace.",
+ "reflection": "Krishna accepts the bride but refuses the jewel — the very prize he had once asked for. By the end, possession has ceased to matter: the Syamantaka's only value was the truth it could prove, and once the truth was out, the jewel could go home. Satrajit's gift is an apology in the only coin he had left.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Krishna",
+  "Satrajit",
+  "Satyabhama",
+  "Jambavati"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "vindication",
+  "honesty",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0214",
+ "next_story_id": "DKS_0216",
+ "next_story_tease": "But there were men in Dwaraka who still wanted the Syamantaka — and one of them had already begun to plan.",
+ "hero_scene": "Krishna, in the open assembly of Dwaraka, placing the Syamantaka back into the hands of the head-bowed Satrajit while the gathered city watches and Satyabhama stands at Krishna's side.",
+ "visual_elements": [
+  "the open assembly of Dwaraka",
+  "the Syamantaka jewel in Krishna's hand",
+  "Satrajit taking the jewel with bowed head",
+  "Satyabhama standing with Krishna",
+  "the returned bride Jambavati",
+  "relief and vindication in the crowd"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.56.32-44",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:15Z",
+  "source_event_id": "evt_0204"
+ },
+ "editorial_status": "unreviewed"
+}

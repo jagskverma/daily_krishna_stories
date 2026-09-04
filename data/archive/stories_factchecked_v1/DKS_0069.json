@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0069",
+ "title": "The Thief in the Game",
+ "subtitle": null,
+ "story": "The boys of Vrindavan were playing a game, and one of them was not a boy.\n\nIt was a game they loved: some of the boys would be the keepers of the calves, and some would be thieves, and they would steal and be caught and steal again, all through the long afternoon on the slopes of the hill where the herd grazed. It was a game that only pretended to danger, a game that began in laughter and usually ended in a tangle of dust and shouting. And into it, dressed as a cowherd boy, slipped something that did not pretend.\n\nHe was Vyoma, the son of Maya, a demon and a master of deception. He had taken the shape of one of the boys, and no one looked at him twice. One by one he began to lead the children away — the way a thief in their game would lead off a keeper he had caught — except that the boys he took did not come back. He came and went among them as one of them, and when he drew a boy toward the mountain, the boy went with him, because it looked like nothing so much as the game they were all already playing. Again and again he carried one off to a cave in the mountain and sealed him inside it, and the children he had stolen lay hidden in the dark, many of them, while the game went on around the empty places where they had been. One would be there a moment before, and then not there at all, and the laughter would go on as if nothing had changed.\n\nKrishna saw what was happening. The verses call him the giver of refuge to the good, and this is what that meant: he understood at once what the demon was doing, and he did not let the game go on a moment longer.\n\nThen Krishna left off the shape and size of a boy. He stood in his own form, the verses say, vast and strong as a king among mountains, and he turned on the deceiver. He seized Vyoma with both hands, threw him down upon the earth, and ended him.\n\nAnd then, without pausing, Krishna went to the mouth of the mountain cave, broke through the covering that sealed it, and brought the boys out, one after another, from the darkness and the fear they had been shut into, and stood them blinking in the daylight again.\n\nThe game was over. The boys who had been stolen came out into the light and were counted one by one, and the thief who had hidden among them lay still, and the mountain gave back everyone it had taken.",
+ "reflection": "The most striking thing is where the demon chose to hide: not at the edge of the village but inside the boys' own game, wearing a friend's face. The story does not dwell on the violence; it hurries past it to the cave and the bringing of the children out, as if the rescue, not the slaying, is the point.",
+ "tradition_note": null,
+ "content_note": "A demon disguised as a cowherd boy carries children off into a cave; the danger is real but ends in their rescue, and the slaying is brief.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Vyoma",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "rescue",
+  "demon-slaying"
+ ],
+ "previous_story_id": "DKS_0068",
+ "next_story_id": "DKS_0070",
+ "next_story_tease": "But the cowherds' greatest fear still waited, coiled in the waters of the Yamuna.",
+ "hero_scene": "Krishna standing huge as a mountain before the cave, breaking open its sealed mouth as the stolen cowherd boys come out into the light, the disguised demon cast down behind him.",
+ "visual_elements": [
+  "Krishna in vast form",
+  "cowherd boys",
+  "mountain cave",
+  "demon Vyoma in cowherd disguise",
+  "game of thieves and keepers",
+  "hillside pasture",
+  "sealed cave opening",
+  "rescue and relief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.37.24-32",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:07:44Z",
+  "source_event_id": "evt_0121"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

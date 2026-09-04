@@ -1,0 +1,50 @@
+# STORY DKS_0511 — Pingala the Courtesan's Renunciation
+
+## Index entry
+title: Pingala the Courtesan's Renunciation
+summary: The courtesan Pingala, waiting through the night for a client who never comes, is seized with disgust at her own longing, renounces it, and sleeps in peace, teaching that hope is the worst of pains and despair the highest joy.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: Pingala, the avadhuta
+locations: the city of Videha
+themes: renunciation, hope, disillusionment, peace
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0531
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 8 | verses 21-43 | confidence 5
+  excerpt: Pingala said: 'Look at the extent of my delusion! I sought a lover for gain, when the giver of all joy is ever near. What I sought so wretchedly, let me give up.' Cutting off her hope of a lover, Pingala sat down and slept in peace: 'Hope is the greatest of pains; freedom from hope is the greatest of joys.' (rendered from Sanskrit, verses 30, 42-43)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.8 (21-43)
+21. piṅgalā nāma veśyāsīd videha-nagare purā /
+22. sā svairiṇy ekadā kāntaṃ saṅketa upaneṣyatī /
+23. mārga āgacchato vīkṣya puruṣān puruṣarṣabha /
+24. āgateṣv apayāteṣu sā saṅketopajīvinī /
+25. evaṃ durāśayā dhvasta- nidrā dvāry avalambatī /
+26. tasyā vittāśayā śuṣyad- vaktrāyā dīna-cetasaḥ /
+27. tasyā nirviṇṇa-cittāyā gītaṃ śṛṇu yathā mama /
+28. na hy aṅgājāta-nirvedo deha-bandhaṃ jihāsati /
+29. bhp_11.08.030/0 piṅgalovāca
+30. santaṃ samīpe ramaṇaṃ rati-pradaṃ vitta-pradaṃ nityam imaṃ vihāya /
+31. aho mayātmā paritāpito vṛthā sāṅketya-vṛttyāti-vigarhya-vārtayā /
+32. yad asthibhir nirmita-vaṃśa-vaṃsya- $ sthūṇaṃ tvacā roma-nakhaiḥ pinaddham &amp;kṣaran-nava-dvāram agāram etad % viṇ-mūtra-pūrṇaṃ mad upaiti kānyā
+33. videhānāṃ pure hy asminn aham ekaiva mūḍha-dhīḥ /
+34. suhṛt preṣṭhatamo nātha ātmā cāyaṃ śarīriṇām /
+35. kiyat priyaṃ te vyabhajan kāmā ye kāma-dā narāḥ /
+36. nūnaṃ me bhagavān prīto viṣṇuḥ kenāpi karmaṇā /
+37. maivaṃ syur manda-bhāgyāyāḥ kleśā nirveda-hetavaḥ /
+38. tenopakṛtam ādāya śirasā grāmya-saṅgatāḥ /
+39. santuṣṭā śraddadhaty etad yathā-lābhena jīvatī /
+40. saṃsāra-kūpe patitaṃ viṣayair muṣitekṣaṇam /
+41. ātmaiva hy ātmano goptā nirvidyeta yadākhilāt /
+42. bhp_11.08.043/0 śrī-brāhmaṇa uvāca
+43. āśā hi paramaṃ duḥkhaṃ nairāśyaṃ paramaṃ sukham /
+
+## Pilot chain
+previous_story_id: DKS_0507 | next_story_id: DKS_0523
+previous title: The Pigeon and the Hunter's Net
+next title: The Yadava Fratricide at Prabhasa

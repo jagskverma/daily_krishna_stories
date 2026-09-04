@@ -1,0 +1,40 @@
+# STORY DKS_0046 — Aghasura Becomes a Giant Python
+
+## Index entry
+title: Aghasura Becomes a Giant Python
+summary: Aghasura, brother of Putana and Bakasura, takes the form of a vast python and lies with open mouth across the path of the boys.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Aghasura, Krishna, cowherd boys
+locations: Vrindavan
+themes: deception, danger
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0058
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 12 | verses 12-24 | confidence 5
+  excerpt: The demon Aghasura, eager to avenge his kin, stretches his body into a gigantic python and lies across the path with gaping jaws, which the boys mistake for a mountain cave. (rendered from Sanskrit, verse 12-24)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.12 (12-24)
+12. athāgha-nāmābhyapatan mahāsuras teṣāṃ sukha-krīḍana-vīkṣaṇākṣamaḥ /
+13. dṛṣṭvārbhakān kṛṣṇa-mukhān aghāsuraḥ $ kaṃsānuśiṣṭaḥ sa bakī-bakānujaḥ &amp;ayaṃ tu me sodara-nāśa-kṛt tayor % dvayor mamainaṃ sa-balaṃ haniṣye
+14. ete yadā mat-suhṛdos tilāpaḥ kṛtās tadā naṣṭa-samā vrajaukasaḥ /
+15. iti vyavasyājagaraṃ bṛhad vapuḥ sa yojanāyāma-mahādri-pīvaram /
+16. dharādharoṣṭho jaladottaroṣṭho dary-ānanānto giri-śṛṅga-daṃṣṭraḥ /
+17. dṛṣṭvā taṃ tādṛśaṃ sarve matvā vṛndāvana-śriyam /
+18. aho mitrāṇi gadata sattva-kūṭaṃ puraḥ sthitam /
+19. satyam arka-karāraktam uttarā-hanuvad ghanam /
+20. pratispardhete sṛkkabhyāṃ savyāsavye nagodare /
+21. āstṛtāyāma-mārgo 'yaṃ rasanāṃ pratigarjati /
+22. dāvoṣṇa-khara-vāto 'yaṃ śvāsavad bhāti paśyata /
+23. asmān kim atra grasitā niviṣṭān ayaṃ tathā ced bakavad vinaṅkṣyati /
+24. itthaṃ mitho 'tathyam ataj-jña-bhāṣitaṃ $ śrutvā vicintyety amṛṣā mṛṣāyate &amp;rakṣo viditvākhila-bhūta-hṛt-sthitaḥ % svānāṃ niroddhuṃ bhagavān mano dadhe
+
+## Corpus chain
+previous_story_id: DKS_0045 | next_story_id: DKS_0047
+previous title: Krishna Slays the Crane-Demon Bakasura
+next title: Krishna Kills Aghasura and Revives His Friends

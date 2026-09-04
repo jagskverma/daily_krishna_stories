@@ -1,0 +1,54 @@
+# STORY DKS_0067 — Krishna Slays the Bull-Demon Arishta
+
+## Index entry
+title: Krishna Slays the Bull-Demon Arishta
+summary: The bull-demon Arishta terrorizes Vrindavan until Krishna seizes and slays him.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Arishta
+locations: Vrindavan
+themes: demon-slaying, protection
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0119
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 36 | verses 1-14 | confidence 5
+  excerpt: The bull-demon Arishta, terrifying the cowherds and cattle, charged at Krishna, who seized him by the horns, flung him aside, threw him down and slew him; and the gods praised Krishna with showers of flowers. (rendered from Sanskrit, verses 1-14)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 14 | verses  | confidence 4
+  excerpt: he seized him as an alligator would have done, and held him firmly by the horns, whilst he pressed his sides with his knees... and then tearing off one of the horns, he beat the fierce demon with it until he died.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.36 (1-14)
+1. rambhamāṇaḥ kharataraṃ padā ca vilikhan mahīm /
+2. yasya nirhrāditenāṅga niṣṭhureṇa gavāṃ nṛṇām /
+3. nirviśanti ghanā yasya kakudy acala-śaṅkayā /
+4. paśavo dudruvur bhītā rājan santyajya go-kulam /
+5. bhagavān api tad vīkṣya go-kulaṃ bhaya-vidrutam /
+6. gopālaiḥ paśubhir manda trāsitaiḥ kim asattama /
+7. ity āsphotyācyuto 'riṣṭaṃ tala-śabdena kopayan /
+8. so 'py evaṃ kopito 'riṣṭaḥ khureṇāvanim ullikhan /
+9. agra-nyasta-viṣāṇāgraḥ stabdhāsṛg-locano 'cyutam /
+10. gṛhītvā śṛṅgayos taṃ vā aṣṭādaśa padāni saḥ /
+11. so 'paviddho bhagavatā punar utthāya satvaram /
+12. tam āpatantaṃ sa nigṛhya śṛṅgayoḥ padā samākramya nipātya bhū-tale /
+13. asṛg vaman mūtra-śakṛt samutsṛjan kṣipaṃś ca pādān anavasthitekṣaṇaḥ /
+14. evaṃ kukudminaṃ hatvā stūyamānaḥ dvijātibhiḥ /
+
+### Vishnu Purana (Wilson 1840) 5.14 ()
+Krishńa kills the demon Arisht́a, in the form of a bull.
+
+ONE evening, whilst Krishńa and the Gopís were amusing themselves in the dance, the demon Arisht́a, disguised as a savage bull, came to the spot, after having spread alarm through the station. His colour was that of a cloud charged with rain; he had vast horns, and his eyes were like two fiery suns: as he moved, he ploughed up the ground with his hoofs: his tongue was repeatedly licking his lips; his tail was erect; the sinews of his shoulders were firm, and between them rose a hump of enormous dimensions; his haunches were soiled with ordure, and he was a terror to the herds; his dewlap hung low, and his face was marked with scars from butting against the trees. Terrifying all the kine, the demon who perpetually haunts the forests in the shape of a bull, destroying hermits and ascetics, advanced. Beholding an animal of such a formidable aspect, the herdsmen and their women were exceedingly frightened, and called aloud on Krishńa, who came to their succour, shouting and slapping his arm in defiance. When the Daitya heard the noise, he turned upon his challenger, and fixing his eyes and pointing his horns at the belly of Keśava, he ran furiously upon the youth. Krishńa stirred not from his post, but, smiling in sport and derision, awaited the near approach of the bull, when he seized him as an alligator would have done, and held him firmly by the horns, whilst he pressed his sides with his knees. Having thus humbled his pride, and held him captive by his horns, he wrung his throat, as if it had been a piece of wet cloth; and then tearing off one of the horns, he beat the fierce demon with it until he died, vomiting blood from his mouth. Seeing him slain, the herdsmen glorified Krishńa, as the companies of the celestials of old praised Indra, when he triumphed over the Asura Jambha.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0066 | next_story_id: DKS_0068
+previous title: Krishna Slays Shankhachuda and Takes the Jewel
+next title: Krishna Slays the Horse-Demon Keshi

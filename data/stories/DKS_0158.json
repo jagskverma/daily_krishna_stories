@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0158",
+ "title": "The Council Divides",
+ "subtitle": null,
+ "story": "When Jarasandha sat down, and Sunitha had risen to back his warning, the kings of the earth — suitors all, come to Kundina to win the princess Rukmini — looked at one another across the golden hall. Into the silence rose Dantavakra, the king of Karusha.\n\nHe did not quarrel with the warning. What the king of Magadha and Sunitha had said for their good seemed to him proper; he could not call them false out of malice, pride, or any wish to win the argument himself.\n\n\"Krishna has come for the maiden, as we have all come,\" Dantavakra said. \"Why should that surprise us? And why should we find fault with Gomanta, when we chose it ourselves?\"\n\nBecause of Kamsa's folly, he reminded them, the two brothers had grown up in hiding at Vrindavan. Kamsa had invited them to Mathura and set an infuriated elephant on them; they killed the elephant, walked into the arena, and slew Kamsa, the king of Mathura, with all his followers. \"What offence did they commit,\" Dantavakra asked, \"that we grey-headed kings marched on Mathura at another man's bidding?\"\n\nThe hall stirred uneasily: Dantavakra was telling them their own war back. Faced with the kings' overwhelming army, the brothers had left Mathura and taken refuge on Mount Gomanta. The kings pursued them, laid siege to the hill, and set it on fire — and still those two boys broke out and beat them in the field. \"We blame Krishna because he fought instead of dying,\" Dantavakra said. \"As things stand, wherever we go from here we shall pick up a quarrel. Krishna came for the maiden, not for a quarrel with us. Let us make friendship with him instead.\n\n\"He is no ordinary man — the first among men and among gods, maker of the worlds, with no malice, no pride, no crookedness in him. The king of gods has come with Garuda to show his true form, and remember: Krishna never marches with his army to destroy his enemies. He comes surrounded by his own clans — the Bhojas, the Vrishnis, the Andhakas and the Yadavas — a sign that he wants friendship, not ruin. Let us greet him as a guest and offer him the water of welcome; make peace with him now, and we may live without fear.\"\n\nThen Salwa rose — Salwa, the finest speaker in the hall — and the temper of the meeting changed.\n\n\"What is the use of this fear?\" he asked. \"If we had thought it right to make peace, we would have left our weapons at home. Why do we speak ill of our own army and praise another? That is not the way of kings. We were born in great houses and have brought honor to our names; shall we now think like cowards?\"\n\nHe did not deny the warning; he drew a different answer from it. He too knew Devaki's son for what he was — the eternal Vishnu, adored of all the worlds, teacher of the universe — and what he intended: the protection of the worlds, and the ruin of the kings who stood against him. \"A great battle will come between Vishnu and the kings,\" Salwa said. \"Consumed by the fire of his discus, we may go to the house of Yama, king of the dead. No man dies before his time; none escapes when it is done. The demons, for all their penances, fell each in his turn; so the mighty Bali was sent to the worlds below when his hour struck. So why should a king fear what is certain? Let us do what kings are born to do.\"\n\nThe debate broke against that answer and scattered. And through it all, Bhishmaka — king of Kundina, host of the council, father of the maiden and of the proud young Rukmi — had listened in silence, weighing each speech against the one thing he could not bear to lose. Then he rose from his seat among the princes and walked toward the door.\n\nThe council was still ringing with argument behind him. Whatever the kings decided, Bhishmaka had made his choice: he would go to Krishna himself, before any war could begin, and win the goodwill of the suitor the whole earth had gathered to deny.",
+ "reflection": "Every king in the hall seems to know who Krishna is; what divides them is what to do with the knowledge. Dantavakra reads the same facts as a summons to peace, Salwa as a summons to courage, and Bhishmaka, who alone among them is not deciding for an army but for his own children, reads them as a reason to bend. The council's war of words ends not with a king convinced but with a father moved.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Bhishmaka",
+  "Dantavakra",
+  "Salwa",
+  "Krishna",
+  "Rukmi"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "debate",
+  "pride",
+  "conciliation"
+ ],
+ "previous_story_id": "DKS_0157",
+ "next_story_id": "DKS_0159",
+ "next_story_tease": "But the kings were not done debating, and soon Shalya would propose summoning the Yavana king Kalayavana.",
+ "hero_scene": "In the golden assembly hall of Kundina, Bhishmaka rises silently from his seat among the arguing kings, Dantavakra pleading for peace on one side and Salwa answering with scorn on the other, and turns toward the door, resolved to go and propitiate Krishna himself.",
+ "visual_elements": [
+  "the golden assembly hall of Kundina",
+  "the ring of debating kings",
+  "Dantavakra speaking for peace",
+  "Salwa answering with defiance",
+  "Bhishmaka rising from his seat",
+  "the doorway and the evening beyond",
+  "pride yielding to conciliation"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.106",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0180",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5
+}

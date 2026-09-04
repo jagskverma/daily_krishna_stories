@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0498",
+ "title": "Gandhari Curses Krishna; He Accepts with a Smile",
+ "subtitle": null,
+ "story": "The war was over, and the field at Kurukshetra lay strewn with the dead, and Gandhari walked among them and saw what a mother sees when the war is over. Her own sons lay dead among the rest, and with them it seemed she had lost everyone's sons, and she poured it all out to Krishna, who stood beside her.\n\nBehold, she said, the ruler of the Kambojas, that bull-necked hero, lying in the dust though he deserved to rest at ease on soft Kamboja blankets. His wife is weeping bitterly at the sight of his blood-stained arms, those arms that once were smeared with sandal-paste; even now, adorned with beautiful palms and graceful fingers, they resemble a couple of spiked maces, and within their clasp joy never left her for a moment. What will be my end, the beauteous one cries, O ruler of men, when I am deprived of thee? Endued with a melodious voice, the Kamboja queen weeps helplessly and quivers with emotion.\n\nBehold the ruler of the Kalingas, lying on the ground with his mighty arms adorned with angadas. Behold the ladies of Magadha, crying around their lord Jayatsena, their ornaments displaced, the long-eyed and sweet-voiced girls whose wails were stupefying her heart exceedingly, ladies worthy of costly beds lying now on the bare ground. Behold that bevy of fair ladies there; though tired with exertion and worn out with heat, beauty leaves not their forms, like the sightliness of the wreaths worn by the celestials though exposed to the sun, and their faces, through toil and the rays of the sun, look like faded lotuses. Behold the Kosala prince Brihadbala, his women plucking from his body the shafts with which Abhimanyu pierced him, losing their senses again and again.\n\nThere were the young sons of Dhrishtadyumna, of tender years, adorned with garlands of gold, fallen upon Drona like insects on a blazing fire, Drona whose car was a chamber of fire, his bow the flame and his shafts and darts and maces the fuel. And the five Kekaya brothers lay with their faces still turned toward the man who slew them, their coats of mail, of the splendour of heated gold, and their tall standards and cars and garlands, all of the same metal, shedding a bright light on the earth.\n\nThese wails, Gandhari said, were stupefying her heart exceedingly. And then she turned from the dead to the one who might have stopped it all. Since thou wert indifferent to the Kurus and the Pandavas whilst they slew each other, she said, therefore, O Govinda, thou shalt be the slayer of thy own kinsmen. In the thirty-sixth year from this day, thou shalt perish by disgusting means in the wilderness.\n\nKrishna, the high-souled one, heard her out, and there was a faint smile on his face as he answered. There is none in the world, save myself, he said, that is capable of destroying the Vrishnis. Which was another way of saying that the end she spoke of was not something to be argued with or feared, for it was already written, and it would come from their own hands.\n\nAnd so the curse was received, not resisted.",
+ "reflection": "Gandhari speaks from the raw center of grief, and her curse is grief given a shape and a date. Krishna does not defend himself or dispute the blame; he smiles, because he already knows how the Vrishnis will end, and he is not afraid of it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Gandhari"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "curse",
+  "destiny",
+  "acceptance",
+  "grief"
+ ],
+ "previous_story_id": "DKS_0485",
+ "next_story_id": "DKS_0507",
+ "next_story_tease": null,
+ "hero_scene": "Gandhari standing among the slain on the field of Kurukshetra, pronouncing her curse upon Krishna, who receives it with a faint smile.",
+ "visual_elements": [
+  "Gandhari",
+  "Krishna",
+  "field of the dead",
+  "grieving women among fallen kings",
+  "Kurukshetra",
+  "overcast aftermath",
+  "grief, then calm acceptance"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "11.25",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0511"
+ },
+ "editorial_status": "unreviewed"
+}

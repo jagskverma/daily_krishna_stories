@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0367",
+ "title": "The Counsel at Panchala",
+ "subtitle": "Vidura brings word from Hastinapura, and Krishna's opinion decides the Pandavas' next move.",
+ "story": "Vidura came to Panchala with word from Hastinapura, and the message he carried had been waiting in the air ever since the wedding fires died down. The five sons of Pandu had found shelter in King Drupada's house — a father-in-law, a home, and a wife in Draupadi, whom all five brothers shared. But Vidura, their own father's brother and the wisest voice in the Kuru court, spoke now of what lay behind them: the throne of Hastinapura, theirs by right, and the question that would not stay buried. Would the sons of Pandu press that claim?\n\nDrupada heard him out, and his answer was careful. It was proper, he said, for the princes to return to their ancestral kingdom — but it was not proper for him, their host, to urge it. If Yudhishthira and Bhima and Arjuna and the twins themselves wished to go, and if Balarama and Krishna, who knew every rule of right conduct, were of the same mind, then let the Pandavas go. Those two, he added, had always worked for what was good and pleasant for Pandu's sons.\n\nYudhishthira answered with all the warmth of a son. \"We are, O king, with all our younger brothers, at your command. We shall cheerfully do whatever pleases you.\"\n\nThen Krishna spoke, and his words settled the room. \"I am of opinion that the Pandavas should go. But we should all abide by the opinion of King Drupada, who is versed in every rule of right conduct.\"\n\nIt was a rare sentence: an opinion offered, then set aside for another man's judgment. Drupada received it as the honour it was, and agreed with what Krishna thought — for the sons of Pandu had grown as dear to him as they were to Krishna. And then he said the thing that has been remembered about that quiet council ever since: \"Not even Yudhishthira himself seeks the welfare of the Pandavas as earnestly as Krishna does.\"\n\nThe decision moved with the speed of a command. At Drupada's bidding the Pandavas set out with Krishna and Vidura, taking Draupadi and their mother Kunti with them, and journeyed toward the city named for the elephant, stopping along the way as though the road itself wanted to delay a homecoming that had been too long in coming.\n\nWord of their approach raced ahead of them. Dhritarashtra, the king of Hastinapura and the brothers' uncle, sent his own sons out to receive them, with Drona and Kripa — the masters who had trained every prince of the house in arms — riding at their head. Surrounded by that honour guard, the Pandavas entered the city, and the streets filled with people who had come out to see them. \"Here returns the prince who has always protected us as if we were his own kin,\" some cried. And others called out with the fierce love of a city for its own: \"If we have ever given alms, if we have ever poured offerings of ghee into the sacred fire, if we have earned any merit at all — let the Pandavas live in our town for a hundred years.\"\n\nAt the palace the brothers bowed to Dhritarashtra and to the wise Bhishma, the eldest of their line, and to all who deserved that honour, and asked after the welfare of every citizen present. When they were summoned to the court, Dhritarashtra gave them what no one had dared hope for — not a welcome merely, but a settlement. \"Go to Khandavaprastha,\" he said, \"so that no quarrel may arise again between you and your cousins. If you settle there, no one will be able to do you harm. Protected by Arjuna as the gods are by the thunderbolt, dwell in Khandavaprastha and take half the kingdom.\"\n\nThe brothers agreed, content with half a kingdom. They honoured the king and set out from Hastinapura toward a stretch of unreclaimed desert they would have to turn into a home. It did not look like much of a throne. But Krishna had counselled the journey, and when the brothers set out into the wilds, Krishna went with them — the desert would not be faced alone.",
+ "reflection": "Drupada's parting tribute is striking: he measures Krishna's care for the Pandavas against the love of their own eldest brother and finds it no less. In a court where everyone has an interest in the brothers — the Kauravas, the citizens, even their new father-in-law — Krishna alone wants for them exactly what they would want for themselves, and gives his opinion in a form that leaves the final word to others.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Drupada",
+  "Yudhishthira",
+  "Balarama",
+  "Dhritarashtra",
+  "Bhishma"
+ ],
+ "locations": [
+  "Panchala",
+  "Hastinapura"
+ ],
+ "themes": [
+  "counsel",
+  "friendship",
+  "righteousness"
+ ],
+ "previous_story_id": "DKS_0366",
+ "next_story_id": "DKS_0368",
+ "next_story_tease": "The unreclaimed desert was a strange gift — and Krishna would not leave the Pandavas to it until it had become a city.",
+ "hero_scene": "In the sunlit hall at Panchala, Krishna rises and gives his counsel — \"I am of opinion that the Pandavas should go\" — while Drupada inclines his head in deference, Vidura listens from his seat, and Yudhishthira stands with palms joined before the man who sought the brothers' welfare like his own.",
+ "visual_elements": [
+  "Krishna standing to give his opinion in Drupada's hall",
+  "Drupada deferring with a nod",
+  "Yudhishthira with joined palms",
+  "Vidura seated in attendance",
+  "the five Pandava brothers gathered",
+  "the journey toward Hastinapura",
+  "the citizens of Hastinapura crying out blessings in the streets"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.209",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0406",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

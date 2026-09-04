@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0276",
+ "title": "The Weaver and the Garland-Maker",
+ "subtitle": "Two craftsmen of Mathura honour the brothers",
+ "story": "Mathura had never seen boys like the two who walked its royal road that evening. Men and women stopped to look; children ran ahead to look again. They moved like young elephants, unhurried and easy, and the dust of the road only made them shine the more.\n\nThey had come from Vrindavan in the chariot of Akrura, whom Kamsa, the king of Mathura, had sent to fetch them; Akrura had left them at the city's edge to enter on foot. Now they walked the royal road through Kamsa's streets as if they had been born to them — Krishna and Balarama, brothers, cowherd boys in plain cloth, on the day before the city would learn what they were. Men and women regarded them with pleasure and fell in behind them, the way a town follows a festival it has not yet understood.\n\nIt was a weaver who first dared to stop them. He looked at the two brothers — at the homespun cloth they wore, at the road dust on their shoulders — and it grieved him that such forms should go so plainly dressed. He brought out his finest cloth and, glad beyond measure, cut and fitted garments for them both, rich cloth of many colours, each garment marked with its own device. When Krishna and Balarama stood dressed in the weaver's work, they shone, and the weaver saw that he had dressed something more than two travellers. Krishna was pleased with him, and to the weaver he gave a rare gift: a form like his own, so that the man who had clothed the lord's body would bear the lord's likeness in his own.\n\nFrom the weaver's shop they went on through streets that grew quieter as the evening deepened, until they came to the house of Sudama, the garland-maker. Sudama looked once at his two visitors and seemed to know at once who stood in his doorway. He brought them in, set seats for them, washed their feet, and offered them water and all the honours of a guest. He pressed garlands on them and sandal paste, and his hands trembled with delight as he worked.\n\n\"Our birth is made fruitful today,\" he said, standing before them with folded hands. \"Our family is purified. You two are the cause of this whole world, and you look on all that lives with the same eye, for you are the soul of everything that breathes. Tell your servant: what shall we do for you?\"\n\nKrishna and Balarama accepted the garlands and the paste, and were pleased. Then Sudama was asked what he himself wanted — and the garland-maker, who had given everything he had and asked for nothing, named one thing only.\n\n\"Unshakable devotion,\" he said. \"A love of you that nothing can move.\"\n\n\"It is yours,\" Krishna said. \"And with it, take this: fortune that never leaves you, prosperity that grows in your line for generations.\" Nor did the blessing end with this life: at the end of his days, a heavenly region awaited the man who had honoured the lord before he fully knew him.\n\nWord of the two strangers spread through Mathura that night. The weaver told his neighbours, and Sudama told his customers, and the garland-scented shop carried the story out into the streets. Kamsa's city had been told to fear the cowherd boys from Vrindavan; instead it learned that they had walked its royal road like kings and blessed its craftsmen, that a weaver's needle and a garland-maker's flowers had been enough to earn the favour of the two who were the world's cause. The city waited, uncertain and wondering, to see what they would do next.",
+ "reflection": "The two gifts mirror each other: the weaver receives a form like the Lord's because he dressed the Lord's body, and the flower-seller asks only for devotion because he has already laid every other offering at Krishna's feet. Each man is answered exactly with what he offered.",
+ "tradition_note": "The Vishnu Purana tells of the flower-seller alone, and frames his reward as fortune that never forsakes him and a heavenly region at the end; the Bhagavata adds the weaver and names Sudama's boon unshakable devotion.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Sudama"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "devotion",
+  "boon"
+ ],
+ "previous_story_id": "DKS_0275",
+ "next_story_id": "DKS_0277",
+ "next_story_tease": "But while Mathura wondered, in a dry well far away a king lay trapped in a lizard's body — and his long wait was almost over.",
+ "hero_scene": "Krishna and Balarama, freshly dressed in the weaver's bright many-coloured cloth, garlanded with fresh flowers and marked with sandal paste, standing in Sudama's flower shop while the garland-maker bows before them with folded hands.",
+ "visual_elements": [
+  "Krishna and Balarama in bright weaver-made garments",
+  "Sudama the garland-maker bowing with folded hands",
+  "heaps of flowers and garlands around them",
+  "sandal paste marks",
+  "the weaver's shop with fine cloth",
+  "the evening streets of Mathura"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.41.39-51",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.19",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:43Z",
+  "source_event_id": "evt_0134",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

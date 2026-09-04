@@ -1,0 +1,47 @@
+# STORY DKS_0198 — Krishna Hastens to Kundina || Krishna receives Rukmini's message and races overnight to Kundina, where rival kings are gathering to enforce Shishupala's claim.
+
+## Index entry
+title: Krishna Hastens to Kundina || Krishna receives Rukmini's message and races overnight to Kundina, where rival kings are gathering to enforce Shishupala's claim.
+summary: Krishna receives Rukmini's message and races overnight to Kundina, where rival kings are gathering to enforce Shishupala's claim.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Daruka, Rukmini, Shishupala
+locations: Kundina
+themes: haste, love, resolve
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0240
+variant_notes: Cross-ref: Rukmini abduction cluster (bp10c_021/vp5_026_01).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 53 | verses 1-20 | confidence 5
+  excerpt: Hearing the message, Krishna said 'I too cannot sleep at night for her'; he set out at once and reached Vidarbha in a single night, while Shishupala, Jarasandha, Shalva and other hostile kings gathered in Kundina resolved to fight if Krishna came. (rendered from Sanskrit, verses 1-20)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.53 (1-20)
+1. bhp_10.53.002/0 śrī-bhagavān uvāca
+2. tām ānayiṣya unmathya rājanyāpasadān mṛdhe /
+3. bhp_10.53.004/0 śrī-śuka uvāca
+4. sa cāśvaiḥ śaibya-sugrīva- meghapuṣpa-balāhakaiḥ /
+5. āruhya syandanaṃ śaurir dvijam āropya tūrṇa-gaiḥ /
+6. rājā sa kuṇḍina-patiḥ putra-sneha-vaśānugaḥ /
+7. puraṃ sammṛṣṭa-saṃsikta- mārga-rathyā-catuṣpatham /
+8. srag-gandha-mālyābharaṇair virajo-'mbara-bhūṣitaiḥ /
+9. pitṝn devān samabhyarcya viprāṃś ca vidhi-van nṛpa /
+10. su-snātāṃ su-datīṃ kanyāṃ kṛta-kautuka-maṅgalām /
+11. cakruḥ sāma-rg-yajur-mantrair vadhvā rakṣāṃ dvijottamāḥ /
+12. hiraṇya-rūpya vāsāṃsi tilāṃś ca guḍa-miśritān /
+13. evaṃ cedi-patī rājā damaghoṣaḥ sutāya vai /
+14. mada-cyudbhir gajānīkaiḥ syandanair hema-mālibhiḥ /
+15. taṃ vai vidarbhādhipatiḥ samabhyetyābhipūjya ca /
+16. tatra śālvo jarāsandho dantavakro vidūrathaḥ /
+17. kṛṣṇa-rāma-dviṣo yattāḥ kanyāṃ caidyāya sādhitum /
+18. yotsyāmaḥ saṃhatās tena iti niścita-mānasāḥ /
+19. śrutvaitad bhagavān rāmo vipakṣīya nṛpodyamam /
+20. balena mahatā sārdhaṃ bhrātṛ-sneha-pariplutaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0197 | next_story_id: DKS_0199
+previous title: Rukmini's Love-Message to Krishna || Rukmini's message begs Krishna to carry her away in the rakshasa manner before Shishupala can claim her.
+next title: Rukmini's Prayer at the Temple of Ambika || Anxious at Krishna's delay, Rukmini visits the temple of goddess Ambika and prays that Krishna alone may be her husband.

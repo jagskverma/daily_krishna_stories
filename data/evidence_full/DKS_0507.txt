@@ -1,0 +1,52 @@
+# STORY DKS_0507 — The Pigeon and the Hunter's Net
+
+## Index entry
+title: The Pigeon and the Hunter's Net
+summary: A pigeon so bound to his mate and chicks that when a hunter's net traps his family he casts himself into the same net and perishes with them, teaching Krishna's hearers that clinging to home and family destroys.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the pigeon, the pigeon's mate, the chicks, the hunter
+locations: a forest tree
+themes: attachment, grief, the snare of home, cautionary tale
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0527
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 7 | verses 51-73 | confidence 5
+  excerpt: The pigeon, seeing his chicks and his mate caught in the hunter's net, lamented: 'Alas, my poor mind! My home is destroyed; of what use is my life now?' And he too flew into the net, and the cruel hunter took them all. 'Thus the householder who feeds his family like a bird, attached and without peace, comes to ruin.' (rendered from Sanskrit, verses 66-72)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.7 (51-73)
+51. nāti-snehaḥ prasaṅgo vā kartavyaḥ kvāpi kenacit /
+52. kapotaḥ kaścanāraṇye kṛta-nīḍo vanaspatau /
+53. kapotau sneha-guṇita- hṛdayau gṛha-dharmiṇau /
+54. śayyāsanāṭana-sthāna vārtā-krīḍāśanādikam /
+55. yaṃ yaṃ vāñchati sā rājan tarpayanty anukampitā /
+56. kapotī prathamaṃ garbhaṃ gṛhṇantī kāla āgate /
+57. teṣu kāle vyajāyanta racitāvayavā hareḥ /
+58. prajāḥ pupuṣatuḥ prītau dampatī putra-vatsalau /
+59. tāsāṃ patatraiḥ su-sparśaiḥ kūjitair mugdha-ceṣṭitaiḥ /
+60. snehānubaddha-hṛdayāv anyonyaṃ viṣṇu-māyayā /
+61. ekadā jagmatus tāsām annārthaṃ tau kuṭumbinau /
+62. dṛṣṭvā tān lubdhakaḥ kaścid yadṛcchāto vane-caraḥ /
+63. kapotaś ca kapotī ca prajā-poṣe sadotsukau /
+64. kapotī svātmajān vīkṣya bālakān jāla-samvṛtān /
+65. sāsakṛt sneha-guṇitā dīna-cittāja-māyayā /
+66. kapotaḥ svātmajān baddhān ātmano 'py adhikān priyān /
+67. aho me paśyatāpāyam alpa-puṇyasya durmateḥ /
+68. anurūpānukūlā ca yasya me pati-devatā /
+69. so 'haṃ śūnye gṛhe dīno mṛta-dāro mṛta-prajaḥ /
+70. tāṃs tathaivāvṛtān śigbhir mṛtyu-grastān viceṣṭataḥ /
+71. taṃ labdhvā lubdhakaḥ krūraḥ kapotaṃ gṛha-medhinam /
+72. evaṃ kuṭumby aśāntātmā dvandvārāmaḥ patatri-vat /
+73. yaḥ prāpya mānuṣaṃ lokaṃ mukti-dvāram apāvṛtam /
+
+## Corpus chain
+previous_story_id: DKS_0506 | next_story_id: DKS_0508
+previous title: The Avadhuta's Lessons from the Elements
+next title: The Python's Contentment and the Ocean's Depth
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

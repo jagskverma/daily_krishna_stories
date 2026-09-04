@@ -1,0 +1,126 @@
+# STORY DKS_0262 — Krishna Slays Narakasura
+
+## Index entry
+title: Krishna Slays Narakasura
+summary: Krishna beheads the demon king Narakasura (Bhauma) with his discus, freeing the three worlds of his tyranny.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Narakasura
+locations: Pragjyotisha
+themes: battle, liberation, justice
+festival_tags: Diwali, Naraka Chaturdashi
+age_sensitivity: mild_violence | notes: Harivamsha bundles the slaying of Mura/generals; VP bundles freeing the captive princesses.
+
+## Canonical event
+event_id: evt_0209
+variant_notes: Method: discus behead (BP), cut in two with discus (Harivamsha), cut nooses then slay (VP).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 59 | verses 14-22 | confidence 5
+  excerpt: As Narakasura raised his spear, Krishna cut off his head with the sharp-edged discus, and it fell to earth decked with earrings and crown, while the sages and gods showered flowers in praise. (rendered from Sanskrit, verses 14-22)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 120 | verses  | confidence 4
+  excerpt: Fighting with Naraka for a moment the dreadful Janārddana cut him into two pieces with his effulgent discus. ... Beholding his son slain, Bhumi came with the pair of Kundalas to Govinda.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 29 | verses  | confidence 4
+  excerpt: when Naraka came into the field... the wielder of the discus... cut him in two with his celestial missile... In the apartments of the women he found sixteen thousand and one hundred damsels.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.59 (14-22)
+14. dṛṣṭvā sa-bhāryaṃ garuḍopari sthitaṃ $ sūryopariṣṭāt sa-taḍid ghanaṃ yathā &amp;kṛṣṇaṃ sa tasmai vyasṛjac chata-ghnīṃ % yodhāś ca sarve yugapac ca vivyadhuḥ
+15. tad bhauma-sainyaṃ bhagavān gadāgrajo $ vicitra-vājair niśitaiḥ śilīmukhaiḥ &tad bhauma-sainyaṃ bhagavān gadāgrajo $ vicitra-vājair niśitaiḥ śilīmukhaiḥ &nikṛtta-bāhūru-śirodhra-vigrahaṃ % cakāra tarhy eva hatāśva-kuñjaram
+16. yāni yodhaiḥ prayuktāni śastrāstrāṇi kurūdvaha /
+17. uhyamānaḥ suparṇena pakṣābhyāṃ nighnatā gajān /
+18. puram evāviśann ārtā narako yudhy ayudhyata /
+19. taṃ bhaumaḥ prāharac chaktyā vajraḥ pratihato yataḥ /
+20. śūlaṃ bhaumo 'cyutaṃ hantum ādade vitathodyamaḥ /
+21. sa-kuṇḍalaṃ cāru-kirīṭa-bhūṣaṇaṃ babhau pṛthivyāṃ patitam samujjvalam /
+22. tataś ca bhūḥ kṛṣṇam upetya kuṇḍale $ pratapta-jāmbūnada-ratna-bhāsvare &amp;sa-vaijayantyā vana-mālayārpayat % prācetasaṃ chatram atho mahā-maṇim
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.120 ()
+TITLE: THE DEFEAT OF THE ASURA NARAKA
+
+Janamejaya said:—O great Muni, describe to me what the powerful Vishnu
+did when he came over to Dwārāka after the destruction of Rukshmi (1).
+
+Vaishampāyana said:—The beautiful and powerful lord Vishnu, having lotus
+eyes, the enhancer of the delight of the Yadavas, encircled by them,
+directed his mind towards Dwārakā (2) The diverse riches and jewels, he
+could lay his hands on any where, he made the Rākshasas bring over to
+his own house. The great Asuras, Dānavas and Daityas, who had acquired
+boons, as also put in many obstacles at that time; but the mighty-armed
+Mādhava destroyed them all (3–4).
+
+O king, while Mādhava lived in Dwarakā, the Dānava Naraka, the great
+enemy of the king of gods and a terror to the celestials, presented many
+obstacles in his way (5). That Dānava, residing at Murtilinga, an
+oppresser of all the gods, used always to oppose the celestials and the
+Rishis (6). Once on a time Bhumi’s son Naraka, the king of Prāgyotish,
+went to a place called Kasheru. There assuming the form of an elephant
+he, by force, ravished Twastha’s daughter the beautiful Chaturdashi. And
+shorn of fear or sorrow he foolishly said:—"From this very day, the
+Rākshasas, Daityas and Dānavas will bring for me all the jems the gods
+and men possess, all that the entire earth contains and all that lie in
+the ocean." Saying this Bhumi’s son began to pilfer diverse riches and
+clothes. But he did not enjoy them (7–11). The powerful Naraka carried
+all the maidens of the gods, Gandharvas, men and the seven divisions of
+the Apsaras (12). Thus sixteen thousand and one hundred chaste maidens,
+wearing a single braid of hairs, were brought (13). The powerful Bhouma
+made a house for them on the mount Mani in Alakā near the territory of
+the Daitya Maru (14). There the ten daughters of Maru, those maidens and
+the other leading Rākshasas used to carry out his command and adore him,
+the king of Pragyotish. O king, the great Asura Naraka, who had obtained
+a boon, lived on the bank of the blue ocean (15). Even all the Asuras,
+collected together, could not perform before the dreadful feat which
+this great demon did (16). O Janamejaya, for ear-rings the great demon
+Naraka, whom the goddess earth gave birth to and whose capital was
+Prāgyotish, oppressed even Aditi (17). He had four gate-keepers,
+dreadful in battle, namely Hayagriva, Nisunda, Panchanada and the great
+Asura Muru with his thousand sons, proud of his boon. Those warders,
+terrors to those who perform pious deeds, used to occupy even the
+aethireal way along with the Rākshasas in battle (18–19).
+
+For his destruction. Vasudeva, of the Vishni race, begat the might-armed
+Janārddana, holding conch, discus, club and sword, on Devaki. After
+holding consultation with one another the celestials selected the city
+of Dwārakā for the residence of the great Purusha Mādhava, of well-known
+prowess on earth (20–21). Encircled by the great ocean and beautified
+with five hills, that city of Dwārakā excelled that of Indra even in
+beauty (22). The great assembly-hall in that city, resembling that of
+gods, which extended over a _yojana_ and had huge golden door-ways, was
+celebrated by the name of Dāshārha; and the leading members of the
+Vrishni and Andhaka races, headed by Rāma and Krishna, used to carry on
+their daily transactions there (23–24).
+
+O foremost of Bharatas, once on a time while the Yādavas sat in that
+hall there blew the wind carrying celestial fragrance and there was a
+downpour of flowers (25). In a moment a great noise, covered with a net
+of lustre, was heard in the sky. Within that effulgence, Vāsava was
+seen, seated on a white elephant and encircled by the gods (26–27).
+Rāma, Krishna and the king Ugrasena, with other leading Yādavas went out
+and welcomed the king of gods (28). Afterwards coming down speedily from
+that elephant chief the king of gods embraced Janārddana, Baladeva, the
+king Ahuka and then the other Yādavas, in order of age and rank. And
+then adored by Rāma and Krishna he entered into that magnificent
+assembly-hall. Seated there and adoring it the king of gods duly
+accepted _arghya_ and other articles of hospitality (29–31).
+
+Then touching the auspicious countenance of his younger brother
+(Krishna) with his hand the highly powerful Vāsudava addressed to him
+the following consoling words (32). "O Devaki’s son, O slayer of Madhu
+and of thy enemies, hear for what I have come to thee (33). Elated with
+the boon conferred on him by Brahmā the great Asura Naraka has foolishly
+stolen the ear-rings of Aditi (34). He always acts against the gods and
+Brāhmanas and is on the look out for your loopholes. Do thou therefore
+kill that sinful wretch (35). This Vinatā’s son Guruda, highly powerful,
+capable of ranging anywhere and of assuming any strength and always
+moving in the sky, will take thee there (36). O Upendra, Bhumi’s son,
+Naraka, is unslayable by all creatures. Do thou soon kill that sinful
+one and come back (37)."
+
+Thus addressed by the
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0261 | next_story_id: DKS_0263
+previous title: Krishna Slays Mura and His Seven Sons || Krishna beheads the five-headed demon Mura and slays his seven sons who attack in revenge.
+next title: Bhumi Returns Aditi's Earrings || The earth-goddess Bhumi restores Aditi's earrings and Varuna's umbrella and prays for the protection of Naraka's son Bhagadatta.
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

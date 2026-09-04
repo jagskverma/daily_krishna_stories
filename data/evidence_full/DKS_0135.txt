@@ -1,0 +1,34 @@
+# STORY DKS_0135 — Kamsa Orders the Wrestling Festival
+
+## Index entry
+title: Kamsa Orders the Wrestling Festival
+summary: At dawn Kamsa orders the wrestling festival; the arena is prepared and the cowherds arrive with offerings.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Kamsa, Chanura, Nanda
+locations: Mathura
+themes: festival, plot
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0138
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 42 | verses 31-37 | confidence 5
+  excerpt: At dawn Kamsa ordered the wrestling festival, and the arena was prepared with drums and banners; Chanura, Mushtika and the other wrestlers took their places, and Nanda and the cowherds, summoned, arrived with their offerings. (rendered from Sanskrit, verses 31-37)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.42 (31-37)
+31. vyuṣṭāyāṃ niśi kauravya sūrye cādbhyaḥ samutthite /
+32. ānarcuḥ puruṣā raṅgaṃ tūrya-bheryaś ca jaghnire /
+33. teṣu paurā jānapadā brahma-kṣatra-purogamāḥ /
+34. kaṃsaḥ parivṛto 'mātyai rāja-mañca upāviśat /
+35. vādyamānesu tūryeṣu malla-tālottareṣu ca /
+36. cāṇūro muṣṭikaḥ kūtaḥ śalas tośala eva ca /
+37. nanda-gopādayo gopā bhoja-rāja-samāhutāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0134 | next_story_id: DKS_0136
+previous title: Kamsa Is Terrified by Evil Omens
+next title: Krishna Slays the Elephant Kuvalayapida

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0274",
+ "title": "When Krishna Dropped the Reins",
+ "subtitle": null,
+ "story": "Krishna held the reins of Arjuna's chariot and watched the grandsire of the Kurus take the Pandava army apart — until he could watch no longer. He had come to Kurukshetra as a charioteer, not a fighter, but there are things no charioteer can be expected to sit and witness.\n\nThe afternoon had passed, and the Pandavas had won the first part of the day. Then Bhishma, the son of Santanu — Devavrata, whom both armies called the grandsire — was carried by his fleetest steeds straight into the mass of his enemies, and the battle turned. It was a dreadful engagement, one that made the hair stand on end: the twang of bows and the slap of bowstrings against the archers' guards rose like the sound of splitting hills; cries of \"Stay! Here I stand!\" and \"Turn back!\" rang out on every side; the fall of golden armour and diadems sounded like stones raining on stony ground. A river of blood began to flow across the field, miry with the bodies of men and horses and elephants, and the field itself was strewn with the slain as far as the eye could reach. Vultures and jackals gathered at its edges.\n\nAnd in the middle of it all was Bhishma, and he was everywhere at once. His bow, drawn into a circle again and again, shot shafts with blazing points like venomous snakes, and every shaft found its mark; not one of his arrows was ever futile. He smote the Pandava car-warriors, naming each one beforehand as he shot. His hands were so light, and his car moved so swiftly along its track, that he seemed to be dancing — a circle of fire that was present everywhere. The Pandavas and the Srinjayas saw him multiply before their eyes a thousand-fold. Now he was on the east; the next moment, on the west; now on the north, the next moment, on the south. They could not even look at him; what they saw were only the countless shafts leaving his bow. Kings by the thousand came against that fire and fell into it like flights of senseless insects. With a single straight shaft he despatched a single elephant, as a hill is riven by the thunderbolt; with one arrow he pierced two or three armoured riders standing together. Whoever approached Bhishma was seen for a moment, and the next moment was seen falling.\n\nThen the vast host of King Yudhishthira the just — slaughtered, harrowed, shot through — gave way in a thousand directions. Afflicted by that arrowy shower, the whole army began to tremble in the very presence of Vasudeva and the high-souled Partha. The charioteer's patience came to its end at last.\n\nKrishna abandoned the reins of the steeds. He jumped down from the car, whirling with his right arm his discus Sudarshana — the discus of beautiful nave, its edge sharp as a razor, effulgent as the sun — and he rushed impetuously toward Bhishma. The great charioteer came on like a lion, springing from the desire of slaying upon a prince of elephants blinded with fury. The reins lay where he had dropped them. The war's one bystander had become its most terrible combatant, and the grandsire, who had named every warrior before he shot, had not named this one.",
+ "reflection": "Krishna's charge is the moment the war's restraint breaks. He had bound himself to drive, not to fight, and he drops both reins and vow in a single motion because he cannot bear the slaughter of the men he loves. The image of the lion springing at the blinded elephant carries the whole weight of it: wrath, in Krishna, is only protection turned inside out.",
+ "tradition_note": null,
+ "content_note": "A full battlefield episode: Bhishma's slaughter of the Pandava army, including the image of a river of blood. Described with restraint but heavy with battlefield imagery; may warrant parental awareness for younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Bhishma",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "wrath",
+  "protection",
+  "discus"
+ ],
+ "previous_story_id": "DKS_0273",
+ "next_story_id": "DKS_0275",
+ "next_story_tease": null,
+ "hero_scene": "On the battlefield of Kurukshetra, Krishna leaps down from the chariot, the reins falling from his hand, whirling the sun-bright discus Sudarshana as he charges like a lion toward Bhishma, who turns in his own chariot with bow drawn, the field of the slaughtered Pandava army stretching between them.",
+ "visual_elements": [
+  "Krishna abandoning the reins and leaping from Arjuna's chariot",
+  "the discus Sudarshana, sharp-edged and blazing like the sun, whirling in his raised arm",
+  "Bhishma multiplied a thousand-fold across the battlefield",
+  "the river of blood and the field strewn with the slain",
+  "the Pandava army giving way and trembling",
+  "the lion's charge toward the elephant",
+  "wrath and protection"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.59",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:30Z",
+  "source_event_id": "evt_0489"
+ },
+ "editorial_status": "unreviewed"
+}

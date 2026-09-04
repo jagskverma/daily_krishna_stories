@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0146",
+ "title": "Krishna Restores the Yadava Kinsmen",
+ "subtitle": null,
+ "story": "For years the name Yadava had meant exile. Scattered by fear, the kinsmen of Krishna's own house had slipped out of Mathura one family at a time — uncles and cousins and in-laws, the Vrishnis, the Andhakas, the Madhus, all of them relatives of the child the tyrant Kamsa had hunted since birth. They had gone in every direction, into foreign kingdoms where they could be nobody's kin and nobody's target, and there they had grown thin and grey, worn down by years of borrowed roofs and borrowed names.\n\nWith Kamsa dead and Ugrasena crowned king, Krishna sent word to every corner of the earth: come home. The old texts say he brought back all his own kinsmen and connections from every direction — the very people Kamsa's fear had scattered. They came as they had left, by twos and threes, dusty from long roads, their faces lined by the same years that had emptied the city. Some had been gone so long that the grandchildren they brought had never seen Mathura. They stood at the gates uncertainly, exiles returning to a home that might not remember them.\n\nKrishna met them himself. He honored each one, spoke to them as a kinsman, and comforted them in their exhaustion. He settled them in their own houses, the houses their families had abandoned, and gave them back their wealth — fields, cattle, jewels, everything Kamsa's rule had made them flee. Whatever they had lost in those foreign lands, he restored. The verses say that protected by the arms of Krishna and Balarama, they obtained everything their hearts had desired for years.\n\nThen the city began to breathe again. Courtyards that had stood silent filled with voices. And the rejoicing that the years of exile had deferred broke out at last in every courtyard. And day after day, the rejoined clans gathered where they could see the young lord's face — the sight of him, the texts say, was delight enough. Morning and evening they came to look at him, and the looking healed them. It is said that even the oldest among them, the men who had fled in their prime and returned stooped, became young again in Mathura — their strength restored until they seemed as vigorous as the sons beside them.\n\nThere was no war in this homecoming, no enemy defeated at the gate. The enemy had been fear itself, and it had been defeated years ago, quietly, by a boy growing up in another village while his kinsmen scattered across the world. What remained was the slower work: gathering the scattered, returning what had been taken, and letting a city that had been emptied by tyranny fill up again with the sound of family.\n\nWhen the last of the exiles was settled in his father's house, Mathura was whole in a way it had not been since before Kamsa seized the throne. The clans were one again under one king. And Krishna, who had restored them all, turned with his brother toward the next task — a quieter one, and stranger to the storytellers: the education of two young men who already knew everything.",
+ "reflection": "Krishna's restoration of the scattered clans is quiet compared to the battles around Kamsa's fall, but it is the real work of kingship: gathering rather than conquering, and healing the long damage of fear. The detail that even the aged grew young again suggests that returning home — and being welcomed by the one who sent for you — restores more than wealth.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Yadavas"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "restoration",
+  "homecoming",
+  "family"
+ ],
+ "previous_story_id": "DKS_0145",
+ "next_story_id": "DKS_0147",
+ "next_story_tease": "But there was a debt of another kind still to be paid: the education of the two brothers.",
+ "hero_scene": "Grey-haired kinsmen arriving through the gates of Mathura with their families and bundles, while Krishna and Balarama stand together at the entrance to welcome them, the exiles' tired faces brightening at the sight of the two brothers.",
+ "visual_elements": [
+  "Krishna and Balarama at the city gate",
+  "returning kinsmen with their families",
+  "dusty roads and worn travellers",
+  "the gates of Mathura",
+  "relief and homecoming",
+  "warm afternoon light"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.14-18",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0150"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0457",
+ "title": "Teach Me, I Am Your Disciple",
+ "subtitle": null,
+ "story": "On the field between the armies, with both hosts looking on, Krishna told the finest archer of his age to stop grieving.\n\n\"Whence has this despondency come upon you at such a crisis, O Arjuna?\" he said. \"It is unbecoming of noble birth; it shuts one out from heaven and earns infamy. Let no weakness be yours, son of Kunti — this does not suit you. Shake off this vile feebleness of heart and arise, chastiser of foes.\"\n\nBut Arjuna could not rise. \"How can I fight Bhishma and Drona with arrows,\" he asked, \"men who deserve my worship? It is better to live on alms in this world than to slay my preceptors. Even if they are greedy for wealth, killing them would leave me pleasures that are bloodstained. I do not know which is of greater moment — that we conquer them, or that they conquer us. The very men by whose death I would not wish to live stand before me. My nature is affected by the taint of compassion; my mind is unsettled about my duty. I ask you: tell me what is assuredly good for me. I am your disciple. Instruct me, I seek your aid. I cannot see anything that would dispel the grief that blasts my senses — not a prosperous kingdom without a foe, not even the sovereignty of the gods.\"\n\nThen he said plainly: \"I will not fight.\" And he fell silent.\n\nIt was not a surrender of arms only. Standing on a battlefield with two armies waiting, Arjuna had handed over the thing he had trusted most — his own judgment about right and wrong — and asked for it back, instructed. The disciple's plea and the refusal sat side by side, and the whole field, Sanjaya would later say, seemed to hold its breath.\n\nKrishna looked at him in the midst of the two armies and began to answer. \"You mourn those who deserve no mourning, and you speak like a man of learning,\" he said, \"yet those who are truly wise grieve neither for the dead nor for the living. It is not that I, or you, or these rulers of men never were; nor that we shall not all be hereafter. As childhood, youth, and old age come to the body, so the embodied soul acquires another body, and the wise are never deluded by this. The contacts of the senses with their objects — heat and cold, pleasure and pain — come and go; they are not permanent. Endure them, O Bharata. The man whom they do not disturb, who is the same in pain and in pleasure, who is firm of mind, is fit for freedom.\n\nKnow that by which all this universe is pervaded to be immortal: no one can compass the destruction of the imperishable. The bodies of the eternal, indestructible, infinite soul have an end; therefore fight, O Bharata. He who thinks the soul is the slayer, and he who thinks it is the slain, both know nothing; it neither slays nor is slain. It is never born and never dies; it has not come into being and will not cease to be. Unborn, unchangeable, eternal, ancient — it is not slain when the body perishes. As a man casts off worn-out robes and puts on new ones, so the embodied soul casts off worn-out bodies and enters new ones. Weapons cleave it not, fire consumes it not; the waters do not drench it, nor does the wind waste it. It cannot be cut, burned, drenched, or dried. It is unchanging, all-pervading, stable, firm, eternal. Therefore it does not behoove you to mourn.\n\nAnd even if you were to regard the soul as constantly born and constantly dying, still you must not mourn. Of one who is born, death is certain; of one who has died, birth is certain. All beings were unmanifest before birth, manifest during the interval of life, and unmanifest again at death. What grief is there in this?\"\n\nThe charioteer's voice went on across the field, and the armies stood silent. The war would wait; something else had begun. The disciple had asked what was truly good, and the answer was opening like a door into a room neither army could see.",
+ "reflection": "Arjuna's surrender is the true hinge of the field: he does not ask to be spared the battle but to be told what is good. The Gita begins because a warrior lays down not only his bow but his certainty — and it is to that humility that Krishna answers with the nature of the self.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Arjuna",
+  "Krishna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "surrender",
+  "discipleship",
+  "seeking guidance"
+ ],
+ "previous_story_id": "DKS_0456",
+ "next_story_id": "DKS_0458",
+ "next_story_tease": "Krishna's answer would grow until it revealed the whole universe gathered in his form.",
+ "hero_scene": "Between the two waiting armies, Arjuna stands with joined hands before the chariot, his bow set aside, asking Krishna to instruct him, while Krishna looks at him with the first words of the teaching already forming.",
+ "visual_elements": [
+  "the two armies waiting on the field of Kurukshetra",
+  "Arjuna dejected in the chariot, Gandiva slipping from his hand",
+  "Arjuna declaring he will not fight and falling silent",
+  "Krishna beginning his teaching on the immortal soul",
+  "the armies standing silent as the discourse begins"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.26",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0454"
+ },
+ "editorial_status": "unreviewed"
+}

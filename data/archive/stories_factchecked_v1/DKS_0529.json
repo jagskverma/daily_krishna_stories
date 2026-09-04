@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0529",
+ "title": "The Gods Ask Krishna to Come Home",
+ "subtitle": null,
+ "story": "One hundred and twenty-five years after Krishna came down into the line of Yadu, the gods came to Dwaraka to send him home.\n\nThey came as witnesses of everything that mattered in the world's story: Brahma at their head, Shiva among them, all the shining ones of heaven filling the courtyards of the city. And Krishna, who had been born among men and had lived a man's span among them, received them the way a host receives old friends.\n\nBrahma spoke for them all. \"Dharma has been established by you among the good, among those who keep their word,\" he said. \"You descended into the line of Yadu bearing a form without equal. The virtuous men of the Kali age will tell of your deeds for as long as there are tongues to tell them. A hundred and twenty-five years have passed since you came down. Your work for the gods is all but done, and this clan is nearly destroyed by the curse of the brahmins. If you think it fitting, Lord, return to your supreme abode.\"\n\nKrishna heard them out in silence. When he answered, there was no surprise in his voice, only the calm of a man naming a date he had known for a long time. The earth's burden, he said, was indeed lifted; that work was finished. But the Yadava clan had grown proud — swollen with valour, with prowess, with splendour — and a clan like that could not be left standing in the world like a fire nobody tended. Its destruction, born of the brahmins' curse, had already begun. When the curse had run its course, he said, he would go.\n\nThe gods had their answer, and it was not a refusal. Krishna was not clinging to his life among men; he was waiting for the last duty to be done, the way a lamp waits for the last of its oil. The curse was not an enemy coming at him from outside — it was the mechanism by which the world itself would set him free. Until it finished its work, he would stay at his post in Dwaraka, ruling, teaching, waiting.\n\nAnd so the hour of his leaving was fixed, not by the gods' asking but by the slow work of the curse. Brahma and the shining ones took their leave of the city of the Yadavas, carrying back to heaven the news that the Lord's time among men had an end now, and that the end was near. Dwaraka went on in its golden light, its halls full of heroes, its streets full of children — and over all of it, unseen, hung the appointment that had just been made.\n\nThe gods had come to ask Krishna to come home, and he had told them, gently, that he would — as soon as the world was done with him. It was the longest goodbye ever spoken, and it had begun.",
+ "reflection": "The scene fixes the end of Krishna's time on earth not as an accident or a defeat but as a term agreed upon: his life among men lasted exactly as long as the work required. The gods do not command him to return; they ask, as guests ask a host when it is time to leave — and he answers by naming the hour the curse will set.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Krishna",
+  "Brahma",
+  "Shiva",
+  "the gods"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "divine counsel",
+  "fulfilment",
+  "departure"
+ ],
+ "previous_story_id": "DKS_0528",
+ "next_story_id": "DKS_0530",
+ "next_story_tease": "The hour Krishna had promised the gods was already drawing close.",
+ "hero_scene": "The gods of heaven thronging the courtyards of Dwaraka, Brahma at their head and Shiva among them, while Krishna stands before them in the golden light of the city to receive their request.",
+ "visual_elements": [
+  "Brahma and the assembled gods in the courtyards of Dwaraka",
+  "Krishna receiving them calmly",
+  "the golden palaces of Dwaraka",
+  "the calm of a fixed appointment",
+  "the Yadava halls full of life",
+  "a mood of farewell foreshadowed"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.6.19-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:20:09Z",
+  "source_event_id": "evt_0505"
+ },
+ "editorial_status": "unreviewed"
+}

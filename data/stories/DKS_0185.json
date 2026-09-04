@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0185",
+ "title": "The Kings Emerge From the Mountain",
+ "subtitle": null,
+ "story": "For years the mountain at Girivraja had held more kings inside it than many kingdoms could count. Jarasandha, the king of Magadha, had not killed every ruler he conquered. Some he carried home and sealed inside a prison carved into the rock, where men who had once commanded armies and sat on thrones wasted away in the dark, forgotten by the world that had once feared them.\n\nThen the prison was opened. Jarasandha had fallen in the duel outside his own walls — the single combat he himself had chosen, against Bhima, strongest of the five Pandava brothers, who had come with his cousin Krishna to win the prisoners free. When the king was dead, Krishna walked to the prison rock and opened its gates.\n\nThe men who came out were hardly recognizable as kings. Hunger had eaten the flesh from their bodies and dried the color from their faces, and long confinement had worn them thin, so that they walked out into the daylight like men who had forgotten what a crown feels like. Twenty thousand eight hundred of them — more kings than most of the world had ever seen gathered in one place. And every one of them stopped at the sight of the dark figure waiting outside the gate.\n\nKrishna stood before them in his own form, and the sight of him was like open air to men who had lived years in the dark. He was dark and four-armed, with the mark of Srivatsa, the curl of fortune, on his chest, and his eyes were like the heart of a lotus in bloom. His lotus hands held the mace, the conch, and the discus; a jewel blazed at his throat; a garland of wildflowers hung over his shoulders. The kings breathed him in; they reached toward him with their arms; and the long weariness of their captivity dissolved in the joy of seeing him. Then, one after another, they bowed and pressed their heads to his feet.\n\nWhen they spoke, they did not speak of revenge. We do not resent the king of Magadha, they told him. A ruler swollen with the pride of power does not find what is good for him. Such men mistake a mirage for a pool of water and die of thirst staring at it. We were the same. Our fortunes blinded us, and we fought one another for conquest. See what has become of those fortunes now — you have shaken them away. What is a kingdom, after all, to a body that falls and suffers and ends? Show us the way to your feet, for that alone is worth having.\n\nAnd with a single voice rising from the dust of the prison yard, they praised him by name: Krishna, Vasudeva, Hari, the Supreme Self.\n\nKrishna answered them. It is well that you have resolved rightly, you who speak the truth, he said. Remember the kings whom pride undid: Haihaya fell, and Nahusha, and Vena, and Ravana, and Naraka. Know that this body, and everything born of it, comes to an end. Return to your people and carry on their line. Take happiness and sorrow, birth and death, as they come; do not cling to the body; find your joy within; and keep your vows.\n\nThen he turned to Sahadeva, the youngest of the Pandava brothers, and had the kings bathed, fed fine food, and dressed in fresh garments and ornaments. Krishna himself came forward and honored them, and the kings stood before him clean and adorned, their dull eyes bright again. Chariots were brought, yoked with good horses and decked with jewels and gold, and onto those chariots the kings were lifted.\n\nSo the twenty thousand eight hundred kings were freed at last from their long hardship by Krishna, and they rode home through the country that had forgotten them. And when they reached their people, they told them everything: the years of darkness in the mountain, the duel outside the gates, and the dark four-armed figure who had stood waiting for them in the light.",
+ "reflection": "The kings' first words are not curses on Jarasandha but confessions of their own pride; captivity has taught them what their crowns could not. Krishna sends them home not as subjects but as kings again, and what they carry back is not wealth but a story.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "the twenty thousand kings",
+  "Sahadeva"
+ ],
+ "locations": [
+  "Girivraja"
+ ],
+ "themes": [
+  "liberation",
+  "devotion",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0184",
+ "next_story_id": "DKS_0186",
+ "next_story_tease": "Soon after, with enemies pressing on Mathura, Krishna would begin looking for a new home for his people.",
+ "hero_scene": "Emaciated kings streaming out of the mountain prison of Girivraja into the daylight, falling at the feet of the dark four-armed Krishna, who stands radiant with mace, conch and discus among the stones of the prison gate.",
+ "visual_elements": [
+  "the mountain prison gate",
+  "twenty thousand eight hundred emaciated kings",
+  "Krishna's dark four-armed form",
+  "the Srivatsa mark on his chest",
+  "mace, conch and discus",
+  "a forest garland",
+  "kings bowing at his feet",
+  "chariots waiting with fine horses"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.73.1-29",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:49Z",
+  "source_event_id": "evt_0266",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

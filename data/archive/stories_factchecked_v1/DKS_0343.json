@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0343",
+ "title": "The Serpent Nooses of Shonitapura",
+ "subtitle": null,
+ "story": "On a quiet night in Shonitapura, a guard's sharp eyes found what no one had meant to see. A young man, a stranger, was moving through the inner apartments of the king's palace — and once the guards had seen him, there was no hiding the truth. Somewhere in the lamplit rooms of the women's quarters, the daughter of the house had a guest, and the guest was a prince of the Yadavas.\n\nIt had begun with a dream. Usha, the daughter of Bana, king of Shonitapura, had dreamed of a handsome young prince and fallen in love with the dream itself. The goddess who favored her had promised that she would marry the man she saw in it, and her friend Chitralekha, skilled in the arts of illusion, had flown to the city of Dwaraka and carried the dreamer to her: Aniruddha, son of Pradyumna, grandson of Krishna. In the privacy of the palace the two had been united, and for a little while Shonitapura had not known.\n\nNow the guards knew. They hurried to the king with the news that a stranger had been found in his daughter's own chambers. Bana, the mighty son of Bali, felt the report like a wound. He rose in fury and rushed to the women's quarters, and there, by the light of the lamps, he found his daughter at play — seated at dice with a young man of such beauty that the world had few like him, dark as a rain cloud, lotus-eyed, dressed in saffron, the dust of Usha's red kumkuma smeared on his chest where she had leaned against him. It was Aniruddha, unaware that the game and the night were both about to end.\n\nWhen Bana's soldiers closed in, the young prince did not wait to be taken. He rose and scattered the guards like a great boar scattering a pack of dogs, and for a moment it seemed the palace could not hold him. But Bana was not an ordinary king, and this was not an ordinary capture. The furious lord called up his power, and serpent-nooses — living coils that wound around the prince's body until he could not move — bound the Yadava where he stood. The Harivamsha describes it as though his whole body were chained with serpents. Usha, watching, wept without shame, and her tears fell on a scene that no weeping could undo.\n\nIn the first heat of his anger Bana would have had the intruder killed on the spot. It was his minister, the counselor Kumbhanda, who steadied him: the prince did not deserve death, he said. Better to keep him bound, a hostage of real value, and let the king decide what to do with the captive of his own palace. Aniruddha was handed over to the guards and thrown into a cell, still fast in the coils that had taken him, and Bana, still burning, withdrew to his own apartments.\n\nThe palace fell silent, but it was the silence of a city that has lit a fire it cannot put out. Usha sat in her rooms with her grief; the prince lay in darkness with the serpents tight around him; and the king who had everything — a daughter, a captive, a grievance — had also, without knowing it, started a war. For in Dwaraka, soon, someone would count the children of the house of Yadu, and one would be missing.",
+ "reflection": "Bana captures Aniruddha by power, but the capture is the turning point of his own ruin: the secret that should have stayed hidden becomes the cause of a war. There is something striking about the scene at the dice table — a young couple at play, undisturbed, while the machinery of wrath closes in around them.",
+ "tradition_note": "The Harivamsha describes the binding with serpentine shafts rather than living serpent-nooses, and gives Bana's minister Kumbhanda the counsel that the young prince should not be slain. This account follows the Bhagavata Purana.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Bana",
+  "Aniruddha",
+  "Usha",
+  "Kumbhanda"
+ ],
+ "locations": [
+  "Shonitapura"
+ ],
+ "themes": [
+  "discovery",
+  "capture",
+  "wrath"
+ ],
+ "previous_story_id": "DKS_0342",
+ "next_story_id": "DKS_0344",
+ "next_story_tease": "In Dwaraka, the counting of the house of Yadu was about to begin — and the answer would come at the head of twelve armies.",
+ "hero_scene": "In the lamplit women's quarters of Shonitapura, the young prince Aniruddha sits at dice with Usha while the furious king Bana bursts in — living serpent-nooses coiling up from the floor to bind the prince as Usha reaches toward him weeping.",
+ "visual_elements": [
+  "Aniruddha at dice with Usha in the lamplit women's quarters",
+  "Bana bursting in, enraged, in the doorway",
+  "living serpent-nooses coiling around the young prince",
+  "Usha weeping, reaching toward him",
+  "the bound prince being led away to his cell"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.62.26-34",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.266",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.33",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0224"
+ },
+ "editorial_status": "unreviewed"
+}

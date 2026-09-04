@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0237",
+ "title": "The Sage Who Brought the War",
+ "subtitle": "Narada incites the kings against the Yadavas",
+ "story": "\"At this sacrifice all the warrior kings and the Yadavas have assembled. Surely this will lead to a conflict. I shall therefore try to bring it about.\"\n\nThat was the thought of Narada, the wandering sage, as he looked over the encampment at Shatpura — the sage who moved among gods, kings and demons as though they were rooms of a single house, and whose words carried weight in every one of them. The kings had come from every quarter — Jarasandha, Shishupala, Dantavakra, the Pandavas, the sons of Dhritarashtra, Rukmi, Shalya, Shakuni and many more — and camped around the sacrificial ground where Brahmadatta's year-long rite still burned. On one side of that circle stood the Yadavas of Dwaraka; on the other, the kings. And inside the city, the Danavas who had tried to seize Brahmadatta's daughters still nursed their grievance. Where another sage might have foreseen bloodshed and spoken a warning, Narada walked straight to Nikumbha's house.\n\nThe Danavas received him with honor, seated him, and waited. Narada wasted no words. \"Having caused a dissension with the Yadavas,\" he said, \"how are you sitting here at ease? Do you not know that Brahmadatta is the friend of Krishna's father?\"\n\nThen he told Nikumbha what was coming to the sacrifice. All five hundred wives of Brahmadatta had been brought to the sacrificial ground to honor Krishna, the son of Vasudeva — wives from priestly, warrior, merchant and farming families alike. Years before, each of them had worshipped the sage Durvasa, and he had granted them a boon: one by one, each would bear a son and a daughter. By virtue of that boon they had all given birth to daughters of matchless beauty — tender, ever youthful, their bodies carrying the fragrance of every flower. Narada let the picture hang in the air, then drew the conclusion for them: jewels would open the ears of the kings, and maidens would seal the bargain.\n\nThe point was not lost on Nikumbha. These were the maidens who would come with the Yadavas — more of them, and lovelier, than the daughters the Danavas had failed to seize.\n\n\"O hero,\" Narada went on, \"invite in proper order the help of the other kings.\" The Asuras understood the lesson. If the kings who had come for the sacrifice could be turned — bought with jewels, promised maidens — then the Yadavas would find no friends at Shatpura, and the Danavas would meet them with an army of their own. The Danavas set about their work, and Narada, his errand at Nikumbha's house done, passed back through the encampment.\n\nThere he did the other half of his work. The great sage persuaded the heroic sons of Pandu to hold back from the coming war, so that when the armies met, the Pandavas would not be counted on the Yadavas' side. It was a careful mercy, or a careful cruelty — and Narada left it at that.\n\nSo the stage was set at Shatpura. The Danavas had their allies among the kings, the kings had their price, the Pandavas had been set apart, and the Yadavas were walking toward a sacrifice that had quietly become a trap. Nothing had been decided by battle, and yet everything had been arranged for one — which was exactly the kind of work Narada did best. And he had done it all without ever raising his voice.",
+ "reflection": "Narada here turns the blessing he received in Dwaraka toward the opposite end: he does not merely foresee the clash at Shatpura, he resolves to bring it about. The same gifts that let him joke with the lord of the universe let him arm the Asuras and disarm the Pandavas.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Narada",
+  "Nikumbha",
+  "kings",
+  "Pandavas"
+ ],
+ "locations": [
+  "Shatpura"
+ ],
+ "themes": [
+  "instigation",
+  "politics",
+  "conflict"
+ ],
+ "previous_story_id": "DKS_0236",
+ "next_story_id": "DKS_0238",
+ "next_story_tease": "Before the assembled kings could act, Nikumbha would use his illusive powers to carry the Yadava heroes one by one into a cave beneath Shatpura.",
+ "hero_scene": "Narada seated in Nikumbha's house, one hand raised as he tells the Danava of the five hundred fair daughters at the sacrificial ground and urges him to invite the help of the other kings, while the camp of the assembled kings glitters outside.",
+ "visual_elements": [
+  "the encampment of kings around the sacrificial ground at Shatpura",
+  "Narada seated and speaking in Nikumbha's house",
+  "Nikumbha and the Danavas listening",
+  "the five hundred wives and their daughters at the yajna",
+  "Narada preventing the Pandavas",
+  "conspiratorial, tense mood"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.230",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:41Z",
+  "source_event_id": "evt_0308",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

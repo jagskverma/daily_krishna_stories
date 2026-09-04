@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0031",
+ "title": "The Butter Thief of Gokula",
+ "subtitle": null,
+ "story": "The trouble in Gokula did not begin with butter. It began with two boys learning to crawl.\n\nKrishna and his brother Rama had grown quickly, the way children do when no one is watching, and in a short time they were dragging themselves across the ground on their little legs, churning up the mud of the cowherd lanes. They babbled as they went, and the whole settlement seemed to brighten at the sound, for there was nothing the cowherds loved more than the sight of those two small boys in motion. When they had crawled far enough, they would turn and creep back toward their mothers with puzzled, half-frightened faces, as if they had traveled a great distance and were surprised to find themselves home.\n\nTheir mothers would gather them up, two small boys caked in mud with their limbs stained the color of the lane, and press them to the breast, and look into their faces with their sweet smiles and their first little teeth, and be filled with joy. There was no resisting it.\n\nSoon the boys were up on their feet, and then the real play began. They would catch the calves of the herd by the tail and let themselves be dragged this way and that across the yard, and the women of Vraja, seeing it from their doorways, would leave whatever they were doing and come out to watch, laughing. The two mothers could only try to keep their restless sons away from horns and fire and a boar's tusks and open water and swooping birds and thorn bushes, and they could not. The boys were too quick and the mothers too fond, and in the end the women gave up trying and simply watched, their minds never quite at rest.\n\nAnd then Krishna discovered butter.\n\nIt began innocently, as these things do. He and his band of cowherd friends would slip into a neighbor's house and set the calves loose at the wrong hour, and stand laughing at the confusion. Then he found where the curd and the milk were kept, and the games turned to theft, but theft of a kind that made the gopis want to laugh even as they scolded. He worked with tricks and contrivances, and he chose his moment well, when the women were busy with their housework. When the pots hung high out of reach, in slings among the rafters, he would drag a stool or a mortar beneath them and climb. In the dark of a storeroom he needed no lamp, for the jewels on his own small body caught what little light there was and showed him where the pots were. He would eat the sweet curd and butter, and feed the monkeys who were his constant audience, and if a monkey refused to eat, he would smash the pot in a temper. And when he could not reach a pot at all, he would march off angry and shout curses at the little boys of the house.\n\nThe gopis complained to Yasoda, of course. They came with their lists of outrages, and their eyes, even while they complained, were soft with the sight of him, his face so lovely it undid their anger, and their scolding came out half-laughing. And Yasoda, who had seen a cart overturn beneath that same small foot, listened to it all with a smile on her face, and could not bring herself to scold him. And so it went, day after day, the butter missing and the mischief unpunished, and Gokula learned to live with a thief no one truly wanted to punish.",
+ "reflection": "The charm of the mischief is that everyone is in on it except the scolding: the gopis complain with delight in their eyes, and Yasoda hears them out and does nothing. The village loves the very trouble it reports.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "gopis"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "playfulness",
+  "mischief"
+ ],
+ "previous_story_id": "DKS_0030",
+ "next_story_id": "DKS_0032",
+ "next_story_tease": "And one of those pranks would soon send every cowherd boy running to Yasoda with news.",
+ "hero_scene": "Toddler Krishna stands on a stool, reaching into a hanging pot of butter in a dim storeroom, the jewels on his small body catching the faint light, while gopis watch with half-fearful, half-delighted eyes.",
+ "visual_elements": [
+  "toddler Krishna reaching into a hanging butter pot",
+  "a stool and mortar stacked to climb",
+  "a dim storeroom with hanging pots",
+  "the glow of Krishna's ornaments",
+  "gopis watching with mingled delight and mock anger",
+  "Yasoda smiling and refusing to scold",
+  "mood of warm mischief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.8.20-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:22:55+05:30",
+  "source_event_id": "evt_0045"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,42 @@
+# STORY DKS_0278 — Nriga's Story of the Disputed Cow || Nriga, an Ikshvaku king famed for charity, tells how he unwittingly gave one brahmana's stray cow to another and was cursed to become a lizard.
+
+## Index entry
+title: Nriga's Story of the Disputed Cow || Nriga, an Ikshvaku king famed for charity, tells how he unwittingly gave one brahmana's stray cow to another and was cursed to become a lizard.
+summary: Nriga, an Ikshvaku king famed for charity, tells how he unwittingly gave one brahmana's stray cow to another and was cursed to become a lizard.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Nriga, Krishna, Brahmanas, Yama
+locations: Dvaraka
+themes: charity, curse, error
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0252
+variant_notes: BP-only; follows bp10c_060.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 64 | verses 9-23 | confidence 5
+  excerpt: Nriga, a great giver of cows, told how a stray cow of one brahmana got mixed into his herd and was given to another; both brahmanas claimed it and refused all compensation, and Yama, giving him the choice, made him first suffer his sin, so he fell as a lizard. (rendered from Sanskrit, verses 9-23)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.64 (9-23)
+9. bhp_10.64.010/0 nṛga uvāca
+10. kiṃ nu te 'viditaṃ nātha sarva-bhūtātma-sākṣiṇaḥ /
+11. yāvatyaḥ sikatā bhūmer yāvatyo divi tārakāḥ /
+12. payasvinīs taruṇīḥ śīla-rūpa- guṇopapannāḥ kapilā hema-sṛṅgīḥ /
+13. sv-alaṅkṛtebhyo guṇa-śīlavadbhyaḥ sīdat-kuṭumbebhya ṛta-vratebhyaḥ /
+14. go-bhū-hiraṇyāyatanāśva-hastinaḥ kanyāḥ sa-dāsīs tila-rūpya-śayyāḥ /
+15. kasyacid dvija-mukhyasya bhraṣṭā gaur mama go-dhane /
+16. tāṃ nīyamānāṃ tat-svāmī dṛṣṭrovāca mameti tam /
+17. viprau vivadamānau mām ūcatuḥ svārtha-sādhakau /
+18. anunītāv ubhau viprau dharma-kṛcchra-gatena vai /
+19. bhavantāv anugṛhṇītāṃ kiṅkarasyāvijānataḥ /
+20. nāhaṃ pratīcche vai rājann ity uktvā svāmy apākramat /
+21. etasminn antare yāmair dūtair nīto yama-kṣayam /
+22. pūrvaṃ tvam aśubhaṃ bhuṅkṣa utāho nṛpate śubham /
+23. pūrvaṃ devāśubhaṃ bhuñja iti prāha pateti saḥ /
+
+## Corpus chain
+previous_story_id: DKS_0277 | next_story_id: DKS_0279
+previous title: Krishna Liberates King Nriga from a Lizard's Body || The Yadu princes find a giant lizard in a well; Krishna pulls it out with his left hand, and it becomes the radiant King Nriga.
+next title: Nriga Ascends and Krishna Warns Against Stealing Brahmanas' Wealth || Touched by Krishna, Nriga ascends to heaven in a celestial car, and Krishna warns the citizens that a brahmana's property is deadly poison.

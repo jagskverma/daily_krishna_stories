@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0397",
+ "title": "Shishupala's Outburst",
+ "subtitle": null,
+ "story": "The first honor had been offered, and the assembly was still settling back into its seats, when one king rose.\n\nThe moment had come earlier in the day, when Krishna received the arghya — the first worship of the Rajasuya, the choice that had pleased nearly every guest and enraged exactly one. Now Shishupala, son of Damaghosha, king of Chedi, rose from his seat, raised his arm, and spoke so that the whole great hall could hear him: harsh words, fearless words, his face black with the fury that hearing Krishna's praises had kindled in him.\n\n\"You call yourselves the best of judges of what deserves honor,\" he said. \"Do not take this for the babble of a child. Here sit men of austerity and learning, whose sins have been burned away by knowledge — and before them, this cowherd has been given the first worship! A cowherd who abandoned his own order, cast out of every duty of caste and stage of life, stripped of all dharma. The line of Yayati was cursed by the good and driven out; these men left the lands where the great sages dwelled and lost the splendor that belongs to the priestly virtue they have thrown away.\"\n\nHe went on, and the hall grew very still. He mocked the deeds themselves. \"If Krishna slew a vulture in his infancy, what is remarkable in that?\" he cried. \"If he held up Govardhan for a week — what is a mountain but an anthill to a strong man?\" And he spoke of Jarasandha, the great king slain in his own city, and called the slayer a wretch of the Vrishni race who had killed him unrighteously. Praise of Krishna he answered with sneers; honor he answered with contempt.\n\nThe assembly could not bear it. The sages sitting in the hall stopped their ears, unable to listen to the blasphemy, and curses fell from their lips. And the Pandavas rose — Bhima blazing with anger among them — and with them their allies, the Matsyas, the Kaikayas, the Srijnayas, weapons drawn, ready to kill the man who had defiled the assembly.\n\nYudhishthira strove to hold the moment back. \"What you have said is scarcely proper for you, O lord of earth,\" he said. \"It is sinful and needlessly cruel. Do not insult Bhishma by saying he does not know what virtue is. These kings before you, older than you, all approve of the worship offered to Krishna. Bear it patiently, as they do. Bhishma knows Krishna truly; you do not know him so well.\"\n\nThen Bhishma spoke, and his voice carried the weight of the eldest of the Kurus. He who disapproves the worship offered to Krishna, the oldest one in the universe, deserves neither soft words nor conciliation. \"I do not behold in this assembly of kings even one ruler who has not been vanquished in battle by the energy of this son of the Satwata race,\" he said. \"This one of undefiled glory deserves to be worshipped not by ourselves alone, but by the three worlds. We have offered him the first worship for his fame, his heroism, his success. This Shishupala is a mere boy, and he does not know Krishna.\"\n\nAnd the mighty-armed Bhishma caught hold of Shishupala, as Mahadeva seizes his own son, holding him back from the fight that was gathering around him.\n\nBut the king of Chedi stood unperturbed, as though the drawn weapons and the curses were nothing to him. He had already seized sword and shield, and he stood ready in the middle of the hall — one man against a storm of honor, refusing to feel its weight. And over his head, in that stopped and waiting silence, the storm hung gathered around the one figure it could not touch.",
+ "reflection": "Shishupala's fury attacks Krishna for being a cowherd — for the very lowliness the tradition places at the heart of Krishna's mystery. His insults measure him, not Krishna: envy, unable to reach its object, spends itself on the air of the assembly and only exposes the one who speaks.",
+ "tradition_note": "The Bhagavata and the Mahabharata tell the same assembly scene; the Bhagavata stresses the sages' curse and Shishupala's sword and shield, while the Mahabharata gives fuller speeches to Bhishma and Yudhishthira.",
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Shishupala",
+  "Krishna",
+  "Bhishma",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Indraprastha",
+  "Rajasuya assembly"
+ ],
+ "themes": [
+  "pride",
+  "envy",
+  "blasphemy"
+ ],
+ "previous_story_id": "DKS_0396",
+ "next_story_id": "DKS_0398",
+ "next_story_tease": "The king of Chedi had spent a hundred offenses in that hall — and Krishna had counted every one.",
+ "hero_scene": "In the great hall of the Rajasuya, Shishupala stands with arm raised and sword and shield in hand, face dark with fury, while the sages stop their ears, the Pandavas rise with drawn weapons, and Bhishma steps forward to hold him back.",
+ "visual_elements": [
+  "Shishupala rising from his seat with raised arm, speaking harsh words",
+  "the sages of the assembly stopping their ears",
+  "Bhima and the Pandavas rising with their allies, weapons drawn",
+  "Yudhishthira speaking conciliation with raised hands",
+  "Bhishma catching hold of Shishupala to restrain him",
+  "Shishupala standing unperturbed with sword and shield"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.74.29-41",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.37",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.41",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:23Z",
+  "source_event_id": "evt_0008"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0101",
+ "title": "Krishna Relents and Sports with the Gopis",
+ "subtitle": null,
+ "story": "Across the dark water of the Yamuna, the cowherd women of Vrindavan — the gopis, as they were called — were calling his name. Krishna heard them — he who needed nothing from anyone, who was already complete in himself — and for a long while he listened and did not move, letting the night stay full of their voices.\n\nThese were the women who had left their homes at the sound of his flute and followed him to the river on that full-moon night. Earlier that evening, he had tested them: he had sent them back with words meant to turn them away, to see whether their devotion could survive his refusal. It had. They had not gone home. They had grieved, and gone on calling for him, their longing unbroken. And it was that grief, more than anything else, that moved him at last.\n\nNow, hearing how they grieved, he could hold back no longer. Nothing he did that night came from any need of his own. Yet he smiled — not the smile of one who has been won over, but a smile of pure favor — and he came to them, and showed them grace. They had been refused once by his words and again by his silence, and still they had not turned away. They had asked for nothing but him, and that was exactly what they received.\n\nHe came down to the cool, sandy bank of the river, into the soft light of the full moon. The moment they saw him, their faces opened like flowers. They began to sing to him, and he sang with them; one voice answered another across the pale sand — a hundred voices braided together in the night — until, for a little while, there was nothing in the world but the two songs answering each other. Grief turned to gladness without a single word being changed.\n\nThen he spread his arms wide and drew them near, and the gopis pressed in around him. He held each one close, the way a person holds what he loves, and answered their affection with the light play of his fingertips. There was laughter, a hand at the fold of a garment — the breathless, easy joy of a long parting ending — and it all happened on sand that stayed cool through the heat of the night.\n\nThe gopis asked for nothing more, and they received everything. The women who, a moment before, had believed themselves abandoned, now felt themselves the most blessed women alive. Not because they had earned him — they would have said they had not. But because he had chosen to come back to them, and his coming was enough.",
+ "reflection": "The source is careful to say Krishna was self-satisfied, complete, in need of nothing — and that the favor he showed was therefore pure gift. The gopis' happiness is not a reward for endurance but the answer to longing that asked for nothing but him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Yamuna"
+ ],
+ "themes": [
+  "union",
+  "grace"
+ ],
+ "previous_story_id": "DKS_0100",
+ "next_story_id": "DKS_0102",
+ "next_story_tease": "But the night's joy would not hold; Krishna was about to slip away from among them.",
+ "hero_scene": "Krishna on the moonlit sandy bank of the Yamuna, arms spread wide as the gopis press in around him and sing, their faces lifted with relief and joy.",
+ "visual_elements": [
+  "Krishna with open arms on the riverbank",
+  "the gopis gathered around him singing",
+  "moonlight on the Yamuna",
+  "cool pale sand",
+  "faces opening like flowers",
+  "relief and joy"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.29.42-46",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0111",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

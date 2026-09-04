@@ -1,0 +1,45 @@
+# STORY DKS_0118 — Akrura Reports to Kamsa
+
+## Index entry
+title: Akrura Reports to Kamsa
+summary: Krishna withdraws the divine vision; Akrura drives on and reports to Kamsa before going home.
+life_stage: mathura | story_arc: akrura_and_departure
+characters: Krishna, Akrura, Kamsa
+locations: Mathura
+themes: concealment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0128
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 41 | verses 1-18 | confidence 5
+  excerpt: Krishna withdrew the vision as an actor withdraws a play; Akrura, wondering, drove on, and after Krishna bade him go ahead, he entered Mathura, reported to Kamsa, and went to his own house. (rendered from Sanskrit, verses 1-18)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.41 (1-18)
+1. so 'pi cāntarhitaṃ vīkṣya jalād unmajya satvaraḥ /
+2. tam apṛcchad dhṛṣīkeśaḥ kiṃ te dṛṣṭam ivādbhutam /
+3. bhp_10.41.004/0 śrī-akrūra uvāca
+4. yatrādbhutāni sarvāṇi bhūmau viyati vā jale /
+5. ity uktvā codayām āsa syandanaṃ gāndinī-sutaḥ /
+6. mārge grāma-janā rājaṃs tatra tatropasaṅgatāḥ /
+7. tāvad vrajaukasas tatra nanda-gopādayo 'grataḥ /
+8. tān sametyāha bhagavān akrūraṃ jagad-īśvaraḥ /
+9. bhavān praviśatām agre saha-yānaḥ purīṃ gṛham /
+10. bhp_10.41.011/0 śrī-akrūra uvāca
+11. āgaccha yāma gehān naḥ sa-nāthān kurv adhokṣaja /
+12. punīhi pāda-rajasā gṛhān no gṛha-medhinām /
+13. avanijyāṅghri-yugalam āsīt ślokyo balir mahān /
+14. āpas te 'ṅghry-avanejanyas trīṃl lokān śucayo 'punan /
+15. deva-deva jagan-nātha puṇya-śravaṇa-kīrtana /
+16. bhp_10.41.017/0 śrī-bhagavan uvāca
+17. bhp_10.41.018/0 śrī-śuka uvāca
+18. athāparāhne bhagavān kṛṣṇaḥ saṅkarṣaṇānvitaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0117 | next_story_id: DKS_0119
+previous title: Akrura Beholds the Divine Vision in the Yamuna
+next title: Nanda Departs for Vraja

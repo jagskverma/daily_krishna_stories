@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0403",
+ "title": "Krishna Returns to the Battle",
+ "subtitle": null,
+ "story": "In Indraprastha, in the middle of the honors and ceremonies of the Rajasuya, Krishna grew restless with omens he did not need explained twice. He had come there at Yudhishthira's summons — the sacrifice of emperors, whose heart was his presence — and the elders of the Kurus had honored him, and the sages, and Pritha his aunt, with her sons. It had been good to be among them. But the signs turned bad, and he read them without difficulty: his own people were in danger, far away by the sea.\n\nHe took his leave with courtesy, as he did everything — from the elders of the Kurus, from the sages, from Pritha and her sons. He had come when they called; now the road called him home. No one pressed him to stay, for those who knew him read the haste in his calm. And he set out for Dwaraka with all speed, the omens hurrying him, the dust of the road rising behind his chariot before the farewells were done. The road from Indraprastha to the sea was long, and Krishna took it at speed, for the omens did not ease as the miles fell away.\n\nWhat he found when he reached the city confirmed every sign. The gardens were wreckage. The gates hung broken, their leaves torn from the hinges. The marks of a long assault were everywhere — scarred walls, fallen towers, the streets still full of the debris of the morning — and the sky above Dwaraka still carried the dark shape of the flying city. Krishna saw the ruin of his own people, and he understood at once: the allies of the Chaidya, the friends of the slain Shishupala, had attacked his city while he was away.\n\nHe wasted no time on anger. He called to Daruka, his charioteer: \"Bring my chariot. Quickly. Straight to Shalva.\"\n\nDaruka did not ask twice. He readied the chariot and drove it out at speed, straight at the iron city and the army that hung beneath it.\n\nShalva saw Krishna coming, and he knew what it meant. His army was already near to broken by the Yadava princes, and now the one man he had built his vengeance around had arrived. He answered with his best weapon. From the heights of Saubha he hurled a spear at the chariot — aimed not at Krishna but at Daruka, the charioteer. A blazing spear it was, and it came down through the sky like a great meteor falling, trailing fire, so fast that the eye could barely follow it.\n\nKrishna's bow was already up. His arrows met the spear in mid-air and cut it to pieces — a hundred pieces — so that what reached the chariot was only sparks and splinters raining down.\n\nThen he turned the answer on the thrower. Sixteen shafts he drove into Shalva, fast and deep, and the flying city reeled through the sky, knocked off its course by the assault from below. Saubha staggered like a struck ship, and for the first time since the siege began, its barrage faltered.\n\nShalva was not finished. His own bow came up, and his arrow struck Krishna's left arm — the arm that held Sharnga, his great bow — and bit deep, so that for a moment the bow wavered in the hand that carried it. A great cry of lamentation went up from the beings who watched: from the armies on both sides, from the people of Dwaraka who saw their lord struck. It was a sound like the sky itself grieving, a long wail that hung in the air over the ruined city. But the hand that held Sharnga did not let it fall, and Krishna's answer to the cry was to press the chariot closer.\n\nBut the wound did not end it. Krishna pressed forward, and the battle that had begun in the fields of Dwaraka rose into the sky, and Saubha staggered under his assault. Krishna had come home to a war — and he had brought the war its answer.",
+ "reflection": "Krishna does not rush home because he doubts his people; the omens tell him his presence is the turning point, and he obeys them without ceremony. Shalva's spear, aimed at the charioteer rather than the warrior, is his most honest blow — strike the hands that carry a god into battle — and Krishna cuts it down mid-air, an answer that says: whatever comes at those he loves must pass through him first.",
+ "tradition_note": null,
+ "content_note": "Battle scenes with spears, arrows and a wounding; described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Shalva",
+  "Daruka"
+ ],
+ "locations": [
+  "Dwaraka",
+  "the sky"
+ ],
+ "themes": [
+  "urgency",
+  "leadership",
+  "combat"
+ ],
+ "previous_story_id": "DKS_0402",
+ "next_story_id": "DKS_0404",
+ "next_story_tease": "But Shalva had not spent his last deception — he would soon show Krishna a vision of Vasudeva's death.",
+ "hero_scene": "Over shattered Dwaraka, Shalva's blazing spear falls like a meteor toward Krishna's chariot, and Krishna, standing in the chariot with his bow drawn, cuts it into a hundred pieces in mid-air while Daruka drives on beneath him.",
+ "visual_elements": [
+  "Krishna taking leave of the Kuru elders and Pritha in Indraprastha",
+  "the ruined gardens and broken gates of Dwaraka on his return",
+  "Daruka driving the chariot at full speed toward the flying city",
+  "Shalva hurling the blazing spear like a falling meteor",
+  "Krishna cutting the spear to pieces with his arrows",
+  "the sixteen shafts piercing Shalva",
+  "Shalva's arrow striking Krishna's left arm as the cry of lamentation rises"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.77.5-18",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:41Z",
+  "source_event_id": "evt_0270"
+ },
+ "editorial_status": "unreviewed"
+}

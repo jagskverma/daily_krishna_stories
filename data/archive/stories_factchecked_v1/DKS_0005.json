@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0005",
+ "title": "The Prison of Devaki",
+ "subtitle": null,
+ "story": "Vasudeva kept his word. When Devaki bore her first son, a child named Kirtiman, he did not hide the baby or flee with it. He carried the newborn to Kamsa, exactly as he had promised, and laid his own son in the tyrant's hands.\n\nAnd Kamsa, for a moment, was moved. He looked at the truthfulness of the man before him, a father who had handed over his own child to keep a promise, and something in him relented. The voice had named the eighth child as his death, not this one. This infant held no terror for him. Take the boy back, he said. From this child I have nothing to fear. So Vasudeva gathered up his son and returned home, and for a little while it seemed the promise had worked, and that reason might still hold.\n\nThen a wandering sage arrived, and everything changed.\n\nThe sage was Narada, who travelled between worlds and missed nothing. He came to Kamsa with news that turned relief into terror. The gods, he said, were not waiting in the heavens. They had already begun to descend, taking birth among the cowherds of Vraja, among men like Nanda and his kinsfolk, and in the houses of the Yadavas, hiding among ordinary people and gathering like an army in the dark around the Lord who was to come. And there was more, and it was worse. Kamsa himself, the sage revealed, had been slain by Vishnu in a former life. The enemy he dreaded was not some stranger in a distant future; it was an old, unfinished war, and it was coming for him again. Narada spoke in plain certainties, and every certainty was a wound.\n\nKamsa heard all of this and could no longer tell friend from foe. Every face around him might be a god in disguise; every quiet village might be sheltering the one who would end him. So he turned on his own house. He had Devaki and Vasudeva seized and bound in chains and shut away in a cell within the palace, his own sister and the man who had kept faith with him. He imprisoned even his own father, the aged king Ugrasena, lord of the Yadus, the Bhojas and the Andhakas, and took the kingdom into his own hands.\n\nAnd to Devaki, the prison became a nursery of grief. Each child she bore after the first was taken from her and destroyed, one after another, so that the eighth, the one the voice had named, might never live to see the light. One after another they were taken, and with each loss the hope that had followed the firstborn's return faded a little further. The woman he had once driven to her wedding in love now sat in chains, watching her children leave the world.\n\nBut the thing Kamsa feared was already moving toward him, and no cell could hold it.",
+ "reflection": "Kamsa's cruelty escalates not from rage but from information: the same prophecy that once let him release a firstborn now makes every neighbour look like an enemy. Given better reasons, fear grows rather than shrinks.",
+ "tradition_note": "The Harivamsha gives a fuller backstory, six demon brothers cursed to be born of Devaki and slain by Kamsa, while the Vishnu Purana simply records that Narada told Kamsa the eighth child would be Vishnu, prompting the imprisonment.",
+ "content_note": "Kamsa imprisons Devaki and Vasudeva and kills Devaki's newborn children; the deaths are stated, not depicted.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Kamsa",
+  "Devaki",
+  "Vasudeva",
+  "Narada"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "tyranny",
+  "prophecy",
+  "suffering"
+ ],
+ "previous_story_id": "DKS_0004",
+ "next_story_id": "DKS_0006",
+ "next_story_tease": "But even the prison would not quiet Kamsa's fear; soon his own ministers would urge him to widen the slaughter.",
+ "hero_scene": "Devaki and Vasudeva in chains within a dim Mathura prison cell, while Kamsa stands over them, the kingdom he has seized now closed around them.",
+ "visual_elements": [
+  "Devaki in chains",
+  "Vasudeva bound beside her",
+  "Kamsa, watchful and afraid",
+  "the dark prison cell",
+  "the firstborn child returned to his mother's arms",
+  "Narada departing",
+  "a mood of dread and captivity"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.1.55-68",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.57",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.1",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:56:29Z",
+  "source_event_id": "evt_0019"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,37 @@
+# STORY DKS_0340 — Bana's Thousand Arms and Shiva's Boon || The thousand-armed asura Bana, son of Bali and devotee of Shiva, wins the boon of a worthy rival in battle.
+
+## Index entry
+title: Bana's Thousand Arms and Shiva's Boon || The thousand-armed asura Bana, son of Bali and devotee of Shiva, wins the boon of a worthy rival in battle.
+summary: The thousand-armed asura Bana, son of Bali and devotee of Shiva, wins the boon of a worthy rival in battle.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Bana, Shiva
+locations: Shonitapura
+themes: pride, boon, destiny
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0250
+variant_notes: BP-only background beat for the Bana episode.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 62 | verses 1-10 | confidence 5
+  excerpt: Bana, eldest son of Bali, pleased Shiva with his thousand arms and asked for a rival worthy of him; Shiva declared that when Bana's flag fell, his pride would be humbled in battle with a peer. (rendered from Sanskrit, verses 1-10)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.62 (1-10)
+1. bhp_10.62.002/0 śrī-śuka uvāca
+2. tasyaurasaḥ suto bānaḥ śiva-bhakti-rataḥ sadā /
+3. śoṇitākhye pure ramye sa rājyam akarot purā /
+4. bhagavān sarva-bhūteśaḥ śaraṇyo bhakta-vatsalaḥ /
+5. sa ekadāha giriśaṃ pārśva-sthaṃ vīrya-durmadaḥ /
+6. namasye tvāṃ mahā-deva lokānāṃ gurum īśvaram /
+7. doḥ-sahasraṃ tvayā dattaṃ paraṃ bhārāya me 'bhavat /
+8. kaṇḍūtyā nibhṛtair dorbhir yuyutsur dig-gajān aham /
+9. tac chrutvā bhagavān kruddhaḥ ketus te bhajyate yadā /
+10. ity uktaḥ kumatir hṛṣṭaḥ sva-gṛhaṃ prāviśan nṛpa /
+
+## Corpus chain
+previous_story_id: DKS_0339 | next_story_id: DKS_0341
+previous title: Aniruddha Is Betrothed to Rukmi's Granddaughter
+next title: Usha Dreams of Aniruddha

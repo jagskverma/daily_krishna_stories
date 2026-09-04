@@ -1,0 +1,18 @@
+{
+  "work": "Harivamsha (Sanskrit, GRETIL)",
+  "translator": "n/a (Sanskrit text)",
+  "edition": "GRETIL e-text sa_harivaMza.txt",
+  "publication_year": null,
+  "download_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_harivaMza.txt",
+  "download_date": "2026-09-01",
+  "format": "plain text (IAST)",
+  "copyright_status": "public domain",
+  "license_notes": "GRETIL licence; ancient text PD",
+  "sha256": "1acf7bab7533a57916c13905e6a1ac98104761c23d75fdf39717ed558c05c315",
+  "files": [
+    "other/harivamsa_sanskrit_gretil.txt"
+  ],
+  "role": "Sanskrit reference layer for Harivamsa",
+  "quality": "clean",
+  "confidence": 5
+}

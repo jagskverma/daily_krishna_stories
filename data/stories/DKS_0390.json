@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0390",
+ "title": "Shishupala Incites the Kings to Battle",
+ "subtitle": null,
+ "story": "Krishna had received the first honor of the Rajasuya — Yudhishthira's great sacrifice at Indraprastha — and the hall changed in a single breath from a place of ceremony into a place of war. The kings of the earth had come to the sacrifice from every direction, to witness the rite, to share in its glory, to be counted among its guests. And when the first offering of honor went to Krishna, before any of them, the assembly had felt the sting of it. They carried that sting through the long rites, and the air of the hall grew thick with it.\n\nThen Shishupala, the king of Chedi, rose and gave the anger a voice. \"When I am here to lead you all,\" he cried, \"what are you thinking of? Come, let us stand in battle against the Vrishnis — Krishna's own people — and the Pandavas!\"\n\nThe words found their mark at once. The great company of kings, already restless with wrath, stirred like a sea whipped up by storm winds, and all around the hall the countless troops that had ridden in with their masters seemed to gather themselves for a rush.\n\nKrishna saw it before anyone else. Seated in his place, he understood what was coming, and he did not move. He neither rose nor reached for a weapon nor called for his chariot. He waited, as a man waits when he has already seen the end of a thing.\n\nYudhishthira saw the same storm and read it differently. This was his sacrifice, his city, his guests, and the ruin of any one of them would be his. He leaned toward Bhishma, the grandsire of the Kurus, who sat near him like a mountain among men. \"This vast ocean of kings has been stirred to wrath,\" he said. \"Tell me, Grandsire, what I should do, so that my sacrifice may not be obstructed and my people may not be hurt.\"\n\nBhishma answered as though the matter were already settled. \"Fear nothing, tiger of the Kurus. Can the dog slay the lion? As dogs in a pack gather around a sleeping lion and bark, so are all these lords of the earth. They are barking in rage at the sleeping lion of the Vrishni race. Krishna is that lion now, asleep; and until he wakes, this king of the Chedis makes these monarchs look like lions.\"\n\nThe old man's voice did not rise, and the whole hall leaned in to hear him. \"This Shishupala, with little wisdom, means to drag all these kings after him, through him who is the soul of the universe, down to the country of the dead. For Krishna — who is Vishnu come to earth — has long meant to take back into himself the strength that burns in this Shishupala. And look how the minds of the king of Chedis and of all who follow him have turned crooked: the one who means to gather them to himself first clouds their judgment. Krishna is the maker and the end of every living creature.\"\n\nHe fell silent, and the silence was heavier than the shouting had been. Kings glanced at one another, no longer certain whether the rage they felt was their own or something placed inside them.\n\nBut the king of Chedis had heard every word, and it had not cooled him. He turned on the grandsire, and when he spoke, his words were stern and rough — the words of a man who means to answer a prophecy with war.",
+ "reflection": "Bhishma's calm before a hall of furious kings is not a dismissal of their numbers; it is a reading of their anger as a prelude. The more the monarchs rage, the closer he knows the end to be — the fury of the hall is not the danger but the sign.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Shishupala",
+  "Krishna",
+  "Yudhishthira",
+  "Bhishma"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "rebellion",
+  "anger",
+  "foresight"
+ ],
+ "previous_story_id": "DKS_0389",
+ "next_story_id": "DKS_0391",
+ "next_story_tease": "Shishupala, however, had heard every word — and his answer was already forming on his lips.",
+ "hero_scene": "Inside the great hall of Indraprastha: Krishna seated, utterly still, while a sea of furious kings surges around him — Shishupala on his feet, arm raised toward the throng, as Yudhishthira leans toward white-haired Bhishma for counsel.",
+ "visual_elements": [
+  "the vast assembly of kings stirred like a storm-tossed sea",
+  "Shishupala standing, calling the monarchs to battle",
+  "Krishna seated unmoved, reading the oncoming rush",
+  "Yudhishthira leaning to Bhishma in the midst of the uproar",
+  "countless waves of troops gathering around the hall"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.39",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:54Z",
+  "source_event_id": "evt_0397",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

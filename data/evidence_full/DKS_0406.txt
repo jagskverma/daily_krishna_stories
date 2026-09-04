@@ -1,0 +1,38 @@
+# STORY DKS_0406 — Krishna Slays Dantavakra and Viduratha || Dantavakra attacks Krishna with a mace to avenge Shishupala and Shalva; Krishna crushes his chest, then beheads his brother Viduratha with the discus.
+
+## Index entry
+title: Krishna Slays Dantavakra and Viduratha || Dantavakra attacks Krishna with a mace to avenge Shishupala and Shalva; Krishna crushes his chest, then beheads his brother Viduratha with the discus.
+summary: Dantavakra attacks Krishna with a mace to avenge Shishupala and Shalva; Krishna crushes his chest, then beheads his brother Viduratha with the discus.
+life_stage: dwaraka | story_arc: rajasuya_and_sisupala
+characters: Krishna, Dantavakra, Viduratha
+locations: near Dwaraka
+themes: revenge, combat, divine justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0271
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 78 | verses 1-11 | confidence 5
+  excerpt: Dantavakra, eager to repay his slain friends, rushes at Krishna on foot, taunting him as the murderer of his kinsmen, and strikes him on the head with his mace. Unshaken, Krishna crushes Dantavakra's chest with his mace Kaumodaki, and when his brother Viduratha comes on to avenge him, Krishna severs his crowned head with the discus. (rendered from Sanskrit, verse 1-11)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.78 (1-11)
+1. ekaḥ padātiḥ saṅkruddho gadā-pāṇiḥ prakampayan /
+2. taṃ tathāyāntam ālokya gadām ādāya satvaraḥ /
+3. gadām udyamya kārūṣo mukundaṃ prāha durmadaḥ /
+4. tvaṃ mātuleyo naḥ kṛṣṇa mitra-dhruṅ māṃ jighāṃsasi /
+5. tarhy ānṛṇyam upaimy ajña mitrāṇāṃ mitra-vatsalaḥ /
+6. evaṃ rūkṣais tudan vākyaiḥ kṛṣṇaṃ totrair iva dvipam /
+7. gadayābhihato 'py ājau na cacāla yadūdvahaḥ /
+8. gadā-nirbhinna-hṛdaya udvaman rudhiraṃ mukhāt /
+9. tataḥ sūkṣmataraṃ jyotiḥ kṛṣṇam āviśad adbhutam /
+10. vidūrathas tu tad-bhrātā bhrātṛ-śoka-pariplutaḥ /
+11. tasya cāpatataḥ kṛṣṇaś cakreṇa kṣura-neminā /
+
+## Corpus chain
+previous_story_id: DKS_0405 | next_story_id: DKS_0407
+previous title: Krishna Destroys the Flying City Saubha and Slays Shalva
+next title: Draupadi Invokes Krishna as She Is Dragged and Disrobed

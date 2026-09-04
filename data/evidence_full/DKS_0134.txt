@@ -1,0 +1,35 @@
+# STORY DKS_0134 — Kamsa Is Terrified by Evil Omens
+
+## Index entry
+title: Kamsa Is Terrified by Evil Omens
+summary: Kamsa, hearing of the bow's breaking, spends a sleepless night beset by omens and dreams of death.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Kamsa
+locations: Mathura
+themes: fear, omens
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0137
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 42 | verses 23-30 | confidence 5
+  excerpt: Hearing of the bow's breaking and his guards' death, Kamsa spent a sleepless night terrified by evil omens and dreams — the loss of his own head, visions of corpses, and of himself riding an ass — all foretelling his death. (rendered from Sanskrit, verses 25-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.42 (23-30)
+23. gopyo mukunda-vigame virahāturā yā āśāsatāśiṣa ṛtā madhu-pury abhūvan /
+24. avaniktāṅghri-yugalau bhuktvā kṣīropasecanam /
+25. kaṃsas tu dhanuṣo bhaṅgaṃ rakṣiṇāṃ sva-balasya ca /
+26. dīrgha-prajāgaro bhīto durnimittāni durmatiḥ /
+27. adarśanaṃ sva-śirasaḥ pratirūpe ca saty api /
+28. chidra-pratītiś chāyāyāṃ prāṇa-ghoṣānupaśrutiḥ /
+29. svapne preta-pariṣvaṅgaḥ khara-yānaṃ viṣādanam /
+30. anyāni cetthaṃ-bhūtāni svapna-jāgaritāni ca /
+
+## Corpus chain
+previous_story_id: DKS_0133 | next_story_id: DKS_0135
+previous title: Krishna Breaks Kamsa's Great Bow
+next title: Kamsa Orders the Wrestling Festival

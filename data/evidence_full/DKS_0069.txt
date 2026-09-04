@@ -1,0 +1,36 @@
+# STORY DKS_0069 — Krishna Slays the Demon Vyoma
+
+## Index entry
+title: Krishna Slays the Demon Vyoma
+summary: The demon Vyoma, disguised as a cowherd, carries off boys and seals them in a cave; Krishna slays him and frees them.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Vyoma, cowherd boys
+locations: Vrindavan
+themes: rescue, demon-slaying
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0121
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 37 | verses 24-32 | confidence 5
+  excerpt: As the cowherd boys played at thieves and keepers, the demon Vyoma, son of Maya, carried off many of them in a cowherd's disguise and sealed them in a mountain cave; Krishna seized and slew him and freed the boys. (rendered from Sanskrit, verses 25-32)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.37 (24-32)
+24. bhagavān api govindo hatvā keśinam āhave /
+25. ekadā te paśūn pālāś cārayanto 'dri-sānuṣu /
+26. tatrāsan katicic corāḥ pālāś ca katicin nṛpa /
+27. maya-putro mahā-māyo vyomo gopāla-veṣa-dhṛk /
+28. giri-daryāṃ vinikṣipya nītaṃ nītaṃ mahāsuraḥ /
+29. tasya tat karma vijñāya kṛṣṇaḥ śaraṇa-daḥ satām /
+30. sa nijaṃ rūpam āsthāya girīndra-sadṛśaṃ balī /
+31. taṃ nigṛhyācyuto dorbhyāṃ pātayitvā mahī-tale /
+32. guhā-pidhānaṃ nirbhidya gopān niḥsārya kṛcchrataḥ /
+
+## Corpus chain
+previous_story_id: DKS_0068 | next_story_id: DKS_0070
+previous title: Krishna Slays the Horse-Demon Keshi
+next title: Krishna Resolves to Subdue the Serpent Kaliya

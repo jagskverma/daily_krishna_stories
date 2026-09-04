@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0080",
+ "title": "Indra Becomes Furious",
+ "subtitle": null,
+ "story": "Far above the pastures of Vraja, in the bright realm of the gods, the word reached Indra late, and when it reached him it did not please him.\n\nHe was the lord of the clouds and the rain, the king of the celestials. The clouds were his own forms, and the water that fell on the pastures of the world was his gift, the delight and the life of every creature. And he had grown used to a certain homage. Season after season, when the rains came and the grass grew and the herds fattened, the cowherds of Vraja had turned their offerings to him. It was an old arrangement, older than anyone in the village could remember, and Indra had come to expect it the way a man expects the sun to rise.\n\nThis season, the news said, it had not happened. The sacrifice that should have been his had been turned aside. The cowherds had gathered their offerings as they always did, the milk and the grain and the fuel for the fires, and then, at the word of a boy, they had carried them elsewhere, to a hill that stood over their pastures. The boy had argued that beings are born and perish by their own deeds, that the clouds rain not at a king's command but by their own nature, and that people of the forest should honour the very things by which they live. So the cowherds had walked in a circle around the hill and the cows and the brahmins, the women of Vraja singing of the boy's deeds as they went, and the boy himself had come before the hill and said, \"I am the mountain,\" and in a great form had received the offerings meant for the sky.\n\nIndra listened, and his anger kindled. It was not the loss of the offerings alone that stung him, though that was wound enough for a king. It was that these simple people had needed a reason at all, and had found one in a boy and a hill rather than in him. It was the thought of who had done it: the cowherds, simple Nanda and his people, who now called a boy their lord. That they should turn away from him, and turn instead to a hill, and call themselves content, this was more than he could bear.\n\nThe text is blunt about it. When Indra understood that his own worship had been cut off, he grew angry with the cowherds whose lord was Krishna, with Nanda and the rest of them.\n\nIt was the anger of a god who had been forgotten, and it gathered over Vraja like a storm that had not yet broken.",
+ "reflection": "Indra's anger is not really about the loss of the offerings; it is about the loss of being needed. It is the wound pride feels when it discovers that the world can get along without it.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Indra",
+  "Krishna",
+  "Nanda"
+ ],
+ "locations": [
+  "heaven"
+ ],
+ "themes": [
+  "pride",
+  "anger"
+ ],
+ "previous_story_id": "DKS_0079",
+ "next_story_id": "DKS_0081",
+ "next_story_tease": "Down in Vraja, Nanda was explaining to his son the old reason that sacrifice had always been given to Indra.",
+ "hero_scene": "Indra in his celestial court, thunder gathered in his brow, learning that the cowherds of Vraja have turned aside the sacrifice that had always been his.",
+ "visual_elements": [
+  "Indra, king of the celestials",
+  "celestial court in heaven",
+  "rain clouds and thunder",
+  "anger darkening his face",
+  "distant hill of Vraja",
+  "the cowherds' sacrifice turned aside",
+  "pride wounded"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.24.38",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:06:08Z",
+  "source_event_id": "evt_0095"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

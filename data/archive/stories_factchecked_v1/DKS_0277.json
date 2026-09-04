@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0277",
+ "title": "Krishna Liberates King Nriga",
+ "subtitle": null,
+ "story": "This happened in the days when Krishna lived among the Yadus in Dwaraka, and the young men of the clan still played as boys play. One morning they ran out into the fields beyond the city walls and played until the sun stood high, chasing one another through the long grass and the dust. The games went on until their legs ached and their laughter ran dry in their throats. By afternoon their throats were dry, and they went looking for water, searching this way and that, calling to one another across the empty fields. In their searching they came upon a well. It was dry. But it was not empty.\n\nAt the bottom of the dry well lay a lizard, and it was vast — the size of a hill, a creature no such well should ever have held. It was a thing out of a story, too big to be real, and yet there it lay in the dark, still as the stone around it. Its hide gleamed faintly in the light from the well's mouth, and its stillness was the stillness of something waiting. The boys stood at the rim and stared down at it, astonished, and for a long moment no one spoke. Then, being boys and never ones to leave a wonder alone, they decided to haul it up.\n\nThey knotted together ropes of leather and thread, lowered them into the dark, and bound the great creature. Then they pulled — all of them together, setting their heels and calling out to one another — and the thing would not move. The great lizard did not so much as stir at their efforts. They pulled until their hands burned and their breath came hard, and still it lay where it was, patient as stone. In the end they had to stand back, breathless and baffled, and wonder what such a creature could be, and how it had ever come to rest in a dry well.\n\nWord of it reached Krishna, and he came to the well, and the boys made way for him. He stood at the edge and looked down at the creature in the dark, and he did not trouble himself with ropes. He reached in with his left hand, took hold of it, and drew it up into the light. And the moment his hand touched it, the lizard was gone. The boys had strained and failed; his touch alone was enough.\n\nIn its place stood a man, and he shone. He stood in the sunlight with the brilliance of molten gold, a splendor that was not of this world, and the boys fell back from him, shielding their eyes. For a long moment no one could look at him directly. The whole morning's play was forgotten, and the well and the field and the dust of the road all seemed to stand still around him.\n\nKrishna was not surprised. He knew already who stood before him and by what deed he had come to this. But he asked the question aloud, so that the answer would be heard not by him alone but by everyone gathered at the well. “What deed,” he asked, “has brought you to this state — you, who did not deserve such a thing?”\n\nThe radiant man lifted his head — for he was Nriga, a king of ancient days — and before the wondering crowd he began to speak, the boys pressing closer and forgetting, for a little while, their thirst. And the story he told, of how a king had come to crouch in a dry well, was one the whole city would learn.",
+ "reflection": "The scene withholds more than it gives. We are not told, here, why a king crouched in a dry well in a lizard's skin; we are shown only that the touch of Krishna's hand was enough to end it. Liberation, in this telling, does not wait for an explanation — it comes first, and only afterward asks, so that the telling can become a gift to everyone listening.",
+ "tradition_note": "This episode is told only in the Bhagavata Purana; it has no parallel in the other major sources.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Nriga",
+  "Yadu princes"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "curse",
+  "liberation",
+  "grace"
+ ],
+ "previous_story_id": "DKS_0262",
+ "next_story_id": "DKS_0281",
+ "next_story_tease": null,
+ "hero_scene": "Krishna reaching down into the mouth of a dry well with his left hand to touch a vast lizard, while the Yadu boys peer over the rim and a golden radiance begins to rise from below.",
+ "visual_elements": [
+  "Krishna",
+  "the vast lizard in the well",
+  "the Yadu boys",
+  "the dry well",
+  "ropes of leather and thread",
+  "Krishna's left hand",
+  "the radiant golden king",
+  "sunlight",
+  "a mood of wonder and awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.64.1-8",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:48Z",
+  "source_event_id": "evt_0251"
+ },
+ "editorial_status": "unreviewed"
+}

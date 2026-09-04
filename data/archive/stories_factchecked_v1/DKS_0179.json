@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0179",
+ "title": "The Road to Indraprastha",
+ "subtitle": "Krishna leaves Dwaraka with a vast procession for Yudhishthira's Rajasuya.",
+ "story": "The morning Krishna left Dwaraka, the conches sounded before the sun cleared the sea. They began at the palace and were answered from the gates, and by the time the first light touched the city's white towers, every street knew that the lord of the Yadavas was going out on a journey — and that no one remembered a departure like it.\n\nHe had spoken of it the evening before, quietly, the way he did everything that mattered. Yudhishthira, the eldest of the Pandavas, was preparing the Rajasuya, the great sacrifice that would confirm his rule, and had sent for Krishna to come to Indraprastha. There was more in the invitation than ceremony. The sacrifice asked that every king of the land acknowledge Yudhishthira's eminence, and one king, Jarasandha of Magadha, would never bow — the same enemy Uddhava had named in council, the one who could only be met in single combat and who stood between them and the sacrifice. But that was for later. First came the road.\n\nKrishna entrusted Dwaraka to Balarama, who would guard the city and its people while he was gone. Then he mounted his chariot, the one that flew the Garuda banner, and gave the word.\n\nWhat followed was less a departure than the city turning itself inside out. The army came first — chariots by the hundred, horsemen, elephants in their ornaments, foot soldiers in ordered ranks, so many that the plain beyond the gates could not hold them. The drums began: mridangas, bheris, the deep anaka, with conches and the curved gomukha horns joining in, until the sound rolled back against the walls and out over the sea. Banners climbed the morning air, and the sun caught on weapons, armor, and the crests of the allied kings who had chosen to ride with Krishna.\n\nBehind the army came the inner procession. The women of the palace followed in their palanquins — Krishna's queens, with their children and attendants — borne on gilded litters with silk curtains drawn against the dust, and after them the long trains of oxen, camels, mules, and she-elephants carrying the household's goods. The whole mass of it shone and moved and sounded, like an ocean stirred by great fish, and at its head rode one chariot with a Garuda banner, and in that chariot Krishna himself, calm as the eye of the storm.\n\nHalfway down the road, the sage Narada met them. He was the tireless traveler of the gods, welcome everywhere, and when he came before the Yadu lord he bowed and paid his homage, and Krishna returned the honor with words that pleased him. Then Narada rose through the sky, carrying the sight of Krishna in his heart, and the procession went on.\n\nKrishna had also sent a royal messenger ahead of him, to the kings whose lands the road would cross — a courtesy, and a signal too, so that no ruler along the way would mistake an army for an invasion. The messenger carried his word from court to court, and the kings made ready to receive their guest.\n\nThe land rolled past them: Anarta, where Dwaraka stood, then the dry country of Sauvira, the wastes of Maru, and Vinashana, where an old river was said to vanish into the earth. They crossed the Drishadvati and then the Sarasvati, rivers of the older stories, and everywhere they passed, towns emptied into the streets to watch — the local kings riding out to greet Krishna and ride a stretch of the way beside him, children running alongside the elephants, women watching from the rooftops.\n\nIt took many days. But the road was the easy part; what waited at its end was not. Indraprastha lay ahead, and the Rajasuya, and the question of Jarasandha — and Krishna was going there with the whole weight of his city at his back, to settle all of it.",
+ "reflection": "The scale of the procession is not vanity. A king does not travel so heavily when his journey carries other kingdoms' fates; Krishna leaves his own city guarded and goes as a guest to another king's sacrifice, and the grandeur of the march says plainly how much is at stake — a sacrifice that could crown Yudhishthira's rule, or open a war with Magadha.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Narada"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Indraprastha"
+ ],
+ "themes": [
+  "royal procession",
+  "journey",
+  "majesty"
+ ],
+ "previous_story_id": "DKS_0178",
+ "next_story_id": "DKS_0180",
+ "next_story_tease": "But the sacrifice would wait; there was an older imprisonment in Magadha to break first.",
+ "hero_scene": "Krishna in his golden chariot beneath the Garuda banner at the head of an immense procession leaving Dwaraka's gates — elephants, chariots and horsemen behind him, the queens' palanquins following, banners and fly-whisks stirring in the sea wind while drums and conches sound against the city walls.",
+ "visual_elements": [
+  "Krishna's chariot with the Garuda banner",
+  "the vast army — chariots, horsemen, elephants",
+  "the queens' palanquins",
+  "Dwaraka's gates and white towers",
+  "banners and fly-whisks in the sea wind",
+  "Narada rising through the sky",
+  "the desert lands of Maru and Sauvira",
+  "the Drishadvati and Sarasvati rivers"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.71.11-21",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:20Z",
+  "source_event_id": "evt_0262"
+ },
+ "editorial_status": "unreviewed"
+}

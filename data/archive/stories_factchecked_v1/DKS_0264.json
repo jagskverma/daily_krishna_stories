@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0264",
+ "title": "Krishna Frees Naraka's Captive Princesses",
+ "subtitle": null,
+ "story": "The palace of Narakasura opened before Krishna like a hoard that had waited years for the right hand to claim it. The demon was dead, slain in his own kingdom, and his conqueror now walked through the rooms of the fortress he had terrorized the world from.\n\nThe treasury alone was enough to stagger the mind. Diamonds, pearls, corals, sapphires, emeralds; heaps of gold and jewels gathered from gods, gandharvas and serpents; a bed that shone like the moon; a lion-shaped throne bright as burning fire. And there, too, stood the great umbrella of Varuna — cloud-colored, moon-lustered, with a standard of gold — which the demon had carried off from the lord of the waters. Krishna took that umbrella for himself, as his share of the hoard.\n\nBut the true prisoners of the palace were not things. In the inner chambers Naraka had shut away sixteen thousand one hundred royal princesses — daughters of kings, seized from their families and held in his power. When Krishna entered, they saw him, and the sight undid them. The text says they were enchanted, captivated, as if the one man they had been waiting for had simply walked into their prison. In that first glance, each of them chose him. May this man be my husband, each thought; may the creator ratify my choice.\n\nThey came to him thin from fasting and vows, wearing the single braid of a woman whose husband is absent, dressed in silk, with folded hands, and they stood around him without fear. Word of Naraka's death had reached them; the man who had broken their cage could not frighten them. They had lived in the seraglio deprived of every enjoyment, and yet unharmed — like celestial maidens lodged in a city of the gods, safe and fed and utterly unfree, and the elder guardians of the palace bowed to Krishna as he passed. They told him what the sage Narada and the wind-god had promised long ago: that Narayana himself would slay Naraka and become their husband. They had heard the prophecy all their lives and never quite believed it would arrive in the shape of this calm man standing in the demon's hall.\n\nKrishna consoled them, and then set the whole household of the demon in motion. The treasures were gathered up and sent on ahead to Dwaraka — the war elephants of Naraka, grim beasts carrying bows and lances, twenty thousand of them, and forty thousand she-elephants, and eight hundred thousand horses of the most excellent breed, everything the demon had amassed passing into the hands of the man who had ended him. And with the treasure went the maidens themselves: sixty-four white elephants of the breed of Airavata, four-tusked and swift, bore them and their wealth toward the city that would become their home.\n\nIt was a strange procession — the wealth of a demon leaving his own fortress in broad daylight, not as plunder in the hands of raiders but as tribute carried to a new master, its own warders bowing as it passed. The seraglio of the tyrant emptied; the treasure vaults gaped; and the city that had lived in fear for so long watched its captives walk out free.\n\nIn Dwaraka, the news was already stirring the streets. Sixteen thousand one hundred royal brides were on the road, and the riches of a demon king were arriving by the cartload. Krishna had gone to Pragjyotisha to end a tyranny; he was returning with a kingdom's ransom — and with the women who had chosen him with their eyes before they ever spoke a word.",
+ "reflection": "The maidens' choosing happens in a single glance, and the text is careful that they are not given to Krishna as spoils — they choose him for themselves. Freedom and devotion arrive together: the liberator is the one they want, and their release is also the beginning of their love.",
+ "tradition_note": "The Harivamsha places the captive maidens on Mount Mani rather than inside Naraka's palace, and has Krishna escort them to Dwaraka himself; this story follows the Bhagavata Purana, in which he sends them ahead with the treasures.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Princesses"
+ ],
+ "locations": [
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "liberation",
+  "compassion",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0263",
+ "next_story_id": "DKS_0265",
+ "next_story_tease": "And Krishna still carried Aditi's earrings, which had to travel from the demon's vault to the court of heaven.",
+ "hero_scene": "Krishna standing in the inner hall of Narakasura's palace, surrounded by the sixteen thousand one hundred captive princesses in silk and single braids, who gaze at him with folded hands and shining eyes while the demon's treasure gleams beyond.",
+ "visual_elements": [
+  "Naraka's treasure vault with gold, jewels, the moon-bright bed and the lion throne",
+  "the great umbrella of Varuna",
+  "sixteen thousand one hundred captive princesses with folded hands and single braids",
+  "Krishna consoling the maidens",
+  "the procession of treasures and white elephants leaving for Dwaraka",
+  "liberation and joy"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.31-36",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.121",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:08Z",
+  "source_event_id": "evt_0210"
+ },
+ "editorial_status": "unreviewed"
+}

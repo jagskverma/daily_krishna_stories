@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0102",
+ "title": "The Gopis Search the Forest",
+ "subtitle": null,
+ "story": "One moment Krishna was there among them; the next, the gopis turned and he was gone. No word, no warning — only the empty place where he had stood.\n\nThese were the cowherd women of Vrindavan, who had followed him from their homes at the sound of his flute. Now the one they loved had slipped away from them, and they did not go home. They went into the forest, like women out of their senses, searching from wood to wood and singing his name aloud, so that all of Vrindavan could hear. The moonlight fell in pieces through the leaves, and still they went on, bare feet finding the paths between the trees, voices lifting and falling in the dark.\n\nAnd as they searched, he seemed to rise up in them. His walk, his smile, the way he glanced, the sweet way he spoke — all of it came back through them as they went, until each woman seemed to carry a little of him in her own step and voice. To see them was to see him, scattered among a hundred women.\n\nBecause they had no one else to ask, they questioned the trees. \"Have you seen Nanda's son?\" they asked the great banyan and the holy fig trees — for so the village named Krishna, who had been raised as a son by Nanda, the chief of the cowherds. They asked the flowering trees, the ashoka and the champaka. They asked the tulasi, the holy basil that loves Krishna's feet. They asked the mango and the kadamba and the jasmine, and every other tree and creeper they passed, climbing the great trunks like a friend embracing a friend. \"Have you seen him,\" they said, \"the one who stole our hearts with his smiles?\"\n\nThey even turned on the earth beneath them and demanded to know what penance it had done, that the mere touch of his feet should make it break into blossom. And they asked the doe: has Krishna come this way, his arm resting on a beloved's shoulder, a lotus in his hand, the bees following the scent of his garland? Did the trees bow to him as he passed, blessed by one long, loving glance?\n\nBut the forest kept its silence. The trees held their branches still. And the gopis went on from tree to tree, calling the question again and again, because asking was the only thing left to do.\n\nThey were not looking for news of him. They were looking for him. And somewhere in the middle of that long night, the search stopped being a search for someone lost and became the only way they knew to keep him near — to keep saying his name, to keep his walk and his smile before their eyes, even while he would not show himself.",
+ "reflection": "The gopis address trees and creepers as if they could answer, which is the whole heart of the passage: when the beloved vanishes, love turns the whole world into a possible messenger. Their grief does not sit still; it moves, questions, and fills the forest with his name.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "search",
+  "longing"
+ ],
+ "previous_story_id": "DKS_0101",
+ "next_story_id": "DKS_0103",
+ "next_story_tease": "And when the trees gave no answer, their searching turned to something stranger still.",
+ "hero_scene": "The gopis wandering the moonlit Vrindavan forest, singing Krishna's name aloud and stopping before the great fig and flowering trees to ask, Have you seen Nanda's son?",
+ "visual_elements": [
+  "the gopis moving through the forest",
+  "the ashvattha, plaksha and banyan trees",
+  "flowering ashoka and champaka trees",
+  "the tulasi plant",
+  "mango, jackfruit and kadamba trees",
+  "jasmine creepers on the trunks",
+  "a doe in the clearing",
+  "longing and urgency"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.30.1-12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0113",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0470",
+ "title": "Cast Away Your Fears",
+ "subtitle": null,
+ "story": "The sun went down on Kurukshetra, and the war did not stop with it. Duryodhana, king of the Kauravas, watched his army dying around him in the dark and rode to his two greatest champions — Drona, the teacher of arms who had trained the Kuru princes, and Karna, the warrior everyone knew as a charioteer's son.\n\n\"This war was set on foot by the two of you,\" he said, \"in your rage, after the king of the Sindhus fell to Arjuna's arrows. Now you watch my army being slaughtered as though it were nothing — you, who could overcome the Pandavas alone. If you meant to abandon me, you should have said so at the beginning. You told me the two of you would vanquish the sons of Pandu, and I believed you. I would never have provoked this war if you had told me otherwise.\"\n\nThe words stung like a goad, and the two champions went back into battle like snakes driven on with sticks. They hurled themselves at the Pandavas, and the Pandavas, closing their ranks, advanced to meet them with all their troops. Drona pierced Satyaki, Krishna's kinsman, with ten arrows; Karna pierced him with ten more; Duryodhana with seven; Vrishasena with ten; and Sakuni, Duryodhana's uncle, with seven, until Satyaki stood walled in by enemies. The Somakas answered by piercing Drona from every side with showers of arrows, and Drona, enraged, began to take the lives of the warriors around him the way the sun burns away the darkness.\n\nA great uproar rose among the Panchalas as he slaughtered them. Some abandoned their sons, their fathers, their brothers and uncles, and fled for their lives; others, beside themselves, ran straight at Drona himself. That night the Pandava host fled, throwing down their blazing torches, in the very sight of Bhima and Arjuna and Krishna, of the twins Nakula and Sahadeva, of Yudhishthira their eldest brother, and of Dhrishtadyumna, the Panchala prince. The world lay swallowed in darkness; only the lamps of the Kaurava troops showed where the fugitives ran, and Drona and Karna pursued them, scattering arrows on all sides.\n\nSeeing the Panchalas slaughtered and routed, Krishna grew cheerless, and he spoke to Arjuna. \"Dhrishtadyumna and Satyaki went out against Drona and Karna with the Panchalas behind them, shooting shaft after shaft,\" he said. \"Our host is broken and routed. The flight has been checked, but it cannot be rallied. So hear me, warriors of the Pandavas: cast away your fears. Draw the army up in good order, and the two of us will go forward now, weapons raised, and stand against Drona and Karna.\"\n\nThen Krishna saw Bhima advancing, and he spoke again, to put heart back into Arjuna. \"There is Bhima, who loves a battle, coming against those two great bowmen,\" he said, \"and Drona and Karna are ringed about by the Somakas and the Pandavas. With him behind you, and with all the great warriors of the Pandavas, fight now, son of Pandu, and your troops will take courage from it.\"\n\nThen the two of them — Arjuna, with Krishna at his side — drove forward and took their station at the head of the battle. The vast force of Yudhishthira saw them, turned, and came streaming back to the place where Drona and Karna were grinding down their foes. At dead of night the two hosts met like two oceans swelling at the rising of the moon. The warriors of the Kaurava host threw away their blazing lamps and fought on, fearless and mad, while the world lay under gloom and dust.\n\nKrishna's voice had done what shouting could not: the fear went out of the Pandava host, and the night went back to being a battle.",
+ "reflection": "The rally works because Krishna does not shame the fleeing host; he names the fear and sets his own courage beside it. Leadership here is standing at the head of the battle with the frightened, not above them.",
+ "tradition_note": null,
+ "content_note": "Night battle with a routed host and heavy casualties; violence is kept restrained but parents may want to know the episode is set in the war's bloodiest stretch.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Bhima",
+  "Drona",
+  "Karna",
+  "Duryodhana",
+  "Satyaki"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "leadership",
+  "courage",
+  "rallying"
+ ],
+ "previous_story_id": "DKS_0469",
+ "next_story_id": "DKS_0471",
+ "next_story_tease": "Yet even as the night raged, Krishna still held Arjuna back from Karna.",
+ "hero_scene": "In the darkness of the night battle, Krishna stands tall in the chariot, one hand raised with his bow, rallying Arjuna as the Pandava host turns back toward Drona and Karna, torches scattered and burning on the ground.",
+ "visual_elements": [
+  "Duryodhana confronting Karna and Drona by torchlight",
+  "Satyaki pierced and walled in by the enemy's arrows",
+  "the Pandava host fleeing in darkness, blazing torches thrown down",
+  "Krishna standing in the chariot, urging Arjuna with uplifted weapons",
+  "Bhima advancing with the Somakas toward Drona and Karna",
+  "the two chariots taking station at the head of battle",
+  "the night battle like two oceans swelling at moon-rise"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.172",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:09Z",
+  "source_event_id": "evt_0464",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

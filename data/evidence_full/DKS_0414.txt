@@ -1,0 +1,101 @@
+# STORY DKS_0414 — Yudhishthira Entrusts Krishna with Messages for Kunti and the Elders
+
+## Index entry
+title: Yudhishthira Entrusts Krishna with Messages for Kunti and the Elders
+summary: Yudhishthira, following Krishna some distance, asks him to salute and comfort his grieving mother Kunti and to greet Bhishma, Drona, Kripa, Vidura and all the elders.
+life_stage: kurukshetra | story_arc: peace_mission
+characters: Krishna, Yudhishthira, Kunti
+locations: Upaplavya
+themes: filial duty, grief, reconciliation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0421
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 5 | chapter/section 083 | verses  | confidence 4
+  excerpt: Yudhishthira said, 'That lady who hath brought us from our infancy... should be asked about her welfare--Salute and embrace, and, oh, comfort her over and over, overwhelmed with grief as she is on account of her sons... Salute her for me, the Kuru king Dhritarashtra also... and Bhishma, and Drona, and Kripa... and also Vidura endued with great wisdom.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 5.083 ()
+“Arjuna said, ‘Thou art now, O Kesava, the best friend of all the Kurus.
+Related with both the parties, thou art the dear friend of both. It
+behoveth thee to bring about peace between the Pandavas and the sons of
+Dhritarashtra. Thou, O Kesava, art competent and, therefore, it behoveth
+thee to bring about a reconciliation. O lotus-eyed one, proceeding hence
+for peace, O slayer of foes, say unto our ever-wrathful brother
+Suyodhana, what, indeed, should be said, “If the foolish Duryodhana doth
+not accept thy auspicious and beneficial counsels fraught with virtue and
+profit, he will surely then be the victim of his fate.”’
+
+“The holy one said, ‘Yes, I will go to king Dhritarashtra, desirous of
+accomplishing what is consistent with righteousness, what may be
+beneficial to us, and what also is for the good of the Kurus.’”
+
+Vaisampayana continued, “The night having passed away, a bright sun
+arose in the east. The hour called Maitra set in, and the rays of the sun
+were still mild. The month was (Kaumuda Kartika) under the constellation
+Revati. It was the season of dew, Autumn having departed. The earth was
+covered with abundant crops all around. It was at such a time that
+Janardana, the foremost of mighty persons, in enjoyment of excellent
+health, having heard the auspicious, sacred-sounding and sweet words of
+gratified Brahmanas, like Vasava himself hearing the adorations of the
+(celestial) Rishis,--and having also gone through the customary acts and
+rites of the morning, purified himself by a bath, and decked his person
+with unguents and ornaments, worshipped both the Sun and Fire. And having
+touched the tail of a bull and reverently bowed to the Brahmanas, walked
+round the sacred fire, and cast his eyes on the (usual) auspicious
+articles placed in view, Janardana recollected Yudhishthira’s word and
+addressed Sini’s grandson Satyaki, seated near, saying, “Let my car be
+made ready and let my conch and discus along with my mace, and quivers
+and darts and all kinds of weapons, offensive and defensive, be placed on
+it, for Duryodhana and Karna and Suvala’s son are all of wicked souls,
+and foes, however contemptible, should never be disregarded by even a
+powerful person.” Understanding the wishes of Kesava, the wielder of the
+discus and the mace, his attendants immediately addressed themselves to
+yoke his car. And that car resembled in effulgence the fire that shows
+itself at the time of the universal dissolution, and itself in speed. And
+it was provided with two wheels that resembled the sun and the moon in
+lustre. And it bore emblazonments of moons, both crescent and full, and
+of fishes, animals, and birds and it was adorned with garlands of diverse
+flowers and with pearls and gems of various kinds all around. And endued
+with the splendour of the rising sun, it was large and handsome. And
+variegated with gems and gold, it was furnished with an excellent
+flag-staff bearing beautiful pennons. And well-supplied with every
+necessary article, and incapable of being resisted by the foe, it was
+covered with tiger-skins, and capable of robbing the fame of every foe,
+it enhanced the joy of the Yadavas. And they yoked unto it those
+excellent steeds named Saivya and Sugriva and Meghapushpa and Valahaka,
+after these had been bathed and attired in beautiful harness. And
+enhancing the dignity of Krishna still further, Garuda, the lord of the
+feathery creation, came and perched on the flag-staff of that car
+producing a terrible rattle. And Saurin then mounted on that car, high as
+the summit of the Meru, and producing a rattle, deep and loud as the
+sound of the kettle-drum or the clouds and which resembled the celestial
+car coursing at the will of the rider. And taking Satyaki also upon it,
+that best of male beings set out, filling the earth and the welkin with
+the rattle of his chariot-wheels. And the sky became cloudless, and
+auspicious winds began to blow around, and the atmosphere freed from the
+dust became pure. Indeed, as Vasudeva set out, auspicious animals and
+birds, whirling by the right side, began to follow him, and cranes and
+peacocks and swans all followed the slayer of Madhu, uttering cries of
+good omens. The very fire, fed with Homa libations in accompaniment with
+Mantras, freed from smoke blazed up cheerfully, sending forth its flames
+towards the right. And Vasishtha and Vamadeva, and Bhuridyumna and Gaya,
+and Kratha and Sukra and Kusika and Bhrigu, and other Brahmarshis and
+celestial Rishis united together, all stood on the right side of Krishna,
+that delighter of the Yadavas, that younger brother of Vasava. And thus
+worshipped by those and other illustrious Rishis and holy men, Krishna
+set out for the residence of the Kurus. And while Krishna was proceeding,
+Yudhishthira, the son of Kunti, followed him, as also Bhima and Arjuna
+and those other Pandavas, viz., the twin sons of Madri. And the valiant
+Chekitana and Dhrishtaketu, the ruler of the Chedis, and Drupada and the
+king of Kasi and that mighty car-warrior Sik
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0413 | next_story_id: DKS_0415
+previous title: Krishna Prepares His Chariot and Sets Out for Hastinapura
+next title: Arjuna's Parting Warning and Bhima's Roar

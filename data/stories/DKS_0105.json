@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0105",
+ "title": "Krishna Reappears Among the Gopis",
+ "subtitle": null,
+ "story": "He was simply there before them — smiling, his face bright and open as a lotus — and for a moment none of them could move. All night the gopis, the cowherd women of Vrindavan, had searched the forest for Krishna, the boy of their village whom they loved above all else. Twice he had vanished from them, and the second time they had lost even the thin hope that searching would bring him back. Now, when they had nearly stopped looking, he stood among them again.\n\nOne moment the grove had held nothing but their sorrow; the next, he was there — and the sorrow was not reasoned away. It simply left them, all at once. They rose as if life itself had come back into their bodies, and their eyes, a moment before downcast and searching, bloomed open with joy.\n\nAnd because no two of them loved him in the same way, no two of them received him the same way. One took his hand between her two folded palms and held it, the way you hold something too precious to let fall. Another, slender and quick, bent and took from his lips the betel leaf he had been chewing, and kept it cupped in her own palms like a gift she would not share. A third knit her brows at him, flushed with an anger that was really love, silently reproaching him for leaving her to such grief. A fourth did not blink at all, drinking in his face as if she feared that the moment she closed her eyes he would be gone again. And one more did not look with her eyes; she gathered him into her heart through the narrow opening of her closed lids, and kept him there, where he could not leave.\n\nThey pressed around him, and he stood among them and let them come.\n\nThen he led them away from the place of their grief to the bright sandbank of the Yamuna. It was autumn, and the moon was full; its light lay on the water and on the sand like something poured out, and it seemed to drive the darkness out of everything that had gone wrong. There, in that light, the ache in their hearts came to rest — the way tired wings come to rest at evening.\n\nHe sat down among them — not on any throne, but on the place they had made for him inside their own hearts, the only seat they had to offer. They welcomed him with smiles, with sidelong glances, with the small glad play of their brows: the language of people who have been given back what they thought was lost.\n\nNo one rebuked him, and he offered no explanation. Krishna did not say why he had vanished, and the gopis did not ask. Whatever they needed to hear, they would hear soon enough. For this one moment, the answer was simply that he had come back.",
+ "reflection": "The scene is made of small, individual gestures — a hand held, a bit of betel kept, an unblinking gaze — because the verses want the reunion to be felt one gopi at a time and then all at once. Here grief is not dispelled by argument but by presence.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "reunion",
+  "joy"
+ ],
+ "previous_story_id": "DKS_0104",
+ "next_story_id": "DKS_0106",
+ "next_story_tease": "But the gopis still carried a question they needed to ask him.",
+ "hero_scene": "Krishna reappearing with a smiling lotus-bright face among the grieving gopis on the moonlit sandbank of the Yamuna, each gopi receiving him in her own way — one holding his hand in folded palms, one cupping the betel he had chewed, one gazing at him with unblinking eyes.",
+ "visual_elements": [
+  "Krishna smiling, face bright as a lotus",
+  "gopis rising with joy",
+  "a gopi holding Krishna's hand in folded palms",
+  "a slender gopi cupping the chewed betel",
+  "a gopi gazing with unblinking eyes",
+  "moonlit sandbank of the Yamuna",
+  "full autumn moon",
+  "reunion and relief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.32.1-14",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:47Z",
+  "source_event_id": "evt_0116",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_audio_minutes": 4,
+ "estimated_read_minutes": 3
+}

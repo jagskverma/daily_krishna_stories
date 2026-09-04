@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0011",
+ "title": "The Six Demon Embryos and Devaki's Conception",
+ "subtitle": null,
+ "story": "The news came to Kamsa from the lips of the sage Narada, and it turned his fear into a plan. He was to die, Narada told him, at the hands of a child of his sister Devaki. The warning was not new, for a prophecy at Devaki's wedding had already promised it, but to hear it spoken plainly left Kamsa no room to hope. So he did what a frightened king does. He resolved to destroy every child Devaki might bear, and to begin not at the birth but at the very beginning.\n\nHe shut Devaki and her husband Vasudeva inside the palace prison and set warders over them, and he ordered his ministers to count the months from the first sign of a child, so that nothing could slip past him. Vasudeva would be watched day and night by women and eunuchs, told nothing, allowed nothing. Even an adverse destiny, Kamsa told his ministers, could be turned propitious by the right rites, the right medicines, care and devotion. It was the reasoning of a man who believed his fear could be outworked.\n\nBut beneath the fear lay a design that Kamsa could not see. Long before, six demons, the Saragarbhas, sons of Kalanemi and grandsons of Hiranyakashipu, had won a boon from Brahma through hard penance: immunity from gods and men, from every weapon and every curse. For seeking that boon from Brahma rather than from him, their grandfather Hiranyakashipu had turned on them in fury and cursed them: they would be born from Devaki, one after another, and Kamsa would kill them as soon as they came into the world. So the children Kamsa meant to destroy were not the innocent victims of chance he took them for. They were six ancient enemies, walking toward a death that had been spoken over them long before.\n\nVishnu saw all of this. He went down into the nether regions, where the six demons lay in a death-like sleep, and entered their dreams. One by one he took hold of their vital breaths and gave them into the keeping of Sleep, commanding that she place them in Devaki's womb in their order. The first six would be born and pass on to the house of Death, and Kamsa's fear, which believed it was averting fate, would only serve it. In the seventh month of Devaki's seventh conception, Sleep was to lift that elder brother and set him in the womb of Rohini, Vasudeva's other wife, the child who would grow to be known as Balarama. And Sleep herself, who would be called Yogamaya, was to be born on earth as the daughter of Yashoda, Nanda's wife.\n\nThen came the moment itself. Vishnu entered the heart of Vasudeva, and from Vasudeva the Lord passed into Devaki, a portion of the divine taking its place in her womb. Devaki, now carrying within her the support of the whole world, began to glow with a light that filled the prison. The guards who watched her could not say what had changed, only that the room seemed brighter, and that the prisoner's face shone as it had never shone before.\n\nKamsa came to look on his sister, and what he saw stopped him at the door. The woman before him was so bright that he saw in her, plainly, the presence of the very one who would destroy him. He knew in that instant that his death had come near, that it now rested in his own sister's womb, and that the moment to act was this one.\n\nBut he stayed his hand. He told himself that to strike with such cruelty would be the act of a man already dead, and that the child, once born, would be easier to destroy than the mother who carried it. So he turned away from the cruelest thought and let her be. He sat and lay down and stood and ate and walked the earth, waiting, watching her with a new and terrible patience, certain he could still undo what had been done. He did not see that the fear he was feeding would grow until it devoured him.",
+ "reflection": "Kamsa's restraint is not mercy but strategy: he spares Devaki because he means to kill the child later. The episode shows how fear, once it becomes a plan, no longer needs to be told what to do; it devises its own cruelties and calls them prudence.",
+ "tradition_note": "The account of the six demon embryos cursed by Hiranyakashipu comes from the Harivamsha and the Vishnu Purana. The Bhagavata Purana (10.2.15-23) tells Devaki's conception and radiance, and Kamsa's decision to stay his hand, without the six-embryo backstory.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Vishnu",
+  "Vasudeva",
+  "Devaki",
+  "Kamsa"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "incarnation",
+  "awe",
+  "forbearance"
+ ],
+ "previous_story_id": "DKS_0010",
+ "next_story_id": "DKS_0012",
+ "next_story_tease": "Before the child was born, the gods themselves would come down to praise him where he waited.",
+ "hero_scene": "Devaki glowing with an unearthly radiance in the prison as Kamsa, halted at the door, sees in her face the presence of his own destroyer and stays his hand.",
+ "visual_elements": [
+  "Devaki radiant with the unborn Lord's light",
+  "Kamsa at the cell door, stopped mid-step",
+  "the locked prison chamber",
+  "the watching guards",
+  "a mood of awe and held breath"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.2.15-23",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.57",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.2",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:58:06Z",
+  "source_event_id": "evt_0022"
+ },
+ "editorial_status": "unreviewed"
+}

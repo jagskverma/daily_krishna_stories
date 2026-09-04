@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0160",
+ "title": "Shalya Delivers Jarasandha's Message to Kalayavana",
+ "subtitle": null,
+ "story": "A strange wind came up in the capital of the Yavanas that day — cold and fragrant, sweet and unsettling — and the whole court wondered at it. Where could such a wind come from? Then they saw the answer, riding out of the south.\n\nKalayavana, king of the Yavanas, ruled his city well. He was wise and learned, truthful and devout, master of his own temper, skilled in the arts of war and statecraft, quick to honor his ministers — and no fortress had ever held against him. That day he sat at ease among his counselors, while the learned men of his court spoke of heavenly matters and sang their king's praise.\n\nThe car from the south was gold and white, ablaze with jewels, hung with bright flags, drawn by horses swift as thought, decked in tiger-skins — built by the architect of the gods, shining like the sun. On it sat the powerful and handsome king of Soubha: Shalya, an old friend of Kalayavana.\n\nSeeing his friend, Kalayavana rose from his throne, took up the offerings of welcome, and went out to wait at the foot of the car's stair. Shalya climbed down alone, entered the palace in good spirits, and then, seeing the welcome ready in the Yavana king's hands, drew back.\n\n\"I am not worthy of these honors,\" he said. \"I am no guest. I am an envoy of the kings, sent to you by the wise Jarasandha, and honors like these belong to kings, not to messengers.\"\n\nKalayavana smiled. \"I know that the king of Magadha sent you in the name of all the kings. But it is because the whole circle of kings sent you that I honor you — with water for your feet, a seat, and every courtesy. When I honor you, I honor them all. Come, sit beside me on this throne.\"\n\nSo they clasped hands, asked after each other's welfare, and sat at ease together. Then Kalayavana put the question that lay beneath the courtesy. \"The kings live without fear,\" he said, \"resting on the strength of that king's arm, as the gods rest under Indra. What could have become impossible for such a man, that he sends you to me? Tell me truly what the king of Magadha commands of me. No matter how hard it is, I will do it.\"\n\nThen Shalya delivered the message exactly as it had been given to him.\n\n\"Krishna has been a thorn in the world since his birth,\" the message ran. \"When I learned of his deeds, I resolved to destroy him. I marched on Mount Gomanta with a host of kings, and at the urging of the king of Chedi I set fire to the mountain itself, to burn Rama and Krishna where they hid. But Rama leaped down from the burning summit into the middle of that army, golden sword in hand. He moved through the kings like a serpent; chariot, horse and foot went down before him, and with his great ploughshare he caught up their war-elephants and turned them against their own lines, until the host broke itself. Then Krishna followed — discus bright as the sun, black iron club in hand — and fell upon them as a lion falls on deer, with a leap that shook the mountain. And the mountain itself seemed to whirl; a shower came down on the flames, the fire died, and the hill sank back into the earth as if dancing.\"\n\nShalya paused. The tale of a defeat had one last turn. \"Enter the city of Mathura with your army,\" Jarasandha had said, \"and set up your glory there.\"\n\nWhen the envoy fell silent, the Yavana court was still. The king had been handed a war, and a city that was his for the taking — if he dared take it.",
+ "reflection": "The embassy moves by courtesy: Kalayavana honors the envoy and, through him, the whole circle of kings, and only then does the appeal arrive. Jarasandha's message is a confession of defeat at Gomanta turned into an invitation for another king to finish what he could not.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Shalya",
+  "Kalayavana",
+  "Jarasandha",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Yavana capital"
+ ],
+ "themes": [
+  "envoy",
+  "war-appeal",
+  "recounting-battle"
+ ],
+ "previous_story_id": "DKS_0159",
+ "next_story_id": "DKS_0161",
+ "next_story_tease": "Kalayavana would answer the appeal by marching on Mathura that very day.",
+ "hero_scene": "Shalya descending from his jeweled golden chariot at the landing stair of the Yavana palace, while Kalayavana waits below with the arghya offering raised in both hands and his court gathered behind him.",
+ "visual_elements": [
+  "the golden and white celestial chariot from the south",
+  "Shalya descending at the landing stair",
+  "Kalayavana with the arghya offering",
+  "the Yavana court gathered behind him",
+  "cold fragrant wind",
+  "an embassy arriving"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.110",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0187",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

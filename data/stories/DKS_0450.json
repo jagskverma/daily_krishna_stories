@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0450",
+ "title": "The Commander of the Seven Hosts",
+ "subtitle": "Krishna Names Dhrishtadyumna Generalissimo of the Pandava Army",
+ "story": "Seven armies had gathered at Upaplavya, the camp of the Pandava brothers and their allies, and the whole war had narrowed to a single question: who would lead them?\n\nThe Pandavas had heard everything that had happened in the court of the assembled Kurus, and Krishna's account of the failed peace had made the shape of things clear. Now, in Krishna's presence, Yudhishthira addressed his brothers. Seven hosts stood ready for victory — seven akshauhinis, each a full army of the old reckoning, with its chariots, elephants, cavalry, and foot. And seven celebrated warriors would lead them: Drupada, Virata, Dhrishtadyumna, Sikhandin, Satyaki, Chekitana, and Bhimasena, their own brother Bhima. All of them knew the sacred hymns; all had kept excellent vows; all were wise in counsel and accomplished in war. One name was still missing. \"Tell us, then,\" Yudhishthira said, \"who is the warrior, versed in every kind of battle-array, who can command these seven and can withstand in battle Bhishma — Bhishma, who is like a fire whose flames are arrows.\"\n\nSahadeva spoke first, and he named Virata, the king of the Matsyas. \"He is closely bound to us,\" he said, \"and has grieved with us in our distress. He is mighty, skilled in weapons, and irresistible in battle. Relying on him, we hope to recover our share of the kingdom. He will be able to bear in battle both Bhishma and all those great chariot-warriors.\"\n\nThen Nakula spoke, and he named Drupada, their father-in-law, the king of Panchala. \"In years, in learning, in constancy, in family and birth, he stands above reproach,\" he said. \"He studied the science of weapons under the sage Bharadwaja. He has never ceased to challenge Drona and mighty Bhishma; and once, moved by wrath, he performed the severest of penances for the destruction of Drona. That king cherishes us as a father cherishes his sons. He will be able to withstand both Drona and Bhishma when they rush into battle.\"\n\nThen Arjuna rose, and he did not describe a statesman or an ally. He described a man who had not come into the world the way other men do. Dhrishtadyumna, Drupada's son and Draupadi's brother, had sprung into life through the power of ascetic penance and the blessings of the sages. He had stepped out of the sacrificial fire itself, armed with bow and sword, wearing armor of steel, mounted on a chariot yoked with excellent horses; the clatter of his wheels was deep as the roar of great masses of cloud. He was built like a lion — shoulders, arms, chest, and a voice to match — and no weapon of any kind could pierce him. He carried himself like a great elephant, he was truthful in speech, and his passions lay under his own control. \"This Dhrishtadyumna was born for the destruction of Drona,\" Arjuna said. \"And I do not see any man but Dhrishtadyumna who can withstand Bhishma of the great vows — Bhishma, whose arrows strike with the force of the thunderbolt and fall like flames of fire.\"\n\nThe brothers fell silent, and every eye turned to Krishna, who sat among them. Krishna looked toward Arjuna and spoke. \"King,\" he said, \"I approve with all my heart the powerful warriors you have named to lead your troops. And as for the leader of them all, I name Dhrishtadyumna, the chastiser of his foes.\"\n\nThe matter was settled, and the camp had its answer. The fire-born prince of Panchala would stand at the head of the seven divisions, in the first rank against the man whose arrows no one else could bear. Drupada's son, who had come into the world armed and ready, would carry the hopes of seven hosts; and before the war was over, the purpose for which the sages said he was born would meet him on the field.\n\nThat night the question that had hung over the camp was gone. The Pandavas had their commander, and the war had its shape.",
+ "reflection": "Yudhishthira asked his brothers for a name, but the choice belonged in the end to Krishna, as if an army's fate could only be settled by the one who already saw the whole war. And the man chosen was the one born, the sages said, for Drona's destruction, which gave the appointment the weight of destiny rather than mere strategy.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Dhrishtadyumna",
+  "Arjuna",
+  "Sahadeva",
+  "Nakula"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "leadership",
+  "strategy",
+  "war"
+ ],
+ "previous_story_id": "DKS_0449",
+ "next_story_id": "DKS_0451",
+ "next_story_tease": "Yet naming a commander was not the same as choosing war — the decision itself still hung in the air.",
+ "hero_scene": "In the tent at Upaplavya, Krishna sits among the Pandavas and raises a hand toward Arjuna as he speaks; the five brothers lean forward, and in the doorway the ranks of the seven divisions wait in the dusk, banners stirring.",
+ "visual_elements": [
+  "Krishna seated among the five Pandava brothers in the tent at Upaplavya",
+  "Arjuna rising to describe Dhrishtadyumna",
+  "the image of Dhrishtadyumna born from the sacrificial fire-hole, armed and armoured",
+  "seven divisions of troops waiting outside in the dusk",
+  "banners stirring in the evening wind"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.151",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0483",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,35 @@
+# STORY DKS_0492 — Reunion with Nanda and Yashoda
+
+## Index entry
+title: Reunion with Nanda and Yashoda
+summary: Nanda and the cowherds arrive, and Krishna, Balarama, Yashoda, Devaki and Rohini embrace one another, recalling the old days in Gokula.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, Balarama, Nanda, Yashoda, Vasudeva, Devaki, Rohini
+locations: Samanta-panchaka
+themes: reunion, parental love, nostalgia
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0492
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 82 | verses 30-37 | confidence 5
+  excerpt: Nanda arrives with the cowherds to see Krishna, and the Vrishnis embrace him as if life itself had returned. Krishna and Balarama bow to their parents and, speechless with love, embrace them; Yashoda takes her two sons on her lap, and Devaki and Rohini, remembering the friendship of old, embrace Yashoda and speak of the love shown to the boys in Gokula. (rendered from Sanskrit, verse 30-37)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.82 (30-37)
+30. bhp_10.82.031/0 śrī-śuka uvāca
+31. taṃ dṛṣṭvā vṛṣṇayo hṛṣṭās tanvaḥ prāṇam ivotthitāḥ /
+32. vasudevaḥ pariṣvajya samprītaḥ prema-vihvalaḥ /
+33. kṛṣṇa-rāmau pariṣvajya pitarāv abhivādya ca /
+34. tāv ātmāsanam āropya bāhubhyāṃ parirabhya ca /
+35. rohiṇī devakī cātha pariṣvajya vrajeśvarīm /
+36. kā vismareta vāṃ maitrīm anivṛttāṃ vrajeśvari /
+37. etāv adṛṣṭa-pitarau yuvayoḥ sma pitroḥ $ samprīṇanābhyudaya-poṣaṇa-pālanāni &amp;prāpyoṣatur bhavati pakṣma ha yadvad akṣṇor % nyastāv akutra ca bhayau na satāṃ paraḥ svaḥ
+
+## Corpus chain
+previous_story_id: DKS_0491 | next_story_id: DKS_0493
+previous title: The Pilgrimage to Samanta-panchaka
+next title: Krishna's Counsel to the Gopis

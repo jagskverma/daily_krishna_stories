@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0409",
+ "title": "Draupadi Demands Vengeance",
+ "subtitle": null,
+ "story": "The talk in the Pandava camp at Upaplavya had turned, as it so often did in those last days before war, to peace. Yudhishthira had just spoken for it, his words fraught with virtue and profit, and Sahadeva and the mighty car-warrior Satyaki had warmly approved. Even Bhima — whose answer to every grievance was a raised mace — had declared for peace. Then Draupadi rose, and the counsel of peace fell silent.\n\nHer hair hung loose about her shoulders, and she held the dishevelled tresses in her hands as she spoke, as though she could not put them down. Her eyes, black and large as lotus leaves, were wet with tears. She addressed Krishna directly, and the whole gathering heard her out.\n\n\"You know,\" she said, \"by what deceitful means the son of Dhritarashtra and his counsellors robbed the Pandavas of their happiness. You know the message that was privately delivered to Sanjaya — that we asked only for five villages: Avishthala, Vrikasthala, Makandi, Varanavata, and any fifth besides. Yudhishthira, modest and anxious for peace, asked for that much, and Duryodhana would not grant even that.\"\n\nShe went on, her voice growing firm. If Duryodhana wanted peace only on condition that the kingdom be surrendered, there was no need for Krishna to travel to Hastinapura at all; the Pandavas, with the Srinjayas at their side, could stand against the Dhritarashtra host. When men could not be won by conciliation or by gifts, they had to be met with severity. A Kshatriya true to the duties of his own order struck down the covetous — the scriptures excepting only a Brahmana, the preceptor of all orders — and there was as much sin in sparing one who deserved to die as in slaying one who did not. Let Krishna, then, inflict the punishment that was due, and let him do it with the Pandavas and the Srinjayas behind him — for such a deed would become the son of Pritha, add to Krishna's glory, and be a source of great happiness to the whole Kshatriya race.\n\n\"Whatever woman on earth is like me?\" she asked. \"I am the daughter of king Drupada, who rose from the sacrificial altar. I am the sister of Dhrishtadyumna, your dear friend. I am the daughter-in-law of the illustrious Pandu, the queen of his five sons, and the mother of five sons who are bound to you as Abhimanyu is. And being such, I was seized by the hair, dragged into the assembly, and insulted before the very eyes of the sons of Pandu — in your own lifetime, Krishna. With the Pandavas, the Panchalas and the Vrishnis all alive, I was treated as a slave before the gaze of that gathering.\"\n\nThe assembly hall of that terrible day hung in the room with them. She reminded him how the brothers had sat silent, and how, in that silence, she had called upon him in her heart: \"Save me, O save me!\" How Dhritarashtra, her father-in-law, had offered her a boon, and she had asked only that the Pandavas be made free men with their cars and weapons — and how they had been freed, only to be exiled to the woods. Morally, she said, she was the daughter-in-law of both Bhishma and Dhritarashtra; being such, she had still been made a slave. \"Rescue me, O lotus-eyed one,\" she pleaded, \"with my husbands, my kinsmen, and my relatives, from this grief.\"\n\n\"Fie to Arjuna's bowmanship,\" she said, her voice breaking, \"and fie to Bhima's might, since Duryodhana lives even for a moment. If I deserve any favour at your hands, if you have any compassion for me, let your wrath be directed towards the sons of Dhritarashtra.\"\n\nShe wept as she finished, tears running down her face, and then, walking like a cow-elephant, heavy and slow, the queen of the Pandavas came and stood before Krishna, waiting for his answer. The camp was very still.",
+ "reflection": "Draupadi's appeal rests her entire case on who she is — daughter of the altar, sister of a dear friend, daughter-in-law of two houses, mother of five — and yet none of that standing protected her in the assembly. Her grief is not only for the insult but for the silence of the men who loved her, which is why she does not ask them to avenge her; she asks Krishna, the one she called to in her heart.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "draupadi_honour",
+ "characters": [
+  "Krishna",
+  "Draupadi",
+  "Bhima",
+  "Arjuna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "grief",
+  "vengeance",
+  "honour"
+ ],
+ "previous_story_id": "DKS_0408",
+ "next_story_id": "DKS_0410",
+ "next_story_tease": "But Krishna's answer, when it came, would be a vow.",
+ "hero_scene": "In the torchlit council tent at Upaplavya, Draupadi stands weeping before Krishna, her long black hair loose and clutched in her hands, while the five Pandava brothers sit silent around them and the night presses against the canvas.",
+ "visual_elements": [
+  "Draupadi standing with dishevelled hair clutched in her hands",
+  "tears on her face, eyes black and large as lotus leaves",
+  "Krishna seated, listening without expression",
+  "the five Pandava brothers seated silent in a circle",
+  "torchlight and night canvas of the camp tent"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.82",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0417"
+ },
+ "editorial_status": "unreviewed"
+}

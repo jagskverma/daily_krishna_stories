@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0532",
+ "title": "Krishna's Final Departure",
+ "subtitle": "The gods watch the Lord leave the earth",
+ "story": "The forest near Prabhasa went quiet in a way forests rarely do. The birds stopped calling, the deer stopped moving, and the very air seemed to hold its breath, because the sky above the trees was filling with guests no mortal eye could see.\n\nThe ancestors came first, then the Siddhas, the Gandharvas, the Vidyadharas, and the great serpents of the deep. All of them pressed close, eager for a sight none of them had ever witnessed: the end of a life that had been lived as a gift to the world. Their celestial cars crowded the heavens until the sky looked like a festival ground at dawn. Flowers began to fall, not one by one but in a steady, unhurried rain, as if the sky itself had decided to make an offering. High above, the drums of heaven sounded on their own, deep and slow.\n\nBelow them, Krishna sat where the hunter had found him, in the shadow of a tree. The hunter had been terrified, kneeling and trembling, certain he had committed an unforgivable wrong; looking up, he had seen a man in yellow robes, rapt in yoga, endued with many arms — and Krishna had comforted him and sent him on his way before he could even finish asking for forgiveness. Now the Lord of the world sat alone, his yellow robe drawn about him, his eyes turned inward, holding to a single point of stillness while the whole universe gathered to watch him go.\n\nThen he saw Brahma standing before him, the grandfather of the worlds, come like everyone else to see the end. That sight was the signal. Krishna gathered his opulences back into himself, every power he had poured out over a lifetime drawn in like a tide returning to the sea. Then he closed his lotus eyes.\n\nThe fire came then, the fire of yoga, rising from within him. It did not burn the way earthly fire burns; it consumed the way a flame consumes a lamp, taking the body that had walked through Vrindavan and Mathura and Dwaraka and turning it gently into light. The drums of heaven sounded again, louder. Flowers rained from the sky. And when the gods looked once more at the place beneath the tree, there was nothing there at all.\n\nBut where had he gone? The gods looked at one another, and even the greatest of them, led by Brahma himself, could not trace his path. He had entered his own abode, and that abode is not a place that can be followed to. It was like lightning, the seers said afterward: you see the flash, you know it has crossed the whole sky, but once it leaves its cloud no one can say where it has gone. Even the gods, who had come so eager to witness the end, stood in the empty forest amazed, holding flowers they had not finished raining down. That was how Krishna left the world — seen, certain, and utterly beyond following.\n\nThe Mahabharata tells the same moment from a little way off. There, the sky blazed with splendour as he rose, filling the whole vault of heaven with light, and the gods — Indra and the twin Ashvinis, Rudra and the Adityas — advanced to receive him, as if heaven itself were coming out to greet a king returning home. The two tellings differ in detail; they agree on the wonder.\n\nAnd then it was over. The flowers settled on the grass. The celestial cars began, one by one, to turn away. The drums fell silent. The forest near Prabhasa was only a forest again, a quiet place with an empty space beneath a tree, and the Lord of the worlds was gone from the earth he had walked for so long.\n\nThe earth would feel his absence almost immediately — in the city by the sea that had been built around his presence, in the hearts of the women he had left there, in the sea itself, which seemed to know, before anyone told it, that the one who had held the world together had let go.",
+ "reflection": "The departure is told as a mystery even the gods cannot witness to its end: they come to see, they rain flowers, and still they cannot trace his path. It is like lightning that leaves its cloud — seen, certain, and utterly beyond following. Krishna leaves the way he lived, in his own time and answerable to no one, and even the last glimpse of him is a gift rather than a right.",
+ "tradition_note": "The Mahabharata frames the departure as a radiant ascent: Krishna comforts the hunter Jara, then rises filling the sky with splendour, and the gods come to receive him. The Bhagavata keeps the mystery — the body consumed by the fire of yoga, the path untraceable. The telling above follows the Bhagavata as its primary source.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Krishna",
+  "Brahma",
+  "Shiva",
+  "the hosts of gods"
+ ],
+ "locations": [
+  "the forest near Prabhasa"
+ ],
+ "themes": [
+  "departure",
+  "yogic fire",
+  "the return to the abode",
+  "divine mystery"
+ ],
+ "previous_story_id": "DKS_0531",
+ "next_story_id": "DKS_0533",
+ "next_story_tease": "The moment Krishna vanished, the sea began to stir against the city he had left behind.",
+ "hero_scene": "In the forest near Prabhasa, Krishna seated beneath a tree with his yellow robe drawn about him, closing his lotus eyes as the fire of yoga consumes his body into light, while Brahma, Shiva and the hosts of gods look on from celestial cars as flowers rain from the sky.",
+ "visual_elements": [
+  "Krishna seated beneath a tree in the forest near Prabhasa",
+  "the fire of yoga consuming his body into light",
+  "Brahma and Shiva among the hosts of gods",
+  "celestial cars crowding the sky",
+  "flowers raining from above",
+  "a mood of wonder and finality"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.31.1-8",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.4",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:19:20Z",
+  "source_event_id": "evt_0372"
+ },
+ "editorial_status": "unreviewed"
+}

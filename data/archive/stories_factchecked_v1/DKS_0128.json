@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0128",
+ "title": "Kamsa Orders the Wrestlers and the Elephant",
+ "subtitle": "The arena is readied for the two boys of Vraja",
+ "story": "When Narada had gone, Kamsa did not rage at once. The truth the sage had left behind — that Krishna and Balarama were alive, and that they were the death Narada had shown him — settled over him like a cold weight, and the king turned it over and over until it hardened into a plan.\n\nHe began by walking out to the arena himself, to look over the ground where he meant the thing to happen. It was a fine hall, built by skilled hands: a wide courtyard ringed with pillars of even size, turrets with pleasant rooms, seats raised and royal, passages that could hold a great crowd, and the walls hung with the strong tusks of elephants. Kamsa looked it over and gave his orders — let the platforms and the turrets be hung with garlands and flags and sweet scents, let water-jars of gold be set out in their order, and let the bow festival be announced for the fourteenth day of the month. The city would gather for a celebration.\n\nThen, back in his own rooms, he sent for his wrestlers.\n\nChanura and Mushtika came, the two strongest men in Mathura, men whose whole lives had been shaped by the king's favor. Kamsa spoke to them as a patron speaks to men he owns. You are my famous wrestlers, he said. I have showered honors on you; now remember them. In the arena you will face two cowherd boys from the forest, Krishna and Balarama, who have grown up in Vraja. Throw them to the ground and kill them.\n\nDo not look at their size and think it will be easy, he warned. Do not dismiss them as mere boys of fickle nature. These two have been shown to me as my death. If they fall in the ring, my well-being is secure — now and in the time to come.\n\nThe wrestlers, eager for a fight and flattered by the king's words, promised him the thing he wanted to hear. If those two helpless boys come before us, they said, count them already slain. And if they dare withstand us, we will destroy them in your very presence.\n\nThen Kamsa turned to his elephant-master, Mahamatra. There is an elephant, he said — Kuvalayapida, the great bull elephant whose temples run with rut, whose eyes are never sober, who is always in a fury against men. Station him at the gate of the arena. When the sons of Vasudeva arrive, drive him at them, and let him crush the life out of them before they ever reach the ring.\n\nSo the king laid his trap with many teeth. The elephant at the gate, the wrestlers inside, and between them no way out. The city would come for the festival, and the two boys would be invited as guests; and somewhere between the gate and the ring, in full view of everyone, the death Kamsa feared would be turned into a public spectacle.\n\nThe king was done with sending demons into the dark. He would not go to Vraja himself, and he would not fight Krishna with his own hands. He would let the elephant and the wrestlers do it for him, and Mathura would watch.",
+ "reflection": "Fear has turned Kamsa methodical. The same king who once dashed an infant against a stone now arranges an assassination like a festival — layers of planning, a pretext, an audience — because he will not face the thing he fears directly. His cruelty has grown careful, which is what fear does when it has time.",
+ "tradition_note": "The Harivamsha gives Kamsa a longer and darker speech, in which he declares that Narada has revealed he was not truly Ugrasena's son and that he means to purge Mathura of the Yadavas; the Bhagavata keeps his orders brief and businesslike.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Kamsa",
+  "Chanura",
+  "Mushtika",
+  "Mahamatra"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "conspiracy"
+ ],
+ "previous_story_id": "DKS_0127",
+ "next_story_id": "DKS_0129",
+ "next_story_tease": "But the trap still needed the two boys brought to Mathura, and for that Kamsa would turn to a man he believed was his friend.",
+ "hero_scene": "Kamsa standing in his chamber, issuing orders to the wrestlers Chanura and Mushtika, while beyond the walls the great elephant Kuvalayapida waits to be stationed at the arena gate.",
+ "visual_elements": [
+  "Kamsa issuing orders in his chamber",
+  "the wrestlers Chanura and Mushtika",
+  "the elephant Kuvalayapida with rut streaming from its temples",
+  "the arena being dressed with garlands and flags",
+  "the bow festival announced",
+  "conspiracy and cold planning"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.36.19-26",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.83",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0130"
+ },
+ "editorial_status": "unreviewed"
+}

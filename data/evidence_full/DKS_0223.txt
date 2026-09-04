@@ -1,0 +1,105 @@
+# STORY DKS_0223 — Krishna Consoles the Jealous Satyabhama || Krishna steals into Satyabhama's chamber and, fanning her and wiping her tears, protests that his love dwells in her alone.
+
+## Index entry
+title: Krishna Consoles the Jealous Satyabhama || Krishna steals into Satyabhama's chamber and, fanning her and wiping her tears, protests that his love dwells in her alone.
+summary: Krishna steals into Satyabhama's chamber and, fanning her and wiping her tears, protests that his love dwells in her alone.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Satyabhama
+locations: Raivataka
+themes: jealousy, reconciliation, tenderness
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0294
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 123 | verses  | confidence 4
+  excerpt: he approached Satyabhama with faltering steps. Taking up the fan and standing by her side, he then began to fan slowly ... 'Just as flame is in fire ... so my love resides in thee and thee only.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.123 ()
+TITLE: SATYABHAMA’S RESENTMENT AND KESHAVA’S CONSOLATION TO
+
+HER.
+
+Vaishampāyana said:—Finding the sage (Narada) seated with Rukshmini, the
+high-souled Keshava that knower of all things, set out under some
+pretext (for the mansion of Satyabhama) (1). He proceeded quickly
+towards the spacious mansion of Satyabhama that was built on the
+delightful Raivataka hills by Visvakarma himself (2). Slowly Vishnu
+entered (the palace) as he was aware that the daughter of Satrajit, his
+beloved queen—she dearer to him than this own vital breaths, had been
+under the influence of jealous resentment (3). Affectionately thinking
+of that beloved one who was then excited with jealousy, the slayer of
+Madhu proceeded with slow steps, and with greater fear (4). Engaging
+Pradyumna to entertain and attend upon Narada and telling his servant
+Daruka _"Wait at the gate,"_ he entered into the palace of Satyabhama
+(5). There he saw from a distance, his beloved wife then inside the
+apartment of anger²⁸⁰ in the midst of her handmaids sighing hot and
+frequently in consequence jealous wrath (6). (He saw) her laughing a
+derisive laugh mixed with sighs at the lotus that she had brought near
+her own lotus-like face, and had been nipping with her nails (7).
+Sometimes he saw her describing figures on the ground with the tip of
+her toe slightly bent, and (sometimes) laughing gently with her face
+turned towards her back (8). Sometimes he saw his lotus-eyed queen of
+exquisite shape and form merged in deep thought, the while the lotus of
+her face resting on the lotus of her left palm (9). Sometimes he saw his
+unblameable wife take the delightful sandal from the hands of her maids,
+smear it on her breast and then again cruelly throw it aside (10). He
+saw her rise from her bed and fall into it again and again. There Hari
+saw these and many other actions of her dear wife (that indicated the
+pitch of her resentment) (11).
+
+Now as the daughter of Satrajit laid her head on her pillow, previously
+covering it with her veil, Janardanna thought "This is my opportunity
+(for effecting an entrance into her room)" (12). Then by (manual) signs
+commanding the handmaids not to announce his presence, he approached
+Satyabhama with faltering steps (13). Taking up the fan and standing by
+her side, he then began to fan slowly and laugh gently (14). That
+illustrious one (Hari), then perfumed in consequence of his contact with
+the _Pārijāta_ flower, diffused there a divine, super-natural and rare
+fragrance (15). Smelling that wondrous fragrance, and taken with
+admiration, Satyā uncovered her face, and said "What is this?" (16) Then
+rising from her bed, she of pure and gentle smiles, without bestowing a
+glance on her godly husband, began to question her maids about the cause
+of the fragrance (17). But thus questioned, the maids could not say
+anything, and kneeling down on the ground they waited there with
+countenances cast down towards the earth and with palms joined together
+(in supplication) (11). Then (as if) not finding the source of that
+wonderful fragrance, Satyabhama bethought herself thus:—"The earth emits
+diverse kinds of smell; can this fragrance be one of her excellent
+emissions?" (19) Then when wondering as to what this could be due, she
+was looking on all sides, her glance suddenly lighted on Kesava that
+creator of the worlds (20). She said "Ah! right," and then suddenly her
+eyes became dimmed with tears, the intensity of love filling her all the
+more with jealous anger (21). With her delicate lips pouting and herself
+sighing, that beautiful lady of dark eyes then turned her down-cast
+countenance away in another direction, and remained thus for a while
+(22). Then contracting her brows in a disapproving frown and placing her
+face on her palms, she said to Hari with her eyes upraised, "Thou
+lookest beautiful" (23). Tears of jealous passion began to flow down
+from her eyes, like drops of dew falling from a pair of lotus-petals
+(24). The lotus-eyed Krishna then seeing tears flow down from the
+lotus-like countenance of her wife, approached her in haste and held
+them in her hands (25). Then wiping off with his hands those tears that
+were falling on her breast, that wearer of the mark of _Srivatsa_, the
+lotus-eyed Vishnu spoke to her as follows (26):—"O lotus-eyed one, O
+most beautiful and excellent lady,–for what reason is it that tears flow
+down from thine eyes likes drops of dew from a pair of lotuses (27)? O
+fascinating lady-why do thy countenance and thy body wear the shape of
+(appear like) the full moon in the morning sky, or the full-blown lotus
+at noon²⁸¹ (28) O thou of delicate waist, what is the reason that thou
+dost not wear to-day garments sprinkled with safflower and gold-dust,
+but choosest the white and plain ones (29)? Although the garments
+decorated with safflower and gold-dust thou likest most, why hast thou
+then worn the white garments which ladies do not like to wear except at
+the time of worshipping the gods (30)? O thou of beautiful limbs—say why
+a
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0222 | next_story_id: DKS_0224
+previous title: Satyabhama Is Consumed by Jealousy || Satyabhama's maids report Rukmini's good fortune; the proud queen, unable to bear her co-wife's honor, casts off her ornaments and retires to the apartment of anger.
+next title: Krishna Promises Satyabhama the Parijata Tree || Satyabhama confesses her grief over the Parijata flower given to Rukmini; Krishna vows to fetch the whole Parijata tree from Indra's heaven for her.

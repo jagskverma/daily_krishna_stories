@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0061",
+ "title": "The Monsoon Pastures",
+ "subtitle": null,
+ "story": "The rains had come to Vrindavan, and the forest had answered them. Where the ground had been dry and tired, there was now green; the trees stood heavy with ripening dates and jambu fruit, and water ran bright in the hollows. For weeks the herd had moved through brown grass and dust; now every hollow held water and every tree threw shade. Everywhere the wood stirred back to life, and the creatures that lived in it moved about in a kind of quiet delight. The verses call it the best of forests in the rains, and the boys could see why. It was into this world, washed clean and full, that Krishna and Balarama led the herd.\n\nThe cows went slowly, and for a good reason — their udders were heavy with milk, so that they walked with the careful, swaying gait of creatures carrying more than they can give all at once. The forest itself seemed pleased to receive them: the trees let fall their honey-sweet blossoms as they passed, and the deer and the birds went about their own business without alarm, as though the boys and their herd were simply part of the season. There was no watchfulness in the wood that day, no sense of anything to guard against — only the season doing what the season does.\n\nWhen a sudden shower broke, the boys did what anyone who knows the forest does — they took shelter under a spreading tree, or in the mouth of a cave where the rain could not reach, and stood there listening to the water on the leaves. And when the shower passed and the sun came back out over the wet foliage, the whole world smelled of earth and green things. The sweetness that dripped from the trees hung in the air with the freshness of the rain, and the delighted forest-dwellers went back to their business as though the boys were only more of the wood.\n\nIt was then that they ate. They had brought the simplest of meals — curd and rice — and they set it out on a flat stone at the water's edge and sat down around it together. They had been walking since first light, and the food tasted of the walking, and of being young and hungry in the open air. They sat on the green grass with the river at their backs, the cows grazing close by, and ate without hurry, the way boys eat when nothing in the world is waiting for them. There was nothing more to the feast than that: the food, the stone, the river, and the company. And afterward, with the meal done, they lay back on the soft green grass and watched the herd.\n\nThe cows stood nearby, chewing their cud with eyes half-closed in contentment, and the boys watched them in the same unhurried way, the way one watches a thing that asks nothing of you. All around them the monsoon showed itself — the shining leaves, the full streams, the ripe fruit bending the branches, the groves dripping with their own sweetness — and it was, the verses say, a beauty that brings happiness in every season, remembered long after it was gone.\n\nNo demon came that day. No fire, no danger, no test. There was only the rain-washed forest, the slow cows, the simple food on a stone, and two brothers resting among their friends as the afternoon wore gently on toward evening. They lay there until the shadows began to lengthen, and then, as the herd decided such things in its own time, the cows turned for home and the boys rose to follow — taking with them, without knowing it, one of the afternoons the verses would keep.",
+ "reflection": "After the demons and the fires, the story pauses for something that needs no rescue and teaches nothing — a meal of curd and rice on a stone, and the sight of contented cows. It is a reminder that the boy-god's life in Vrindavan was also made of such afternoons, and that joy is itself a kind of worship, needing no occasion.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "joy",
+  "nature",
+  "companionship"
+ ],
+ "previous_story_id": "DKS_0060",
+ "next_story_id": "DKS_0062",
+ "next_story_tease": "But the cowherds had begun to wonder at all the boy had done.",
+ "hero_scene": "Krishna and the cowherd boys sitting around a flat stone at the water's edge eating curd and rice, with contented cows resting on the green grass nearby and the rain-washed forest shining around them.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "curd and rice on a stone",
+  "river and water's edge",
+  "contented cows with half-closed eyes",
+  "rain-washed green forest",
+  "ripe dates and jambu fruit",
+  "soft green grass",
+  "peace"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.20.24-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:15Z",
+  "source_event_id": "evt_0082"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0217",
+ "title": "Satyabhama Reports Her Father's Murder",
+ "subtitle": "She finds her father slain and hastens to Hastinapura to tell Krishna, who laments with Balarama.",
+ "story": "Satrajit's daughter found him first. Morning came into the house, and Satyabhama found her father dead — slain in the night, the Syamantaka gone from its place. She cried out, \"Father, father!\" and the sound of her own voice told her it was true; she felt herself slain along with him, as though the grief had cut her down where she stood. For a long moment the world was only the body on the floor and the emptiness where the jewel had been.\n\nBut the shock did not leave her helpless. Her husband was far away in Hastinapura, the city of the elephant, and the man who had done this had the whole night's start on her. There was no time to wait for the city to wake and the rites to be prepared. So Satyabhama did for her father what could be done: she laid his body in a great vat of oil, to keep it safe until proper rites could be performed, and then she left Dwaraka and rode for Hastinapura. The road was long, and she rode it as though the news would spoil in her keeping — as though, if she reached her husband quickly enough, the telling would hurt less. The dust of the road rose around her, and she did not slow for it. When the gates of Hastinapura finally rose before her, she passed through them without stopping, and asked for her husband before she had even caught her breath.\n\nShe found Krishna and told him everything — how Satadhanva had come in the night, how her father lay dead in Dwaraka, how the Syamantaka had been taken from the house, and how she had left the body in oil and ridden through the dust to bring the word herself. Standing by his side, she wept; and Krishna heard the news, and the news broke him too. He who had held the world's sorrows in his hands wept for this one as though it were the only grief that had ever touched him.\n\nHe grieved, and Balarama grieved with him. The two lords, who held the worlds in their keeping, wept for their kinsman — following the ways of human beings, mourning as a son-in-law and a brother mourn. There was nothing distant about that weeping, and everything human in it; the lords of the universe grieved with the same tears as any family in Dwaraka that morning.\n\nThe mourning did not last long. When it was done, something else had entered Krishna's eyes — the quiet of a man who has been handed a name he will not forget. Satadhanva had taken a life and a jewel. He would be allowed to keep neither.",
+ "reflection": "The detail that Krishna and Balarama wept \"following human ways\" is the heart of the episode — the lords of the universe grieve without distance, as any family would. Satyabhama's journey carries the story forward: she becomes the bearer of her own loss, and the grief she brings will not go unanswered.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 2,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Satyabhama",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Hastinapura"
+ ],
+ "themes": [
+  "grief",
+  "duty",
+  "family"
+ ],
+ "previous_story_id": "DKS_0216",
+ "next_story_id": "DKS_0218",
+ "next_story_tease": "When the mourning was over, Krishna and Balarama set out in pursuit of Satadhanva.",
+ "hero_scene": "Satyabhama, alone in the lamplit hall of her father's house, laying his slain body in a great vat of oil before setting out on the long road to Hastinapura.",
+ "visual_elements": [
+  "Satrajit's body laid in a great vat of oil",
+  "Satyabhama grieving in the lamplit hall",
+  "the long road to Hastinapura",
+  "Satyabhama telling Krishna the news",
+  "Krishna and Balarama weeping together",
+  "the resolve gathering in Krishna's eyes"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.57.6-8",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:15Z",
+  "source_event_id": "evt_0243"
+ },
+ "editorial_status": "unreviewed"
+}

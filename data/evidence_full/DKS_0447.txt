@@ -1,0 +1,52 @@
+# STORY DKS_0447 — Krishna's Verdict on Ashvatthama
+
+## Index entry
+title: Krishna's Verdict on Ashvatthama
+summary: When Ashvatthama, the murderer of the sleeping children, is dragged before Krishna and the Pandavas, Krishna urges that the brahmin-slayer must be punished but not slain, and pronounces the compromise Arjuna carries out: strip his jewel and shave his head, sparing his life.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Ashvatthama, Draupadi, Bhima
+locations: the Pandava camp, Hastinapura
+themes: justice, mercy, dharma, punishment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0413
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 7 | verses 32-56 | confidence 5
+  excerpt: Krishna says: 'A brahmin's unworthy son is not to be slain, yet an assailant deserves punishment — both are my ordinances; uphold them. Keep the promise you made to your beloved, and satisfy Bhima, Panchali and me.' Then Arjuna, understanding Krishna's heart, cut off the jewel along with the hair of the brahmin, released him from his bonds, and drove him from the camp. (rendered from Sanskrit, ver
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.7 (32-56)
+32. tata āsādya tarasā dāruṇaṃ gautamīsutam /
+33. śibirāya ninīṣantaṃ rajjvā baddhvā ripuṃ balāt /
+34. mainaṃ pārthārhasi trātuṃ brahmabandhum imaṃ jahi /
+35. mattaṃ pramattam unmattaṃ suptaṃ bālaṃ striyaṃ jaḍam /
+36. svaprāṇān yaḥ paraprāṇaiḥ prapuṣṇātyaghṛṇaḥ khalaḥ /
+37. pratiśrutaṃ ca bhavatā pāñcālyai śṛṇvato mama /
+38. tadasau vadhyatāṃ pāpa ātatāyyātmabandhuhā /
+39. bhp_01.07.040/0 sūta uvāca
+40. athopetya svaśibiraṃ govindapriyasārathiḥ /
+41. tathāhṛtaṃ paśuvat pāśabaddham avāṅmukhaṃ karmajugupsitena /
+42. uvāca cāsahantyasya bandhanānayanaṃ satī /
+43. sarahasyo dhanurvedaḥ savisargopasaṃyamaḥ /
+44. sa eṣa bhagavān droṇaḥ prajārūpeṇa vartate /
+45. taddharmajña mahābhāga bhavadbhirgauravaṃ kulam /
+46. mā rodīdasya jananī gautamī patidevatā /
+47. yaiḥ kopitaṃ brahmakulaṃ rājanyairajitātmabhiḥ /
+48. bhp_01.07.049/0 sūta uvāca
+49. nakulaḥ sahadevaśca yuyudhāno dhanañjayaḥ /
+50. tatrāhāmarṣito bhīmastasya śreyān vadhaḥ smṛtaḥ /
+51. niśamya bhīmagaditaṃ draupadyāśca caturbhujaḥ /
+52. bhp_01.07.053/0 śrībhagavān uvāca
+53. kuru pratiśrutaṃ satyaṃ yat tat sāntvayatā priyām /
+54. bhp_01.07.055/0 sūta uvāca
+55. vimucya raśanābaddhaṃ bālahatyāhataprabham /
+56. vapanaṃ draviṇādānaṃ sthānān niryāpaṇaṃ tathā /
+
+## Corpus chain
+previous_story_id: DKS_0446 | next_story_id: DKS_0448
+previous title: Krishna Guides Arjuna Against Ashvatthama's Brahmastra
+next title: Bhishma's Passing in Krishna's Presence

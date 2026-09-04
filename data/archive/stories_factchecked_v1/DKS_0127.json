@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0127",
+ "title": "Narada Reveals the Truth to Kamsa",
+ "subtitle": null,
+ "story": "Kamsa had stopped counting the things he had sent to kill the boy of Vraja, because the count only ever rose and the boy never died. Putana, the she-demon who went to nurse a newborn, had been drained of her own life instead. The wagon under which the baby lay had been overturned. The two arjuna trees had been shattered. The serpent Kaliya had been driven out of the Yamuna. Dhenuka and Pralamba and the bull-demon Arishta — all sent, all slain, one after another. Each had been meant to kill him, and each time it was the killer who fell.\n\nAnd yet the king could still steady himself with one certainty. The child the prophecy warned of — Devaki's eighth son, the one foretold to be his death — was gone. He had seized that infant and dashed it against a stone years ago, in the prison, with his own hands, before it had ever drawn breath as his enemy. He had been so sure of it that he had let the fear loosen its grip and had gone on ruling Mathura, cruel and calm.\n\nWhatever this cowherd named Krishna was, rising through Vraja like a flame no one could stamp out, he was not the one the prophecy named. He could not be. The prophecy had been fulfilled in blood, long ago.\n\nThen Narada stood before him.\n\nThe wandering sage who moves freely between the worlds did not flatter the king and did not threaten him. He came as a herald of fact, nothing more. He told Kamsa the truth, plainly, and the truth was worse than any threat could have been. The boy Kamsa feared had never died. On the night of his birth, Vasudeva had carried the newborn Krishna across the Yamuna in secret and left him in the care of Nanda and Yashoda, taking their infant daughter back to the prison in his place. That daughter — Yashoda's girl, not Devaki's son — was the child Kamsa had seized and dashed that night. And the fair one who fought at Krishna's side, Balarama, was the son of Rohini, hidden in Vraja all these years in the same way.\n\nThese two, Narada told him, were his death. The eighth child was alive, grown strong, and living almost within reach — sheltered by a village of cowherds he had never thought to watch.\n\nThe verses say that Kamsa's senses shook with rage. Every locked door, every guard posted in that prison, every one of Devaki's infants he had killed there — all of it had been for nothing, because the one child that mattered had been slipped out beneath his hand, carried away in the dark while he slept. The fury had to land somewhere, and it landed on Vasudeva.\n\nHe seized his sword, and he had Vasudeva taken. Devaki was bound beside her husband, and both were put back into iron fetters. The man who had saved his son by giving him away would answer for the deception, and Kamsa would make certain of it. He would find some other way to reach the boy — he always did — but for now the truth itself had become his enemy, and it would not be put back in chains.",
+ "reflection": "Narada does not plot and does not accuse; he only states what is true, and the truth alone is enough to shatter the false certainty on which Kamsa's prison was built. The iron fetters Kamsa claps on Vasudeva and Devaki are a confession: he has lost the one thing that kept him calm, and rage is all he has left.",
+ "tradition_note": "The Vishnu Purana adds that Kamsa, in his fury, also reproached Vasudeva and all the Yadavas in a full assembly; the Bhagavata records only that he seized his sword and bound the couple.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Narada",
+  "Kamsa",
+  "Vasudeva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura",
+  "Vraja"
+ ],
+ "themes": [
+  "truth",
+  "imprisonment"
+ ],
+ "previous_story_id": "DKS_0126",
+ "next_story_id": "DKS_0128",
+ "next_story_tease": "But knowing the truth only sharpened Kamsa's fear, and he began at once to lay his own plans for the boy.",
+ "hero_scene": "The sage Narada standing before Kamsa in his court, calmly speaking the truth that undoes the king, while Kamsa's hand moves toward the hilt of his sword and his face darkens with rage.",
+ "visual_elements": [
+  "Narada the sage in Kamsa's court",
+  "Kamsa reaching for his sword",
+  "rage on Kamsa's face",
+  "Vasudeva and Devaki in iron fetters",
+  "prison cell",
+  "the truth spoken calmly",
+  "tension and dread"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.36.15-18",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.15",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0129"
+ },
+ "editorial_status": "unreviewed"
+}

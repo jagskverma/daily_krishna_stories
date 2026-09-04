@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0311",
+ "title": "The Sound That Raised the Fallen",
+ "subtitle": "Pradyumna duels Vajranabha in the sky above the city of Vajra",
+ "story": "The first sign of help was a sound — a long, deep blast of a conch rolling through the sky above the sealed city of Vajra and its demon king, Vajranabha, so commanding that the air itself seemed to hold still. It was Panchajanya, the conch of Krishna, lord of the Yadavas. To the demon host below it was not music but a summons: somewhere beyond the clouds, at the edge of Indra's bright realm, Krishna had come to the war.\n\nHe came riding Garuda, the king of birds and the ancient enemy of serpents, who crosses the sky swifter than wind or thought and scatters the clouds like leaves. Beneath them the battle had already lasted long. Pradyumna, Krishna's son, had driven the demon armies before him, and the fighting had climbed into the upper air, close to the realm of Indra. As Garuda swept into that bright region, Krishna raised the conch and blew; and the demons below felt the old terror of that sound, for they had heard it before and remembered what followed it.\n\nPradyumna heard it and knew it at once. He had been waiting for that sound the way a son waits for his father's voice in a crowd. He came swiftly to his father, and Krishna spoke in few words. \"Speedily kill Vajranabha,\" he said. Then he added, \"Go there on Garuda's back.\" Pradyumna saluted Indra, saluted his father, mounted the great bird, and was gone.\n\nGaruda carried him to his rival as swiftly as a thought, the wind of his passage flattening the banners of the demon host. Seated firmly on the bird, the young warrior — well read in the use of every weapon — struck first. The club was in his hand before Vajranabha had finished turning toward the sound of wings. It crashed against the demon king's breast, and the mighty Asura reeled and lost consciousness, until he lay like one dead.\n\nPradyumna, irrepressible in battle, looked down at the fallen king and spoke two words: \"Be consoled.\" It was a strange courtesy between enemies, but it found its mark. In a moment Vajranabha's eyes opened. He gathered himself and spoke, with something close to admiration in his voice. \"Well done, mighty Yadava,\" he said. \"By your prowess you have become an illustrious enemy of mine. Now is the time for me to strike you in return. Wait here firmly.\" He planted his feet, drew himself up to his full height, and roared — a roar like a hundred clouds colliding — and hurled a huge club adorned with bells straight at Pradyumna. The blow caught the young warrior on the forehead, and he fell senseless.\n\nKrishna saw his son fall. He did not descend from the sky; he did not cry out. He raised Panchajanya to his lips and blew — the same conch that had spread terror through the demons, now sounding like a father's voice calling a child home. It was not a battle-cry and not a signal. It was the sound a father makes when his child is hurt, a call that has never needed words. At that sound Pradyumna stirred. Strength returned to his limbs, and he rose and stood on the field again, whole and ready. And beholding him revived, all the worlds were glad — the gods in their bright houses, the warriors on the field, Indra most of all, and Krishna.",
+ "reflection": "The same conch that sows terror in the Daityas revives Krishna's fallen son: one sound, heard as judgment by one host and as refuge by the other. Pradyumna's courtesy to the fallen king, the two words \"Be consoled,\" is also striking — he grants his enemy a moment to recover, and the duel answers with its own respect.",
+ "tradition_note": null,
+ "content_note": "Battle scene with clubs, described with restraint; a warrior is struck senseless and revived.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Vajranabha",
+  "Krishna",
+  "Garuda",
+  "Indra"
+ ],
+ "locations": [
+  "sky above the city of Vajra"
+ ],
+ "themes": [
+  "single combat",
+  "club",
+  "revival"
+ ],
+ "previous_story_id": "DKS_0310",
+ "next_story_id": "DKS_0312",
+ "next_story_tease": "But Vajranabha was still on his feet, and the war was not finished.",
+ "hero_scene": "The fallen Pradyumna rising to his feet on the battlefield as Krishna blows the conch Panchajanya from Garuda's back in the sky above, the blast of sound rippling outward like a wave across the field of the city of Vajra.",
+ "visual_elements": [
+  "Krishna on Garuda in the sky",
+  "Panchajanya conch raised to his lips",
+  "Pradyumna rising, revived",
+  "the asura king Vajranabha watching",
+  "the battlefield above the city of Vajra",
+  "a wave of sound spreading across the field",
+  "a mood of relief and renewal"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.244",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:53Z",
+  "source_event_id": "evt_0327",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

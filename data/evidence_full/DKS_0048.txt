@@ -1,0 +1,33 @@
+# STORY DKS_0048 — Brahma Steals the Calves and Boys
+
+## Index entry
+title: Brahma Steals the Calves and Boys
+summary: While Krishna searches for the strayed calves, Brahma, wanting to test the Lord, carries off all the calves and cowherd boys and hides them.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Brahma, Krishna
+locations: Vrindavan
+themes: divine_test, concealment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0060
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 13 | verses 11-16 | confidence 5
+  excerpt: While the boys are at play, the calves wander off, and as Krishna goes to find them, Brahma secretly carries away both calves and boys, hiding them by his power. (rendered from Sanskrit, verse 11-16)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.13 (11-16)
+11. bhārataivaṃ vatsa-peṣu bhuñjāneṣv acyutātmasu /
+12. tān dṛṣṭvā bhaya-santrastān ūce kṛṣṇo 'sya bhī-bhayam /
+13. ity uktvādri-darī-kuñja- gahvareṣv ātma-vatsakān /
+14. ambhojanma-janis tad-antara-gato māyārbhakasyeśitur $ draṣṭuṃ mañju mahitvam anyad api tad-vatsān ito vatsapān &amp;nītvānyatra kurūdvahāntaradadhāt khe 'vasthito yaḥ purā % dṛṣṭvāghāsura-mokṣaṇaṃ prabhavataḥ prāptaḥ paraṃ vismayam
+15. tato vatsān adṛṣṭvaitya puline 'pi ca vatsapān /
+16. kvāpy adṛṣṭvāntar-vipine vatsān pālāṃś ca viśva-vit /
+
+## Corpus chain
+previous_story_id: DKS_0047 | next_story_id: DKS_0049
+previous title: Krishna Kills Aghasura and Revives His Friends
+next title: Krishna Expands Into All the Calves and Boys

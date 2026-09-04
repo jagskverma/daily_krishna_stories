@@ -1,0 +1,68 @@
+{
+ "id": "DKS_0089",
+ "title": "Indra Installs Krishna as Govinda",
+ "subtitle": null,
+ "story": "Indra had come down to beg forgiveness for the storm he had sent against Vrindavan — the storm that a cowherd boy had answered by holding the hill of Govardhana above the village for seven days — and he had gone away restored. But the surrender was only the beginning of what the king of the gods owed. Before he left the foot of Govardhana, a voice rose that was older and gentler than his own.\n\nSurabhi, the divine cow — the mother of all the cattle of heaven and earth — stepped forward to praise the boy who had sheltered her children from the storm. The verses say she bowed to him, and that she was wise, and her words carried the weight of a mother speaking for everything she loved. \"You are our highest deity,\" she told him. \"You are our very Indra, lord of the world. Urged by Brahma, we shall now consecrate you as Indra.\"\n\nSo the honor came not from Krishna's own asking, but from the gods and from the cattle he had saved. Then Indra, urged on by Surabhi and by the divine mothers of heaven, prepared to honor the boy, and to the foot of Govardhana came the sages of the gods, with Tumburu and Narada — the singers of heaven — and the Gandharvas and Vidyadharas, Siddhas and Charanas, the whole shining company of the sky, gathering on the green slopes where the hill had stood against the rain and had not fallen.\n\nThere, at the foot of Govardhana, Indra did the work of a priest. He brought the water of the celestial Ganga, the river that flows through heaven itself, and bathed Krishna with it. Then he gave the boy his new name. \"The people of this world will sing of you as Govinda,\" he said, in the words of the older account — the lord of the cows, the Indra of the cattle, the one who had carried their whole world on the palm of one hand and set it down again unharmed.\n\nThere was a tenderness in the scene that is easy to miss. The god who had sent the storm now poured the water of blessing. The king whose pride had blackened the sky now stood as a servant at the ceremony, handing back to a cowherd child the very honors he had once claimed for himself.\n\nThe gods did not merely watch. They praised him and showered him with wonderful flowers from the sky. And when Krishna was consecrated, the rivers ran with many kinds of sweetness and the trees dripped honey, as if the whole of Vrindavan were answering the ceremony in its own language. Heaven and earth seemed, for that one hour, to agree.\n\nAnd the name stuck. It has never left him: Govinda — the lord of the cows and the cowherds. It was not a reward so much as a description, and it said plainly what the seven days of rain had already proven: that this boy, raised among the cowherds, belonged to the cattle, and the cattle to him, and that no storm from heaven or anywhere else could ever part them.",
+ "reflection": "The striking thing is who performs the consecration. The god Krishna had just humbled is the one who bathes him and gives him his name, so that Indra's defeat becomes, in the end, an act of service. The title Govinda is not a victory claimed but a belonging declared — by the cattle, and by the very king who could not break them apart.",
+ "tradition_note": "The Harivamsha describes Indra arriving on his elephant and sprinkling Krishna with jars of heavenly water; the Vishnu Purana has Indra say he came at the cattle's own request, to install Krishna as \"the Indra of the cows.\" Both agree on the name Govinda.",
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Surabhi",
+  "Indra",
+  "Krishna"
+ ],
+ "locations": [
+  "Govardhana"
+ ],
+ "themes": [
+  "consecration",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0088",
+ "next_story_id": "DKS_0090",
+ "next_story_tease": "And soon, in the forest, the sound of a flute would carry the gopis away into remembrance of him.",
+ "hero_scene": "Indra pouring the water of the celestial Ganga over the boy Krishna at the foot of Govardhana hill, while Surabhi the divine cow and the assembled gods look on and flowers fall from the sky.",
+ "visual_elements": [
+  "Indra bathing Krishna with heavenly water",
+  "Krishna as a cowherd boy",
+  "Surabhi the divine cow",
+  "assembled gods, sages and Gandharvas",
+  "Govardhana hill",
+  "flowers falling from the sky",
+  "rivers and honey-dripping trees",
+  "consecration and rejoicing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.27.17-27",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.74",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.12",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:31Z",
+  "source_event_id": "evt_0102",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

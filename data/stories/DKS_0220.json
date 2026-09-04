@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0220",
+ "title": "Indra's Plea at Dwaraka",
+ "subtitle": null,
+ "story": "The wind that afternoon carried a fragrance no garden of Dwaraka had ever grown, and flowers fell from a sky that had been clear a moment before. In the great assembly hall called Dasharha — whose golden doors opened onto a courtyard a full yojana, many miles, across — Krishna and the leading men of the Yadavas, his own people, sat at their daily business. Then a great noise filled the air, and through a net of light they saw the king of the gods descending on his white elephant Airavata, the gods gathered about him.\n\nBalarama and Krishna went out at once to receive him, with King Ugrasena, the ruler of their people, and the chiefs of the Vrishni and Andhaka houses. Indra came down from the elephant, embraced Krishna, Balarama, and the king in order of age and rank, and — honored by both brothers — entered the hall and accepted the offerings of hospitality. When he was seated, he reached out and touched Krishna's face: the face of his younger brother, as the old telling has it. And he spoke.\n\n\"By you, Krishna,\" said Indra, \"the tyrants of the world have fallen one by one — Arishta, Dhenuka, Chanura, Mushtika, Kesin, Kamsa, Kuvalayapida, and Putana, the child-killer. By your arm the three worlds are kept safe, and the gods receive their share of every sacrifice. But hear why I have come. The demon Naraka, son of the Earth, king of Pragjyotisha, has grown swollen with a boon granted him by Brahma the Creator. He has stolen the earrings of my mother Aditi, which drip nectar. He has taken the umbrella of Varuna, the god of the waters, which no rain can wet, and the jewel that crowns Mount Mandara. He has carried off the daughters of gods, sages, demons, and kings — sixteen thousand and a hundred maidens, all wearing the single braid of the unwed — and shut them in a house he built for them on Mount Mani. And now, Krishna, he sends word that he will have my elephant Airavata.\"\n\nThe hall was silent. \"No creature can slay him,\" Indra went on, \"but you are not bound by what binds other creatures. Garuda will carry you to his city. Slay him, Krishna, and come back.\"\n\nKrishna rose and took Indra by the hand, and thought of Garuda; and the great bird, who can range anywhere and take on any strength, stood in the courtyard. Krishna seated Satyabhama, his queen, on the bird's back, mounted behind her, and rose into the sky, turning east toward Pragjyotisha, where razor-edged nooses guarded the demon's walls and four terrible keepers watched: Hayagriva, Nisunda, Panchanada, and Muru with his thousand sons. Indra mounted Airavata and, in the sight of all Dwaraka, returned to the world of the gods.\n\nThe city stood looking after them until the sky was empty: Krishna of Dwaraka flying east to war, his queen at his back, against a demon who had robbed the mother of the gods. Then the fragrance faded from the air, and the people of Dwaraka returned to their day — waiting, as they always did, for Krishna to come home.",
+ "reflection": "The king of the gods does not come to Dwaraka as a commander but as a supplicant, listing the oppressors Krishna has already removed and then naming the one he cannot. Indra's visit makes plain what the Yadavas have always suspected: their city is where heaven itself sends its hardest battles.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Indra",
+  "Satyabhama",
+  "Naraka"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "appeal-for-help",
+  "divine-mission",
+  "boon-of-brahma"
+ ],
+ "previous_story_id": "DKS_0219",
+ "next_story_id": "DKS_0221",
+ "next_story_tease": "But before the demon's fall, a quiet gift at a mountain festival would stir a storm in Krishna's own household.",
+ "hero_scene": "Krishna and Satyabhama rising into the sky on Garuda's back above the assembly hall of Dwaraka, while Indra on his white elephant Airavata watches and the city gazes up.",
+ "visual_elements": [
+  "Garuda carrying Krishna and Satyabhama",
+  "Indra on the white elephant Airavata",
+  "the assembly hall Dasharha of Dwaraka",
+  "falling flowers and a bright sky",
+  "the eastward flight toward Pragjyotisha",
+  "resolve and departure"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.120",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.29",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:16Z",
+  "source_event_id": "evt_0208",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

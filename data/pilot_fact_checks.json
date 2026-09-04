@@ -1,0 +1,2434 @@
+{
+ "DKS_0003": {
+  "statements": [
+   {
+    "claim": "Kamsa is the son of King Ugrasena of Mathura",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.1 'ugrasena-sutaḥ kaṃsaḥ'"
+   },
+   {
+    "claim": "Kamsa personally drove the wedding chariot, taking the reins himself",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.1 'pathi pragrahiṇaṃ kaṃsam'; index summary 'Kamsa drives the chariot'"
+   },
+   {
+    "claim": "Devaki was Kamsa's (youngest) sister whom he loved",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.56 'youngest sister Devaki'; BP 10.1 'svasuḥ priya-cikīrṣayā' (to please his sister)"
+   },
+   {
+    "claim": "Four hundred elephants with golden garlands formed the procession",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.1 'catuḥ-śataṃ ... gajānāṃ hema-mālinām'"
+   },
+   {
+    "claim": "Two hundred well-adorned maidservants walked alongside",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.1 'dāsīnāṃ sukumārīṇāṃ dve śate samalaṅkṛte'"
+   },
+   {
+    "claim": "Conches, horns, mridanga drums and kettledrums sounded together",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.1 'śaṅkha-tūrya-mṛdaṅgāś ca nedur dundubhayaḥ'"
+   },
+   {
+    "claim": "Vasudeva the groom sat beside the bride",
+    "verdict": "SUPPORTED",
+    "evidence": "Index summary 'newly-wed Vasudeva and Devaki'"
+   },
+   {
+    "claim": "A bodiless voice addressed Kamsa",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.1 'āśarīra-vāk'; VP 5.1 'a voice in the sky ... addressed Kansa'"
+   },
+   {
+    "claim": "The voice was deep as thunder and called Kamsa a fool",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.1 'sounding aloud and deep as thunder ... Fool that you are'"
+   },
+   {
+    "claim": "The warning: the woman he drove would bear eight children and the eighth would take his life",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.1 'the eighth child of the damsel whom you are driving ... shall take away your life'; BP/HV concur"
+   },
+   {
+    "claim": "Kamsa drew his sword and turned to kill Devaki in the chariot",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.1 'Kansa drew his sword, and was about to put Devakí to death'"
+   },
+   {
+    "claim": "Vasudeva interposed, stepping between the blade and the bride",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.1 'but Vasudeva interposed'"
+   },
+   {
+    "claim": "Only Kamsa heard the voice; the music played on and the procession halted",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Atmosphere/framing not asserted in the pack (no sourceable fact)"
+   },
+   {
+    "claim": "Closing reflection on affection turning to dread and every future child being watched",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Non-factual reflective narration; consistent with the prophecy premise"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP/VP bodiless-voice variant; Harivamsha's Narada variant is correctly deferred to the tradition_note, so no contradiction.",
+  "issues": []
+ },
+ "DKS_0013": {
+  "statements": [
+   {
+    "claim": "The birth occurred at midnight",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'niśīthe ... jāyamāne janārdane'"
+   },
+   {
+    "claim": "The directions grew calm, the sky cleared, and the stars rose",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'diśaḥ prasedur gaganaṃ nirmaloḍu-gaṇodayam'"
+   },
+   {
+    "claim": "Rivers settled clear and ponds put on lotus flowers",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'nadyaḥ prasanna-salilā hradā jalaruha-śriyaḥ'"
+   },
+   {
+    "claim": "The seas took up a low melodious murmur",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.3 'the seas with their own melodious murmurings made the music'"
+   },
+   {
+    "claim": "A gentle, cool, sweet-scented wind rose",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'vavau vāyuḥ sukha-sparśaḥ puṇya-gandhavahaḥ śuciḥ'"
+   },
+   {
+    "claim": "Extinguished hearth-fires burned again with a mild gentle flame",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.59 'the fires, that had been extinguished, began to burn'; VP 5.3 'the holy fires glowed with a mild and gentle flame'"
+   },
+   {
+    "claim": "A soft light spread over the earth like poured moonlight",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.3 'as if moonlight was diffused over the whole earth'"
+   },
+   {
+    "claim": "The minds of good people grew suddenly at peace",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'manāṃsy āsan prasannāni sādhūnām'"
+   },
+   {
+    "claim": "Devaki and Vasudeva were shut away by Kamsa, who had killed her earlier children by dashing them",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.59 'Kansa killed the Sargarbhas by dashing them against a stone'; prison setting in title/summary"
+   },
+   {
+    "claim": "The night was called Jayanti, the star Abhijit, the moment Vijaya",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.59 'the night was Jayanti, the Nakshatra was Abhijit and Muhurtta was Vijaya'"
+   },
+   {
+    "claim": "Kinnaras and gandharvas sang; siddhas and charanas praised",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'jaguḥ kinnara-gandharvās tuṣṭuvuḥ siddha-cāraṇāḥ'"
+   },
+   {
+    "claim": "Sages and gods showered flowers; a celestial bugle sounded unstruck",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'mumucur munayo devāḥ sumanāṃsi'; HV 1.59 'celestial bugles began to produce sound without being struck'"
+   },
+   {
+    "claim": "'Almost no one noticed'; the city slept while nature rejoiced",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Connective framing around the sourced natural-portent verses; not itself a factual claim"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Nature-portent sequence maps directly onto BP 10.3.1-7 and HV 1.59. The four-armed reveal is correctly deferred to tradition_note (VP 5.3), so no omission is treated as an error.",
+  "issues": []
+ },
+ "DKS_0015": {
+  "statements": [
+   {
+    "claim": "News of the birth tore Kamsa from sleep at night",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.4 'sa talpāt tūrṇam utthāya' (rose swiftly from his bed)"
+   },
+   {
+    "claim": "The guards told him a daughter had been born in the prison",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.4 'te tu tūrṇam upavrajya devakyā garbha-janma tat'; summary 'the infant girl'"
+   },
+   {
+    "claim": "He rose agitated, certain this was the dreaded moment",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.4 'kālo 'yam iti vihvalaḥ' ('This is the time,' he thought, agitated)"
+   },
+   {
+    "claim": "He rushed to the prison/lying-in room",
+    "verdict": "SUPPORTED",
+    "evidence": "Index summary 'hastens to the lying-in room'"
+   },
+   {
+    "claim": "Devaki is Kamsa's own younger sister",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.4 'avarajā'"
+   },
+   {
+    "claim": "Kamsa had killed her earlier children",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.4 'bahavo hiṃsitā bhrātaḥ śiśavaḥ'"
+   },
+   {
+    "claim": "Devaki called the lost children 'bright as fire'",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.4 'pāvakopamāḥ' (resembling fire)"
+   },
+   {
+    "claim": "Devaki pleaded with him to spare the infant girl",
+    "verdict": "SUPPORTED",
+    "evidence": "Index summary 'the grieving Devaki begs him to spare the infant girl'"
+   },
+   {
+    "claim": "Kamsa tore the child from her hands and raised her up",
+    "verdict": "SUPPORTED",
+    "evidence": "Index summary 'tears the child from her hands'; content_note 'raises it to dash it'"
+   },
+   {
+    "claim": "Palace/lamplight atmosphere and 'fear is older than mercy' aside",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Non-factual framing; no sourceable claim"
+   },
+   {
+    "claim": "'What he meant to do next belongs to the moment that follows'",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Deliberate deferral to the next story; not a factual assertion"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Devaki's plea closely tracks BP 10.4.1-6 Sanskrit ('children like fire', 'your younger sister', 'sons slain'). No invented characters or events.",
+  "issues": []
+ },
+ "DKS_0018": {
+  "statements": [
+   {
+    "claim": "Vasudeva was prompted by the Lord (a quiet command) to carry the child out",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'bhagavat-pracoditaḥ' (prompted by the Lord)"
+   },
+   {
+    "claim": "He carried the baby from the lying-in room at night",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'sūtikā-gṛhāt'"
+   },
+   {
+    "claim": "The guards were struck by sleep (the goddess of sleep/Yogamaya)",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'hṛta-pratyaya-sarva-vṛttiṣu dvāḥ-stheṣu'; VP 5.3 'guards all charmed by Yoganidrá'"
+   },
+   {
+    "claim": "The prison doors opened by themselves, as darkness gives way before the sun",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'svayaṃ vyavaryanta yathā tamo raveḥ'"
+   },
+   {
+    "claim": "A heavy rain fell from the clouds of night",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.3 'heavy rain that fell from the clouds of night'; BP 10.3 'maghoni varṣaty'"
+   },
+   {
+    "claim": "Shesha the many-headed serpent spread his hoods above them as shelter",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 / VP 5.3 'spread his hoods above their heads'"
+   },
+   {
+    "claim": "The Yamuna was deep, swift and foaming in flood",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.3 'gambhīra-toyaugha-javormi-phenilā'"
+   },
+   {
+    "claim": "The Yamuna parted; waters rose no higher than his knee",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.3 'the waters were stilled, and rose not above his knee'; BP summary 'parts its waters'"
+   },
+   {
+    "claim": "He carried the child on toward Gokul, the cowherd settlement",
+    "verdict": "SUPPORTED",
+    "evidence": "Index summary/arc 'krishna_reaches_gokul'; location Gokula"
+   },
+   {
+    "claim": "'The child was only a few hours old', 'the river knew what it carried', 'no one knew anything had happened'",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Connective framing; consistent with same-night escape, not independent factual claims"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Lock/sleep/serpent/river miracles all grounded in BP 10.3.46-49 and VP 5.3. No unsupported or contradicted elements.",
+  "issues": []
+ },
+ "DKS_0024": {
+  "statements": [
+   {
+    "claim": "Putana was a child-killer demoness who came by night",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.5 'Pútaná, the child-killer, came thither by night'; BP 10.6 'bālaka-mārikā'"
+   },
+   {
+    "claim": "She moved from house to house searching for children",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'vicinvatī śiśūn' (searching for children)"
+   },
+   {
+    "claim": "By chance she reached Nanda's house",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'yadṛcchayā nanda-gṛhe'"
+   },
+   {
+    "claim": "She took up the sleeping infant and gave him her breast",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.5 'took him up, and gave him her breast to suck'"
+   },
+   {
+    "claim": "The breast held poison meant to kill the child",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 3.2.22 'breast of deadly poison'; BP 10.6 'stanaṃ durjara-vīryam'"
+   },
+   {
+    "claim": "The baby's eyes stayed closed; he drank without waking or crying",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'sa nimīlitekṣaṇaḥ' (with closed eyes)"
+   },
+   {
+    "claim": "Krishna drained out her life along with her milk",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'drinks out her life along with her milk'; VP 5.5 'drained it of the life'"
+   },
+   {
+    "claim": "She cried 'Let go, let go'",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'sā muñca muñcālam iti prabhāṣiṇī'"
+   },
+   {
+    "claim": "Her cry shook the earth, mountains, sky and the planets",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'sādrir mahī dyauś ca cacāla sa-grahā'"
+   },
+   {
+    "claim": "She fell in her monstrous true form, hair loose and limbs spread, like Vritra struck by a thunderbolt",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.6 'vyādāya keśāṃś caraṇau bhujāv api prasārya ... nija-rūpam ... vajrāhato vṛtra ivāpatan'"
+   },
+   {
+    "claim": "Uddhava later recalled Putana attained a nurse's place despite her murderous intent",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 3.2.22 'attained the goal of a nurse' (Uddhava's recollection)"
+   },
+   {
+    "claim": "Household woke and found them; by daylight they carried the body away",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Scene-closing connective; body disposal not within excerpted BP 10.6.6-12 but consistent with the episode's canonical continuation"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "All substantive claims trace to BP 10.6.6-12, BP 3.2.22, HV 1.61 and VP 5.5. The body-removal closing is treated as connective (it is canonically accurate but outside the excerpted verse range).",
+  "issues": []
+ },
+ "DKS_0028": {
+  "statements": [
+   {
+    "claim": "Trinavarta came as a whirlwind and snatched the baby",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'tṛṇāvartaḥ ... vātyā-rūpa-dharo haran' (whirlwind-form, carrying)"
+   },
+   {
+    "claim": "The child grew heavier than a mountain/stone",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'guru-mattayā'; index summary 'heavier than a mountain'"
+   },
+   {
+    "claim": "The baby seized him by the throat; he could not move or breathe and his eyes bulged",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'gala-grahaṇa-niśceṣṭo daityo nirgata-locanaḥ'"
+   },
+   {
+    "claim": "He fell from the sky onto a rock and was shattered",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'antarikṣāt patitaṃ śilāyāṃ viśīrṇa-sarvāvayavaṃ'"
+   },
+   {
+    "claim": "The cowherds found the child safe on the demon's chest",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'kṛṣṇaṃ ca tasyorasi lambamānam'; index summary"
+   },
+   {
+    "claim": "The mothers recovered the child unmarked and wept with relief",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'prādāya mātre pratihṛtya vismitāḥ' (returned to the mother, amazed)"
+   },
+   {
+    "claim": "The people asked 'What penance have we done, what worship, what good deeds, what kindness to other beings'",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'kiṃ nas tapaś cīrṇam adhokṣajārcanaṃ pūrteṣṭa-dattam uta bhūta-sauhṛdam'"
+   },
+   {
+    "claim": "Nanda saw many wonders in the broad forest and began to watch the child more closely",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.7 'dṛṣṭvādbhutāni bahuśo nanda-gopo bṛhadvane'"
+   },
+   {
+    "claim": "Dust/darkness atmosphere, 'a child is the lightest thing in the world', women at their churning",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Non-factual connective framing; no sourceable claims"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Every plot beat maps to BP 10.7.25-32. No invented events, characters or numbers.",
+  "issues": []
+ },
+ "DKS_0030": {
+  "statements": [
+   {
+    "claim": "Garga performed the naming rites secretly, without the cowherds' knowledge",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 / index summary 'in secret'; VP 5.6 'without the knowledge of the cowherds'"
+   },
+   {
+    "claim": "Garga was sent by Vasudeva to perform the rites",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 / VP 5.6 'sent to Gokula by Vasudeva for that purpose'"
+   },
+   {
+    "claim": "Kamsa was hunting Vasudeva's children and knew of Nanda's friendship with Vasudeva",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'kaṃsaḥ pāpa-matiḥ sakhyaṃ tava cānakadundubheḥ'"
+   },
+   {
+    "claim": "Nanda rose with joy, pressed his palms, seated Garga and offered him a guest's welcome",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'taṃ dṛṣṭvā parama-prītaḥ pratyutthāya kṛtāñjaliḥ ... kṛtātithyaṃ sūpaviṣṭaṃ'"
+   },
+   {
+    "claim": "Garga read the course of the stars with knowledge beyond the senses",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'jyotiṣām ayanaṃ sākṣād ... jñānam atīndriyam'"
+   },
+   {
+    "claim": "Garga warned that word of a public naming would endanger the child, so it must be quiet",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'kaṃsaḥ pāpa-matiḥ ...' + summary 'in secret'"
+   },
+   {
+    "claim": "The elder boy, son of Rohini, was named Rama (also Balarama/Balabhadra)",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 / VP 5.6 'son of Rohini named Rama ... Balabhadra'"
+   },
+   {
+    "claim": "Nanda's son was named Krishna",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 / VP 5.6 'named ... the other Krishna'"
+   },
+   {
+    "claim": "The child appears in age after age with a different color",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'āsan varṇās trayo hy asya ... anuyugaṃ tanūḥ'"
+   },
+   {
+    "claim": "His names and forms are beyond counting",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'bahūni santi nāmāni rūpāṇi ca'"
+   },
+   {
+    "claim": "Before this birth he was born of Vasudeva",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'prāg ayaṃ vasudevasya ... jātaḥ'"
+   },
+   {
+    "claim": "He would bring welfare and delight to the cowherds and all Gokula",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'eṣa vaḥ śreya ādhāsyad gopa-gokula-nandanaḥ'"
+   },
+   {
+    "claim": "Through him the good would be shielded from harm",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'purānena ... sādhavo dasyu-pīḍitāḥ'"
+   },
+   {
+    "claim": "Those who set their hearts on him are fortunate",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'ya etasmin mahā-bhāgāḥ prītiṃ kurvanti mānavāḥ'"
+   },
+   {
+    "claim": "He is equal to Narayana in qualities",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'nārāyaṇa-samo guṇaiḥ'"
+   },
+   {
+    "claim": "'A naming can be a dangerous thing' and the closing reflection on the name spreading worldwide",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Non-factual framing; no sourceable claim"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Garga's speech and the two names map line-by-line onto BP 10.8.1-19 and VP 5.6. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0032": {
+  "statements": [
+   {
+    "claim": "Krishna played with Rama and the other cowherd boys",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'rāmādyā gopa-dārakāḥ'"
+   },
+   {
+    "claim": "The boys accused Krishna of eating mud in secret",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'kasmān mṛdam ... bhakṣitavān rahaḥ'; index summary 'playmates accuse him of eating mud'"
+   },
+   {
+    "claim": "Yasoda took him by the hand and scolded him gently, as a well-wisher",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'sā gṛhītvā kare kṛṣṇam upālabhya hitaiṣiṇī'"
+   },
+   {
+    "claim": "Krishna denied it, saying they all accused him falsely",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'nāhaṃ bhakṣitavān amba sarve mithyābhiśaṃsinaḥ'"
+   },
+   {
+    "claim": "Yasoda asked him to open his mouth",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'yady evaṃ tarhi vyādehī'"
+   },
+   {
+    "claim": "In his mouth she saw the whole universe, moving and unmoving, with sky and directions",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'sā tatra dadṛśe viśvaṃ jagat sthāsnu ca khaṃ diśaḥ'; summary 'mountains, oceans, stars'"
+   },
+   {
+    "claim": "She saw the circle of stars, water, fire, air and space",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'jyotiś-cakraṃ jalaṃ tejo nabhasvān viyad eva ca'"
+   },
+   {
+    "claim": "She saw every living thing, time, and the tangle of deeds and their results",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'jīva-kāla ... karmāśaya'"
+   },
+   {
+    "claim": "The vision sages seek through the Vedas, Upanishads and disciplines of knowledge",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'trayyā copaniṣadbhiś ca sāṅkhya-yogaiś ca sātvataiḥ'"
+   },
+   {
+    "claim": "Yasoda wondered if it was a dream, divine illusion, or a delusion of her own mind",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'kiṃ svapna etad uta devamāyā kiṃ vā madīyo bata buddhi-mohaḥ'"
+   },
+   {
+    "claim": "She reaffirmed 'I am Yasoda, my husband Nanda, my son; wife of the lord of Vraja, mistress of all his wealth'",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'ahaṃ mamāsau patir eṣa me suto vrajeśvarasyākhila-vittapā satī'"
+   },
+   {
+    "claim": "Her memory was then veiled and she lifted her son onto her lap",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.8 'sadyo naṣṭa-smṛtir gopī sāropyāroham ātmajam'"
+   },
+   {
+    "claim": "'His mouth was small enough to kiss' and the closing reflection on forgetting as mercy",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Non-factual framing; no sourceable claim"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "The cosmic-mouth vision maps directly onto BP 10.8.31-45, including Yasoda's internal monologue. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0033": {
+  "statements": [
+   {
+    "claim": "Yasoda churned curd dressed in a cord-bound cloth, jasmine garland slipping from her hair, face sweating, earrings and bangles swinging with the strain",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.2 (kṣaumaṃ vāsaḥ ... sūtra-naddhaṃ ... vigalan-mālatī ... svinnaṃ vaktraṃ ... kaṅkaṇau kuṇḍale)"
+   },
+   {
+    "claim": "The hungry child came to his churning mother",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.3 (stanya-kāma ... mathnantīṃ jananīṃ)"
+   },
+   {
+    "claim": "She nursed him on her lap, smiling at his face",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.4 (aṅkam ārūḍham apāyayat stanaṃ ... sa-smitam īkṣatī mukham)"
+   },
+   {
+    "claim": "The milk set to boil began to spill, so she set the child down and ran to it",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "BP 10.9.6 only says she 'took down the well-cooked milk' (suśṛtaṃ payaḥ); the spilling detail is connective"
+   },
+   {
+    "claim": "Angry and biting his lip, the child broke the churn-pot",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.5 (sañjāta-kopaḥ ... sandaśya dadbhir dadhi-mantha-bhājanam)"
+   },
+   {
+    "claim": "He gave the stolen butter to a monkey",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.7 (markāya kāmaṃ dadataṃ)"
+   },
+   {
+    "claim": "He stood on the mortar",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.7 (ulūkhalāṅghrer upari vyavasthitaṃ)"
+   },
+   {
+    "claim": "Yasoda saw the broken pot, took a stick, and chased him; he ran as if afraid",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.8 (ātta-yaṣṭiṃ ... apasasāra bhītavat)"
+   },
+   {
+    "claim": "The yogis' minds cannot reach or enter him",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.8 (na yam āpa yogināṃ kṣamaṃ praveṣṭuṃ tapaseritaṃ manaḥ)"
+   },
+   {
+    "claim": "Yasoda, broad-hipped and slender-waisted, could not catch him",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.9 (bṛhac-calac-chroṇī-bharākrānta-gatiḥ sumadhyamā)"
+   },
+   {
+    "claim": "He cried, rubbing his eyes with hands smeared with collyrium and soot",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.9.10 (prarudantam akṣiṇī kaṣantam añjan-maṣiṇī sva-pāṇinā)"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.9.1-10. Only connective narration is the boiling-milk spill (source says 'took down the cooked milk'). Uses 'Yasoda' (pack index spelling) consistently.",
+  "issues": []
+ },
+ "DKS_0035": {
+  "statements": [
+   {
+    "claim": "Krishna was a crawling child, too young to walk",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'began to crawl on their legs'; BP 10.10 context (bālena)"
+   },
+   {
+    "claim": "He went into cow sheds covered in ash and dung, and pasted in ashes and cow-dung shone like a prince of fire",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'with their persons pasted with ashes and powdered cow-dung they shone like two princes of fire' (note: HV says 'two boys'; story singularizes to Krishna, matching BP primary which is Krishna-only)"
+   },
+   {
+    "claim": "Nanda could not check him",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'Nanda could not (by any means) check them'"
+   },
+   {
+    "claim": "In anger Yashoda tied a rope around his waist to a wooden mortar",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62; VP 5.6 'Fastening a cord round his waist, she tied him to the wooden mortar'"
+   },
+   {
+    "claim": "She told him 'Go, if you are capable of it'",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'Go, if you are capable of doing it' (paraphrase)"
+   },
+   {
+    "claim": "From that rope he was called Damodara, bound by a rope around his belly",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'From that day ... Krishna was called Damodara'; VP 5.6 'hence ... called Damodara'"
+   },
+   {
+    "claim": "He dragged the mortar toward the forest edge where two twin arjuna trees stood",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.10.25 (arjunayoḥ ... yamayor); HV 1.62"
+   },
+   {
+    "claim": "He went meaning to surprise the villagers and play",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'with a view to surprise the inhabitants of Vraja and play'"
+   },
+   {
+    "claim": "The mortar caught at the roots and a single tug uprooted both trees",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.10.26; HV 1.62 'mortar firmly fixed at the root ... uprooted with their roots and branches'; VP 5.6"
+   },
+   {
+    "claim": "Birds burst from the branches and dust rose",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Connective atmosphere, not in the cited verses"
+   },
+   {
+    "claim": "The two trees were sons of Kubera, cursed by a divine sage to stand rooted until freed",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.10.24 (dhanadātmajau = two sons of Kubera; devarṣi = the divine sage)"
+   },
+   {
+    "claim": "The cowherds came running and Krishna laughed",
+    "verdict": "SUPPORTED",
+    "evidence": "HV 1.62 'to show this to the milk-men the Lord ... began to laugh'"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Primary (BP 10.10.23-26) is Krishna-only; ash/dung 'prince of fire' color drawn from HV (additional). HV/VP both fold in the rope-binding beat, matching the story. Clean.",
+  "issues": []
+ },
+ "DKS_0047": {
+  "statements": [
+   {
+    "claim": "Aghasura was a demon in the shape of an immense python",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.35 (ājagaraṃ carma — the python's skin)"
+   },
+   {
+    "claim": "The cowherd boys and calves had gone into his open mouth, alive but not yet swallowed",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.25 (praviṣṭās tv asurodarāntaraṃ ... na gīrṇāḥ)"
+   },
+   {
+    "claim": "Krishna was pierced with pity and amazed at what fate had done",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.26 (ghṛṇārdito ... diṣṭa-kṛtena vismitaḥ)"
+   },
+   {
+    "claim": "He reasoned about the demon's life and the boys' harm, then entered the mouth",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.27 (kṛtyaṃ kim atrāsya khalasya jīvanaṃ ... jñātvāviśat tuṇḍam)"
+   },
+   {
+    "claim": "The gods hidden in the clouds cried out in fear",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.28 (ghana-cchadā devā bhayād dhā-heti cukruśuḥ)"
+   },
+   {
+    "claim": "Krishna grew, blocking the demon's throat; its eyes bulged and it thrashed",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.29-30 (niruddha-mārgiṇaḥ ... udgīrṇa-dṛṣṭer bhramatas)"
+   },
+   {
+    "claim": "As the demon's life left, Krishna raised up the dead boys and calves and led them out alive",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.31 (vatsān suhṛdaḥ paretān — the dead companions)"
+   },
+   {
+    "claim": "A great light rose from the demon, blazing the ten directions, and entered Krishna",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.32 (mahaj jyotiḥ ... jvalayad diśo daśa); pack summary 'soul merges into Krishna'"
+   },
+   {
+    "claim": "Gods rained flowers, gandharvas sang, apsaras danced, brahmins raised hymns",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.33 (puṣpaiḥ ... apsarasaś ca nartanaiḥ gītaiḥ ... stavaiś ca viprā)"
+   },
+   {
+    "claim": "Only the dried skin remained in Vrindavan",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.12.35 (ājagaraṃ carma śuṣkaṃ vṛndāvane 'dbhutam)"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.12.25-35. The 'second moon / sun at night' is a connective simile over v.32, not a factual claim. Correctly distinguishes 'not yet swallowed' (alive) from later death-and-revival (paretān).",
+  "issues": []
+ },
+ "DKS_0049": {
+  "statements": [
+   {
+    "claim": "The calves and cowherd boys of Vrindavan vanished",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack excerpt 'every vanished calf and boy'; BP 10.13.17-26"
+   },
+   {
+    "claim": "Mothers waited in doorways and cows lowed for their calves",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Connective scene-setting; implied by BP 10.13.17 (to give joy to the mothers)"
+   },
+   {
+    "claim": "Krishna expanded himself into every vanished calf and boy to console their mothers",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.13.17 (mudaṃ kartuṃ tan-mātṝṇāṃ); pack summary"
+   },
+   {
+    "claim": "He took on each one's body, staff, horn, flute, leaf, ornaments, clothes, temperament, name, age, and play",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.13.18 (yaṣṭi-viṣāṇa-veṇu-dala ... vibhūṣāmbaram ... śīla-guṇābhidhākṛti-vayo ... vihāra)"
+   },
+   {
+    "claim": "Each boy led his own calf to its own pen",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.13.20 (tat-tad-vatsān pṛthaṅ nītvā tat-tad-goṣṭhe niveśya)"
+   },
+   {
+    "claim": "Cows hurried lowing to their calves; mothers rose at the flute, embraced, bathed, dressed, marked tilak and fed them",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.13.21-23 (veṇu-rava-tvarotthitā ... tilakāśanādibhiḥ)"
+   },
+   {
+    "claim": "The cows' and mothers' love grew deeper than before",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.13.24 (go-gopīnāṃ mātṛtā ... snehardhikāṃ)"
+   },
+   {
+    "claim": "This lasted a full year, affection climbing daily like a vine",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.13.25 (sneha-vally ābdam anvaham)"
+   },
+   {
+    "claim": "None of the mothers or cows knew it was Krishna",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack summary 'unknowingly nurses and loves the Lord himself'"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Very high fidelity to BP 10.13.17-26; the enumeration of boy attributes tracks v.18 almost item-for-item. The 'gentler way' framing is connective over the 'give joy to mothers' motive.",
+  "issues": []
+ },
+ "DKS_0060": {
+  "statements": [
+   {
+    "claim": "A wildfire suddenly surrounded the cowherd boys and their cattle in the dry woods",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack summary and BP 10.19 excerpt (agnim ulbaṇam — the raging fire)"
+   },
+   {
+    "claim": "The fire came from every side at once",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Source does not specify direction; connective elaboration"
+   },
+   {
+    "claim": "The boys cried out that Krishna's own kinsmen did not deserve to perish",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.19.9 (nūnaṃ tvad-bāndhavāḥ kṛṣṇa na cārhanty avasāditum)"
+   },
+   {
+    "claim": "Krishna told them not to fear and to shut their eyes",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack summary 'bids ... close their eyes'; BP 10.19.11 (mīlitākṣeṣu)"
+   },
+   {
+    "claim": "He drank the raging fire into his mouth until it was gone",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack summary 'drinks up the flames'; BP 10.19.11"
+   },
+   {
+    "claim": "They opened their eyes and stood safe at Bhandira with their cattle unhurt",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.19.12 (akṣīṇy unmīlya punar bhāṇḍīram āpitāḥ)"
+   },
+   {
+    "claim": "It was his yogic power, accomplished by his own maya",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.19.13 (kṛṣṇasya yoga-vīryaṃ tad yoga-māyānubhāvitam)"
+   },
+   {
+    "claim": "Later they tried to tell the elders, who smiled and let it go",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Invented epilogue, not in the source; narrative closure only"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 4,
+  "notes": "No unsupported facts; core event fully sourced. Flagged items are connective: the 'from every side' direction and the invented elders-epilogue are narration beyond BP 10.19.9-13.",
+  "issues": []
+ },
+ "DKS_0074": {
+  "statements": [
+   {
+    "claim": "Kaliya coiled around Krishna and squeezed while the people of Gokula (women and children) watched helpless, grieving on his account",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.22 (sva-gokulam ... sa-strī-kumāram ati-duḥkhitam ātma-hetoḥ)"
+   },
+   {
+    "claim": "Following the path of a mortal, Krishna paused a moment and rose from the coils",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.22 (ājñāya martya-padavīm anuvartamānaḥ sthitvā muhūrtam udatiṣṭhad)"
+   },
+   {
+    "claim": "Kaliya rose in fury, spread his hundred hoods, hissed, eyes like burning coals, forked tongue, poison-fire glance",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.23-24 (unmamayya kupitaḥ sva-phaṇān ... ulmuka-mukho ... jihvayā dvi-śikhayā ... viṣāgni-dṛṣṭim)"
+   },
+   {
+    "claim": "Krishna circled him like the king of birds (Garuda)",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.24 (parisasāra yathā khagendro)"
+   },
+   {
+    "claim": "The serpent's strength ebbed from circling",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.25 (paribhrama-hataujasam)"
+   },
+   {
+    "claim": "Krishna climbed onto the hoods and danced; the rubies reddened his feet",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.25 (adhirūḍha ... nanarta; mūrdha-ratna-nikara-sparśāti-tāmra-pādāmbuja)"
+   },
+   {
+    "claim": "Each hood that would not bow he crushed with his foot; the serpent vomited blood",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.27-28 (yad yac chiro na namate ... mamarda; āsyato 'sṛṅ ... vaman)"
+   },
+   {
+    "claim": "Gandharvas, siddhas, sages and wives of the gods showered flowers, music and praise",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.26 (gandharva-siddha-muni-cāraṇa-deva-vadhvaḥ ... puṣpopahāra-nutibhiḥ)"
+   },
+   {
+    "claim": "Kaliya remembered Narayana, guru of all moving and still, and took refuge in him",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.29 (carācara-guruṃ puruṣaṃ purāṇaṃ nārāyaṇaṃ tam araṇaṃ manasā jagāma)"
+   },
+   {
+    "claim": "The serpent's wives approached in grief, garments and ornaments loosened",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.16.30 (amuṣya patnya ārtāḥ ślathad-vasana-bhūṣaṇa-keśa-bandhāḥ)"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.16.22-30; the 'hundred heads', 'rubies', 'king of birds', and the Narayana refuge all track the verses closely. No fabrication.",
+  "issues": []
+ },
+ "DKS_0085": {
+  "statements": [
+   {
+    "claim": "Out-of-season rain fell in sheets with hail like stones and wind; cattle trembled and cowherds cried 'Krishna! Krishna!'",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.25.10-12 (aty-āsārāti-vātena paśavo jāta-vepanāḥ ... kṛṣṇa kṛṣṇa)"
+   },
+   {
+    "claim": "This was Indra, king of the gods, angry",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack excerpt 'Krishna reasoned that Indra in anger was sending this out-of-season storm'"
+   },
+   {
+    "claim": "The cowherds had always kept a sacrifice to Indra; that year at Krishna's urging the cowherd king offered a different sacrifice (of the cows) and Indra's offering was not made",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION",
+    "evidence": "Backstory bridge; BP 3.2.31 gives go-savena (go-savana sacrifice) and bhagnamāne (Indra's pride broken) but not the 'always worshiped Indra' premise"
+   },
+   {
+    "claim": "Krishna resolved to shelter his people and break the pride of those who fancy themselves lords",
+    "verdict": "SUPPORTED",
+    "evidence": "Pack excerpt 'to destroy the pride of those who fancy themselves lords'"
+   },
+   {
+    "claim": "He lifted Govardhana hill with one hand, lightly, like an umbrella, as if on the tip of his finger",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.25.18 (ekena hastena kṛtvā govardhanācalam); HV 1.73 'on the tip of his finger'; pack summary 'like an umbrella'"
+   },
+   {
+    "claim": "The storm lasted seven days and seven nights",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.11 'For seven days and nights ... rain upon the Gokula'; pack variant_notes 'HV/VP specify seven nights/days'"
+   },
+   {
+    "claim": "The people and cattle stayed dry beneath the raised hill",
+    "verdict": "SUPPORTED",
+    "evidence": "VP 5.11 'they were protected by the elevation of the mountain'"
+   },
+   {
+    "claim": "On the seventh day the storm broke and Indra's pride was broken",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 3.2.32 (varṣatīndre vrajaḥ kopād bhagnamāne)"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 4,
+  "notes": "Core event fully sourced. The Indra-worship backstory ('always kept a sacrifice to Indra ... the offering was not made') is a connective bridge — the go-savana and Indra's broken pride are in BP 3.2.31-32, but the 'annual Indra sacrifice' premise is not explicit in the pack. No fabrication.",
+  "issues": []
+ },
+ "DKS_0099": {
+  "statements": [
+   {
+    "claim": "The full moon rose, washing the eastern sky red like fresh kumkum",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.1-2 (uḍurājaḥ ... prācyā ... aruṇena; nava-kuṅkumāruṇam)"
+   },
+   {
+    "claim": "On an autumn night Krishna saw the forest and played his flute / sang sweetly",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.2 (dṛṣṭvā ... vanaṃ ... jagau kalaṃ); pack index 'autumn night'"
+   },
+   {
+    "claim": "The women of Vraja heard it and their minds were seized by Krishna",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.3 (vraja-striyaḥ kṛṣṇa-gṛhīta-mānasāḥ)"
+   },
+   {
+    "claim": "One left milking, one left serving food, one left feeding milk to an infant, one left anointing, one left collyrium half applied to her eyes",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.4-6 (duhantyo ... dohaṃ hitvā; pariveṣayantyas; pāyayantyaḥ śiśūn payaḥ; limpantyaḥ; añjantyaḥ locane)"
+   },
+   {
+    "claim": "Husbands, fathers, brothers and kinsmen tried to restrain them",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.7 (vāryamāṇāḥ patibhiḥ pitṛbhir bhrātṛ-bandhubhiḥ)"
+   },
+   {
+    "claim": "Some could not get out of their houses and, through the fierce pain of separation, were united with him (attained him with eyes shut)",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.8-10 (antar-gṛha-gatāḥ ... 'labdha-vinirgamāḥ; duḥsaha-preṣṭha-viraha-tīvra-tāpa ... tam eva paramātmānaṃ ... saṅgatāḥ)"
+   },
+   {
+    "claim": "Krishna saw the women of Vraja come near",
+    "verdict": "SUPPORTED",
+    "evidence": "BP 10.29.16 (tā dṛṣṭvāntikam āyātā bhagavān vraja-yoṣitaḥ)"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.29.1-16; the five abandoned tasks track vv.4-6 exactly. The 'shut their eyes' rendering of the house-bound gopis' mystical union is a reasonable paraphrase of vv.8-10.",
+  "issues": []
+ },
+ "DKS_0107": {
+  "statements": [
+   {
+    "claim": "The rasa dance took place on a full-moon autumn night on the Yamuna bank at Vrindavan.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna began the rasa dance and the gopis of Vraja gathered around him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna multiplied himself to stand between every pair of gopis, so each felt him near her alone.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The circle was bright with bangles, anklets and little bells keeping time.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The gopis' earrings swung against their cheeks, their throats flushed as they sang, and their hair came loose with flowers slipping from it.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "One gopi sang with Krishna in a single blended voice; another, weary, leaned on his shoulder; one kept only anklet and girdle tinkling as she sang.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The gopis shone in the ring like lightning within a circle of clouds.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The women of the sky looked on bewildered, and the gods rained flowers down on the dance.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "As the night wore on the gopis grew tired, some assuming a show of pride while still singing of his deeds and delighting in the touch of his hands.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna led them to the river to wash away the heat of the dance; in the water they splashed him and he took his ease among them.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "In this way the moonlit autumn nights passed, one after another.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Tightly faithful to BP 10.33.1-24; every sensory detail (bangles/anklets/bells, earrings, red throats, loosened hair, the three individual gopis, lightning-in-clouds simile, celestial women, flower-rain, pride-and-song, splashing in the water) has a direct Sanskrit antecedent. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0117": {
+  "statements": [
+   {
+    "claim": "Akrura was sent to Vrindavan to bring Krishna and Balarama to Mathura, where Kamsa reigned and their parents waited worn down by the king's cruelty.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "At the Yamuna, Akrura stopped the chariot, stepped down to wash while the brothers waited, sipped water bright as a gem, and sank beneath the surface murmuring the eternal prayer (brahma sanatana).",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Under the water he first saw the two sons of Vasudeva still seated in the chariot as he had left them, and surfaced in confusion before diving again.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He then beheld Ananta, the lord of serpents, with a thousand heads and a thousand hoods, being praised by those around him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Resting in the serpent's coils was a figure dark as a rain-cloud, in yellow silk, serene and smiling, holding lotus, conch, discus and mace, adorned with crown, bracelets and armlets.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Attendants Sunanda and Nanda, the sages Sanaka and his brothers, and devotees Prahlada and Narada stood by, with goddesses of fortune, nourishment, speech, beauty, fame, contentment, strength and glory in attendance.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He rose trembling with joy and praised the Lord with a voice choked with feeling.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Bhagavata presents the serpent Ananta bearing the dark Lord (not Balarama as the serpent); the telling follows the Bhagavata.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.39.37-56. The two-stage dive, maṇi-prabham ('bright as a gem') water, Ananta's thousand heads/hoods, the dark Lord's attributes, the named attendants and goddesses, and the choked praise all match the Sanskrit. The variant (Harivamsha/VP making Balarama the serpent) is correctly disclosed in tradition_note. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0132": {
+  "statements": [
+   {
+    "claim": "Kubja, named 'the three-bent one' (Trivakra), was a servant favored by Kamsa whose work was the making of his unguents/sandal paste.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna and Balarama, having just entered Mathura in Akrura's chariot, walked the city's broad highways like two young elephants let loose from their posts.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna asked who she was and for whom the paste was meant; she answered it was for the king but that the two of them deserved it more, and anointed them with her own hands.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Pleased, Krishna pressed down her feet with his feet and lifted her head with two fingers beneath her chin, straightening her crooked body into a beautiful woman.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "She begged him to come to her house, saying she could not bear to let him go, and he promised to come after finishing his work in the city.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "She is described as small and poor and unnoticed by the crowd.",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.42.1-12. The straightening gesture (feet pressing her feet, two fingers under the chin) is precisely BP 10.42.6, not the Harivamsha 'haunch' variant; the 'two young elephants' and crimson evening-sun details trace to Harivamsha 1.82 (listed as an additional source). 'Small and poor' is a mild connective inference from her servant status, not a factual claim needing correction.",
+  "issues": []
+ },
+ "DKS_0139": {
+  "statements": [
+   {
+    "claim": "Kamsa set his champions Chanura and Mushtika against the two boys before the packed assembly.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The match was hand-to-hand, foot-to-foot, elbow-to-elbow and knee-to-knee, with whirling, throwing and grappling; the verses call it a contest of equal against equal.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The women protested the unequal match, calling the wrestlers hard as diamond in every limb like mountains against the two boys, and praising the fortune of Vraja and the gopis' penance.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna sprang at Chanura with a hawk's speed, both fists clenched, struck, and Chanura did not flinch — the blow falling like a garland on an elephant.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna then seized Chanura, whirled him and dashed him to the ground, and his life left him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Balarama slew Mushtika, and then Kuta fell to Balarama, Shala to a blow from Krishna's foot, and finally Tośala.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.44.1-27. The wrestling grips, the women's full protest speech, the hawk-strike/garland-on-elephant simile, and the sequence Chanura, Mushtika, Kuta, Shala, Tośala all match the Sanskrit verbatim. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0140": {
+  "statements": [
+   {
+    "claim": "After the champions fell, Kamsa ordered the two sons of Vasudeva driven from the city, Nanda bound, and Vasudeva put to death.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Enraged, Krishna sprang onto the high dais before Kamsa could rise; Kamsa reached for his sword while Krishna moved like a hawk sweeping left and right.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna seized Kamsa by the hair so that the crown shook loose, dragged him from the seat and hurled him into the arena, then fell upon him and dragged his body before all the people.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Kamsa had lived in constant dread, seeing Krishna in everything — drinking, eating, walking, sleeping, breathing — the prophecy of his death by Devaki's child following him everywhere.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They had come to Mathura to set their parents free (as Uddhava recalls in BP 3.2.34).",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.44.28-38 and 3.2.34. The orders (expel the sons, bind Nanda, kill Vasudeva — as per the evidence summary), the sword/hawk simile, the hair-seizing with loosened crown, and the 'seeing Krishna in drinking/eating/walking/sleeping/breathing' dread all match. The 'prophecy' framing is inherent to the source's dread motif. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0148": {
+  "statements": [
+   {
+    "claim": "After finishing their studies, Krishna and Balarama asked their teacher Sandipani what fee he would take, having learned the whole Veda at his feet.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sandipani, after consulting his wife, asked as his fee the return of his young son who had died in the sea at Prabhasa.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The brothers drove their chariot to Prabhasa; the ocean, knowing who had come, rose and brought them an offering.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The ocean said the boy was not in its keeping but had been carried off by the demon Panchajana, who lived in the waters in the form of a conch shell.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna entered the water, slew Panchajana, and took from his body the great conch shell known to the world as Panchajanya.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He drove to the city of Yama, blew the conch, and Yama came out and honored them with deep reverence, returning the boy.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The boy was restored in his former person and returned to his father, who blessed the brothers: 'Go home, heroes, and may your fame be pure.'",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.45.36-47 (plus 3.3.1, Harivamsha 1.88, VP 5.21). The Prabhasa setting, the wife-consultation, the ocean's offering, Panchajana-as-conch ('tad-aṅga-prabhavaṃ śaṅkham'), the blowing of the conch at Yama's city, and Sandipani's 'gacchataṃ sva-gṛhaṃ vīrau kīrtir vām astu pāvanī' all match. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0189": {
+  "statements": [
+   {
+    "claim": "A foreign king (Kalayavana/Yavana) marched on Mathura with an enormous foreign army, and Jarasandha's forces would arrive once battle began, so Krishna would face two armies at once.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna chose a site in the sea and asked the ocean to withdraw its waters over a stretch twelve yojanas wide.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "On an auspicious day under a favorable star, he made offerings to the brahmanas and had them perform benedictory rites.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He summoned Vishvakarma, the divine architect, in his mind, and the architect built Dwaraka — a sea fortress twelve yojanas wide with high ramparts, silver-and-gold turrets, gardens of celestial trees and vines, and skillfully laid courtyards.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Indra sent the Sudharma assembly hall and the Parijata tree; Varuna sent swift white horses.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "By his mystic power Krishna conveyed all the people — the whole Yadava clan with their families and goods — from Mathura to the new city.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He told the Yadavas the site was like the very abode of the gods and the city would be named Dwaravati, as Indra's city is Amaravati; he laid out courtyards, promenades and roads, and gave each family land.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Temples were raised for the gods in proper places, four great gates were built, and the Yadavas marked their plots with ropes and measured their streets.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.50.42-56 and Harivamsha 1.115. The twelve-yojana sea site, ocean-withdrawal request, Rohini-star auspicious day with brahmana offerings, Vishvakarma summoned in the mind, Sudharma+Parijata from Indra, white horses from Varuna, the yoga-prabhāvena conveyance, and the Dwaravati/Amaravati naming all have direct source support. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0200": {
+  "statements": [
+   {
+    "claim": "Rukmini was the princess of Vidarbha, daughter of Bhishmaka, king of Kundina.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna had asked for her hand but her brother Rukmin, who hated him, refused; at Jarasandha's suggestion her father affianced her to Sisupala.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna came to Kundina with Balarama and many Yadus, while the allied kings of Sisupala had gathered for the wedding.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Rukmini went to the temple to pray and, coming out, the assembled princes were struck still by her beauty, some slipping from their seats on elephants, horses and chariots.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "She pushed back a strand of hair with her left hand and glanced shyly over the princes, and her eyes found Krishna.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna set her on his chariot bearing the Garuda banner and drove through the ring of kings like a lion carrying off his share from the midst of jackals.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The proud kings (Jarasandha and the rest) cried that their bow-won fame had been snatched by cowherds, like a lion's kill stolen by deer; Rukmin swore never to return to Kundina until he had slain Krishna.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Rukmin overtook the chariot; Krishna scattered his army as if in sport and flung him to the ground, and Rukmini begged for her brother's life — 'He is my only brother... Give him to me' — and Krishna spared him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Rukmin kept his vow, founded the city Bhojakata and dwelt there ever after; Krishna married Rukmini in due form, and she bore Pradyumna, a portion of the god of love.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.53.52-56 for the seizure and VP 5.26 for the background and Rukmin's defeat, exactly as the tradition_note discloses. The left-hand hair-push and shy glance, Garuda-banner chariot, lion-vs-jackals and deer-stealing-lion's-kill similes, Rukmin's vow, Rukmini's plea, Bhojakata's founding, and Pradyumna's birth all have direct source support. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0214": {
+  "statements": [
+   {
+    "claim": "A jewel called Syamantaka was a gift of the Sun, so bright it lit whatever room it entered like a lamp.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "It had come into the keeping of the Yadava Prasena, to whom the Sun was a friend as dear as life.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Sun, appearing before him, took the jewel from his own neck and placed it in Prasena's hands.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Prasena went out with the jewel and was found slain with his horse by a lion in the forest; the jewel was gone.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Ill report spread through Dwaraka that the jewel had gone into Krishna's keeping.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna traced Prasena's trail to the den of Jambavan, king of the bears, and saw the Syamantaka lying there as a child's plaything.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "A nurse cried out in fear, and Jambavan charged and fought Krishna.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They wrestled fist against fist for twenty-eight days, night and day without rest.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna's blows fell like thunderbolts, crushing the old bear's limbs and joints.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Exhausted, Jambavan recognized Krishna as the life and strength and power of all beings, the maker of the makers of the world, by whose glance the ocean churned, the bridge was built, Lanka set ablaze, and the rakshasas' heads fell.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna said they had come for the jewel, and Jambavan gave him the Syamantaka and his daughter Jambavati to be his wife.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.56.16-31. The 'Prasena received the jewel from the Sun' opening follows the Harivamsha 1.38 (listed additional source), which names Prasena as the recipient, rather than the standard BP account where Satrajit receives it and Prasena merely wears it; the story omits Satrajit entirely but is not contradicted by the evidence supplied. The 28-day duration follows BP as the tradition_note discloses (Harivamsha: 21). No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0262": {
+  "statements": [
+   {
+    "claim": "Narakasura, also called Bhauma, son of the goddess Earth, ruled the eastern kingdom of Pragjyotisha.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He had won a boon that made him fearless.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He stole the earrings of Aditi, the mother of the gods.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He gathered the riches of gods, men, earth and sea, heaping them without enjoying them.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He carried off sixteen thousand and one hundred women — daughters of gods, gandharvas, sages and men — shut away in a mountain house wearing a single braid of hair.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "His gate-warders were Hayagriva, Nisunda, Panchanada, and the asura Mura with his thousand sons.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna came against him upon his great eagle Garuda, with his brother Balarama beside him.",
+    "verdict": "CONTRADICTED",
+    "resolved": true,
+    "resolution": "Corrected in story text (Satyabhama replaces Balarama; women freed from the mountain house)."
+   },
+   {
+    "claim": "Krishna's arrows cut through Narakasura's host, horse and elephant and soldier alike.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Narakasura hurled his spear, which failed against Krishna; he raised it again, and Krishna beheaded him with his discus, the head falling crowned and earringed while gods and sages rained flowers.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Earth, his mother, returned Aditi's earrings together with a parasol and a great jewel.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna went to the mountain house and set the sixteen thousand and one hundred maidens free.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The women returned to their own people.",
+    "verdict": "UNSUPPORTED",
+    "resolved": true,
+    "resolution": "Corrected in story text (Satyabhama replaces Balarama; women freed from the mountain house)."
+   }
+  ],
+  "corrections": [
+   {
+    "original_sentence": "When Narakasura's tyranny grew too heavy for the three worlds to bear, Krishna came against him upon his great eagle, Garuda, with his brother Balarama beside him.",
+    "suggested": "When Narakasura's tyranny grew too heavy for the three worlds to bear, Krishna came against him upon his great eagle, Garuda, with his wife Satyabhama beside him."
+   },
+   {
+    "original_sentence": "The women returned to their own people.",
+    "suggested": "The women were set free from the house on the mountain."
+   }
+  ],
+  "source_fidelity_score": 4,
+  "notes": "BP 10.59.14 reads 'sa-bhAryaM garuDopari sthitaM kRShNam' — Krishna stood on Garuda WITH HIS WIFE (Satyabhama), not with Balarama; no listed source places Balarama at this battle. The coda claim that the freed women 'returned to their own people' is unsupported and runs counter to the fuller BP account (10.59.32+), where the abducted women, finding their families unwilling to take them back, seek refuge with Krishna and become his wives — but this material falls outside the evidence pack's verse range (14-22), so it is flagged as unsupported rather than contradicted.",
+  "issues": [
+   {
+    "claim": "Krishna came against him upon his great eagle Garuda, with his brother Balarama beside him.",
+    "verdict": "CONTRADICTED"
+   },
+   {
+    "claim": "The women returned to their own people.",
+    "verdict": "UNSUPPORTED"
+   }
+  ]
+ },
+ "DKS_0277": {
+  "statements": [
+   {
+    "claim": "The Yadu princes, after playing a long while, went thirsty in search of water.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They found a dry well holding a vast, hill-sized lizard at the bottom.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They bound it with ropes of leather and thread but could not pull it out.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna came and drew it out with his left hand, and at his touch the lizard form was gone, revealing a man of molten-gold splendor.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna, though he already knew, asked aloud what deed had brought him to this undeserved state, so the answer would be heard by all gathered.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The radiant man was Nriga, a king of ancient days.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.64.1-8 (BP-only episode, no cross-source parallel). The play-then-thirst (krIDitvA... pipAsitAH), the hill-like lizard (kRkalAsaM giri-nibhaM), the leather-and-thread ropes (carma-jais tAntavaiH pAshair), the left-hand draw and the molten-gold splendor all match the Sanskrit. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0281": {
+  "statements": [
+   {
+    "claim": "Paundraka, flattered by ignorant people, came to believe he — and not Krishna — was the true Vasudeva descended to earth.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He dressed in Krishna's yellow silk with the shrivatsa mark, took up the conch, discus, sword, mace and the bow Sharnga, and raised a banner bearing an eagle.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He sent a messenger demanding Krishna relinquish the discus, the insignia, name and character of Vasudeva, and come do him homage.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna laughed and replied he would send the discus and come to his city with it.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The king of Kashi was his friend and rear-guard ally.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna scattered the combined army with mace, discus and arrows.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He told Paundraka he would make him give up the falsely taken name, struck him chariotless with arrows and cut off his head with the discus.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He cut off the Kashi king's head with arrows and cast it into the city, where it fell at the palace gate with its earrings still in place.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Paundraka, through constant meditation on the Lord, had all his bonds destroyed.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.66.9-24 (VP 5.34 additional). The counterfeit dress (shankhAry-asi-gadA-shArNga-shrIvatsa, yellow silk, Garuda banner), the messenger's demand and Krishna's discus reply, the Kashi rear-guard, the discus beheading and the arrow-cast head at the palace gate (rAja-dvAre sa-kuNDalam) all match. The VP extension (Kashi king's son's magical being, burning of Varanasi) is correctly excluded per the tradition_note. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0289": {
+  "statements": [
+   {
+    "claim": "Sudama, a poor brahmana, brought Krishna a handful of flattened rice tied in the fold of his cloth.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna, hearing who had come, went out himself and received his friend with old affection.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna, who sees into every heart, knew exactly why Sudama had come and what he carried.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna said even a leaf, flower, fruit or a little water offered with devotion pleases him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sudama, ashamed, offered nothing, so Krishna reached over and took the rice from his cloth himself.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna said it pleased him most, ate one handful and reached for a second.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The goddess of fortune, pleased, stayed his hand, saying this much was enough to grant every riches in the world.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sudama spent the night and returned home without asking Krishna for any wealth.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.81.2-12. The leaf/flower/fruit/water verse (patraM puShpaM phalaM toyaM), Krishna's direct knowledge of the visit's purpose (sarva-bhUtAtma-dRik), the shame that kept Sudama from offering (vrIDitaH), Krishna taking the cloth-tied rice (cIra-baddhAn), the one-handful-then-second (muShTiM sakRij jagdhvA dvitIyAM) and the goddess's 'this much suffices' (etAvatAlaM) all match the Sanskrit. The coda (Sudama returns 'empty-handed') ends before the palace transformation, which lies outside the cited verses. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0298": {
+  "statements": [
+   {
+    "claim": "The brahmana mourned his sons, lost one after another; Arjuna had promised to restore them but failed despite searching the earth and journeying to the city of Indra.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna resolved to enter the fire rather than fail again, and Krishna restrained him, promising to show him the children.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna mounted his divine chariot with Arjuna and drove westward across the seven continents, seven seas and seven mountains.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They came to the mountain Lokaloka, the edge of the world, beyond which lay a darkness no light of sun or moon could enter.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna sent his blazing discus Sudarshana into the darkness, which tore a path of light through the gloom.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They beheld the Supreme Lord — radiant as a mountain of light and dark as a rain cloud, yellow-robed, serene-faced with long gentle eyes, crowned and earringed with a thousand shining locks, reclining on the thousand-headed serpent Ananta, with the Kaustubha gem, the Srivatsa mark, a forest-flower garland and eight long arms.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna and Arjuna bowed before him, and the brahmana's sons were restored.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to BP 10.89.41-56. Arjuna's visit to Indra's city (aindrIM... purIm), the westward drive over seven continents/seas/mountains (sapta dvIpAn sa-sindhUMsh ca sapta sapta girIn), the terrible darkness (tamaH su-ghoraM), the discus cleaving the gloom (sudarshanaM... vidArayad), and the full iconography of the reclining Lord (sitAcalAbhaM / sAndrAmbudAbhaM, sahasra-mUrdhanya Ananta, aShTa-bhujaM, Kaustubha, Srivatsa, vana-mAlA) all match the Sanskrit. The Harivamsha ocean/mountains variant is correctly disclosed. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0370": {
+  "statements": [
+   {
+    "claim": "A grand festival of the Vrishnis and Andhakas took place on mount Raivataka.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Musicians, dancers and singers performed; Vrishni youth rode gold-decked cars; mansions of gems and artificial trees adorned the hill; citizens came by hundreds and thousands with wives and followers.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Balarama roved at will, cheerful with drink, with Revati beside him and musicians trailing after.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Pradyumna and Samba, ever eager for battle, roamed garlanded with bright flowers like a pair of celestials.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "King Ugrasena moved through it all with his thousand wives, and Akrura, Sarana, Gada, Satyaki, Uddhava and other heroes adorned the mountain.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna and Arjuna walked together, and Arjuna — in his wandering years — saw Subhadra, daughter of Vasudeva, decked with ornaments amid her maids.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna was possessed by the god of desire, and Krishna, noticing, smiled and asked, 'Can the heart of one who ranges the woods be agitated by the god of desire?'",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna told him she was his sister, the sister of Sarana and favourite daughter of his father, and offered to speak to his father if Arjuna's heart was fixed on her.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna answered that she was Vasudeva's daughter and Krishna's sister, so beautiful that whom could she not fascinate.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna counselled Arjuna to carry Subhadra away by force, the celebrated Kshatriya form of marriage.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to MB 1.221 (Ganguli). The festival details (musicians/dancers/singers, gold-decked cars, gem mansions and artificial trees, citizens by hundreds and thousands), Balarama with Revati and drink, Ugrasena with a thousand wives, the hero roll-call (Akrura, Sarana, Gada, Satyaki, Uddhava, etc.), and Krishna's verbatim teasing ('Can the heart of one that rangeth the woods be agitated by the god of desire?') all match. 'Pradyumna and Samba' renders Raukmineya (Pradyumna) and Shamva correctly; 'Subhadra' is the source's 'Bhadra' (same person). No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0380": {
+  "statements": [
+   {
+    "claim": "During the Pandavas' exile, the sage Durvasa came to their hermitage in the Kamyaka forest with ten thousand disciples.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Yudhishthira received him with his mothers, joined palms, offered an excellent seat, and bade him bathe and return quickly for the meal.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Draupadi, devoted to her husbands, had already finished the day's meal and the cooking vessel was nearly bare.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Durvasa, not knowing how the king would feed them, went down to the stream to bathe, and the ten thousand went with him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Draupadi prayed inwardly to Krishna — son of Devaki, lord of the Universe, saviour of the afflicted, refuge of the helpless, dark as the blue lotus with eyes red as the lily, yellow-robed with the Kaustubha gem at his breast.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna came, asked for whatever there was to eat, and Draupadi brought the vessel; on its rim he found a single grain of rice and a scrap of vegetable.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He swallowed it and said, 'May it please the god Hari, the soul of the Universe, and may the god who partakes at sacrifices be satisfied with this.'",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Durvasa and his ten thousand disciples, bathing in the river, all felt their stomachs full and did not return to the hermitage.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful to MB 3.261 (Ganguli). Yudhishthira's welcome with his mothers and the excellent seat, Draupadi's prayer (son of Devaki, dark as the blue lotus, eyes red as the lily, yellow robes, Kaustubha gem — near verbatim), the single grain-and-vegetable at the rim, the recited blessing, and the disciples' sudden fullness while bathing all match the translation. No unsupported or contradicted claims.",
+  "issues": []
+ },
+ "DKS_0386": {
+  "statements": [
+   {
+    "claim": "Agni set his desire on the Khadava forest and wished to consume it",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna dwelt among the Pandavas as friend and kinsman, wishing to do them good",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna acted as Arjuna's charioteer, taking the reins with his own hands",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna gave the Khadava forest to Agni",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Agni, pleased, gave Arjuna the Gandiva bow",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Agni gave white horses and an invincible chariot",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Agni gave inexhaustible quivers",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Maya, the master builder, was rescued from the fire",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Maya built the great assembly hall for the Pandavas",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sensory description of the burning forest (smoke, crack of sap, ash)",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. Note: story/title use 'Khadava' (also in evidence index) while the canonical Sanskrit name is 'Khandava' (Khāṇḍava) — a transliteration variant, not a fact error. All factual claims trace to Bhagavata Purana 10.58.23-26.",
+  "issues": []
+ },
+ "DKS_0396": {
+  "statements": [
+   {
+    "claim": "Yudhishthira had just performed the Rajasuya sacrifice",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Kings and sages assembled at Indraprastha for the sacrifice",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sahadeva, the youngest Pandava, rose and declared Krishna alone worthy of the first honor (arghya)",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna described as lord of the Satvatas",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "In Krishna all deities and every sacrifice have their being; he is one without a second",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna is the soul of all beings, of undivided sight",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sahadeva fell silent after speaking",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The assembly approved the choice",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Yudhishthira, overwhelmed with love, washed Krishna's feet and bore the water on his head",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Yudhishthira worshipped Krishna with yellow silk, garments and jewels of great worth",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna accepted quietly according to the ordinance",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Shishupala could not bear the worship and objected, citing Bhishma, Drona, Dwaipayana and Karna",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Shishupala insisted Krishna was not a king, nor priest, nor preceptor",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. Follows Bhagavata (10.74.17-28) version where Sahadeva makes the declaration; tradition_note correctly flags the Mahabharata variant (Bhishma directs, Sahadeva presents). Shishupala's objection sourced from Mahabharata 2.36 (additional).",
+  "issues": []
+ },
+ "DKS_0398": {
+  "statements": [
+   {
+    "claim": "Shishupala was born with three eyes and four arms and screamed/brayed like an ass",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "His parents were terrified and resolved to abandon him",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "An incorporeal voice said the son would be fortunate and superior in strength, and his slayer was already born",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The extra arms and eye would vanish when the child was placed on the lap of his destined slayer",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Kings came to Chedi; the child was placed on the laps of a thousand kings with no effect",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna came to Chedi with Balarama to see their father's sister, the queen",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The queen placed the child on Krishna's lap; the extra arms and third eye disappeared",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The queen begged a boon and Krishna granted to bear a hundred offences",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "At the Rajasuya, Shishupala poured abuse on Krishna when he was honoured",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna restrained his followers and severed Shishupala's head with the razor-edged discus as he rushed",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "A great uproar followed the slaying",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "A brilliant light from Shishupala's body entered Krishna",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Shishupala had meditated on Krishna in enmity through three births and attained oneness",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. Combines Bhagavata 10.74.42-45 (slaying + effulgence merger) and Mahabharata 2.42 (birth portents, thousand kings, aunt placing child on Krishna's lap) as cited. Hundred-offences boon consistent with evidence note.",
+  "issues": []
+ },
+ "DKS_0408": {
+  "statements": [
+   {
+    "claim": "Yudhishthira lost kingdom, brothers, and himself at dice, then staked Draupadi",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Only Vidura spoke against what was happening",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The messenger came 'like a dog into a lion's den'",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Draupadi asked whether Yudhishthira had staked himself first or her",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Yudhishthira sat like one demented and gave no answer",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Dussasana laid hands on Draupadi's garment and began to pull it off",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Draupadi called out to Krishna",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna was deeply moved, left his seat, and came on foot out of compassion",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The unseen Dharma covered her; as each garment was drawn off, another of the same kind appeared",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Robes of many bright hues came in hundreds, keeping her covered",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. All claims trace to Mahabharata 2.66 (Ganguli). The miracle is correctly attributed to the unseen Dharma rather than to Krishna's physical intervention, matching the source and reflection.",
+  "issues": []
+ },
+ "DKS_0441": {
+  "statements": [
+   {
+    "claim": "Krishna took Karna onto his chariot and drove out through the city gate in sight of the princes and servants",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The king (Dhritarashtra) begged to be told every word exchanged",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna's voice was deep as newly-risen clouds in the rainy season",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "His words were both intimidating and mild, agreeable, consistent with virtue, true, beneficial, pleasing to the heart",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna said Karna had worshipped Brahmans and, free of envy, enquired after truth, knowing the Vedas and subtle conclusions of scripture",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Sons born of a maiden (Kanina/Sahoda) have him for father who weds the maid; Karna therefore morally the son of Pandu",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "On his father's side the sons of Pritha, on his mother's side the Vrishnis",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Let the Pandavas know Karna as son of Kunti born before Yudhishthira",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The five Pandavas, son of Draupadi, son of Subhadra, kings/princes, Andhakas and Vrishnis would embrace his feet",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Queens and princesses would bring gold, silver and clay jars of water with herbs, seeds, gems and creepers",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Draupadi would come to him as a wife",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Dhaumya would pour libations of clarified butter; Brahmans of the four Vedas would perform the installation",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean, near-verbatim paraphrase of Mahabharata 5.140 (Ganguli). Minor: source specifies Draupadi would come 'during the sixth period'; the story renders this loosely as 'in time' — not a factual error.",
+  "issues": []
+ },
+ "DKS_0456": {
+  "statements": [
+   {
+    "claim": "The two armies were drawn up on the plain of Kurukshetra",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Conches, drums, cymbals and horns were sounded",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Duryodhana named warriors to Drona, including Bhishma, Karna, Kripa and Aswatthaman",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Bhishma blew his conch with a leonine roar",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna and Arjuna stood on a great chariot yoked to white steeds",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna blew Panchajanya, Arjuna Devadatta, Bhima Paundra, Yudhishthira Anantavijaya, Nakula/Sahadeva Sughosa and Manipushpaka",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna saw kinsmen (Bhishma, Drona, Karna, Kripa, Aswatthaman) and behind him Subhadra's son and the sons of Draupadi",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Overcome with pity: body trembled, hair stood on end, skin burned",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The bow Gandiva slipped from his hand",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He said, 'I wish not to slay these though they slay me, O slayer of Madhu'",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He cast aside his bow and arrows and sat down in the chariot",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. All claims trace to Mahabharata 6.25 (Bhagavad Gita ch.1, Ganguli); conch names and quoted lament are verbatim-accurate.",
+  "issues": []
+ },
+ "DKS_0458": {
+  "statements": [
+   {
+    "claim": "The discourse on the supreme mystery (Adhyatman) dispelled Arjuna's delusion",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna had heard of the creation and dissolution of beings and of Krishna's undiminished greatness",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna asked to behold Krishna's sovereign form and eternal Self, if competent",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna bade him behold forms by hundreds and thousands — Adityas, Vasus, Rudras, Aswins, Maruts — and the entire universe",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna said he could not be seen with these eyes, and gave celestial sight",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The form had many mouths and eyes, celestial ornaments and weapons, garlands, robes and fragrance, faces turned on all sides, infinite",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Its splendour was like a thousand suns bursting at once in the sky",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna saw the entire universe divided and subdivided, collected together",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "His hair stood on end; he bowed his head and joined his hands in amazement",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna beheld all the gods, Brahman on his lotus, the rishis and celestial serpents, with neither end, middle nor beginning",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna bore diadem, mace and discus, glowing like blazing fire",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. All claims trace to Mahabharata 6.35 (Bhagavad Gita ch.11, Ganguli); the thousand-suns simile and quoted dialogue are accurate.",
+  "issues": []
+ },
+ "DKS_0477": {
+  "statements": [
+   {
+    "claim": "Drona caused great carnage among the Panchalas and Srinjayas",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Panchalas and Srinjayas rushed at Drona and were slaughtered with shafts and darts",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Fear entered the Pandavas' hearts and they became hopeless of victory",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They said Drona would consume them like a raging fire consuming a heap of straw in spring",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna, conversant with morality, would not fight his own teacher Drona",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna (Kesava), endued with intelligence and devoted to their welfare, counselled the stratagem",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna said Drona could not be vanquished by force even by the gods with Indra (Vasava) at their head, but could be slain when he laid aside his weapons",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna told them to cast aside virtue and contrive, saying Drona would cease fighting when Ashvatthaman fell; let someone tell him so",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna did not approve; others approved; Yudhishthira accepted with great difficulty",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Bhima slew with a mace a huge elephant named Ashvatthaman of his own army, belonging to Indravarman, chief of the Malavas",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Bhima approached Drona with bashfulness and cried 'Ashvatthaman has been slain'",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Clean. All claims trace to Mahabharata 7.191 (Ganguli). Correctly preserves that the elephant belonged to the Pandavas' own army (Indravarman, chief of the Malavas).",
+  "issues": []
+ },
+ "DKS_0483": {
+  "statements": [
+   {
+    "claim": "Karna and Arjuna fought a long duel with neither clearly winning.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna's weapon swelled with energy and careered through the sky like lightning, consuming the Kauravas.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The broken Kaurava divisions drew back to a distance to watch.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Karna crushed/baffled Arjuna's weapon with gold-winged shafts, using a foe-killing weapon obtained from Rama.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Karna bent his loud-sounding bow of unbreakable string and pierced Arjuna with showers of shafts.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "They closed like two elephants locking tusks; the points of the compass and the sun were hidden beneath a vast web of arrows.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Beings in the sky shouted 'Excellent, O Karna!' and 'Excellent, O Arjuna!'.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The snake Aswasena, hostile to Arjuna, sheltered in the arrow-net and let himself be fitted to a shaft Karna loosed at Arjuna's head.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna pressed the chariot down with his feet; it sank about a cubit and the white steeds knelt on the ground.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The arrow swept away only Arjuna's diadem, leaving him unharmed.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna's seeing the danger and the framing 'the greatest battle the world had ever seen'.",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Title shortened from index 'Krishna Sinks the Chariot to Save Arjuna'; substance faithful. 'Turned it back' is a loose gloss for the source's 'baffled/crushed' — not a contradiction.",
+  "issues": []
+ },
+ "DKS_0485": {
+  "statements": [
+   {
+    "claim": "Karna is the son of the charioteer Adhiratha.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Battle detail (weapon swelling with energy; Karna baffling it with gold shafts; foe-killing weapon from Rama resembling an Atharvan rite; elephants; compass/sun hidden; arrowy net beheld by Kauravas and Somakas; diverse manoeuvres; alternating advantage; beings applauding).",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Karna's chariot wheel sank into the earth.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Karna, stupefied, appealed to Arjuna's righteousness for a moment's respite to free his wheel.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna, the younger brother of Indra, urged Arjuna not to spare a fallen foe, citing Indra slaying the Asura Namuci.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Arjuna slew Karna.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The ground 'chose its side' in holding Karna's wheel.",
+    "verdict": "REASONABLE_CONNECTIVE_NARRATION"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Quotation of Krishna's speech tracks Ganguli closely. 'The ground chose its side' is a marked metaphor ('as though'), not a factual claim; source attributes the sinking to Karna's curse, which the story omits without contradicting.",
+  "issues": []
+ },
+ "DKS_0498": {
+  "statements": [
+   {
+    "claim": "Gandhari lamented over the dead on the Kurukshetra field.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The bull-necked Kamboja ruler lay in the dust; his wife wept over his blood-stained arms, formerly smeared with sandal-paste.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Kalinga ruler lay with his arms adorned with angadas.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Magadha ladies cried around their lord Jayatsena.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Kosala prince Brihadbala's women plucked out the shafts Abhimanyu had pierced him with.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The young sons of Dhrishtadyumna, slain by Drona, were like insects falling on a blazing fire (Drona's car).",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The five Kekaya brothers lay slain by Drona with their faces turned toward him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Gandhari cursed Krishna: for being indifferent while Kurus and Pandavas slew each other, he would be slayer of his own kinsmen and perish in the thirty-sixth year by disgusting means in the wilderness.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna, with a faint smile, answered that none in the world save himself could destroy the Vrishnis.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Lament details and curse wording track Ganguli 11.25 closely.",
+  "issues": []
+ },
+ "DKS_0507": {
+  "statements": [
+   {
+    "claim": "A pigeon built a nest in a forest tree and raised a family with his mate.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The pair shared bed, seat, food and devotion.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Chicks hatched and were reared tenderly; their feathers were soft.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The parents flew out to gather food; a hunter caught the chicks in his net.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The hen flew into the net to be with her young.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The pigeon lamented ('Alas... my home is destroyed, my wife and children are caught — what use is my life now?') and flew into the net too.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The hunter took them all.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The moral: a householder attached to home and family comes to ruin; human birth is the open door to liberation.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Faithful rendering of Bhagavata 11.7.51-73; the lament and closing maxim match verses 66-73.",
+  "issues": []
+ },
+ "DKS_0511": {
+  "statements": [
+   {
+    "claim": "Pingala was a courtesan in the city of Videha.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "She waited through the night at her door for a client who never came, her face withered with longing.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Her realization: the giver of all joy and wealth is ever near, yet she had tormented herself chasing a small gain.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "She saw her body as a leaking house of nine doors filled with filth.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "She cut off her hope, sat down, and slept in peace; 'hope is the greatest of pains, freedom from hope the greatest of joys.'",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The story is framed as a lesson of the avadhuta (wandering teacher) who took Pingala as a guru.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Tracks Bhagavata 11.8.21-43, including the 'nine doors' body simile (verse 32) and the closing maxim (verse 43).",
+  "issues": []
+ },
+ "DKS_0523": {
+  "statements": [
+   {
+    "claim": "The Yadavas gathered at Prabhasa to drink; a brahmins' curse lay on the house.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Drinking maireya wine, their minds were overthrown and they fell upon one another.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Named pairings: Pradyumna/Samba, Akrura/Bhoja, Aniruddha/Satyaki, Gada/Sumitra/Suratha, Subhadra/Sangramajit, Nishatha/Ulmuka/Sahasrajit/Satajit/Bhanu.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The Dasharhas, Vrishnis, Andhakas, Bhojas and Satvatas forgot they were one family.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Fathers, sons and brothers fought; some deluded men even took Balarama for an enemy.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Satyaki taunted Kritavarma for slaying men asleep and cut him down with a sword in Krishna's sight.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "When weapons were spent, they seized the eraka reeds, which became iron bars/thunderbolts; son killed sire and sire killed son.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Uddhava remembered a 'crushing of one another, like reeds' at sunset.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Balarama walked to the ocean's edge, entered yoga, and yielded up his body.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Only Krishna and his charioteer Daruka were left alive.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna watched without moving to stop it.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [
+   {
+    "original_sentence": "a nephew fought his grandfather",
+    "suggested": "a daughter's son fought his uncle"
+   }
+  ],
+  "source_fidelity_score": 5,
+  "notes": "Follows the Bhagavata/Vishnu-Purana variant where Krishna is a passive witness; the additional MB 16.3 source has Krishna actively slaying with eraka grass — a legitimate variant choice, not a contradiction. Minor kinship paraphrase ('nephew/grandfather') slightly departs from the source's 'sister's sons, daughters' sons, uncles' (11.30.18); trivial, corrected.",
+  "issues": []
+ },
+ "DKS_0530": {
+  "statements": [
+   {
+    "claim": "After the Yadavas' destruction, Krishna walked into a forest near the sea and sat at the foot of a pippala tree in meditation.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He assumed a four-armed form bearing the Shrivatsa mark, dark as a raincloud, bright with molten-gold splendour, smiling lotus face framed in dark curls.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He was adorned with waistband, sacred thread, diadem, bracelets, armlets and a garland of forest flowers, with his embodied weapons about him.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "He drew his right foot up upon his thigh.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The iron club was ground to dust and thrown into the sea; the dust became rushes, and the last remnant of the iron was fashioned into the hunter's arrow-blade.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The hunter Jara mistook Krishna's foot for a deer's face and lodged the arrow in the sole.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Seeing the four-armed Lord, Jara fell at his feet in terror and begged forgiveness, saying it was done unknowingly.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "The form even Brahma, Rudra and the lords of speech cannot fully know.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Krishna forgave him, spoke gently, raised him up, then relinquished his mortal body and returned to his own abode.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Tracks Bhagavata 11.30.26-39 and VP 5.37; the arrowhead-as-remnant ('muṣalāvaśeṣa') is rendered correctly.",
+  "issues": []
+ },
+ "DKS_0537": {
+  "statements": [
+   {
+    "claim": "The sages, debating which of the three gods was greatest, sent Bhrigu (son of Brahma) to test them by offering no prostration or praise.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Brahma felt anger rise at Bhrigu's disrespect but restrained it.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Shiva's anger rose at once; the goddess fell at his feet and appeased him with words.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Bhrigu found Vishnu lying with Lakshmi and kicked him in the chest.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Vishnu rose from his couch, bowed to the sage, and asked that the touch of the sage's foot purify him and his dependents, saying it had made him the true dwelling of Lakshmi.",
+    "verdict": "SUPPORTED"
+   },
+   {
+    "claim": "Bhrigu returned and declared Vishnu alone the abode of peace and fearlessness.",
+    "verdict": "SUPPORTED"
+   }
+  ],
+  "corrections": [],
+  "source_fidelity_score": 5,
+  "notes": "Tracks Bhagavata 10.89.1-18 closely.",
+  "issues": []
+ }
+}

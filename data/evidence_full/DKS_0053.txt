@@ -1,0 +1,34 @@
+# STORY DKS_0053 — The Boys Long for the Palm Grove's Fruit
+
+## Index entry
+title: The Boys Long for the Palm Grove's Fruit
+summary: The cowherd boys ask Krishna and Balarama to take them to the talavana, whose sweet fruit is guarded by the donkey-demon Dhenuka.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Balarama, cowherd boys, Dhenuka
+locations: Vrindavan
+themes: desire, obstacle
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0065
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 15 | verses 20-26 | confidence 5
+  excerpt: The boys tell Krishna and Balarama of the palm grove whose fragrant fruit lies uneaten because the fierce donkey-demon Dhenuka and his kin guard it. (rendered from Sanskrit, verse 20-26)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.15 (20-26)
+20. rāma rāma mahā-bāho kṛṣṇa duṣṭa-nibarhaṇa /
+21. phalāni tatra bhūrīṇi patanti patitāni ca /
+22. so 'ti-vīryo 'suro rāma he kṛṣṇa khara-rūpa-dhṛk /
+23. tasmāt kṛta-narāhārād bhītair nṛbhir amitra-han /
+24. vidyante 'bhukta-pūrvāṇi phalāni surabhīṇi ca /
+25. prayaccha tāni naḥ kṛṣṇa gandha-lobhita-cetasām /
+26. evaṃ suhṛd-vacaḥ śrutvā suhṛt-priya-cikīrṣayā /
+
+## Corpus chain
+previous_story_id: DKS_0052 | next_story_id: DKS_0054
+previous title: The Boys Resume Their Meal Unaware of the Lost Year
+next title: Balarama Slays the Ass-Demon Dhenuka

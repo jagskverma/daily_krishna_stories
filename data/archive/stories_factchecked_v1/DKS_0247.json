@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0247",
+ "title": "When Fever Consumed Baladeva",
+ "subtitle": null,
+ "story": "The Asura army broke before the four of them like water against rock, and then the battle showed its true face.\n\nBalarama, Rohini's son, grew dreadful in the fight, his form like Kala himself at the end of a cycle, as if he meant to consume everything that stood before him. Ranging over the field, he drew the enemy close with his ploughshare and ground them down with his mace. Mighty Pradyumna held the Danavas at bay with his arrows. Krishna, dark as a mass of collyrium, blew his conch and fought in a hundred ways, conch, discus and club always in his hands. Garuda himself joined them, striking the Daityas with his wings and tearing them with beak and nails, sending them to the abode of Yama. Assailed by that downpour of arrows and overpowered by those four heroes, the dreadful Asura army turned and fled the field.\n\nSeeing his host routed, and wishing to protect them, Rudra's follower came walking onto the field: Jvara, the fever-demon, sighing again and again like a madman. He had three legs, three heads, six arms and nine faces, and he carried a weapon that consumed whatever it touched. He was like Yama himself. He roared like thousands of muttering clouds, yawned and dozed as he came, his hair standing on end, his eyes filthy and terrible. Making his face still more terrible, he called out in anger to the wielder of the ploughshare: \"Why are you so proud of your strength? Do you not see that I have come to this field? Wait a few moments. You came before me in battle, but you will not return with your life.\"\n\nSmiling, showing a fist dreadful as the fire of dissolution, Jvara ran at Balarama. But Rohini's son moved too quickly, wheeling in a thousand swift circles, and the demon could not find his opening. At last, aiming at that body huge as a mountain, Jvara hurled his consuming weapon. It struck Balarama's breast; then, dropping from his breast, it fell on the summit of Mount Sumeru and shattered the great mountain into pieces. But a remnant of the burning weapon stayed where it had fallen, and it began to consume Krishna's elder brother.\n\nThe warrior who had stood unshaken against armies now sighed and yawned without cease, reeling about the field, his eyes dilated, his hair on end, his senses bewildered. Almost losing consciousness, he cried out to Krishna: \"O Krishna, O large-armed Krishna, giver of protection, I am being consumed, I am being consumed completely. How shall I be saved?\"\n\nKrishna smiled. \"No fear,\" he said.\n\nAnd he embraced his brother. By that embrace, by the touch of loving Krishna, Balarama was saved from the burning. The fever that had begun to eat him went out in his brother's arms.\n\nThen the slayer of Madhu turned, angered, to the demon. \"O Jvara, come and fight with me. Show me the full extent of your strength and power in this battle.\"\n\nThe fever-demon raised his burning weapon again, and the field grew still for what came next.",
+ "reflection": "The mightiest warrior on that field is not laid low by an army but by fever, something small and formless; and the cure is not a weapon but an embrace. Krishna answers his brother's despair with two words, 'No fear,' and the burning goes out at his touch.",
+ "tradition_note": null,
+ "content_note": "A battle scene in which Balarama is burned by the fever-demon Jvara's consuming weapon before Krishna saves him; described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Jvara",
+  "Pradyumna",
+  "Garuda"
+ ],
+ "locations": [
+  "Sonitpura battlefield"
+ ],
+ "themes": [
+  "fever-demon",
+  "burning weapon",
+  "brotherly rescue"
+ ],
+ "previous_story_id": "DKS_0246",
+ "next_story_id": "DKS_0248",
+ "next_story_tease": "The fever-demon raised his burning weapon again, and Krishna stepped forward to answer it.",
+ "hero_scene": "Krishna embracing the reeling, fever-consumed Balarama in the middle of the battlefield, the glow of the dying burning weapon on Balarama's breast fading as Garuda and the routed Asuras look on from the distance.",
+ "visual_elements": [
+  "the three-legged, three-headed, six-armed Jvara with nine faces",
+  "the consuming burning weapon falling on Balarama's breast",
+  "Mount Sumeru shattered into pieces",
+  "Balarama reeling, eyes dilated, senses bewildered",
+  "Krishna smiling and embracing his brother",
+  "the burning going out at Krishna's touch",
+  "a mood of dread turning to relief"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.270",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:07Z",
+  "source_event_id": "evt_0348"
+ },
+ "editorial_status": "unreviewed"
+}

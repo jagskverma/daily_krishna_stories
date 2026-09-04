@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0132",
+ "title": "Krishna Straightens the Hunchback Kubja",
+ "subtitle": null,
+ "story": "The woman who came toward Krishna on the street of Mathura was bent nearly double, folded against herself as though she were forever bowing to someone. She carried a small pot of sandal paste and walked with the careful, sideways steps of a person whose body had long ago stopped obeying her. No one in that crowded street paid her any mind. Krishna did.\n\nKrishna and his brother Balarama had only just entered the city. They had come riding in Akrura's chariot, and now, with the evening sun turning crimson over the rooftops, they were walking Mathura's broad highways like two young elephants let loose from their posts, looking over everything they passed — the stalls and the crowds and the strangers hurrying home. They had grown up in the forest, and nothing here looked like the green world they had left, but they walked through it as though they owned it. The city was Kamsa's, the king who was no friend to their house, and every road in it ran, in the end, toward his palace. It was then that the bent woman came toward them, and Krishna, who noticed everyone, stopped to look at her.\n\nHer name was Kubja, the three-bent one. She was a servant in the house of Kamsa, the king, and her work was the making of his unguents; the pot she carried held the sandal paste prepared for the king himself, fragrant and cool and bright. She was small and poor, and the crowd moved around her without seeing her, as crowds do, and she carried the pot carefully, as a servant carries what is not hers to spill. “Who are you,” Krishna asked her, smiling, “and for whom is this paste?”\n\n“I am Kubja, a servant favored by Kamsa,” she said, “and this paste is meant for the king. But who deserves it more than you two?” And before the brothers could answer, she began to anoint them, rubbing the cool sandal onto their arms and chests with her own hands, and the two brothers stood still and let her do it. It was the king's own unguent, given away on the open street to two strangers who had come into the city of a man who wished them harm — a small, reckless generosity, and Krishna did not forget it.\n\nKrishna was pleased with her. He looked at the crooked woman and decided to return her gift in kind. He was skilled in the art of healing, and he set to work with a craftsman's care. He set his feet over hers and pressed them down, and with two fingers beneath her chin he lifted her head — and as he lifted, the twist went out of her. He did not pull or strain; he simply set right what had long been wrong. The change was so complete that it seemed less like a cure than like something remembered and given back to her. She straightened, joint by joint, and when she stood tall at last she found herself changed: a young and beautiful woman, graceful and sweet of face, no longer folded against herself.\n\nKubja looked down at her own straight limbs and then up at him, and she could not find the words for what she felt. “Come, hero,” she begged him, “let us go to my house. I cannot bear to let you go.” Krishna answered her gently. He would come to her house, he promised, when his work in the city was done. And so, leaving her standing straight and glad for the first time in her life, he and Balarama went on down the road through the merchants' street, toward whatever awaited them in the city of the king who was their enemy.",
+ "reflection": "The episode is striking for how small it is. In the city of the king who sought his life, Krishna's attention falls first on a bent servant woman carrying someone else's sandal paste, and what he gives her is not power or wealth but her own body, made straight. The kindness is entirely private, offered to someone who could do nothing for him.",
+ "tradition_note": "The Harivamsha has Krishna touch Kubja's haunch to straighten her, and the Vishnu Purana describes him lifting her head by the chin while pressing down her feet; the Bhagavata leaves the gesture brief. This telling keeps the gesture simple, following the Bhagavata's account of the meeting.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Kubja"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "compassion",
+  "blessing"
+ ],
+ "previous_story_id": "DKS_0117",
+ "next_story_id": "DKS_0139",
+ "next_story_tease": "The brothers walked on through Mathura toward Kamsa's wrestling arena.",
+ "hero_scene": "Krishna, standing before the hunchbacked Kubja on a Mathura street, presses down on her feet with his own and lifts her chin with two fingers, straightening her bent body while she still holds out her pot of sandal paste.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "the hunchbacked Kubja",
+  "a pot of sandal paste",
+  "the broad street of Mathura",
+  "stalls and evening light",
+  "the moment of straightening",
+  "warmth and tenderness"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.42.1-12",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.82",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:07:13Z",
+  "source_event_id": "evt_0134"
+ },
+ "editorial_status": "unreviewed"
+}

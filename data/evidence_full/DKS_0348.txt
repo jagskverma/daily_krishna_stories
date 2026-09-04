@@ -1,0 +1,43 @@
+# STORY DKS_0348 — Pradyumna's Valor and Wounding || Pradyumna destroys Shalva's illusions and slays many foes, but is struck senseless by Dyuman's mace; recovering, he rebukes his charioteer for drawing him from the field.
+
+## Index entry
+title: Pradyumna's Valor and Wounding || Pradyumna destroys Shalva's illusions and slays many foes, but is struck senseless by Dyuman's mace; recovering, he rebukes his charioteer for drawing him from the field.
+summary: Pradyumna destroys Shalva's illusions and slays many foes, but is struck senseless by Dyuman's mace; recovering, he rebukes his charioteer for drawing him from the field.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Pradyumna, Dyuman, Shalva
+locations: Dwaraka (battlefield)
+themes: valor, honor, combat
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0269
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 76 | verses 17-32 | confidence 5
+  excerpt: Pradyumna in a moment dispels the demon's illusions with divine weapons and showers arrows on Shalva's host, winning the admiration of both armies. But Dyuman, Shalva's minister, strikes Pradyumna on the chest with his mace, and the charioteer carries the senseless hero away; regaining consciousness, Pradyumna rebukes him, saying no Yadu may be seen fleeing the field. (rendered from Sanskrit, vers
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.76 (17-32)
+17. vivyādha pañca-viṃśatyā svarṇa-puṅkhair ayo-mukhaiḥ /
+18. śatenātāḍayac chālvam ekaikenāsya sainikān /
+19. tad adbhutaṃ mahat karma pradyumnasya mahātmanaḥ /
+20. bahu-rūpaika-rūpaṃ tad dṛśyate na ca dṛśyate /
+21. kvacid bhūmau kvacid vyomni giri-mūrdhni jale kvacit /
+22. yatra yatropalakṣyeta sa-saubhaḥ saha-sainikaḥ /
+23. śarair agny-arka-saṃsparśair āśī-viṣa-durāsadaiḥ /
+24. śālvānīkapa-śastraughair vṛṣṇi-vīrā bhṛśārditāḥ /
+25. śālvāmātyo dyumān nāma pradyumnaṃ prak prapīḍitaḥ /
+26. pradyumnaṃ gadayā sīrṇa- vakṣaḥ-sthalam ariṃ-damam /
+27. labdha-samjño muhūrtena kārṣṇiḥ sārathim abravīt /
+28. na yadūnāṃ kule jātaḥ śrūyate raṇa-vicyutaḥ /
+29. kiṃ nu vakṣye 'bhisaṅgamya pitarau rāma-keśavau /
+30. vyaktaṃ me kathayiṣyanti hasantyo bhrātṛ-jāmayaḥ /
+31. bhp_10.76.032/0 sārathir uvāca
+32. etad viditvā tu bhavān mayāpovāhito raṇāt /
+
+## Corpus chain
+previous_story_id: DKS_0347 | next_story_id: DKS_0349
+previous title: Aniruddha and Usha Are Freed
+next title: Krishna's Sons and the Yadu Lineage

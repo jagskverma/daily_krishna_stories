@@ -1,0 +1,65 @@
+# STORY DKS_0477 — Krishna Devises the Ashvatthama Stratagem
+
+## Index entry
+title: Krishna Devises the Ashvatthama Stratagem
+summary: Seeing Drona unbeatable in battle, Krishna counsels the Pandavas to abandon fair means and tell Drona that his son Ashvatthama is slain, so he will lay down his arms.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Yudhishthira, Bhima, Drona
+locations: Kurukshetra
+themes: stratagem, moral compromise, war necessity
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0471
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 7 | chapter/section 191 | verses  | confidence 4
+  excerpt: Kesava, endued with great intelligence and devoted to their welfare, addressed Arjuna and said, 'This foremost of all bowmen is incapable of being ever vanquished by force in battle, by the very gods with Vasava at their head. When, however, he lays aside his weapons, he becomes capable of being slain on the field even by human beings. Casting aside virtue, ye sons of Pandu, adopt now some contriv
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 7.191 ()
+“Sanjaya said, ‘Then Drona caused a great carnage among the Panchalas,
+like the slaughter caused by Sakra himself in rage amongst the Danavas in
+the days of yore. The great car-warriors of the Pandava army, endued with
+might and energy, though slaughtered, O king, by Drona’s weapons, were
+not yet afraid of Drona in that battle. Indeed, O monarch, those mighty
+car-warriors, viz., the Panchalas and the Srinjayas, all rushed against
+Drona himself, for fighting with him. Loud and fierce were the yells they
+uttered as they rushed towards Drona for encompassing him on all sides
+and were slaughtered by him with shafts and darts. Beholding the
+slaughter of the Panchalas in that battle by the illustrious Drona, and
+seeing his weapons overwhelm all sides, fear entered the hearts of the
+Pandavas. Beholding that dreadful carnage of steeds and human beings in
+that battle, the Pandavas, O monarch, became hopeless of victory. (They
+began to say unto each other) “Is it not evident that Drona, that warrior
+conversant with the mightiest of weapons, will consume us all like a
+raging conflagration consuming a heap of straw in the season of spring?
+There is none competent to even look at him in battle. Conversant with
+the ways of morality, Arjuna (who alone is a match for him) will not
+fight with him.” Beholding the sons of Kunti afflicted with the shafts of
+Drona and inspired with fear, Kesava, endued with great intelligence and
+devoted to their welfare, addressed Arjuna and said, “This foremost of
+all bowmen is incapable of being ever vanquished by force in battle, by
+the very gods with Vasava at their head. When, however, he lays aside his
+weapons, he becomes capable of being slain on the field even by human
+beings. Casting aside virtue, ye sons of Pandu, adopt now some
+contrivance for gaining the victory, so that Drona of the golden car may
+not slay us all in battle. Upon the fall of (his son) Aswatthaman he will
+cease to fight, I think. Let some man, therefore, tell him that
+Aswatthaman hath been slain in battle.” This advice, however, O king was
+not approved by Kunti’s son, Dhananjaya. Others approved of it. But
+Yudhishthira accepted it with great difficulty. Then the mighty-armed
+Bhima, O king, slew with a mace a foe-crushing, terrible and huge
+elephant named Aswatthaman, of his own army, belonging to Indravarman,
+the chief of the Malavas. Approaching Drona then in that battle with some
+bashfulness Bhimasena began to exclaim aloud, “Aswatthaman hath been
+slain.” That elephant named Aswatthaman having been thus slain, Bhima
+spoke of Aswatthaman’s slaughter. Keeping the
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0458 | next_story_id: DKS_0483
+previous title: Krishna Grants Celestial Sight and Reveals the Vishvarupa
+next title: Krishna Sinks the Chariot to Save Arjuna

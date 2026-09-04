@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0361",
+ "title": "Indra Asks Krishna to Befriend Arjuna",
+ "subtitle": null,
+ "story": "The rain that had lashed Vrindavan for seven nights had ceased, and Govardhana hill stood again in the valley where it had always stood — lifted, held, and set down by a cowherd's hand. The cattle were safe beneath it, and the village was drying in the sun. Then the sky over Govardhana opened a second time, and what descended was no storm: an elephant, vast as a cloud that holds its water, with the king of the gods upon its back.\n\nIndra had watched the mountain rise with his own eyes, and wonder had overcome his anger. He had seen the worship offered to him set aside, and the village turn instead to the hill; he had answered with a deluge meant to break the cowherds — seven nights of rain that even gods and demons could not withstand. But the boy had held up the mountain through all of it, and the cows had sheltered and survived, and Purandara, the lord of the celestials, had felt his fury turn to awe. He desired to see this Krishna.\n\nHe left his elephant at the foot of the hill, and Airavata stood patient as a rainless cloud, the rut-juice trickling down its temples. Indra approached the boy seated at ease beneath the mountain — playing in the forest, the old text says, engaged in human actions. What he saw shook the king of heaven: the cowherd with the Srivatsa mark upon his breast, dark as a blue lotus, a crown bright as the sun above his brow, celestial earrings at his ears and a necklace of jewels on his chest; and above his head the great bird Garuda, invisible to mortal eyes, spreading his wings to shade him from the sun. The god who had come to humble a village stood before the protector of all the worlds in the guise of a milkman, and he was ashamed, and then he was glad.\n\nHe spoke with a voice deep as thunder, and he did not pretend. He had been enraged when his worship was set aside, he said, and he had sent the rain — but Krishna had put it down by his own power, in Indra's very presence, holding the weight of the mountain like a house in the sky. \"Whose mind would not fill with wonder?\" the king of the gods asked. \"As gold is the foremost of metals, so you are the foremost of the celestials; you alone are eternal among the gods, and I see no second who could carry what you have carried.\" Then, standing on the green ground of Vrindavan, Indra asked something stranger than praise: he spoke of a son.\n\nA portion of himself, he said, had been born on earth as Arjuna, the son of Pritha — Krishna's own cousin, of the same line of kings. In the coming war of the Bharatas, Arjuna would be his friend and his help in battle. \"Befriend him,\" Indra said. \"Instruct him in spiritual knowledge. Always regard him and take care of him as you take care of me.\"\n\nKrishna heard him out, and his answer was simple and final: he knew Arjuna, and he would befriend him as long as he continued upon the earth.\n\nSo the king of the gods returned to heaven with his anger spent and a promise carried in his heart, and the cowherds of Vrindavan went back to their herds under a clean sky. None of them knew that on the green slope of Govardhana the friendship of the two greatest warriors of the coming age had been sealed.",
+ "reflection": "Indra comes down to praise, but the heart of the visit is a request — that Krishna befriend a boy he has never met. The king of heaven asks the cowherd to love his son as he himself is loved, and Krishna's flat promise, \"as long as I continue upon the earth,\" quietly measures the whole span of the friendship that follows.",
+ "tradition_note": "The Vishnu Purana adds that Indra first bathed Krishna with water from Airavata and installed him as Govinda, king of the cows, while the cattle poured out their milk in celebration; the Harivamsha version, followed here, moves directly from praise to the request concerning Arjuna.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Indra",
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Govardhana hill"
+ ],
+ "themes": [
+  "friendship",
+  "prophecy"
+ ],
+ "previous_story_id": "DKS_0360",
+ "next_story_id": "DKS_0362",
+ "next_story_tease": "Years later, in the amphitheatre of Panchala, a young brahmana would rise to string a bow no king could bend — and Krishna would remember the promise.",
+ "hero_scene": "Indra, radiant in his celestial garments, bowing before the cowherd Krishna seated at the foot of Govardhana hill, while the great bird Garuda spreads his wings, invisible, over Krishna's head and the elephant Airavata waits behind the king of the gods.",
+ "visual_elements": [
+  "Indra descending from his elephant Airavata",
+  "Krishna seated at the foot of Govardhana hill in cowherd's guise",
+  "the Srivatsa mark on Krishna's breast",
+  "Garuda spreading his wings over Krishna's head",
+  "Airavata with rut-juice trickling down its temples",
+  "the green slope of Govardhana and the clear sky after the rain"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.74",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.12",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:19Z",
+  "source_event_id": "evt_0103"
+ },
+ "editorial_status": "unreviewed"
+}

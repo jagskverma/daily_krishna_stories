@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0404",
+ "title": "Shalva's Illusion of Vasudeva's Death",
+ "subtitle": null,
+ "story": "In the middle of the battle, a man came running to Krishna's chariot, weeping and calling his name.\n\nKrishna had hurried back from Indraprastha, where omens of danger at Dwaraka had reached him in the midst of his cousin's great sacrifice, and had found his own sky occupied by an enemy. Shalva, king of Saubha, had brought his flying city down upon the coast while Krishna was away, and since his return the two had fought a running duel across the sea — Shalva striking from his city of metal, Krishna answering from the ground, the air between them thick with arrows. Shalva hurled iron javelins, flaming lances and heavy clubs down from his height, and Krishna cut each one into two or three pieces before it could reach him, so that the sea beneath them rained splinters. The duel had now reached its strangest pass. Krishna hurled his mace at the king of Saubha with a force that would have felled a mountain, and when the mace came spinning back to his hand, the sky where Shalva had stood was empty. The king had vanished; his war-cries came from everywhere and nowhere at once.\n\nAnd then the weeping man was there, stumbling among the chariots, his clothes torn, his voice broken. 'Krishna, Krishna, mighty-armed one!' he cried. 'Your father — you who love your father!' He had come from Dwaraka, he said, though he gave no name, and Krishna, in the press of battle, did not think to ask for one. Shalva, the man sobbed, had broken into the city and carried off Vasudeva like an animal; the tyrant had him now, and only Krishna could save him. Every man in that host knew the report was possible: behind them lay Dwaraka, undefended while Krishna fought.\n\nAnd then Shalva himself stood before Krishna, and in his grip was an old man in the robes of Vasudeva. 'Here is your father!' Shalva shouted, holding his captive up for Krishna to see. 'The man you live for! Save him, if you can!' And before Krishna could move, the demon's sword came down, and the head of the old man fell into the dust.\n\nFor one moment, Krishna's face was any son's face who has watched his father die. The Bhagavata says that he took on the human mood, and in that instant he was wholly, painfully human. He was not thinking of war, or of sorcery, or of the city in the sky; he was thinking only of the old man in the dust — he, whom the text calls fond of his father — and the grief came over him like a wave, and for a second his eyes lost the battle.\n\nThen he looked again.\n\nThere was no messenger. There was no body, no head, no blood — only the sky, and Saubha wheeling in it, and Shalva's laughter ringing down. It was Maya, the demon's sorcery, woven out of the great illusion. The grief left Krishna's face as mist leaves a field at sunrise, and the calm that replaced it was more terrible than any anger. The father he had mourned was safe; the death he had watched had never happened. He had been shown his own heart, and the showing had failed. Shalva had staked the war on the one blow that could shake him, and it had not landed.\n\nKrishna turned back to the sky where Saubha drifted, his face utterly calm. The sorcery had spent itself; nothing it could show him now would move him. He raised his bow again, and the real battle began.",
+ "reflection": "Krishna's moment of grief is the hinge of the scene: the sorcery works, and then it fails. The Bhagavata's sages note that bewilderment cannot truly touch him, but the story lets the human mood stand first — a son's grief worn for an instant and then seen through, which is what makes the recovery feel like a return to himself.",
+ "tradition_note": "The Mahabharata tells the same scene with a stronger effect: Krishna swoons and the bow Sharanga slips from his hand before he recognizes the illusion. This story follows the Bhagavata Purana, where his bewilderment lasts only a moment.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Shalva",
+  "Vasudeva"
+ ],
+ "locations": [
+  "Dwaraka (battlefield)"
+ ],
+ "themes": [
+  "illusion",
+  "sorcery",
+  "composure"
+ ],
+ "previous_story_id": "DKS_0403",
+ "next_story_id": "DKS_0405",
+ "next_story_tease": "But Shalva's flying city still wheeled above Dwaraka, and the war was not yet over.",
+ "hero_scene": "On the battlefield below Dwaraka, Shalva holds up the hooded figure of the illusory Vasudeva and raises his sword while Krishna stands in his chariot, grief and recognition crossing his face in the same instant, and the flying city Saubha wheels in the sky above.",
+ "visual_elements": [
+  "Krishna standing calm in his chariot on the battlefield",
+  "Shalva holding up the illusory Vasudeva and raising his sword",
+  "the weeping messenger stumbling among the chariots",
+  "the severed head of the illusory father falling into the dust",
+  "the flying city Saubha wheeling in the sky above Dwaraka",
+  "the sea below raining splinters of shattered weapons"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.77.19-31",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "3.21",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:00Z",
+  "source_event_id": "evt_0218"
+ },
+ "editorial_status": "unreviewed"
+}

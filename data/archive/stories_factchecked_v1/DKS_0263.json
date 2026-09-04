@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0263",
+ "title": "Bhumi's Plea for Bhagadatta",
+ "subtitle": null,
+ "story": "For the first time in years, the fortress city of Pragjyotisha was quiet. Its tyrant lay dead — Narakasura, the son of the earth, who had harried the gods and crammed his vaults with the treasures of heaven. Krishna had come to the demon's stronghold to end his reign, and the reign was over. And then, in the stillness after the killing, the earth herself rose. The city that had cowered under the demon's rule watched in silence as its master's body was borne away and a strange calm settled over the streets.\n\nBhumi, the goddess of the earth, came before Krishna and stood face to face with the slayer of her son. In her hands she carried everything Naraka had stolen in his long, grasping life. Here were the earrings of Aditi, the mother of the gods, blazing with refined gold and precious stones. Here was the great umbrella that belonged to Varuna, lord of the waters. Here was a jewel of matchless worth, taken in some forgotten raid. All that the demon had seized, his own mother now gave back with her own hands — the earth returning what her son had plundered, returning it to the one who had ended the plunder.\n\nThen the earth-goddess prayed. She praised the lotus-navelled one, the wearer of the garland of lotuses. Homage to you, Vasudeva, she said; homage to you, Vishnu, the unborn creator of this world, whose power has no end. You it is who bears the great darkness for its destruction and is not touched by it; you who uphold what is good in the world; you who are time itself, and the primal matter from which all things are born, and the supreme person — you alone are the highest. And she counted herself among his works. I am the water, she said, and the fire, and the wind, and the sky. I am the elements, the gods, the mind, the senses. All of this is yours. So the goddess who bore every kingdom and every battlefield on her body offered herself into that list, a single verse in a hymn that had no end.\n\nAnd then came the true purpose of her visit, the prayer beneath the praise. This son of mine — and here the earth-goddess drew forward a young prince who stood trembling at her side — this son of mine, frightened, has come to take refuge at your lotus feet, O remover of the affliction of those who shelter with you. The boy was Bhagadatta, son of Naraka, heir to everything the demon had ruled and guilty of none of it.\n\nIt was a strange thing to ask of a man whose sword had just ended her child's life. Yet Bhumi did not weep for Naraka, and she did not ask for vengeance. She asked only that the one who remained be spared — that the son should not inherit his father's doom along with his father's throne. And Krishna granted it. He gave Bhagadatta fearlessness, and the young prince, who had come to the audience expecting a sentence, received instead the protection of the lord of the universe.\n\nSo the earth withdrew, and the treasures of heaven were free of the demon's vault at last. The earrings of Aditi would soon travel onward, to be returned to their owner in the courts of heaven. Varuna's umbrella and the great jewel had come home to the world of men. And in Pragjyotisha a new king sat on Naraka's throne — placed there not by conquest but by mercy.\n\nKrishna had come to the demon's city as a destroyer and left it with a mother's blessing and a child's gratitude following him. The tyrant was gone; the heir was safe; and the earth, which had groaned under her son's excesses, lay quiet at last under her lord's feet.",
+ "reflection": "Bhumi's prayer is striking for what it does not contain: no grief for the son who was slain, no plea for vengeance — only protection for the son who remains. The same power that destroyed the tyrant, she trusts, can shield the heir.",
+ "tradition_note": "The Vishnu Purana has Krishna restore Aditi's earrings himself during his visit to heaven, without the earth-goddess's intercession; this story follows the Bhagavata Purana, where Bhumi returns them.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Bhumi",
+  "Aditi",
+  "Bhagadatta"
+ ],
+ "locations": [
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "gratitude",
+  "prayer",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0262",
+ "next_story_id": "DKS_0264",
+ "next_story_tease": "But Naraka's palace still held its prisoners — sixteen thousand one hundred royal maidens the demon had stolen from their families.",
+ "hero_scene": "Bhumi, the earth-goddess, rising before Krishna in the aftermath of battle to offer back Aditi's blazing earrings, Varuna's great umbrella and the great jewel with folded hands, while the young prince Bhagadatta stands sheltered behind her.",
+ "visual_elements": [
+  "Bhumi offering Aditi's earrings, Varuna's umbrella and the great jewel",
+  "the fortress city of Pragjyotisha after Naraka's fall",
+  "the frightened young Bhagadatta behind the earth-goddess",
+  "Krishna granting fearlessness",
+  "gratitude and mercy"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.22-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:08Z",
+  "source_event_id": "evt_0247"
+ },
+ "editorial_status": "unreviewed"
+}

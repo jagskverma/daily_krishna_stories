@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0162",
+ "title": "The Serpent-Jar Stratagem Against Kalayavana",
+ "subtitle": null,
+ "story": "Before they understood what it was, the people of Mathura saw the host: a swarm of kings and foreign warriors covering the plain like locusts, with a river that had never flowed before running behind it — a river born of the filth of its horses and camels, which men would afterward call Aswasakrit.\n\nEveryone knew its leader's story by now. The sage Gargya, dishonored before his king by his own brother-in-law, had abandoned his home in anger and gone to do penance, living on pounded iron for twelve years until Shiva granted him a boon: an all-powerful son who could defeat in battle the descendants of the Vrishnis and the Andhakas. The childless king of the Yavanas heard of the boon, invited Gargya into his kingdom, and consoled him. And by Gopali, a heavenly maiden in the guise of a milkmaid, Gargya begot the child Kalayavana. The boy was raised in the king's own palace like a son, and when the old king died, Kalayavana ruled in his place.\n\nAs his power grew, the kings of the foreign tribes near the mountains — the Shakas, the Tukharas, and hundreds of others — placed themselves under his shelter. Clad in every kind of dress and armed with every kind of weapon, they rode with him. The earth shook under his horses, elephants, asses and camels, and the dust of his army hid the sun.\n\nKrishna had taken no notice of Kalayavana while he grew up among the Yavanas, for Narada had told him long ago about the boon. But when he heard that this army was coming, he called his kinsmen together. \"A great calamity has found us,\" he said. \"This enemy is unkillable by us, because of the boon Shiva gave his father. I tried every peaceful means to win him over — conciliation and the rest — but he wants war, and pride has made him deaf. Narada told me his intent: he means to live in this very city. And I tell you the same — we cannot stay. Jarasandha will never forgive us. The other kings, angry over the fall of Kamsa, have taken shelter under him and work against us, and many of our kinsmen have already been slain. We will never prosper here.\"\n\nEven as he planned the retreat, Krishna tried one last thing. He sealed a dreadful black serpent — black as soot, coiled in the dark of a clay jar — and sent it to the king of the Yavanas by his own envoy. \"Krishna is like a deadly serpent,\" the envoy said, and set the jar before Kalayavana.\n\nThe king of the Yavanas looked at the sealed jar and understood at once what the Yadavas meant to say. Without a word, he had the jar filled with fierce ants. The sharp-beaked ants devoured the serpent down to ash; the jar was sealed anew, and sent back the way it had come.\n\nSo the warning returned to Mathura empty — a serpent turned to ash, and a king who could not be frightened. Whatever answer Krishna sent next would have to be stronger than fear.",
+ "reflection": "The exchange of sealed jars is a conversation without words, each side answering a threat with a sharper one. Krishna's warning is devoured before it is even delivered — a reminder that a terror meant for the proud may only harden them.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Kalayavana",
+  "Gargya",
+  "Narada"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "stratagem",
+  "counter-stratagem",
+  "omens"
+ ],
+ "previous_story_id": "DKS_0161",
+ "next_story_id": "DKS_0163",
+ "next_story_tease": "But the exchange of warnings was not over; Jarasandha's mace was already hurtling toward Mathura.",
+ "hero_scene": "The emissary unsealing the jar before Kalayavana's court to reveal the black serpent coiled within, like a stroke of collyrium, while the king of the Yavanas watches unafraid.",
+ "visual_elements": [
+  "the sealed jar",
+  "the black serpent coiled within like collyrium",
+  "the emissary of the Yadavas",
+  "Kalayavana watching unafraid",
+  "his court gathered around",
+  "a threat being answered"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.114",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0191",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

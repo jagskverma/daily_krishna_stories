@@ -1,0 +1,128 @@
+# STORY DKS_0131 — Krishna Slays the Insolent Washerman
+
+## Index entry
+title: Krishna Slays the Insolent Washerman
+summary: The king's washerman refuses Krishna clothes and abuses him; Krishna strikes off his head and takes the garments.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, washerman
+locations: Mathura
+themes: pride, punishment
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0133
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 41 | verses 31-38 | confidence 5
+  excerpt: When Krishna asked the king's washerman for fine clothes, the washerman abused him, saying these belonged to the king; and Krishna, angered, struck off his head with his hand, took the garments and distributed them to the cowherds. (rendered from Sanskrit, verses 31-38)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 82 | verses  | confidence 4
+  excerpt: Krishna grew offended with him and struck him on the head with his fist strong as the thunder-bolt. With his head sundered he fell down lifeless on earth.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 19 | verses  | confidence 4
+  excerpt: The washerman was the servant of Kansa, made insolent by his master's favour; and he provoked the two lads with loud and scurrilous abuse, until Krishńa struck him down, with his head to the ground, and killed him.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.41 (31-38)
+31. rajakaṃ kañcid āyāntaṃ raṅga-kāraṃ gadāgrajaḥ /
+32. dehy āvayoḥ samucitāny aṅga vāsāṃsi cārhatoḥ /
+33. sa yācito bhagavatā paripūrṇena sarvataḥ /
+34. īdṛśāny eva vāsāṃsī nityaṃ giri-vane-caraḥ /
+35. yātāśu bāliśā maivaṃ prārthyaṃ yadi jijīvīṣā /
+36. evaṃ vikatthamānasya kupito devakī-sutaḥ /
+37. tasyānujīvinaḥ sarve vāsaḥ-kośān visṛjya vai /
+38. vasitvātma-priye vastre kṛṣṇaḥ saṅkarṣaṇas tathā /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.82 ()
+TITLE: KRISHNA’S ARRIVAL
+
+Vaishampayana said:—Thereupon yoking (the horses to the) car and
+ascending thereon the liberal giver Akrura set out with Krishna and
+Sangkarshana and reached the charming city of Mathurā protected by
+Kansa. And before evening when the sun was in its crimson colour he
+entered that beautiful city (1-2).
+
+Taking the heroic Krishna and Sangkarshana of beautiful colour first to
+his own house the intelligent giver of liberal presents, effulgent like
+the sun, said to them:—
+
+"O sire, for the present you are to relinquish the desire of going to
+Vasudeva’s house (3-4). For you, your old father is being day and night
+chiden by Kansa. So you should not wait here long (5). You should do
+such a good and pleasant work on his behalf that your father may attain
+to happiness (6)."
+
+Hearing this Krishna said:—"If you like O pious (Akrura) we, while
+visiting Mathura and her highways, will enter unperceived into Kansa’s
+house (7)."
+
+Vaishampāyana said:—Bowing unto Krishna in his mind Akrura too, with a
+delighted mind, went to Kansa (8). Thus instructed those two heroes went
+on visiting all the high-ways like two elephants let free from their
+posts and desirous of fighting (9). Seeing a washer-man on the way they
+asked of him beautiful clothes (10). The washer man replied to them,
+saying "Who are you? Out of ignorance you have been fearlessly wanting
+the robes of the king. It seems you are rangers of the forest (11). I
+dye, as he desires, all the clothes of the king Kansa which he gets from
+various countries (12). Methinks, born in a forest you have grown up
+with the deer. Otherwise why do long for and pray for the various dyed
+clothes (13). You are stupid and of inferior intellect, or else why do
+you desire for king’s clothes. Perhaps giving up all hopes of your life
+you have come here (14)."
+
+Destiny was against that stupid washer-man of feeble understanding and
+therefore he discharged such poisonous words. Krishna grew offended with
+him and struck him on the head with his fist strong as the thunder-bolt.
+With his head sundered he fell down lifeless on earth (15-16). Thereupon
+the wives of that washer-man, bewailing for their dead husband
+indignantly and with dishevelled hairs, soon approached Kansa’s house
+(17).
+
+Like two elephants attracted by smell those two sweet speeched brothers
+went to a shop for garlands (18). There lived a wealthy, sweet-speeched
+and good-looking garland dealer by name Gunaka. He had a large stock of
+garlands (19). Desirous of having garlands Krishna, with sweet words and
+without any hesitation, said to the shop-keeper "Give me some garlands
+(20)." Hearing this the garland-dealer was pleased and conferred upon
+those two beautiful brothers a number of garlands and said "These are
+all yours (21)." Being pleased Krishna conferred upon Gunaka a boon
+saying "O gentle one, the goddess of prosperity, who is my dependant,
+shall always live by you with profuse riches (22)." With his head
+bending low and touching the feet of Krishna that garland-dealer
+patiently accepted the boon (23). Then thinking "They are Yakshas," the
+garland-dealer, stricken with great fear, did not give any reply (24).
+
+Thereupon again going to the high-way the two sons of Vasudeva espied
+Kuvjā with pastes in her hands (25). Seeing her Krishna said:—"O
+lotus-eyed Kuvjā, tell me quickly for whom you are carrying these
+unguents" (26). Hearing this Kuvjā, going obliquely like a lightning,
+with delightful eyes and smiles said to the lotus-eyed Krishna in words
+grave as the clouds (27). "May you fare-well. I was going to the king’s
+bath-room. I am waiting here because you are a darling of my heart; come
+and accept this unguent. O you of lotus-eyes, of you of a beautiful
+face, seeing you I am filled with surprise (28–29). O gentle one, whence
+have you come that you do not know me. I am a favourite of the king and
+engaged in the work of smearing his body" (30).
+
+Krishna then replied to Kuvjā who stood there smiling: "Give us unguents
+befitting our body (31). O you of a beautiful face, we are wrestlers who
+travel over the countries. We have come here at present to see this
+happy and prosperous kingdom and to witness this bow-sacrifice (32)".
+She said to Krishna "No sooner I have seen you than you have become my
+favourite. Without any hesitation accept this unguent becoming a king
+(33)." Thereupon besmearing their beautiful persons with unguents those
+two brothers shone like two bulls covered all over their body with the
+mud of Yamuna (34). Thereupon Krishna, conversant with the art of
+arranging for sports, softly touched the haunch of Kuvjā with his
+fingers (35). Knowing her haunch (thus) broken, the beautiful and sweet
+smiling Kuvjā, like unto a straight creeper, said with love to Krishna
+displaying her gestures and laughing aloud "Where wilt thou go? Wait
+here, requested by me. Take me (36–37)." The eternal Krishna and Rāma
+had a knowledge of Kuvjā’s accomplishments and therefore looking at each
+other they began to l
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0130 | next_story_id: DKS_0132
+previous title: Krishna and Balarama Enter Mathura
+next title: Krishna Straightens the Hunchback Kubja

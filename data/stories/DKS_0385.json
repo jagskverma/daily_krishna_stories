@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0385",
+ "title": "A Visit That Made Them Whole",
+ "subtitle": null,
+ "story": "The city of Indraprastha was not expecting a guest that day, and the news ran through it like wind through an open hall. Krishna, who ruled the far coast at Dwaraka, had come to see the Pandavas — the five brothers who were kings now in the city they had built beside the Yamuna, where Yudhishthira's rule had already made the kingdom prosperous. He came without an army and without a summons. The old telling says simply that he came to see them, and the brothers went out to meet him before any court ceremony could be arranged.\n\nYudhishthira rose at once, and Bhima with him, and they embraced him with both arms, the way men embrace a brother who has crossed a hundred lands to stand in their doorway. The touch of him, the tellers say, seemed to wash away the weariness of every hard year they had carried. Krishna paid his respects first to Yudhishthira and to Bhima, then to the others as they pressed forward, and Draupadi led him herself to the finest seat in the hall. Satyaki, a young warrior of Krishna's own clan who had ridden with him from Dwaraka, was received with the same warmth, honored and greeted by each of the brothers in turn.\n\nBut it was Kunti who spoke for them all. She had been mother to these boys through the years of wandering and want, when Krishna had been the one cousin who remembered them, who came to them, who wrote to them in their exile. Now she stood before him, the queen of a great house, and her composure broke. Weeping, her voice choked with love, she said, \"Now we are safe, for you have remembered us.\"\n\nHer tears were not grief. They were the relief of a woman who had watched her sons survive everything and had asked only one thing of the world: that they not be forgotten. The boy who had come to their forest hut in the years of hiding was now the master of Dwaraka, and he was still the same friend.\n\nYudhishthira asked him to stay through the rains, and Krishna stayed. Four months he remained at Indraprastha, through the slow green season when the roads dissolved and the world turned inward. He did not come as a king to be entertained. He lived among them, at ease — sitting with Yudhishthira over the long questions of kingship, testing grips with Bhima, walking the gardens with Arjuna, letting the twins argue with him about horses and swords. The old telling closes the account with a plain sentence: he delighted them all.\n\nIn those four months he was simply what he had always been to them: a cousin visiting, a friend at leisure, the one ally who had never once asked what the friendship was worth. The palace of Indraprastha, so often a stage for plots and prophecies, became for a season only a house where someone beloved was staying — and no one in it wanted the rains to end.\n\nWhen at last he left, he took nothing with him but their goodbyes, and left behind a household that had been, for a little while, whole.",
+ "reflection": "Kunti's words — \"now we are safe, for you have remembered us\" — define the Pandavas' bond with Krishna more exactly than any treaty: safety as being remembered. The story's quiet power is that nothing is accomplished in it; a visit, an embrace, a season of joy — and that is precisely the point.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Bhima",
+  "Arjuna",
+  "Draupadi",
+  "Kunti",
+  "Satyaki"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "friendship",
+  "reunion",
+  "joy"
+ ],
+ "previous_story_id": "DKS_0384",
+ "next_story_id": "DKS_0386",
+ "next_story_tease": "But the friendship was about to be tested in fire: the forest of Khandava was waiting, and Agni would not be denied.",
+ "hero_scene": "Kunti, the queen of the Pandavas, embracing Krishna with tears streaming down her face in the great hall of Indraprastha, her sons gathered around them and the morning light falling through the pillars.",
+ "visual_elements": [
+  "Kunti embracing Krishna, weeping with love",
+  "Yudhishthira and Bhima embracing Krishna",
+  "Draupadi leading Krishna to the finest seat",
+  "the five brothers and Satyaki gathered in the hall",
+  "the green rainy season over Indraprastha during the four-month stay"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.58.1-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:00Z",
+  "source_event_id": "evt_0374",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

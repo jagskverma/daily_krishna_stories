@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0458",
+ "title": "Krishna Reveals the Vishvarupa",
+ "subtitle": null,
+ "story": "On the field of Kurukshetra the two armies stood drawn up, and the war had not yet begun. In the long pause before the first blow, Krishna, who had chosen to be Arjuna's charioteer and was his cousin and closest friend, had been teaching. The despair that had made Arjuna drop his bow at the sight of his own kinsmen across the field was gone. Krishna had spoken of the self that never dies, of how all beings come into being and pass away, of a greatness in him that never grew less. Arjuna had heard it all, and he believed it. Believing was no longer enough. He had been told everything, and the telling had left him with one thing still unfulfilled: he wanted to see, with his own eyes, the being who had been speaking to him.\n\n\"What you have said of yourself is true,\" Arjuna said at last. It was not a demand; it was trust. \"I long to see that form of yours. If you think I can bear it, show me your true self.\"\n\n\"Look, then,\" Krishna said. \"See my forms by the hundreds and the thousands, divine, of every shape and colour. See the hosts of the gods: the Adityas, the Vasus, the Rudras, the Ashwins, the Maruts. See wonders no one has ever seen. See the whole universe, everything that moves and everything that stands still, gathered into this one body of mine. But these eyes of yours cannot hold such a sight. I will give you eyes that can.\"\n\nAnd then he showed him.\n\nThe form that rose before Arjuna had more mouths and more eyes than he could count, and every kind of wonder hung about it: ornaments and weapons of heaven, garlands and robes of light, a fragrance that belonged to no earthly flower. Its faces turned in every direction at once. If a thousand suns rose together in the sky, their light would be only a shadow of the light of that form.\n\nIn that one body Arjuna saw the whole universe, gathered and whole. His hair stood on end. He bowed his head, joined his hands, and when he spoke his voice had changed. \"I see all the gods,\" he said, \"and every kind of creature. I see Brahma the creator seated on his lotus throne, and the sages called rishis, and the great serpents of heaven. I see your arms and bellies and mouths and eyes without number, on every side. I can find no end of you, no middle, no beginning, lord of the universe.\"\n\n\"Crowned, bearing your mace and your discus,\" he went on, \"you blaze like a fire that has no limit. I can hardly bear to look at you, and yet I cannot look away.\"\n\nBetween two armies that had not yet struck a single blow, the man who held the reins of Arjuna's chariot stood revealed as the ground of everything that is. And the warrior who had asked to see could only bow before what he had been shown.",
+ "reflection": "The vision is granted because Arjuna asks for it, and it overwhelms him not with threat but with scale: the whole of creation gathered into one form that has no end, middle, or beginning. What silences him is not fear of the form's power but the sight of every thing he has ever known held, at once, in a single body.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "cosmic vision",
+  "divine revelation",
+  "awe"
+ ],
+ "previous_story_id": "DKS_0456",
+ "next_story_id": "DKS_0477",
+ "next_story_tease": "But the war would not wait long on vision; harder counsel lay ahead on that same field.",
+ "hero_scene": "Arjuna, head bowed and hands joined, gazes up at Krishna's colossal universal form: countless faces, eyes, arms and weapons radiating light like a thousand suns, with the whole universe gathered inside that one resplendent body on the field of Kurukshetra.",
+ "visual_elements": [
+  "Krishna's vast universal form",
+  "many faces, eyes, mouths and arms",
+  "celestial ornaments, garlands, robes and weapons",
+  "light like a thousand suns",
+  "Arjuna bowed with joined hands, hair standing on end",
+  "the two armies waiting on the plain of Kurukshetra",
+  "awe and overwhelming scale"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:15:44Z",
+  "source_event_id": "evt_0455",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

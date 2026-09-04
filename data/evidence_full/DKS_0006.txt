@@ -1,0 +1,41 @@
+# STORY DKS_0006 — Kamsa's Ministers Counsel Slaughtering the Righteous
+
+## Index entry
+title: Kamsa's Ministers Counsel Slaughtering the Righteous
+summary: Kamsa's demon ministers urge him to kill all newborn children and to destroy the brahmanas, cows and all in whom Vishnu dwells.
+life_stage: birth | story_arc: prophecy_of_kamsa
+characters: Kamsa, demon ministers
+locations: Mathura
+themes: evil_counsel, persecution
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0032
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 4 | verses 28-41 | confidence 5
+  excerpt: The demon ministers persuade Kamsa to slay every infant in city and village, and to root out the brahmanas, cows and austerity in which, they say, the gods have their life. (rendered from Sanskrit, verse 28-41)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.4 (28-41)
+28. tasyāṃ rātryāṃ vyatītāyāṃ kaṃsa āhūya mantriṇaḥ /
+29. ākarṇya bhartur gaditaṃ tam ūcur deva-śatravaḥ /
+30. evaṃ cet tarhi bhojendra pura-grāma-vrajādiṣu /
+31. kim udyamaiḥ kariṣyanti devāḥ samara-bhīravaḥ /
+32. asyatas te śara-vrātair hanyamānāḥ samantataḥ /
+33. kecit prāñjalayo dīnā nyasta-śastrā divaukasaḥ /
+34. na tvaṃ vismṛta-śastrāstrān virathān bhaya-saṃvṛtān /
+35. kiṃ kṣema-śūrair vibudhair asaṃyuga-vikatthanaiḥ /
+36. tathāpi devāḥ sāpatnyān nopekṣyā iti manmahe /
+37. yathāmayo 'ṅge samupekṣito nṛbhir na śakyate rūḍha-padaś cikitsitum /
+38. mūlaṃ hi viṣṇur devānāṃ yatra dharmaḥ sanātanaḥ /
+39. tasmāt sarvātmanā rājan brāhmaṇān brahma-vādinaḥ /
+40. viprā gāvaś ca vedāś ca tapaḥ satyaṃ damaḥ śamaḥ /
+41. sa hi sarva-surādhyakṣo hy asura-dviḍ guhā-śayaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0005 | next_story_id: DKS_0007
+previous title: Kamsa Imprisons Devaki and Destroys Her Children
+next title: Kamsa Orders the Slaughter of Children and the Pious

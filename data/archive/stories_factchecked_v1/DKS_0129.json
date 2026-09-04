@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0129",
+ "title": "Kamsa Sends Akrura to Fetch Krishna",
+ "subtitle": null,
+ "story": "The trap was set, but it had one loose end: the two boys were still in Vraja, and no trap springs on prey that never arrives. So Kamsa turned to the one man he trusted to spring it for him.\n\nHe sent for Akrura, foremost among the Yadavas, a man called the lord of gifts for the generosity that had made his name a byword in Mathura. Kamsa took him by the hand, the gesture of a friend to a friend, and his words were warm.\n\nYou have always been my friend, he said; there is a matter of importance I would settle through you. Go to Vraja, to Nanda's settlement, and bring back the two boys, Krishna and Balarama. The bow festival is to be celebrated here, and they should come and see it.\n\nThat was the part meant for the city to hear — the festival, the invitation, the honor. But to Akrura he did not bother to hide the rest, because he believed Akrura was wholly his. These two boys, he said, are the means by which the gods have appointed my death. When they are brought here, I will have them killed by the elephant, like one slain by death itself. And when those two are dead, this earth will be free of its thorns at last.\n\nHe spoke with the confidence of a man who thought the world was already arranged around his will, and he named the allies who had thrown in their lot with him as if they settled the matter. The king trusted Akrura the way a man trusts his own right hand, and it never occurred to him that the hand he was sending to Vraja might not belong to him. But Akrura was not deceived.\n\nAkrura knew Kamsa — knew what lay behind the soft words and the clasped hand, and knew, as well as any man in Mathura knew, that the king's invitations had a way of ending. The boys who answered this one were not meant to return. Yet he agreed to go.\n\nThe verses record his answer in a strange, gentle form: even men whose hopes have been struck down by fate, he said, go on entertaining their hopes. It was the answer of a man who understood exactly what was being asked of him, and who had decided, for reasons of his own, to make the journey anyway.\n\nSo the invitation went out — carried by the most trusted messenger Kamsa had, wrapped in the friendliest words the king could find, and underneath it, spoken plainly, the whole machinery of a death. Kamsa believed he was sending for his doom in order to kill it. He did not yet understand that he was sending for nothing less than the beginning of his own end.",
+ "reflection": "This is Kamsa at his most dangerous, because he is at his most pleasant. The hand he lays on Akrura's arm and the sweetness in his voice are weapons as much as the elephant and the wrestlers; and the tragedy of the scene is that the generous Akrura sees through all of it and still consents to carry the message.",
+ "tradition_note": "The Vishnu Purana folds the sending of the horse-demon Kesin into this same plan, to attack the boys in Vraja before they can be brought to Mathura; the Bhagavata has Kamsa give Kesin his orders separately, before summoning Akrura.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Kamsa",
+  "Akrura"
+ ],
+ "locations": [
+  "Mathura",
+  "Vraja"
+ ],
+ "themes": [
+  "deceit",
+  "mission"
+ ],
+ "previous_story_id": "DKS_0128",
+ "next_story_id": "DKS_0130",
+ "next_story_tease": "And so the two brothers set out for Mathura, where the whole city was waiting to see them.",
+ "hero_scene": "Kamsa holding the hand of the noble Akrura in his chamber, speaking to him with soft, friendly words, while Akrura listens with a face that betrays nothing of what he knows.",
+ "visual_elements": [
+  "Kamsa holding Akrura's hand",
+  "Akrura the noble Yadu",
+  "sweet, persuasive words",
+  "the unspoken trap",
+  "iron fetters on Vasudeva and Devaki left unmentioned",
+  "deceit and mission"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.36.26-39",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.77",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.15",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0131"
+ },
+ "editorial_status": "unreviewed"
+}

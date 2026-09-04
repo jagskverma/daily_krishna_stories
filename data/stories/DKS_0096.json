@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0096",
+ "title": "The Wives Refuse to Return",
+ "subtitle": null,
+ "story": "The brahmanas' wives had crossed a line they could not walk back across. They had left their husbands' great sacrifice, carried food through the forest, and fed Krishna and his cowherd companions with their own hands. They had not come with any thought of returning; they had come only to see him. Now they stood before him in a grove on the banks of the Yamuna, where the ashoka trees were tipped with fresh young leaves, and they looked at him, and they could not look away.\n\nAnd yet they had known him before they ever saw him. They had heard of the cowherd boy Krishna until his image had taken up its place in their minds and would not leave. Their thoughts were already full of him; their ears had been filled with the sweetness of hearing about him, long before they stood in this grove. So when they saw him, it was not a stranger they found, but the one they had been carrying inside them all along.\n\nHe stood among his friends the way a dancer stands at ease — one hand resting on a companion's shoulder, the other slowly twirling a lotus. His skin was dark, his garments gold, a garland of forest flowers at his neck and a peacock feather in his hair. Earrings swung at his cheeks, and his face, bright as a lotus, wore a faint smile. The women drank him in through their eyes and held him there for a long while, and the sorrow that had followed them all the way from home quietly left them.\n\nThen Krishna spoke. \"You are welcome,\" he said. \"Sit. Tell me what I can do for you.\"\n\nBut he did not stop at a welcome. The wise, he told them, see clearly what is best for themselves, and so they give him all they have — breath and mind and intelligence, wife and children and wealth, everything a person holds dear. And therefore, he said, they should return now to the place of sacrifice. Their husbands were brahmanas; their place was there.\n\nThe women did not lower their eyes. \"Do not speak such cruel words,\" they answered. \"We have left everyone — fathers, husbands, sons, brothers, every bond we had — so that we might carry on our heads the garland of tulasi, the sacred basil, that has fallen from your feet. Neither our husbands nor our fathers nor our sons nor our brothers nor any of our people will take us back now. How much less any stranger? For us, who have fallen at your feet, there is no other refuge. Grant us this.\"\n\nIt was the truth, and Krishna saw it. They had staked everything on him, and there was nothing left to return to. He was pleased, and he granted them the grace they had asked for. But he also taught them something to carry back with them. It is not bodily nearness, he told them, that binds a person to him. He is won by remembrance — by hearing of him, and seeing him, and holding him in the mind, and speaking of him. Then he sent them home, and they went, their hearts fixed on him, the way the wise carry what they love with them wherever they go.",
+ "reflection": "The wives' refusal is not defiance of their husbands but the plain statement of a fact: they have already left everything, and there is no going back. Krishna's answer turns their longing away from his physical presence toward something they can carry anywhere — remembrance.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "brahmana wives",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "devotion",
+  "surrender"
+ ],
+ "previous_story_id": "DKS_0095",
+ "next_story_id": "DKS_0097",
+ "next_story_tease": "But the husbands they returned to would soon see, in their wives' faces, exactly what they themselves had refused.",
+ "hero_scene": "The brahmana wives gathered before Krishna in a moonlit grove on the banks of the Yamuna, ashoka trees with fresh young leaves behind them, as Krishna — dark-skinned, gold-robed, one hand twirling a lotus — turns to speak while the women look up at him, unwilling to leave.",
+ "visual_elements": [
+  "brahmana wives",
+  "Krishna",
+  "Yamuna riverbank",
+  "ashoka trees with fresh leaves",
+  "golden garments and forest-flower garland",
+  "peacock feather",
+  "twirling lotus",
+  "moonlit grove",
+  "longing and surrender"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.23.20-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:14:58Z",
+  "source_event_id": "evt_0089",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0212",
+ "title": "The Sun's Gift to Satrajit",
+ "subtitle": "Surya gives his devotee the Syamantaka, a jewel that shines like a second sun",
+ "story": "The people of Dwaraka saw the sun walking through their streets, and it was only Satrajit.\n\nHe came in from the coast in the early morning, and the jewel at his throat blazed so fiercely that anyone who looked at him from a distance felt his sight dim and blur. Children cried out. Elders shaded their eyes. For one breathless moment the whole city believed the sun god himself had come down from the sky to walk among them. Then they saw that the blazing figure was Satrajit, their own kinsman, a noble of the Yadu clan, wearing on his breast a jewel that shone like a second sun. The wonder of it ran through Dwaraka before he had reached his own door. Word raced ahead of him through the streets: the sun has come down to Dwaraka.\n\nThe jewel was the Syamantaka, and it had come to Satrajit as a gift. All his life he had worshipped the sun with a devotion so steady that the god had become his friend. It happened at dawn, on the shore of the ocean. Satrajit went down to the water to bathe and offer his prayers, and there the sun god stood before him — blazing, yet familiar, like a friend paying a visit. \"You have come to me as a friend,\" Satrajit said, \"but I have received no gift from you. Give me the jewel with which you light the worlds.\" And the sun took the Syamantaka from his own neck and placed it in Satrajit's hands.\n\nSatrajit carried it back to the city with the light of the sky at his throat, and people followed him through the streets, certain they were watching the sun itself go by. And the jewel was no mere ornament. Each day it yielded eight loads of gold, and while it remained in Dwaraka the city knew no calamity — no disease, no misfortune, no fear. Gold welled up in the palaces of the Vrishnis and the Andhakas, and the rains came in their season.\n\nBut the splendor of the Syamantaka filled the city with wonder, and with something else. Among those who looked on it was Krishna, and he wanted the peerless jewel. He was strong enough to take it — there was no one in Dwaraka who could have stopped him — yet he did not take it by force, and he did not steal it. He simply wanted it. In a city of kinsmen who could read one another's hearts, wanting was as visible as wearing. He spoke of the jewel openly, as a man speaks of what he admires, and more than one kinsman heard the want in his voice.\n\nSatrajit heard it too. And from that day, though he said nothing, he held the Syamantaka a little closer.",
+ "reflection": "The Syamantaka is a gift of pure light: it dazzles, it enriches, it protects. Yet the very splendor that made it a blessing made it a danger — wealth that shines draws every eye, and the jewel that lit Dwaraka would soon light the desires of those who wanted it.",
+ "tradition_note": "The Harivamsha tells the gift in greater detail — the sun appearing to Satrajit on the ocean bank at dawn — while the Bhagavata Purana records it in a single stroke; the two accounts agree on the essential fact of the gift.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Satrajit",
+  "Surya",
+  "Krishna"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "gift",
+  "splendor",
+  "wealth"
+ ],
+ "previous_story_id": "DKS_0211",
+ "next_story_id": "DKS_0213",
+ "next_story_tease": "Not long after, Prasena would ride out into the forest wearing the jewel on his breast — and the forest would keep him.",
+ "hero_scene": "Satrajit walking through the streets of Dwaraka blazing like the sun itself, the Syamantaka at his throat, while citizens shield their eyes and bow, mistaking him for the sun-god come down to earth.",
+ "visual_elements": [
+  "Satrajit blazing like the sun in the streets of Dwaraka",
+  "the Syamantaka jewel at his throat",
+  "citizens shielding their eyes and bowing",
+  "the sun-god appearing on the shore of the ocean",
+  "gold and prosperity flowing from the jewel",
+  "Krishna's desiring gaze",
+  "splendor and temptation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.56.1-10",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:44Z",
+  "source_event_id": "evt_0201",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

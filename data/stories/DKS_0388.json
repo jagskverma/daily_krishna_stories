@@ -1,0 +1,66 @@
+{
+ "id": "DKS_0388",
+ "title": "The Renunciant Who Carried Off a Bride",
+ "subtitle": null,
+ "story": "Arjuna heard the rumor on the pilgrim road, and it turned his wandering into a rescue. He was one of the five Pandava brothers, walking the holy places during his long exile from their city of Indraprastha. At Dwaraka, far to the west, Balarama — Krishna's elder brother — had decided to give their sister Subhadra in marriage to Duryodhana, the cousin who hated Arjuna's brothers. The plan was kept close, but Arjuna heard of it anyway, and the thought of it burned in him.\n\nHe had seen Subhadra once, and the sight had stayed with him like a name written in light. He was not about to let her be given to the enemy of his house. And so the man who had faced armies without blinking did a strange thing: he put aside the warrior's dress, took the triple staff of a wandering holy man, and entered Dwaraka as a renunciant, in the one garb where his own mother's kin would never think to look for him.\n\nIt was the rainy season, and he stayed through its months, waiting for his moment. The Yadavas took the young ascetic in without question, as wandering holy men are always received. One day he was brought into a house and offered guest-gifts, and there he saw her — Subhadra, whose beauty, the old telling says, stole the hearts of heroes. And she, seeing him, desired him, for he was the one who stole the hearts of women. Neither of them spoke of it aloud. They did not need to.\n\nThen came the day of a great festival, when the gods' image was carried out of the city in procession. The chariots rolled through the gate, the crowds followed, and Subhadra rode in one of them. In the joyful confusion — guards' eyes on the procession, no one watching the quiet renunciant — Arjuna saw his chance. He seized his bow, took the reins, and carried her off, holding back the warriors who rushed to stop him.\n\nThe news ran back to Dwaraka before the wheels had settled, and Balarama — the elder, the mighty — broke. His anger rose like the sea at full moon, sudden and immense. The warriors of Vrishni spoke of pursuit and punishment, of the insult to their house, and for a while it seemed the road behind Arjuna would fill with armed men.\n\nThen Krishna spoke, and his words turned the storm. What Arjuna had done was not an insult but an honor. The house of Vrishni was not for sale: no daughter of theirs was to be given away like an animal, no one was to be sold like goods, and a bride's self-choice was a gamble no father should make for his daughter. Arjuna had seen the fault in every gentler way and had taken the maiden by force, as warriors may — and who could fault him? He was the son of Kunti, born in the line of Bharata; no one in all the worlds could vanquish him except the three-eyed god Shiva. \"Go to him,\" Krishna said. \"Stop him with words, not weapons, and bring him back. If he rides home after defeating us, our fame is gone. There is no disgrace in friendship.\"\n\nThe Yadavas went out and stopped Arjuna — with words, not weapons — and he turned his chariot back to Dwaraka. There, welcomed and honored by the sons of Vrishni, he was united in marriage with Subhadra. And the anger that had risen like a tide went out: Balarama, appeased, sent rich wedding gifts for the bride and the groom, and the house of Vrishni made the marriage its own.\n\nWhen at last Arjuna brought his bride home to Indraprastha, the welcome there was warmer than the road had been long. Draupadi, who had waited through his travels, met her new rival with a jealousy that dissolved within the day: Subhadra came to her and said, \"I am your maid,\" and Draupadi rose, embraced her, and answered, \"Let your husband be without a foe.\" Kunti, from excess of affection, blessed the girl who had become her daughter. And from that day, the old telling says, the Pandavas' household lived happily.",
+ "reflection": "Krishna's defense of the elopement is remarkable for what it protects: not Arjuna's honor but his family's. The argument that a bride must not be given like an animal or sold like goods turns a scandal into a principle — the Yadavas did not lose face, they gained the alliance of the Pandavas, and the anger that might have ended in war ended in wedding gifts.",
+ "tradition_note": "The Mahabharata gives the decisive speech for the alliance to Vasudeva, Krishna's father, and adds the full story of Subhadra's welcome at Indraprastha; the Bhagavata condenses the episode and credits Krishna himself with pacifying Balarama. This account follows the Bhagavata's shape.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Arjuna",
+  "Subhadra",
+  "Krishna",
+  "Balarama",
+  "Vasudeva",
+  "Draupadi",
+  "Kunti"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Indraprastha"
+ ],
+ "themes": [
+  "elopement",
+  "love",
+  "alliance"
+ ],
+ "previous_story_id": "DKS_0387",
+ "next_story_id": "DKS_0389",
+ "next_story_tease": "At the great sacrifice that followed, the man who had stolen Subhadra would watch Krishna take the humblest office in the hall.",
+ "hero_scene": "Arjuna in the white robes of a renunciant, bow in hand, sweeping Subhadra onto his chariot during the festival procession while it rolls out of the gate of Dwaraka and startled guards reach for their weapons.",
+ "visual_elements": [
+  "Arjuna disguised as a tridandi renunciant with his triple staff",
+  "Subhadra on the festival chariot, reaching for him",
+  "Arjuna's chariot racing out of the gate of Dwaraka",
+  "Balarama's fury like the ocean at full moon",
+  "Balarama's wedding gifts for the bride and groom"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.86.1-11",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "1.223",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:00Z",
+  "source_event_id": "evt_0368",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

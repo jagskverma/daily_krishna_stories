@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0507",
+ "title": "The Pigeon and the Hunter's Net",
+ "subtitle": null,
+ "story": "A pigeon built his nest in a forest tree, and there, with his mate, he raised a family. The two birds were bound to one another by a love that showed in everything they did. They were, in the way of birds, a single household, and the tree was their home.\n\nThey shared one bed and one seat. Where they roosted, they roosted together; where they walked, they walked side by side; what they said, they said to one another. They played together and ate together, and whatever one wanted, the other gave without being asked. It was a small life and a complete one, and they asked for nothing beyond it.\n\nIn time the hen laid her first eggs, and when the chicks hatched the two birds loved them with a tenderness that filled the nest with soft feathers and low, contented cooing. They fed them and kept them warm and watched over them, devoted to their children, and their days became nothing but the feeding and the keeping and the watching of those small, downy, open-beaked lives. The nest was all their world, and their world was warm.\n\nThe chicks grew, and their feathers came in soft as silk, and their cooing and their clumsy, innocent antics were the parents' whole delight. Watching them, the two birds felt that no harm could ever reach this tree, this nest, this small bright world they had made. Everything they had was in that nest — their young, their days, their whole reason for flying out and returning. They wanted for nothing, and they feared nothing, and they did not see the snare that their own tenderness was quietly weaving around them.\n\nOne day the two of them flew out together to gather food for the chicks. While they were gone, a hunter came through the forest, and he saw the young birds in the nest, alone and unguarded. He spread his net, and he caught them all.\n\nThe hen came home first. She saw her chicks struggling in the mesh, and love moved faster in her than fear. She did not pause, did not call out, did not think of herself. She flew straight into the net and settled down among her young. She did not try to pull them free; she only wanted to be with them.\n\nThen the pigeon came home and saw them — his chicks, his mate, all of them tangled in the hunter's cords. He cried out: “Alas, what has my poor, misguided mind brought down upon us? My home is destroyed, my wife and children are caught — what use is my life now?” He could not bear to be the only one left free, to sit in an empty nest while those he loved were taken from him. Better, he thought, to share their fate than to outlive them in an empty home. The net that held them held everything he had. So he too flew into the net.\n\nThe hunter, finding them all gathered there for him, gathered them up and went on his way. And the nest stood empty in the tree, its soft lining stirring once in the wind and then going still. And so the very love that had made the nest a home became the thing that left it empty. The story was kept as a caution: a householder who clings to home and family as that bird did, bound to them and without peace, comes in the end to ruin — a human life, the one birth that stands with its door open to freedom, shut upon itself.",
+ "reflection": "The tale is offered as a warning, but it does not condemn love — it shows love without distance, a tenderness so total that it cannot let the lost stay lost. The pigeon is not wicked; he simply cannot bear to be the one left outside the net. What undoes him is not the hunter's cruelty but the completeness of his devotion.",
+ "tradition_note": null,
+ "content_note": "The pigeon and his family are caught in a hunter's net and do not survive.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the pigeon",
+  "the pigeon's mate",
+  "the chicks",
+  "the hunter"
+ ],
+ "locations": [
+  "a forest tree"
+ ],
+ "themes": [
+  "attachment",
+  "grief",
+  "the snare of home",
+  "cautionary tale"
+ ],
+ "previous_story_id": "DKS_0498",
+ "next_story_id": "DKS_0511",
+ "next_story_tease": null,
+ "hero_scene": "The pigeon flying deliberately into the hunter's net to join his mate and chicks, who are tangled in the mesh below, while the empty nest waits in the tree above.",
+ "visual_elements": [
+  "the pigeon",
+  "the pigeon's mate",
+  "the chicks in the nest",
+  "soft feathers and cooing",
+  "the hunter's net",
+  "the hunter",
+  "the forest tree",
+  "the empty nest",
+  "a mood of tender love turning to grief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.7.51-73",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:48Z",
+  "source_event_id": "evt_0527"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0219",
+ "title": "The Jewel in Akrura's Keeping",
+ "subtitle": null,
+ "story": "The rains stopped when Akrura left Dwaraka, and they returned when he came back — or so the old men said, and the Kukuras and Andhakas, watching the earth grow dry and the sky harden, were ready to believe it. Krishna had come home from Mithila with the killer of Satrajit dead and the Syamantaka jewel still missing, and in the weeks that followed he had seen to it that the fallen Satadhanva received the rites due to the dead, for even an enemy of the Bhoja line was kin to Dwaraka's house. But the jewel was the thing the city spoke of in whispers. Satadhanva had died with empty hands; the gem had not been on him. So where was it?\n\nKrishna, who knew all things, had asked himself the same question — and he had found the answer in a promise made in the dark. Satadhanva had not acted alone. The night Satrajit was slain, the jewel had passed from the killer's hands into the keeping of Akrura, who had sworn to the dying thief that he would never reveal what he held.\n\nAnd Akrura had kept his word so well that his prosperity itself gave him away. He had thrown himself into a vast undertaking, gathering jewels and goods for a sacrifice so long and so lavish that men called it the Akrura Yajna, and he had entered a vow of armor as though expecting danger. To most of Dwaraka it was the piety of a great lord; to Krishna it was a confession in another language.\n\nNow Krishna did what he always did with secrets: he brought them into the light. He honored Akrura before the assembly, greeted him with friendship, and spoke to him of old times; and then, gently, he put the matter before him. \"O lord of gifts,\" he said, \"was the jewel not entrusted to you by Satadhanva? Satrajit had no son, so the gem would pass to his daughter's sons; yet no one else can hold it. Let it rest with you, virtuous one — but show it to the kinsmen, and bring peace to this house.\"\n\nAnd Akrura, moved by the gentleness of the words, brought out the Syamantaka and showed it to the assembled kinsmen. Krishna held the jewel up before them all, letting its light fall on every face, and the stain of suspicion that had clung to him since Satrajit's death — the whispered talk that he had taken the gem for himself — dissolved in that light. Then he returned the jewel to Akrura, who received it back with wonder; and the Harivamsha records that Krishna gave it up with a delighted heart, as though the treasure had never been the point at all.\n\nThe city breathed again. Balarama, who had been living in Mithila in high honor as King Janaka's guest, was brought home by the car-warriors of the Vrishni race, with Krishna himself among those who went to fetch him; and brother and brother were reconciled. Akrura, confirmed in Krishna's friendship, gave his own sister Sushila to Krishna in marriage. The rains, the old men noted with satisfaction, continued to fall.\n\nThe Syamantaka had returned to Dwaraka — not to Krishna's keeping, but to the man who had hidden it, trusted because he had been trusted.",
+ "reflection": "Krishna's way with the jewel is characteristic: he does not seize it or expose the hider. He asks, in public, with honor intact, and lets the truth do the work — clearing his own name not by force but by bringing the secret into the light, then giving the treasure back so that reconciliation matters more than possession.",
+ "tradition_note": "In the Harivamsha, Akrura had long coveted the jewel and had sworn to Satadhanva never to reveal where it lay; Krishna returns it to him with a delighted heart, and Akrura seals the reconciliation by giving his sister Sushila in marriage.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Krishna",
+  "Akrura",
+  "Balarama"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "reconciliation",
+  "trust",
+  "truth"
+ ],
+ "previous_story_id": "DKS_0218",
+ "next_story_id": "DKS_0220",
+ "next_story_tease": "But while the jewel was being restored, a demon far to the east was stealing the earrings of the mother of the gods.",
+ "hero_scene": "In the assembly of Dwaraka, Krishna holds up the Syamantaka jewel for all his kinsmen to see, its light falling across their faces, while Akrura stands quietly at his side.",
+ "visual_elements": [
+  "Krishna holding the Syamantaka jewel aloft",
+  "Akrura standing at his side",
+  "the gathered Vrishni kinsmen",
+  "the assembly hall of Dwaraka",
+  "the jewel's light falling on every face",
+  "reconciliation and cleared suspicion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.57.26-40",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.39",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:16Z",
+  "source_event_id": "evt_0207"
+ },
+ "editorial_status": "unreviewed"
+}

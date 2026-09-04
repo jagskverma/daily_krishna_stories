@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0194",
+ "title": "The Choice Rukmini Made in Secret",
+ "subtitle": null,
+ "story": "After Krishna left Kundina, the kings who had ridden to the swayamvara — the ceremony in which Rukmini, the princess of the house, was to have chosen a husband — gathered one last time in the hall of Bhishmaka, Rukmini's father and king of Kundina, eager to be on the road home. Bhishmaka, who knew the laws of right conduct as well as any king alive, stood before them and asked their forgiveness. \"You all know the misfortune that has fallen on this swayamvara,\" he said. \"Forgive me for what has grown out of my own wrongdoing.\"\n\nHe honored them, welcomed them, and sent them on their way — the monarchs of central India and the kings of the east, the west, and the north. Mighty chariot-warriors all, they returned his courtesy gladly and rode off relieved to leave a ceremony that had come to nothing. A few stayed behind with Bhishmaka — Jarasandha among them, and Sunitha, and Dantavakra, and the king of Soubha, and others of the Deccan — lingering as if they sensed that the mystery of Kundina was not finished yet.\n\nBut the true decision of that swayamvara was not being made in the assembly hall. It was being made in the women's quarters, where the princess at the center of everything had heard what the kings had not.\n\nRukmini had never set eyes on Krishna. She knew him only through what travelers said of him — his beauty, his courage, his kindness — reports that had reached Kundina from Mathura, where the young prince had made his name, and her heart had already answered them. Everything her brother Rukmi had planned — the invitations, the gathering of kings, the grand ceremony where she would walk in and choose — had been built on the idea that she was a prize to be won. But standing in the shadow of that enormous plan was a girl who had already chosen for herself, and her choice ran with her father's secret hope and with the will of the gods: Krishna.\n\nNow she went to her friends with her face bent down — not the shame of wrongdoing, but the burning shyness of a girl confessing a feeling too large to keep inside. The wise and gentle Rukmini, whom the kings of the earth had come to court, stood among the women who had grown up beside her and spoke the plainest words she had ever spoken.\n\n\"I tell you truly,\" she said, \"I will not be the wife of anyone but Krishna, whose eyes are like lotuses.\"\n\nThat was all. She did not argue, did not explain, did not defend herself. She had heard of the one man in the world, and every other suitor who had ridden into Kundina for her sake had become, in that single moment, impossible. Her friends heard the quiet certainty in her voice and knew there was nothing to say against it. The princess who had drawn half the kings of the earth would stand before none of them and place a garland on his neck, because her choice was made — and it was made in the only way such a choice can truly be made: by herself, in secret, with no ceremony to help her.\n\nThe swayamvara her brother had announced across the land would be held or it would not; the kings would come or they would not; none of it mattered now. What mattered was that Rukmini had chosen, and the one she had chosen was Krishna. Whatever her brother arranged and whatever the kings demanded, the bride had already decided — and a bride's decision, made like this, no assembly of kings could undo.\n\nIn the quiet of the women's quarters, with the evening settling over Kundina, Rukmini sat among her friends and held her secret close. To the city outside, nothing had changed. To her, everything had.",
+ "reflection": "The story turns on the contrast between the public machinery of the swayamvara and a private word spoken among friends: all the kings, invitations, and ceremonies are scaffolding around a choice that Rukmini makes alone, for herself. Her shyness is not hesitation — the certainty is already complete before she speaks it aloud.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Rukmini",
+  "Krishna",
+  "Bhishmaka"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "love",
+  "determination",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0193",
+ "next_story_id": "DKS_0195",
+ "next_story_tease": "What Rukmini declared in the women's quarters, Krishna would answer with a chariot before the eyes of the assembled kings.",
+ "hero_scene": "Rukmini among her friends in the women's quarters of Kundina, her face bent down in shyness as she confesses that she will accept no husband but the lotus-eyed Krishna, evening light falling through the lattice onto the circle of young women.",
+ "visual_elements": [
+  "Rukmini with bent head",
+  "her friends gathered around her",
+  "the women's quarters of Kundina",
+  "evening light through lattice windows",
+  "the distant assembly hall implied beyond the walls"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.109",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:11Z",
+  "source_event_id": "evt_0186",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

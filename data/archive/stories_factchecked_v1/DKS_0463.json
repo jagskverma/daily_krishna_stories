@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0463",
+ "title": "The Name of Bhishma's Slayer",
+ "subtitle": null,
+ "story": "The first day had taught Yudhishthira what war with Bhishma meant, and the lesson had nearly broken him.\n\nWhen the troops withdrew at evening, Duryodhana was filled with delight, for Bhishma had raged through the Pandava ranks like a storm. King Yudhishthira the Just came to Krishna with all his brothers and all the kings of his side, and his grief was plain on his face. He had seen his army burning, and he could not see how it would end.\n\nBehold, O Krishna, that mighty bowman Bhishma of terrible prowess, he said. He consumes my troops with his arrows like fire consuming dry grass. He licks up my army like a flame fed with clarified butter. My soldiers fly away, pierced and afflicted, and I cannot blame them. Enraged Yama himself might be vanquished, or Indra armed with the thunderbolt, Varuna with his noose, Kuvera with his mace, but the mighty car-warrior Bhishma of great energy cannot be vanquished. I am sinking in the fathomless ocean that is Bhishma, and there is no boat to carry me.\n\nHis voice grew heavier as he went on. Out of the weakness of my understanding, he said, having gotten Bhishma for a foe, I will retire into the woods. To live there is preferable to devoting these lords of earth to Death in the form of Bhishma. My brothers are pained and pierced with arrows for my sake, having given up sovereignty and happiness out of love for their eldest brother. During the remainder of my days I will practise the severest austerities. I will not cause these friends of mine to be slain.\n\nThen he looked at his own camp and found it wanting. Arjuna, he said, is an indifferent spectator in this battle. Only Bhima fights, remembering the duty of a Kshatriya, achieving the most difficult feats with his mace among foot-soldiers and steeds and cars and elephants, and even he cannot destroy the hostile host in fair fight in a century. Bhishma and Drona, their celestial weapons applied without rest, are consuming all the Kshatriyas. Tell me, O Krishna, without delay, what should be done. Look for that great bowman, that mighty car-warrior, who will give Bhishma his quietus, like rain-charged clouds quenching a forest conflagration. Then, through your grace, we may recover our kingdom and be happy with our kinsmen.\n\nAnd the son of Pandu, his heart afflicted, fell silent and remained so for a long while, his mind turned inward.\n\nKrishna looked at the king who had spoken of leaving the war, and he answered the grief before he answered the argument. Do not grieve, O chief of the Bharatas, he said. It does not behove you to grieve when your brothers are all heroes and renowned bowmen in the world. I am employed in doing you good, and so are the mighty car-warrior Satyaki, and Virata and Drupada, both reverend in years, and Dhrishtadyumna of Prishata's line. All these monarchs with their troops are devoted to you and expectant of your favour. Your commander, Dhrishtadyumna, is always desirous of your welfare.\n\nThen Krishna spoke the words that changed the king's night. And this Sikhandin, he said, O mighty-armed one, is certainly the slayer of Bhishma.\n\nThe name fell into the silence like a stone into still water. Sikhandin. The one warrior on earth appointed to bring the grandsire down. Krishna did not say how, or when, or by what means; he said only that it was so, and Yudhishthira, who had been ready to trade his crown for a hermit's bowl, felt the despair in his chest begin to ease. If Bhishma had a slayer, then the war had an end, and the end was not the annihilation he had seen all day.\n\nIn that very assembly, in the hearing of Vasudeva, the king turned to his commander. O Dhrishtadyumna, he said, mark these words that I say to you. My words should not be transgressed. Approved by Vasudeva, you have been the commander of our forces.\n\nAn hour before, he had been speaking of the woods. Now he was giving orders for the war. The despair had not vanished, but it had found its limit, and the king who had been sinking had been handed a boat.",
+ "reflection": "Yudhishthira's despair is the particular weight of leadership: he watches his brothers and allies burn for his sake and cannot bear to spend them. Krishna does not argue him out of his grief; he hands him a single fact, that Bhishma's fall has a name, and the fact is enough. Knowing that the end is already appointed, and that it will come through Sikhandin, is what lets the king sleep and stand again.",
+ "tradition_note": null,
+ "content_note": "Depicts the aftermath of a day of battle, with descriptions of an army being devastated by arrows; intense but not graphic.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Bhishma",
+  "Sikhandin"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "consolation",
+  "counsel",
+  "destiny"
+ ],
+ "previous_story_id": "DKS_0462",
+ "next_story_id": "DKS_0464",
+ "next_story_tease": "The next morning, Krishna would drive Arjuna's chariot straight at Bhishma.",
+ "hero_scene": "At nightfall on the field of Kurukshetra, Krishna stands before the grieving Yudhishthira, surrounded by his brothers, and speaks the name Sikhandin, the destined slayer of Bhishma, as the king's despair begins to lift.",
+ "visual_elements": [
+  "Yudhishthira bowed with grief, his brothers gathered around",
+  "Krishna speaking with quiet assurance before the king",
+  "the battlefield at dusk, the troops withdrawn",
+  "Bhishma in the distance, a figure of terrible power",
+  "the king's face changing as he hears the name Sikhandin",
+  "Yudhishthira turning to address Dhrishtadyumna"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.50",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:10Z",
+  "source_event_id": "evt_0487"
+ },
+ "editorial_status": "unreviewed"
+}

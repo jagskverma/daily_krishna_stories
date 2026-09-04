@@ -1,0 +1,42 @@
+# STORY DKS_0275 — Nanda Is Swallowed by a Serpent and Freed
+
+## Index entry
+title: Nanda Is Swallowed by a Serpent and Freed
+summary: A great serpent swallows Nanda as he sleeps; Krishna's touch frees the cursed Vidyadhara Sudarshana.
+life_stage: vrindavan | story_arc: dwaraka_royal_life
+characters: Nanda, Krishna, Sudarshana
+locations: Ambika forest
+themes: curse, liberation
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0106
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 34 | verses 4-18 | confidence 5
+  excerpt: As the cowherds slept in Ambika's forest, a great hungry serpent swallowed Nanda; the cowherds struck it with firebrands in vain, but when Krishna touched it with his foot it became Sudarshana the Vidyadhara, freed from a sage's curse, and Nanda was released. (rendered from Sanskrit, verses 4-17)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.34 (4-18)
+4. kaścin mahān ahis tasmin vipine 'ti-bubhukṣitaḥ /
+5. sa cukrośāhinā grastaḥ kṛṣṇa kṛṣṇa mahān ayam /
+6. tasya cākranditaṃ śrutvā gopālāḥ sahasotthitāḥ /
+7. alātair dahyamāno 'pi nāmuñcat tam uraṅgamaḥ /
+8. sa vai bhagavataḥ śrīmat pāda-sparśa-hatāśubhaḥ /
+9. tam apṛcchad dhṛṣīkeśaḥ praṇataṃ samavasthitam /
+10. ko bhavān parayā lakṣmyā rocate 'dbhuta-darśanaḥ /
+11. bhp_10.34.012/0 sarpa uvāca
+12. ṛṣīn virūpāṅgirasaḥ prāhasaṃ rūpa-darpitaḥ /
+13. śāpo me 'nugrahāyaiva kṛtas taiḥ karuṇātmabhiḥ /
+14. taṃ tvāhaṃ bhava-bhītānāṃ prapannānāṃ bhayāpaham /
+15. prapanno 'smi mahā-yogin mahā-puruṣa sat-pate /
+16. brahma-daṇḍād vimukto 'haṃ sadyas te 'cyuta darśanāt /
+17. ity anujñāpya dāśārhaṃ parikramyābhivandya ca /
+18. niśāmya kṛṣṇasya tad ātma-vaibhavaṃ $ vrajaukaso vismita-cetasas tataḥ &amp;samāpya tasmin niyamaṃ punar vrajaṃ % ṇṛpāyayus tat kathayanta ādṛtāḥ
+
+## Corpus chain
+previous_story_id: DKS_0274 | next_story_id: DKS_0276
+previous title: Krishna Seizes His Discus and Charges Bhishma
+next title: The Weaver and Sudama (Flower-Seller) Honor Krishna

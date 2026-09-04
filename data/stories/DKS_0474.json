@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0474",
+ "title": "The Deaths Krishna Arranged",
+ "subtitle": "How Jarasandha, Ekalavya, and Sisupala fell",
+ "story": "The Pandava army was fleeing through the night when Krishna, in the chariot with Arjuna, answered what had been pressing on his friend. \"How, Krishna,\" Arjuna asked, \"were those lords of the earth — Jarasandha, the emperor of Magadha, and the others — slain, and by what means, and for our good?\"\n\nHad Jarasandha, the king of the Chedis, and the mighty son of the Nishada king not fallen, they would have become terrible. Duryodhana would certainly have chosen them — they had always hated the Pandavas — and all three would have joined the Kauravas. Heroes and mighty bowmen every one, they would have guarded Dhritarashtra's sons — Duryodhana and his hundred brothers — as the gods guard their own; with Karna beside them they could have conquered the whole earth.\n\n\"Listen, Arjuna,\" Krishna said, \"to the means by which they were slain. Without such means the very gods could not have conquered them in battle; each of them could fight the whole host of heaven, guarded by the gods who watch over the world.\"\n\nJarasandha first. Once, hard pressed by Balarama, Jarasandha had hurled a mace that could have slain every creature on earth — blazing like fire, driven with the force of Indra's thunderbolt. Balarama met it with the great weapon called Sthunakarna, and the mace, its force destroyed, fell to the earth and split the ground open, making the very mountains tremble. In that blow the demoness Jara fell too, with her son and her kinsmen — the same Jara who, long ago, had joined the two halves of the child and given him his name. Deprived of his mace, Jarasandha was afterwards slain by Bhima, in Arjuna's own presence. \"If the valiant Jarasandha had stood armed with his mace,\" Krishna said, \"the very gods, with Indra at their head, could not have slain him in battle.\"\n\nThen the son of the Nishada king: Ekalavya. His skill could not be baffled, for Drona had taken his thumb by a trick, claiming the rights of the teacher Ekalavya honored as his own. Proud and steady, his fingers cased in leathern gloves, he shone like a second Rama. With his thumb he could not have been vanquished by gods, demons, ogres, and serpents together — he could shoot day and night, and no mere man could even look at him. \"For your good,\" Krishna said simply, \"I slew him on the field of battle.\"\n\nAnd the king of the Chedis, Sisupala — he too could not have been vanquished by gods and demons together, and Krishna slew him before Arjuna's own eyes. \"I was born to slay him,\" Krishna said, \"as I was born to slay the other enemies of the gods, with your assistance, from the wish to do good to the world.\"\n\nThen Krishna widened his account until it took in the whole war. Hidimva, Vaka, and Kirmira — demons of might equal to Ravana's, destroyers of priests and of sacrifices — had all been slain by Bhima. Alayudha, master of great illusions, had been slain by Hidimva's son. And Hidimva's son himself — Ghatotkacha, whose body still lay on the field — Krishna had slain by means, through Karna and his dart. \"If Karna had not slain him with his dart in the great battle,\" he said, \"I myself would have had to slay Bhima's son. From the wish to do you good, I did not slay him before.\" Enemy of priests and of sacrifices, destroyer of the sacred rites, of sinful soul, he was slain — and by that same act the dart Indra had given Karna was rendered futile.\n\n\"They that are destroyers of righteousness are all slayable by me,\" Krishna said. \"That is the vow I made, for the establishing of righteousness. Wherever the Vedas and truth and self-restraint and purity and righteousness and modesty and prosperity and wisdom and forgiveness are to be met with, there I myself always remain.\"\n\nThen he turned back to the war before them. \"Do not be anxious about the slaughter of Karna,\" he said; \"I will tell you the means by which you will slay him, and Vrikodara — Bhima, the Wolf-Belly — will bring down Suyodhana, Duryodhana himself.\" But the uproar of the enemy army was growing, and troops were flying away on every side. What needed saying had been said, and the chariot had to move again.",
+ "reflection": "Krishna's list of slain kings is also an account of his own vow: he stands wherever righteousness stands, and he will use any means — guile, a preceptor's ruse, a Rakshasa's dart — to clear the field for it. The hardest sentence is the quietest: Ghatotkacha's death was never an accident of war but a price Krishna had already agreed to pay.",
+ "tradition_note": "The epic's account of Ekalavya's end — a thumb taken by Drona's guile and death on the battlefield — differs from later folk retellings; this story follows the Mahabharata as excerpted in the evidence pack.",
+ "content_note": "Recounts the deaths of several kings and Rakshasas, all described without graphic detail; one episode involves a thumb cut off by guile.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Jarasandha",
+  "Ekalavya",
+  "Sisupala",
+  "Ghatotkacha"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "divine plan",
+  "protection of dharma",
+  "past deeds"
+ ],
+ "previous_story_id": "DKS_0473",
+ "next_story_id": "DKS_0475",
+ "next_story_tease": "Then Krishna spoke of a protection Arjuna had never known he had.",
+ "hero_scene": "In the chariot on the night battlefield, Krishna speaks with his hand raised while Arjuna listens, and behind them — wraith-like — the forms of Jarasandha, Ekalavya, and Sisupala fall one by one like struck kings on a hidden board.",
+ "visual_elements": [
+  "Krishna and Arjuna seated in the chariot, speaking",
+  "the fallen Ghatotkacha on the field beyond",
+  "Jarasandha's great mace splitting the earth as Balarama's weapon meets it",
+  "Ekalavya with his fingers cased in leathern gloves",
+  "Sisupala falling before Krishna's raised discus",
+  "the fleeing troops and growing uproar around the chariot"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.181",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T20:10:00Z",
+  "source_event_id": "evt_0468",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

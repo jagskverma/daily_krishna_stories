@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0216",
+ "title": "Satadhanva Murders Satrajit for the Jewel",
+ "subtitle": null,
+ "story": "Krishna was away from Dwaraka, visiting the elders of the Kuru court in Hastinapura, when the plan was made. In his absence two men of the city found their moment — Akrura and Kritavarma, who had watched Satrajit's fortunes rise with the Syamantaka and had never forgiven him for it. Akrura had long wished for Satyabhama herself, and once the jewel came to Satrajit's keeping he had begun to desire that as well; the beautiful daughter and the brilliant stone, he felt, had both been denied him unfairly. Satrajit had broken his word to them, they claimed; he had promised them a jewel among women and then scorned them, and now the Syamantaka hung around his neck while they went without. Envy, in Dwaraka, had learned to dress itself as a broken promise.\n\nThey did not act with their own hands. They found Satadhanva, of the Bhoja line, a man of strength and little conscience, and they put the thought into him as one sharpens a blade and hands it over. Satrajit had broken his word, they said; the jewel should be seized; the deed would be easy, and the reward beyond price. Satadhanva listened. He was a man who had always wanted what belonged to others, and the Syamantaka was the most beautiful thing in Dwaraka.\n\nThat night, while the city slept, he crept into Satrajit's house. He slew the sleeping Satrajit, took the jewel from its place, and was gone before the household could gather itself. The women of the house cried out into the empty dark like orphans, their wailing swallowed by the stillness of the night, but the deed was done. The city's wealthiest man lay dead, and the Syamantaka had changed hands for the second time.\n\nSatadhanva did not keep the jewel for himself. He carried it to Akrura — the man who had always wished for Satyabhama and had long desired the jewel as well — and Akrura received the Syamantaka as his due. But he was a cautious man. He made Satadhanva swear he would never reveal where the jewel had gone, and he promised in return: \"If Krishna attacks you, I will follow you. The whole of Dwaraka is now under my control.\" So the oath bound the two of them together — the murderer and the man who had set him on, each holding the other's secret, each believing himself the cleverer.\n\nThrough the long night the Syamantaka lay hidden in Akrura's keeping, and in Satrajit's house the women wept. By morning the theft was known and the murderer was not — the jewel had simply vanished with the life it had cost. Only two men in Dwaraka knew where it was, and they had sworn to carry the secret to their graves.\n\nBut the house they had robbed was not empty. Satrajit had a daughter, and she was already making ready for the road.",
+ "reflection": "The murder is dressed in grievance — a broken promise, a seized prize — but underneath it is simple greed: Akrura wanted what Satrajit had, and Satadhanva was willing to take it for him. The jewel that had raised Satrajit's fortunes drew the blade that ended them; nothing about the Syamantaka ever stayed neutral.",
+ "tradition_note": null,
+ "content_note": "Satrajit is murdered in his sleep; the violence is described with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Satadhanva",
+  "Satrajit",
+  "Akrura",
+  "Kritavarma"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Hastinapura"
+ ],
+ "themes": [
+  "greed",
+  "murder",
+  "betrayal"
+ ],
+ "previous_story_id": "DKS_0215",
+ "next_story_id": "DKS_0217",
+ "next_story_tease": "Satyabhama would find her father before the city did — and her grief would carry the truth to Krishna.",
+ "hero_scene": "At dead of night, Satadhanva moving through the dark house of Satrajit with the Syamantaka in his hand, the city asleep outside and the deed already done.",
+ "visual_elements": [
+  "the sleeping city of Dwaraka at night",
+  "Satadhanva creeping through the dark house",
+  "the Syamantaka jewel in Satadhanva's hand",
+  "the women of the household crying out",
+  "Akrura receiving the jewel and the oath",
+  "the first grey light of morning"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.57.1-5",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.39",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:15Z",
+  "source_event_id": "evt_0205"
+ },
+ "editorial_status": "unreviewed"
+}

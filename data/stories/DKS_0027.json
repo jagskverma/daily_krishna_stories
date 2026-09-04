@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0027",
+ "title": "The Whirlwind That Stole a Child",
+ "subtitle": null,
+ "story": "On an afternoon in Gokula, Yasoda sat with her son Krishna on her lap, dandling him and looking into his face, the way a mother does when there is nothing to do but be glad of her child. The village hummed around her — cows lowing in their pens, women calling to one another down the lanes. Nothing in the clear air warned her of what was coming.\n\nThen, without warning, the child grew heavy in her arms. She felt it plainly: the small body pressing down on her as though its weight had doubled, so heavy that she could hardly hold him. Astonished, she set him on the ground to see what it could mean.\n\nBefore she could think further, the air changed.\n\nA wind came tearing through the lanes of Gokula — a dry, violent wind that lifted the dust of the earth and set it spinning in a harsh wheel of grit. This was no ordinary storm. This was Trinavarta, a demon in the service of Kamsa, the king of Mathura who had sworn that this child would not live, come in the shape of a whirlwind to do the work his master had set him. He came the way such servants come: no face to remember, no warning to give, nothing but wind and dust worn like a body. The spinning grit filled the whole settlement, stealing the light and the sight of everyone in it.\n\nFor a long moment Gokula went dark. No one could see the person beside them, or even their own hand before their face. The wind tore at the thatch; the cattle lowed in panic; and the darkness itself seemed to move, spinning where the storm stood. Cowherds stumbled and called out, and mothers reached into the brown air for children they could not see, their voices thin with fright — confusion everywhere, and a fear with no shape to it.\n\nWhen the dust began to settle, Yasoda looked for her son. He was gone.\n\nFor a moment she did not move. He had been in her arms only moments before; she could still feel the weight of him. But the ground where she had set him down was empty, and she stood looking at it, unwilling to believe what her eyes told her.\n\nShe searched the spot, and the ground was bare. She searched for any trace he might have left, but the wind had scoured the earth clean. She called his name, and the sound was lost in the settling dust. She looked this way and that through the thinning haze and found nothing, for the whirlwind was already receding, carrying with it the child she had held a moment before. The women of Gokula, hearing her cry, came running with tears on their faces, for the village's dearest child had been taken, and no one could say where the storm had gone.\n\nHigh above the blinded village, the whirlwind climbed with its small burden — a demon carrying off a child who, moments earlier, had been too heavy for his own mother to hold, rising to do the errand Kamsa had sent him on.",
+ "reflection": "The detail that the child suddenly felt heavy in Yasoda's arms, just before the whirlwind came, is quietly ominous: the thing that will undo Trinavarta is already present in the very weight that surprised his mother.",
+ "tradition_note": null,
+ "content_note": "A demon snatches an infant away in a blinding whirlwind; the episode is brief and ends on the moment of loss.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Trinavarta",
+  "Krishna",
+  "Yasoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "danger",
+  "separation"
+ ],
+ "previous_story_id": "DKS_0026",
+ "next_story_id": "DKS_0028",
+ "next_story_tease": "But the whirlwind had not counted on the weight of the child it carried.",
+ "hero_scene": "A towering whirlwind of dust and grit sweeps through the lanes of Gokula, blinding everything, while Yasoda reaches through the choking brown air toward the spot where her child had been.",
+ "visual_elements": [
+  "Yasoda dandling the infant",
+  "a sudden, violent whirlwind of dust",
+  "darkness falling over Gokula",
+  "cowherds groping blindly",
+  "the empty ground where the child had lain",
+  "weeping gopis",
+  "mood of dread and confusion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.7.17-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:22:55+05:30",
+  "source_event_id": "evt_0041",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

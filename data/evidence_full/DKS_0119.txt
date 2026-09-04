@@ -1,0 +1,33 @@
+# STORY DKS_0119 — Nanda Departs for Vraja
+
+## Index entry
+title: Nanda Departs for Vraja
+summary: Krishna embraces Nanda, bids him return to Vraja, and Nanda departs in tears with the cowherds.
+life_stage: mathura | story_arc: akrura_and_departure
+characters: Krishna, Nanda
+locations: Mathura
+themes: farewell, love
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0151
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 45 | verses 19-24 | confidence 5
+  excerpt: Krishna embraced Nanda, told him to return to Vraja, and promised to come and see his kinsfolk; and Nanda, his eyes full of tears, departed with the cowherds. (rendered from Sanskrit, verses 19-24)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.45 (19-24)
+19. atha nandaṃ samasādya bhagavān devakī-sutaḥ /
+20. pitar yuvābhyāṃ snigdhābhyāṃ poṣitau lālitau bhṛśam /
+21. sa pitā sā ca jananī yau puṣṇītāṃ sva-putra-vat /
+22. yāta yūyaṃ vrajaṃn tāta vayaṃ ca sneha-duḥkhitān /
+23. evaṃ sāntvayya bhagavān nandaṃ sa-vrajam acyutaḥ /
+24. ity uktas tau pariṣvajya nandaḥ praṇaya-vihvalaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0118 | next_story_id: DKS_0120
+previous title: Akrura Reports to Kamsa
+next title: Kamsa Orders the Gopas Expelled and Vasudeva Punished

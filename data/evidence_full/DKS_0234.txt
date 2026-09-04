@@ -1,0 +1,101 @@
+# STORY DKS_0234 — Satyabhama's Punyaka Rite and the Gift to Narada || Satyabhama binds Krishna to the Parijata, dedicates him to the sage Narada, and gifts gold, kine and jewels; Narada releases him for a fee, and Satyabhama distributes celestial garments to the sixteen thousand wives.
+
+## Index entry
+title: Satyabhama's Punyaka Rite and the Gift to Narada || Satyabhama binds Krishna to the Parijata, dedicates him to the sage Narada, and gifts gold, kine and jewels; Narada releases him for a fee, and Satyabhama distributes celestial garments to the sixteen thousand wives.
+summary: Satyabhama binds Krishna to the Parijata, dedicates him to the sage Narada, and gifts gold, kine and jewels; Narada releases him for a fee, and Satyabhama distributes celestial garments to the sixteen thousand wives.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Satyabhama, Krishna, Narada
+locations: Dwarka
+themes: rite, generosity, playful devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0304
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 223 | verses  | confidence 4
+  excerpt: the lucky damsel, having put a garland of flowers around Krishna's neck, bound him to the Pārijāta tree... she dedicated Keshava unto Nārada... she gave away... mountains of gold and a thousand kine
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.223 ()
+TITLE: SATYA PERFORM THE RITE
+
+Vaishampāyana said:—O descendant of Kuru, as soon as he was thought of
+by Krishna, that foremost of Munis and speakers, Nārada, having
+asceticism for his wealth, arrived there (1), O king, having worshipped
+him duly, the beautiful lord of Sree invited him reverentially to accept
+the Punyaka ceremonies (2). O descendant of Bharata, thereupon when the
+appointed hour came, the eternal Vāsudeva, the creator of all creatures,
+along with the beloved Satyā, delightedly worshipped the great Muni
+Nārada, who had been well bathed, with scents and garlands and fed him
+(3–4). Thereupon the lucky damsel, having a put garland of flowers,
+around Krishna’s neck, bound him to the Pārijāta tree (5). Afterwards
+obtaining his permission she dedicated Keshava unto Nārada. Then she
+gave away sessamum seeds illumined with the lustre of jems and jewels,
+gold mixed with rice and other plants, mountains of gold and a thousand
+kine (6–7).
+
+Having accepted all those articles the Muni Narada, the foremost of
+speakers, delightedly said to Keshava:—"O Keshava, given by Satya
+together with water thou hast become mine. Do thou follow me and do what
+I say." Hearing it Janārddana said "This is the first stage" and began
+to follow Nārada who was about to go (8–10). Having thus cut various
+jokes and saying "do thou wait here, I shall go" that foremost of Munis,
+always clever in cutting jokes, took away (from Krishna’s neck) the
+garland of flowers and said: "In order to release thyself do thou give
+me a Kapilā cow with a calf and the skin of a black antelope full of
+sessamum seeds and gold. This means of release has been laid down by the
+god (Siva) having a bull for his emblem" (11—13). O king, Janārddana
+said "So be it" and offered him the same fee of release. And then
+smilingly he said to that foremost of Munis Nārada:—"O Nārada, O you
+conversant with religion, I have been greatly pleased with you. Pray for
+a desired-for boon and I will grant it" (14–15).
+
+Narada said:—"O thou eternal and great Vishnu, may thou always remain
+pleased with me and may I, with thy favour, obtain habitation with thee
+(16). O Vishnu the refuge of the pious, if I am to take birth again may
+I be born of no woman and be a Brāhmana" (17).
+
+O descendant of Bharata, the Lord Vishnu said "So it will be" and the
+highly intelligent Muni Nārada too was pleased (18). O Kuru Emperor,
+Satyabhāmā, the beloved wife of Hari, had invited on the occasion of the
+Punyaka ceremony, the sixteen thousand wives of the highly powerful
+Vishnu. And at the termination of the ceremony she distributed amongst
+them all those celestial raiments and ornaments which Sachi had
+previously given to Vāsudeva (19–20). Living there, Pārijāta, at the
+command of Vāsudeva, began to display its own accomplishments. And
+invited by the high-souled Nārada and Keshava all their friends and
+relations began to witness the power of Pārijāta (21–22). On the
+occasion of that great festival the highly powerful Hari had brought
+there the Pandavas along with Prithā, Draupadi, and Subhadrā. O Kuru
+king, Shrutasravā, with her son, Bhishmaka with his son and other
+friends and relations were also brought there (23–24). O king, in this
+way, the highly energetic Janārddana, along with Pritha’s son Arjuna,
+began to spend his time happily in the company of the ladies of his
+seraglio (25). In this way after a year had elapsed the highly powerful
+Keshava, of incomparable prowess and intelligence, the foremost of
+immortals and the preserver of all, returned with Pārijāta to the city
+of the celestials and saluted Sakra, Aditi, and Kashyapa (26-27). After
+the slayer of Madhu had bowed unto the mother Aditi she said:—"O
+foremost of immortals, may you both always entertain such a brotherly
+feeling. O Janārddana, you are to satisfy this desire of mine." Hearing
+it the intelligent Keshava said to his mother. "It shall be so" (28-29).
+Thereupon having honored his parents the highly energetic Vāsudeva
+addressed to the king of gods, the following words suited to the
+occasion (30). "O king of gods, O giver of honor, I have been commanded
+by the high-souled Siva, to destroy all the unslayable Dānavas living on
+earth. From to-day within ten days I will kill all those Asuras. O king
+of gods, at the time of that battle, Pravara, together with the heroic
+Jayanta, shall have to wait in the sky for slaying those Dānavas. Of
+them one is a god in a human form and the other is the son of a god
+(31–33). Although those Dānavas, proud of the boon conferred on them by
+Brahmā, are unslayable by the gods, still we will kill them for I am now
+a man (34)." Then Indra, pleased, said to Krishna "So it will be." And
+then, O Janamejaya, they embraced each other (35).
+
+## Corpus chain
+previous_story_id: DKS_0233 | next_story_id: DKS_0235
+previous title: Kashyapa and Aditi Reconcile Krishna and Indra || Sent by Brahma, the parents Kashyapa and Aditi halt the battle, and the two 'brothers' lay down their arms, bathe in the Jahnvi, and are reconciled.
+next title: Krishna Returns the Parijata and Vows to Destroy the Danavas || After a year of festival, Krishna returns the Parijata to heaven, and before Indra vows to slay, within ten days, the Danavas that the gods cannot kill.

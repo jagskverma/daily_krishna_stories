@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0245",
+ "title": "A Father's Warning, a Son's March",
+ "subtitle": null,
+ "story": "The great sacrifice of Kashyapa was over, and the gods and demons had returned to their own worlds — all but one. Vajranabha, the lord of the unbreachable city of Vajra, had decided that the three worlds belonged to him, and he had gone home to prepare for war. He came to his father Kashyapa expecting a blessing — and received a warning instead.\n\n'Indra, the king of heaven, is the eldest of you all,' said Kashyapa, 'and the foremost in accomplishments. He is mighty through his own penance, devoted to the learned and the holy, the king of the whole world and the refuge of the good. He holds his sovereignty because he works for the well-being of all creatures. You will not vanquish him, Vajranabha — you yourself will be killed, as surely as a man who rouses a serpent's anger meets his own end.'\n\nVajranabha heard the words as a man in love with death hears a physician's warning — and refused the remedy. He saluted Kashyapa, turned away, and began to gather his kinsmen, his warriors, his friends. He would conquer the three worlds — and he would begin with heaven itself.\n\nBut the gods were already ahead of him. Indra and Krishna had sent the swans — the celestial birds, children of Kashyapa and brothers of the gods — to bring about Vajranabha's destruction. When the swans carried word that the demon was marching on heaven, the Yadava heroes held a worried council in the city of Vajra, where they waited with their wives. 'Vajranabha will be killed by Pradyumna,' they said. 'But his daughter is Pradyumna's wife, and Sunabha's daughters are wives of our heroes — all with child, their time near. What are we to do?'\n\nThey sent the swans back to Indra and Krishna with the question, and the gods answered with a promise: 'Do not fear. You will have beautiful sons, as gifted as Kama, the god of love himself — even in the womb they will master the sacred scriptures — and your sons will grow to youth at once, masters of every art and every scripture.'\n\nThe swans carried the promise to the city of Vajra. There Prabhavati bore Pradyumna a son, omniscient and youthful like his father; a month later Chandravati bore Chandraprabha, who resembled Gada; and Gunavati bore Gunavan — all youthful, omniscient, wonderful. The boys mastered every scripture as they grew and played freely on the palace turrets, where the demons on watch in the sky saw them — shown to them by the very wish of Indra and Krishna.\n\nThe watchers carried the news at once to Vajranabha, who was making ready to conquer heaven. 'Arrest them!' cried the demon king. 'They have trespassed into my house!' Soldiers ringed the quarters, and cries rose on every side: 'Seize them! Kill them!' The mothers, who loved their sons, began to weep.\n\nPradyumna stood firm among them. 'So long as we are alive and steady, you need not fear. The demons will not be able to touch us.' Then he turned to the bewildered Prabhavati. 'Your father and uncles and brothers wait outside with clubs in their hands, and for your sake they deserve our respect and honour — but the time is dreadful. If we endure this, we die; if we fight, we succeed. Consult your two sisters, and tell us what we should do, for we are under your orders.'\n\nPrabhavati knelt, her hands on her forehead, weeping. 'Take up your arms and protect yourself. If you survive, you will see your wife and your sons. Remember the noble Rukmini, your mother, and your young son Aniruddha, and save yourself. A great sage gave me a boon — that I would lead a blameless life, never be a widow, and my sons would live — and I hope his words will not fail.' She rinsed her mouth, and placed a sword in her husband's hands.\n\nBeyond the city, the armies of Vajranabha were gathering for the march on heaven. Within it, a woman who carried a sage's promise had armed her husband for the war that would test it.",
+ "reflection": "Kashyapa's warning is not a threat but an account of how sovereignty actually works: Indra rules because he serves the well-being of all creatures, not because he is the strongest. Vajranabha hears only the prophecy of death and marches toward it. Set against his pride is Prabhavati, a daughter of the enemy who arms her Yadava husband on the strength of a rishi's word — boon against boon, promise against promise.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Vajranabha",
+  "Kashyapa",
+  "Indra",
+  "Pradyumna",
+  "Prabhavati"
+ ],
+ "locations": [
+  "Kashyapa's sacrifice",
+  "City Vajra"
+ ],
+ "themes": [
+  "defiance",
+  "warning",
+  "ambition"
+ ],
+ "previous_story_id": "DKS_0244",
+ "next_story_id": "DKS_0246",
+ "next_story_tease": "Meanwhile Dwaraka was preparing a different kind of return — one that would bring the parijata tree and the captive maidens of Naraka's house back to Krishna's city.",
+ "hero_scene": "In the lamplit city of Vajra, Prabhavati kneels weeping and places a sword in Pradyumna's hands, while behind them the Yadava mothers shelter their newborn sons and beyond the walls Vajranabha's armies gather.",
+ "visual_elements": [
+  "Prabhavati kneeling and handing a sword to Pradyumna",
+  "the weeping mothers with their newborn sons",
+  "the omniscient Yadu boys on the palace turrets",
+  "Vajranabha giving orders among his warriors",
+  "the swans of Indra flying overhead",
+  "the walls and towers of the city Vajra",
+  "foreboding and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.243",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:13Z",
+  "source_event_id": "evt_0324",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

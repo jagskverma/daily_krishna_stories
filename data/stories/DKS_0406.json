@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0406",
+ "title": "Krishna Slays Dantavakra and Viduratha",
+ "subtitle": null,
+ "story": "Krishna was on the road home from the war with Shalva, the dust of one victory still settling, when the road began to shake. The men who rode with him looked up and saw a single figure striding toward them on foot.\n\nDwaraka's walls were still a day's march ahead, and the road was empty except for the returning war-party and this one man. It was Dantavakra — kin to the slain Shishupala, friend of the slain Shalva, and king of Karusha. The news of both deaths had reached him, and he had taken up his mace and walked out to settle the debt himself, alone and on foot, the grudge in his hand.\n\nKrishna saw him coming and knew what the day would be. He took up his own great mace, Kaumodaki, and waited.\n\nDantavakra came on, and the ground trembled under his steps. Rage had made him careless of everything — no chariot, no army, no counsel, only the mace and the debt. He was one of those warriors the world had learned to fear, the kind of man who keeps his friendships with a weapon, and the weapon he carried had never once failed him. When he was close enough to be heard, he raised it and shouted at Krishna.\n\n'You are our own cousin, Krishna,' he called, 'and yet you turn on your own kin! You are the betrayer of friends. You killed Shishupala at his own kinsmen's sacrifice; you killed Shalva in the ruin of his city. Do you think I will let that stand? I owe my friends a debt, and I am kind to my friends — I have come to pay it with your head.'\n\nThe words were as harsh as goads on an elephant, and Krishna heard them all and answered nothing. Dantavakra came within reach, and for a moment the two stood facing each other — the mace-man and the chariot-lord — while the dust settled around them. Then Dantavakra swung.\n\nThe mace came down on Krishna's head with all the weight of that huge body behind it, a blow that would have felled a fortress wall. Krishna did not move. Struck in the very press of the fight, he did not stir, as though the blow had fallen on a mountain.\n\nThen Kaumodaki answered. Krishna's mace struck Dantavakra square in the chest and crushed it. The king of Karusha staggered, his mouth filling with blood, and fell — and as he fell, those who watched saw a wonder: a subtle light rose out of him and passed into Krishna, a thing too fine for the eye to hold, gone before anyone could say what it was.\n\nBefore the field could draw breath, Viduratha came rushing onto the road — Dantavakra's brother, his heart drowned in grief for the brother he had just lost. He had no plan and no weapon to match the moment, only rage and sorrow. Krishna met him with the razor-edged discus and took his crowned head.\n\nThe road was quiet. Two brothers lay where they had fallen, and the vengeance they had come to take had ended as vengeance so often does — in two graves instead of one. The men who rode with Krishna gathered in silence, and no one spoke of victory. They would speak for years, though, of the light they had seen leave the fallen king, and none of them could say what it was.\n\nThen Krishna turned his chariot toward Dwaraka, and the dust settled behind him.",
+ "reflection": "The text passes over the violence to dwell on one detail: a subtle light leaving Dantavakra and entering Krishna. It is the strangest moment in the scene, and the most tender — the enemy who had walked out to kill his cousin returning, at the last, into the one he fought, as if the long feud had been a homecoming all along.",
+ "tradition_note": null,
+ "content_note": "Mild violence: Dantavakra's chest is crushed and Viduratha is beheaded; described without gore.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Dantavakra",
+  "Viduratha"
+ ],
+ "locations": [
+  "near Dwaraka"
+ ],
+ "themes": [
+  "revenge",
+  "combat",
+  "divine justice"
+ ],
+ "previous_story_id": "DKS_0405",
+ "next_story_id": "DKS_0407",
+ "next_story_tease": "Far away in Hastinapura, a game of dice was about to put a queen in the hands of her enemies.",
+ "hero_scene": "Struck on the head by Dantavakra's mace, Krishna stands unshaken on the road, his own mace Kaumodaki crashing into Dantavakra's chest as a subtle light streams from the falling king into Krishna, while Viduratha rushes in behind.",
+ "visual_elements": [
+  "Dantavakra approaching alone on foot, mace raised, the ground trembling",
+  "Krishna waiting calmly, Kaumodaki in hand",
+  "Dantavakra's mace striking Krishna's head without moving him",
+  "Krishna's mace crushing Dantavakra's chest as blood pours from his mouth",
+  "the subtle light rising from the fallen Dantavakra and entering Krishna",
+  "Viduratha rushing forward and Krishna's razor-edged discus taking his crowned head"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.78.1-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:15:00Z",
+  "source_event_id": "evt_0271",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

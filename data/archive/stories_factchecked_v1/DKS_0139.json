@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0139",
+ "title": "Krishna and Balarama Slay the Wrestlers",
+ "subtitle": null,
+ "story": "Kamsa had called the brothers to Mathura for a festival of arms, meaning all along to destroy them, and now, in the great arena before a packed assembly, he set his champions against them. Chanura and Mushtika were not ordinary men. They were grown wrestlers, hardened in every limb, and the two who stood opposite them were boys, barely arrived in the city, their faces soft and their eyes bright. The crowd saw the mismatch the moment it was announced. There was nothing festive about it; everyone in that arena understood what the king intended, and no one dared say it aloud until the match was under way.\n\nThe match began. Hand to hand and foot to foot they gripped, elbow to elbow and knee to knee. They whirled and threw and grappled, lifted and shook and dropped, rose and circled and set again, each reading the other's strength. It was, the verses say, a contest of equal against equal in skill, but the bodies could not have been more unequal. The women of the assembly could not keep silent. \"What injustice is this,\" they cried to the royal court, \"for these honored ones? The wrestlers are hard as diamond in every limb, like mountains — and look at the faces of these two boys. Do you not see Krishna's lotus face as he moves about his enemy, and Balarama's eyes gone red? Fortunate indeed is the land of Vraja, where such boys grew up tending cows and playing the flute with garlands of wild flowers in their hair. What penance did the gopis of that place perform, that they may drink in such a face each day — at the morning milking and the churning and the sweeping, at dawn when the herd goes out and at dusk when it comes home again, when they run out to the road to see that smiling face and its compassionate glance?\" But the fight went on, for the king had willed it, and the two wrestlers, hearing the women's fear, only pressed in harder.\n\nKrishna heard their words and, moved by that motherly concern, turned fully to his task. He sprang at Chanura with the speed of a hawk, both fists clenched, and struck. Chanura did not so much as flinch — the blow fell on him the way a garland falls on an elephant, light and unregarded. But Krishna would not be shaken off. He seized the wrestler, whirled him through the air, and dashed him to the ground, and Chanura's life left him there in the dust of the arena.\n\nBeside him Balarama met Mushtika, and his fist found its mark until Mushtika sagged and fell, undone. Then the others came forward in turn, and the two brothers dealt with them the same way. Kuta went down before Balarama, and Shala fell to a blow from Krishna's foot, and after them Tośala, until not one of the king's champions was left standing.\n\nThe assembly sat stunned. What they had watched was not the sport Kamsa had promised. Two boys had walked into an arena built to break them and had walked out untouched, while the men who were meant to break them lay still. The two brothers stood breathing easily in the middle of it all, as though the morning had cost them nothing. The women who had cried out against the injustice did not cheer; they had simply been proven right, and the court that had let the match proceed sat silent under the weight of it. And somewhere above it all, the king who had arranged this fate was already reaching for a crueler command.",
+ "reflection": "The women's protest is the moral heart of the scene: the crowd recognizes the injustice before the fight is decided, and says so aloud. Their outcry does not stop the contest, but it records for the reader exactly who understood the truth of what was being arranged.",
+ "tradition_note": null,
+ "content_note": "The death of the wrestlers is described briefly; the Harivamsha and Vishnu Purana give a more graphic account than the Bhagavata, which this telling follows.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Chanura",
+  "Mushtika"
+ ],
+ "locations": [
+  "Mathura arena"
+ ],
+ "themes": [
+  "wrestling",
+  "victory"
+ ],
+ "previous_story_id": "DKS_0132",
+ "next_story_id": "DKS_0140",
+ "next_story_tease": "But the king's fury was not spent — the death of his champions only stoked it.",
+ "hero_scene": "In the crowded Mathura arena, Krishna — small against a wrestler like a mountain — whirls Chanura through the air by the limbs, preparing to dash him down, while the women in the stands rise in protest and Balarama grapples with Mushtika.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "Chanura",
+  "Mushtika",
+  "the women of the assembly rising in protest",
+  "the royal dais and Kamsa",
+  "the packed arena",
+  "wrestling holds",
+  "tension and awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.44.1-27",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.85",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:15Z",
+  "source_event_id": "evt_0141"
+ },
+ "editorial_status": "unreviewed"
+}

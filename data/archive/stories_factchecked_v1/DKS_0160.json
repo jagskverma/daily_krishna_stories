@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0160",
+ "title": "Shalya Delivers Jarasandha's Message to Kalayavana",
+ "subtitle": null,
+ "story": "A wind came up in the capital of the Yavanas that day — cold and fragrant, delightful and strange — and the assembled court wondered at it. Whence had it come? And then they saw the answer riding out of the south.\n\nThe king of the Yavanas, Kalayavana, governed his city in pursuance of royal duties. He was wise, conversant with the threefold objects of life, proficient in the arts of policy, innocent of the sevenfold calamities, endued with every accomplishment, well versed in the scriptures, pious, truthful, a master of his senses, acquainted with the rules of war, an expert in capturing forts, heroic, and accustomed to honor his ministers. That day he sat at ease encircled by his ministers, while the learned Yavanas, discoursing among themselves on celestial themes, adored him.\n\nThe car that came from the south was golden and white, lighted up with the lustre of jewels, adorned with celestial flags and pennons, drawn by horses fleet like the mind or the air, decked with tiger-skins — a terror to enemies, an enhancer of joy to friends, built by the celestial architect, effulgent like the sun. On it sat the powerful and beautiful king of Soubha: Shalya, the friend of Kalayavana.\n\nDelighted to see his friend, Kalayavana rose from his throne, took the arghya offering and water for washing the feet, and went out to wait at the landing stair of the car. Shalya descended alone, with a confident heart, and joyously entered the palace. But seeing the offering in the Yavana king's hands, he drew back. \"O you of great effulgence,\" he said, \"I am not now worthy of arghya. I am an envoy of the kings, dispatched to you by the intelligent Jarasandha. I therefore do not deserve arghya from the kings.\"\n\nKalayavana smiled. \"O you of large arms, I know that you have been dispatched here as an envoy by the king of Magadha on behalf of the kings. I adore you duly with water to wash the feet, a seat, and every means of welcome, because you have been sent by the entire circle of kings. By adoring you, I worship the whole host of kings; by honoring you, all of them are honored. Therefore, O king, sit with me on this throne.\"\n\nSo they shook hands, asked after each other's welfare, and sat at ease on the sacred throne. Then Kalayavana put the question that lay beneath the courtesy. \"What has become impossible for him, depending on the might of whose arms you kings are all living without any anxiety as the gods do under the protection of Indra, that he has sent you to me? Tell me truly, O king, what mandate the powerful king of Magadha has issued to me. Even if it be very difficult, I shall carry out his command.\"\n\nShalya spoke. \"O king of the Yavanas, hear what the king of Magadha has deputed me to communicate to you.\" And he delivered the message as it had been given to him.\n\n\"The irrepressible Krishna has been oppressing the world from his very birth. Informed of his wicked deeds, I attempted to slay him. Accompanied by a number of kings along with their fourfold forces and conveyances, I besieged the mount Gomanta with a huge army. There, listening to the highly sensible words of the king of Chedi, I set fire to that best of mountains for the destruction of Rama and Krishna. Beholding that fire, consisting of hundreds and thousands of flames and resembling the fire of dissolution, Rama, holding the golden-hilted sword, leaped down from the mountain summit into the midst of the ocean-like army of the kings. He killed the car-warriors, the infantry and the cavalry; he moved about like a serpent, and catching elephants, horses and soldiers with his ploughshare, he ground them with his mace. In that battlefield abounding in hundreds of kings he destroyed elephants with elephants, car-warriors with cars, and cavalry with horses. After him Krishna, taking up his discus effulgent like the sun and his black iron club, forcibly leaped down into the enemy's army, shaking the mountain with the force of his feet as a lion attacks the poor deer. And the mountain, whirled about and bathed with a shower, extinguished the fire and entered into the earth as if dancing.\"\n\nShalya paused, and the tale of defeat turned into a plea. \"Enter the city of Mathura with your army,\" Jarasandha had said, \"and establish your glory there.\"\n\nWhen the envoy fell silent, the court of the Yavanas was still. The mandate lay before the king: Mathura was his for the taking, if he dared.",
+ "reflection": "The embassy moves by courtesy: Kalayavana honors the envoy and, through him, the whole circle of kings, and only then does the appeal arrive. Jarasandha's message is a confession of defeat at Gomanta turned into an invitation for another king to finish what he could not.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Shalya",
+  "Kalayavana",
+  "Jarasandha",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Yavana capital"
+ ],
+ "themes": [
+  "envoy",
+  "war-appeal",
+  "recounting-battle"
+ ],
+ "previous_story_id": "DKS_0159",
+ "next_story_id": "DKS_0161",
+ "next_story_tease": "Kalayavana would answer the appeal by marching on Mathura that very day.",
+ "hero_scene": "Shalya descending from his jeweled golden chariot at the landing stair of the Yavana palace, while Kalayavana waits below with the arghya offering raised in both hands and his court gathered behind him.",
+ "visual_elements": [
+  "the golden and white celestial chariot from the south",
+  "Shalya descending at the landing stair",
+  "Kalayavana with the arghya offering",
+  "the Yavana court gathered behind him",
+  "cold fragrant wind",
+  "an embassy arriving"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.110",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0187"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

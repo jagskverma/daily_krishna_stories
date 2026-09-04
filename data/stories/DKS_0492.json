@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0492",
+ "title": "Reunion with Nanda and Yashoda",
+ "subtitle": null,
+ "story": "All through that day, at the holy field of Samanta-panchaka, the great families of the earth had been finding one another again. Now, as the light grew long, the caravan of the cowherds came slowly up the road — ox-carts, dusty men, the lowing of herds — and the Yadavas who went out to meet it came back changed. In the middle of the crowd walked Nanda, the old cowherd chief of Gokula, the village where Krishna and Balarama had grown up, and the Yadavas fell on him as if life itself had returned to their bodies. Vasudeva, Krishna's own father, was the first to reach him. He embraced his old friend, pleased past all words, holding on as a man holds on to something he thought he had lost. Around them the whole clan pressed close, hands reaching out, voices rising and falling, everyone talking at once and no one listening.\n\nThen Krishna and Balarama came forward and bowed low to Nanda and Yashoda, the father and mother who had raised them. With their own hands they seated the two on the seats of honor, and then, speechless with love, embraced them with both arms — the princes of Dwaraka holding the father and mother of Gokula, grown men who had commanded armies pressing their faces into shoulders they had not felt in years.\n\nYashoda took her two sons onto her lap. They were men now, broad-shouldered and scarred, princes of a city by the sea; on her lap they became again the boys who had crawled after the calves in her courtyard. She held them and said nothing, and the two of them let themselves be held. Around them the cowherds of Gokula stood smiling and wiping their eyes, as if they too had come home.\n\nThen Devaki and Rohini came to Yashoda — Devaki, who had given her sons into other hands when they were smaller than her arm, and Rohini, who had shared those first years of waiting. The three women stood a moment, remembering. \"Who could forget that friendship, Yashoda?\" they said. \"Who could forget what you gave them — the years of tending, the childhood you made safe and bright while we could only wait?\" As babies the boys had rested in Yashoda's hands the way the eyelash rests on the eye — placed there, and safe, and afraid of nothing.\n\nYashoda answered them the way she had always answered: she gave them back their sons, sitting there on her lap, whole and grown. Devaki and Rohini looked at the two princes everyone else in the field saw — and what they saw was the milkmaid's courtyard, the dust of the calf-pens, the little feet running in the sun. Nothing needed to be said. The embrace said it.\n\nVasudeva watched from a little way off and said nothing. Somewhere in his chest a debt he had never been able to name was being counted again, and he knew that before this gathering ended he would have to speak of it. But not yet. Not while Yashoda's arms were still around her sons.\n\nFor the rest of that day, the field of the eclipse was a small Gokula again. The years of separation had shrunk to nothing, and a pilgrimage that had begun as a duty under a darkened sun ended with the oldest, simplest thing in the world: a mother holding her children, and the years falling away from her face. It was the kind of day the elders would tell about for years afterward — the day the whole family was whole again.",
+ "reflection": "The quiet heart of the reunion is the meeting of the four mothers: Devaki and Rohini, who could not raise the boys, honour Yashoda, who did, and no one needs to say whose claim is greater. The embrace dissolves the old division between the two families in a single gesture.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Nanda",
+  "Yashoda",
+  "Vasudeva",
+  "Devaki",
+  "Rohini"
+ ],
+ "locations": [
+  "Samanta-panchaka"
+ ],
+ "themes": [
+  "reunion",
+  "parental love",
+  "nostalgia"
+ ],
+ "previous_story_id": "DKS_0491",
+ "next_story_id": "DKS_0493",
+ "next_story_tease": "But the women of Vraja had come to the field too, and they had waited longest of all to see him.",
+ "hero_scene": "Yashoda, seated on the pilgrimage ground, gathers both her grown sons onto her lap while Devaki and Rohini embrace her from either side, all three mothers weeping with joy as the cowherds of Gokula look on.",
+ "visual_elements": [
+  "Nanda's dusty caravan of cowherds arriving",
+  "Vasudeva embracing Nanda, overwhelmed with love",
+  "Krishna and Balarama bowing to Nanda and Yashoda",
+  "Yashoda holding both sons on her lap",
+  "Devaki and Rohini embracing Yashoda",
+  "the cowherds of Gokula smiling and wiping their eyes",
+  "the crowded eclipse field in the background"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.82.30-37",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:49Z",
+  "source_event_id": "evt_0492",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

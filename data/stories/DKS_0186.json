@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0186",
+ "title": "Krishna Chooses the Site of Dwaraka",
+ "subtitle": null,
+ "story": "Krishna called the Yadus — his own warrior clan — together in the assembly at Mathura and told them what most of them had been unwilling to say out loud: the city of their birth could not hold them much longer.\n\nThis city has been the home of the Yadus, he said. We were born here and brought up in Vraja, the cow-country of our boyhood. Our griefs have ended and our enemies have been defeated — but our hostilities with the kings have begun, and our battle with Jarasandha has commenced. Our army and our animals are beyond counting; we have jewels and friends in plenty. Yet Mathura is small, and an enemy can enter it too easily. If a crore — ten million — of princes and soldiers live crowded together here, dissension will find its way among them. It is time we laid out a city elsewhere.\n\nThe Yadavas heard him out and answered with one delighted voice. Krishna, they said, do what you think proper for us all.\n\nWhen the elders of the Vrishnis, the chief family among the Yadavas, consulted among themselves, they spoke of the danger openly. Jarasandha, they said, could never be slain by them, and his power was very great. Many armies of many kings had been destroyed at Mathura, and still his soldiers were so many that the Yadus could not hope to destroy them even in a hundred years. And then word came that made the decision for them: Jarasandha was marching on Mathura, and at his side rode Kalayavana, a fierce foreign king, with a great and irrepressible army behind them.\n\nThe Yadus resolved to retreat. Krishna rose in the assembly and said: Today is an auspicious day. We leave Mathura this very day, with our army and our followers.\n\nThey left the city in a flood of gold and dust, headed by Vasudeva, Krishna's father, with wives in the chariots and elephants swaying under their burdens, the noise of the column rolling out like the waves of the ocean. They carried their wealth, their kinsmen, and their friends; golden chariots, infuriated elephants, horses trotting with gold on their harnesses. They set out toward the west, and they marched until the ocean rose on the horizon.\n\nThe shore they reached was beautiful enough to feel like a reward. It was tangled with creepers and climbing vines, rich in coconut trees, sweet with the scent of ketaki flowers and palmyra palms, and the Yadavas looked around them as if they had stepped into a celestial region.\n\nBut Krishna had not come there merely to camp. He walked the shore searching for the place where a city could stand, and he found an extensive tract of land on the bank of the ocean. Its soil was coppery and mixed with gravel, well suited for beasts of burden, and it carried every favorable mark a city could want, as if the Goddess of Prosperity herself had chosen to preside over it. The sea breeze fanned it, and the ocean watered it. Nearby rose the charming mountain Raivata, its slopes rich with gems, a place great men had long resorted to. There the sage Drona, the great teacher of princes, had lived for many years, and there the archer king Ekalavya had dwelt; and on the mountain's flank lay a level stretch of ground, laid out square like a board of dice, that men called by the name of Dwaravati.\n\nKrishna chose that site for his city. The Yadavas, who had wanted nothing more than to encamp their soldiers there, pitched their tents for the night, and the shore filled with the smoke and voices of a people making themselves at home.\n\nThat night Krishna walked among the tents without a trace of anxiety. He thought of the city that would rise on that coppery ground, of the houses that would line its streets, and of the names he would give them, one by one.\n\nAnd so the Yadavas secured Dwaravati, and lived there happily with their friends, the way the gods live in their own city: a city still to be built, but already a home.",
+ "reflection": "Krishna chooses the new city the way a gardener chooses ground, reading the soil, the breeze and the mountain. But he does not seize the land as a conqueror; he puts the proposal to the Yadus first, and the city is founded on their consent as much as on his vision.",
+ "tradition_note": "The Bhagavata Purana places the founding of Dwaraka after the slaying of Jarasandha. This Harivamsha account, followed here, tells the move differently: the Yadus leave Mathura because Jarasandha and Kalayavana are advancing on the city.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_founded",
+ "characters": [
+  "Krishna",
+  "Vasudeva",
+  "the Yadavas"
+ ],
+ "locations": [
+  "Mathura",
+  "ocean shore",
+  "Mount Raivata"
+ ],
+ "themes": [
+  "site-selection",
+  "foundation"
+ ],
+ "previous_story_id": "DKS_0185",
+ "next_story_id": "DKS_0187",
+ "next_story_tease": "The tents were barely pitched before Krishna set about making the new city worthy of the name Dwaravati.",
+ "hero_scene": "Krishna standing on the coppery shore of the western ocean, looking out at the water as the sea breeze lifts his garment, with Mount Raivata rising in the distance behind him and the Yadavas' tents going up along the beach.",
+ "visual_elements": [
+  "the coppery soil of the ocean shore",
+  "coconut and ketaki trees along the coast",
+  "Mount Raivata in the distance",
+  "the sea breeze and waves",
+  "Yadava tents pitched on the beach",
+  "Krishna surveying the land",
+  "chariots and elephants of the traveling Yadavas"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.113",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:49Z",
+  "source_event_id": "evt_0289",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

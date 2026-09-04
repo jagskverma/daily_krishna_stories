@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0184",
+ "title": "The Twig That Ended a Duel",
+ "subtitle": null,
+ "story": "Outside the walls of Girivraja, the duel had reached a standstill. The maces had shattered, the two champions had fallen to trading blows with their bare hands, and everyone who watched understood the same thing: this fight had no end in it. Bhima, the strongest of the Pandava brothers, and Jarasandha, the king of Magadha, were too evenly matched. Skill for skill, strength for strength, fury for fury, neither could finish the other, and both were too proud to stop.\n\nKrishna, the brothers' cousin, who had planned this challenge, watched it all. He had not come to Girivraja to watch two champions wear each other down. He had come to end a threat — and he knew something no one else on that field knew: Jarasandha could never be killed by the ordinary means of war.\n\nThe secret lay in the king's birth. Jarasandha had been born in two halves, and the demoness Jara had joined the halves together; the joining was what gave him life, and it was the same joining that left him vulnerable. A body so put together could not be felled by any blow, however mighty. It could only be undone along the seam where it had been joined.\n\nSo instead of watching, Krishna acted. While the two champions circled each other in the dust, he bent down and picked up a twig from the ground. Then, in Bhima's sight, he snapped it in two, cleanly, and let the halves fall. It was a small gesture, the kind no one else would have marked. But Bhima's eyes caught it, and understanding broke over him like daylight.\n\nHe turned back to Jarasandha. The king of Magadha came at him with a rush, fists raised, expecting the same iron exchange as before. This time Bhima did not meet the rush head-on. He dropped low. One of the king's legs he pinned to the earth with his own foot; the other he caught in both arms. Then he heaved with all his strength.\n\nIt was not a blow, and that was the whole point: no blow could have done it. Along the seam where the two halves of his body had been joined at birth, Bhima tore the king of Magadha apart — and the man who had seemed unkillable was killed at last.\n\nA great cry of lamentation rose up, a cry of horror and grief that rolled over the city like thunder: the lord of Magadha was dead. The cry spread from the field to the streets, and the earth of Girivraja seemed to settle under the news.\n\nWhen it was over, Bhima stood over the body of the man he could never have beaten in a fair fight. He had not won by greater strength. He had won because Krishna knew the secret of the king's birth, and had shown him, with a snapped twig, the only way to use it.",
+ "reflection": "The duel of equal strength could never be won by strength; the king who seemed unkillable is undone not by a harder blow but by a secret known to one man. Krishna does not fight the battle himself. He sees the truth that ends it, and shows Bhima how to act on it.",
+ "tradition_note": null,
+ "content_note": "Jarasandha is killed by being torn in two; described with restraint, without graphic detail.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Girivraja"
+ ],
+ "themes": [
+  "divine insight",
+  "trick",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0183",
+ "next_story_id": "DKS_0185",
+ "next_story_tease": "Behind the mountain walls of Girivraja, twenty thousand eight hundred imprisoned kings heard the cry of lamentation and dared to hope.",
+ "hero_scene": "Krishna holding up a twig snapped cleanly in two, the two halves visible in his raised hand, as Bhima's eyes widen in understanding in the dusty field outside Girivraja.",
+ "visual_elements": [
+  "a twig snapped in two",
+  "Krishna's hand raised with the two halves",
+  "Bhima's face lighting with understanding",
+  "the dusty field outside Girivraja",
+  "Jarasandha's ruined mace on the ground",
+  "the two champions standing apart"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.72.39-44",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:49Z",
+  "source_event_id": "evt_0264",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

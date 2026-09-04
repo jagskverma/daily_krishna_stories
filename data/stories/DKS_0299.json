@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0299",
+ "title": "The Brahmana's Sons Are Restored",
+ "subtitle": "A journey to the edge of the world, and a promise kept",
+ "story": "Everyone in Dwaraka knew why Krishna and Arjuna had ridden out of the city with the brahmana beside them, but no one could say where the road would end. A brahmana of Dwaraka had lost his four sons — three boys taken from him earlier, and then a newborn infant — and Krishna had promised to bring them back. For the sake of that promise they had to travel where grief itself could not follow, to the dwelling of the Supreme Lord; and Arjuna, who had begun the search at Krishna's side, rode with him to the end of it.\n\nThe road was unlike any road Arjuna had ever traveled. The sea opened before their car like a gate, and the lord of the ocean rose from it with folded hands to ask what he should do. When Krishna asked for passage, the ocean pleaded that a way once opened would tempt other kings to cross where they had no right; and Krishna promised that no one else would ever assail it. So the waters parted and held themselves still while the car passed through the red depths as if over land.\n\nSeven mountains bowed their crests and gave them passage. They crossed the seven continents and the seven seas, and the ring of mountains that fences the world, until the horses faltered in a darkness so thick it clung to the wheels like mud. Krishna flung his discus into that darkness, and it parted.\n\nWhen the sky came back, Arjuna saw a shape that stopped his breath: a vast brightness in the form of a man, spread across the heavens above all the worlds. Krishna stepped down from the car and walked into that light. The brahmana and Arjuna waited where they stood, surrounded by the strange glow. A moment passed — a moment only, though it felt like an age — and Krishna returned, and with him came the four sons of the brahmana, whole and unharmed.\n\nIt was the Supreme Lord himself who had taken the children, and he had done it for no sorrowful reason. Standing in his own dwelling, he told them what he had wished them to know: he had brought the brahmana's sons there himself because he had wanted to see Krishna and Arjuna, and because the earth had been relieved of its burden at last, the time had come for them to turn back. \"Take the children,\" he said, \"and return by the way you came.\"\n\nThey returned the way they had come, and the wonders of the road repeated themselves in reverse — the mountains bowing, the sea parting, the ring of the world closing behind them — until the car stood in Dwaraka with the first part of the day still unfinished, as if the journey to the edge of everything had cost no time at all.\n\nKrishna placed the four sons into their father's hands. The brahmana, who had come home expecting to grieve, stood holding his children and wept with joy. Krishna fed him and his sons, gave him riches, and sent him away to his own house satisfied.\n\nArjuna lingered a moment, looking after them. He had seen the dwelling of the Supreme Lord, and the sight had changed the way he measured the world. All his life he had weighed his strength against other men, and the scale had always held; standing before that vast brightness, he felt every human power fall away and become what it had always been — a gift, not his own doing.",
+ "reflection": "What strikes Arjuna is not that death was undone but that he was allowed to see the seat of all things and return from it. His awe is the story's true subject: before the Supreme Lord's abode, every human power he had ever trusted shrinks to what it always was, a gift rather than an achievement. Wonder, not doctrine, is what the episode leaves behind.",
+ "tradition_note": "The Bhagavata Purana frames the children as lost to death and restored; the Harivamsha tells the same recovery as a rescue — three stolen boys and a newborn, brought back through a sea and mountains that bow to Krishna's car.",
+ "content_note": "The story opens from a brahmana's loss of his four young sons; the loss itself is not described, and the children are restored by the end.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "the Supreme Lord",
+  "the brahmana"
+ ],
+ "locations": [
+  "Vaikuntha",
+  "Dwaraka"
+ ],
+ "themes": [
+  "divine will",
+  "restoration",
+  "wonder"
+ ],
+ "previous_story_id": "DKS_0298",
+ "next_story_id": "DKS_0300",
+ "next_story_tease": null,
+ "hero_scene": "At the edge of the world, Krishna steps out of a column of blinding effulgence shaped like a man, leading the four sons of the brahmana by the hand, while Arjuna and the brahmana wait beside the chariot in the darkness that the discus has just cut open.",
+ "visual_elements": [
+  "Krishna walking out of a man-shaped column of effulgence",
+  "the four sons of the brahmana restored beside him",
+  "Arjuna and the brahmana waiting by the chariot",
+  "the parted red waters of the ocean",
+  "mountains bowing before the passing car",
+  "the darkness like mud, cut through by the discus",
+  "Dwaraka in the unfinished first part of the day"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.89.57-61",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.260",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0221",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

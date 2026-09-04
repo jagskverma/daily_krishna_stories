@@ -1,0 +1,126 @@
+# STORY DKS_0218 — Krishna Pursues and Slays Satadhanva
+
+## Index entry
+title: Krishna Pursues and Slays Satadhanva
+summary: Krishna pursues and beheads Satadhanva near Mithila but finds no jewel; Balarama goes on to visit King Janaka.
+life_stage: dwaraka | story_arc: syamantaka_jewel
+characters: Krishna, Balarama, Satadhanva
+locations: Mithila
+themes: pursuit, justice, disappointment
+festival_tags: 
+age_sensitivity: all | notes: Balarama's separate departure to Mithila is a distinct beat (hv_a_009).
+
+## Canonical event
+event_id: evt_0206
+variant_notes: Both: killed near Mithila, no jewel found.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 57 | verses 9-25 | confidence 5
+  excerpt: Krishna and Rama pursued Satadhanva, who fled a hundred yojanas on horseback; Krishna beheaded him with his discus, but searching him found no jewel; Balarama then went on to Mithila to visit Janaka, where he stayed some months and taught Duryodhana the mace. (rendered from Sanskrit, verses 9-25)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 39 | verses  | confidence 4
+  excerpt: going on foot, Achyuta (Krishna), highly skilled in the use of arms, killed Shatadhanwa on the way to Mithila... he did not see Swyamantaka.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.57 (9-25)
+9. āgatya bhagavāṃs tasmāt sa-bhāryaḥ sāgrajaḥ puram /
+10. so 'pi kṛtodyamaṃ jñātvā bhītaḥ prāṇa-parīpsayā /
+11. nāham īsvarayoḥ kuryāṃ helanaṃ rāma-kṛṣṇayoḥ /
+12. kaṃsaḥ sahānugo 'pīto yad-dveṣāt tyājitaḥ śriyā /
+13. pratyākhyātaḥ sa cākrūraṃ pārṣṇi-grāham ayācata /
+14. ya idaṃ līlayā viśvaṃ sṛjaty avati hanti ca /
+15. yaḥ sapta-hāyanaḥ śailam utpāṭyaikena pāṇinā /
+16. namas tasmai bhagavate kṛṣṇāyādbhuta-karmaṇe /
+17. pratyākhyātaḥ sa tenāpi śatadhanvā mahā-maṇim /
+18. garuḍa-dhvajam āruhya rathaṃ rāma-janārdanau /
+19. mithilāyām upavane visṛjya patitaṃ hayam /
+20. padāter bhagavāṃs tasya padātis tigma-neminā /
+21. alabdha-maṇir āgatya kṛṣṇa āhāgrajāntikam /
+22. tata āha balo nūnaṃ sa maṇiḥ śatadhanvanā /
+23. ahaṃ vaideham icchāmi draṣṭuṃ priyatamaṃ mama /
+24. taṃ dṛṣṭvā sahasotthāya maithilaḥ prīta-mānasaḥ /
+25. uvāsa tasyāṃ katicin mithilāyāṃ samā vibhuḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.39 ()
+TITLE: AN ACCOUNT OF AKRURA
+
+Vaishampayana said:—Akrura had that peerless jewel which Krishna
+conferred on Satrājit, stolen by Shatadhanwā (1). Akrura always wished
+to have the beautiful Satyabhāmā.⁷⁰ As soon as he got an opportunity he
+desired to possess that valuable jewel (2). Thereupon, having slain
+Satrājit at the dead of night the highly powerful Shatadhanwā took away
+the jewel and made a present of it to Akrura (3). Taking that jewel he
+made Shatadhanwā promise that he would never give out that the jewel was
+in his (Akrura’s) possession (4). (He said):—"If Krishna attacks you I
+shall follow you. Forsooth the whole of Dwarkā is now under my control
+(5)." On her father (Satrājit) being slain the illustrious Satyabhāmā,
+stricken with grief, got on a chariot and repaired to the city of
+Barawāvata (6). She then communicated to her husband what had been
+perpetrated by Shatadhanwa of the Bhoja race. Then stricken with grief
+and standing by his side she began shedding tears (7). Having performed
+the watering ceremony of the Pāndavas burnt in the house of lac⁷¹
+Krishna engaged Satwaki to perform their obsequial rites (8).
+
+Thereupon hurrying on to the city of Dwarkā the graceful slayer of
+Madhu⁷² said to his elder brother Haladhar⁷³ (9) "Prasena has been
+killed by a lion and Satrājit has been slain by Shatadhanwā. Therefore I
+am the master of the jewel Sywamantaka (10). Therefore speedily get on
+your car, O mighty armed hero. After slaying the highly powerful Bhoja
+Swyamataka will be ours (11)". Thereupon there arose a terrible
+encounter between Krishna and Shatadhanwā The latter saw Akrura on all
+sides (12). Thereupon beholding both Krishna and Shatadhanwā enraged
+Akrura, though capable, out of wickedness did not help the son of
+Hridika (13). Thereat stricken with fear Shatadhanwā took to his heels.
+With one mare he travelled over a distance of more than a hundred
+_Yojanas_⁷⁴ (14). O king, Shatadanwa, of the Bhoja race, had a mare that
+could go over a distance of a hundred _Yojanas_, by name
+_Vijnātāhridayā_. With her he fought with Krishna (15). Having travelled
+over a distance of a hundred _Yojanas_ Shatadhanwa found her motionless
+and seeing the increased motion of the car he left her off (16).
+Thereupon, O descendant of Bharata, on account of the exhaustion and
+misery of that mare all his vital breaths went up to the sky. Then
+Krishna said to Rāma. (17). "Wait here, O you of large arms. I have seen
+the wretched plight of the mare. Going on foot I shall carry away the
+jewel Swyamantaka (18)". Thereupon, O king, going on foot, Achyuta
+(Krishna), highly skilled in the use of arms, killed Shatadhanwa on the
+way to Mithila (19). Having slain the highly powerful Bhoja king he did
+not see Swyamantaka. And seeing Krishna return Balarāma said to him
+"Give me the jewel" (20).
+
+Krishna said:—"I have not got it." Thereat Rama was filled with anger.
+Repeatedly exclaiming "Fie on you, Fie on you," he replied to Janarddana
+(21). "I forgive you because you are my brother. May you farewell. I go
+away. I have nothing to do with you or other Vrishnis of Dwarkā (22)."
+Thereupon Rāma, the subduer of enemies, entered the city of Mithilā. He
+was then honored with all becoming presents after his heart by the king
+of Mithilā (23). In the interval the most intelligent Vabhru began to
+collect various articles for the performance of sacrifices (24). The
+highly illustrious son of Gāndini, on account of the jewel Swyamantaka,
+entered into the initiation-like coat of mail⁷⁵ for protecting himself
+(25). He devoted most excellent jewels and various other articles to the
+performance of sacrifices for sixty thousand years (25). That sacrifice,
+of the high-souled Akrura consisting of food and various presents, was
+called the Akrura Yajna (27). Thereupon repairing to the city of Mithilā
+the king Duryodhana received from Balabhadra the most excellent
+instructions in the use of clubs (28). Thereupon propitiating Balarāma
+all the mighty car warriors of the Vrishni race and the high-souled
+Krishna brought him back to the city of Dwarkā (29). Then the foremost
+of men Akrura, with Andhakas, left Dwarkā. Slaying the highly powerful
+Satrājit in battle with all his friends Krishna, in feat of dissension
+amongst his kinsmen, neglected him (Akrura). After the departure of
+Akrura Pākashasana⁷⁶ did not pour rain (30–31). When the whole country
+was devastated by draught the Kukuras and Andhakas began to propitiate
+Akrura (32). When the liberal Akrura returned to Dwarkā the
+thousand-eyed Indra began to discharge showers on the bank of the ocean
+(33). O foremost of Kurus, in order to please Krishna the intelligent
+Akrura gave him in marriage his sister Sushilā (34). Guessing by his
+riches and liberality that Swyamantaka was with Akrura, Janarddana said
+to him in the midst of an assembly "O lord, the jewel is in thy
+possession. Do thou give it to me. O giver of honors; do not cheat me. O
+sinless one, the anger, that possessed me sixty years before, is now
+e
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0217 | next_story_id: DKS_0219
+previous title: Satyabhama Reports Her Father's Murder || Satyabhama finds her father slain, and hastens to Hastinapura to tell Krishna, who laments with Balarama.
+next title: Krishna Reclaims the Jewel from Akrura

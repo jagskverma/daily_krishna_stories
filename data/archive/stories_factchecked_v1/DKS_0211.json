@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0211",
+ "title": "The Drought That Left with Akrura",
+ "subtitle": "After Akrura leaves Dwaraka, Indra withholds the rain; when he returns, the showers fall again",
+ "story": "The rains stopped the day Akrura left Dwaraka, though no one in the city would have connected the two things at the time.\n\nAkrura was the foremost of the Vrishnis, a man whose liberality was famous among the clans, and he carried a secret. When Shatadhanwa had murdered Satrajit and fled with the Syamantaka jewel, it was to Akrura that the treasure had been given; Akrura had bound the murderer to silence and kept the jewel hidden, and his own riches had grown, year after year, on the secret. Krishna suspected where the jewel lay, and the suspicion soured the air of Dwaraka. At last the estrangement broke open: Akrura, with the Andhakas, left the city. Krishna did not call him back — among the kinsmen it was said that the neglect was deliberate, a calculated breach meant to set the clans at odds — and the foremost man of the Vrishnis rode away into the west. The city watched him go, and told itself that the trouble had gone with him.\n\nAfter his departure, the sky changed. Indra, the thousand-eyed, withheld the rain. The clouds came up from the sea and passed over the land, and Dwaraka's fields dried under an unchanged sun. The drought spread and bit deep: the earth cracked, the wells failed, the herds grew thin, and the whole country was devastated. The grain stores shrank, and the cattle stood listless in the empty riverbeds. Day after day the people watched the sky and found nothing in it but heat.\n\nIt was then that the Kukuras and Andhakas, the very clans who had let him go, turned back toward Akrura. They began to propitiate him — to send to him, to honor him, to call him home — having learned in their need what his presence had meant to the land. They sent their elders to find him, and offered him honor as one who carried the land's fortune with him. The old account does not explain why the sky had closed when he left; it records only the connection, as plainly as it records the drought.\n\nWhen the liberal Akrura returned to Dwaraka, the change came at once. The thousand-eyed Indra began to pour showers down on the bank of the ocean, and the rain fell on the thirsty country as if the sky had been waiting for his coming. The drought ended as abruptly as it had begun, and the city breathed again. The rain came down on the shore first, and then over the city, and the smell of wet earth returned to Dwaraka.\n\nWith the rains came reconciliation. To please Krishna, the intelligent Akrura gave him his sister Sushila in marriage, binding the two houses together once more. And then, in the midst of the assembly of the clan, Krishna spoke. He had guessed the truth, he said, by Akrura's endless riches and his liberality — no man could give so freely without a hidden fountain behind his giving. \"The jewel is in your keeping,\" Krishna told him. \"Give it to me. Do not cheat me of it, O giver of honors. The anger that possessed me sixty years ago is now ended.\"\n\nHe did not speak as an accuser. He spoke as a kinsman closing an old account: the rain was falling, the brotherhood was whole, and the long anger was spent. Whether the jewel passed back into Krishna's hands that day, the sources do not say; what they record is the return, and the rain, and the words spoken in the assembly.",
+ "reflection": "The land's fortune is bound to a single man's presence: while Akrura was away the sky closed itself, and when he returned the rain came back to the ocean's edge. The story does not excuse his secret — but it insists that a community's wellbeing is tied to its members, and that reconciliation, not punishment, is what finally brings the rain.",
+ "tradition_note": "This drought episode appears only in the Harivamsha; the Bhagavata Purana does not tell it.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Akrura",
+  "Indra",
+  "Kukuras",
+  "Andhakas",
+  "Krishna",
+  "Sushila"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "drought",
+  "piety"
+ ],
+ "previous_story_id": "DKS_0210",
+ "next_story_id": "DKS_0212",
+ "next_story_tease": "The jewel that had cost so much had not begun its life in Dwaraka at all — it had been a gift from the sun himself.",
+ "hero_scene": "Akrura riding back into Dwaraka as the first rain of the long-awaited monsoon breaks over the city and the ocean, while the Kukuras and Andhakas come out to meet him on the shore.",
+ "visual_elements": [
+  "Akrura's return to Dwaraka",
+  "rain falling on the bank of the ocean",
+  "the cracked, drought-stricken fields",
+  "the Kukuras and Andhakas coming out to meet him",
+  "Krishna speaking in the assembly of the clan",
+  "the jewel hidden in Akrura's keeping",
+  "drought and reconciliation"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.39",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:44Z",
+  "source_event_id": "evt_0288"
+ },
+ "editorial_status": "unreviewed"
+}

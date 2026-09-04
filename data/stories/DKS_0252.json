@@ -1,0 +1,58 @@
+{
+  "id": "DKS_0252",
+  "title": "The Goddess Who Stood Between",
+  "subtitle": "Kottavi intervenes, and Krishna puts away his discus",
+  "story": "Krishna and Shiva had drawn apart at last, and their great duel was over. But the war at Sonitpura — where Krishna had come to fight Vana, the thousand-armed demon king whom Shiva protected — was not over. It had only changed hands, and the younger commanders took it up.\n\nKartikeya, Shiva's son, drove the chariot that Kumbhanda had brought him straight at Krishna, his brother Balarama and his son Pradyumna, and struck them with hundreds of sharp arrows. Bathed in blood, the three heroes fought back like three fires. When they struck Kartikeya with the three weapons given them by the Wind-god, the Fire-god and Indra, he met them with three weapons of his own — and the heroes, by their power of illusion, swallowed even those.\n\nThen Kartikeya, blazing and biting his lips, took up the Brahmashira, the dreadful weapon of Brahma himself, blazing like a thousand suns, able to destroy the world. The moment it was loosed, creatures lost their senses from its heat and fled on every side, and the whole universe seemed to wail. Krishna saw it and raised his discus, the weapon that answers all weapons; and as clouds cover the sun in the rainy season, so the discus covered the light of the Brahmashira and left it shorn of its power.\n\nKartikeya's eyes reddened with anger, and he blazed up like fire fed with butter. He seized his golden spear — the Sakti, hung with bells, sure of aim, bright as a fire-brand — and hurled it with a shout that chilled his enemies' hearts. The spear flew up into the sky, hung there as if it were alive and searching for Krishna, and rushed down at him. The gods themselves despaired: \"Perhaps Krishna will be consumed.\" But as the great spear came at him, Krishna shouted, as if he were scolding the weapon itself — and struck it down to the ground. \"Well done! Well done!\" rose from every side, and Indra with all the celestials sent up a roar of triumph.\n\nThen Krishna took up his discus to finish the fight, and was about to let it fly — when a goddess came and stood before him. Her name was Kottavi, and Shiva had summoned her to shield his son. She stood between Krishna and Kartikeya and would not move. She was unclothed, as her ancient form was, and no warrior would strike through a woman who stood unarmed in the weapon's path.\n\nKrishna was baffled. \"Go!\" he said. \"Fly from this place! Why do you throw yourself in the way of certain destruction?\"\n\nBut Kottavi heard him and did not stir. To shield Kartikeya, she would not even cover herself while she stood before him.\n\n\"Take Kartikeya and go,\" Krishna said. \"It will be well for us today if you do this. Otherwise, if I hold back from the fight, he will fight me.\"\n\nAnd looking on the goddess who would not move, Krishna put away his discus.\n\nThen Kottavi led Kartikeya away to Shiva, and the great danger passed. When Vana saw the young war-god released and drawing back from the field, he himself felt the urge to fight Krishna. His ghosts, his yaksha spirits and his soldiers had fled on every side; of all his broken army only the Pramathas, Shiva's attendants, remained. And so Vana marched out with his great demon commanders about him, while his priests and elders — learned in the scriptures — performed rites of victory over him with prayers, chants and herbs, calling for the ruin of his enemies.",
+  "reflection": "Krishna's discus has never hesitated before a weapon, but it stops before a woman who stands unarmed. The episode turns on a strange kind of strength: the goddess does not fight, she merely refuses to move, and in that refusal the shape of the battle is changed.",
+  "tradition_note": null,
+  "content_note": "The episode centers on the goddess Kottavi appearing unclothed on the battlefield; the source treats this matter-of-factly, and the story describes it with restraint.",
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 5,
+  "life_stage": "dwaraka",
+  "story_arc": "narakasura_and_gods",
+  "characters": [
+    "Krishna",
+    "Kottavi",
+    "Kartikeya",
+    "Shiva"
+  ],
+  "locations": [
+    "Sonitpura"
+  ],
+  "themes": [
+    "divine intercession",
+    "mercy",
+    "goddess"
+  ],
+  "previous_story_id": "DKS_0251",
+  "next_story_id": "DKS_0253",
+  "next_story_tease": "With Kartikeya withdrawn, Vana himself now took the field, roaring of his thousand arms.",
+  "hero_scene": "Krishna, discus raised to strike, frozen mid-throw as the goddess Kottavi stands unclothed and unafraid before the young Kartikeya, her form gleaming between them like a golden spear.",
+  "visual_elements": [
+    "Krishna with the discus raised",
+    "Kottavi standing before Kartikeya",
+    "the golden Sakti struck down on the ground",
+    "the shattered Brahmashira's fading glow",
+    "Vana marching out with his Daitya commanders",
+    "priests performing benedictory ceremonies"
+  ],
+  "sources": [
+    {
+      "work": "Harivamsha",
+      "reference": "1.274",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:43:47Z",
+    "source_event_id": "evt_0354",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "major"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

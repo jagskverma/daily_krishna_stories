@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0172",
+ "title": "The Yadavas Rout Jarasandha's Army and Spare Him",
+ "subtitle": null,
+ "story": "The gates of Mathura swung open, and the two brothers rode out to meet an ocean. Krishna and Balarama, the heroes of the Yadava house, were going out against the army that had ringed their city, the twenty-three divisions of Jarasandha, king of Magadha. Jarasandha, seeing them come, cupped his hands to his mouth and shouted abuse across the field, insults for Krishna, and for Balarama a challenge: if you have any courage, come and fight, summon your fortitude and show it.\n\nBehind the brothers, on the towers and terraces of Mathura, the women of the city had gathered to watch, and more than one fainted where she stood, overcome with grief and fear at the sight of that enormous host.\n\nKrishna's chariot drove into the thick of it, and there he fought as he alone could. Like a wheel of fire that burns in an unbroken circle, his arrows streamed out, nock, draw, loose, without pause and without gap. Elephants crashed down among their own ranks. Horses went down in the press. Chariots splintered like dry branches under a storm. Men said afterward that Jarasandha's army was an ocean without a shore, that no one could have crossed it; but the one who rode into it was not to be measured by any ordinary measure. High above, where the armies could not see them, the gods and the singers of heaven gathered from all quarters to watch, and their presence filled the sky over the field with a strange, still brightness.\n\nIn the middle of it all, Balarama sought out Jarasandha himself. The Magadha king had lost his chariot, his horses and his charioteer in the press, and stood alone on the field. Balarama seized him the way a lion seizes a lion, by the shoulders, so that the king of Magadha hung helpless in his grip. Around him his army lay in ruins; his allies were dead or had fled. The Vrishni soldiers closed in, ropes were brought, and Jarasandha, the enemy of the Yadava house, was bound where he stood.\n\nThen Krishna stayed the binding. \"The king of Magadha is not to be killed,\" he said. \"He will gather forces again.\"\n\nBalarama's hands went still. Krishna spoke to the captive in words plain and clear, and then he let him go. Jarasandha stood a long moment in his shame. Then he turned and walked off the field, and no one stopped him.\n\nAll around him his host was gone. Krishna, his own strength unbroken, had crossed that ocean as if it had been a pond. The news ran ahead of him, and the people of Mathura poured out through the gates to meet him, carried on a wave of joy. Conches and kettledrums sounded from the walls; the streets were sprinkled with water and hung with banners; women stood on the rooftops and showered the returning chariots with garlands, curds and unbroken rice. The sun set on a city that had braced itself to die at dawn and could not stop celebrating at dusk. And the weapons that had come down from the sky for the battle were seen no more, as if they had never been.\n\nSeventeen times after that day Jarasandha came again to Mathura, each time with an army of akshauhinis, great formations of thousands of chariots, elephants and horses, and seventeen times Krishna broke his host and sent him home. He returned to Magadha with his life, and that was all he carried back.\n\nThe city sang on into the night. The king who had sworn to leave no Yadava alive had walked away alive himself, spared by the very men he had come to destroy, for a purpose that no one on that field could yet see.",
+ "reflection": "Krishna lets Jarasandha walk away at the height of victory, knowing the man will return seventeen times. His mercy is not softness but strategy: Jarasandha's death belongs to a design larger than this one day's battle, and the release is the first move of it.",
+ "tradition_note": "The Harivamsha splits this episode differently: there the fighting runs twenty-seven days, and it is a voice from the sky — not Krishna — that stays Balarama's hand and declares that Jarasandha must not yet die. The Bhagavata Purana, followed here, has Krishna himself release the captive.",
+ "content_note": "Battle scene: the rout of an army is described with restraint, but includes slaughter imagery.",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "war",
+  "mercy",
+  "strategy"
+ ],
+ "previous_story_id": "DKS_0171",
+ "next_story_id": "DKS_0173",
+ "next_story_tease": "But even as Mathura celebrated, a new enemy — one protected by a boon no weapon could break — was already marching out of the north.",
+ "hero_scene": "Krishna on his chariot in the thick of battle, bow drawn and arrows streaming in an unbroken arc like a wheel of fire, while behind him Balarama holds the captured Jarasandha by the shoulders and Krishna's raised hand stays the binding.",
+ "visual_elements": [
+  "Krishna's chariot in the thick of battle",
+  "arrows streaming like a wheel of fire",
+  "Balarama seizing Jarasandha like a lion",
+  "the bound Magadha king being released",
+  "the walls and towers of Mathura with watching women",
+  "the celebrating city at dusk"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.50.16-41",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.92",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:57Z",
+  "source_event_id": "evt_0167",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

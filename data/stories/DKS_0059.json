@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0059",
+ "title": "A Fire in the Munja Grass",
+ "subtitle": null,
+ "story": "The herd did not mean to wander. Cows and goats and buffaloes are creatures of appetite, and that day, in the forests around Vrindavan, the cowherd boys were deep in their games — running and leaping and wrestling on the grass, their calls ringing through the trees — and no one was watching the grazing line. So the cattle drifted, from one grove to the next, cropping as they went, until the forest had closed behind them and the boys finally looked up to find the clearing empty.\n\nKrishna, his brother Balarama — whom the cowherds called Rama — and the other boys called for the herd and heard nothing back. The afternoon that had been so full of games suddenly felt very large and very still. They spread out and began to search, the way people who know the land search — reading the ground itself. Here the grass had been cropped short by grazing mouths; there it had been cut and trampled by hooves. Farther on, pressed into the soft earth, a line of hoof-prints led away into the trees. The boys followed the trail the way one follows a dropped thread, deeper and deeper into the wood, and the longer they searched, the deeper the forest's silence grew around them.\n\nThe trail led them into a dense thicket of munja grass — tall, sharp-bladed reeds that grew higher than a man and hid whatever moved among them. Deep in that green tangle they found the herd at last: the cattle lost and lowing, turning in circles, no longer sure of the way back. The boys pushed in after them, and Krishna called out to the cows, his voice deep and full, like a cloud gathering before rain. The frightened animals pricked their ears at the sound and began to quiet.\n\nAnd then the fire came.\n\nSmoke rose first, a grey smudge lifting above the trees, and then the flames themselves, with the wind at their back. It began, the verses say, as if by accident — a wildfire springing up around them on every side. The wind drove it forward. It ate through the dry grass and raced from tree to tree, crackling and roaring, and the heat of it pressed in on the boys and the cattle from all directions. The cows lowed in terror and pressed together, and the boys, who a moment before had been searching and calling, now stood ringed by flame with nowhere left to run.\n\nThey did the only thing left to do. They called on the two brothers with all their strength — “Krishna! Krishna! Great hero! O Rama, whose strength never fails!” — and their voices rose above the roar of the burning grass.\n\nAnd the fire kept coming.",
+ "reflection": "The danger here is not a demon but something as ordinary as wind and dry grass — which is exactly what makes it frightening. The boys are not weak or foolish; they do everything right, and still the fire surrounds them. Sometimes the test is simply to be where there is no way out, and to know whom to call.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "cowherds",
+  "cattle"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "danger",
+  "separation"
+ ],
+ "previous_story_id": "DKS_0058",
+ "next_story_id": "DKS_0060",
+ "next_story_tease": "The fire was closing in — and then Krishna told them to shut their eyes.",
+ "hero_scene": "Cowherd boys and a tightly-pressed herd of cattle ringed by tall munja grass, with a wall of wind-driven wildfire and smoke closing in on every side, while Krishna and Balarama stand at the center of the frightened group.",
+ "visual_elements": [
+  "cowherd boys",
+  "cattle huddled together",
+  "tall munja grass thicket",
+  "wildfire and smoke",
+  "wind",
+  "Krishna",
+  "Balarama",
+  "fear",
+  "encroaching flames"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.19.1-8",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:15Z",
+  "source_event_id": "evt_0080",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

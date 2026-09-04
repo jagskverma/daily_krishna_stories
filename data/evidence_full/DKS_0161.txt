@@ -1,0 +1,61 @@
+# STORY DKS_0161 — Kalayavana Marches on Mathura
+
+## Index entry
+title: Kalayavana Marches on Mathura
+summary: Kalayavana, elated by the kings' request, honors Shalya and sets out that very day with his army to vanquish Krishna.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Kalayavana, Shalya, Krishna
+locations: Yavana capital, Mathura
+themes: pride, war-march, boast
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0188
+variant_notes: VP 5.23 gives Gargya's penance as Kalayavana's origin; HV has Shalya invite him.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 111 | verses  | confidence 4
+  excerpt: Kalayavana said: ... 'in this auspicious moment I shall even to-day start for Mathurā for defeating Keshava in the battle-field.' ... he set out with his army for vanquishing Janārddana.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 23 | verses  | confidence 4
+  excerpt: Śyála having called Gárgya the Brahman... impotent, in an assembly of the Yádavas... he engaged in arduous penance to obtain a son, who should be a terror to the tribe of Yadu... Kálayavana assembled many myriads of Mlechchhas... advanced impatiently against Mathurá.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.111 ()
+TITLE: KALAYAVANA AGREES TO KILL KRISHNA
+
+Vaishampayana said:—After the king Shalya, as directed by the Emperor
+Jarāsandha had said this Kālayavana, the king of Yavanas, with great
+delight said (1).
+
+Kalayavana said:—Oh! highly honored and blessed I am; and my life is
+crowned with success since numberless kings have requested me for
+vanquishing Krishna (2). The kings have appointed me in the work of
+subduing Krishna who is invincible in the three worlds, even unto gods
+and Asuras. And they have blessed me so that I will achieve victory (3).
+While the kings, with delighted hearts, have declared my victory I
+shall, by the very pouring of their water-like words, achieve success
+(4). Whatever it may be, I shall carry out the command of the Emperor
+Jarasandha issued at the request of the kings. Even my discomfiture in
+it will be, tantamount to my success (5). O king, to-day, the day and
+the stars are auspicious and in this auspicious moment I shall even
+to-day start for Mathurā for defeating Keshava in the battle-field (6).
+
+Vaishampāyana said:—Having thus addressed the powerful Shalya the king
+of Soubha, the lord of Yavanas honored him duly with highly precious
+jems and dresses (7). Afterwards for acquiring unstinted blessings he
+gave away various riches to his guest and the Brāhmanas and duly offered
+libations to fire. Then after the performance of benedictory rites he
+set out with his army for vanquishing Janārddana (8–9). O foremost of
+Bharatas, king Shālya too, with his desire fully achieved, embraced the
+lord of Yavanas and set out with a delighted heart for his own city
+(10).
+
+### Vishnu Purana (Wilson 1840) 5.23 ()
+Birth of Kálayavana: he advances against Mathurá. Krishńa builds Dwáraká, and sends thither the Yádava tribe: he leads Kálayavana into the cave of Muchukunda: the latter awakes, consumes the Yavana king, and praises Krishńa.PARÁŚARA.--Śyála having called Gárgya the Brahman, whilst at the cow-pens, impotent, in an assembly of the Yádavas, they all laughed; at which he was highly offended, and repaired to the shores of the western sea, where he engaged in arduous penance to obtain a son, who should be a terror to the tribe of Yadu. Propitiating Mahádeva, and living upon iron sand for twelve years, the deity at last was pleased with him, and gave him the desired boon. The king of the Yavanas, who was childless, became the friend of Gárgya; and the latter begot a son by his wife, who was as black as a bee, and was thence called Kálayavana. The Yavana king having placed his son, whose breast was as hard as the point of the thunderbolt, upon the throne, retired to the woods. Inflated with conceit of his prowess, Kálayavana demanded of Nárada who were the most mighty heroes on earth. To which the sage answered, "The Yádavas." Accordingly Kálayavana assembled many myriads of Mlechchhas and barbarians, and with a vast armament of elephants, cavalry, chariots, and foot, advanced impatiently against Mathurá and the Yádavas; wearying every day the animal that carried him, but insensible of fatigue himself.When Krishńa knew of his approach, he reflected that if the Yádavas encountered the Yavana, they would be so much weakened by the conflict, that they would then be overcome by the king of Magadhá; that their force was much reduced by the war with Magadhá, whilst that of Kálayavana was unbroken; and that the enemy might be therefore victorious. Thus the Yádavas were exposed to a double danger. He resolved therefore to construct a citadel for the Yadu tribe, that should not be easily taken; one that even women might defend, and in which therefore the heroes of the house of Vrishńi should be secure; one in which the male combatants of the Yádavas should dread no peril, though he himself should be drunk or careless, asleep or abroad. Thus reflecting, Krishńa solicited a space of twelve furlongs from the ocean, and there he built the city of Dwáraka 3, defended by high ramparts, and beautified with gardens and reservoirs of water, crowded with houses and buildings, and splendid as the capital of Indra, Amarávatí. Thither Janárddana conducted the inhabitants of Mathurá, and then awaited at that city the approach of Kálayavana.When the hostile army encamped round Mathura, Krishńa unarmed went forth, and beheld the Yavana king. Kálayavana, the strong-armed, recognizing Vásudeva, pursued him; him whom the thoughts of perfect ascetics cannot overtake. Thus pursued, Krishńa entered a large cavern, where Muchukunda, the king of men, was asleep. The rash Yavana entering the cave, and beholding a man lying asleep there, concluded it must be Krishńa, and kicked him; at which Muchukunda awoke, and casting on him an angry glance, the Yavana was instantly consumed, and reduced to ashes. For in a battle between the gods and demons, Muchukunda had formerly contributed to the defeat of the latter; and, being overcome with sleep, he solicited of the gods as a boon that he should enjoy a long repose. "Sleep long and soundly," said the gods; "and whoever disturbs you shall be instantly burnt to ashes by fire emanating from your body."Having burnt up the iniquitous Yavana, and beholding the foe of Madhu, Muchukunda asked him who he was. "I am born," he replied, "in the lunar race, in the tribe of Yadu, and am the son of Vasudeva." Muchukunda, recollecting the prophecy of old Garga, fell down before the lord of all, Hari, saying, "Thou art known, supreme lord, to be a portion of Vishńu; for it was said of old by Garga, that at the end of the twenty-eighth Dwápara age Hari would be born in the family of Yadu. Thou art he, without doubt, the benefactor of mankind; for thy glory I am unable to endure. Thy words are of deeper tone than the muttering of the rain cloud; and earth sinks down beneath the pressure of thy feet. As in the battle between the gods and demons the Asuras were unable to sustain my lustre, so even am I incapable of bearing thy radiance. Thou alone art the refuge of every living being who has lighted on the world. Do thou, who art the alleviator of all distress, shew favour upon me, and remove from me all that is evil. Thou art the oceans, the mountains, the rivers, the forests: thou art earth, sky, air, water, and fire: thou art mind, intelligence, the unevolved principle, the vital airs, the lord of life--the soul; all that is beyond the soul; the all-pervading; exempt from the vicissitudes of birth; devoid of sensible properties, sound and the like; undecaying, illimitable, imperishable, subject neither to increase nor diminution: thou art that which is Brahma, without beginning or end. From thee the immortals, the progenito
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0160 | next_story_id: DKS_0162
+previous title: Shalya Delivers Jarasandha's Message to Kalayavana
+next title: The Serpent-Jar Stratagem Against Kalayavana

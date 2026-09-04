@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0324",
+ "title": "Chitralekha Comes for Aniruddha",
+ "subtitle": null,
+ "story": "She came to Dwaraka with a theft on her mind and a name on her lips: Aniruddha, son of Pradyumna and grandson of Krishna.\n\nChitralekha made her way into the city and settled near the palace of Vasudeva, Krishna's father, turning over the question of how she might find the young prince and carry him away. While she sat thinking, she saw the ascetic Narada, the wandering sage of the gods, meditating in the water. Her eyes widened with joy. She approached him, saluted him, and stood before him with her head bowed. Narada blessed her, then asked, gently, what she had come for.\n\nWith folded hands she told him everything. She was a messenger, she said, come to take Aniruddha away with her. In the city of Sonitpura lived the great demon king Bana, and Bana had a daughter, Usha, the most beautiful maiden in the city. By the boon of a goddess, Usha had chosen Aniruddha for her husband \u2014 a man she had never met except in a dream. The dream had claimed her utterly, and Chitralekha meant to take him to her. But once Aniruddha was in Sonitpura, Krishna must learn the truth, for a great battle would follow: Bana was too strong for Aniruddha to defeat, yet Krishna would vanquish the thousand-armed demon. And that was what she feared. Krishna, when angered, could consume even the three worlds with a curse; she begged Narada to arrange matters so that Usha might have her husband and she herself might not be burned by that wrath.\n\nNarada gave his answer. \"I offer you protection,\" he said. \"Shorn of fear, hear what I say. If any battle takes place while you steal Aniruddha away to the apartments of the maidens, remember me \u2014 I am fond of seeing battles, and I take great pleasure in them. And take with you the Tamasika learning \u2014 the art of darkness and illusion that I mastered through long penance, and that can bewitch all the worlds.\"\n\n\"So be it,\" said Chitralekha. She saluted the sage and set out through the sky, searching for Aniruddha's house.\n\nShe found it in the centre of Dwaraka: the palace of Kama, the god of love, and beside it the palace where Aniruddha lived \u2014 golden altars, pillars of gold and sapphire, garlands hanging along the walls, jars of cool water at the doors, peacocks carved on the turrets, and row upon row of bright buildings set with jewels and coral, filled with the music of the Gandharvas, the heavenly musicians. And there she saw Aniruddha, playing in the midst of the most beautiful women of the court as the moon shines among the stars. Hundreds of women attended on him. Seated like Kubera, the god of wealth, on a fine seat, he was drinking Madhvika wine; sweet songs rose and fell in time, and dancers moved before him. But Chitralekha saw no pleasure in him. His mind was not on the wine; he showed dislike even for drinking it. She watched, and understood: his thoughts were with the dream. And her fear fell away.\n\nHiding herself in the sky above the palace, she spoke to him in sweet words, asking whether all was well with him, and then delivered her message. \"I have come to you from Usha,\" she said, \"the maiden whom you saw in a dream and married, and who cherishes you at her heart. She is weeping and sighing, for she cannot see you. She will live if you go to her; without you, she will die.\"\n\nThe words found their mark. By the power of her Tamasika illusion Chitralekha cast her spell over everyone in the palace except the prince himself, and carried Aniruddha away through the sky to Sonitpura \u2014 to a maiden's rooms where Usha was waiting for the man of her dream.",
+ "reflection": "The whole errand runs on illusion \u2014 the dream that joined Usha to a man she had never met, the Tamasika learning that lets Chitralekha move unseen through a city \u2014 yet every deception serves a genuine longing. Narada's blessing is characteristic: he helps gladly, and asks only to be remembered when the fighting begins.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Chitralekha",
+  "Narada",
+  "Usha",
+  "Aniruddha"
+ ],
+ "locations": [
+  "Dwarka"
+ ],
+ "themes": [
+  "emissary",
+  "friendship",
+  "illusion"
+ ],
+ "previous_story_id": "DKS_0323",
+ "next_story_id": "DKS_0325",
+ "next_story_tease": "But Vana's city would not keep its secret long, and the thousand-armed king had soldiers enough to answer it.",
+ "hero_scene": "Chitralekha, hidden in the sky above Aniruddha's jewelled palace in Dwaraka, speaking down to the prince as he sits among dancers and musicians, his mind elsewhere \u2014 the moon among stars, and the messenger who moves like thought.",
+ "visual_elements": [
+  "Chitralekha concealed in the sky above the palace",
+  "Aniruddha seated like Kubera among hundreds of beautiful women, drinking wine he does not want",
+  "the palace with golden altars, sapphire pillars, peacocks on the turrets, jars of water and garlands",
+  "the Gandharva music filling the air",
+  "moonlight and illusion"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.266",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:49:13Z",
+  "source_event_id": "evt_0343",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

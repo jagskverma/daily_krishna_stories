@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0371",
+ "title": "Nuptial Gifts for Indraprastha",
+ "subtitle": "Krishna brings the Yadava host to honour Subhadra's new home.",
+ "story": "When the twelve years of his exile were complete, Arjuna came home — and he did not come back alone. Beside him was Subhadra, the sister of Krishna, whom he had carried away from Dwaraka and married there. They returned to Khandavaprastha, the Pandavas' half-kingdom, where the brothers had raised the new city of Indraprastha. It was a homecoming with two edges: the city gained back a prince, and the household gained a new bride.\n\nArjuna went first to the king — his eldest brother, Yudhishthira — then paid his respects to the brahmin priests, and at last went in to Draupadi, the wife the five brothers shared. She met him with the sharpness of a woman who had waited twelve years and heard where her husband had been. \"Why do you linger here, son of Kunti?\" she said. \"Go to the daughter of the Satwata race! A second tie always loosens the first upon a bundle of firewood!\"\n\nThe Satwatas were Krishna's own clan — and the old proverb carried her fear plainly: a new bond, she felt, would loosen the old one. Arjuna pacified her and asked her forgiveness, again and again. And then Subhadra herself finished what his words had begun.\n\nShe came into the inner rooms dressed not as a queen but in the simple garb of a cowherd woman — Arjuna's own doing, so that she entered as a sister to the household, not a rival for its first lady. She looked, the account says, handsomer in that dress. First she bowed to Pritha — Kunti, Arjuna's mother — and Kunti, overcome with affection, drew the girl's head to her and breathed in the scent of her hair, the old mother's gesture of blessing, and poured blessings on her without end. Then Subhadra hastened to Draupadi, bowed before her, and said: \"I am your maid.\"\n\nDraupadi rose at once and embraced her — the sister of Krishna — with pure affection. \"Let your husband be without a foe!\" she blessed her.\n\n\"So be it!\" said Subhadra, her heart delighted.\n\nFrom that time the Pandavas lived happily, and Kunti too was happy. And when Krishna heard that Arjuna had reached Indraprastha with his sister, and that the household had made its peace, he came there himself, so that the whole world could see the marriage sealed in friendship.\n\nHe came with Balarama, his elder brother; with Pradyumna, his son; with Uddhava, his trusted friend and adviser; and with the heroes of the Vrishni and Andhaka clans. A great army guarded him on the road, and they brought nuptial presents with them, as a family celebrates a wedding it had not been able to attend. King Yudhishthira, hearing that Krishna was near, sent the twins, Nakula and Sahadeva, out to receive him, and the Vrishni host entered the city in splendour. The streets had been swept and watered and hung with floral wreaths, and sprinkled with sandalwood water, fragrant and cool; flags flew over the gates, and every part of the town was filled with the sweet scent of the day.\n\nThen the gifts were given. Krishna gave the Pandavas a thousand cars of gold furnished with rows of bells, ten thousand cows, mares and mules, and serving women — the gifts a family sends when a daughter goes to a new house. It was giving on the scale of Dwaraka itself, open-handed and glad.\n\nThe Pandavas received their kinsman's gifts, and the household that had been uneasy for one bright afternoon settled into the happiness that would carry it for years. The city stood fragrant and adorned, its streets full of Yadavas and Kurus mingling like one family. And under all the gold and the garlands lay the moment the whole procession had come to honour: a bride who had said, \"I am your maid,\" and the blessing that answered her — \"Let your husband be without a foe.\"",
+ "reflection": "Subhadra's answer to Draupadi — \"I am thy maid\" — dissolves the jealousy in a moment, and Draupadi's blessing follows at once: \"Let thy husband be without a foe.\" The household's peace is made not by Krishna's gifts but by the two women's grace; the great procession of cars and cows that follows only makes the alliance visible to the world.",
+ "tradition_note": "The nuptial gifts in this episode are for Subhadra's marriage and are distinct from the wedding presents Krishna earlier sent after Draupadi's wedding (Mahabharata 1.201). The Bhagavata Purana tells the Subhadra episode more briefly.",
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Arjuna",
+  "Yudhishthira",
+  "Subhadra",
+  "Draupadi",
+  "Kunti"
+ ],
+ "locations": [
+  "Indraprastha",
+  "Khandavaprastha",
+  "Dwaraka"
+ ],
+ "themes": [
+  "generosity",
+  "alliance",
+  "procession"
+ ],
+ "previous_story_id": "DKS_0370",
+ "next_story_id": "DKS_0372",
+ "next_story_tease": "Before long the new household would welcome a child — and Krishna would be there for the rites.",
+ "hero_scene": "Krishna's golden procession entering the flower-decked, sandalwood-scented streets of Khandavaprastha — a thousand gold cars with rows of bells, herds of cows, the Vrishni and Andhaka heroes around him, while Nakula and Sahadeva come forward to receive him at the gates.",
+ "visual_elements": [
+  "Krishna's procession of gold cars with rows of bells",
+  "herds of ten thousand cows",
+  "the Vrishni and Andhaka heroes around him",
+  "Nakula and Sahadeva coming forward to receive him",
+  "streets swept and watered, decked with floral wreaths",
+  "sandalwood water scenting the air",
+  "Subhadra in cowherd garb before Draupadi"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.223",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0386",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

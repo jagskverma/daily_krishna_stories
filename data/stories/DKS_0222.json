@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0222",
+ "title": "The Queen Who Cast Off Her Jewels",
+ "subtitle": null,
+ "story": "The maids were still speaking when Satyabhama's hands went to her clasps. Before their report was finished, the necklaces and bangles that had gleamed on her at dawn lay in a heap at her feet; and then she shut herself into the loneliest room of her mansion on the mountain.\n\nThe report had come from the festival on Mount Raivataka, where Krishna had taken Rukmini — his chief queen, the daughter of King Bhishmaka — for the ceremony that ended a vow she had been keeping. All sixteen thousand of Krishna's wives had gone up the mountain, each in the finery of her rank, and the festival had been days of giving: priests, beggars, and holy men had gone away satisfied, and when the fasting ended, Krishna had honored Rukmini before the whole gathering.\n\nIt was there that the wandering sage Narada had come to Krishna, and the tale of what followed had flown through every tent and mansion before the evening was out. Narada had given Krishna a single blossom of the Parijata, the heavenly coral tree; and Krishna, with Rukmini at his side, had passed it to her. She had set the flower in her hair, and Narada had praised her before them all. The flower would never wither, the maids reported; it would scent the air as she wished for a full year, give warmth or coolness at her word, light her nights like a lamp, and take whatever color or shape she desired. Even the wives of the gods — Sachi, Aditi, Savitri, and Uma — wore such flowers, and never for more than a year.\n\nSatyabhama, the daughter of Satrajit, was proud, and her pride stood on a single foundation: that she was the wife Krishna loved best. Now a flower from the gardens of heaven had been set on Rukmini's head, the greatest of sages had called Rukmini the foremost of Krishna's wives, and the whole mountain was talking of nothing else. Such good fortune falling on a co-wife was more than she could bear. Anger rose in her like a flame.\n\nShe sat in the midst of her handmaids, who knelt silent and did not dare to speak. Through the windows, the sounds of the festival drifted up the hill — the songs, the blessings, the laughter of guests who had come to honor a happiness that was not hers. The room she had chosen was far from all of it. There Satyabhama sat, her jewel boxes empty, her anger burning slowly, like a fire that has been fed and left to itself.\n\nShe did not know — how could she? — that even then, Krishna had noticed her empty place in the circle of his wives. The festival went on without her, and the praises of Rukmini continued. But the queen who had cast off her ornaments sat waiting in her anger; and it was only a matter of time before someone who loved her came looking for her.",
+ "reflection": "Satyabhama's jealousy is the shadow side of her love: she measures Krishna's regard by what can be seen, and a flower on another queen's head becomes a verdict on her own worth. The pride of being loved best is a fragile crown, and this is the first moment it slips — a small, human crack in the grandeur of Dwaraka.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Satyabhama",
+  "Krishna",
+  "Rukmini",
+  "Narada"
+ ],
+ "locations": [
+  "Raivataka"
+ ],
+ "themes": [
+  "jealousy",
+  "honour",
+  "co-wives"
+ ],
+ "previous_story_id": "DKS_0221",
+ "next_story_id": "DKS_0223",
+ "next_story_tease": "Krishna, reading the storm in her silence, slipped away from the festival toward her mansion.",
+ "hero_scene": "Satyabhama sitting alone in the lamplit apartment of anger, her discarded jewels in a heap on the floor at her feet, her face turned away, while far below on the hill the festival lights of Rukmini's celebration glow and music drifts up through the night.",
+ "visual_elements": [
+  "Satyabhama seated in the apartment of anger",
+  "a heap of discarded necklaces and bangles on the floor",
+  "kneeling handmaids with downcast faces",
+  "festival lights and music on the hillside below",
+  "the Parijata flower on Rukmini's head in the background",
+  "jealousy and smouldering anger"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.122",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:03Z",
+  "source_event_id": "evt_0293",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0509",
+ "title": "The Moth and the Bee",
+ "subtitle": null,
+ "story": "A lamp flame is a small thing, and yet the moth flies straight into it. It circles the light once, twice, drawn by a brightness that promises nothing but itself, and in a moment it is gone — a scorched thread of a body dropping onto the ledge below the flame. The light did not hunt it; the moth did all the hunting itself. The flame burned on as if nothing had happened.\n\nIt was by a lamp in a wayside rest-house, at night, that the wandering teacher watched this happen, and he counted the moth among his teachers. He was an avadhuta — a brahmin who had put aside home, name, and belongings — and he walked the forest roads taking lessons from everything he met. He had no guru but the world, and the world never ran out of lessons. He learned to read the smallest things this way: a drop of water, a bent blade of grass, a sparrow's quarrel — each one a page of some teaching. Nothing was too small to teach him, and nothing, he said, was too small to destroy a man.\n\nThe moth's lesson was desire. The flame asks nothing of the moth; it is the moth that gives everything, and for what? A little brightness. So it is, he said, with a man who is not master of his senses. Bewitched by a woman's beauty — by the gold of her ornaments, the fine weave of her clothes, the thousand small enchantments that the world spins around itself — he follows the brightness wherever it leads, and falls into blinding darkness, exactly as the moth falls into the flame. He had seen it happen to men he knew — sensible men, undone by a face. It is not that beauty is false. It is that desire cannot stop at looking. It must draw nearer, and then nearer, until the light that seemed so lovely is the fire that burns it.\n\nThe bee taught him the other way. In the mornings he would sit where the bees worked, among the wild flowers at the road's edge, and watch them go about their business: nothing in haste, nothing in excess, each blossom left able to bloom again. The bee visits many flowers and takes from each only a little — a sip of nectar, a dusting of pollen — and carries nothing away to hoard. So the wise man, said the avadhuta, gathers the essence from every teaching, great and small, from the longest scripture to the humblest creature's way of living, the way the bee gathers from every flower: he takes what is good from each and clings to none. He eats a little at a time, just enough to keep the body alive, and what is begged for the day is used that same day; he never lays it up for the evening or the morning. The flower is not the enemy. The hoard is the enemy.\n\nTwo small creatures, two ways of being alive. One dies of wanting everything; the other lives by taking a little and letting the rest go. The avadhuta said he had made himself the bee: he tasted the world's sweetness without needing to own it, listened to great teachings and small ones without becoming the servant of any, and slept each night with empty hands, having kept nothing for a day that had not yet come. He was not cold, he said; he was only free of the need that makes men hold on.\n\nHe used to say that the two insects together were one complete teaching. The moth shows what appetite costs; the bee shows what appetite is for. Between the two, a man may choose how to want. It is a quiet discipline — and a hard one. The flame is so bright, and the flowers are so many.",
+ "reflection": "The two lessons work by contrast: the moth dies of wanting everything, the bee lives by taking a little from each flower and keeping nothing. The point is not that beauty is false but that grasping is fatal — the same hunger destroys when it must own, and sustains when it only takes enough.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the avadhuta",
+  "the moth",
+  "the bee"
+ ],
+ "locations": [
+  "a forest road"
+ ],
+ "themes": [
+  "desire",
+  "non-hoarding",
+  "taking the essence"
+ ],
+ "previous_story_id": "DKS_0508",
+ "next_story_id": "DKS_0510",
+ "next_story_tease": "The wandering teacher's next gurus were wilder still — an elephant led by desire, a honey-gatherer stung for his hoard, a deer caught by song, and a fish taken by the tongue.",
+ "hero_scene": "By lamplight in a wayside rest-house, a moth circles a flame and falls; the wandering teacher watches, one small shadow against the light.",
+ "visual_elements": [
+  "the moth circling a lamp flame and falling",
+  "the wandering teacher watching by lamplight",
+  "a wayside rest-house at night",
+  "bees working wild flowers at the road's edge",
+  "flowers left whole after the bee's visit",
+  "a mood of quiet observation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.8.6-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:24Z",
+  "source_event_id": "evt_0529"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

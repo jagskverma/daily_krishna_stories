@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0455",
+ "title": "A Chariot Between Two Armies",
+ "subtitle": null,
+ "story": "Somewhere on the field of Kurukshetra there were hundreds of thousands of men, but what Arjuna asked to see was only their faces.\n\nIt began with a question from a blind king. Seated in his palace, Dhritarashtra asked Sanjaya what his sons and the Pandavas had done, assembled together on the sacred plain from desire of fighting. And Sanjaya answered as he saw it, moment by moment, from the first arraying of the armies.\n\nKing Duryodhana walked the lines with his preceptor Drona, reviewing the might he had gathered. He pointed out the enemy's champions — Yuyudhana, Virata, Drupada, Dhrishtadyumna, the ruler of Kasi, Subhadra's son Abhimanyu, the sons of Draupadi — and then named his own: Bhishma, Karna, Kripa, Ashwatthaman, Vikarna, Jayadratha, and the many heroes ready to lay down their lives for his sake. Our army, protected by Bhishma, is insufficient, he said; theirs, protected by Bhima, is sufficient. He asked his captains to station themselves at the entrances of their divisions and protect Bhishma alone.\n\nThen the valiant grandsire of the Kurus, giving Duryodhana great joy, roared like a lion and blew his conch. At once conches, drums, cymbals, and horns sounded together, and the noise became a great uproar. Krishna and Arjuna, stationed on their great car yoked with white steeds, blew their celestial conches — Krishna blew Panchajanya, and Arjuna blew Devadatta. Bhima blew his huge conch Paundra; Yudhishthira blew Anantavijaya; Nakula and Sahadeva blew Sughosa and Manipushpaka. The ruler of Kasi, Sikhandin, Dhrishtadyumna, Virata, the unvanquished Satyaki, Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra — all blew their conches. The blare reverberated through the sky, and it rent the hearts of the Kauravas.\n\nThen Arjuna, whose banner bore the ape, raised his bow and spoke to Krishna as the throwing of missiles was about to begin. \"Place my car between the two armies, O one who knows no deterioration,\" he said, \"so that I may observe these men who stand here desirous of battle, and with whom I must contend in the labours of this struggle. I want to see those who have assembled to fight for the evil-minded son of Dhritarashtra.\"\n\nKrishna drove the excellent car between the two armies, in full view of Bhishma and Drona and all the kings of the earth, and said, \"Behold, O Partha, these assembled Kurus.\"\n\nAnd there the son of Pritha beheld, standing on both sides, his sires and grandsons, his friends, his father-in-law, his well-wishers — his preceptors and his teachers, his sons and his grandsires, his maternal uncles and his brothers-in-law, his kinsmen, the men who had raised him. And as he looked at them, something in him gave way. \"Beholding these kinsmen, O Krishna,\" he said, and his voice failed him. His limbs grew languid, his mouth went dry; his body trembled, and his hair stood on end. Gandiva slipped from his hand. \"I do not desire victory, O Krishna,\" he said, \"nor sovereignty, nor pleasures. Of what use is a kingdom, or enjoyment, or even life, since those for whose sake we desired them stand here arrayed against us, ready to give up life and wealth? I wish not to slay these, though they slay me, not even for the sovereignty of the three worlds — what, then, for the sake of this earth?\"\n\nThe car stood between the armies, the white horses still, and the whole field waited — the conches silent, the banners still — while the finest archer in the world looked at the men he loved and found he could not fight them. And Sanjaya's voice, telling it all to the blind king, fell silent too, for the charioteer had not yet spoken.",
+ "reflection": "Krishna does not drive the chariot where Arjuna can admire the spectacle; he drives it where Arjuna must see that both armies are his family. The survey before battle is no scouting mission — it is the moment the war becomes unbearable, and every word of the Gita will grow out of that unbearable sight.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Duryodhana",
+  "Bhishma",
+  "Drona"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "survey before battle",
+  "kinship",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0454",
+ "next_story_id": "DKS_0456",
+ "next_story_tease": "In that moment of pity, Arjuna would set down his bow and refuse the war.",
+ "hero_scene": "Krishna drives the white-steeded chariot between the two vast armies at Kurukshetra, in full view of Bhishma, Drona and all the kings, while Arjuna looks out at the faces of his kinsmen on both sides.",
+ "visual_elements": [
+  "the two vast armies arrayed on the plain of Kurukshetra",
+  "Duryodhana reviewing his champions with Drona",
+  "Bhishma roaring like a lion and blowing his conch",
+  "Krishna and Arjuna on the great white-steeded car blowing Panchajanya and Devadatta",
+  "Krishna driving the chariot between the armies",
+  "Arjuna beholding his kinsmen on both sides, Gandiva slipping from his hand"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.25",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0452"
+ },
+ "editorial_status": "unreviewed"
+}

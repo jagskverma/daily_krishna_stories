@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0488",
+ "title": "Krishna Departs Hastinapura",
+ "subtitle": "A city watches its friend leave",
+ "story": "It was months before Krishna could bring himself to leave Hastinapura.\n\nThe great war had ended with his friends the Pandavas on the throne of their fathers, and Krishna had stayed on in their city — to gladden them, to comfort his sister Subhadra, who still mourned the war's dead, and to let a broken city begin to heal in the presence of someone it trusted completely. Months passed. The wounds of the Kuru house began to close, and still the parting was put off. At last it could be delayed no longer. He took leave of everyone, embraced them one by one, bowed to the elders, and mounted his chariot. The morning was clear, and every person in the city knew this would be the last they would see of him from their own streets for a long while.\n\nAnd the city could not let him go.\n\nSubhadra, Draupadi, Kunti — Gandhari and old Dhritarashtra, whose own sons had all fallen in the war — none of them could bear the thought of his going. Their eyes followed him and would not turn away. The wise say that those who have tasted true company cannot give it up again; how then could the Pandavas, whose minds were fixed on Krishna, endure his absence? Tears rose in their eyes and were held back, from sheer longing for Devaki's son. No one wanted to be the first to look away.\n\nThe whole city came out to see him go. Mridanga drums sounded and conches, bheris and vinas — drums and horns and lutes calling and answering down the length of the royal road. The women of the Kuru house climbed to the roofs of the palaces, desperate for one more sight of him, and the children of the city ran beside the chariot wheels until the road turned. A white umbrella sewn with pearl garlands was raised over his head, and Uddhava — Krishna's closest friend and adviser — and Satyaki, his kinsman, walked beside his chariot, waving long chauri fans. Here and there along the way, the blessings of the brahmins rose over the noise and were heard.\n\nAnd as the chariot moved through the streets, the people spoke of the one who was leaving. \"This is he, surely,\" they said — \"the ancient Person, who alone existed before all distinctions, who sets creation turning again by his own power. His are the feet the sages seek; his deeds are sung in the hidden places of the oldest sacred verses. When kings grow dark with unrighteousness, he comes down.\" \"How blessed is the clan of Yadu,\" others said, \"and how holy the forest of Madhu that raised him. And Kushasthali, his city — the city men now call Dwaraka — dims the glory of heaven itself and makes the earth famous. The women who won him by the price of his own valor, when at the svayamvara — the ceremony where a princess chooses her own husband — he carried off his bride past the fierce king of Chedi and the rest — they make womanhood itself glorious.\" So the women of the city talked as he passed. The old verses set it down that these were the words heard along the royal road that morning — a whole city praising, as one, the one it loved.\n\nYudhishthira rode with him part of the way, with the army and the escort to guard him. And at the edge of the city, the Kurus stood at a distance, hardly able to bear the parting, their eyes unblinking on the figure growing smaller down the road.\n\nKrishna passed on. He traveled through the land of the Kurus and through Panchala, through Shurasena and the country along the Yamuna, across the great Maru desert, and through the far provinces of Sauvira and Abhira. And at every kingdom he crossed, the people came out to meet him and did him honor, pressing gifts upon him as he passed — for the road to Dwaraka, though long, ran through a land that had been waiting to see him.",
+ "reflection": "The verses pause to note that those who have known such company cannot bear to lose it, and the Pandavas, whose minds were fixed on Krishna, could hardly endure the parting. What makes the scene moving is that the grief is not for a king or a deity but for a friend: the city grieves him as a presence that will simply be gone.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Kunti",
+  "Draupadi",
+  "Subhadra"
+ ],
+ "locations": [
+  "Hastinapura",
+  "the road to Dwaraka"
+ ],
+ "themes": [
+  "farewell",
+  "separation",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0487",
+ "next_story_id": "DKS_0489",
+ "next_story_tease": "Ahead lay the desert road — and a sea-girt city already decking its gates for his return.",
+ "hero_scene": "Krishna's chariot rolling out of Hastinapura beneath a white umbrella sewn with pearls, Uddhava and Satyaki waving great fans on either side, while the women of the Kuru house watch from the palace roofs and the Pandavas stand at the city's edge, unable to look away.",
+ "visual_elements": [
+  "Krishna",
+  "chariot",
+  "white umbrella",
+  "Uddhava",
+  "Satyaki",
+  "palace roofs",
+  "Kuru women",
+  "the Pandavas",
+  "royal road",
+  "morning"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.10.6-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:13:00Z",
+  "source_event_id": "evt_0502",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

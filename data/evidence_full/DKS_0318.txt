@@ -1,0 +1,104 @@
+# STORY DKS_0318 — Pradyumna Slays Shamvara's Four Ministers || Pradyumna slays the four Danava ministers — Durdhara, Ketumali, Shatruhanta and Pramardana — one by one, and their army flees in terror.
+
+## Index entry
+title: Pradyumna Slays Shamvara's Four Ministers || Pradyumna slays the four Danava ministers — Durdhara, Ketumali, Shatruhanta and Pramardana — one by one, and their army flees in terror.
+summary: Pradyumna slays the four Danava ministers — Durdhara, Ketumali, Shatruhanta and Pramardana — one by one, and their army flees in terror.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Pradyumna, Durdhara, Ketumali, Shatruhanta, Pramardana
+locations: battlefield
+themes: single combat, rout, strength
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0337
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 252 | verses  | confidence 4
+  excerpt: he shot it at the breast of the short-lived Durdhara... with it before all he cut off Ketumāli's head... the heart of the highly powerful Shatruhantā was cut off... Kāma... crushed down Pramarddana with that club
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.252 ()
+TITLE: BATTLE BETWEEN PRADYUMNA AND SHAMVARA’S SONS
+
+Vaishampāyana said:—Thereupon there took place a great hair-stirring
+encounter between Rukshmini’s son and those of Shamvara (1). Afterwards
+in anger those great Daityas began to shower simultaneously on Pradyumna
+arrows, Saktis, Parashwadhas, Tomara’s, Kuntas, Bhushundis and maces
+(2). Krishna’s son too, worked up with anger, struck them in the battle
+each with five arrows shot off his bow. Thereupon those resolute Asuras,
+exceedingly wroth, set up a net-work of weapons for killing Pradyumna.
+Thereat worked up with anger Ananga soon took up his bow (3-5). He then
+killed the ten highly powerful sons of Shamvara. The next moment, filled
+with anger the powerful son of Keshava soon cut off Chitrasena’s head
+with a Bhalla. Thereupon the remaining sons of Shamvara, anxious to
+fight, began to run taking up and discharging arrows. And for killing
+Ananga they all unitedly fought and shot arrows. The highly powerful son
+of Krishna, on the other hand, cut off their heads, as if in sport.
+Having thus slain one hundred sons of Shamvara, all good bow men, he
+stood in the battle field desirous of fighting. Hearing of the death of
+his hundred sons Shamvara was filled with wrath (6–10). He asked his
+charioteer to get ready his car. Receiving the order of the king the
+charioteer saluted him touching the ground with his head and brought the
+car there, and asked the soldiers to get ready soon. It was drawn by a
+thousand bear and tied with the ropes of snakes. It was coated with
+tiger-skin, adorned with a net-work of small bells and filled with
+wolves. It had ten stairs, one after another, was painted with stars and
+adorned with gold. It had a huge standard, was high and embellished with
+flags having the figures of lions painted on them. It had wooden fenders
+around it and iron axles. It was high like the summit of Mandara, was
+bedecked with beautiful _chowries_, covered with stars and adorned with
+golden standards (11-16). As if urged on by Death, Shamvara, putting on
+a golden armour and taking up his bow and arrows, set out for battle
+accompanied by his soldiers and four ministers. Encircled by his
+ministers, Durdhara, Ketumāli, Shatruhantā and Pramarddana, Shamvara set
+out, desirous of fighting. When with two hundred cars, ten thousands
+elephants, eight thousand horses and ten lakhs of infantry Shamvara set
+out for the battle-field there appeared various omens on all sides. The
+cranes began to emit hideous yells in the sky filled with vultures and
+fire-brands, making a sound like that of evening clouds, began to fall
+down. The jackals yelled striking terror into the huge army. And
+vultures sat on the tops of the standards desirous of drinking the blood
+of the Danavas. Headless figures were seen dropping on his car (17–23).
+The birds emitted indistinct notes on Samvara’s car. The moon was
+possessed by Rahu (eclipsed) and encircled by its disc. His left hand
+and eye danced presaging some calamity and the horses, attached to his
+car, became of slackened speed. The Kanka birds fell on the head of
+Shamvara, the sworn enemy of the celestials and Indra began to send down
+a shower of blood mixed with live coals and cinders. Thousands of
+fire-brands dropped down on the battle-field and reins slipped off the
+hands of the charioteer. But Shamvara, filled with anger, paid no
+attention to those portends and proceeded for slaying Pradyumna. Thereat
+the earth shook at the sound of bugles, conch-shells, Mridanga, Panava,
+and Anaka all played upon simultaneously. Overwhelmed with terror caused
+by that terrible sound, beasts and birds fled away on all sides.
+Krishna’s son, however, bent on slaying his enemy, waited in the
+battle-field.
+
+Shamvara, determined to fight and encircled by thousands of soldiers,
+struck Pradyumna with thousands of arrows. He, however, displaying
+quick-handedness, cut those arrows off before they could reach him. And
+bending his bow he shot arrows that there was none in the army who was
+not struck with one (24–33). Thus assailed with arrows by Pradyumna
+Shamvara’s men returned to him in fear. Beholding his men take to their
+heels, Shamvara, beside himself with anger, ordered his ministers. "At
+my mandate do ye proceed and strike my enemy’s son. Do not neglect him
+but kill him at once. If neglected he will ultimately ruin us like a
+disease disregarded in the beginning. If you wish to please me kill this
+sinful wretch of a wicked soul" (34–37).
+
+Obeying Shamvara’s command and filled with anger the ministers drove
+their cars showering arrows. Seeing them run towards the battle-field
+the powerful Pradyumna was worked up with anger. Quickly taking up his
+bow he stood there. The highly powerful Pradyumna, the enhancer of the
+delight of Rukshmini, in anger, struck Durdhara with twenty-five arrows,
+Ketumāli with sixty three, Satruhanta with seventy and Pramarddana with
+eighty two. Thereat filled with anger the ministers covered Pradyumna
+with a downpour of arrows. Indeed i
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0317 | next_story_id: DKS_0319
+previous title: Pradyumna Slays the Hundred Sons of Shamvara || In a single battle, Pradyumna cuts down all hundred of Shamvara's sons who come against him, and stands victorious awaiting the father.
+next title: Shamvara's Illusions and Pradyumna's Counters || Shamvara hurls illusory trees, stones, lions and a serpent-maya at Pradyumna, who counters each with fiery weapons and a Garuda illusion, to the applause of the gods.

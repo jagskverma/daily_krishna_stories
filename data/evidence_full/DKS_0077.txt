@@ -1,0 +1,38 @@
+# STORY DKS_0077 — Why Kaliya Took Refuge in the Yamuna
+
+## Index entry
+title: Why Kaliya Took Refuge in the Yamuna
+summary: The sage recounts how Kaliya, having withheld Garuda's tribute and been beaten by him, fled to the Yamuna pool, where a curse forbade Garuda to enter.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Kaliya, Garuda, Saubhari
+locations: Yamuna river
+themes: backstory, fear
+festival_tags: Naga Panchami
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0074
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 17 | verses 1-11 | confidence 5
+  excerpt: It is told how Kaliya, who had scorned the tribute owed to Garuda, was struck by his wing and fled into the Yamuna; there the sage Saubhari's curse kept Garuda from entering. (rendered from Sanskrit, verse 1-11)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.17 (1-11)
+1. bhp_10.17.002/0 śrī-śuka uvāca
+2. svaṃ svaṃ bhāgaṃ prayacchanti nāgāḥ parvaṇi parvaṇi /
+3. viṣa-vīrya-madāviṣṭaḥ kādraveyas tu kāliyaḥ /
+4. tac chrutvā kupito rājan bhagavān bhagavat-priyaḥ /
+5. tam āpatantaṃ tarasā viṣāyudhaḥ pratyabhyayād utthita-naika-mastakaḥ /
+6. taṃ tārkṣya-putraḥ sa nirasya manyumān $ pracaṇḍa-vego madhusūdanāsanaḥ &amp;pakṣeṇa savyena hiraṇya-rociṣā % jaghāna kadru-sutam ugra-vikramaḥ
+7. suparṇa-pakṣābhihataḥ kāliyo 'tīva vihvalaḥ /
+8. tatraikadā jala-caraṃ garuḍo bhakṣyam īpsitam /
+9. mīnān su-duḥkhitān dṛṣṭvā dīnān mīna-patau hate /
+10. atra praviśya garuḍo yadi matsyān sa khādati /
+11. tat kāliyaḥ paraṃ veda nānyaḥ kaścana lelihaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0076 | next_story_id: DKS_0078
+previous title: Krishna Spares and Banishes Kaliya
+next title: Krishna Emerges and the Villagers Rejoice

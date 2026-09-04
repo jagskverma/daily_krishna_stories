@@ -1,0 +1,42 @@
+# STORY DKS_0506 — The Avadhuta's Lessons from the Elements
+
+## Index entry
+title: The Avadhuta's Lessons from the Elements
+summary: The avadhuta relates what he learned from the earth, wind, sky, water, fire, moon and sun: forbearance, detachment, unaffectedness, purity, untaintedness, waxing and waning, and the one soul reflected in many bodies.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: Krishna, Uddhava, the avadhuta
+locations: (teaching)
+themes: forbearance, detachment, purity, non-attachment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0526
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 7 | verses 36-50 | confidence 5
+  excerpt: The avadhuta said: 'Though trampled by all beings, the wise one does not stray from his path — this I learned from the earth. Moving among the objects of sense, the yogi remains unattached like the wind; pure and sweet like water; untainted by what he consumes, like fire; waxing and waning like the moon; one soul appearing in many bodies, like the sun.' (rendered from Sanskrit, verses 36-50)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.7 (36-50)
+36. bhūtair ākramyamāṇo 'pi dhīro daiva-vaśānugaiḥ /
+37. śaśvat parārtha-sarvehaḥ parārthaikānta-sambhavaḥ /
+38. prāṇa-vṛttyaiva santuṣyen munir naivendriya-priyaiḥ /
+39. viṣayeṣv āviśan yogī nānā-dharmeṣu sarvataḥ /
+40. pārthiveṣv iha deheṣu praviṣṭas tad-guṇāśrayaḥ /
+41. antarhitaś ca sthira-jaṅgameṣu brahmātma-bhāvena samanvayena /
+42. tejo-'b-anna-mayair bhāvair meghādyair vāyuneritaiḥ /
+43. svacchaḥ prakṛtitaḥ snigdho mādhuryas tīrtha-bhūr nṛṇām /
+44. tejasvī tapasā dīpto durdharṣodara-bhājanaḥ /
+45. kvacic channaḥ kvacit spaṣṭa upāsyaḥ śreya icchatām /
+46. sva-māyayā sṛṣṭam idaṃ sad-asal-lakṣaṇaṃ vibhuḥ /
+47. visargādyāḥ śmaśānāntā bhāvā dehasya nātmanaḥ /
+48. kālena hy ogha-vegena bhūtānāṃ prabhavāpyayau /
+49. guṇair guṇān upādatte yathā-kālaṃ vimuñcati /
+50. budhyate sve na bhedena vyakti-stha iva tad-gataḥ /
+
+## Corpus chain
+previous_story_id: DKS_0505 | next_story_id: DKS_0507
+previous title: Yadu Meets the Wandering Avadhuta
+next title: The Pigeon and the Hunter's Net

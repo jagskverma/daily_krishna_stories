@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0289",
+ "title": "Krishna Eats Sudama's Flat Rice",
+ "subtitle": null,
+ "story": "Sudama was a poor brahmana, and he had set out for Dwaraka with very little in his hands — a single handful of flattened rice, tied in the fold of his cloth, the only gift he could bring to his friend Krishna, who was now lord of a city of gold.\n\nKrishna had once been his friend; this much Sudama held to, though time and fortune had carried them far apart. Krishna had come into kingship and wealth — a palace, a household, a city that glittered on the sea. Sudama had stayed poor, with a wife at home and a house where the grain did not always last. The flattened rice was the food of the very poor, pressed flat and carried in a rag; it was all he had to offer, and he knew how small it would look in that place.\n\nHe had meant, somewhere in his heart, to ask for help. A poor man does not cross half the kingdom for nothing. But the nearer he came to Dwaraka, the smaller his request seemed, until it lodged in his throat like a stone he could neither swallow nor speak.\n\nThe city, when he reached it, was more than he had imagined — towers and gold and the sound of the sea against the walls — and he walked through it feeling smaller with every step, clutching the little knot of rice against his side. Krishna did not wait for Sudama to be announced. When he heard who had come, he went out himself and received his friend with the warmth of old affection, and led him in, and seated him where he himself sat. Sudama looked around at the splendor of that house and felt his poverty more keenly than he ever had at home.\n\nKrishna, who sees into every heart, knew exactly why Sudama had come and what he carried. Gently he asked what gift his friend had brought him. Even a trifle offered with love pleases him, Krishna said — a leaf, a flower, a fruit, a little water. Whatever is given with devotion, he accepts.\n\nSudama was ashamed, and he offered nothing. He could not bring himself to untie the knot in his cloth; the rice, so carefully carried all that way, now seemed too small to show and too poor to give. So Krishna reached over and took the handful of rice from the fold of his friend's cloth. What you have brought me, he said, is what pleases me most. He ate one mouthful, and it gave him the delight of a feast. He reached for a second.\n\nThen the goddess of fortune, watching and pleased, stayed his hand. This much, she said, is enough to grant every riches in the world. She who is herself the source of all wealth was telling him that a beggar's handful of pressed grain was already enough.\n\nSudama did not understand what that could mean. He stayed that night in Krishna's house, and in the morning he set out for home. He had asked for nothing; not one word of his need had crossed his lips. He returned the way he had come, on foot and empty-handed, carrying only the memory of his friend's welcome — and to Sudama, that welcome was worth more than any treasure he might have been bold enough to name. Something had been given and received in that room, and though he could not put a name to it, he carried it home as surely as he had carried the rice. The shame that had walked with him all the way to Dwaraka did not walk with him back.",
+ "reflection": "The story turns on what Sudama does not say. Face to face with the friend he came to ask for help, he is too ashamed to speak of his need, and he offers only the handful of rice he carried in a rag. Krishna's delight in that handful — and the goddess of fortune's word that it already contains every riches — suggests that what is given with love is never small.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Sudama"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "humility",
+  "grace",
+  "contentment"
+ ],
+ "previous_story_id": "DKS_0281",
+ "next_story_id": "DKS_0298",
+ "next_story_tease": null,
+ "hero_scene": "Krishna lifts a mouthful of Sudama's flattened rice from the fold of his old cloth, reaching to taste it with open delight, while Sudama stands before him in his simple, patched clothes, too overcome to speak.",
+ "visual_elements": [
+  "Krishna",
+  "Sudama",
+  "the flattened rice tied in a cloth",
+  "Dwaraka palace",
+  "the goddess of fortune's staying hand",
+  "warmth",
+  "tenderness",
+  "restraint"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.81.2-12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0278"
+ },
+ "editorial_status": "unreviewed"
+}

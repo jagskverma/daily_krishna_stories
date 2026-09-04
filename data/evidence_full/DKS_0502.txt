@@ -1,0 +1,33 @@
+# STORY DKS_0502 — Krishna Sends Uddhava to Vrindavan
+
+## Index entry
+title: Krishna Sends Uddhava to Vrindavan
+summary: Krishna charges Uddhava with a message to console Nanda, Yashoda and the pining gopis.
+life_stage: mathura | story_arc: uddhava_and_teachings
+characters: Krishna, Uddhava
+locations: Mathura
+themes: mission, message
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0155
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 46 | verses 1-6 | confidence 5
+  excerpt: Krishna sent his beloved devotee Uddhava to Vrindavan with a message to console Nanda, Yashoda and the gopis, who were pining in his absence. (rendered from Sanskrit, verses 1-6)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.46 (1-6)
+1. tam āha bhagavān preṣṭhaṃ bhaktam ekāntinaṃ kvacit /
+2. gacchoddhava vrajaṃ saumya pitror nau prītim āvaha /
+3. tā man-manaskā tṛṣṭ-prāṇā mad-arthe tyakta-daihikāḥ /
+4. mayi tāḥ preyasāṃ preṣṭhe dūra-sthe gokula-striyaḥ /
+5. dhārayanty ati-kṛcchreṇa prāyaḥ prāṇān kathañcana /
+6. bhp_10.46.007/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0501 | next_story_id: DKS_0503
+previous title: Krishna's Final Instruction to Uddhava
+next title: Uddhava Arrives in Vrindavan and Nanda Longs for Krishna

@@ -1,0 +1,69 @@
+{
+ "id": "DKS_0003",
+ "title": "The Doom Prophecy Warns Kamsa",
+ "subtitle": null,
+ "story": "On the day of his sister's wedding, Kamsa, the son of King Ugrasena of Mathura, did something no prince was expected to do. He climbed onto the wedding chariot and took the reins himself. Devaki, the bride, was the youngest daughter of the house and the sister he loved, and he wanted to drive her and her new husband through the streets with his own hands. Everyone who watched the procession that day saw only a brother honouring his sister.\n\nThe procession was a river of gold. Four hundred elephants swayed beneath garlands of gold, and two hundred young maidservants, dressed and adorned in their finest, walked beside the chariot. Conches sounded and horns blew, and the deep roll of mridanga drums and kettledrums filled the air, so that the whole road seemed to move to a single bright rhythm. Vasudeva, the groom, sat beside his bride, and the road out of the city lay open and shining before them. It was the kind of day a family remembers for its brightness, its noise, its promise.\n\nThen, on that open road, a voice spoke.\n\nIt had no body. It came from nowhere and everywhere at once, deep and rolling as thunder, and it spoke for Kamsa alone. No one else in the procession seemed to hear a thing; the drums and the conches played on for a few beats longer while the prince sat frozen, the words ringing in his ears. It called him a fool. The woman he was driving, it said, would bear eight children, and her eighth child would take away his life. The words were few, but they were enough to undo a man.\n\nThe music stopped. The elephants stood still. Kamsa's hands tightened on the reins, and for a long moment he did not move. Then, in a single motion, he reached for his sword and turned on his own sister, meaning to kill her there in the chariot, before any such child could ever be born.\n\nVasudeva moved first. He placed himself between the blade and his bride and would not step aside. Behind them the golden procession stood frozen, and for a long moment no one dared to breathe.\n\nThe sword did not fall that day. But something else had already fallen. The brother who had taken the reins out of love was gone, and in his place sat a man who would never again feel safe. A warning that named no crime of his own, only the child of his sister's womb, had turned his affection into fear. Its shadow lay across the wedding gifts still gleaming on the road, across the garlands and the drums, across a day that had been built for joy. The words had been spoken, and they could not be unspoken.",
+ "reflection": "The prophecy arrives at a moment of pure affection, a brother driving his sister to her wedding, and turns that affection into fear. Kamsa's tragedy does not begin with cruelty but with terror for his own life.",
+ "tradition_note": "The Harivamsha tells this moment differently: there the warning is carried not by a bodiless voice but by the sage Narada, who travels to Mathura to tell Kamsa of his coming doom.",
+ "content_note": "Kamsa draws his sword on his sister; the violence is threatened but not carried out.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Kamsa",
+  "Vasudeva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "prophecy",
+  "fate",
+  "fear"
+ ],
+ "previous_story_id": null,
+ "next_story_id": "DKS_0013",
+ "next_story_tease": "But the prophecy had already taken root, and Kamsa would spend years trying to keep Devaki's eighth child from ever drawing breath.",
+ "hero_scene": "Kamsa frozen in the wedding chariot, reins in hand, as a bodiless voice warns him of his doom; Vasudeva steps between him and a terrified Devaki while the gold-decked procession halts behind them.",
+ "visual_elements": [
+  "Kamsa gripping the chariot reins",
+  "Vasudeva shielding Devaki",
+  "Devaki in bridal finery",
+  "four hundred garlanded elephants",
+  "conch players and drummers",
+  "the open road outside Mathura",
+  "a voice heard but unseen",
+  "bright wedding gold turned tense"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.1.28-33",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.1",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.56",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:03:57Z",
+  "source_event_id": "evt_0016",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0141",
+ "title": "Balarama Slays Kamsa's Brothers",
+ "subtitle": null,
+ "story": "Kamsa lay dead, and the arena that had rung with the crowd's cheers only moments before had gone still. The wrestlers had fallen, the elephant's tusk was still in Krishna's hand, and the great shout that went up at the king's death had died in the air. Then, into that stillness, his eight younger brothers came rushing at Krishna, fury where their king's careful plan had been.\n\nThey were not soldiers come to avenge a lord; they were a house in its last rage. The verses give them no long introduction, only a line of names — Kanka and Nyagrodha and the rest — and the single motion of their charge. Eight men of one blood and one purpose, and no plan behind the rush — only the blind momentum of a house that has nothing left to lose. They had watched their brother fall, and they came at Krishna as a family comes at what has undone it, all at once and without thinking.\n\nBalarama did not let them reach him. He was the elder, the son of Rohini, and he had stood through the whole long day at his brother's side — patient while Krishna met the elephant at the gate and the wrestlers in the ring, content to let the younger take the field. But there was a limit to that patience, and the eight charging men crossed it. He stepped between them and Krishna and raised his club.\n\nThe fight was not a contest. Balarama moved through the eight brothers the way a lion moves through cattle — not with anger, but with the swift, certain work of one who is stronger than everything coming at him. The verses keep the moment short, and there is a mercy in that: one club, eight men, and then silence. He took the proudest of them in his two hands and felled him as easily as the rest. The house of Kamsa, which had spent so many years sending its killers after a child, sent its last strength and found that the child's brother was enough.\n\nWhen it was over, Balarama stood in the centre of the ring as he had stood all day — unhurried, unmarked, his work done. The brothers who had rushed at Krishna lay where they had fallen. The arena, which had come to see a king's triumph, had seen instead the end of a king's house.\n\nNothing in the crowd moved for a long moment. The elephant was slain, the wrestlers were slain, Kamsa was slain, and now his brothers with him. The day that had been planned to finish two boys had finished everything Kamsa had built — and the two boys still stood at the centre of it, alive and unharmed.",
+ "reflection": "The eight brothers rush at Krishna in the moment after Kamsa's fall, and Balarama meets them before they can reach him. The speed of it — eight men, one club, over almost at once — is the point: the house of Kamsa does not surrender, and so it is finished in a single motion.",
+ "tradition_note": "The Harivamsha folds into this episode the later meeting with Vasudeva and Devaki, and names one of the slain brothers Urgita; the Bhagavata keeps the parents' greeting separate, and this story follows it.",
+ "content_note": "Includes the slaying of Kamsa's eight brothers, told with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Balarama",
+  "Kamsa's brothers"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "slaying",
+  "fury"
+ ],
+ "previous_story_id": "DKS_0140",
+ "next_story_id": "DKS_0142",
+ "next_story_tease": "The arena was won, but the wives of Kamsa were still to weep.",
+ "hero_scene": "Balarama raising his club as Kamsa's eight brothers rush at Krishna in fury across the Mathura arena, the stilled crowd watching from the galleries as the elder brother steps between them and his younger brother.",
+ "visual_elements": [
+  "Balarama with his club",
+  "Kamsa's eight brothers rushing forward",
+  "Krishna behind his elder brother",
+  "the Mathura arena",
+  "the silent crowd",
+  "fury met with swift certainty"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.44.39-40",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.85",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:19:56Z",
+  "source_event_id": "evt_0145"
+ },
+ "editorial_status": "unreviewed"
+}

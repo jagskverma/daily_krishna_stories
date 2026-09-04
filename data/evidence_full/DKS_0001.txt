@@ -1,0 +1,28 @@
+# STORY DKS_0001 — Earth, Oppressed by Demon-Kings, Seeks Brahma
+
+## Index entry
+title: Earth, Oppressed by Demon-Kings, Seeks Brahma
+summary: The Earth, burdened by arrogant demon kings, takes the form of a weeping cow and appeals to Brahma for relief.
+life_stage: other | story_arc: prophecy_of_kamsa
+characters: Earth, Brahma
+locations: Earth
+themes: oppression, deliverance, compassion
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0519
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 1 | verses 16-17 | confidence 5
+  excerpt: The Earth, crushed by the weight of countless demon kings, assumes the form of a cow, tearful and exhausted, and laments her misery before Brahma. (rendered from Sanskrit, verse 16-17)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.1 (16-17)
+16. bhūmir dṛpta-nṛpa-vyāja- daityānīka-śatāyutaiḥ /
+17. gaur bhūtvāśru-mukhī khinnā krandantī karuṇaṃ vibhoḥ /
+
+## Corpus chain
+previous_story_id: None | next_story_id: DKS_0002
+next title: Vishnu Promises to Descend into the House of Vasudeva

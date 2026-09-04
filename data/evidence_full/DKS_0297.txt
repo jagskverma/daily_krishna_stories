@@ -1,0 +1,40 @@
+# STORY DKS_0297 — Arjuna's Failed Vow || Arjuna boasts that he will protect the brahmana's next child, but though he fences the delivery-room with arrows, the newborn vanishes, and the brahmana rebukes him.
+
+## Index entry
+title: Arjuna's Failed Vow || Arjuna boasts that he will protect the brahmana's next child, but though he fences the delivery-room with arrows, the newborn vanishes, and the brahmana rebukes him.
+summary: Arjuna boasts that he will protect the brahmana's next child, but though he fences the delivery-room with arrows, the newborn vanishes, and the brahmana rebukes him.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Arjuna, Krishna, the brahmana
+locations: Dwaraka
+themes: pride, failure, humility
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0281
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 89 | verses 28-40 | confidence 5
+  excerpt: Arjuna, hearing the brahmana's lament, vows that he will protect the next child or enter fire, and when the time comes he rings the delivery-room with a cage of arrows. But the newborn vanishes bodily into the sky, and the brahmana mocks Arjuna, saying that even Balarama, Krishna, Pradyumna and Aniruddha could not save the child, and curses Arjuna's boasting. (rendered from Sanskrit, verse 28-40)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.89 (28-40)
+28. ahaṃ prajāḥ vāṃ bhagavan rakṣiṣye dīnayor iha /
+29. bhp_10.89.030/0 śrī-brāhmaṇa uvāca
+30. tat kathaṃ nu bhavān karma duṣkaraṃ jagad-īśvaraiḥ /
+31. bhp_10.89.032/0 śrī-arjuna uvāca
+32. māvamaṃsthā mama brahman vīryaṃ tryambaka-toṣaṇam /
+33. evaṃ viśrambhito vipraḥ phālgunena parantapa /
+34. prasūti-kāla āsanne bhāryāyā dvija-sattamaḥ /
+35. sa upaspṛśya śucy ambho namaskṛtya maheśvaram /
+36. nyaruṇat sūtikāgāraṃ śarair nānāstra-yojitaiḥ /
+37. tataḥ kumāraḥ sañjāto vipra-patnyā rudan muhuḥ /
+38. tadāha vipro vijayaṃ vinindan kṛṣṇa-sannidhau /
+39. na pradyumno nāniruddho na rāmo na ca keśavaḥ /
+40. dhig arjunaṃ mṛṣā-vādaṃ dhig ātma-ślāghino dhanuḥ /
+
+## Corpus chain
+previous_story_id: DKS_0296 | next_story_id: DKS_0298
+previous title: The Brahmana's Dying Sons || In Dwaraka, a brahmana's newborn sons die one after another; he lays their bodies at the palace gate and laments the king's failure to protect his subjects.
+next title: Krishna and Arjuna Journey to Recover the Brahmana's Sons

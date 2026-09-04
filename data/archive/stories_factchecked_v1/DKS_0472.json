@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0472",
+ "title": "A Detour That Was No Detour",
+ "subtitle": "Krishna sends Ghatotkacha against Alayudha",
+ "story": "By the light of a thousand torches the night battle raged on, and in the thick of it Krishna saw something that needed correcting: Bhima, his great mace swinging, was being overwhelmed by a Rakshasa taller than his chariot.\n\nThe giant was Alayudha, brother of Vaka — the same Vaka Bhima had slain in the forest years before — and he had come to the Kaurava side with a grudge and with strength to match it. Bhima held his ground, but the fight was going out of him. Krishna, watching from his chariot, did not ride to Bhima's aid. He rode instead to Ghatotkacha.\n\nGhatotkacha was Bhima's own son, born of the Rakshasa woman Hidimva, and that night he was locked in combat with Karna, holding back the greatest of the Kaurava warriors. Krishna reined in beside him and spoke. \"Behold, O mighty-armed one,\" he said, \"Bhima is violently assailed by the Rakshasa in battle, in the sight of all the troops and of yourself. Abandon Karna for the present and quickly slay Alayudha. You can afterwards slay Karna.\"\n\nIt was an order that looked like a detour. Ghatotkacha obeyed it without a question: he broke away from Karna, turned, and met Alayudha in the middle of the field. The two Rakshasas closed with each other, and the night rang with a duel of giants such as that plain had not seen.\n\nWhile they fought, the battle went on around them in its separate currents. Satyaki, Nakula, and Sahadeva drove their arrows through Alayudha's Rakshasa warriors; Arjuna, the diadem-decked, loosed shafts on every side and overthrew whole ranks of Kshatriyas. Karna, still furious at being abandoned, fell upon the Panchalas under Dhrishtadyumna and Shikhandin, and Bhima, seeing his comrades cut down, rushed at him in turn. Nakula, Sahadeva, and Satyaki, their first work done, rode to join that fight, while the Panchalas turned to face Drona. Only the two Rakshasas fought alone, and the whole field seemed to pause around them.\n\nAlayudha struck the first telling blow: a gigantic iron club crashed down on Ghatotkacha's head. The son of Bhima staggered, sat down motionless, and for a moment the watching armies thought the night was over. But he shook himself awake, seized a mace decked with gold and hung with a hundred bells, blazing like fire, and hurled it. The mace smashed through Alayudha's horses, his driver, and his loud-rattling chariot, crushing them all to pieces.\n\nThen Alayudha did what Rakshasas do when their strength fails them: he turned to illusion. Leaping from the wreck of his car, he poured out a copious shower of blood until the sky itself seemed a mass of black clouds torn by lightning, with thunder rolling and strange cries filling the air. Ghatotkacha rose into the sky and destroyed the illusion with one of his own. Alayudha answered with a heavy shower of stones; Ghatotkacha met it with a shower of arrows. Spears, maces, swords, clubs, and battle-axes flew between them; they tore up great trees — sami and pilu and champaka, banian and peepul — and hurled mountain-summits at each other until the clash of wood and rock was like rolling thunder. Men who watched said it was like the old combat between Vali and Sugriva, the monkey kings.\n\nAt last, stripped of every weapon, the two giants rushed at each other and seized each other by the hair. Wounded and bleeding, with blood and sweat streaming down them, they looked like two mighty storm clouds pouring rain. Then Ghatotkacha whirled his enemy high overhead, dashed him down upon the earth, and cut off his great head. Lifting it by the earrings, he roared.\n\nThe Panchalas and the Pandavas answered with leonine shouts. Thousands of drums were beaten, ten thousands of conches blown, and the night — illumined with torches all around and resounding with music — declared the victory of the Pandavas. Krishna had sent Ghatotkacha to kill Alayudha, and Ghatotkacha had done it, exactly as told, before turning back to the greater fight that waited for him.",
+ "reflection": "Krishna's command looks like a detour — leave Karna, kill the other giant first — but it is the shortest road to the same end. Ghatotkacha is trusted not with one enemy but with the whole shape of the night's work, and he carries it out without asking why.",
+ "tradition_note": null,
+ "content_note": "A night battle between two Rakshasas described with restraint; ends with Alayudha beheaded, without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Ghatotkacha",
+  "Bhima",
+  "Alayudha"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "protection",
+  "war strategy",
+  "command"
+ ],
+ "previous_story_id": "DKS_0471",
+ "next_story_id": "DKS_0473",
+ "next_story_tease": "But Karna's infallible dart was still waiting in his quiver.",
+ "hero_scene": "By torchlight on the night battlefield, the giant Ghatotkacha whirls the wounded Alayudha overhead and dashes him down, while Krishna watches from his chariot and the armies pause around them.",
+ "visual_elements": [
+  "Ghatotkacha and Alayudha locked in combat, seizing each other by the hair",
+  "Alayudha's crushed chariot with horses and driver beneath a gold-decked mace",
+  "the black sky torn by lightning and showers of stones dispelled by arrows",
+  "torn-up trees and hurled mountain-summits around the two giants",
+  "Krishna in his chariot, watching and giving the command",
+  "torches and conches as the Pandavas celebrate Alayudha's fall"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.178",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T20:10:00Z",
+  "source_event_id": "evt_0466"
+ },
+ "editorial_status": "unreviewed"
+}

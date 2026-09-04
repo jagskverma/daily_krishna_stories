@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0452",
+ "title": "The Charioteer",
+ "subtitle": "Krishna Is Chosen as Arjuna's Guide and Driver of His Steeds",
+ "story": "The decision for war had been made, and now Yudhishthira, who would have to give the order, wanted to be certain it was right. The Pandavas and their cousins the Kauravas had been quarrelling for years over the kingdom of their grandfathers — a kingdom lost at dice, kept by refusal, and now about to be settled by battle. In the Pandava camp, Yudhishthira came again to Krishna, the cousin who had carried their last offer of peace to the Kuru court and returned with nothing.\n\n\"You know the minds of Duryodhana, Karna, and Sakuni,\" Yudhishthira said. \"You know what we ourselves think. You have heard the words of Vidura and Bhishma, and the wise words of our mother Kunti. Put all of that aside, think it over, and tell us without hesitation what is best for us.\"\n\nKrishna answered. \"At the Kuru court I spoke for what was right and what was wise,\" he said, \"and my words found no echo in Duryodhana, in whom deceit stands where wisdom should be. He listens to no one — not Bhishma, not Vidura, not me. He leans on Karna and counts the war as already won. He even gave the order to have me seized, though he never carried it out, and of the whole court only Vidura spoke against it. Sakuni, Karna, and Dussasana fill his ears with reckless advice. In all the kings who follow him there is not the wickedness that lives in Duryodhana alone. He bears you no good will. And we will not make peace with the Kauravas by surrendering what is ours. War is what must now take place.\"\n\nWhen he finished, the kings around him said nothing; they only looked at Yudhishthira's face. Yudhishthira understood what the look meant, and with Bhima, Arjuna, and the twins beside him he gave the word: \"Draw up the troops in battle array.\" The command ran through the host, a great shout went up, and the soldiers were glad.\n\nBut the king who had given the order looked past their joy to what was coming, and sighed. \"For this I accepted exile in the forest,\" he said, \"and for this I bore so much misery — and now the great calamity comes upon us of its own will. How are we to fight the elders we must never kill? What kind of victory is it that is won by slaying our own teachers of venerable age?\"\n\nArjuna answered his brother with the words Krishna had spoken. \"You have understood all that our mother Kunti and Vidura said, carried to you by Krishna,\" he told him. \"Neither of them would ever advise what is wrong. And besides, we cannot turn back now without a battle.\" \"It is even so,\" said Krishna.\n\nThat night the five sons of Pandu made up their minds for war and passed the hours among their soldiers in high spirits. And when the army stood drawn up and Arjuna took his place for the war that was coming, he did not stand alone: Krishna had been chosen as his guide and the driver of his white steeds. The friend who had carried the last words of peace would now drive his friend into the battle, and stand closest of all to the man who had to fight.",
+ "reflection": "Yudhishthira gives the order for battle and grieves in the same breath, accepting the war even as he mourns what it will cost. And Arjuna answers that grief the only way he can: not by doubting the war, but by placing himself beside Krishna, trusting the words that came from Kunti and Vidura and were carried by Devaki's son.",
+ "tradition_note": null,
+ "content_note": "The acceptance of war and anticipation of battle; no combat depicted.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Upaplavya",
+  "Kurukshetra"
+ ],
+ "themes": [
+  "charioteer",
+  "friendship",
+  "war"
+ ],
+ "previous_story_id": "DKS_0451",
+ "next_story_id": "DKS_0453",
+ "next_story_tease": "But one man would not march with them — Balarama, who refused to raise his hand against either side.",
+ "hero_scene": "At dawn on the plain, Arjuna stands beside his war-chariot with the reins being settled in Krishna's hands; behind them the Pandava host stretches to the horizon, while Arjuna looks back once toward the grieving king who gave the order.",
+ "visual_elements": [
+  "Krishna taking the reins of Arjuna's chariot at dawn",
+  "Arjuna standing beside him, bow in hand",
+  "the Pandava army drawn up in battle array across Kurukshetra",
+  "Yudhishthira sighing as he gives the order",
+  "soldiers raising a great uproar of joy",
+  "first light over the plain"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.155",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0485",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

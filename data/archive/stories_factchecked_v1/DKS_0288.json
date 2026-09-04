@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0288",
+ "title": "Krishna Embraces His Old Friend",
+ "subtitle": null,
+ "story": "Sudama stood at the gate of the palace and knew he was out of place. The palace of Krishna housed sixteen thousand queens, and the building that held them was a city of its own — courtyards and corridors, gardens and lamps, guards who had seen every kind of man come and go but who looked at the ragged brahmana and saw something they could not place. But no one turned him away, and no one asked his business, as though the palace itself were waiting for him.\n\nSudama did not have to wonder what to do next. From somewhere deep inside the palace, Krishna saw him — saw him from afar, through rooms and walls and the whole long passage of years since they had been boys together. He rose from the couch where he sat with Rukmini and ran. Ran, the lord of Dwaraka, the husband of the goddess of fortune herself, ran to the gate to meet a beggar in a torn cloth.\n\nHe embraced him. The tears came to Krishna's eyes — the old texts say it plainly: the tears of joy — as he held his old friend, the best of brahmanas, thin and weary from the road. And Sudama, who had feared he might not be recognized at all, found himself wrapped in the arms of the lord of the three worlds. Krishna held him a long moment, and when he drew back his hands were still on Sudama's shoulders, as if he could not quite believe the road had brought him.\n\nKrishna would not let him stand. He took him by the hand and seated him on his own couch. And then the servants of the palace could scarcely believe what their eyes reported: the king himself knelt and washed the feet of the ragged guest, and took the water and bore it to his own head, honoring it as the holiest of things. In all the palace, no one moved; the servants stood frozen, watching their king serve his guest. He had fragrant incense brought and rows of lamps lit, and he received his friend with joy, as though a treasure had come to the palace rather than a poor man. A poor man's gift, a king's welcome — somewhere between the two, the old friendship simply resumed.\n\nThe women of the inner palace saw it, and the wonder of it stopped them where they stood. Krishna, whose fame was spotless, whose word held the worlds together, had put a penniless brahmana on his own throne and washed his feet with his own hands. They had seen kings bow to him and learned men worship him; they had never seen him honor anyone like this. They whispered to one another: what merit has this man performed, this destitute beggar, that the guru of the three worlds should cherish him so? That the very abode of Shri should bow before him?\n\nRukmini herself came and stood beside them, and took up a fan, and fanned the emaciated brahmana — she, the goddess of fortune, cooling the man who had arrived at her palace with nothing but a rag of flat rice.\n\nAnd the two friends sat and talked. Not of kingdoms, not of wealth. They talked of the old days, of the years when they had studied together in their teacher's house — the mornings, the lessons, the small adventures of boys — and the palace around them, for all its splendor, faded to nothing next to that.\n\nThe women of the palace watched the king of Dwaraka laugh with a beggar, and they understood, perhaps for the first time, what kind of king they served.",
+ "reflection": "The palace women's question — what merit has this beggar performed? — is the story's hinge. By every worldly measure Sudama deserves nothing, yet Krishna honors him as a treasure. The episode turns the usual logic of honor upside down: the king bows to the poor man, and the goddess of fortune fans him, because friendship, not rank, is what the lord of Dwaraka counts.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Sudama",
+  "Rukmini"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Krishna's palace"
+ ],
+ "themes": [
+  "friendship",
+  "humility",
+  "love"
+ ],
+ "previous_story_id": "DKS_0287",
+ "next_story_id": "DKS_0289",
+ "next_story_tease": "Then Krishna asked what gift his old friend had carried all the way from home.",
+ "hero_scene": "Krishna, risen from his couch, embracing the emaciated, ragged Sudama with tears on his face, while Rukmini stands beside them with a fan and the women of the palace look on in astonishment.",
+ "visual_elements": [
+  "Krishna embracing the ragged, emaciated Sudama",
+  "tears on Krishna's face",
+  "Rukmini standing with a fan",
+  "the astonished women of the palace",
+  "the couches and lamps of Krishna's palace chamber"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.80.16-26",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:23Z",
+  "source_event_id": "evt_0276"
+ },
+ "editorial_status": "unreviewed"
+}

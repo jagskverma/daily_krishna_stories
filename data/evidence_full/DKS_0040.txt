@@ -1,0 +1,31 @@
+# STORY DKS_0040 — Uddhava Recalls Krishna's Cowherd Childhood and Kamsa's Demons
+
+## Index entry
+title: Uddhava Recalls Krishna's Cowherd Childhood and Kamsa's Demons
+summary: Uddhava recalls Krishna's childhood in Vraja — herding calves and cows with the cowherd boys on the Yamuna, playing the flute — and how he playfully defeated the shape-shifting demons Kamsa sent against him.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Balarama, the cowherd boys, Kamsa's demons
+locations: Vrindavan, the Yamuna groves
+themes: childhood play, the flute, demon-slaying
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0193
+variant_notes: General recollection; see specific demon episodes.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 26-29 | confidence 5
+  excerpt: Uddhava said: 'Surrounded by the calves, he herded them and sported in the Yamuna's groves, showing the cowherds his enchanting childhood play, weeping and laughing with a lion-cub's glance; playing the flute, he delighted the cowherds — and the shape-shifting demons sent by the Bhoja king he dispelled in sport, like toys.' (rendered from Sanskrit, verses 26-29)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (26-29)
+26. parīto vatsapair vatsāṃś cārayan vyaharad vibhuḥ /
+27. kaumārīṃ darśayaṃś ceṣṭāṃ prekṣaṇīyāṃ vrajaukasām /
+28. sa eva go-dhanaṃ lakṣmyā niketaṃ sita-go-vṛṣam /
+29. prayuktān bhoja-rājena māyinaḥ kāma-rūpiṇaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0039 | next_story_id: DKS_0041
+previous title: Krishna Conjures Wolves to Move the Milkmen to Vrindavan
+next title: Krishna Notices the Twin Arjuna Trees

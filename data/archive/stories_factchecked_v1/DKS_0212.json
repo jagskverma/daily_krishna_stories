@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0212",
+ "title": "The Sun's Gift to Satrajit",
+ "subtitle": "Surya gives his devotee the Syamantaka, a jewel that shines like a second sun",
+ "story": "The people of Dwaraka saw the sun walking through their streets, and it was only Satrajit.\n\nHe came in from the coast in the early morning, and the jewel at his throat blazed so fiercely that anyone who looked at him from a distance felt his sight dim and blur. Children cried out, elders shaded their eyes, and for a moment the whole city believed that the sun-god himself had come down from the sky to walk among them. Then they saw that the blazing figure was Satrajit, their own kinsman, wearing on his breast a jewel that shone like a second sun. The wonder of it ran through Dwaraka before he had reached his own door. Word raced ahead of him through the streets: the sun has come down to Dwaraka.\n\nThe jewel was the Syamantaka, and it had come to Satrajit as a gift. He had worshipped the sun all his life, with a devotion so steady that the god had become his friend. The Harivamsha tells how it happened on the shore of the ocean: at dawn, when Satrajit went down to the water to bathe and offer his prayers, the sun-god stood before him in his own effulgent form — blazing, yet familiar, a friend paying a visit. \"You have come to me as a friend,\" Satrajit said, \"but I have received no gift from you. Give me the jewel with which you light the worlds.\" And the sun took the Syamantaka from his own neck and placed it in Satrajit's hands. The king carried it back to the city with the light of the sky at his throat, and the people followed him through the streets, certain they were watching the sun itself go by.\n\nThe Bhagavata Purana tells the same gift more briefly: pleased with his devotee Satrajit, the sun-god gave him the jewel, and the dazzled citizens, seeing him blaze, were certain the sun was abroad in their streets. However it is told, the result was the same. Wearing it, Satrajit shone like the sun; and the jewel was no mere ornament. Each day it yielded eight loads of gold, and while it remained in Dwaraka the city knew no calamity — no disease, no misfortune, no fear. In the older telling, gold welled up in the palaces of the Vrishnis and Andhakas while the jewel was among them, and the rains came in their season.\n\nThe splendor of the Syamantaka filled the city with wonder, and with something else. Among those who looked on it was Krishna, and he grew desirous of the peerless jewel. He was capable of taking it — there was no one in Dwaraka who could have stopped him — yet he did not take it by force, and he did not steal it. He simply wanted it; and in a city of kinsmen who could read one another's hearts, wanting was as visible as wearing. He spoke of the jewel openly, as a man speaks of what he admires, and the clan heard the want in his voice.\n\nIn time Satrajit, delighted with his treasure, conferred the jewel on his brother Prasena, who wore it proudly wherever he went. And a treasure that shone like the sun could not be hidden, and could not be kept quiet. The Syamantaka had come to Dwaraka as a gift of light; it was about to become the most desired, and the most dangerous, thing in the city.",
+ "reflection": "The Syamantaka is a gift of pure light: it dazzles, it enriches, it protects. Yet the very splendor that made it a blessing made it a danger — wealth that shines draws every eye, and the jewel that lit Dwaraka would soon light the desires of those who wanted it.",
+ "tradition_note": "The Harivamsha tells the gift in greater detail — the sun appearing to Satrajit on the ocean bank at dawn — while the Bhagavata Purana records it in a single stroke; the two accounts agree on the essential fact of the gift.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Satrajit",
+  "Surya",
+  "Krishna"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "gift",
+  "splendor",
+  "wealth"
+ ],
+ "previous_story_id": "DKS_0211",
+ "next_story_id": "DKS_0213",
+ "next_story_tease": "Not long after, Prasena would ride out into the forest wearing the jewel on his breast — and the forest would keep him.",
+ "hero_scene": "Satrajit walking through the streets of Dwaraka blazing like the sun itself, the Syamantaka at his throat, while citizens shield their eyes and bow, mistaking him for the sun-god come down to earth.",
+ "visual_elements": [
+  "Satrajit blazing like the sun in the streets of Dwaraka",
+  "the Syamantaka jewel at his throat",
+  "citizens shielding their eyes and bowing",
+  "the sun-god appearing on the shore of the ocean",
+  "gold and prosperity flowing from the jewel",
+  "Krishna's desiring gaze",
+  "splendor and temptation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.56.1-10",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:44Z",
+  "source_event_id": "evt_0201"
+ },
+ "editorial_status": "unreviewed"
+}

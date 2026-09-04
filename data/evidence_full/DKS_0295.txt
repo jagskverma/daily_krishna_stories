@@ -1,0 +1,41 @@
+# STORY DKS_0295 — Krishna Visits Shrutadeva and Bahulashva
+
+## Index entry
+title: Krishna Visits Shrutadeva and Bahulashva
+summary: Krishna, to please both the sage Shrutadeva and King Bahulashva of Mithila, visits both their homes simultaneously, unseen by each other.
+life_stage: later_life | story_arc: dwaraka_royal_life
+characters: Krishna, Shrutadeva, Bahulashva, the sages
+locations: Mithila
+themes: simultaneous grace, devotion, equality
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0499
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 86 | verses 23-36 | confidence 5
+  excerpt: Krishna travels to Mithila with the sages, and both the brahmana Shrutadeva and King Bahulashva, each thinking Krishna has come to his own house, invite him and the sages. To please both devotees, Krishna enters both homes at once, unseen by either, and each worships him with overflowing devotion. (rendered from Sanskrit, verse 23-36)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.86 (23-36)
+23. svānugrahāya samprāptaṃ manvānau taṃ jagad-gurum /
+24. nyamantrayetāṃ dāśārham ātithyena saha dvijaiḥ /
+25. bhagavāṃs tad abhipretya dvayoḥ priya-cikīrṣayā /
+26. śrāntān apy atha tān dūrāj janakaḥ sva-gṛhāgatān /
+27. pravṛddha-bhaktyā uddharṣa- hṛdayāsrāvilekṣaṇaḥ /
+28. sa-kuṭumbo vahan mūrdhnā pūjayāṃ cakra īśvarān /
+29. vācā madhurayā prīṇann idam āhānna-tarpitān /
+30. bhp_10.86.031/0 śrī-bahulāśva uvāca
+31. sva-vacas tad ṛtaṃ kartum asmad-dṛg-gocaro bhavān /
+32. ko nu tvac-caraṇāmbhojam evaṃ-vid visṛjet pumān /
+33. yo 'vatīrya yador vaṃśe nṛṇāṃ saṃsaratām iha /
+34. namas tubhyaṃ bhagavate kṛṣṇāyākuṇṭha-medhase /
+35. dināni katicid bhūman gṛhān no nivasa dvijaiḥ /
+36. ity upāmantrito rājñā bhagavāṃl loka-bhāvanaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0294 | next_story_id: DKS_0296
+previous title: The Six Sons Restored to Devaki
+next title: The Brahmana's Dying Sons || In Dwaraka, a brahmana's newborn sons die one after another; he lays their bodies at the palace gate and laments the king's failure to protect his subjects.

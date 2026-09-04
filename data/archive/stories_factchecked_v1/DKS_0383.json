@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0383",
+ "title": "A Doe Among Wolves",
+ "subtitle": null,
+ "story": "Hastinapura was full of eyes, and Kunti had learned to live under them. The palace of the Kurus was a place of whispers and rivalries, and in the years since Pandu's death she had felt herself watched from every side — the widow of the dead king, the mother of five boys the court had never wanted. Then word came that her brother Akrura had arrived from Mathura, and for the first time in many months, Kunti let herself hope.\n\nAkrura did what courtesy required, and more. He greeted the elders of the house — Bahlika with his son, the sage Bharadvaja, Gautama, the old friends of the family — and then he settled in and watched. He stayed for months, asking little, seeing everything. He marked how the sons of Pandu shone: their brilliance, their strength, their courage, their humility, every good quality that had survived their father's death. And he marked, too, what the sons of Dhritarashtra had done to them — the poison mixed into their food, the cruelties that had no name in the law but were known to every whisper in the palace.\n\nThen Kunti came to him, and she did not come composed. She was weeping. In the months of Akrura's stay she had kept her composure, as a queen of the Kurus must, but this was her brother, and with him the composure failed. Among her rivals, she told him, she was like a doe among wolves; every day she measured her children's danger by the faces that surrounded them. Then she asked the question that had pressed on her heart since the day she learned her brother was in the city. \"Do they still remember us?\" she said — her parents, her brothers, the home she had left behind in Mathura. \"Do my father and brothers still think of me?\" She did not ask for wealth or power or a return to favor; she asked only to be remembered, to know that the world she had left behind still held her name.\n\nAnd then, as if the question had carried her to the edge of a deeper need, she turned from the messenger to the one he had come from. \"The blessed Krishna, my brother's son,\" she said, \"is the refuge, dear to his devotees. Krishna, Krishna,\" she cried, \"great yogin, soul of the universe, protector of all beings! I see no refuge for us but your lotus feet.\" She spoke of him as her nephew, the boy of Mathura who was, she knew, more than any boy. \"Salutation to Krishna, the pure one, the supreme self.\" If her parents had forgotten her, Krishna had not. If the wolves of Hastinapura closed in, the refuge was still there, as close as a name spoken through tears.\n\nAkrura and Vidura stood with her, sharing her sorrow, taking it into themselves. Vidura — the wise uncle of the Kurus who had always loved the Pandavas — and Akrura, who had come straight from Krishna's side. Between the two of them they could give her what the palace never would: the assurance that she was not alone. The doe among wolves had spoken her grief aloud and been heard; and when she was heard, the wolves seemed a little further off.\n\nThat night, perhaps, Kunti slept more peacefully than she had in months. The prayer had gone out of her, carried on a friend's memory, and something in her knew that it had reached its destination — and that it had been answered, in the form of a friend's promise to carry her words back to Mathura, and in the shape of events that had not yet begun to stir.",
+ "reflection": "Kunti's grief is doubled: she is a widow among enemies, and her only refuge is a nephew far away. The story does not soften this — her prayer is said through tears, in the middle of a hostile court — and that is exactly why it is moving: the doe among wolves has nothing but her devotion, and the devotion is enough.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Kunti",
+  "Akrura",
+  "Vidura",
+  "Krishna"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "sorrow",
+  "devotion",
+  "faith"
+ ],
+ "previous_story_id": "DKS_0382",
+ "next_story_id": "DKS_0384",
+ "next_story_tease": "Before he left the city, Akrura had one more word for the blind king.",
+ "hero_scene": "In a quiet corner of the Hastinapura palace, Kunti weeping before Akrura — a doe among wolves — while Vidura stands beside them, sharing her sorrow.",
+ "visual_elements": [
+  "the watchful, whispering palace of Hastinapura",
+  "Kunti approaching Akrura in tears",
+  "Kunti crying out Krishna's name, her hands joined in prayer",
+  "Akrura and Vidura standing with her, sharing her grief",
+  "the palace receding behind her, the refuge beyond it"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.49.1-14",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:33Z",
+  "source_event_id": "evt_0163"
+ },
+ "editorial_status": "unreviewed"
+}

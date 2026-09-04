@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0002",
+ "title": "A Voice Over the Milk Ocean",
+ "subtitle": null,
+ "story": "Brahma did not keep the earth's weeping to himself. The moment he understood the weight she carried, he knew it could not be lifted by his will alone. So he gathered the gods around him and, taking the earth herself along, set out for the one place even the gods turn when the world is in trouble.\n\nIt is called the ocean of milk. Its waters are said to be white as milk and endlessly calm, and it is there that the Lord of the universe rests upon the coils of the great serpent, the God of gods, whom the gods address when no other help remains. Brahma came to that shore with the host of the gods, and together they laid the earth's suffering before him, asking him to remember her, the one who fed them all and now could not rise under her burden.\n\nThe answer came not from any face or form but from the sky. In the deep stillness of meditation, Brahma heard a voice, clear and certain, rolling over the waters, and what it said he repeated to the waiting gods.\n\nThe earth's burden, the voice declared, had not been forgotten, and it would not be carried forever. The Lord himself would descend into the world. He would come not to a palace of the gods but into the house of a single man named Vasudeva, and there, in that ordinary household, the Supreme Person would take birth among the Yadus.\n\nNor were the gods to stand apart and watch. They were to descend in part, each taking a portion of himself down to be born among the Yadavas, so that when the Lord came they would be there at his side, hidden among the people of the earth. With him would come Ananta, the thousand-headed serpent who bears the world, born as his elder. And with him would come his own divine power, the energy that veils and reveals, by which the whole world is enchanted, to walk beside him in the work that lay ahead. Not one of them would stand aloof; it was to be a descent shared, each god lending his strength to the one who was coming.\n\nThe earth's fever, the voice made plain, had been known and taken to heart long before she came weeping to that shore. The voice fell silent. On the milk ocean, the gods understood that the long deliverance had begun, not with armies or thunder, but with a promise spoken once and meant to be kept in a household that did not yet know it had been chosen. And they understood, too, that the earth's plea had been granted not for anything they had said, but because the Lord had already resolved to come.",
+ "reflection": "The answer to the earth's tears is not a plan drawn up on the spot but a voice heard in stillness, as if the whole descent of the Lord had been decided long before the question was ever asked.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Brahma",
+  "Vishnu",
+  "gods",
+  "Earth"
+ ],
+ "locations": [
+  "Milk Ocean"
+ ],
+ "themes": [
+  "divine_will",
+  "deliverance",
+  "cosmic_order"
+ ],
+ "previous_story_id": "DKS_0001",
+ "next_story_id": "DKS_0003",
+ "next_story_tease": "And long before that promise could be kept, a warning would ring out over a wedding chariot in Mathura.",
+ "hero_scene": "Brahma and the host of gods gathered on the luminous shore of the milk ocean, while a bodiless voice speaks from the sky, declaring that the Lord will be born in the house of Vasudeva.",
+ "visual_elements": [
+  "the milk ocean, calm and white",
+  "Brahma leading the gods",
+  "the earth carried along with them",
+  "a bodiless voice from the sky",
+  "Ananta the thousand-headed serpent",
+  "gods receiving their portions",
+  "a mood of quiet awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.1.18-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:56:29Z",
+  "source_event_id": "evt_0520"
+ },
+ "editorial_status": "unreviewed"
+}

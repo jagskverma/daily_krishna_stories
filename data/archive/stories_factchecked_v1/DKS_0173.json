@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0173",
+ "title": "Kalayavana Is Burned by Muchukunda's Glance",
+ "subtitle": null,
+ "story": "There is a cave in the mountains above Mathura where a king lay sleeping, and had been sleeping for longer than the oldest tree. It was toward that cave that Krishna ran one afternoon, with an army at his heels that no one in the world could defeat.\n\nThe army belonged to Kalayavana, king of the Yavanas, and his story had begun long before, in the house of a teacher. Gargya, the preceptor of the Andhaka and Vrishni races, had kept the vow of celibacy all his life; he had a wife, but he had never known her. And because of this his brother-in-law mocked him before the king and named him impotent. Stung beyond bearing, Gargya left the city, gave up all thought of his wife, and turned to penance. For twelve years he lived on pounded iron and worshipped Mahadeva, the holder of the trident, until the god gave him a boon: he would have a son, all-powerful, who would discomfit the descendants of the Vrishni and Andhaka races in battle.\n\nThe king of the Yavanas had no son. He heard of the boon, brought Gargya to his own kingdom, and set women to attend on him; and an Apsara named Gopali, taking the form of a milk-woman, conceived through him. The child was Kalayavana. He was raised in the palace like the king's own son, and when the king died, Kalayavana reigned in his place.\n\nHe grew, and his name grew with him. The kings of the Shakas and the Tukharas, the Daradas, the Paravas and the Tanganas, the Khashas and the Panhavas — hundreds of mlechcha kings from the lands near the great mountains — took shelter under him. When he finally marched on Mathura, his host covered the earth like a swarm of locusts, and the dust raised by his soldiers hid the path of the sun.\n\nKrishna had heard from Narada the story of the boon, and so he had never met the Yavana head-on. Now he called his kinsmen together. \"Great is the calamity that has befallen the Vrishnis and Andhakas,\" he told them. \"This enemy cannot be slain by us, because of the boon the trident-holder gave him. I tried every means short of war — conciliation and the rest — and he will have battle, for pride has made him deaf. Narada said to me, 'You are to live here,' and I say the same to you. Jarasandha does not forgive, and the kings who shelter under him have not forgiven the death of Kamsa. We will never prosper if we stay in this city.\"\n\nStill, he tried one last ruse. He sent an envoy to Kalayavana with a sealed jar, and inside the jar a dreadful black serpent, coiled like a stroke of darkness. \"Krishna is like a deadly serpent,\" the envoy said, and showed the jar. Kalayavana understood the threat at once. He filled the jar with ants — innumerable, sharp-beaked — and they devoured the serpent and reduced it to ashes.\n\nThen Krishna did the thing that looked like flight. He left Mathura, and Kalayavana pursued him, and the pursuit was exactly what Krishna intended.\n\nThe Yavana had heard Narada describe the marks of the one he sought: the chest marked with the Shrivatsa, the Kaustubha jewel on the neck, the face that was always glad, the pure smile. When he saw Krishna before him he knew him at once, and knew that no other could be. He ran at him; Krishna turned and ran before him, and at every step the Yavana felt his prize within reach. \"Flight is not proper for one born in the Yadu clan!\" he shouted after him. Krishna did not answer. He went on, and entered a mountain cave.\n\nInside, in the dark, a man lay asleep.\n\nKalayavana looked at him and laughed. \"This one has led me far,\" he said, \"and now lies here like a virtuous man, pretending to sleep.\" He was certain it was Krishna — for who else would lie in a cave while a king hunted him? He walked up to the sleeper and kicked him.\n\nThe sleeper had been asleep for a very long time. Slowly, as if rising from the bottom of a deep well, he opened his eyes. The glance that fell on the Yavana was angry — angry at being woken, angry at being kicked, angry at the presumption of a world that had forgotten to leave him alone.\n\nWhere the glance fell, Kalayavana caught fire, and in a moment he was ash.\n\nThe king who had hidden the sun with his dust left nothing behind in that cave but a small mound of ashes. And the sleeper, awake at last, sat up in the darkness and looked at the young man standing quietly before him.",
+ "reflection": "Krishna wins this battle by running, and the boon that made Kalayavana unbeatable in war means nothing against a power he never thought to guard against. The enemy who could not be slain by any weapon is undone by a sleeper's opened eyes.",
+ "tradition_note": "The Bhagavata Purana tells the cave episode briefly, without the story of Gargya's penance and Kalayavana's birth; that background comes from the Harivamsha, which is followed here.",
+ "content_note": "Includes a death by burning (a character reduced to ashes by a glance), described without graphic detail.",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Kalayavana",
+  "Muchukunda"
+ ],
+ "locations": [
+  "Dvaraka",
+  "Muchukunda's cave"
+ ],
+ "themes": [
+  "cunning",
+  "divine retribution",
+  "fate"
+ ],
+ "previous_story_id": "DKS_0172",
+ "next_story_id": "DKS_0174",
+ "next_story_tease": "But who was the sleeper whose glance could burn a king to ashes?",
+ "hero_scene": "In the darkness of the cave, Kalayavana's foot still lifted from the kick, frozen before the great slowly-opening eyes of Muchukunda; a single glance blazing across the dark, while Krishna watches from the cave mouth.",
+ "visual_elements": [
+  "the dark mountain cave",
+  "Kalayavana's raised foot mid-kick",
+  "Muchukunda's eyes opening with a burning glance",
+  "Kalayavana catching fire and turning to ash",
+  "Krishna watching from the cave mouth",
+  "darkness, surprise, and retribution"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.51.1-11",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.114",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.23",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:57Z",
+  "source_event_id": "evt_0001"
+ },
+ "editorial_status": "unreviewed"
+}

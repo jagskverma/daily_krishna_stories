@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0285",
+ "title": "Narada Marvels at Krishna's Yoga-Maya",
+ "subtitle": null,
+ "story": "Narada had heard the reports of Dwaraka long before he ever saw the city, and he had come to test them with his own eyes. What he found there undid him.\n\nHe saw the city first — its sea walls, its markets, the wealth of the Yadava lords — and none of it surprised him. Then, for days, he walked among the palaces of Krishna's sixteen thousand queens, and in every palace he found the same thing: Krishna present, whole and unhurried, doing whatever the moment required. In one hall he sat at ease among his ministers. In another he listened to a singer in a garden. Here he stood beside a queen at the evening lamp; there he was laughing with children in a courtyard. In each palace it was the same Krishna — not a copy, not a shadow, but the same person, fully there, as though no other palace existed in the world.\n\nThe sage had wandered all the worlds. He had watched the gods at their councils and demons at their schemes, kings at their wars and ascetics at their penances. He had seen illusions that fooled even the wise. But this undid him. He could not keep it inside. He had come expecting to test a rumor; he found himself instead in the middle of a mystery he would spend the rest of his journeys trying to sing.\n\nHe found Krishna, and stood before him smiling in spite of himself. He had rehearsed nothing; the words came out the way wonder does, before he had decided to speak them.\n\n'I understand your yoga-maya now,' he said. 'Even the masters of illusion cannot see it. Serving your feet has opened my eyes to it, and my mind can barely hold what it has seen.'\n\nKrishna took the words the way he took everything — fully, and without a ripple of vanity. He was following the path of men, as he always did in Dwaraka: rising with the sun, ruling a city, living a mortal king's life among mortals. And yet the power he carried through those ordinary days was the power that holds every world in being. He did not argue with the praise, nor wave it away; he accepted it the way a lamp accepts the light it has always given. He looked at the sage standing before him, and what he said next was less an order than a release.\n\n'Wander the worlds, Narada,' he said. 'Sing of these pastimes wherever you go. Let the telling of them purify whoever hears.'\n\nSo Narada departed, and Dwaraka saw the last of him for a long while. But the rest of the worlds saw more of him than they ever had. He went singing, and his songs carried the wonder he had found: that the lord of all could be in sixteen thousand places at once and be, in each, entirely himself — that the same hand which held a lamp in one palace reached for a child in another, and that no distance between them was real.\n\nWherever he went, people stopped to listen. Farmers in the fields and merchants at their stalls, women at the well and children on the road — all of them heard how the king of Dwaraka moved through his days like a man, yet held the worlds in his palm. And the old texts say of such telling what they say of few things: that whoever sings of these deeds, or hears them sung, or simply delights in them, finds his heart turning toward the path that has no end.\n\nKrishna, left to his city, went on being what he was: a king among the Yadus, a husband to his queens, a man who met each morning the ordinary duties of a place that did not know it sheltered the wonder Narada had carried away, singing.",
+ "reflection": "Narada's wonder is the story's real subject: the lord of all worlds living the ordinary life of a king, and that ordinariness itself being the miracle. What he cannot explain, he carries out into the world as song — praise becomes the only adequate response to such a mystery.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Narada",
+  "Krishna"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "wonder",
+  "divine play",
+  "praise"
+ ],
+ "previous_story_id": "DKS_0284",
+ "next_story_id": "DKS_0286",
+ "next_story_tease": "Krishna, meanwhile, was already living the next quiet chapter of his days — the ordered worship of a king's morning in Dwaraka.",
+ "hero_scene": "Narada, smiling in wonder with folded hands before Krishna in a lamp-lit hall of Dwaraka, as Krishna gestures him out into the world to sing.",
+ "visual_elements": [
+  "Narada with folded hands, smiling",
+  "Krishna in a lamp-lit hall of Dwaraka",
+  "the palaces of the sixteen thousand queens glimpsed beyond",
+  "the evening lamps and garden courts of Dwaraka",
+  "the open road and the worlds beyond the city"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.69.36-44",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:23Z",
+  "source_event_id": "evt_0258"
+ },
+ "editorial_status": "unreviewed"
+}

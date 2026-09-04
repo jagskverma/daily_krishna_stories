@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0016",
+ "title": "Eleven Years Hidden in Vraja",
+ "subtitle": "Uddhava recalls Krishna's birth and removal to the cowherds' settlement",
+ "story": "Years afterward, when the events had settled into memory, Uddhava — Krishna's close friend and adviser — would tell the story from its true beginning. And its beginning, he said, was not a birth but a prayer.\n\nThe earth had grown heavy, weighed down beyond her strength, and she could no longer bear what rested upon her. So she prayed, and the Lord heard her, and in answer he agreed to descend. He was not coming to settle a single quarrel or to rescue one troubled life. He was coming to lift a weight the whole world had failed to carry, a burden that had been gathering for longer than anyone alive could remember, and that no arm but his could move.\n\nSo he was born to Vasudeva and his wife Devaki, and he was born in a prison. The fortress belonged to the Bhoja king, Kamsa, and the child's first bed was a locked room behind stone walls. There was no celebration to mark the day, no crowd gathered at the door, no herald to carry the news from house to house. The one whose birth was meant to relieve the earth arrived in silence, in a place where no one would think to look for him, born to parents who could only keep him hidden.\n\nBut the very walls that hid him were also the reason he could not stay. Vasudeva, his father, feared Kamsa, and in that fear he did the only thing left to him. He took the child up and carried him away through the dark, out of the city and beyond the king's reach, into the open country where the cowherds kept their herds, to the settlement of Nanda, the cowherds' chief. There, in Vraja, among the pasture lands, the child was handed into a cowherd's care and left to grow where the tyrant's reach ended and the city walls were only a memory.\n\nEleven years he lived there. Balarama, his brother, was with him through all of it, and their boyhood belonged to Vraja, to its lanes and its cattle and its mornings, rather than to any palace. The seasons turned and the boys grew, and no one in the settlement knew what they sheltered. The village saw only a cowherd's son, quick on his feet among the calves, and the word for what he truly was stayed unspoken. All through those eleven years, the power that had come down to lift the world's burden stayed folded away, quiet and unnoticed.\n\nUddhava remembered it this way: a descent that began in a prison, a flight into the pasture lands, and a hidden boyhood that came before everything else. The one who had come to relieve the earth's weight began by being small enough to pass unnoticed among the cowherds.",
+ "reflection": "What Uddhava stresses is not the descent itself but the concealment: the one who came to relieve the earth's burden spent his first eleven years unnoticed, his glory folded away. It is a striking way to remember a divine birth, not through signs and wonders but through a long, quiet boyhood among cowherds.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Krishna",
+  "Vasudeva",
+  "Devaki",
+  "Nanda",
+  "Balarama",
+  "Kamsa"
+ ],
+ "locations": [
+  "Mathura",
+  "Vraja"
+ ],
+ "themes": [
+  "birth",
+  "divine_descent",
+  "protection",
+  "concealment"
+ ],
+ "previous_story_id": "DKS_0018",
+ "next_story_id": "DKS_0017",
+ "next_story_tease": "But before the cowherds could settle at home, Vasudeva had one more thing to entrust to Nanda.",
+ "hero_scene": "A small boy running with the calves through the dusty lanes of the cowherd settlement of Vraja, his brother Balarama beside him in the morning light, the hidden childhood years of Krishna passing unnoticed by the world.",
+ "visual_elements": [
+  "the earth, burdened and praying",
+  "a newborn in a locked prison cell",
+  "Vasudeva carrying the child away from the city by night",
+  "the cowherd settlement of Vraja with its herds and pastures",
+  "two boys growing up unnoticed among the cowherds",
+  "mood of quiet concealment and protection"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.24-25",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:51:59Z",
+  "source_event_id": "evt_0192",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

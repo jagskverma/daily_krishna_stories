@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0072",
+ "title": "The Leap into the Deep",
+ "subtitle": null,
+ "story": "The Yamuna could not be left as it was. The venom that had already struck down the cowherds and their cattle still coiled at the bottom of the river, in the deep pool where the serpent-king Kaliya had made his home. As long as he remained, no water in that place would be safe, and nothing that lived beside it could rest easy. So Krishna made up his mind to go down into the water himself and cleanse it. He did not send anyone else, and he did not wait for a better day. The pool lay dark and still before him, giving back nothing — no bird, no ripple, no sound.\n\nHe came to the bank, bound his cloth tightly about him, and climbed the tall Kadamba tree that stood over the pool. At the top he paused, high above the dark water. The branch swayed a little under him, and below, the deep pool held its breath. He slapped his arms, and then he let out a roar like a lion that made the whole riverbank flinch. And without a moment's hesitation he dived — a dark, cloud-coloured figure — headlong into the poisoned deep. For a heartbeat the pool swallowed him whole, and then the surface broke open.\n\nThe lake heaved under the blow. The water surged up and spilled over its banks like scattered clouds, and the whole sunken home of the serpent was shaken by the sound. The water had fled its bed for the land around, and the deep hole where Kaliya had ruled so long was no longer a place of silence. Down below, the serpents woke in fury. They rose from the water with eyes red with rage, and at their head rose Kaliya himself, king of them all, dark as a thundercloud, with five hoods and a face that burned like fire, his tongue flaming — blazing as if the end of an age had risen from the river. The whole surface of the pool, the verses say, was covered by his hoods, burning like fire.\n\nThe water around him began to boil, and the river, the old verses say, seemed to flee in terror, turning back upon its own course. Kaliya opened his mouth and loosed a wind of fire. Sparks and smoke poured out of him, and the great trees along the bank were consumed in an instant — the trees that had shaded the water for as long as anyone could remember, gone up like kindling. His son Dara and his servants, serpents of fearsome strength, rose with him, vomiting venom and flame into the churning water, until the whole pool became a cauldron of fire and poison.\n\nBeholding Krishna there in the water, sporting as if at play, the serpent-king burned the hotter for it. But Krishna, down in that boiling dark, did not flinch. The fire and the venom and the fury of the whole serpent court could not touch him. The fight, though, had only just begun. Only the water moved, seething, and the dark shapes of the serpents slid closer through it. The boy who had jumped in for the sake of the river stood his ground in the middle of their anger, and the serpent-king, who had never been challenged in his own pool, was coming for him.",
+ "reflection": "The leap is told with an almost sportive matter-of-factness: a boy binds his cloth, climbs a tree, and jumps. The horror is left to the water's own answer — the boiling, the fleeing river, the fire — so that Krishna's fearlessness, standing in the middle of it, reads as a fact rather than a boast.",
+ "tradition_note": "The Vishnu Purana includes the serpents coiling around Krishna and biting him with fiery venom at this point; the Bhagavata Purana places the coiling and the grief of Vraja in the verses that follow.",
+ "content_note": "A venomous serpent's fury is described briefly, without gore.",
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Krishna",
+  "Kaliya"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "purification",
+  "courage"
+ ],
+ "previous_story_id": "DKS_0071",
+ "next_story_id": "DKS_0073",
+ "next_story_tease": "But the serpent-king was not finished — his coils would soon close around Krishna in the depths.",
+ "hero_scene": "Krishna diving headlong from the top of the tall kadamba tree into the dark, poison-churned pool, water erupting around him while the five-hooded serpent-king rises in fury below.",
+ "visual_elements": [
+  "Krishna diving from the kadamba tree",
+  "the tall kadamba tree",
+  "the dark poisoned pool",
+  "Kaliya with five fiery hoods",
+  "boiling, churning water",
+  "serpents rising in anger",
+  "fire and smoke",
+  "fearless calm"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.16.3-5",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.67",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.7",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:16Z",
+  "source_event_id": "evt_0069"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

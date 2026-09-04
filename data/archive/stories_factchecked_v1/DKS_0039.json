@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0039",
+ "title": "The Wolves That Moved a Village",
+ "subtitle": null,
+ "story": "The forest that had held their childhood was nearly gone.\n\nKrishna and his brother Balarama had passed seven years in Vraja, playing through these woods. They had gone out among the cattle in dark-blue and yellow clothes, their bodies painted with yellow and white paste, crow feathers in their hair, and filled the forest with the music of their pipes. Some days they wore crowns of leaves and garlands of wild flowers, and looked like two young trees walking; other days they crowned themselves with lotuses, hung gourds on a string, slung a rope over one shoulder like a sacred thread, and played their flutes as they went. They had lain down on beds of leaves and slept, and run about like two young horses, and in their play they had beautified the whole forest.\n\nNow, standing in it, Krishna saw what those years had cost. The grass was gone, the twigs stripped, the trees pulled up by the milkmen. Fires from the cow-sheds had scorched the trunks, and the birds had flown from the bare branches. Even the wind that had once blown sweet through the leaves seemed not to stir here anymore. The forest, Krishna said, had become like rice served with no dish to go with it — there, but giving no pleasure.\n\nHe turned to his brother. They could not play here any longer, he said; there was no place left even to rest. And the cows suffered too — where droppings fell on the grass, the grazing soured and the milk turned poor. It was time to move.\n\nThen he told Balarama of the place he had heard of: a forest on the bank of the Yamuna called Vrindavana. Grass grew thick there, he said; the ground was free of thorns and insects, and the trees bore fruit. Cool winds blew there all the year, as if every season had made its home in that one place. Kadamba trees stood in the groves, and close by rose the great mountain Govardhana, its summit high like the celestial mount Mandara. In the heart of that mountain grew an enormous fig tree, the Bhandira, its branches spreading for a yojana, dark against the sky like a rain-cloud. And the river Kalindi, the Yamuna herself, flowed through the middle of it all, as straight as a parting drawn through hair. There, Krishna said, they would look upon the mountain, and the tree, and the river, with joy.\n\nThere was only one difficulty. The milkmen would not willingly leave the home they knew. So Krishna made his decision. Let us create some calamity, he told his brother, and frighten the milkmen into going.\n\nAnd as he spoke, the thought became the thing. From the hairs of his body there arose wolves — hundreds of wolves, creatures that live on fat and blood and flesh, dark-faced, each bearing on its body the mystic mark called Srivatsa. They poured out of him and ran in every direction, as if the whole village of Vraja was to be overrun. They fell upon the calves and the cows and the women, and a great fear seized the milkmen. The wolves gathered themselves into groups of five and ten and twenty and thirty and a hundred, and ranged through the settlement, and the terror of them spread everywhere.\n\nThat terror was the whole point. Krishna did not mean to harm his own people; he meant to move them, as a herdsman moves a herd that has grazed one field down to the root. The fear the wolves carried would loosen the milkmen's grip on the ruined forest and carry them, at last, toward the green land on the Yamuna, where the grass still grew deep.",
+ "reflection": "Krishna does not argue the milkmen out of their home; he frightens them out of it. The wolves are not a punishment but an instrument — a gentle violence aimed at carrying his people from a spoiled place to a better one, the same hand that had beautified the forest now loosening its hold on them.",
+ "tradition_note": "The Harivamsha tells this migration as Krishna conjuring wolves to frighten the milkmen into moving; the Bhagavata and Vishnu Purana instead attribute the move to omens and portents.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "milkmen"
+ ],
+ "locations": [
+  "Vraja",
+  "Vrindavan",
+  "Govardhana"
+ ],
+ "themes": [
+  "divine_play",
+  "migration"
+ ],
+ "previous_story_id": "DKS_0038",
+ "next_story_id": "DKS_0040",
+ "next_story_tease": null,
+ "hero_scene": "Hundreds of dark-faced wolves streaming from the body of the seven-year-old Krishna, fanning out across the settlement of Vraja, as milkmen, cattle and women scatter in fear.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "dark-faced wolves marked with the Srivatsa",
+  "Vraja village",
+  "ruined forest",
+  "frightened milkmen",
+  "calves and cows",
+  "the imagined Vrindavana with Govardhana and the Yamuna"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.58",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:54:24Z",
+  "source_event_id": "evt_0055"
+ },
+ "editorial_status": "unreviewed"
+}

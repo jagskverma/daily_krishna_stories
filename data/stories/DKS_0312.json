@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0312",
+ "title": "The Discus in Pradyumna's Hand",
+ "subtitle": "Krishna's discus comes to his son, and Vajranabha falls for the last time",
+ "story": "The duel was over, and yet nothing was settled. Above the city of Vajra the two armies had fallen back, giving the two champions room. Both had been struck down that day, and both had risen again — Vajranabha from the wound on his breast, Pradyumna from the blow on his forehead, called back by his father's conch. Now they faced each other across the empty sky, and the war could have gone on for another day, or another month.\n\nIt had not been a short war. Pradyumna had ridden against the demon host with the thousand-headed serpent Ananta yoked to his celestial car; Indra had sent his own chariot, his great white elephant Airavata, and his son Jayanta to aid the heroes of Dwaraka. Only Vajranabha himself had held his ground, trading blow for blow with the young warrior until both lay senseless — and then rising again to fight on. Now, in the pause after the conch's call, Krishna decided that the war had lasted long enough.\n\nThen a wonder happened, the kind that old stories keep and tell to children ever after. In the stillness that followed the conch's last note, Krishna's discus — a circle of bright metal set with thousands of sharp points, the weapon that had destroyed the enemies of the gods — left its place and came through the air into his son's hand. The demons lived in fear of that discus, and every eye on the field followed its flight.\n\nPradyumna looked at it and understood what was being asked of him. He did not hesitate. He saluted Indra, saluted his father, and hurled the discus at Vajranabha. It did not miss. Before the very eyes of the demons, who had come to watch their king win, the great Asura fell, struck down at last. The war above the city of Vajra was over.\n\nThe rest of the host did not wait to mourn, and no one moved to avenge the king. The demon lord Sunabha, for all his care, was struck down by Gada on the field; Shamba's sharpened arrows sent the demons who remained to death; and Nikumbha, seeing what had befallen Vajranabha, fled in fear of Krishna to the far city of Shatpura, and no one followed him.\n\nWhen it was done, Krishna and Indra came down from the sky into the city of Vajra itself. The city had passed through war, and its boys and its old people huddled in fear, waiting to see what conquerors do. But these conquerors had not come to take — they had come to quiet. The two lords walked among the frightened people, spoke to them gently, and established peace there; and the fear went out of the streets like a tide going out.\n\nSo the war that had begun in the upper air ended on the ground, in a city learning to be at peace again. Peace is not a loud thing. It settled over the city of Vajra like evening.",
+ "reflection": "The discus comes into Pradyumna's hand according to Krishna's desire: the father does not hand it over so much as will it into his son's grasp. The victory is the young man's, but the instrument and the moment are the elder's gift — trust passing down a single line.",
+ "tradition_note": null,
+ "content_note": "Battle scene; Vajranabha is slain by the discus, described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Vajranabha",
+  "Krishna",
+  "Gada",
+  "Shamba",
+  "Sunabha",
+  "Nikumbha",
+  "Indra"
+ ],
+ "locations": [
+  "city of Vajra"
+ ],
+ "themes": [
+  "discus",
+  "climactic slaying",
+  "victory"
+ ],
+ "previous_story_id": "DKS_0311",
+ "next_story_id": "DKS_0313",
+ "next_story_tease": "The city lay conquered — and Indra and Krishna were already planning its future.",
+ "hero_scene": "Pradyumna hurling Krishna's discus, a blazing circle set with thousands of sharpened axles, at Vajranabha as the Daityas watch in horror from the city of Vajra below.",
+ "visual_elements": [
+  "the discus flying from Pradyumna's hand",
+  "Vajranabha struck down before the Daityas",
+  "Krishna and Indra watching from above",
+  "the city of Vajra beneath the battlefield",
+  "the asura host in fear",
+  "a mood of finality and release"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.244",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:53Z",
+  "source_event_id": "evt_0328",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

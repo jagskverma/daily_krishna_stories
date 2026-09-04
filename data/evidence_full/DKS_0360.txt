@@ -1,0 +1,35 @@
+# STORY DKS_0360 — Balarama Slays the Demon Balvala || When Balvala appears at the sacrifice raining impurity, Balarama drags him down with his plough and crushes his head with his mace, and the sages shower Balarama with honors.
+
+## Index entry
+title: Balarama Slays the Demon Balvala || When Balvala appears at the sacrifice raining impurity, Balarama drags him down with his plough and crushes his head with his mace, and the sages shower Balarama with honors.
+summary: When Balvala appears at the sacrifice raining impurity, Balarama drags him down with his plough and crushes his head with his mace, and the sages shower Balarama with honors.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, Balvala, the Naimisha sages
+locations: Naimisha forest
+themes: protection, demon-slaying, gratitude
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0274
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 79 | verses 1-8 | confidence 5
+  excerpt: At the next parvan the terrible demon Balvala appears, raining filth upon the sacrificial hall. Balarama, remembering his plough and mace, drags the sky-roaming Balvala down with the plough's tip and crushes his skull with the mace, and the delighted sages honor Balarama and bestow blessings, a celestial garland and garments upon him. (rendered from Sanskrit, verse 1-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.79 (1-8)
+1. tato 'medhya-mayaṃ varṣaṃ balvalena vinirmitam /
+2. taṃ vilokya bṛhat-kāyaṃ bhinnāñjana-cayopamam /
+3. sasmāra mūṣalaṃ rāmaḥ para-sainya-vidāraṇam /
+4. tam ākṛṣya halāgreṇa balvalaṃ gagane-caram /
+5. so 'patad bhuvi nirbhinna- lalāṭo 'sṛk samutsṛjan /
+6. saṃstutya munayo rāmaṃ prayujyāvitathāśiṣaḥ /
+7. vaijayantīṃ dadur mālāṃ śrī-dhāmāmlāna-paṅkajāṃ /
+8. atha tair abhyanujñātaḥ kauśikīm etya brāhmaṇaiḥ /
+
+## Corpus chain
+previous_story_id: DKS_0359 | next_story_id: DKS_0361
+previous title: The Sages Prescribe Balarama's Penance || The sages instruct Balarama that to expiate the brahmana-slaying he must slay the demon Balvala, who defiles their sacrifice, and then perform a year-long pilgrimage.
+next title: Indra Asks Krishna to Befriend Arjuna

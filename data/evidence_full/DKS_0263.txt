@@ -1,0 +1,37 @@
+# STORY DKS_0263 — Bhumi Returns Aditi's Earrings || The earth-goddess Bhumi restores Aditi's earrings and Varuna's umbrella and prays for the protection of Naraka's son Bhagadatta.
+
+## Index entry
+title: Bhumi Returns Aditi's Earrings || The earth-goddess Bhumi restores Aditi's earrings and Varuna's umbrella and prays for the protection of Naraka's son Bhagadatta.
+summary: The earth-goddess Bhumi restores Aditi's earrings and Varuna's umbrella and prays for the protection of Naraka's son Bhagadatta.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Bhumi, Aditi, Bhagadatta
+locations: Pragjyotisha
+themes: gratitude, prayer, protection
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0247
+variant_notes: Distinct: Bhumi (earth-goddess) restores the treasures; cross-ref Krishna's earrings restoration (vp5_030_01).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 59 | verses 22-31 | confidence 5
+  excerpt: Bhumi, the earth, came before Krishna and offered the earrings of Aditi, Varuna's umbrella and the great jewel, and praying, begged Krishna to protect her son Bhagadatta; Krishna granted him fearlessness. (rendered from Sanskrit, verses 22-31)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.59 (22-31)
+22. tataś ca bhūḥ kṛṣṇam upetya kuṇḍale $ pratapta-jāmbūnada-ratna-bhāsvare &amp;sa-vaijayantyā vana-mālayārpayat % prācetasaṃ chatram atho mahā-maṇim
+23. astauṣīd atha viśveśaṃ devī deva-varārcitam /
+24. bhp_10.59.025/0 bhūmir uvāca
+25. namaḥ paṅkaja-nābhāya namaḥ paṅkaja-māline /
+26. namo bhagavate tubhyaṃ vāsudevāya viṣṇave /
+27. ajāya janayitre 'sya brahmaṇe 'nanta-śaktaye /
+28. tvaṃ vai sisṛkṣur aja utkaṭaṃ prabho $ tamo nirodhāya bibharṣy asaṃvṛtaḥ &amp;sthānāya sattvaṃ jagato jagat-pate % kālaḥ pradhānaṃ puruṣo bhavān paraḥ
+29. ahaṃ payo jyotir athānilo nabho mātrāṇi devā mana indriyāṇi /
+30. tasyātmajo 'yaṃ tava pāda-paṅkajaṃ bhītaḥ prapannārti-haropasāditaḥ /
+31. bhp_10.59.032/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0262 | next_story_id: DKS_0264
+previous title: Krishna Slays Narakasura
+next title: Krishna Frees the Sixteen Thousand Captive Maidens

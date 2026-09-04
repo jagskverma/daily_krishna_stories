@@ -1,0 +1,43 @@
+# STORY DKS_0104 — The Favored Gopi's Pride and Krishna's Second Vanishing
+
+## Index entry
+title: The Favored Gopi's Pride and Krishna's Second Vanishing
+summary: Finding footprints of Krishna and his chosen gopi, the gopis marvel; she grows proud, and Krishna vanishes again.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Vrindavan forest
+themes: pride, humility
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0115
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 30 | verses 24-39 | confidence 5
+  excerpt: Finding Krishna's footprints and those of the gopi he had taken aside, the gopis marveled at her fortune; that favored gopi, grown proud, asked Krishna to carry her, and when he took her on his shoulder he vanished again, and she repented. (rendered from Sanskrit, verses 24-38)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.30 (24-39)
+24. padāni vyaktam etāni nanda-sūnor mahātmanaḥ /
+25. tais taiḥ padais tat-padavīm anvicchantyo 'grato'balāḥ /
+26. kasyāḥ padāni caitāni yātāyā nanda-sūnunā /
+27. anayārādhito nūnaṃ bhagavān harir īśvaraḥ /
+28. dhanyā aho amī ālyo govindāṅghry-abja-reṇavaḥ /
+29. tasyā amūni naḥ kṣobhaṃ kurvanty uccaiḥ padāni yat yaikāpahṛtya gopīnām raho bhunkte 'cyutādharam /
+30. imāny adhika-magnāni padāni vahato vadhūm /
+31. atra prasūnāvacayaḥ priyārthe preyasā kṛtaḥ /
+32. keśa-prasādhanaṃ tv atra kāminyāḥ kāminā kṛtam /
+33. reme tayā cātma-rata ātmārāmo 'py akhaṇḍitaḥ /
+34. ity evaṃ darśayantyas tāś cerur gopyo vicetasaḥ /
+35. sā ca mene tadātmānaṃ variṣṭhaṃ sarva-yoṣitām /
+36. tato gatvā vanoddeśaṃ dṛptā keśavam abravīt /
+37. evam uktaḥ priyām āha skandha āruhyatām iti /
+38. hā nātha ramaṇa preṣṭha kvāsi kvāsi mahā-bhuja /
+39. bhp_10.30.040/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0103 | next_story_id: DKS_0105
+previous title: The Gopis Enact Krishna's Lilas
+next title: Krishna Reappears Among the Gopis

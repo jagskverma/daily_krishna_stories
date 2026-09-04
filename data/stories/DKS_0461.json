@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0461",
+ "title": "What the True Renouncer Gives Up",
+ "subtitle": null,
+ "story": "On the field of Kurukshetra, between two armies waiting for the war to begin, Arjuna stood in his chariot with Krishna at his side. Arjuna was one of the five Pandava princes, and across the field stood his own cousins and his teachers; the thought of killing them had once made him drop his bow and refuse to fight. Krishna, his cousin and closest friend, had taught him until the despair loosened, and had come back to him in his gentle form after the vision. One question still burned in him.\n\n\"Of renunciation,\" he said, \"I want to know the truth. And of giving things up, of abandonment, tell me plainly what it means.\"\n\nKrishna answered as though he had been asked this a thousand times before, by every man who ever stood where the road divides. \"When a man stops doing what he does for the sake of desire, the learned call that renunciation,\" he said. \"When a man lets go of the fruit of his work, the reward it might bring him, the wise call that abandonment. Some say work itself is evil and should be dropped altogether. Others say the works of sacrifice, gift, and penance should never be dropped. Hear my word on it.\n\n\"The works of sacrifice, gift, and penance should not be dropped: the offerings made to the sacred fire, the gifts given to the poor, the discipline of the self. They purify the wise. But let a man do them without clinging, without asking what they will bring him. To drop a duty out of confusion is a giving-up born of darkness. To drop it because one fears pain is a giving-up born of desire, and it earns nothing. The work a man does because it ought to be done, without attachment and without longing for its fruit, that giving-up is born of goodness. No one who lives in a body can truly stop acting. So the real renouncer is not the one who drops the work; he is the one who drops the claim on its fruit.\n\n\"Look at any deed,\" Krishna went on, \"and you will find five causes behind it: the ground it stands on, the one who does it, the powers that carry it out, the effort they make, and the unseen fate that moves over it all. Whatever a man does, with his body, his words, or his mind, these five are at work. So the man who thinks, I alone did this, sees crookedly. But one who acts without a swollen sense of himself is not bound by the deed, not even by one as terrible as this war, for the self in him neither kills nor is killed.\n\n\"Knowledge, too, is threefold. The knowledge that sees one eternal self in all things is born of goodness. The knowledge that sees every being as separate is born of desire. The knowledge that clings to one small thing as though it were the whole truth is born of darkness. So it is with action: the deed done without clinging, wanting nothing back, is born of goodness; the deed done for what it can buy, heavy with pride, is born of desire; the deed done blindly is born of darkness. And so with the doer: the doer of goodness is steady, unmoved by success or failure; the doer of desire chases reward and swings between joy and sorrow; the doer of darkness is lazy, deceitful, always putting things off.\"\n\nThe chariot stood still on the field, and the two armies held their breath without knowing it. Then Arjuna spoke, and this time his words were not a question.\n\n\"My confusion is gone,\" he said. \"By your grace I remember what I am. I am steady. My doubts are finished. I will do your bidding.\"\n\nIt was not the answer of a man who had been persuaded, but of a man who had finally seen the shape of his own life: he was never the sole author of his deeds, the fruit was never his to hoard, and work done without clinging carries its own cleanness. The bow he had been ready to drop was in his hands again.",
+ "reflection": "Arjuna's question about renunciation is the question of every person about to act greatly: how does one move without being consumed by attachment? Krishna's answer gives the warrior his footing, not by promising success but by relocating the self: he is not the sole agent, and the fruit is not his to guard. The man who abandons the fruit, not the work, is the one who can finally act without fear.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Arjuna",
+  "Krishna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "resolve",
+  "duty",
+  "return to battle"
+ ],
+ "previous_story_id": "DKS_0460",
+ "next_story_id": "DKS_0462",
+ "next_story_tease": "With Arjuna resolved, Krishna turned his attention to the one warrior on the enemy side who could still change the war.",
+ "hero_scene": "Standing in the chariot between the two waiting armies, Krishna speaks of renunciation with one hand raised, while Arjuna, bow in hand and doubts gone, bows his head in the firm declaration: I will do your bidding.",
+ "visual_elements": [
+  "Krishna standing in the chariot, speaking with calm authority",
+  "Arjuna with his bow, his posture changed from despair to resolve",
+  "the two armies waiting on the field of Kurukshetra",
+  "the quiet intensity of the final exchange",
+  "Arjuna's firm declaration, his doubts dispelled"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:10Z",
+  "source_event_id": "evt_0458",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

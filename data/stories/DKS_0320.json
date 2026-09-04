@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0320",
+ "title": "The Warrior Who Was Kama",
+ "subtitle": null,
+ "story": "A voice came from the sky, and for a moment even the arrows stopped. From the clouds a radiant figure descended \u2014 an ascetic with matted locks, a vina in his hand, his face bright as fire \u2014 and came to rest before Pradyumna's chariot, on the field where the last illusions had just died. It was Narada, the wandering sage of the gods, and Indra, the king of the gods, had sent him. He came without herald or escort, as he always came, and the armies on both sides knew him at once: the sage who wandered between the worlds, carrying the news of heaven in his vina.\n\nPradyumna's own story had been kept from Pradyumna. As a baby he had been stolen away by the demon king Shamvara, who meant to kill him and somehow never did; the boy had grown up in the demon's household and been trained in arms, until at last he stood against his kidnapper in open battle. He had slain Shamvara's four ministers and shattered every illusion the demon could cast \u2014 and still he did not know the simplest thing about himself: who he had been before this life began.\n\n\"Remember your birth before this one, hero,\" Narada said. \"You are Kama. In a former life you were the god of love, and you have been born again, in the house of Krishna, as Pradyumna. The demon who stole you never knew what he held.\" Then the sage gave him the Vaishnava weapons and a coat of mail \u2014 weapons unlike anything in the demon's armoury, for they were consecrated to Vishnu \u2014 and the coat of mail settled on his shoulders as if it had been waiting for him. Then Narada told him the task the gods had set before him. \"When you have killed Shamvara in battle with these weapons,\" he said, \"take your wife Mayavati and go to Dwaraka.\"\n\nPradyumna stood with the mail on his shoulders and the weapons in his hands, and understood at last why Shamvara's magic had never held him. It had not been only a boy's quick hands that cut the illusions to pieces; something in him was older than the demon's art, older than the demon himself, and the illusions could not touch it.\n\nHis stolen boyhood had been a long apprenticeship in war and watchfulness, and no one had ever said where he came from. Now the shape of his life rearranged itself in a few words. He was not an orphan of chance; he was Kama, born again, and every year of that boyhood had been leading to this field. He thought of his mother Rukmini and his father Krishna in Dwaraka, of a city he had been too young to remember \u2014 and of Mayavati, a wife he had not known he possessed, waiting somewhere to be claimed. The battle that had begun as a desperate boy's contest had become a return. He set his hand to the weapons, and their weight told him what nothing in the demon's house ever had: he was not alone in this war.\n\nNarada watched him a moment, then rose into the sky as suddenly as he had come, leaving the young warrior alone on the field with his new name and his new weapons. Pradyumna turned his chariot toward the golden car of Shamvara, who was reaching for the golden club that no god or demon could withstand. Shamvara did not understand why the boy's face had changed. But the gods watching from above understood: the stolen child had remembered himself, and the last battle of the demon king could now begin.",
+ "reflection": "Pradyumna does not change in the battle; he changes in a moment of recognition. He had fought brilliantly without knowing his own story, and the revelation adds no new skill \u2014 only meaning. The stolen child becomes the returning husband, and every blow he strikes from that moment is struck toward a home he has never seen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Narada",
+  "Pradyumna",
+  "Indra"
+ ],
+ "locations": [
+  "sky over the battlefield"
+ ],
+ "themes": [
+  "true identity",
+  "divine weapon",
+  "destiny"
+ ],
+ "previous_story_id": "DKS_0319",
+ "next_story_id": "DKS_0321",
+ "next_story_tease": "And when the war was done, the same sage would appear before Krishna in Dwaraka with a riddle that left every king in the court speechless.",
+ "hero_scene": "Narada, radiant with matted locks and a vina in his hand, standing before Pradyumna's chariot on the smoke-veiled battlefield, laying a coat of mail over the young warrior's shoulders while the Vaishnava weapons lie ready in his hands.",
+ "visual_elements": [
+  "Narada descending from the clouds, matted locks and vina",
+  "Pradyumna in the coat of mail",
+  "the Vaishnava weapons in his hands",
+  "the smoke-veiled battlefield",
+  "Shamvara's golden chariot in the distance",
+  "gods watching from the sky"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.253",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:20Z",
+  "source_event_id": "evt_0339",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

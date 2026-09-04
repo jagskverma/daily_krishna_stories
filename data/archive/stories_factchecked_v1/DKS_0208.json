@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0208",
+ "title": "The Fish at the Svayamvara",
+ "subtitle": null,
+ "story": "Years afterward, when Draupadi asked Krishna's queens how each of them had come to marry him, Lakshmana answered with a story about a fish.\n\nBut before that story, there was a quieter one. On the way, Krishna had married Bhadra, the daughter of his aunt Srutakirti, given to him by her brothers — a marriage of kinsmen, arranged and blessed, with none of the swordplay that seemed to follow him everywhere. That wedding passed without incident, and it is remembered mostly because of what came next.\n\nIn the kingdom of Madra, the king had set his heart on finding his daughter Lakshmana a husband worthy of her. He had done it in the old way, the way that tested more than beauty: he proclaimed a svayamvara, and for its test he hung up a fish — a target so placed that no archer could see it directly, only its reflection in the water far below. The king who could string the bow and pierce that fish would take his daughter home.\n\nThe kings of the earth came to Madra. They arrived in procession, each one expecting to leave with the bride. They tried the bow one after another, and the hall watched them fail. Some could not string it at all; it stood unbent before them, mocking their arms. The kings of Magadha, Ambashta and Cedi — the strongest of the suitors — managed to draw it, but the fish hung high and its image trembled in the water, and every arrow they loosed at the reflection missed the truth of it. One by one the kings set the bow down, their pride broken, until the arena stood empty.\n\nKrishna had watched in silence. He took up the bow, and the great weapon bent in his hands as if it had been waiting for him. He looked once at the water, where the fish's shadow wavered, and fitted a single arrow. It flew; the fish fell; and from the sky the drums of the gods rolled out while shouts of victory rang across the earth. As the old verse puts it, he carried off the fair daughter of Madra the way Garuda seizes nectar from the gods.\n\nIn the crowd, Lakshmana was already moving. She came into the arena with her anklets chiming, a garland of golden-gleaming jewels in her hands and a shy smile half-hiding her face. She looked once at the kings who had failed and once at the man who had not, and then she set her garland on Krishna's shoulder. Conches and drums and bheris answered; the svayamvara was over before anyone could object.\n\nNot everyone let it end there. The kings who had lost her to a stranger's arrow did not take their defeat kindly, and as Krishna turned to leave they surged forward to stop him. Daruka, his charioteer, lifted Lakshmana into the waiting chariot, drawn by four fine horses; and Krishna met the kings with arrows from Sharnga, and where his arrows passed, arms and legs and necks were cut down, until the road to Dwaraka lay open. He entered his own city like the sun entering its home, through gates hung with banners, and the king of Madra — his daughter already gone — did the only thing left to him: he honored the guests Krishna had left behind with serving women, wealth, elephants, chariots and horses, as if the wedding had been held in his own hall after all.\n\nThat was Lakshmana's story, told years later to Draupadi. She ended it with a strange, quiet line. \"We are only servants,\" she said, \"in the home of that self-satisfied Lord.\" A queen of Dwaraka, won by arrow and garland before all the kings of the earth — and in her own telling, nothing more than a servant in a house whose master needed nothing at all.",
+ "reflection": "Lakshmana's closing line is the quiet heart of the story: every king at the svayamvara was competing to possess her, and she describes herself as a servant in the home of a Lord who is complete in himself. The fish, the bow, the fleeing kings — in her telling it was never a contest in which she was being won, but a service she was entering.",
+ "tradition_note": "The Bhagavata tells this twice: a brief list of Krishna's marriages (10.58) and Lakshmana's own full account years later (10.83). The details of the fish target come from her telling; the brief version adds only that he carried her off like Garuda seizing nectar.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Lakshmana",
+  "Bhadra",
+  "Daruka"
+ ],
+ "locations": [
+  "Madra",
+  "Dwaraka"
+ ],
+ "themes": [
+  "marriage",
+  "alliance"
+ ],
+ "previous_story_id": "DKS_0207",
+ "next_story_id": "DKS_0209",
+ "next_story_tease": "Back in Dwaraka, a missing jewel — the Syamantaka — would soon turn even Krishna's own kinsmen against him.",
+ "hero_scene": "Krishna's single arrow piercing the fish target high above the arena as its reflection trembles in the water below, while Lakshmana watches from the edge of the hall, jeweled garland in her hands.",
+ "visual_elements": [
+  "the fish target hanging high above the arena",
+  "its reflection trembling in the water below",
+  "Krishna's single arrow in flight",
+  "the great bow bent in his hands",
+  "Lakshmana with the jeweled garland",
+  "defeated kings setting down the bow",
+  "heavenly drums in the sky"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.58.55-57",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.83.16-38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:42:35Z",
+  "source_event_id": "evt_0234"
+ },
+ "editorial_status": "unreviewed"
+}

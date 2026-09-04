@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0205",
+ "title": "The Jest That Felled Rukmini",
+ "subtitle": null,
+ "story": "In the inner chamber of the palace in Dwaraka, the air was soft with the scent of parijata blossoms, and bees moved lazily through garlands of mallika. Krishna lay at ease on a couch white as milk foam, and Rukmini sat beside him, fanning him with a fan whose handle was set with jewels. She had taken it from a friend's hand a moment before; her anklets kept a soft, unhurried time. It was the kind of quiet in which a single careless word can do the most damage.\n\nHe began lightly enough, smiling. Great kings had sought her, he said — Shishupala, Shalva, Jarasandha, Dantavakra, princes of every kind of strength and wealth. And whom had she chosen? A man with nothing. He was penniless, he told her; he had always been, and the penniless were the only people he could call his own. He kept company, he said, with folk who walked hidden roads that the world never saw. He was not the sort to run after wives and sons and household splendor. So let her think again, this jewel of a bride: let her choose some worthy kshatriya, a bull among kings, and leave her empty-handed husband to his own devices.\n\nHe meant it as play. A jest, a game, the kind of teasing a man gives the woman who loves him, expecting her to laugh and scold him. His smile was real; his delight in her was real. That was the terrible part — the jest came wrapped in exactly the love it seemed to deny.\n\nBut from the lips of the lord of the three worlds, Rukmini had never heard an unkind word before that day. She heard this one as a sentence.\n\nShe had not chosen him in a market or a council hall. She had chosen him across the ruin of her own life — she, the princess of Vidarbha, who had sent him word against her own brother's wishes, who had climbed into his chariot at her svayamvara while the kings of the earth looked on and Rukmi raged behind her, and who had crossed half of India to reach Dwaraka with him. Every king he now named had been gathered in that hall. She had turned from all of them, and the whole world had approved her choice. The one person whose approval she had never thought to need was Krishna himself.\n\nHis words struck where nothing else could reach. She said nothing; she could not. Her eyes filled, the tears dark with collyrium, and she traced the floor with her toe as if writing out the shape of her failure there. The jeweled fan slipped from her hand and struck the floor with a small, final sound, and the chiming of her anklets stopped all at once. Then she fainted outright, collapsing where she sat, her hair loosening and scattering around her like a plantain tree struck down by the wind.\n\nKrishna saw the fall, and in that instant the game was over for him. He rose from the couch, bound to her by the very love he had been teasing, lifted her in his arms, and wiped the tears from her eyes and the grief from her face. He had meant a jest and found a wound. There in the ruined quiet of the chamber he began to comfort her, holding her like a man who had suddenly understood what he had almost thrown away.\n\nBut the jest itself was still between them — unconfessed, unmade — and Rukmini, waking into his arms, did not yet know that it had never been true at all.",
+ "reflection": "Rukmini, who defied kings and her own brother to choose Krishna, faints at a single word from him: the story measures trust by what one voice can do to it. His jest is playful, but her collapse is real, and the comfort he gives shows the game had already gone further than he intended.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Rukmini"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "playfulness",
+  "love",
+  "anguish"
+ ],
+ "previous_story_id": "DKS_0204",
+ "next_story_id": "DKS_0206",
+ "next_story_tease": "But the jest was not yet unmade — and Rukmini's answer, when it came, would be the most serious words she ever spoke to him.",
+ "hero_scene": "Rukmini fainting in the inner chamber, the jeweled fan slipping from her hand and her loosened hair scattering around her like a plantain tree struck by wind, while Krishna rises from the white couch to catch her.",
+ "visual_elements": [
+  "Rukmini fainting, jeweled fan falling from her hand",
+  "tears dark with collyrium",
+  "loosened hair like a plantain tree struck by wind",
+  "Krishna rising from the white couch",
+  "garlands of mallika and bees in the chamber",
+  "the quiet inner chamber of the palace in Dwaraka"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.60.1-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:42:35Z",
+  "source_event_id": "evt_0248"
+ },
+ "editorial_status": "unreviewed"
+}

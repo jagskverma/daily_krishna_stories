@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0012",
+ "title": "The Gods Praise the Unborn Lord",
+ "subtitle": null,
+ "story": "They came unseen, as the divine is said to come — a gathering in a place where no gathering should have been. Inside a locked cell in Mathura, Devaki waited out the months of her pregnancy. Her brother Kamsa, the king, had shut her there because a prophecy promised that her eighth child would be his death; the children she had borne in that cell had been taken from her, one after another, and the child growing in her womb now was the one the prophecy meant. The gods knew it. The air in the little room changed, and it was suddenly not empty.\n\nBrahma and Shiva came down to that prison, and with them the sage Narada and a host of gods and seers. They had not come to set Devaki free or to announce themselves to the guards. They had come to praise what was hidden in her womb.\n\nThey stood around her and spoke, and their words were not addressed to the mother but to the child. They praised him as the source and the abode of truth itself, the one on whom all truth rests, and they took refuge in him. They called him the single root from which all existence grows — one tree, they said, with its two fruits and its many branches, its three roots and its several tastes; the one path through the many turnings of the world; the origin of all things, the one who holds them up, and the grace that attends them.\n\nHe had no need to be born at all, they said; his coming could be explained only as play, taken up for the welfare of all that moves and all that stands still. They remembered how his devotees cross the terrible ocean of birth and death — the endless cycle of being born and dying again — by holding to his lotus feet, which carry them like a boat; and how those who believe themselves free while turning away from him fall back into that ocean. They spoke of how, through pure goodness, by the rites of the Vedas, the ancient hymns, by discipline and by the stillness of meditation, people come to honor him — and how one who only hears and repeats his blessed names is not drawn again into that cycle. And they sang of his descents: the fish, the boar, the man-lion, the tortoise, the swan, and the forms he has taken again and again among kings and sages and gods, to protect the worlds.\n\nThen, turning their words toward the mother at last, they told her what the child would do. \"Fortunate are you, mother,\" they said, \"for the Lord of all rests in your womb. Do not fear the king of the Bhojas — that is Kamsa's line — he is near his end. Your son will be the protector of the Yadavas, his father's people.\" And they rejoiced that the burden of the earth, grown too heavy at last, was about to be lifted, and that soon they would look on the earth and the heavens marked by his auspicious footprints.\n\nThen, having sung his glories, they returned to their own world as quietly as they had come. The cell was a cell again, and Devaki was alone once more with the child that no one had seen but everyone had praised. She kept their words close, the way one keeps a secret spoken in the dark.",
+ "reflection": "The praise is offered not to a visible form but to a hidden presence: the gods honor the Lord while he is still small enough to be carried, and they place the whole weight of the earth's deliverance on someone who has not yet drawn a breath.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Brahma",
+  "Shiva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "devotion",
+  "praise"
+ ],
+ "previous_story_id": "DKS_0011",
+ "next_story_id": "DKS_0013",
+ "next_story_tease": "But praise was only a prelude; the hour of birth had still to come.",
+ "hero_scene": "Brahma and Shiva, with Narada and a host of gods, gathered unseen in the prison cell around the radiant Devaki, praising the unborn Lord in her womb.",
+ "visual_elements": [
+  "Brahma and Shiva in celestial forms",
+  "Narada and a host of gods and sages",
+  "Devaki seated, radiant",
+  "the dark prison cell touched with light",
+  "a mood of hushed devotion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.2.24-42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:58:06Z",
+  "source_event_id": "evt_0024",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,67 @@
+# STORY DKS_0380 — Krishna Eats a Single Grain and Satisfies Durvasa and His Disciples
+
+## Index entry
+title: Krishna Eats a Single Grain and Satisfies Durvasa and His Disciples
+summary: Krishna finds one grain of rice sticking to Draupadi's vessel, eats it, and by that act the sage Durvasa and his ten thousand disciples feel their stomachs full and flee.
+life_stage: pandava_period | story_arc: pandava_friendship
+characters: Krishna, Draupadi, Durvasa, Bhimasena
+locations: Kamyaka forest
+themes: miracle, protection, humility
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0409
+variant_notes: cf. mb_e_004.
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 3 | chapter/section 261 | verses  | confidence 4
+  excerpt: he looked into it and saw a particle of rice and vegetable sticking at its rim. And swallowing it he said unto her, 'May it please the god Hari, the soul of the Universe, and may that god who partaketh at sacrifices, be satiated with this.' ... these ascetics, having plunged into the river, were rubbing their bodies and observing that they all felt their stomachs to be full.
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 3.261 ()
+(Draupadi-harana Parva)
+
+Vaisampayana said, “One day, having previously ascertained that the
+Pandavas were all seated at their ease and that Krishna was reposing
+herself after her meal, the sage Durvasa, surrounded by ten thousand
+disciples repaired to that forest. The illustrious and upright king
+Yudhishthira, seeing that guest arrived, advanced with his mothers to
+receive him. And joining the palms of his hands and pointing to a proper
+and excellent seat, he accorded the Rishis a fit and respectful welcome.
+And the king said unto him, ‘Return quick, O adorable sir, after
+performing thy diurnal ablutions and observances.’ And that sinless Muni,
+not knowing how the king would be able to provide a feast for him and his
+disciples, proceeded with the latter to perform his ablutions. And that
+host of the Muni, of subdued passions, went into the stream for
+performing their ablutions. Meanwhile, O king, the excellent princess
+Draupadi, devoted to her husbands, was in great anxiety about the food
+(to be provided for the Munis). And when after much anxious thought she
+came to the conclusion that means there were none for providing a feast,
+she inwardly prayed to Krishna, the slayer of Kansa. And the princess
+said, ‘Krishna, O Krishna, of mighty arms, O son of Devaki, whose power
+is inexhaustible, O Vasudeva, O lord of the Universe, who dispellest the
+difficulties of those that bow down to thee, thou art the soul, the
+creator and the destroyer of the Universe. Thou, O lord, art
+inexhaustible and the saviour of the afflicted. Thou art the preserver of
+the Universe and of all created beings. Thou art the highest of the high,
+and the spring of the mental perceptions Akuli and Chiti![88] O Supreme
+and Infinite Being, O giver of all good, be thou the refuge of the
+helpless. O Primordial Being, incapable of being conceived by the soul or
+the mental faculties or otherwise, thou art the ruler of all and the lord
+of Brahma. I seek thy protection. O god, thou art ever kindly disposed
+towards those that take refuge in thee. Do thou cherish me with thy
+kindness. O thou with a complexion dark as the leaves of the blue lotus,
+and with eyes red as the corolla of the lily, and attired in yellow robes
+with, besides, the bright Kaustubha gem in thy bosom, thou art the
+beginning and the end of creation, and the great refuge of all. Thou art
+the supreme light and essence of the Universe! Thy face is directed
+towards every point. They call thee Supreme Germ and the depository of
+all treasures. Under thy protections, O lord of the gods, all evils lose
+their terror. As thou didst prote
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0370 | next_story_id: DKS_0386
+previous title: Krishna Counsels Arjuna to Abduct Subhadra
+next title: Krishna Grants the Khadava Forest to Agni

@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0407",
+ "title": "Draupadi's Cry as She Is Dragged and Disrobed",
+ "subtitle": null,
+ "story": "One throw of the dice had cost Yudhishthira everything — his kingdom, his brothers, himself — and then, in the madness of the game, his wife.\n\nThe game had been played at Hastinapura, in the Kurus' great hall, where Yudhishthira, eldest of the five Pandava brothers, had been drawn into a dice match he could not win against his cousins, the hundred sons of the blind king Dhritarashtra, under their eldest, Duryodhana. He had staked his brothers one by one, then himself; and when nothing was left to stake, he had staked Draupadi, the wife he shared with all five brothers.\n\n'Bring Draupadi here,' Duryodhana told the herald, flushed with winning. 'You have nothing to fear from the sons of Pandu.'\n\nThe herald went unwillingly, like a dog sent into a lion's den. He told her that she had been won in the game and must come to the house of Dhritarashtra to do a servant's work.\n\nDraupadi looked at him steadily. 'What prince is there who stakes his wife?' she asked. 'The king was certainly mad with the game. Could he find nothing else to stake?'\n\n'When he had nothing else,' said the herald, 'he staked you.'\n\n'Then go back to that gambler,' said Draupadi, 'and ask him whom he lost first — himself, or me. Find that out, and then come and take me.'\n\nIt was not a delay; it was the hinge of everything. If Yudhishthira had lost himself before he lost her, he was no longer his own master — and a man who does not own himself cannot stake his wife. The whole claim of the Kauravas rested on the answer.\n\nThe herald carried the question into the hall, where Yudhishthira sat among the kings like a man robbed of his wits and gave no answer, good or ill.\n\n'Then let her come and put her question herself,' said Duryodhana, 'so that everyone in this assembly can hear what passes between her and Yudhishthira.'\n\nThe herald went back a second time, more troubled than before. 'Righteousness is the one highest thing in the world,' Draupadi told him. 'Cherish it, and it will cherish you. Let it not abandon the Kauravas. I will do whatever the elders, who are good and learned in what is right, tell me.'\n\nHer words were repeated in the assembly, and the kings and elders sat with their faces turned down, and not one of them spoke, for they knew the temper and the resolve of Dhritarashtra's son. Yudhishthira, bound by his own promise, sent word that she should go before her father-in-law and weep — but everyone knew that was no rescue.\n\n'Dussasana,' said Duryodhana, who had no use for questions, 'this herald is afraid of Bhima, the mightiest of the five brothers. Go yourself, and bring the daughter of King Drupada of Panchala here by force. Our enemies are in our power. What can they do to you?'\n\nSo Dussasana, Duryodhana's younger brother, rose, his eyes red as blood, and went into the dwelling of the five brothers. 'Come, come,' he told Draupadi, 'you have been won by us, and won rightly. Accept the Kurus as your lords and come to the assembly.'\n\nAnd when she would not come, he seized her and dragged her into the hall before the gathered kings — before her husbands, who sat silent beneath the weight of their own loss — and in the sight of them all, he began to strip her.\n\nIt was then that Draupadi cried out. Not to the hall, which had chosen silence. Not to her husbands, who could not help her. But past all of them, to the one name that could cross the distance: 'O Govinda, who dwells in Dwaraka! O Krishna, who grew up among the cowherds of Vrindavan! O Kesava! O Janardana — do you not see how the Kauravas humiliate me? Rescue me, who am sinking in the Kaurava ocean!'\n\nThe cry rose through the hall and out of it, past the walls of Hastinapura, toward a city by the sea. Whether anyone in Dwaraka heard it, the hall could not know. But some cries are not finished when they end.",
+ "reflection": "Draupadi's question — whether Yudhishthira had lost himself before he lost her — is the one true test the assembly is offered, and the kings fail it in silence. Her cry that follows is not argument but address: she stops pleading with men and names the one who can cross the distance, and the naming itself is the whole of her faith.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "draupadi_honour",
+ "characters": [
+  "Draupadi",
+  "Krishna",
+  "Dussasana",
+  "Duryodhana",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Hastinapura (Kuru assembly)"
+ ],
+ "themes": [
+  "devotion",
+  "prayer",
+  "distress",
+  "faith"
+ ],
+ "previous_story_id": "DKS_0406",
+ "next_story_id": "DKS_0408",
+ "next_story_tease": "But the cry had not gone unheard — in Dwaraka, the one who heard it had already begun to move.",
+ "hero_scene": "In the Kaurava assembly at Hastinapura, Dussasana drags Draupadi before the gathered kings and strips her, while Draupadi, one hand raised, cries out toward the sky with the name of Krishna on her lips and the elders sit with lowered faces.",
+ "visual_elements": [
+  "the herald entering the Pandavas' dwelling like a dog in a lion's den",
+  "Draupadi questioning the herald, calm and intent",
+  "the assembly of kings sitting with faces downward in silence",
+  "Dussasana rising with blood-red eyes and seizing Draupadi",
+  "Draupadi dragged into the hall, one hand raised, crying out Krishna's names",
+  "the cry rising past the walls of Hastinapura toward Dwaraka"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.66",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:20:00Z",
+  "source_event_id": "evt_0400",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

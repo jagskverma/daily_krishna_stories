@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0119",
+ "title": "Nanda Departs for Vraja",
+ "subtitle": null,
+ "story": "The cowherds' time in Mathura had come to an end. Nanda and the men of Vraja had stayed in the city, and now it was time to turn homeward, back to the pastures and the forests of Vraja where their herds and their houses waited. One thing remained before they could leave, and it was the hardest thing of all.\n\nNanda had not raised these boys as a favor. He and Yashoda had taken the child, and his brother Balarama, into their home without hesitation, and they had loved them without reserve. They had fed them and cherished them and watched them grow, and in all those years they had never once treated the two as anything less than their own sons. It was the plain truth of that house, and it had never needed to be spoken.\n\nNow the boys stood before them grown, in the city of Mathura, and it was Krishna himself, the son of Devaki, who came to say the words that had waited so long to be said. He came to Nanda and his wife, and he spoke of what they had done. You two, he said, nourished us and cherished us with such tenderness. He, the father, and she, the mother, brought us up as though we were their own sons. It was gratitude spoken straight, without ornament, and there was no shame in it — only the plain acknowledgment of a debt that love will not let a man forget.\n\nThen he said the thing that every parting must be able to bear. Go back to Vraja, dear father. And we, who are pained by this love, will not forget. He promised to come and see his kinsfolk, to return to the people and the place that had made him. The words were meant as comfort, and he offered them to Nanda and to all the people of Vraja together, so that no one would leave carrying only the loss.\n\nBoth homes were his now. In Mathura he had been born the son of Devaki, and here were the parents who had brought him into the world. But Vraja was where he had learned to walk and to graze and to play, and the man before him had carried him through those years. A promise to return was the one thing that could make the parting bearable on both sides.\n\nNanda listened, and he could not keep his heart still. He embraced Krishna, and his brother with him, and the love he had carried all those years rose up and overflowed its banks. His eyes filled with tears. The man who had fed these boys and carried them and sung them to sleep now held them once more, and the tears came without his choosing them, because love that deep has no other way to say goodbye.\n\nThen Nanda and the cowherds departed, and their eyes were full as they went home.",
+ "reflection": "The farewell is remarkable for what it does not say. There is no bitterness that Nanda must go home without the boys he raised, only gratitude spoken aloud and a promise to return. The love here is measured in what is given up freely, and in tears that need no explanation.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Krishna",
+  "Nanda",
+  "Balarama",
+  "Yashoda"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "farewell",
+  "love"
+ ],
+ "previous_story_id": "DKS_0118",
+ "next_story_id": "DKS_0120",
+ "next_story_tease": null,
+ "hero_scene": "Krishna and Balarama embracing Nanda as the old cowherd's eyes fill with tears, the people of Vraja gathered around them in Mathura preparing for the long journey home.",
+ "visual_elements": [
+  "Krishna embracing Nanda",
+  "Balarama beside them",
+  "Nanda's eyes brimming with tears",
+  "Yashoda and the cowherds of Vraja gathered round",
+  "the city of Mathura behind them",
+  "a mood of tender farewell"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.19-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:13:00Z",
+  "source_event_id": "evt_0151"
+ },
+ "editorial_status": "unreviewed"
+}

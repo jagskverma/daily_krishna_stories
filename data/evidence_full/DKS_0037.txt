@@ -1,0 +1,32 @@
+# STORY DKS_0037 — The Fruit-Seller Receives a Gift of Jewels
+
+## Index entry
+title: The Fruit-Seller Receives a Gift of Jewels
+summary: Krishna takes grain to barter for fruit, but the fruit-seller's basket fills with gems as her fruit spills into his hands.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, fruit-seller
+locations: Gokula
+themes: grace, generosity
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0052
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 11 | verses 6-10 | confidence 5
+  excerpt: Going out to buy fruit with a fistful of grain, Krishna lets it spill, and the fruit-seller finds her basket filled with jewels where her fruit had been. (rendered from Sanskrit, verse 6-10)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.11 (6-10)
+6. gopībhiḥ stobhito 'nṛtyad bhagavān bālavat kvacit /
+7. bibharti kvacid ājñaptaḥ pīṭhakonmāna-pādukam /
+8. darśayaṃs tad-vidāṃ loka ātmano bhṛtya-vaśyatām /
+9. krīṇīhi bhoḥ phalānīti śrutvā satvaram acyutaḥ /
+10. phala-vikrayiṇī tasya cyuta-dhānya-kara-dvayam /
+
+## Corpus chain
+previous_story_id: DKS_0036 | next_story_id: DKS_0038
+previous title: The Two Devotees Are Liberated from the Trees
+next title: The Cowherds Decide to Migrate to Vrindavan

@@ -1,0 +1,116 @@
+# STORY DKS_0307 — Krishna's Stratagem: the Actor Bhadra and the Swan Emissaries || Indra consults Krishna, who promises to slay Vajranabha after Vasudeva's horse-sacrifice; an actor named Bhadra wins a boon of entering the impenetrable city, and Indra sends swans to win Prabhavati for Pradyumna.
+
+## Index entry
+title: Krishna's Stratagem: the Actor Bhadra and the Swan Emissaries || Indra consults Krishna, who promises to slay Vajranabha after Vasudeva's horse-sacrifice; an actor named Bhadra wins a boon of entering the impenetrable city, and Indra sends swans to win Prabhavati for Pradyumna.
+summary: Indra consults Krishna, who promises to slay Vajranabha after Vasudeva's horse-sacrifice; an actor named Bhadra wins a boon of entering the impenetrable city, and Indra sends swans to win Prabhavati for Pradyumna.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Indra, Bhadra (actor), Pradyumna, Prabhavati, swans
+locations: Dwarka, city Vajra
+themes: stratagem, emissary, boon
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0321
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 238 | verses  | confidence 4
+  excerpt: Indra... said to Dhārtarāshtra swans:—"...Do you describe to her the various accomplishments... of the high-souled Pradyumna... An actor, Bhadra by name, has of late obtained the boon (of entering into his city)"
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.238 ()
+TITLE: THE DESTRUCTION OF VAJRANABHA: AN ACCOUNT OF
+
+PRABHAVATI.
+
+Janamejaya said:—O Muni, O thou the foremost of the pious, I have
+listened to an account of the stealing away of Bhānumati, the conquest
+of Keshava, the bringing of Chlālikya from the celestial region, and the
+god-like sport of the Vrishnis of incomparable energy in the ocean and
+many other wonderful subjects. While describing the destruction of
+Nikumbha you have mentioned that of Vajranābha. O Muni, I am now curious
+to hear this (1–3).
+
+Vaishampāyana said:—O great king, O descendant of Bharata, hear, I shall
+now describe the destruction of Vajra nābha with an account of the
+victories of Kāma and Shāmva (4), O victor of armies, a great Asura,
+celebrated by the name of Vajranābha, practised hard austerities on the
+summit of the mount Sumeru. Pleased with his penances the Divine Brahmā,
+the grand-father of the world, asked him to pray for a boon (5–6). O
+king Janamejaya, thereat, that foremost of Dānavas prayed for two boons
+that even the gods might not kill him, and that he might get the city
+Vajra where even the air cannot easily enter, which gives every sort of
+desired-for objects even when they are not thought of, which has gardens
+encircled by walls, many branch cities, and peerless jems of every
+description (7–9). By that boon he got what he wanted and the great
+Asura Vajranābha lived in the city of Vajra (10). O king, seeking refuge
+with that great Asura who had obtained this boon, millions of demons
+lived in that city of Vajra, in his garden and in many charming branch
+cities. O king, the enemies of the gods lived there, healthy, well-fed
+and contented (11-12). Once on a time, elated with the pride of the boon
+given in his favour and that of his city the wicked Vajranābha got
+himself ready to impede the course of the world. O king, approaching the
+king of gods he said "O slayer of Pāka, all the three worlds are the
+common properties of all the high-souled sons of Kashyapa. I therefore
+wish to govern the three worlds. If you, O king of gods, do not approve
+of my proposal, give me battle" (13-15).
+
+O descendant of Kuru, hearing the words of Vajranābha, Mahendra, the
+foremost of celestials, consulted with Vrihaspati and said:—"O gentle
+one, our father, the ascetic Kashyapa, is now engaged in a sacrifice.
+After its termination he will do what is fair" (16–17).
+
+Thereupon the Dānava went to his father Kashyapa and expressed his
+desire. Kashyapa said what the king of gods had communicated (18). "O
+son, go now to the city of Vajra and live there controlling yourself.
+After the termination of the Yajna I will do what is fair" (19). Thus
+addressed Vajranābha returned to his own city.
+
+Thereupon Mahendra went to the city of Dwāravati having many doors and
+communicated secretly to Vāsudeva what Vajranābha had said. Thereat
+Janārddana said "O Vāsava, the horse-sacrifice of Vasudeva is now at
+hand. After its termination I will kill Vajranabha (20–22). O lord, O
+refuge of the pious, even the wind cannot enter into his city if
+Vajranābha does not wish it. At a convenient hour we will concert
+measures for entering there" (23).
+
+O descendant of Bharata, honored by Vāsudeva’s son in his
+horse-sacrifice the king of gods set out (24). Even before the
+termination of Vasudeva’s sacrifice the heroic Vāsava and Keshava, the
+foremost of celestials, began to think of means for entering into the
+city of Vajra (25).
+
+During the celebration of Vasudeva’s sacrifice an actor, by name Bhadra,
+pleased the great saints with his beautiful acting. The leading Munis
+then asked him to pray for a boon. Thereupon saluting those best of
+Munis assembled in the horse-sacrifice, the actor Bhadra, resembling the
+king of gods himself, as desired by Krishna and as if urged on by the
+goddess of learning, prayed for the following boon (26-28).
+
+The actor said:—"O foremost of Munis, may I become the food of all the
+twice-born ones: may I range over the earth consisting of seven insular
+continents: may I, without any obstruction, range all over the sky: may
+I be gifted with strength and be not slain by all creatures mobile and
+immobile. May I assume any form I like either of one born, dead or
+immediately born. May not decrepitude overtake me and may the Munis
+always remain pleased with me" (29–32).
+
+O king, the Munis said "So be it." That immortal-like one began to range
+all over the earth consisting of seven insular continents. He began to
+show his performances in the cities of the Dānava kings, in Uttarakura,
+Bhadrāshwa, Ketumāl and the island of Kalāmra. On the occasion of every
+Parva, that great actor, who had obtained the boon, used to come to
+Dwarakā adorned with the Yadavas (33–35).
+
+Thereupon, one day, the Divine Sakra, the king of gods, said to
+Dhārtarāshtra swans:–"O celestial birds, although you are the carriers
+of the gods and the pious, still you are our brothers on account of your
+being begotten by Kashyapa (36–37). Now the great duty of killing the
+enemies of the gods awa
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0306 | next_story_id: DKS_0308
+previous title: Nikumbha Fells Arjuna and Pradyumna; Krishna Duels Him || Emerging from the Shatpura cave, Nikumbha knocks Arjuna and Pradyumna senseless with his thorned club; enraged, Krishna seizes Kaumodaki and fights him in single combat.
+next title: Pradyumna in Bee Form Meets Prabhavati || Pradyumna, aided by Prabhavati's goose friend Suchimukhi, assumes the form of a bee hidden in a flower-garland, alights on Prabhavati's ear, and the long-pining lovers meet by night.

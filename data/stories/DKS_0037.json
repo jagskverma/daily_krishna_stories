@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0037",
+ "title": "The Fruit-Seller Receives a Gift of Jewels",
+ "subtitle": null,
+ "story": "In the cowherd village of Gokula, a small boy named Krishna was growing up. He was still young enough to be carried, and his days were full of play. When the cowherd women clapped their hands and coaxed him, he danced; when his father asked, he would fetch the stool, the weights, and the wooden sandals and carry them wherever they were wanted, pleased to be of use. The women of the house laughed to see him set off on an errand and come back beaming, and no one who watched him at his play guessed that this child was anything more than an ordinary boy.\n\nOne morning a fruit-seller came through the lane — a woman with a basket of fruit and a voice that carried down the street. Come, buy fruits! Sweet fruits! she called, and the fruit in her basket smelled of sun and ripe sweetness. At the sound, heads turned all along the lane, and Krishna was already on his way.\n\nHe ran out at once, a fistful of grain clutched in his hand. Gokula kept no coins; in a village that lived on milk and grain, you paid for things by barter, and a handful of grain was the price of fruit. He had watched the fruit-sellers pass through the lanes before, and to a small boy their trade looked like the whole world's business: you give, you get, and everybody is pleased. A fistful of grain made him rich; that was how trade worked.\n\nBut his hands were small, and his eagerness was greater than his grip. Before he reached the woman, the grain was running out between his fingers and scattering in the dust, a thin white trail marking the way he had run. By the time he stood before her, his two fists were nearly empty.\n\nThe fruit-seller looked down at the child — at the grain spilled on the ground, at the two small hands held up to her — and her heart went out to him. She did not scold. She laughed softly, bent down, and began to fill his hands with fruit, heaping it until no more would stay. He had come to buy with empty hands, and she gave, and asked nothing back.\n\nAnd then she saw her basket.\n\nWhere the fruit had been, the basket now gleamed. It was full to the brim with jewels — gems that caught the morning light and threw it back in every colour. The fruit she had emptied into the child's hands was gone, and in its place lay treasure beyond anything her years of selling fruit had ever held. The basket that had hung heavy on her arm like a day's honest work now weighed like a king's ransom.\n\nShe stood still, looking from the jewels to the small boy and back again, and slowly she understood. She had not been selling fruit to an ordinary child at all. She had been giving it, without knowing, to someone who gives back beyond all measure.\n\nBut she said nothing of what she understood. She only looked at him, and he looked back at her — a child with his arms full of fruit, and a woman with her basket full of light.",
+ "reflection": "The exchange turns on a small, human generosity: the woman is not asked for anything but fruit, and she gives it to a child who has already dropped his payment. What comes back is beyond measure, because grace answers the open hand.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Fruit-Seller"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "grace",
+  "generosity"
+ ],
+ "previous_story_id": "DKS_0036",
+ "next_story_id": "DKS_0038",
+ "next_story_tease": null,
+ "hero_scene": "A fruit-seller woman stares in wonder at her basket now brimming with gleaming jewels, while small Krishna stands before her with his arms heaped full of fruit and grain scattered in the dust behind him.",
+ "visual_elements": [
+  "small Krishna with arms full of fruit",
+  "a woman's basket overflowing with jewels",
+  "scattered grain on the ground",
+  "a village lane",
+  "morning light",
+  "mood of gentle wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.11.6-10",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:21:53+05:30",
+  "source_event_id": "evt_0052",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

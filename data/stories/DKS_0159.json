@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0159",
+ "title": "Shalya Proposes Inviting Kalayavana",
+ "subtitle": null,
+ "story": "The kings had come to Kundina for the swayamvara of Rukmini, the princess of the house — the ceremony at which she was to choose her husband — and they were going home with nothing: Krishna had carried her off before any of them could move. Now the defeated suitors gathered one last time in the assembly hall of her father Bhishmaka, restless on their rich seats, before scattering to their own kingdoms.\n\nBhishmaka, a king learned in the laws of right conduct, rose and asked their forgiveness. \"You all know the calamity that has befallen the swayamvara,\" he said. \"Forgive me for what has come of it — the fault was mine.\" He honored the monarchs of central India and of the east, the west and the north, and sent them home delighted.\n\nBut a ring of the greatest kings stayed behind, sensing that something was still to be said: Jarasandha of Magadha, Sunitha, the fiery Dantavakra, Shalya of Soubha, King Mahakurma, Kaishika, the leading kings of the Pravara line, the royal sage Venudari, the king of Kashmir, and the kings of the Deccan.\n\nTo them Bhishmaka spoke again, and his words were really meant for his own son, the young Rukmi, who sat apart with his anger still raw. \"When I watch my son's ways, my eyes are restless with fear,\" he said. \"And as for these kings — beside Krishna I see boys. His fame and the might of his arms have filled this mortal world. Blessed is Devaki, who bore the lotus-eyed Krishna, most beautiful of beings, adored of all the immortals.\"\n\nWhen he fell silent, Shalya of Soubha rose and answered him gently. \"Do not grieve for your son, O king. Those who live by the sword meet success or defeat in battle — that is the way of the world, and the law of warriors. Apart from Krishna and his elder brother Balarama, what third person could stand against your son, who wields weapons so mighty that the gods themselves find them hard to handle? Krishna is without birth and without death; in this mortal world even Shiva, who holds the trident, could not defeat him. Your son knew Krishna for the Lord, and so he did not rush into a fight he could not win. There is no shame in that.\"\n\nThen Shalya paused, and said what he had really come to say. \"It is not that no one can defeat him.\"\n\nLong ago, he told them, the sage Gargya had wished for a son. For twelve years he had lived on powdered iron and practiced hard penances, until Shiva, well pleased, offered him a boon. Gargya asked for a son whom the kings of Mathura could never slay — and the boon was granted. \"That son, grown to manhood, is Kalayavana, king of the Yavanas — and the boon makes him unkillable by the kings of Mathura in open battle, and most of all within the city of Mathura itself. Krishna is mighty among the princes of Mathura — yet if Kalayavana comes to battle against him, he can defeat him. If my words seem sound to you, send an emissary to the capital of the Yavana king.\"\n\nThe leading kings heard him out with delight. \"We will do it,\" they said.\n\nOnly Jarasandha's heart sank, for he remembered the words Brahma had spoken to him long ago. \"Alas,\" he said. \"There was a time when kings, hard pressed by some foreign conqueror, came to me for shelter, and I gave them back their kingdoms, their armies and their treasuries. Now their anger at their old protector makes me beg shelter from a stranger. It is not fitting. Even I — I, who stand in fear of Krishna —\" and there his voice failed.\n\nBut the will of the kings prevailed, and the emperor who had once sheltered the princes of the earth sent Shalya of Soubha as his envoy to the capital of the Yavanas.",
+ "reflection": "Shalya's counsel turns the kings' defeat at the swayamvara into a plan against Krishna, and the plan is clever enough that everyone accepts it at once. It is Jarasandha, the mightiest of them, who recoils — because he understands that calling in an ally is also an admission of fear.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Shalya",
+  "Jarasandha",
+  "Kalayavana",
+  "Krishna"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "stratagem",
+  "envoy",
+  "boon"
+ ],
+ "previous_story_id": "DKS_0158",
+ "next_story_id": "DKS_0160",
+ "next_story_tease": "Shalya of Soubha, dispatched as envoy, set out for the capital of the Yavanas.",
+ "hero_scene": "Shalya of Soubha standing in Bhishmaka's assembly hall in Kundina, addressing the seated kings while Jarasandha broods on his throne among them, the lamps catching the ornaments of the Deccan kings listening in the shadows.",
+ "visual_elements": [
+  "Bhishmaka's assembly hall in Kundina",
+  "Shalya standing and addressing the kings",
+  "Jarasandha brooding on his throne",
+  "the seated kings of the Deccan and the north",
+  "lamps and ornaments in the hall",
+  "a plan being laid"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.109",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0185",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

@@ -1,0 +1,54 @@
+# STORY DKS_0030 — Garga Secretly Names Rama and Krishna
+
+## Index entry
+title: Garga Secretly Names Rama and Krishna
+summary: The family priest Garga, sent by Vasudeva, secretly performs the naming ceremony, calling the boys Rama and Krishna, and foretells their glories.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Garga, Nanda, Krishna, Balarama
+locations: Gokula
+themes: naming, prophecy, concealment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0044
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 8 | verses 1-19 | confidence 5
+  excerpt: Garga, coming quietly at Vasudeva's bidding, performs the naming rites in secret: the son of Rohini he names Rama and Balabhadra, and Nanda's son he names Krishna, and he declares that they will dispel all evil. (rendered from Sanskrit, verse 1-19)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 6 | verses  | confidence 4
+  excerpt: The initiatory rites requisite for the two boys were performed by Garga, who was sent to Gokula by Vasudeva for that purpose... and named the elder of them Ráma, and the other Krishńa.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.8 (1-19)
+1. taṃ dṛṣṭvā parama-prītaḥ pratyutthāya kṛtāñjaliḥ /
+2. sūpaviṣṭaṃ kṛtātithyaṃ girā sūnṛtayā munim /
+3. mahad-vicalanaṃ nṝṇāṃ gṛhiṇāṃ dīna-cetasām /
+4. jyotiṣām ayanaṃ sākṣād yat taj jñānam atīndriyam /
+5. tvaṃ hi brahma-vidāṃ śreṣṭhaḥ saṃskārān kartum arhasi /
+6. bhp_10.08.007/0 śrī-garga uvāca
+7. kaṃsaḥ pāpa-matiḥ sakhyaṃ tava cānakadundubheḥ /
+8. iti sañcintayañ chrutvā devakyā dārikā-vacaḥ /
+9. bhp_10.08.010/0 śrī-nanda uvāca
+10. bhp_10.08.011/0 śrī-śuka uvāca
+11. bhp_10.08.012/0 śrī-garga uvāca
+12. āsan varṇās trayo hy asya gṛhṇato 'nuyugaṃ tanūḥ /
+13. prāg ayaṃ vasudevasya kvacij jātas tavātmajaḥ /
+14. bahūni santi nāmāni rūpāṇi ca sutasya te /
+15. eṣa vaḥ śreya ādhāsyad gopa-gokula-nandanaḥ /
+16. purānena vraja-pate sādhavo dasyu-pīḍitāḥ /
+17. ya etasmin mahā-bhāgāḥ prītiṃ kurvanti mānavāḥ /
+18. tasmān nandātmajo 'yaṃ te nārāyaṇa-samo guṇaiḥ /
+19. bhp_10.08.020/0 śrī-śuka uvāca
+
+### Vishnu Purana (Wilson 1840) 5.6 ()
+Krishńa overturns a waggon; casts down two trees. The Gopas depart to Vrindávana. Sports of the boys. Description of the season of the rains.
+
+ON one occasion, whilst Madhusúdana was asleep underneath the waggon, he cried for the breast, and kicking up his feet he overturned the vehicle, and all the pots and pans were upset and broken. The cowherds and their wives, hearing the noise, came exclaiming, "Ah! ah!" and there they found the child sleeping on his back. "Who could have upset the waggon?" said the cowherds. "This child," replied some boys, who witnessed the circumstance; "we saw him," said they, "crying, and kicking the waggon with his feet, and so it was overturned: no one else had any thing to do with it." The cowherds were exceedingly astonished at this account; and Nanda, not knowing what to think, took up the boy; whilst Yaśodá offered worship to the broken pieces of pots and to the waggon, with curds, flowers, fruit, and unbruised grain.The initiatory rites requisite for the two boys were performed by Garga, who was sent to Gokula by Vasudeva for that purpose: he celebrated them without the knowledge of the cowherds and the wise sage, eminent amongst the wise, named the elder of them Ráma, and the other Krishńa. In a short time they began to crawl about the ground, supporting themselves on their hands and knees, and creeping every where, often amidst ashes and filth. Neither Rohińí nor Yaśodá was able to prevent them from getting into the cowpens, or amongst the calves, where they amused themselves by pulling their tails. As they disregarded the prohibitions of Yaśodá, and rambled about together constantly, she became angry, and taking up a stick, followed them, and threatened the dark-complexioned Krishńa with a whipping. Fastening a cord round his waist, she tied him to the wooden mortar, and being in a great passion, she said to him, "Now, you naughty boy, get away from hence if you can." She then went about her domestic affairs. As soon as she had departed, the lotus-eyed Krishńa, endeavouring to extricate himself, pulled the mortar after him to the space between two Arjuna trees that grew near together: having dragged the mortar between these trees, it became wedged awry there, and as Krishńa pulled it through, it pulled down the trunks of the trees. Hearing the crackling noise, the people of Vraja came to see what was the matter, and there they beheld the two large trees, with shattered stems and broken branches, prostrate on the ground, with the child fixed between them, with a rope round his belly, laughing, and shewing his white li
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0028 | next_story_id: DKS_0032
+previous title: Trinavarta Is Crushed by the Child's Weight
+next title: Krishna Eats Mud and Shows the Cosmos in His Mouth

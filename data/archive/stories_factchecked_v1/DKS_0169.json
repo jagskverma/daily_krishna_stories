@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0169",
+ "title": "The Captured Host of Kalayavana",
+ "subtitle": null,
+ "story": "The cave breathed out the smell of ages when Muchukunda stirred. He had slept through the turning of whole eras, and when he walked out into the daylight and looked at the men he met, they seemed small to him — diminished in stature, somehow, and in spirit. He understood then that the world he had known was long gone, and that the Kali age had arrived.\n\nHe had woken to find himself before Krishna, and had praised him as the sovereign of all things, the eternal lord, Hari — he who is praised by the wise. Krishna, in turn, had granted him his wish. \"Go to whatever celestial regions you wish, lord of men,\" he said, \"possessed of might irresistible, honoured by my favour. When you have fully enjoyed all heavenly pleasures, you shall be born in a distinguished family, retaining the recollection of your former births, and you shall finally obtain emancipation.\" Muchukunda prostrated himself before the lord of the world, went out from the cave, and from that new and shrunken world departed to Gandhamadana, the shrine of Nara-Narayana, to perform penance. And in time it came about exactly as Krishna had promised: he enjoyed the celestial regions, was born again in a distinguished family with the memory of his former births intact, and at last obtained emancipation.\n\nMuchukunda was not the only one to come out of that mountain changed. By that same stratagem Krishna had destroyed his enemy — Kalayavana, the Yavana king who had marched against Mathura. The foe who had entered that affair had not come out of it, and now, free of the man who had threatened them, the Yadavas gathered what he had left behind.\n\nKrishna returned to Mathura and took captive the army of Kalayavana — rich in horses, in elephants, in cars — and conducted it to Dwaraka, and delivered it to Ugrasena. It was a strange procession: the host that had marched out to destroy the Yadus now filed into their city at Krishna's command, its banners furled, its weapons turned to new masters. The Yadu race was relieved, from that day, of all fear of invasion. The war-elephants that had carried the invasion stood in the stalls of the city they had meant to sack.\n\nWith hostilities at an end, Balarama grew restless to see his own people, and went to Nanda's cow-pens. He moved among the herdsmen and their women with affection and respect: the elders embraced him, he embraced the younger ones, and with those of his own age he talked and laughed. The cowherds made him many kind speeches. But the gopis spoke to him with the affectation of anger, and beneath the teasing there was something real. \"Is all well with the fickle and inconstant Krishna?\" they asked. \"Does the volatile swain, the friend of an instant, amuse the women of the city by laughing at our rustic efforts to please him? Does he ever think of us, singing in chorus to his songs? Will he not come here once again to see his mother?\"\n\nAnd then the questions turned inward, and the pretence fell away. \"Father, mother, brother, husband, kin — what have we not abandoned for his sake?\" they said. \"But why talk of these things? It is a different tale to tell for him without us, and for us without him.\"\n\nBalarama carried that message back with him when he left the cow-pens — the enemy's host captured, the city made safe, the war finished; and in Vraja, the women who had loved Krishna first still waiting for the song he no longer sang there.",
+ "reflection": "The episode pairs a great victory with a small, human wound: the safety Krishna wins for the Yadavas costs Vraja his presence. The gopis' jealousy is teasing, but their last words carry real pain — a reminder that the price of a kingdom is sometimes paid in the homes it leaves behind.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Kalayavana",
+  "Ugrasena",
+  "Balarama",
+  "Muchukunda"
+ ],
+ "locations": [
+  "Mathura",
+  "Dwaraka",
+  "Vraja"
+ ],
+ "themes": [
+  "victory",
+  "spoils",
+  "security"
+ ],
+ "previous_story_id": "DKS_0168",
+ "next_story_id": "DKS_0170",
+ "next_story_tease": "The Yadavas' relief would not last, for Jarasandha, hearing of his daughters' widowhood, was already gathering his armies.",
+ "hero_scene": "Krishna leading Kalayavana's captured army — horses, elephants and chariots — into Dwaraka to place it in Ugrasena's hands, while the city looks on in wonder and relief.",
+ "visual_elements": [
+  "Kalayavana's captured army of horses, elephants and cars",
+  "Krishna leading the host toward Dwaraka",
+  "Ugrasena receiving the spoils",
+  "the cave of Muchukunda",
+  "the gopis of Vraja questioning Balarama",
+  "victory and relief"
+ ],
+ "sources": [
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:04Z",
+  "source_event_id": "evt_0363"
+ },
+ "editorial_status": "unreviewed"
+}

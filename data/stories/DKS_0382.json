@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0382",
+ "title": "An Errand for Akrura",
+ "subtitle": null,
+ "story": "Krishna walked through the streets of Mathura and stopped at the house of Akrura — an elder of his own family, and one of the truest friends he had. With him came his brother Balarama and Uddhava, his trusted friend and adviser. Krishna had not sent for Akrura, nor summoned him to the palace; he came himself, on foot, to the door of a friend.\n\nWhen Akrura saw them approaching, he went out to meet them and bowed low before Krishna and Balarama, and they received his reverence and returned it. With his own hands he washed their feet, held that water to his head as if it were the holiest thing he would ever touch, and then seated them and took their feet in his lap, rubbing them with the tenderness of a man who had waited a long time for this visit. \"Blessed are our dwellings,\" he said, \"that the teacher of the world has entered them.\"\n\n\"By good fortune,\" he said, \"Kamsa is slain with all his followers, and this family is yours.\" Then his praise poured out like a river that had been dammed too long. These two, he said, were the foremost of persons, the cause and the substance of the world. Krishna creates, sustains and dissolves the universe with his own powers; whenever the ancient path of the Vedas is lost among men, he restores it for the good of all; and now he had come down into the house of Vasudeva, his father, to lighten the burden of the earth, spreading glory over his own family. Even the kings of the gods, he said, found Krishna's way hard to reach — and yet here he stood, inside the walls of a devotee's house. \"What wise man,\" Akrura asked, \"would seek refuge anywhere but in you — dear to your devotees, true in speech, a friend who remembers a kindness and grants every wish?\" He spoke of the bonds that hold a man — son, wife, wealth, house, the body itself — and begged Krishna to cut them all.\n\nKrishna heard him out, and then answered. Great souls like Akrura, he said, are the ones to be served, the most worthy of all. The holy places are not made of water, nor are the gods made of clay and stone. The true sacred presence lives in people — in a friend who wishes you well, in a heart that has bowed to the good. He might have said more, but he had come on other business, and now he spoke of it.\n\nAfter their father Pandu died, Krishna told him, his five children had been left with their mother, deep in sorrow, and the blind king of Hastinapura dealt with his brother's sons out of a mean and troubled mind, guided by his wicked son Duryodhana. The boys had been brought to the capital after their father's death; they were there not by choice, and the king's house was not their home. \"Go to Hastinapura,\" Krishna said, \"and learn how the Pandavas fare — whether things go well with them or ill.\" Learn, and come back and tell me, was the meaning of it: not a war, not a proclamation, but a friend sent to look with his own eyes and report honestly.\n\nAkrura bowed his head. He asked for no guard, no retinue, no letter of authority; a friend's eyes were the only credential he needed. He would go, and he would watch, and he would remember everything. Krishna, Balarama and Uddhava left him standing at his own door, and the house that had held the lord of the world felt, for a moment, like the center of the earth.",
+ "reflection": "The episode's quiet teaching is in Krishna's praise: holiness lives in people, not in things, and Akrura's bowed heart is a truer sacred place than any shrine of water or stone. The errand that follows shows the same instinct — the protection Krishna offers the Pandavas begins with one friend sent to look, and to tell the truth of what he sees.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Akrura",
+  "Balarama",
+  "Uddhava"
+ ],
+ "locations": [
+  "Mathura",
+  "Hastinapura"
+ ],
+ "themes": [
+  "duty",
+  "friendship",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0381",
+ "next_story_id": "DKS_0383",
+ "next_story_tease": "In Hastinapura, a sorrowful woman waited to hear that someone from home still remembered her.",
+ "hero_scene": "Krishna, Balarama and Uddhava standing at the door of Akrura's house in Mathura, while Akrura bends low to wash their feet and raises the water to his head in reverence.",
+ "visual_elements": [
+  "Krishna, Balarama and Uddhava arriving on foot at Akrura's door",
+  "Akrura bowing and washing their feet",
+  "Akrura holding the foot-washing water to his head",
+  "Krishna listening with a grave, kind face",
+  "Akrura bowing his head in acceptance of the errand"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.48.11-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:33Z",
+  "source_event_id": "evt_0162",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

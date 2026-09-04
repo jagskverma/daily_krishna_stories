@@ -1,0 +1,116 @@
+# STORY DKS_0361 — Indra Asks Krishna to Befriend Arjuna
+
+## Index entry
+title: Indra Asks Krishna to Befriend Arjuna
+summary: Indra asks Krishna to protect his son Arjuna, Krishna's cousin, in the coming war of the Bharatas.
+life_stage: vrindavan | story_arc: pandava_friendship
+characters: Indra, Krishna, Arjuna
+locations: Govardhana hill
+themes: friendship, prophecy
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0103
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 74 | verses  | confidence 4
+  excerpt: 'O Govinda, he will be thy friend and help in battle... do thou instruct him in spiritual knowledge... always regard and take care of him as thou dost me.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 12 | verses  | confidence 4
+  excerpt: A portion of me has been born as Arjuna, the son of Pritha: let him ever be defended by thee... To this Krishńa replied, "I know thy son... and I will befriend him as long as I continue upon earth."
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.74 ()
+TITLE: INDRA COMES AND EULOGISES KRISHNA
+
+Vaishampayana said:—Beholding the mount Govardhana thus held up and the
+kine saved Purandara, the king of the celestials, was filled with great
+surprise and felt a desire for seeing Krishna (1). And seated on his
+elephant Airavata with temporal juice trickling down and resembling a
+cloud without water he came down on earth (2). Purandara saw Krishna, of
+unwearied actions, seated at the foot of the Govardhana hill (3). He saw
+there the immortal Vishnu, assuming the guise of a milk-man and shining
+in his great effulgence and attained to great delight (4). Sakra, having
+many eyes, saw, with all his eyes, Krishna bearing the mystic mark of
+Srivatsa and resembling a dark-blue lotus in hue (5). Beholding him
+seated happily at the foot of the hill who was gifted with beauty and
+was like an immortal in the land of mortals Sakra was ashamed (6).
+Disappearing from view, that foremost of birds (Garuda), feeding on
+serpents, was protecting him, seated at ease, against the rays of the
+sun with his wings (7). Leaving behind his elephant, Indra, the slayer
+of Bala, approached Krishna who was playing in the forest being engaged
+in human actions (8). His face was embellished with a crown effulgent
+like the sun that gives lustre to lightning, and with a pair of
+celestial ear-rings. His breast was adorned with a neck-lace of five
+layers of Padmakānta jewel constituting the ornament of the body.
+Beholding Vāsudeva with his thousand eyes the powerful Vasava, the
+wielder of thunder-bolt, approached Upendra and looked more beautiful
+with his celestial garlands and pastes (9–11). Then with his sweet
+voice, deep as the muttering of clouds that always issues commands to
+the deities, he said (12):—
+
+"O Krishna, O thou of large arms, O thou the enhancer of the delight of
+thy kinsmen, what, thou hast accomplished on thy being pleased with thy
+kine, is beyond the power of the gods (13). I have been highly pleased
+with thy saving the kine from the clouds created by me which bring about
+the dissolution of the world (14). Whose mind is not filled with
+surprise on seeing thee hold up this best of mountains by thy
+own-begotten Yoga power like a house in the sky(15)? O Krishna, I was
+enraged on account of the suppression of my sacrifice. And therefore I
+sent down this excessive rain extending over seven nights and
+destructive of the kine which even the Devas and Dānavas cannot
+withstand. But thou hast, by thy own power, put down this terrible
+shower in my very presence (16–17). I am highly pleased, O Krishna, for
+thy, in anger, settling the entire Vaishnava energy in thy human form
+(18). On account of thy being endued with thy own energy although in a
+human form, the work of the gods appears to have been well accomplished
+(19). O hero, while thou art at the head of all the works of the gods
+and their guide, forsooth, every thing will be accomplished and nothing
+will remain undone (20). Thou art alone eternal amongst the gods and in
+all other worlds. I do not see a second capable of carrying the weight
+thou hast held (21). As the best of wheels is placed before a pole so
+dost thou engage in relieving the distress of the gods sunk in an ocean
+of misery, O thou having a bird for thy carrier (22). O Krishna, as gold
+is among the metals, so this universe, created by the Grand-father
+(Brahmā) exists, in thy body (23). As a cripple cannot follow one who
+runs fast so even the Lord, Self-sprung (Brahma) cannot follow thee in
+intelligence or age (24). As the Himalaya is amongst the mountains, as
+the great ocean is amongst the watery expanses, as Garuda is amongst the
+birds so thou art the foremost of the celestials (25). O Krishna,
+underneath all is the region of water; above it are afloat the pillars
+of the earth; above them is the region of man; above it is the etherial
+region; above it is the effulgent region of the sun constituting the
+gate of heaven; above it is the great region of the gods forming the
+abode of the celestials; here I occupy the position of the king of gods;
+above it is the Brahmaloka where the Brahmarshis live and where move
+about the high-souled Soma (moon) and other luminous bodies. Above it is
+the Goloka stationed in the great etherial region. O Krishna, Golaka is
+the foremost of all regions and is protected by the Sādhyas. There dost
+thou live carrying on _Tapas_ which we cannot learn even when accosting
+the Grand-Father about it (26–31). This earth is the region of actions
+for those who engage in them. Underneath it is the dreadful region of
+the iniquitous (32). The etherial region is the refuge of moving objects
+like the air and heaven is the excellent refuge of the pious endued with
+the qualities of self-control and forbearance (33). Those, who worship
+Brahmā, live in the Brahmaloka. Goloka is attainable only by the kine;
+even by hard austerities no one else can obtain it (34). O intelligent
+and heroic Krishna, in order to protect these kine, thou didst hold up
+the mount Govardhana 
+[...]
+
+### Vishnu Purana (Wilson 1840) 5.12 ()
+Indra comes to Gokula: praises Krishńa, and makes him prince over the cattle. Krishńa promises to befriend Arjuna.
+
+AFTER Gokula had been saved by the elevation of the mountain, Indra became desirous of beholding Krishńa. The conqueror of his foes accordingly mounted his vast elephant Airávata, and came to Govarddhana, where the king of the gods beheld the mighty Dámodara tending cattle, and assuming the person of a cow-boy, and, although the preserver of the whole world, surrounded by the sons of the herdsmen: above his head he saw Garud́a, the king of birds, invisible to mortals, spreading out his wings to shade the head of Hari. Alighting from his elephant, and addressing him apart, Śakra, his eyes expanding with pleasure, thus spake to Madhusúdana: "Hear, Krishńa, the reason why I have come hither; why I have approached thee; for thou couldest not otherwise conceive it. Thou, who art the supporter of all, hast descended upon earth, to relieve her of her burden. In resentment of my obstructed rites I sent the clouds to deluge Gokula, and they have done this evil deed. Thou, by raising up the mountain, hast preserved the cattle; and of a verity I am much pleased, O hero, with thy wondrous deed. The object of the gods is now, methinks, accomplished, since with thy single hand thou hast raised aloft this chief of mountains. I have now come by desire of the cattle, grateful for their preservation, in order to install you as Upendra; and, as the Indra of the cows, thou shalt be called Govinda." Having thus said, Mahendra took a ewer from his elephant Airávata, and with the holy water it contained performed the regal ceremony of aspersion. The cattle, as the rite was celebrating, deluged the earth with their milk.When Indra had, by direction of the kine, inaugurated Krishńa, the husband of Śachí said to him affectionately, "I have thus performed what the cows enjoined me. Now, illustrious being, hear what farther I propose, with a view to facilitate your task. A portion of me has been born as Arjuna, the son of Pritha: let him ever be defended by thee, and he will assist thee in bearing thy burden. He is to be cherished by thee, Madhusúdana, like another self." To this Krishńa replied, "I know thy son, who has been born in the race of Bharata, and I will befriend him as long as I continue upon earth. As long as I am present, invincible Śakra, no one shall be able to subdue Arjuna in fight. When the great demon Kansa has been slain, and Arisht́a, Keśin, Kuvalayápíd́a, Naraka, and other fierce Daityas, shall have been put to death, there will take place a great war, in which the burden of the earth will be removed. Now therefore depart, and be not anxious on account of thy son; for no foe shall triumph over Arjuna whilst I am present. For his sake I will restore to Kunti all her sons; with Yudhisht́hira at their head, unharmed, when the Bhárata war is at an end."Upon Krishńa's ceasing to speak, he and Indra mutually embraced; and the latter, mounting his elephant Airávata, returned to heaven. Krishńa, with the cattle and the herdsmen, went his way to Vraja, where the wives of the Gopas watched for his approach.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0360 | next_story_id: DKS_0362
+previous title: Balarama Slays the Demon Balvala || When Balvala appears at the sacrifice raining impurity, Balarama drags him down with his plough and crushes his head with his mace, and the sages shower Balarama with honors.
+next title: Krishna Rejoices as Arjuna Wins Draupadi

@@ -1,0 +1,52 @@
+# STORY DKS_0100 — Krishna Tests the Gopis
+
+## Index entry
+title: Krishna Tests the Gopis
+summary: Krishna tells the gopis to return to their husbands, and they plead that he is their very soul.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Vrindavan
+themes: testing, devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0110
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 29 | verses 17-41 | confidence 5
+  excerpt: Krishna first told the gopis to return to their husbands and children, speaking of the duty of women; but the gopis answered with tears that he was their very soul, and that having abandoned everything for his feet, they could not return. (rendered from Sanskrit, verses 17-41)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.29 (17-41)
+17. bhp_10.29.018/0 śrī-bhagavān uvāca
+18. rajany eṣā ghora-rūpā ghora-sattva-niṣevitā /
+19. mātaraḥ pitaraḥ putrā bhrātaraḥ patayaś ca vaḥ /
+20. dṛṣṭaṃ vanaṃ kusumitaṃ rākeśa-kara-rañjitam /
+21. tad yāta mā ciraṃ goṣṭhaṃ śuśrūṣadhvaṃ patīn satīḥ /
+22. atha vā mad-abhisnehād bhavatyo yantritāśayāḥ /
+23. bhartuḥ śuśrūṣaṇaṃ strīṇāṃ paro dharmo hy amāyayā /
+24. duḥśīlo durbhago vṛddho jaḍo rogy adhano 'pi vā /
+25. asvargyam ayaśasyaṃ ca phalgu kṛcchraṃ bhayāvaham /
+26. śravaṇād darśanād dhyānān mayi bhāvo 'nukīrtanāt /
+27. bhp_10.29.028/0 śrī-śuka uvāca
+28. kṛtvā mukhāny ava śucaḥ śvasanena śuṣyad $ bimbādharāṇi caraṇena bhuvaḥ likhantyaḥ &amp;asrair upātta-masibhiḥ kuca-kuṅkumāni % tasthur mṛjantya uru-duḥkha-bharāḥ sma tūṣṇīm
+29. preṣṭhaṃ priyetaram iva pratibhāṣamāṇaṃ $ kṛṣṇaṃ tad-artha-vinivartita-sarva-kāmāḥ &preṣṭhaṃ priyetaram iva pratibhāṣamāṇaṃ $ kṛṣṇaṃ tad-artha-vinivartita-sarva-kāmāḥ &netre vimṛjya ruditopahate sma kiñcit % saṃrambha-gadgada-giro 'bruvatānuraktāḥ
+30. bhp_10.29.031/0 śrī-gopya ūcuḥ maivaṃ vibho 'rhati bhavān gadituṃ nṛ-śaṃsaṃ $ santyajya sarva-viṣayāṃs tava pāda-mūlam & maivaṃ vibho 'rhati bhavān gadituṃ nṛ-śaṃsaṃ $ santyajya sarva-viṣayāṃs tava pāda-mūlam & bhaktā bhajasva duravagraha mā tyajāsmān % devo yathādi-puruṣo bhajate mumukṣūn
+31. yat paty-apatya-suhṛdām anuvṛttir aṅga $ strīṇāṃ sva-dharma iti dharma-vidā tvayoktam & yat paty-apatya-suhṛdām anuvṛttir aṅga $ strīṇāṃ sva-dharma iti dharma-vidā tvayoktam & astv evam etad upadeśa-pade tvayīśe % preṣṭho bhavāṃs tanu-bhṛtāṃ kila bandhur ātmā
+32. kurvanti hi tvayi ratiṃ kuśalāḥ sva ātman $ nitya-priye pati-sutādibhir ārti-daiḥ kim & kurvanti hi tvayi ratiṃ kuśalāḥ sva ātman $ nitya-priye pati-sutādibhir ārti-daiḥ kim & tan naḥ prasīda parameśvara mā sma chindyā % āśāṃ dhṛtāṃ tvayi cirād aravinda-netra
+33. cittaṃ sukhena bhavatāpahṛtaṃ gṛheṣu $ yan nirviśaty uta karāv api gṛhya-kṛtye & cittaṃ sukhena bhavatāpahṛtaṃ gṛheṣu $ yan nirviśaty uta karāv api gṛhya-kṛtye & pādau padaṃ na calatas tava pāda-mūlād % yāmaḥ kathaṃ vrajam atho karavāma kiṃ vā
+34. siñcāṅga nas tvad-adharāmṛta-pūrakeṇa $ hāsāvaloka-kala-gīta-ja-hṛc-chayāgnim & siñcāṅga nas tvad-adharāmṛta-pūrakeṇa $ hāsāvaloka-kala-gīta-ja-hṛc-chayāgnim & no ced vayaṃ virahajāgny-upayukta-dehā % dhyānena yāma padayoḥ padavīṃ sakhe te
+35. yarhy ambujākṣa tava pāda-talaṃ ramāyā $ datta-kṣaṇaṃ kvacid araṇya-jana-priyasya & yarhy ambujākṣa tava pāda-talaṃ ramāyā $ datta-kṣaṇaṃ kvacid araṇya-jana-priyasya & asprākṣma tat-prabhṛti nānya-samakṣam añjaḥ % sthātuṃs tvayābhiramitā bata pārayāmaḥ
+36. śrīr yat padāmbuja-rajaś cakame tulasyā $ labdhvāpi vakṣasi padaṃ kila bhṛtya-juṣṭam & śrīr yat padāmbuja-rajaś cakame tulasyā $ labdhvāpi vakṣasi padaṃ kila bhṛtya-juṣṭam & yasyāḥ sva-vīkṣaṇa utānya-sura-prayāsas % tadvad vayaṃ ca tava pāda-rajaḥ prapannāḥ
+37. tan naḥ prasīda vṛjinārdana te 'nghri-mūlaṃ $ prāptā visṛjya vasatīs tvad-upāsanāśāḥ & tan naḥ prasīda vṛjinārdana te 'nghri-mūlaṃ $ prāptā visṛjya vasatīs tvad-upāsanāśāḥ & tvat-sundara-smita-nirīkṣaṇa-tīvra-kāma % taptātmanāṃ puruṣa-bhūṣaṇa dehi dāsyam
+38. vīkṣyālakāvṛta-mukhaṃ tava kuṇdala-śrī $ gaṇḍa-sthalādhara-sudhaṃ hasitāvalokam & vīkṣyālakāvṛta-mukhaṃ tava kuṇdala-śrī $ gaṇḍa-sthalādhara-sudhaṃ hasitāvalokam & dattābhayaṃ ca bhuja-daṇḍa-yugaṃ vilokya % vakṣaḥ śriyaika-ramaṇaṃ ca bhavāma dāsyaḥ
+39. kā stry aṅga te kala-padāyata-veṇu-gīta- $ sammohitārya-caritān na calet tri-lokyām & kā stry aṅga te kala-padāyata-veṇu-gīta- $ sammohitārya-caritān na calet tri-lokyām & trailokya-saubhagam idaṃ ca nirīkṣya rūpaṃ % yad go-dvija-druma-mṛgāḥ pulakāny abibhran
+40. vyaktaṃ bhavān vraja-bhayārti-haro 'bhijāto $ devo yathādi-puruṣaḥ sura-loka-goptā & vyaktaṃ bhavān vraja-bhayārti-haro 'bhijāto $ devo yathādi-puruṣaḥ sura-loka-goptā & tan no nidhehi kara-paṅkajam ārta-bandho % tapta-staneṣu ca śiraḥsu ca kiṅkarīṇām
+41. bhp_10.29.042/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0099 | next_story_id: DKS_0101
+previous title: The Gopis Abandon Their Homes
+next title: Krishna Relents and Sports with the Gopis

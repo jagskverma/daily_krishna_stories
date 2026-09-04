@@ -1,0 +1,65 @@
+# STORY DKS_0498 — Gandhari Curses Krishna; He Accepts with a Smile
+
+## Index entry
+title: Gandhari Curses Krishna; He Accepts with a Smile
+summary: Grieving her sons, Gandhari curses Krishna that in the thirty-sixth year he will see his own kinsmen slain and himself perish in the wilderness; Krishna, smiling, accepts that only the Vrishnis themselves can destroy the Vrishnis.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, Gandhari
+locations: Kurukshetra
+themes: curse, destiny, acceptance
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0511
+variant_notes: Gandhari's curse; cf. mb_d_013 (the sages' curse).
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 11 | chapter/section 25 | verses  | confidence 4
+  excerpt: Since thou wert indifferent to the Kurus and the Pandavas whilst they slew each other, therefore, O Govinda, thou shalt be the slayer of thy own kinsmen! In the thirty-sixth year from this... thou shalt... perish by disgusting means in the wilderness. Hearing these words, the high-souled Vasudeva... said unto her these words, with a faint smile, 'There is none in the world, save myself, that is ca
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 11.25 ()
+"Gandhari said, 'Behold that irresistible ruler of the Kambojas, that
+bull-necked hero, lying amid the dust, O Madhava, though deserving of
+being stretched at his ease on Kamboja blankets. Stricken with great
+grief, his wife is weeping bitterly at sight of his blood-stained arms,
+which, however, formerly used to be smeared with sandal-paste. Indeed,
+the beauteous one exclaims, "Even now adorned with beautiful palms and
+graceful fingers, these two arms of thine resemble a couple of spiked
+maces, getting within whose clasp, joy never left me for a moment! What
+will be my end, O ruler of men, when I am deprived of thee?" Endued with
+a melodious voice, the Kamboja queen is weeping helplessly and quivering
+with emotion. Behold that bevy of fair ladies there. Although tired with
+exertion and worn out with heat, yet beauty leaves not their forms, like
+the sightliness of the wreaths worn by the celestials although exposed to
+the Sun. Behold, O slayer of Madhu, the heroic ruler of the Kalingas
+lying there on the ground with his mighty arms adorned with a couple of
+angadas. Behold, O Janardana, those Magadha ladies crying and standing
+around Jayatsena, the ruler of the Magadhas. The charming and melodious
+wails of those long-eyed and sweet-voiced girls, O Krishna, are
+stupefying my heart exceedingly. With all their ornaments displaced,
+crying, and afflicted with grief, alas, those ladies of Magadha, worthy
+of resting on costly beds, are now lying down on the bare ground! There,
+again, those other ladies, surrounding their lord, the ruler of the
+Kosalas, prince Brihadbala, are indulging in loud wails. Engaged in
+plucking from his body the shafts with which it was pierced by Abhimanyu
+with the full might of his arms, those ladies are repeatedly losing their
+senses. The faces of those beautiful ladies, O Madhava, through toil and
+the rays of the Sun, are looking like faded lotuses. There, the brave
+sons of Dhrishtadyumna, of tender years and all adorned with garlands of
+gold and beautiful angadas, are lying, slain by Drona. Like insects on a
+blazing fire, they have all been burnt by falling upon Drona, whose car
+was the chamber of fire, having the bow for its flame and shafts and
+darts and maces for its fuel. Similarly, the five Kekaya brothers,
+possessed of great courage, and adorned with beautiful angadas, are lying
+on the ground, slain by Drona and with their faces turned towards that
+hero. Their coats of mail, of the splendour of heated gold, and their
+tall standards and cars and garlands, all made of the same metal, are
+shedding a bright light on the earth like 
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0485 | next_story_id: DKS_0507
+previous title: Krishna Urges Arjuna to Slay the Distressed Karna
+next title: The Pigeon and the Hunter's Net

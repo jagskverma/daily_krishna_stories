@@ -1,0 +1,71 @@
+{
+ "id": "DKS_0140",
+ "title": "Krishna Slays Kamsa",
+ "subtitle": null,
+ "story": "Kamsa, the king of Mathura, had ruled for years in the shadow of one prophecy: that a child born to his prisoners Devaki and Vasudeva would one day be his death. He had killed their children as they were born, but the last two — Krishna and Balarama — had been smuggled out of the prison and raised by cowherds across the river. This morning they had walked into his arena, and his champions lay dead at their feet. For a long moment the king sat on his high dais, staring down at the two brothers who had just unmade his every plan, while the crowd, which had cheered and protested and held its breath all morning, waited in a different silence, afraid of what he would say. Then his fury found its voice, and before the whole assembly he gave his orders in a rush: drive the two sons of Vasudeva from the city, bind the cowherd chief Nanda, who had raised the boys, and put Vasudeva himself — their father, still his prisoner — to death. He meant to finish in one morning what he had spent years failing to do.\n\nKrishna heard him from the arena floor, and something in him kindled. He did not wait for the guards to move, did not give the king time to rise. He crossed the floor and sprang, and in one motion he was on the high dais where Kamsa sat. The king's hand went for his sword, but Krishna was on him like a hawk sweeping low, too quick for the hand that groped for the hilt. He seized Kamsa by the hair, and the crown slipped from the king's head as Krishna dragged him from his seat and hurled him down into the arena. And there, before the eyes of all the people, the reign of Kamsa came to an end.\n\nThe telling hurries past the blow itself; what it keeps is stranger and gentler. All his life Kamsa had lived in dread of Krishna, seeing him everywhere — in what he drank, in what he ate, in every walk he took, in every sleep, in every breath. The prophecy had followed him so completely that he could turn nowhere without meeting the one he feared. By day and by night the face he dreaded stood before him, so that there was not a single unguarded hour in all his reign. And so when the end finally came, it was not a stranger who struck him down. It was the very face he had spent every hour trying to forget, coming for him at last.\n\nKrishna and Balarama had not crossed the river for the sport of an arena. They had come to set their parents free — and the man who had kept Devaki and Vasudeva in chains for so many years now lay still before their son. What Kamsa had feared for a lifetime had come to pass in a single morning, and it had not required more than a boy's two hands. The long dread was over, not only for Kamsa but for the whole city that had carried his fear through all those years.\n\nThe dais stood empty. The crown lay where it had fallen. In the stands a long-held breath went out of the crowd the way a storm loosens all at once. The tyrant was gone, and Mathura could lift its eyes without weighing his next command — though no one in the arena could yet find a name for what had just happened. Only one thing was plain: the king who had spent his whole life running from Krishna had, in the end, met him.",
+ "reflection": "The verses refuse to make the slaying purely a victory. Kamsa, who could not stop seeing Krishna in everything, is remembered as a man whose constant dread became, at the last, a form of constant remembrance — so that even his death brought him to the one he had fled.",
+ "tradition_note": null,
+ "content_note": "The death of Kamsa is handled with restraint, as the source itself does; the tyrant is struck down without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Kamsa"
+ ],
+ "locations": [
+  "Mathura arena"
+ ],
+ "themes": [
+  "slaying",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0139",
+ "next_story_id": "DKS_0148",
+ "next_story_tease": "Kamsa was gone, but his parents still waited in his prison.",
+ "hero_scene": "In the crowded arena, Krishna stands on the high dais having seized Kamsa by the hair, the king's crown slipping from his head as he is dragged down and hurled to the floor below, the assembly frozen.",
+ "visual_elements": [
+  "Krishna on the dais",
+  "Kamsa with crown slipping",
+  "the high royal dais",
+  "the fallen crown",
+  "the stunned assembly",
+  "the arena floor",
+  "aftermath and silence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.44.28-38",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.34",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.85",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:15Z",
+  "source_event_id": "evt_0143",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

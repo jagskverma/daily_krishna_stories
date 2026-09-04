@@ -1,0 +1,48 @@
+# STORY DKS_0025 — The Villagers Burn Putana's Body
+
+## Index entry
+title: The Villagers Burn Putana's Body
+summary: The gopis perform protective rites over the child, and the cowherds cut up and burn Putana's vast corpse, from which rises a fragrant smoke, for she attained a mother's reward.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Yasoda, Rohini, cowherds, Putana
+locations: Gokula
+themes: purification, grace
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0039
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 6 | verses 13-33 | confidence 5
+  excerpt: The cowherd women bathe the child and chant protective hymns over him; the men hew Putana's enormous body to pieces and burn it, and a fragrance like aloe rises from the fire, for she was granted the goal of a mother. (rendered from Sanskrit, verse 13-33)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.6 (13-33)
+13. patamāno 'pi tad-dehas tri-gavyūty-antara-drumān /
+14. īṣā-mātrogra-daṃṣṭrāsyaṃ giri-kandara-nāsikam /
+15. andha-kūpa-gabhīrākṣaṃ pulināroha-bhīṣaṇam /
+16. santatrasuḥ sma tad vīkṣya gopā gopyaḥ kalevaram /
+17. bālaṃ ca tasyā urasi krīḍantam akutobhayam /
+18. yaśodā-rohiṇībhyāṃ tāḥ samaṃ bālasya sarvataḥ /
+19. go-mūtreṇa snāpayitvā punar go-rajasārbhakam /
+20. gopyaḥ saṃspṛṣṭa-salilā aṅgeṣu karayoḥ pṛthak /
+21. avyād ajo 'ṅghri maṇimāṃs tava jānv athorū $ yajño 'cyutaḥ kaṭi-taṭaṃ jaṭharaṃ hayāsyaḥ &amp;hṛt keśavas tvad-ura īśa inas tu kaṇṭhaṃ % viṣṇur bhujaṃ mukham urukrama īśvaraḥ kam
+22. cakry agrataḥ saha-gado harir astu paścāt $ tvat-pārśvayor dhanur-asī madhu-hājanaś ca &cakry agrataḥ saha-gado harir astu paścāt $ tvat-pārśvayor dhanur-asī madhu-hājanaś ca &koṇeṣu śaṅkha urugāya upary upendras % tārkṣyaḥ kṣitau haladharaḥ puruṣaḥ samantāt
+23. indriyāṇi hṛṣīkeśaḥ prāṇān nārāyaṇo 'vatu /
+24. pṛśnigarbhas tu te buddhim ātmānaṃ bhagavān paraḥ /
+25. vrajantam avyād vaikuṇṭha āsīnaṃ tvāṃ śriyaḥ patiḥ /
+26. ḍākinyo yātudhānyaś ca kuṣmāṇḍā ye 'rbhaka-grahāḥ /
+27. koṭarā revatī jyeṣṭhā pūtanā mātṛkādayaḥ /
+28. svapna-dṛṣṭā mahotpātā vṛddhā bāla-grahāś ca ye /
+29. bhp_10.06.030/0 śrī-śuka uvāca
+30. tāvan nandādayo gopā mathurāyā vrajaṃ gatāḥ /
+31. nūnaṃ batarṣiḥ sañjāto yogeśo vā samāsa saḥ /
+32. kalevaraṃ paraśubhiś chittvā tat te vrajaukasaḥ /
+33. dahyamānasya dehasya dhūmaś cāguru-saurabhaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0024 | next_story_id: DKS_0026
+previous title: Krishna Drains the Demoness Putana's Life
+next title: The Infant Krishna Overturns the Cart with His Foot

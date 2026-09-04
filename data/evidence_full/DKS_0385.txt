@@ -1,0 +1,38 @@
+# STORY DKS_0385 — Krishna Visits the Pandavas at Indraprastha
+
+## Index entry
+title: Krishna Visits the Pandavas at Indraprastha
+summary: Krishna visits the Pandavas at Indraprastha, is joyously received by Yudhishthira, Bhima, Arjuna, Draupadi and Kunti, and stays four months.
+life_stage: pandava_period | story_arc: pandava_friendship
+characters: Krishna, Yudhishthira, Arjuna, Draupadi, Kunti
+locations: Indraprastha
+themes: friendship, reunion, joy
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0374
+variant_notes: Earlier visit (10.58); distinct from the Rajasuya arrival bp10d_006.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 58 | verses 1-11 | confidence 5
+  excerpt: Krishna came to Indraprastha to see the Pandavas; they rose at once, embraced him, and Kunti, weeping with love, said 'now we are protected, for you remember us.' Krishna stayed four months, delighting all. (rendered from Sanskrit, verses 1-11)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.58 (1-11)
+1. dṛṣṭvā tam āgataṃ pārthā mukundam akhileśvaram /
+2. pariṣvajyācyutaṃ vīrā aṅga-saṅga-hatainasaḥ /
+3. yudhiṣṭhirasya bhīmasya kṛtvā pādābhivandanam /
+4. paramāsana āsīnaṃ kṛṣṇā kṛṣṇam aninditā /
+5. tathaiva sātyakiḥ pārthaiḥ pūjitaś cābhivanditaḥ /
+6. pṛthām samāgatya kṛtābhivādanas tayāti-hārdārdra-dṛśābhirambhitaḥ /
+7. tam āha prema-vaiklavya- ruddha-kaṇṭhāśru-locanā /
+8. tadaiva kuśalaṃ no 'bhūt sa-nāthās te kṛtā vayam /
+9. na te 'sti sva-para-bhrāntir viśvasya suhṛd-ātmanaḥ /
+10. bhp_10.58.011/0 yudhiṣṭhira uvāca
+11. iti vai vārṣikān māsān rājñā so 'bhyarthitaḥ sukham /
+
+## Corpus chain
+previous_story_id: DKS_0384 | next_story_id: DKS_0386
+previous title: Akrura Counsels Dhritarashtra
+next title: Krishna Grants the Khadava Forest to Agni

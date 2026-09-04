@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0104",
+ "title": "The Favored Gopi's Pride and Krishna's Second Vanishing",
+ "subtitle": null,
+ "story": "All night the gopis, the cowherd women of Vrindavan, had searched the forest for Krishna, the boy of their village. Now the footprints stopped them — clear in the soft earth, and known at once: these were the marks of Krishna, Nanda's son.\n\nThe women stood over them the way you might stand over a letter you did not expect. Then they saw what made their breath catch. Beside Krishna's footprints ran another set, smaller and lighter — the steps of one of their own. And where the two sets went on together, the ground was pressed deeper in places, as though he had carried her.\n\nThe trees they had begged for news of him had no comfort to give. So the gopis read the story from the earth instead. Here, flowers had been gathered — picked for her, by him, the way a lover gathers blossoms. There, a woman's hair had been dressed and arranged by careful hands. The gopis looked down at the dust of those footprints and called it blessed: blessed is the dust of Govinda's feet — Govinda, the protector of the cows, as they called him.\n\nOne of them had been chosen. And none of the others was angry — not quite. They marveled, and they ached. This woman, they told one another, must have worshiped him as no one else had, for him to single her out. He had taken her aside, away from all the rest, and kept her to himself in the deep of the forest. It was a strange and tender thing: Krishna, complete in himself and needing nothing, had still delighted in her company. The thought of it turned in the others like a splinter. They asked themselves what they had done, and what she had done, that he should choose her while the rest of them wandered the wood in the dark. And still they could not look away from the footprints — because the footprints were all of him they had left.\n\nAnd the one he had chosen felt it too. Standing there, reading what the footprints told, she began to think herself the greatest of all women. Pride crept in where the wonder had been. So when she found Krishna waiting in a farther part of the forest, she did not fall at his feet. She told him she was tired — that she could not walk another step — and that he should carry her wherever he chose.\n\nKrishna answered her gently. Climb onto my shoulder, he said, and I will take you.\n\nShe reached for him. She climbed. And at the very moment she would have settled on his shoulder, Krishna was gone — vanished into the air, leaving her with nothing under her hands.\n\nThen her cry went up into the empty forest: O lord, O my beloved — where are you, where are you, mighty-armed one? The forest gave back no answer. She had been lifted to the highest place of all, and she had thought it was her own. Now she stood alone, and understood.",
+ "reflection": "Krishna vanishes at the exact point of pride, not in anger but as a lesson that cannot be spoken — the favored gopi had begun to possess what could only ever be received. Her cry in the empty forest is the turning: what pride had claimed, loss hands back as longing.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "pride",
+  "humility"
+ ],
+ "previous_story_id": "DKS_0103",
+ "next_story_id": "DKS_0105",
+ "next_story_tease": "But her remorse would not go unanswered for long.",
+ "hero_scene": "The gopis gathered around two trails of footprints in the soft forest earth, one smaller and lighter beside Krishna's, the ground pressed deeper where he carried her, scattered flowers nearby.",
+ "visual_elements": [
+  "two trails of footprints in the earth",
+  "Krishna's footprints and a smaller set beside them",
+  "deeper impressions where he carried her",
+  "gathered flowers and scattered blossoms",
+  "the gopis marveling over the footprints",
+  "the favored gopi standing proud",
+  "the empty place where Krishna vanished",
+  "wonder turning to loss"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.30.24-39",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0115",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0497",
+ "title": "Krishna Counsels Dhritarashtra to Govern His Wrath",
+ "subtitle": null,
+ "story": "The blind king had been washed of his own blood, and now he sat in silence, with nothing left to him but grief.\n\nAn hour earlier he had crushed what he believed was Bhima in his arms. It had been an iron statue — Krishna had drawn the real Bhima away and set it in the blind king's embrace, and the strength that had shattered iron had broken the king's own breast and sent blood pouring from his mouth. Only when the wrath had burned itself out had Krishna told him the truth: you have not slain Bhimasena. Now the maid-servants had washed the king and dressed his wounds, and Krishna came to him again.\n\nYudhishthira and his brothers stood a little apart, watching. Krishna did not let the silence soften into comfort. \"You have read the Vedas and the scriptures,\" he said. \"You have heard the old histories and everything about the duties of kings. You are learned, possessed of great wisdom, indifferent to strength and weakness. Why, then, do you cherish such wrath, when everything that has overtaken you is the result of your own fault?\"\n\nHe reminded the king of what had been said to him before the war. Krishna himself had counselled him; so had Bhishma and Drona, Vidura and Sanjaya. The king had not followed a word of it, though they had told him plainly that the Pandavas were superior to his own sons in strength and courage. \"A king who can see his own faults, and knows the distinctions of place and time, obtains great prosperity,\" Krishna said. \"But the man who will not accept the counsel of well-wishers, good or bad, meets with distress, and grieves over the policy he chose himself. You did not keep your soul under restraint; you let Duryodhana rule you. What has come upon you came through your own fault. Observe a different course of life now. Why do you seek to slay Bhima? Recollect your own faults, and govern your wrath.\"\n\nAnd then, in the same breath, Krishna turned to the old king's tenderness. He reminded him of the day Duryodhana, from pride, had caused the princess of Pancala to be brought into the assembly. \"That mean wretch has been slain by Bhimasena in just revenge,\" Krishna said. \"Look at your own evil acts, and at the acts of your wicked-souled son. The sons of Pandu are perfectly innocent, and yet you and your son treated them most cruelly.\"\n\nIt is a hard thing to be told, at the end of one's life, that one's sorrow is one's own doing. But Dhritarashtra did not argue. \"It is even so, O mighty-armed one,\" he said. \"What you say is perfectly true. It was parental affection, O thou of righteous soul, that caused me to fall away from righteousness — love for my own sons, Madhava. By good luck, that tiger among men, the mighty Bhima of true prowess, protected by you, never came within my embrace. Now I am free of wrath and fever. I desire eagerly to embrace that hero, the second son of Pandu. When all the kings are dead, when my children are no more, upon the sons of Pandu depend my welfare and my happiness.\"\n\nAnd then the old king did what grief had made impossible an hour before. He rose and embraced those princes of excellent frames: Bhima, and Dhananjaya, and the two sons of Madri — the young men he had been ready, an hour before, to destroy. He wept over them, comforted them, and pronounced blessings upon them. The king who had come to the river with murder in his grief left it with his arms around the sons of Pandu.",
+ "reflection": "Krishna's counsel works because it separates the two things the old king was carrying: the grief, which is real and never rebuked, and the wrath, which is chosen and can be set down. He names Dhritarashtra's fault not to shame him but to give him back the one thing sorrow takes away — the sense that his own choices still matter.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Dhritarashtra",
+  "Bhima",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "counsel",
+  "forgiveness",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0496",
+ "next_story_id": "DKS_0498",
+ "next_story_tease": "But beside that same river, another grief was gathering — one that would not answer to counsel.",
+ "hero_scene": "Washed and seated in silence, the blind king Dhritarashtra listens as Krishna leans close and speaks to him with open, unsparing honesty, while Yudhishthira and his brothers stand a little apart by the river, waiting.",
+ "visual_elements": [
+  "the blind king Dhritarashtra seated, washed of blood",
+  "Krishna speaking to him directly, earnest",
+  "Yudhishthira and the brothers standing apart",
+  "the river Ganga nearby",
+  "an atmosphere of heavy silence and truth"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "11.13",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:15:06Z",
+  "source_event_id": "evt_0510"
+ },
+ "editorial_status": "unreviewed"
+}

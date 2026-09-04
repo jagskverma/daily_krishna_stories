@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0120",
+ "title": "Kamsa Orders the Gopas Expelled and Vasudeva Punished",
+ "subtitle": null,
+ "story": "The last wrestler had fallen, and the arena lay quiet.\n\nKrishna and Balarama, the young cowherd brothers from Vrindavan, stood unhurt where the fight had been. Kamsa, the king of Mathura, had summoned them to his city and set his champions against them, meaning to be rid of them for good. But one by one his champions had gone down: Chanura and Toshala, whom Krishna had thrown down and struck; Mushtika and Andhra, whom Balarama had brought down with blows like a thundercloud. The great wrestling ground, so lately roaring, now stood empty of fighters, and the crowd began to understand what it was watching.\n\nHigh above them sat Kamsa, and his face ran with sweat. The painted lines on his brow were washing away, and his lips trembled with a rage that had nowhere left to go. Every breath fed the fire of his fear and his hatred, until the two became one burning thing.\n\nSo Kamsa did what a cornered tyrant does: he turned on the helpless.\n\nHe raised his voice to his guards, and the words fell on the assembly like a sentence. Turn out of the arena these two sinful, grim-faced young cowherds from the forest, he said. I do not wish to see them. None of the cowherds deserves to remain in my territory. Then he pointed at Nanda — the old chief of the cowherds, the man who had raised Krishna as his own son. This Nanda is wicked, Kamsa said, and bent on doing me harm; bind him with chains and spikes of iron. And Vasudeva, his own kinsman — the father Krishna had been born to — drew the same sentence: Vasudeva is wicked too, Kamsa said; punish him this very day in a manner no aged man deserves. The rest of the cowherds, he added, are all devoted to Krishna; strip them of their cattle and their wealth.\n\nIt was not enough that the king had tried to kill the brothers. He reached now for everyone who loved them — the father who had raised them, the father who had begotten them, the whole community that had come up from Vrindavan to see them. The cruelty lay in how precisely it was aimed. He knew exactly where to wound.\n\nAcross the arena, Vasudeva heard the sentence passed on himself and on Nanda, and he fixed Kamsa with a long, unblinking gaze. His strength was truth, and he did not flinch. But Krishna saw it all at once — his father Vasudeva insulted, Nanda insulted, his kinsmen in distress, and Devaki, his mother, fallen senseless at the sight — and something in him turned. The wrath that rose in him was not the hot anger of a boy. It was the gathered anger of everything that had been done to his people, and it had found its object at last.\n\nKamsa's hour had come, though Kamsa could not see it. He sat above the arena, blind with his own rage, and below him Krishna gathered himself and, with the speed of a lion, leaped across the open ground toward the king's pavilion — to put an end to the man who had spent his whole life trying to kill him.",
+ "reflection": "Kamsa's rage, once his champions fail him, does not collapse into despair; it turns outward and downward, onto the defenseless — the foster father, the kinsman, the whole community. The story marks the precise moment a tyrant stops even pretending to rule and simply lashes out, and it marks Krishna's wrath as the answer that such a man has made inevitable.",
+ "tradition_note": "This telling follows the Harivamsha, where the provocation that immediately precedes Kamsa's death is his order to expel the cowherds, bind Nanda, and punish Vasudeva.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Kamsa",
+  "Krishna",
+  "Balarama",
+  "Nanda",
+  "Vasudeva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "tyranny",
+  "wrath"
+ ],
+ "previous_story_id": "DKS_0119",
+ "next_story_id": "DKS_0121",
+ "next_story_tease": null,
+ "hero_scene": "Kamsa, face flushed and dripping with sweat, rising in fury in his pavilion to point at Nanda and Vasudeva as he orders the cowherds expelled, while Krishna below him begins to leap across the empty arena with the speed of a lion.",
+ "visual_elements": [
+  "Kamsa on his high seat, sweating and enraged",
+  "Nanda the old cowherd chief",
+  "Vasudeva with his unblinking gaze",
+  "the empty arena, wrestlers fallen",
+  "Krishna leaping toward the pavilion",
+  "a mood of tyranny breaking against wrath"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.85",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:13:00Z",
+  "source_event_id": "evt_0143",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

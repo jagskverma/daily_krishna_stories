@@ -1,0 +1,44 @@
+# STORY DKS_0203 — Krishna Weds Kalindi at the Yamuna
+
+## Index entry
+title: Krishna Weds Kalindi at the Yamuna
+summary: While hunting with Arjuna, Krishna meets Kalindi, daughter of the Sun, doing penance at the Yamuna, and later weds her.
+life_stage: pandava_period | story_arc: rukmini_and_marriages
+characters: Krishna, Kalindi, Arjuna
+locations: Yamuna river, Indraprastha
+themes: penance, marriage, devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0375
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 58 | verses 12-28 | confidence 5
+  excerpt: Arjuna, sent by Krishna, asked the beautiful maiden her name; she said 'I am Kalindi, daughter of Surya, doing penance to win Vishnu as husband'; Krishna took her on his chariot and later wed her at an auspicious time. (rendered from Sanskrit, verses 12-28)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.58 (12-28)
+12. ekadā ratham āruhya vijayo vānara-dhvajam /
+13. sākaṃ kṛṣṇena sannaddho vihartuṃ vipinaṃ mahat /
+14. tatrāvidhyac charair vyāghrān śūkarān mahiṣān rurūn /
+15. tān ninyuḥ kiṅkarā rājñe medhyān parvaṇy upāgate /
+16. tatropaspṛśya viśadaṃ pītvā vāri mahā-rathau /
+17. tām āsādya varārohāṃ su-dvijāṃ rucirānanām /
+18. kā tvaṃ kasyāsi su-śroṇi kuto vā kiṃ cikīrṣasi /
+19. bhp_10.58.020/0 śrī-kālindy uvāca
+20. nānyaṃ patiṃ vṛṇe vīra tam ṛte śrī-niketanam /
+21. kālindīti samākhyātā vasāmi yamunā-jale /
+22. tathāvadad guḍākeśo vāsudevāya so 'pi tām /
+23. yadaiva kṛṣṇaḥ sandiṣṭaḥ pārthānāṃ paramādbutam /
+24. bhagavāṃs tatra nivasan svānāṃ priya-cikīrṣayā /
+25. so 'gnis tuṣṭo dhanur adād dhayān śvetān rathaṃ nṛpa /
+26. mayaś ca mocito vahneḥ sabhāṃ sakhya upāharat /
+27. sa tena samanujñātaḥ suhṛdbhiś cānumoditaḥ /
+28. athopayeme kālindīṃ su-puṇya-rtv-ṛkṣa ūrjite /
+
+## Corpus chain
+previous_story_id: DKS_0202 | next_story_id: DKS_0204
+previous title: Krishna Marries Rukmini
+next title: Krishna Abducts Mitravinda and Wins Satya || Krishna carries off Mitravinda of Avanti from her svayamvara and wins Satya of Kosala by taming seven fierce bulls.

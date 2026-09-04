@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0150",
+ "title": "Memories of the Gurukula",
+ "subtitle": "Krishna and Sudama recall their student days under Sandipani.",
+ "story": "When Sudama, his old classmate from the gurukula, came to Dwaraka, Krishna did not speak of the kingdom, or of armies, or of the affairs of state. He spoke of the forest. \"Do you remember, brahmin,\" he asked, \"our days in the guru's house?\"\n\nIt was a question that carried both of them back to another life — to Avanti, to the teacher Sandipani's ashram, to the years when they had been two boys under one roof, bound by the same lessons and the same small duties. Krishna spoke of what that time had meant. The guru's house, he said, was the true birth of a twice-born, the direct root of all good deeds; it was there, in service and study, that a man came into himself. He was not to be reached by sacrifice, nor by sons, nor by austerity, nor by a mind merely quieted — but by such days as those, spent at the feet of a teacher.\n\nAnd then he asked: \"Do you remember what happened when we were sent to gather firewood?\"\n\nSudama remembered. The guru's wife had sent them into the great forest to bring back wood, and the two boys had gone in together, as they did everything in those days. They had walked deep into the trees, gathering what they could, until they realized that the light was failing. The sun had already set; darkness was covering every direction of the sky. And then the storm came — a violent wind, sheets of rain, water rising around them until the forest floor was a flood. They were struck again and again by the wind and the rain, drenched, shivering, unable to see the path by which they had come. Lost in the blackness, they held each other's hands and walked, and walked, hoping only that dawn would find them.\n\nIt was the longest night either of them had known. They wandered through the flooded darkness, two boys holding on to each other, until at last the rain ceased and the first grey light came. And there, when the sun rose, stood their guru — Sandipani himself, who had known where they were and had come through the storm to find them.\n\nThe old teacher looked at his two soaked, exhausted students, and his eyes filled. \"Ah, my sons,\" he said, \"you have suffered so much for my sake. This is exactly what true disciples must do — this is the repayment of the guru. I am pleased with you. May your wishes come true.\"\n\nKrishna finished the memory quietly. \"Such were the days we spent in the guru's house,\" he said. \"There were many like that one.\"\n\nFor a moment the two men sat in silence — the lord of Dwaraka and the brahmin from the south, both of them boys again in that dark forest, holding hands against the storm. It was the memory Krishna chose to share with his old friend: not a lesson from the scriptures, not a feat of arms, but a night of fear and cold and a teacher who came at dawn. And it was enough — more than enough — to show what the years under Sandipani had made of them.",
+ "reflection": "Krishna recalls not a triumph but a night of fear, and the detail he treasures is the guru who came at dawn. The memory defines discipleship as shared hardship and gratitude — the debt a student repays not with gifts but with the very act of having served.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Sudama",
+  "Sandipani"
+ ],
+ "locations": [
+  "Dwaraka",
+  "the gurukula"
+ ],
+ "themes": [
+  "friendship",
+  "gratitude",
+  "reminiscence"
+ ],
+ "previous_story_id": "DKS_0149",
+ "next_story_id": "DKS_0151",
+ "next_story_tease": "But the peace of Mathura would not last — an army was already marching toward the city.",
+ "hero_scene": "Two boys holding hands in a flooded, storm-darkened forest at night, rain lashing down around them, while at the edge of the trees the guru Sandipani appears in the first grey light of dawn.",
+ "visual_elements": [
+  "Krishna and Sudama as boys holding hands",
+  "the dark flooded forest",
+  "wind and rain",
+  "the guru Sandipani at dawn",
+  "Dwaraka's halls in the present frame",
+  "gratitude and remembrance"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.80.27-42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0277"
+ },
+ "editorial_status": "unreviewed"
+}

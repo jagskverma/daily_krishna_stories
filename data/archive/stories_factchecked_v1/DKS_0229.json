@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0229",
+ "title": "The Fall of Airavata",
+ "subtitle": "Garuda brings down the king of elephants",
+ "story": "Through the long morning the duel of the brothers had filled the sky above heaven — Krishna on Garuda's back, Indra on his elephant, the air between them crossed and recrossed with arrows. But the great elephant Airavata was more than a mount. He was the banner of the king of the gods, the beast that had carried Indra through a hundred wars with the asuras, whose very presence in a battle line was said to mean that heaven would not lose. His tusks were the pride of the celestial world, and the sound of him was like the sound of a storm coming.\n\nKrishna had marked him early. In the first exchange of the fight, the lord of Dwaraka had driven arrows into the elephant's flanks — sharp arrows, fierce like thunder itself — and Airavata had only stood, shaking them off as a mountain shakes off rain. Against the boon-crowned champions of heaven, against Indra's own thunder, the elephant had never once given ground.\n\nBut there was one on the field who was not a god, and who owed nothing to the orders of heaven. Garuda had carried the Parijata tree on his back through the whole battle, patient as the sky, while arrows rattled against his feathers like hail on a roof. He had seen the warrior Pravara hurled four miles through the air by a single sweep of his wings. Now he turned his attention to the elephant.\n\nThe king of birds did not waste time with arrows. He struck Airavata on the head with his fierce claws, and the great talons sank deep — fearful talons, made for tearing, that had once held serpents large enough to drink rivers. The elephant screamed and reared, the wound afflicting him sorely. He shook his vast head, trying to throw the bird off, but Garuda held, striking again, until the greatest beast of heaven began to stagger in the heights.\n\nAnd then the heights gave way.\n\nAiravata, wounded and reeling, lost his footing in the sky itself. The king of elephants fell from the heights of heaven, turning slowly as he dropped — past the gates and the gardens of the gods, past the very avenues of the Nandana forest where the tree had stood that morning — down and down through the blue air, until he struck the top of the Parijatra mountain and lay there, the pride of heaven brought to earth at last.\n\nFor a moment the battle seemed to stop. The gods stared at the mountain where their banner had fallen; the sages and the celestial hosts fell silent. Indra remained with his great elephant Airavata, who now lay fallen on the top of the Parijatra mountain, and even the arrows between the brothers ceased to fly. The sound of the elephant's fall seemed to ring on in the air long after the dust had begun to settle. The tree still rode on Garuda's back. The champions of heaven lay scattered or senseless. And the lord of Dwaraka, who had come for a single tree, had somehow brought the king of the gods down to the level of ordinary warriors — no longer enthroned, but standing in the air like any fighter, with nothing left between him and his brother but the distance of a bowshot.\n\nThe day was not yet done. The sun still stood high, and the quarrel was far from settled. But something had changed in the sky over heaven, and everyone who watched knew it: the might of the king of the gods had been measured against the might of the bird who carried Krishna, and it was the bird who had prevailed.",
+ "reflection": "Airavata was the visible power of the king of the gods, the beast whose presence promised victory — and he is brought down not by a divine weapon but by claws, by the older strength of the bird who carries Krishna. In the quarrel between the brothers, the measure of power belongs not to the thunderbolt but to the one who bears it.",
+ "tradition_note": null,
+ "content_note": "Garuda wounds Indra's elephant with his claws and the elephant falls from heaven; described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Garuda",
+  "Airavata",
+  "Krishna",
+  "Indra"
+ ],
+ "locations": [
+  "heaven",
+  "Parijatra mountain"
+ ],
+ "themes": [
+  "battle",
+  "bird vs elephant",
+  "strength"
+ ],
+ "previous_story_id": "DKS_0228",
+ "next_story_id": "DKS_0230",
+ "next_story_tease": "When nightfall ended the day's fighting, Krishna turned to the Ganga and to Shiva.",
+ "hero_scene": "High above the cloud-banks of heaven, Garuda sinks his great talons into the head of Indra's elephant Airavata as the wounded beast reels and begins to fall from the sky, the mountain peak of Parijatra far below waiting to receive it.",
+ "visual_elements": [
+  "Garuda's claws sunk into Airavata's head",
+  "the wounded elephant falling from heaven",
+  "the Parijatra mountain below",
+  "Krishna watching from Garuda's back",
+  "Indra in the sky without his mount",
+  "mood of shock and turning tide"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.220",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T23:13:00+0530",
+  "source_event_id": "evt_0300"
+ },
+ "editorial_status": "unreviewed"
+}

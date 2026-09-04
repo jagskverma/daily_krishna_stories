@@ -1,0 +1,33 @@
+# STORY DKS_0116 — Krishna Consoles the Gopis
+
+## Index entry
+title: Krishna Consoles the Gopis
+summary: As the chariot leaves, Krishna promises the weeping gopis that he will return.
+life_stage: vrindavan | story_arc: akrura_and_departure
+characters: Krishna, gopis
+locations: Vrindavan
+themes: consolation, promise
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0126
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 39 | verses 31-36 | confidence 5
+  excerpt: The gopis wept and followed the departing chariot, and Krishna consoled them with messages, saying 'I will come back'; and they returned, singing of his deeds. (rendered from Sanskrit, verses 31-36)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.39 (31-36)
+31. strīṇām evaṃ rudantīnām udite savitary atha /
+32. gopās tam anvasajjanta nandādyāḥ śakaṭais tataḥ /
+33. gopyaś ca dayitaṃ kṛṣṇam anuvrajyānurañjitāḥ /
+34. tās tathā tapyatīr vīkṣya sva-prasthāṇe yadūttamaḥ /
+35. yāvad ālakṣyate ketur yāvad reṇū rathasya ca /
+36. tā nirāśā nivavṛtur govinda-vinivartane /
+
+## Corpus chain
+previous_story_id: DKS_0115 | next_story_id: DKS_0117
+previous title: The Gopis Grieve at Krishna's Departure
+next title: Akrura Beholds the Divine Vision in the Yamuna

@@ -1,0 +1,41 @@
+# STORY DKS_0105 — Krishna Reappears Among the Gopis
+
+## Index entry
+title: Krishna Reappears Among the Gopis
+summary: Krishna reappears smiling and the gopis rise as if their life had returned; their grief ends.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Vrindavan
+themes: reunion, joy
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0116
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 32 | verses 1-14 | confidence 5
+  excerpt: Krishna then appeared among the gopis, smiling, and they all rose at once as if their very life had returned; each embraced him in her own way, and their grief of separation was dispelled. (rendered from Sanskrit, verses 1-9)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.32 (1-14)
+1. tāsām āvirabhūc chauriḥ smayamāna-mukhāmbujaḥ /
+2. taṃ vilokyāgataṃ preṣṭhaṃ prīty-utphulla-dṛśo 'balāḥ /
+3. kācit karāmbujaṃ śaurer jagṛhe 'ñjalinā mudā /
+4. kācid añjalināgṛhṇāt tanvī tāmbūla-carvitam /
+5. ekā bhru-kuṭim ābadhya prema-saṃrambha-vihvalā /
+6. aparānimiṣad-dṛgbhyāṃ juṣāṇā tan-mukhāmbujam /
+7. taṃ kācin netra-randhreṇa hṛdi kṛtvā nimīlya ca /
+8. sarvās tāḥ keśavāloka- paramotsava-nirvṛtāḥ /
+9. tābhir vidhūta-śokābhir bhagavān acyuto vṛtaḥ /
+10. tāḥ samādāya kālindyā nirviśya pulinaṃ vibhuḥ /
+11. śarac-candrāṃśu-sandoha- dhvasta-doṣā-tamaḥ śivam /
+12. tad-darśanāhlāda-vidhūta-hṛd-rujo manorathāntaṃ śrutayo yathā yayuḥ /
+13. tatropaviṣṭo bhagavān sa īśvaro yogeśvarāntar-hṛdi kalpitāsanaḥ /
+14. sabhājayitvā tam anaṅga-dīpanaṃ sahāsa-līlekṣaṇa-vibhrama-bhruvā /
+
+## Corpus chain
+previous_story_id: DKS_0104 | next_story_id: DKS_0106
+previous title: The Favored Gopi's Pride and Krishna's Second Vanishing
+next title: Krishna Teaches About Love

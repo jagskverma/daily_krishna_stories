@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0330",
+ "title": "The Discus That Blotted Out the Brahmashira",
+ "subtitle": null,
+ "story": "The war to free Aniruddha had reached its strangest hour. Krishna had come to the demon city of Sonitpura with his brother Balarama and with Pradyumna — his own son, and Aniruddha's father — to take the boy back from Bana, the thousand-armed king who held him prisoner. Shiva himself had fought for Bana that day, and then withdrawn from the field. Now a second god took his place. Kartikeya, the war-god and Shiva's son, drove straight at the three of them on a chariot sent by Kumbhanda, Bana's minister, and struck them with hundreds of sharp arrows.\n\nBathed in blood, the three fought back like three fires against the wind. They answered with the three weapons given to them by the wind-god, the fire-god, and Indra, the king of the gods. Kartikeya met each with a weapon of his own — Shaila, Varuna, and Savitri. But by their powers of illusion the three swallowed up every missile the burning god hurled at them. Nothing he shot could touch them.\n\nThen Kartikeya, blazing with rage and biting his lips, took up his deadliest weapon: the Brahmashira, the head of Brahma the creator — a missile like the fire that ends a world. When he loosed it, it blazed with the light of a thousand suns, and it seemed made to destroy the world. Creatures everywhere lost their senses in its heat and fled; the whole universe cried out.\n\nBut Krishna took up his discus, the weapon that answers and cancels every other weapon. As clouds in the rainy season cover the rays of the sun, so the discus covered, with its light, the light of the Brahmashira. The world-destroying missile was shorn of its glow, its power, its fury, and hung harmless in the sky.\n\nKartikeya's rage flamed higher, like fire into which butter is poured. He seized his golden spear, the Sakti — sure of aim, hung with bells, glowing like a burning brand — and with a shout that struck terror into his enemies he hurled it at Krishna. The spear rose into the sky, opened wide, and circled above the field, as though searching for the heart of the one it was meant to kill. The watching gods lost heart. “Perhaps Krishna will be consumed,” they said.\n\nThen the spear came down before him. Krishna shouted, a shout like a warning, and struck it out of the air to the ground. “Well done! Well done!” rose from every side of the field, and Indra and the gods sent up a leonine roar of their own.\n\nKrishna lifted his discus again, to end the war with the god. But at that moment, at Shiva's command, the goddess Kottavi appeared before Kartikeya and shielded him with her unclothed body, and beside her stood Lamva, an eighth part of the goddess herself, bright as a golden spear. Krishna stayed his hand. “Shame on you,” he said to the goddess. “Fly away from this place. Why do you throw yourself in the way of certain destruction?” But she would not cover herself, and she would not move. “Take Kartikeya and fly away from the battlefield,” Krishna told her. “It will be well for us today if you do this. If I hold back from the fight, he will fight me himself.” And the lord of Dwaraka put away his discus, rather than strike through her.\n\nThe goddess led the war-god from the field and brought him safely before Shiva. And then the king of the demons came forward. When Bana saw Kartikeya carried off safe from Krishna's discus and retiring from the battle, he felt the wish to fight Krishna himself. His priests chanted blessings over him, murmured the sacred mantras, and performed the rites of victory with herbs and holy words, while the great demon commanders gathered around their king. And Bana marched out to meet the lord of Dwaraka.\n\nKrishna, who had set aside his discus rather than strike through a goddess, turned to face the demon king as he came.",
+ "reflection": "Kartikeya's weapons do not fail by force but by absorption: the Yadus devour his shafts, and the discus covers the Brahmashira's light as cloud covers the sun. Power here is answered not with greater power but with a stillness that swallows it. And the duel ends not in slaughter but in deference — Krishna sets down his discus rather than strike through a goddess standing in the way.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Kartikeya",
+  "Krishna",
+  "Balarama",
+  "Pradyumna",
+  "Bana"
+ ],
+ "locations": [
+  "Sonitpura battlefield"
+ ],
+ "themes": [
+  "duel",
+  "divine weapon",
+  "counter-weapon"
+ ],
+ "previous_story_id": "DKS_0329",
+ "next_story_id": "DKS_0331",
+ "next_story_tease": "But the war would end not in Bana's ruin, but in a wedding for the captive prince.",
+ "hero_scene": "On the battlefield before Sonitpura: Kartikeya's blazing golden spear hangs in the sky like a fire-brand while Krishna, discus raised, blots out the sun-bright glare of the Brahmashira with a ring of light — the whole field shadowed beneath the meeting of the two weapons.",
+ "visual_elements": [
+  "Kartikeya on his chariot striking the three Yadus with arrows",
+  "the Brahmashira blazing with the effulgence of a thousand suns",
+  "Krishna's discus covering the weapon's lustre like cloud over sun",
+  "the golden Sakti rising into the sky, yawning and circling",
+  "the goddess Kottavi standing naked before Kartikeya, shielding him",
+  "Bana marching out with his demon commanders as priests chant blessings"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.274",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:07Z",
+  "source_event_id": "evt_0353",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

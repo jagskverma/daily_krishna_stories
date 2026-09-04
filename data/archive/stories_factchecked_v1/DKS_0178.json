@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0178",
+ "title": "Uddhava's Counsel to Slay Jarasandha",
+ "subtitle": null,
+ "story": "Uddhava was the man Krishna trusted with his mind — a friend who could say things plainly, and he said them now in the quiet of Dwaraka. The Rajasuya, he began, was no common sacrifice. It was the imperial rite, and the scripture was clear about who might offer it: only a king who had conquered the circle of the directions, who had brought every quarter of the earth to bow before him. And there was one direction that had never bowed. Magadha stood across the path of every conqueror, and at the heart of Magadha stood Jarasandha, holding twenty thousand kings in his prison at Girivraja and calling himself lord of all the earth.\n\nFor Krishna, Uddhava said, this was one deed that served two ends. Bring Jarasandha down, and the directions would lie open for the sacrifice; bring him down, and the captive kings would go free. There was no need to choose between the rite and the rescue — they were the same road, and it led to the same gate.\n\nBut how? Jarasandha was no ordinary enemy, and Uddhava did not pretend otherwise. His strength, he reminded Krishna, was the strength of ten thousand elephants. Send a hundred armies against him — a hundred akṣauhiṇīs, the full war-machines of kings, with their chariots and elephants and foot-soldiers — and he would still not fall. His like could not be overwhelmed; he could only be met. He was the match of one man alone, and the one man who could match him was Bhima. In a duel of two chariots, on a field with no army to hide behind and no retreat to run to, Bhima could finish what no host on earth could finish. That was the only way: not war, but single combat, man against man, and the stronger man would walk away.\n\nAnd here was the shape of it. Bhima would go to Girivraja in the dress of a brahmana, as though he were a mendicant come to ask alms of the great king. He would beg Jarasandha for a duel, the way a brahmana begs what he needs — and Jarasandha, who prided himself on his strength and had never in his life refused a challenge, would grant it. Let the two fight it out, chariot against chariot, while Krishna was there to see it done.\n\nUddhava's voice carried no heat. He was not proposing a gamble; he was reading a map. The slaying of Jarasandha, he said, would serve a great purpose — for the kings he held in prison, for the sacrifice that waited on a conquered world, for the peace of every kingdom between the seas. The women of those captive courts already sang of the day their enemy would fall and they would be set free; the gopis sang of it, and the daughter of Janaka, and the sages who had found their refuge in Krishna. All the world that looked to him was waiting on this one deed. The man who could not be broken by armies would be broken by the one thing he had never learned to fear: an equal.\n\nKrishna listened, and the plan settled into place like a stone dropping into still water. Bhima would go in a brahmana's guise; Krishna and Arjuna would be there to see it through; and the long quarrel with Magadha would end where Jarasandha had made his strength a prison — on a field of single combat, with no one left to save him but himself.",
+ "reflection": "Uddhava's counsel is precise rather than clever: it matches the one man who can fight Jarasandha to the only kind of contest in which the king can fall. The advice also binds two aims into one deed — the rite demands a conquered world, and the conquest here is a rescue. Strategy, duty, and mercy turn out to be the same road.",
+ "tradition_note": "The Mahabharata (2.20) attributes this plan to Krishna himself; in the Bhagavata it is Uddhava who counsels it. The two versions are kept separate here, as the attribution difference is material.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Uddhava",
+  "Bhima",
+  "Arjuna",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "strategy",
+  "duty",
+  "alliance"
+ ],
+ "previous_story_id": "DKS_0177",
+ "next_story_id": "DKS_0179",
+ "next_story_tease": "Soon, to the sound of drums and conches, Krishna would set out from Dwaraka for Indraprastha with a vast host at his back.",
+ "hero_scene": "Uddhava speaking before Krishna in the hall at Dwaraka, one hand raised in counsel, while Bhima and Arjuna listen; rising behind his words, the imagined duel — Jarasandha and Bhima, chariot against chariot, on a wide empty plain.",
+ "visual_elements": [
+  "Uddhava in counsel with one hand raised",
+  "Krishna seated and listening",
+  "Bhima and Arjuna attending",
+  "the imagined single combat on an open plain",
+  "the hall at Dwaraka",
+  "resolve and strategy"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.71.1-10",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:38:03Z",
+  "source_event_id": "evt_0261"
+ },
+ "editorial_status": "unreviewed"
+}

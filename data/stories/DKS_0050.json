@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0050",
+ "title": "Brahma Falls at Krishna's Feet",
+ "subtitle": null,
+ "story": "Brahma, the four-faced creator of the universe, had stolen away the calves and cowherd boys of Vrindavan, for he had seen a greatness in the child Krishna that he wanted to see again — and to be certain of. To Brahma, only a moment had passed since then. In Vrindavan, a year.\n\nWhen he came back to look for the boys and calves he had hidden, he found them exactly where they had always been — playing on the sandbank by the river, tending their calves, running home at dusk to mothers who held them as though they had been gone a long while. The cows hurried from their pens at the sound of lowing, and the calves ran to them, and the whole herd settled into its evening as if nothing had ever disturbed it. And the love in those homes, the verses say, had grown deeper than before. The cowherd men and women doted on their children with a tenderness that surprised even themselves, and no one could have said why.\n\nBrahma could not tell the difference between what he had hidden and what he now saw. The boys he had carried off — where were they? And these boys, who were they? He stood a long while turning it over, and the more he thought, the less he understood. He reached for the very power of illusion that had hidden the children in the first place and tried to use it again — and the illusion merely looked back at him. It was, the verses say, like a firefly's light at noon, or a darkness trying to settle in the mist of a morning that is already gone.\n\nThen, before his eyes, the children changed. Every cowherd boy on the sandbank appeared no longer as a boy but as a four-armed form holding a conch, a discus, a mace, and a lotus. On each chest shone the shrivatsa mark, the small sacred curl, and armlets and bracelets glinted on each arm, and from head to foot every form was draped in garlands of fresh tulsi, the holy basil. Each face smiled like moonlight, with a sidelong glance full of kindness, and each form was truth, knowledge, and joy without end. Around them stood all the worlds and all the powers that move them, from the first gods down to the last blade of grass, every one in its own shape. Where a crowd of village children had been playing, there now stood an endless company of the Lord himself — and Brahma, who had made the universe, stood speechless before it.\n\nBrahma's senses froze where they were; he could do nothing but look, unable to say what he was seeing. It was too much for him, and then it was hidden — for Krishna saw what was happening and gently, as one draws a curtain, covered Brahma's sight. When the creator opened his eyes again, it was like a man waking from the dead. The vision was gone. Around him lay the ordinary world, men and animals sitting together with no sign of their natural enmity. And there, before him, stood a small boy with a morsel of food in his hand, searching for his friends as if nothing at all had happened.\n\nBrahma came down from his swan and threw himself on the ground like a golden rod. He touched Krishna's feet with the tips of his four crowns and bathed them with his tears.",
+ "reflection": "Brahma came to test, and found himself tested. The vision of countless four-armed forms is overwhelming, but what finally undoes him is the plainness that follows it — a child with a morsel of food, looking for his friends. Krishna's true hiding place, the story suggests, is not the spectacle but the ordinary.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Brahma",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "humility",
+  "maya",
+  "wonder"
+ ],
+ "previous_story_id": "DKS_0049",
+ "next_story_id": "DKS_0051",
+ "next_story_tease": "But Brahma had not yet finished speaking.",
+ "hero_scene": "Brahma, the four-headed creator, fallen to the ground like a golden rod before the boy Krishna, touching his feet with the tips of his four crowns while tears of joy stream from his eyes.",
+ "visual_elements": [
+  "Brahma the four-headed creator",
+  "Krishna as cowherd boy",
+  "four-armed Vishnu forms",
+  "conch, discus, mace and lotus",
+  "shrivatsa mark",
+  "tulsi garlands",
+  "sandbank and river",
+  "swan mount",
+  "tears",
+  "awe and humility"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.13.27-63",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:32Z",
+  "source_event_id": "evt_0062",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

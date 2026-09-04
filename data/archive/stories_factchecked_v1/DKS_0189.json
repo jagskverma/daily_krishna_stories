@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0189",
+ "title": "Vishvakarma Builds Dwaraka for Krishna",
+ "subtitle": null,
+ "story": "Mathura could not hold forever. That was the arithmetic Krishna carried with him as he looked out from its walls, and it was not the fear of a soldier but the calculation of a ruler.\n\nA foreign king named Kalayavana had marched on Mathura with an enormous army of foreign soldiers, numberless as the dust, and now ringed the city, its soldiers stretched to every horizon. Krishna knew that if he stayed to fight, a second enemy would fall on them from behind — Jarasandha, whose armies would arrive the moment the battle began. Two wars at once, and Mathura's people would pay the price. A ruler who loved his people could not spend them so cheaply. There was no shame in retreat, if retreat saved the people for whom a king exists at all.\n\nSo Krishna made a different kind of choice. He would not meet two armies with one. He would move his people to a place no army could easily follow. He chose a site in the sea and asked the ocean to withdraw its waters over a stretch twelve yojanas wide, and the ocean gave way, leaving the seabed bare for the work to come.\n\nOn an auspicious day, chosen under a favorable star, he made offerings to the brahmanas and had them perform the rites of blessing, and then he set the work in motion. He summoned Vishvakarma, the divine architect, in his mind, and the architect came to him there by the water, ready to build. By his art the city rose from the water — Dwaraka, a fortress in the sea, twelve yojanas wide, with high ramparts, turrets of silver and gold, and gardens of celestial trees and vines, and courtyards laid out with a craftsman's care. It was a city so skillfully made it seemed the work of a god, because it was. Every wall showed the divine architect's craft; nothing in it was ordinary, and nothing was wasted. Indra, king of the gods, sent the Sudharma assembly hall and the Parijata tree; Varuna, lord of the waters, sent swift white horses. So the new city was furnished with the best of heaven and of the deep.\n\nThen, by his mystic power, Krishna conveyed all the people there — the whole of the Yadava clan, with their families and their goods — from Mathura to the new city by the sea. In a single day the city was full of life, and Mathura stood behind them, quiet at last. They had left their old home not in flight but in good order, and they took up the new one in the same spirit.\n\nKrishna had planned it as carefully as any battle. He told the Yadavas that the site he had chosen was like the very abode of the gods, and that the city would be known by the name of Dwaravati, as Indra's city is known as Amaravati. He laid out the courtyards and the promenades and the well-levelled roads, and he gave each family land for a house. Nothing was left to chance; a city, like a battle, is won in the planning. Temples were raised for the gods in their proper places, and four great gates opened onto the sea and the land, and the Yadavas marked out their plots with ropes and measured their streets, until the fort began to look like a home. The people took up their measuring ropes and their rites. What Krishna built was not merely a wall. It was a place where his people could live without looking over their shoulders — and it would shelter them for years to come, through every storm that gathered against them.",
+ "reflection": "Krishna's choice is a statesman's, not a warrior's. Faced with two enemies at once, he does not seek the glory of a great battle; he withdraws his people to a fortress in the sea and asks the divine architect to raise a city. Protection, the story suggests, can be built as surely as it can be won.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_founded",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Vishvakarma"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "strategy",
+  "protection",
+  "construction"
+ ],
+ "previous_story_id": "DKS_0148",
+ "next_story_id": "DKS_0200",
+ "next_story_tease": null,
+ "hero_scene": "The sea-fortress of Dwaraka rising from the withdrawn waters — golden domes and high ramparts gleaming above the sea — while Krishna looks on from the shore as the divine architect Vishvakarma raises the city into being.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "Vishvakarma",
+  "the sea",
+  "the fortress-city of Dwaraka",
+  "golden domes and high ramparts",
+  "the Sudharma hall",
+  "swift white horses",
+  "protection and construction"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.50.42-56",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.115",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.23",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0015"
+ },
+ "editorial_status": "unreviewed"
+}

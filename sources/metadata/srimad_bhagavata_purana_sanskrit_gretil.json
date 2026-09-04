@@ -1,0 +1,18 @@
+{
+  "work": "Srimad Bhagavata Purana (Sanskrit, GRETIL)",
+  "translator": "n/a (Sanskrit text, data entry Ulrich Stiehl)",
+  "edition": "GRETIL e-text (TEI-converted 2020-07-31), based on the Bombay/Vulgate recension",
+  "publication_year": null,
+  "download_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_bhAgavatapurANa.txt",
+  "download_date": "2026-09-01",
+  "format": "plain text (IAST transliteration), verse-marked bhp_canto.chapter.verse",
+  "copyright_status": "public domain (Sanskrit text); e-text provided to GRETIL in good faith of no rights infringed",
+  "license_notes": "GRETIL licence: freely available for scholarly use; ancient Sanskrit text is public domain",
+  "sha256": "f2a68ca4d3233629bc3663903c88e0ca0cfc382b03fcb1a1384e3942a4732254",
+  "files": [
+    "bhagavata/bhagavata_sanskrit_gretil.txt"
+  ],
+  "role": "CANONICAL text for Bhagavata Purana (verse-level citations); English excerpts rendered from it by pipeline",
+  "quality": "clean (keyboard-entered e-text)",
+  "confidence": 5
+}

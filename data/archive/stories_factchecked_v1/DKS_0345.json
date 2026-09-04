@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0345",
+ "title": "The Weapon That Made Shiva Yawn",
+ "subtitle": null,
+ "story": "Of all the weapons in the war for Shonitapura, the one that decided everything did not burn, or thunder, or split the earth. It made the great god yawn.\n\nThe duel between Krishna and Shiva had reached its deadlock — the two gods facing each other across a scorched field, the weapons of the heavens spent and answered, the sky crowded with watching celestials. Krishna broke the deadlock with something no one expected. He loosed the Jrimbhana weapon, the astra of yawning, and it struck Shiva in the midst of his wrath. The lord of destruction, the master of the universe, began to gape — once, twice, then without stopping. Overcome with endless yawning, he sank down in his car and could not raise a weapon against Krishna any longer. The Vishnu Purana puts it plainly: Hara, overcome with incessant gaping, sat down in his car, and was unable to contend.\n\nWith Shiva stupefied, the battle turned. Krishna's army fell upon Bana's host and broke it utterly, and the field ran red with the rout. The young war-god Skanda tried to hold his father's cause together, but Pradyumna's arrows found him from every side, and the bloodied son of Shiva took to flight. Kumbhanda and Kupakarna, the demon commanders who had fought beside their king all day, were struck down at last and fell.\n\nBana watched his army shatter like a jar dropped on stone, and grief turned to a fury that shook his thousand arms. He seized five hundred bows at once — five hundred strings drawn in a single rage — and shot at Krishna. But the discus in Krishna's hand was faster than any king's anger. In the same moment the five hundred bows were raised, the discus swept through them, and all five hundred lay cut and useless at Bana's feet, the arrows fallen short of their mark.\n\nAnd then, in the midst of the ruin, a mother stepped into the field.\n\nKotara, the mother of Bana, had watched her son stand against the lord of the Yadavas, and she knew the next stroke would take his life. She came out onto the battlefield, and in the old manner of desperate mothers she stood before the conqueror with her hair unbound and without a veil — a woman offering her own dignity so that her son might live. The gods watching held their breath. Krishna, who had faced the weapons of Shiva without blinking, turned his face aside and would not look upon her; the ghostly hosts that still lingered took that as their sign and fled, and the slaughter stopped at the edge of that strange mercy.\n\nThe field lay quiet. The great god yawned in his car. The war-god had fled. The demon army was gone. And between Krishna and Bana stood only Kotara, unmoving, unashamed — the one thing in the universe that the lord of the discus would not cut through. But Bana himself still stood, and his thousand arms were still his own, and the discus had not yet done its work.",
+ "reflection": "The Jrimbhana weapon is comic in the hands of a god — the master of the universe brought low by a yawn — yet it is also the story's gentlest power, disabling without destroying. And Kotara's terrible courage carries the real weight: the one force Krishna will not strike through is a mother's love, even the mother of an enemy.",
+ "tradition_note": null,
+ "content_note": "Battle violence, described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Shiva",
+  "Pradyumna",
+  "Skanda",
+  "Bana",
+  "Kotara"
+ ],
+ "locations": [
+  "Shonitapura"
+ ],
+ "themes": [
+  "divine power",
+  "battle",
+  "mother's love"
+ ],
+ "previous_story_id": "DKS_0344",
+ "next_story_id": "DKS_0346",
+ "next_story_tease": "Bana still stood in the field, his thousand arms still his own — and the discus in Krishna's hand had not yet done its work.",
+ "hero_scene": "On the field before Shonitapura, the great god Shiva yawns helpless in his lion-drawn car as Krishna's Jrimbhana weapon takes hold, while Pradyumna's arrows drive the bloodied Skanda from the field and Bana's mother Kotara, hair unbound, stands shielding her son before Krishna.",
+ "visual_elements": [
+  "Shiva gaping helplessly in his lion-drawn car, overcome by the yawning weapon",
+  "Pradyumna's arrows driving the bloodied Skanda from the field",
+  "Bana drawing five hundred bows at once in fury",
+  "Krishna's discus cutting all five hundred bows at a stroke",
+  "Kotara standing with unbound hair before Krishna, shielding her son"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.63.13-20",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.33",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:14:00Z",
+  "source_event_id": "evt_0225"
+ },
+ "editorial_status": "unreviewed"
+}

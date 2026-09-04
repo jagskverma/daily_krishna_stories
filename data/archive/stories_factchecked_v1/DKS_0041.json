@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0041",
+ "title": "Krishna Notices the Twin Arjuna Trees",
+ "subtitle": null,
+ "story": "The house was quiet, and for once the child was on his own.\n\nHis mother was deep in her household work — the endless round of churning, sweeping, tending the fire, keeping the day in order — and in the lull she had no eye to spare for him. So Krishna was left to himself, a small boy with the whole courtyard open before him and nothing to do but look.\n\nAnd what he looked at, in that stillness, were the two arjuna trees.\n\nThey stood side by side at the edge of the ground, tall and straight, their trunks grown thick with years and their branches lacing together high overhead. To anyone else they were only trees — part of the furniture of the village, as ordinary as the wall or the well, the kind of thing no one ever really sees. But the child's eyes lingered on them, the way a child's eyes will linger on the one thing in the yard no one else notices, as if the trees were speaking to him in a language just below hearing.\n\nThey had not always been trees.\n\nOnce, long before, they had been two young men of the highest birth: Nalakuvara and Manigriva, sons of Kubera, the lord of wealth. They had moved among the guhyakas, the celestial attendants of their father's realm, rich and favoured beyond anything the earth could offer, and they had grown proud on that fortune. And then, in a single act of heedless pride, they had thrown it all away. A curse — the curse of the sage Narada — had brought them down from that height and fixed them here, rooted to the earth as two arjuna trees, their names and their story buried deep inside the wood.\n\nThat is what stood in the courtyard that day, though no one in the village knew it. The two trees were a secret wearing the shape of the ordinary, waiting, as trees do, with a patience no person could match.\n\nAnd the child — the one child in all the world who could undo such a curse — stood looking at them, not yet knowing what he saw. Or perhaps, in the way children understand things without being told, knowing a great deal more than anyone around him guessed.\n\nFor now, the moment asked nothing of him. The trees stood, and the boy looked, and the house went on with its quiet work behind him. But something had been set between them, a recognition waiting for its hour. Whatever was to come — and something would come — would begin in that still, unremarkable moment, with a child and two trees and the space between them.",
+ "reflection": "The whole weight of the episode rests on a child's idle glance. The drama is built from stillness — a boy left alone in a courtyard, two trees, and a hidden history that will not stay hidden. What looks ordinary can carry a long past, waiting only to be seen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Nalakuvara",
+  "Manigriva"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "curiosity",
+  "foreshadowing"
+ ],
+ "previous_story_id": "DKS_0040",
+ "next_story_id": "DKS_0042",
+ "next_story_tease": "What the two had done to earn such a fate — and whose curse had fixed them to the earth — was a story of its own.",
+ "hero_scene": "The small Krishna standing alone in a quiet courtyard, gazing up at two tall straight arjuna trees side by side, his mother busy in the house behind him.",
+ "visual_elements": [
+  "Krishna as a small child",
+  "two tall arjuna trees",
+  "a quiet Gokula courtyard",
+  "Yashoda busy indoors",
+  "soft golden light",
+  "stillness",
+  "the hidden presence of two cursed beings"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.9.21-22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:54:24Z",
+  "source_event_id": "evt_0049"
+ },
+ "editorial_status": "unreviewed"
+}

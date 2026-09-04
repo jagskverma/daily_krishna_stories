@@ -1,0 +1,105 @@
+# STORY DKS_0070 — Krishna Resolves to Subdue the Serpent Kaliya
+
+## Index entry
+title: Krishna Resolves to Subdue the Serpent Kaliya
+summary: Finding the Yamuna's lake poisoned by the serpent-king Kaliya, Krishna resolves to leap in and vanquish him.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Krishna, Kaliya
+locations: Yamuna lake
+themes: courage, resolve
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0076
+variant_notes: HV-specific precursor; see 'kaliya_leap'.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 66 | verses  | confidence 4
+  excerpt: 'I should, however, vanquish this king of serpents... I shall climb this Kadamba tree, jump into the lake and vanquish Kalya.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.66 ()
+TITLE: AN ACCOUNT OF KALYA
+
+Vaishampayana said:—One day the lotus-eyed Krishna, having a dark-blue
+hue and a beautiful countenance, capable of assuming forms at will and
+wearing a feather of crow, without being united with Sangkarshana, began
+to range alone in that charming forest. Bearing the mystic mark of
+Srivatsa on his breast he shone there like the moon with the mark of a
+hare (1–2). His arms, bedecked with Angadas and his tawny colored two
+little moving feet shone there like brilliant lotuses (3). His two
+pieces of yellow raiments, creating delight of the world and resembling
+the filaments of a lotus, shone there like the evening clouds (4). Ropes
+and rods were shining in his two plump and moving hands engaged in the
+work of tending kine and worshipped by the celestials (5). Charming
+fragrance, resembling that of a dark-blue lotus, was coming out from his
+beautiful and lotus-like mouth adorned with picturesque lips (6) His
+countenance, embellished with dishevelled locks, was shining like a
+lotus encircled by black-bees (7). Garlands of new grown buds of Arjuna,
+Kadamba and Nipa flowers were shining on his head like a garland of
+stars in the sky (8). That hero, of dark-blue hue of the clouds of the
+rainy season, with a garland of the same colour around his neck, shone
+there like the month of Bhādra incarnate (9). The clean leaves, tied to
+the thread round his neck, shone there beautiful when shaken by the
+gentle breeze raised by peacock feathers (10).
+
+Thus ranging every day in the forest that youth used some where to sing,
+some where to sport and walk and some where to make, of his own accord,
+the charming music of of Parna and bugle for pleasing his kine. Ranging
+in that wonderful forest and fanned by the charming wind proceeding from
+the trees that powerful and effulgent Krishna, dark blue like cloud,
+attained to most excellent delight. It was resonant with the notes of
+peacocks, its caves were echoed with the muttering of clouds that excite
+lust in men, it was adorned with plantain trees and covered with new
+grown grass, twigs and lotuses. It abounded in many fountains and was
+fragrant with the filaments of lotuses like the treath of females
+expressing their desire (11–17). While, ranging in that forest one day,
+along with his kine, he saw there a foremost of trees with high branches
+(18). Enveloped with thick leaves it was stationed on earth like a
+cloud. With its height it traversed half of the sky and if contained as
+it were the enjoyment of the wind (19). Covered with fruits of blue and
+diverse other colors and resorted to by various birds it appeared like a
+cloud accompanied by rain-bow (20). The wind and cloud were as if
+simultaneously living in the trees resembling houses, adorned with
+creepers and flowers and bent down on account of their huge roots (21).
+As if by his pristine good deeds, that great tree, who could give
+protection against rain and the rays of the sun, was ruling over others
+there (22). Beholding this Bhāndiraka fig-tree resembling the summit of
+a mountain the sinless Lord Krishna desired to live there (23).
+Thereupon engaged in sport there along with other cow-herd boys of his
+own age, as in the city of the celestials, he spent the day there (24).
+
+While Krishna began to sport there under Bhāndiraka tree the other
+cow-herds amused him with various wild plays (25). The milkmen began to
+sing there and the boys, fond of amusing, sang there many songs relating
+to Krishna (26). When they thus began to sing in accompaniment with the
+music of Panava, the powerful Krishna, too at times, played on his flute
+and Tumvi (27).
+
+One day while tending his kine, Krishna, having the eyes of a bull,
+repaired to the bank of Yamunā abounding in trees adorned with creepers
+(28). He saw the delightful wind blowing on the water; and the foremost
+of rivers Yamunā, embellished with lilies and lotuses, was as if with
+her waves, casting her glances (29). All her landing stairs were
+well-levelled and her water was sweet; she had many lakes and her
+current was strong. And all the trees (on her bank) were shaken by the
+watery air (30). It was resonant with the notes of swans, Karandavas and
+Sārasas and resorted to by Chakravākas and other fowls that range in
+pairs (31) Her water was filled with acquatic animals, was endued with
+all the good qualities, was variegated with various water-born flowers
+and was rendered yellow by water-born corals (32). The passing currents
+were her feet, the bank was her hip, the whirlpool was her navel, the
+lotuses were her hairs, the cavity of the bank was her belly, the three
+curves of the wave were her three marks on the fore-head, the sides of
+the bank were her expansive face, the foams were her teeth, the swans
+were her smiles, the dark-blue lotuses were her lips, the water-born
+flowers were her eyes having bent down eye-brows, the lakes were her
+forehead, the corals were her beautiful hairs, the long extending
+currents were her high arms, the serpents were her ears, 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0069 | next_story_id: DKS_0071
+previous title: Krishna Slays the Demon Vyoma
+next title: Krishna Revives the Cowherds from Poisoned Water

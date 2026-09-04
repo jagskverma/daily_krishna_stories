@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0341",
+ "title": "Usha Dreams of Aniruddha",
+ "subtitle": null,
+ "story": "She woke calling for a man she had never seen. Usha, the daughter of Bana, king of Shonitapura, sat up in the dark, crying \"Where are you, my beloved?\" to a room that held no one. The dream was still burning behind her eyes — a youth, dark-skinned and lotus-eyed, and her heart had gone to him as simply as water finds the sea. She had felt him beside her as real as sunlight. Now the sunlight was gone, and only the longing remained.\n\nThe dream had been promised to her. Some days before, she had watched the goddess Parvati at play with her lord Shiva and had wished, with all her heart, for such a husband. The goddess, who reads every heart, had heard her. \"Do not grieve,\" she said. \"You shall have a husband. He who appears to you in a dream on the twelfth night of the bright half of the month of Vaishakha, in the spring — he will be your lord.\" And so, on that very night, the youth had come to her in sleep.\n\nNow Usha could not eat, could not rest, could only look toward her doorway and ask the air where he had gone. She searched her memory for his face a hundred times a day and found it waiting there every time, undimmed. Her friend Chitralekha found her so — Chitralekha, daughter of Bana's minister Kumbhanda, a girl with a painter's eye and the secret knowledge of a yogini, one trained in hidden powers. \"Whom do you seek?\" Chitralekha asked gently. \"What is it your heart wants?\"\n\n\"A man,\" Usha said. \"I saw him in a dream. Dark, with eyes like lotus petals. I would give anything to see him once more.\" She could not say his name, for she had never known it. She could not say his home, for she had never seen it. She had only his face, and her longing — and a friend who refused to let the longing go unanswered.\n\nChitralekha did not laugh, and she did not scold. She brought out her colors and began to paint — for if the maiden could not name her beloved, perhaps her eyes could. She painted the gods first, and then the shining beings of the air — gandharvas, siddhas, charanas — and the great serpents of the deep, and Usha shook her head at every face. She painted the princes of the world, and still Usha shook her head. Then, among the great families of men, she painted the Vrishnis — Krishna's own family: the face of Krishna himself, and after it the face of his grandson, Aniruddha, the son of Pradyumna.\n\nUsha's eyes flew wide. \"This is he!\" she cried. \"This is he!\" — and then, all at once, she dropped her gaze, her cheeks burning, because her secret was suddenly standing in the room, painted and alive. The face she had carried in her heart since the dream looked back at her from the canvas, and there was no mistaking it.\n\nChitralekha set down her brush, understanding everything. She knew the youth at once: Krishna's grandson, a prince of Dvaraka, a city so far from Shonitapura that it might have been another world. The dream had crossed that distance in a single night, and Usha's heart had crossed it in an instant. But how was a girl to cross it — guarded as she was in her father's palace, watched on every side, with no road leading from her chambers to Dvaraka?\n\nUsha could only look at the painting, and the painting looked back at her. The youth of the dream had a name at last, and a home at last. Everything else — the impossible distance, the two kingdoms lying between — would have to find its own way of being crossed.",
+ "reflection": "The story turns on recognition: a girl who cannot name her beloved can still know him at a glance, and it is Chitralekha's art that makes the dream visible and gives the longing a face. Love here is not built up slowly; it is recognized whole, the way a song is known the moment it begins.",
+ "tradition_note": "In the Vishnu Purana, the dream is framed by Parvati's promise, given when Usha wished for a husband like Shiva; the Bhagavata opens directly with the dream itself.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Usha",
+  "Chitralekha",
+  "Aniruddha"
+ ],
+ "locations": [
+  "Shonitapura"
+ ],
+ "themes": [
+  "dream",
+  "love",
+  "recognition"
+ ],
+ "previous_story_id": "DKS_0340",
+ "next_story_id": "DKS_0342",
+ "next_story_tease": "Chitralekha knew the prince's name and his city — and she had already begun to wonder how a girl in Shonitapura could ever reach him.",
+ "hero_scene": "In the lamplit chamber, Chitralekha holds up the finished painting of Aniruddha while Usha, eyes wide with recognition, reaches toward the painted face — portraits of gods and kings lying discarded around them.",
+ "visual_elements": [
+  "Usha waking in her chamber, calling out",
+  "Parvati's promise as Usha watches her with Shiva",
+  "Chitralekha painting the gods, gandharvas and princes",
+  "the portrait of Aniruddha held up in the lamplight",
+  "Usha lowering her gaze, shy, cheeks burning"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.62.11-21",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.32",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:51Z",
+  "source_event_id": "evt_0222",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

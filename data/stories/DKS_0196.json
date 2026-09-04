@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0196",
+ "title": "A Princess Chooses Krishna",
+ "subtitle": null,
+ "story": "Rukmini, the princess of Vidarbha, settled her own marriage before anyone thought to ask her — and she settled it without ever having set eyes on the man she chose.\n\nShe was the daughter of Bhishmaka, king of Kundina, and she was known for her intelligence, her beauty, and her good character. Her brother Rukmi had already decided her future: he meant to give her in marriage to Shishupala, the king of Cedi, and as far as he was concerned the matter was closed. The princess was told that her hand was spoken for, and the household began to move toward the wedding as toward something already decided.\n\nBut Rukmini had been hearing other names. Word of Krishna of Dwaraka reached Kundina, and she listened to it the way a thirsty field drinks rain. Travelers and brahmanas — the wandering priests and scholars who carried news between the courts — spoke of his beauty, of a courage that had already become legend, of a kindness and a glory that seemed to deepen with every telling. The more she heard, the more one conviction settled in her and would not be moved: of all the men in the world, he alone was a fitting husband for her. Not the prince her brother favored, not any of the alliances her family counted. Krishna.\n\nShe knew better than to take her wish to her family. Her brother had set his heart on Shishupala, and a princess who argued with him would only have tightened his grip on the plan. So Rukmini chose a different road. Among the brahmanas who traveled freely between the courts she found one she trusted completely, and to him she gave her message: a few words meant for Krishna and for no one else. She sent him out swiftly and in secret, so that no word of her decision would reach her brother first.\n\nThe brahmana took the long road from Vidarbha to Dwaraka and made it quickly, guarding the princess's secret like a flame cupped in his hands. At the city's gates he was admitted, and he was brought to Krishna's presence.\n\nAnd here the story turns on a small thing that says everything. When Krishna saw the travel-worn brahmana, he did not wait for the man to state his business. He rose from his own seat — a king rising for an unknown visitor — and received him as a guest of the first rank. For Krishna held the brahmanas in the highest honor. A man who had given his life to study and prayer came before any crown in his regard, and everyone in Dwaraka knew it.\n\nThe court watched the traveler be welcomed, given his place, spoken to with courtesy. Then the two of them spoke quietly together, and the message that had crossed the whole country on a princess's behalf passed out of the messenger's keeping and into Krishna's.\n\nThe brahmana had done what Rukmini asked of him. He had carried her decision across the whole country and placed it, at last, in the hands of the man she had chosen. The rest belonged to Krishna.",
+ "reflection": "Rukmini chooses Krishna on report alone, before she has ever seen him, and she acts with startling practicality: where she cannot persuade her brother, she quietly arranges the matter herself through a trusted messenger. In this story the devotion begins with her, and it moves her to take her future into her own hands.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Rukmini",
+  "Krishna",
+  "Rukmi",
+  "Brahmana"
+ ],
+ "locations": [
+  "Kundina",
+  "Dvaraka"
+ ],
+ "themes": [
+  "love",
+  "resolve",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0195",
+ "next_story_id": "DKS_0197",
+ "next_story_tease": "What the brahmana had brought was no ordinary embassy: Rukmini had chosen her husband, and she meant for Krishna to know it.",
+ "hero_scene": "A travel-worn brahmana standing before Krishna in the hall of Dwaraka while Krishna rises from his seat to receive him, the court watching in surprise as the unknown visitor is welcomed like a guest of the first rank.",
+ "visual_elements": [
+  "the travel-worn brahmana at the gates of Dwaraka",
+  "the guards admitting him past the city gates",
+  "Krishna rising from his seat in welcome",
+  "the watching court of Dwaraka",
+  "Rukmini's secret message carried across the country",
+  "a mood of quiet resolve and hope"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.52.14-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:32Z",
+  "source_event_id": "evt_0238",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

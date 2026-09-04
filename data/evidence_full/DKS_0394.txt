@@ -1,0 +1,119 @@
+# STORY DKS_0394 — Yudhishthira Requests the Rajasuya and Krishna Approves
+
+## Index entry
+title: Yudhishthira Requests the Rajasuya and Krishna Approves
+summary: Yudhishthira asks Krishna's permission and blessing to perform the Rajasuya, and Krishna approves, promising to win the kings of the earth for him.
+life_stage: pandava_period | story_arc: rajasuya_and_sisupala
+characters: Krishna, Yudhishthira
+locations: Indraprastha
+themes: royal sacrifice, blessing, friendship
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0366
+variant_notes: Same permission moment; Bhagavata 10.72 vs Mahabharata 2.32.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 72 | verses 1-10 | confidence 5
+  excerpt: Yudhishthira declares his wish to perform the purifying Rajasuya sacrifice and asks Krishna, the lord of all, to bring it about. Krishna approves, saying that after conquering all the kings and gathering the requisites the sacrifice should be performed, and that none can surpass Yudhishthira in splendor, not even the gods. (rendered from Sanskrit, verse 1-10)
+- Mahabharata (Ganguli translation) | book/canto 2 | chapter/section 32 | verses  | confidence 4
+  excerpt: Krishna, extolling his virtues, said.--'Thou, O tiger among kings, deservest imperial dignity. Let, therefore, the great sacrifice be performed by thee. And if thou performest that sacrifice an obtainest its fruit we all shall regard ourselves as crowned with success.'
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.72 (1-10)
+1. ācāryaiḥ kula-vṛddhaiś ca jñāti-sambandhi-bāndhavaiḥ /
+2. bhp_10.72.003/0 śrī-yudhiṣṭhira uvāca
+3. tvat-pāduke avirataṃ pari ye caranti $ dhyāyanty abhadra-naśane śucayo gṛṇanti &amp;vindanti te kamala-nābha bhavāpavargam % āśāsate yadi ta āśiṣa īśa nānye
+4. tad deva-deva bhavataś caraṇāravinda- $ sevānubhāvam iha paśyatu loka eṣaḥ &tad deva-deva bhavataś caraṇāravinda- $ sevānubhāvam iha paśyatu loka eṣaḥ &ye tvāṃ bhajanti na bhajanty uta vobhayeṣāṃ % niṣṭhāṃ pradarśaya vibho kuru-sṛñjayānām
+5. na brahmaṇaḥ sva-para-bheda-matis tava syāt $ sarvātmanaḥ sama-dṛśaḥ sva-sukhānubhūteḥ &na brahmaṇaḥ sva-para-bheda-matis tava syāt $ sarvātmanaḥ sama-dṛśaḥ sva-sukhānubhūteḥ &saṃsevatāṃ sura-taror iva te prasādaḥ % sevānurūpam udayo na viparyayo 'tra
+6. bhp_10.72.007/0 śrī-bhagavān uvāca
+7. ṛṣīṇāṃ pitṛ-devānāṃ suhṛdām api naḥ prabho /
+8. vijitya nṛpatīn sarvān kṛtvā ca jagatīṃ vaśe /
+9. ete te bhrātaro rājaṃl loka-pālāṃśa-sambhavāḥ /
+10. na kaścin mat-paraṃ loke tejasā yaśasā śriyā /
+
+### Mahabharata (Ganguli translation) 2.32 ()
+(Rajasuyika Parva)
+
+Vaisampayana said,--“in consequence of the protection afforded by
+Yudhisthira the just, and of the truth which he ever cherished in his
+behaviour, as also of the check under which he kept all foes, the
+subjects of that virtuous monarch were all engaged in their respective
+avocations. And by reason of the equitable taxation and the virtuous rule
+of the monarch, clouds in his kingdom poured as much rain as the people
+desired, and the cities and the town became highly prosperous. Indeed as
+a consequence of the monarch’s acts; every affair of the kingdom,
+especially cattle bleeding, agriculture and trade prospered highly. O
+king, during those days even robbers and cheats never spoke lies amongst
+themselves, nor they that were the favourites of the monarch. There were
+no droughts and floods and plagues and fires and premature deaths in
+those days of Yudhishthira devoted to virtue. And it was only for doing
+agreeable services, or for worshipping, or for offering tributes that
+would not impoverish, that other kings used to approach Yudhisthira (and
+not for hostility or battle.) The large treasure room of the king became
+so much filled with hoards of wealth virtuously obtained that it could
+not be emptied even in a hundred years. And the son of Kunti,
+ascertaining the state of his treasury and the extent of his possessions,
+fixed his heart upon the celebration of a sacrifice. His friends and
+officers, each separately and all together, approaching him said,--‘The
+time hath come, O exalted one, for thy sacrifice. Let arrangements,
+therefore, be made without loss of time.’ While they were thus talking,
+Hari (Krishna), that omniscient and ancient one, that soul of the Vedas,
+that invincible one as described by those that have knowledge, that
+foremost of all lasting existences in the universe, that origin of all
+things, as also that in which all things come to be dissolved, that lord
+of the past, the future, and the present Kesava--the slayer of Kesi, and
+the bulwark of all Vrishnis and the dispeller of all fear in times of
+distress and the smiter of all foes, having appointed Vasudeva to the
+command of the (Yadava) army, and bringing with him for the king
+Yudhishthira just a large mass of treasure; entered that excellent city
+of cities. Khandava, himself surrounded by a mighty host and filling the
+atmosphere with the rattle of his chariot-wheels. And Madhava, that tiger
+among men enhancing that limitless mass of wealth the Pandavas had by
+that inexhaustible ocean of gems he had brought, enhanced the sorrows of
+the enemies of the Pandavas. The capital of the Bharata was gladdened by
+Krishna’s presence just as a dark region is rendered joyful by the sun or
+a region of still air by a gentle breeze. Approaching him joyfully and
+receiving him with due respect, Yudhishthira enquired of his welfare. And
+after Krishna had been seated at ease, that bull among men, the son of
+Pandu, with Dhaumya and Dwaipayana and the other sacrificial priests and
+with Bhima and Arjuna and the twins, addressed Krishna thus,--
+
+‘O Krishna it is for thee that the whole earth is under my sway. And, O
+thou of the Vrishni race, it is through thy grace that vast wealth had
+been got by me. And, O son of Devaki, O Madhava, I desire to devote that
+wealth according to the ordinance, unto superior Brahmanas and the
+carrier of sacrificial libations. And, O thou of the Dasarha race, it
+behoveth thee, O thou of mighty arms, to grant me permission to celebrate
+a sacrifice along with thee and my younger brothers. Therefore, O
+Govinda, O thou of long arms, install thyself at that sacrifice; for, O
+thou of the Dasarha race, if thou performed the sacrifice, I shall be
+cleansed of sin. Or, O exalted one, grant permission for myself being
+installed at the sacrifice along with these my younger brothers, for
+permitted by thee, O Krishna. I shall be able to enjoy the fruit of an
+excellent sacrifice.
+
+Vaisampayana continued,--“Unto Yudhisthira after he had said this,
+Krishna, extolling his virtues, said.--‘Thou, O tiger among kings,
+deservest imperial dignity. Let, therefore, the great sacrifice be
+performed by thee. And if thou performest that sacrifice an obtainest its
+fruit we all shall regard ourselves as crowned with success. I am always
+engaged in seeking good. Perform thou then the sacrifice thou desirest.
+Employ me also in some office for that purpose, for I should obey all thy
+commands. Yudhisthira replied--O Krishna, my resolve is already crowned
+with fruit, and success also is surely mine, when thou, O Harishikesa,
+hast arrived here agreeably to my wish!’
+
+Vaisampayana continued,--“Commanded by Krishna, the son of Pandu along
+with his brothers set himself upon collecting the materials for the
+performance of the Rajasuya sacrifice. And that chastiser of all foes,
+the son of Pandu, then commanded Sahadeva that foremost of all warriors
+and all ministers also, saying,--Let persons be appointed to collect
+without loss of time, all those article
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0393 | next_story_id: DKS_0395
+previous title: Narada Announces the Rajasuya
+next title: The Pandavas Conquer the Directions

@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0436",
+ "title": "Krishna Departs as Dhritarashtra Pleads Powerlessness",
+ "subtitle": null,
+ "story": "Krishna had come to the Kuru capital to make peace between the Pandavas and their cousins, and the court had answered him with a plot to seize him — a plot he had met by showing them who he truly was. Now he rose from the assembly, and no one moved to stop him.\n\nWith Satyaki on one side and Kritavarman, son of Hridika, on the other, and with the leave of the sages, Krishna walked out of the Kuru court. During the uproar that followed his going, the sages — Narada among them — vanished, each returning to his own place, as though one such wonder were enough for one world in one day.\n\nDhritarashtra's sons and all the kings rose and followed him, like the gods following Indra. But Krishna gave them not a single thought. He went out of the court like a blazing fire trailed by smoke, and the mail-clad ranks of Kritavarman closed behind him. He walked unhurried, and the kings who streamed after him kept a careful distance, none of them willing to come near the fire that had just left the hall.\n\nAt the gate waited his charioteer Daruka with the great white car: hung with rows of tinkling bells, decked with golden ornaments, swift beyond most, its wheels rumbling like distant clouds, covered all over with white tiger-skins, and harnessed with the horses Saivya and her fellows. The car stood ready, as though its master's going had been expected from the beginning — the horses shifting, the bells chiming softly as the kings pressed out behind him. There too, mounted on his own car, waited Kritavarman, favourite hero of the Vrishnis, a mighty warrior of the chariot.\n\nKrishna was about to depart when king Dhritarashtra spoke to him once more.\n\n\"Krishna,\" the blind king said, \"you have seen the power I hold over my sons. You have witnessed everything with your own eyes; nothing is unknown to you now. Seeing me strive for peace between the Kurus and the Pandavas, and knowing the state I am in, do not suspect me. I carry no ill will toward the Pandavas. You know the words I spoke to Duryodhana. The Kurus and all the kings of the earth know that I made every effort to bring about peace.\"\n\nIt was a plea, and everyone heard it as one — the plea of a father who had watched his son defy the entire assembly, watched the universe itself blaze out of the guest he had failed to protect, and who could offer in his own defence nothing but the record of his good intentions. The blind king had seen nothing with his own eyes. He had heard of wonders, and heard of his son's folly. The power he confessed to Krishna was real — and it was precisely this: that he had none.\n\nKrishna turned to Dhritarashtra, and to Drona, the aged teacher of the Kurus, and to grandsire Bhishma, and to wise Vidura, and to the elders Vahlika and Kripa. \"You have yourselves witnessed all that happened in this assembly of the Kurus,\" he said, \"how Duryodhana left the court in anger like a man without sense, and how king Dhritarashtra calls himself powerless. With the permission of you all, I shall now go back to Yudhishthira.\"\n\nHe saluted them and mounted his car. And as he drove away from Hastinapura, the message he carried was not the peace he had come to arrange, but the report of what the Kurus had chosen. The chariot gathered speed, the white tiger-skins streaming behind, and the city of the Kurus fell away. Behind him, at the door of his court, stood the blind king — who had witnessed everything and prevented nothing.\n\nThe war was no longer a question. It was only a matter of travel.",
+ "reflection": "Dhritarashtra's final protest is the story of his whole reign in miniature: he has witnessed everything and prevented nothing, and in the end can only plead that his intentions were good. Krishna does not accuse him of ill will — he simply confirms what the blind king himself has admitted, that he is powerless — and leaves carrying the truth of what was chosen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Dhritarashtra",
+  "Bhishma",
+  "Drona",
+  "Vidura"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "departure",
+  "witness",
+  "helplessness"
+ ],
+ "previous_story_id": "DKS_0435",
+ "next_story_id": "DKS_0437",
+ "next_story_tease": "The journey back to the Pandavas carried another voice as well: Kunti's words, kept for years, would soon find their way to her sons.",
+ "hero_scene": "Krishna walks out of the Kuru court arm-in-arm with Satyaki and Kritavarman, past the mail-clad ranks, toward Daruka's white chariot with its tiger-skin cover and tinkling bells, while the Kaurava kings follow at a distance like gods following Indra.",
+ "visual_elements": [
+  "Krishna leaving the assembly arm-in-arm with Satyaki and Kritavarman",
+  "the Rishis vanishing, repairing each to his own place",
+  "the Kaurava kings following Krishna like the gods following Indra",
+  "Daruka waiting with the great white car, bells tinkling, wheels rumbling like clouds",
+  "Kritavarman mounted on his own car",
+  "blind Dhritarashtra pleading at the door as Krishna mounts his chariot"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.131",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:19Z",
+  "source_event_id": "evt_0443",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

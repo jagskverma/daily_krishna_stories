@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0038",
+ "title": "The Cowherds Decide to Migrate to Vrindavan",
+ "subtitle": null,
+ "story": "In the cowherd village of Gokula, one strange danger after another had fallen on the children — and, again and again, on one child above all. That child was Krishna, the small son of Nanda, the chief of the cowherds. Each time danger came at him, he came through unharmed, and the more often he was saved, the less the village liked it. What they had been calling good fortune was beginning to look like a warning.\n\nThe elder Upananda — the oldest of the cowherds, and the one whose judgment the rest trusted — had watched the recent days with growing unease. At last he called the men of the settlement together. Nanda stood at their head, the others gathered round him, and Upananda spoke plainly.\n\nWe who wish Gokula well, he said, must leave this place.\n\nThen he set out before them, one by one, what they had all seen with their own eyes. A demoness in a woman's shape had come among them meaning to kill the children, and she had died that same night, while the child she had come to destroy was unharmed. A whirlwind had caught the boy up and carried him into the sky — and brought him down alive. The waggon he had lain beneath as a baby had been overturned by a kick of his foot, its pots and pans flung across the ground. And he had been caught between the two great falling trees, and he had not died.\n\nSet out in a row like that, the pattern could not be mistaken: everything that came near the child was broken or undone, and the child remained. Some of the cowherds called it fortune. Upananda called it an omen.\n\nBefore another evil omen falls upon Vraja, he told them, we should go. And there is a place to go: a forest called Vrindavana, fresh and green, with pasture the cattle have never grazed and grass that has never been cropped — new ground, where the omens of Gokula would have no hold. Yoke the carts, he said. Let us go at once, and do not delay.\n\nThe cowherds listened, and not one of them argued. One after another they nodded, and the word went round: well said, well said. They had seen too much to shrug off the old man's fears, and the thought of a new forest, thick with fresh grass and safe for the herds, came as a relief after the days they had just lived through.\n\nSo the order was given, and the settlement began to move. The carts were yoked and loaded; the old men climbed up, and the children were lifted in after them; the women gathered what each household would need and left the rest behind, for a village, once moved, does not send back for what it left. Every family called in its cattle, and the herds stirred and lowed along the track.\n\nIt was no small thing, to uproot a village, but the cowherds did it in a single day and in a single mind. The elders led, the carts followed, the herds came behind, and the whole of Gokula rolled out along the road to Vrindavana — away from the omens, toward the deep grass by the river, where everyone hoped the danger had not yet found them.",
+ "reflection": "Upananda's wisdom is practical and communal: he does not claim to understand the wonders, only to see that they have become omens, and that the right answer to a sign one cannot read is to move the whole community out of its path.",
+ "tradition_note": "The Vishnu Purana attributes the decision to the elders with Nanda at their head, alarmed by Putana's death, the overturned waggon and the trees; the Bhagavata has Upananda speak of the omens. Both agree on the departure for Vrindavana.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Upananda",
+  "Nanda",
+  "Cowherds"
+ ],
+ "locations": [
+  "Gokula",
+  "Vrindavan"
+ ],
+ "themes": [
+  "prudence",
+  "community"
+ ],
+ "previous_story_id": "DKS_0037",
+ "next_story_id": "DKS_0039",
+ "next_story_tease": null,
+ "hero_scene": "The elder Upananda addresses a gathered circle of cowherds and their families, carts being yoked and cattle stirring behind them as the whole settlement of Gokula makes ready to move.",
+ "visual_elements": [
+  "elder Upananda speaking",
+  "Nanda among the gathered cowherds",
+  "ox-carts being yoked",
+  "cattle and families assembling",
+  "the Gokula settlement",
+  "mood of resolute departure"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.11.20-30",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.6",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:21:53+05:30",
+  "source_event_id": "evt_0053",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

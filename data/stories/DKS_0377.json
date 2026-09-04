@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0377",
+ "title": "A Promise for a Weeping Queen",
+ "subtitle": "What Krishna swore to Draupadi in the Kamyaka forest",
+ "story": "Some sorrows cannot be answered with plans for war. In the Kamyaka forest, while the gathered kinsmen talked of vengeance, Draupadi sat apart and wept.\n\nHer husbands — the five Pandava brothers — had lost everything at dice: kingdom, wealth, dignity — and were living as exiles in the great forest, far from everything they had known. All morning the clearing had been full of their friends, come from near and far with hearts hot with anger against the sons of Dhritarashtra: the Bhojas, the Vrishnis and the Andhakas, the relatives of Panchala, the king of Chedi, the Kaikeya brothers. They had sat in a wide ring around Yudhishthira, and Krishna, their cousin and their friend, at their head, had sworn that the earth would drink the blood of the men who had wronged them, and that Yudhishthira would sit on the throne again. But that was talk of battles still to come, and it is cold comfort to a woman who has already lost. She was the princess of Panchala, the wife of the five brothers, and she had tasted enough of the Kauravas’ cruelty to know that vows are cheap until they are kept. Her anger had names: Duryodhana and his brother Dussasana, Karna their ally, Sakuni the master of the loaded dice. And each of them sat safely in Hastinapura, the Kuru capital, while she wept on the forest grass.\n\nKrishna saw her tears, and he did not offer her patience, and he did not offer her philosophy. He spoke to the weeping queen, and his words were a promise laid against the future like a stone.\n\n“Fair lady,” he said, “the wives of those with whom you are angry shall weep even as you weep now, when they see their husbands lying dead on the ground. And I promise you this: you shall once more be the queen of kings. The heavens might fall, or the Himalaya split apart, the earth might be rent, or the waters of the ocean might dry up — but my words shall never prove empty.”\n\nFor a moment the forest seemed to hold its breath. It was an odd comfort to offer a woman wronged before a court: not “bear it patiently,” but “they will weep as you weep now, and you will sit on a throne again.” Krishna did not soften the wrong, nor blur the memory of it; he swore it would be answered, measure for measure, and he staked the order of nature itself on his word. And this, everyone could hear, was not the speech of a man soothing a woman — it was a king giving his word before witnesses.\n\nThe weeping Draupadi heard him, and her tears slowed on her face. Those who knew Krishna knew that his word, once given, was firmer than the ground under their feet; even Arjuna, standing among the allies, said nothing, for there was nothing to add to a vow that had taken the sky for its surety. In the evening the talk in the camp turned from grief to plans — of armies and alliances, and of the war that waited at the end of the thirteen years. But those who had heard Krishna’s words to Draupadi carried something else away with them: the memory of a queen weeping in exile, and the man who had promised her a throne, with the fall of heaven as the only price of his failing. And she, for her part, began that evening to believe it — for she knew, as everyone there knew, that Krishna had never in his life spoken a word that the world had not, in the end, been forced to keep.",
+ "reflection": "Krishna does not tell Draupadi to be patient or to forget. He answers grief with a counter-vow, matching the wrong done to her with a future so certain that he stakes the order of nature on it — heaven falling, oceans drying up — before he will let his word fail. Consolation here is not softness; it is the same iron promise that will later be kept on the battlefield.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Draupadi",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "promise",
+  "consolation",
+  "vindication"
+ ],
+ "previous_story_id": "DKS_0376",
+ "next_story_id": "DKS_0378",
+ "next_story_tease": "Then Krishna turned to Yudhishthira with a confession that had been burning in him since Dwaraka.",
+ "hero_scene": "The weeping Draupadi seated apart in the forest clearing while Krishna, standing before her, makes his vow with one hand raised — the gathered kings and allies dim behind them, and evening light slanting through the trees.",
+ "visual_elements": [
+  "Draupadi weeping, seated apart from the gathering",
+  "Krishna standing before her, hand raised in vow",
+  "the circle of kings and allies dim in the background",
+  "evening light through the forest trees",
+  "the assembly turning from grief to plans at dusk"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:22Z",
+  "source_event_id": "evt_0404",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

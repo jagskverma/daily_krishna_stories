@@ -1,0 +1,37 @@
+# STORY DKS_0034 — Yasoda Binds Krishna to the Mortar
+
+## Index entry
+title: Yasoda Binds Krishna to the Mortar
+summary: Yasoda tries to tie the mischievous Krishna with a rope, but every rope falls short by two fingers, until, moved by her effort, he lets himself be bound.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Yasoda
+locations: Gokula
+themes: surrender, mother's_love
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0048
+variant_notes: HV 1.62 and VP 5.6 fold this binding into the uprooting episode (see 'uproot_trees').
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 9 | verses 11-20 | confidence 5
+  excerpt: However much rope Yasoda joins, it is always two fingers too short to bind him; seeing her toil and sweat, Krishna of his own grace submits and is bound to the mortar. (rendered from Sanskrit, verse 11-20)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.9 (11-20)
+11. tyaktvā yaṣṭiṃ sutaṃ bhītaṃ vijñāyārbhaka-vatsalā /
+12. na cāntar na bahir yasya na pūrvaṃ nāpi cāparam /
+13. taṃ matvātmajam avyaktaṃ martya-liṅgam adhokṣajam /
+14. tad dāma badhyamānasya svārbhakasya kṛtāgasaḥ /
+15. yadāsīt tad api nyūnaṃ tenānyad api sandadhe /
+16. evaṃ sva-geha-dāmāni yaśodā sandadhaty api /
+17. sva-mātuḥ svinna-gātrāyā visrasta-kabara-srajaḥ /
+18. evaṃ sandarśitā hy aṅga hariṇā bhṛtya-vaśyatā /
+19. nemaṃ viriñco na bhavo na śrīr apy aṅga-saṃśrayā /
+20. nāyaṃ sukhāpo bhagavān dehināṃ gopikā-sutaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0033 | next_story_id: DKS_0035
+previous title: Krishna Breaks the Butter Pot
+next title: Krishna Uproots the Twin Arjuna Trees (Named Damodara)

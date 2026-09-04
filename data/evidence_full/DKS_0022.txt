@@ -1,0 +1,39 @@
+# STORY DKS_0022 — Vasudeva Warns Nanda of Danger in Gokula
+
+## Index entry
+title: Vasudeva Warns Nanda of Danger in Gokula
+summary: Vasudeva affectionately inquires after his sons and urges Nanda to return quickly to Gokula, for evil omens are gathering there.
+life_stage: gokul | story_arc: krishna_reaches_gokul
+characters: Vasudeva, Nanda
+locations: Mathura, Gokula
+themes: forewarning, protection
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0036
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 5 | verses 21-32 | confidence 5
+  excerpt: Vasudeva, anxious for the two boys hidden in Nanda's care, tells him not to linger, for great disturbances are rising in Gokula; Nanda and his men hasten back with their carts. (rendered from Sanskrit, verse 21-32)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.5 (21-32)
+21. pūjitaḥ sukham āsīnaḥ pṛṣṭvānāmayam ādṛtaḥ /
+22. diṣṭyā bhrātaḥ pravayasa idānīm aprajasya te /
+23. diṣṭyā saṃsāra-cakre 'smin vartamānaḥ punar-bhavaḥ /
+24. naikatra priya-saṃvāsaḥ suhṛdāṃ citra-karmaṇām /
+25. kaccit paśavyaṃ nirujaṃ bhūry-ambu-tṛṇa-vīrudham /
+26. bhrātar mama sutaḥ kaccin mātrā saha bhavad-vraje /
+27. puṃsas tri-vargo vihitaḥ suhṛdo hy anubhāvitaḥ /
+28. bhp_10.05.029/0 śrī-nanda uvāca
+29. nūnaṃ hy adṛṣṭa-niṣṭho 'yam adṛṣṭa-paramo janaḥ /
+30. bhp_10.05.031/0 śrī-vasudeva uvāca
+31. bhp_10.05.032/0 śrī-śuka uvāca
+32. bhp_10.06.001/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0021 | next_story_id: DKS_0023
+previous title: Nanda Visits Mathura and Meets Vasudeva
+next title: Putana Enters Gokula Disguised as a Woman

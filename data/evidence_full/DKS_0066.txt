@@ -1,0 +1,31 @@
+# STORY DKS_0066 — Krishna Slays Shankhachuda and Takes the Jewel
+
+## Index entry
+title: Krishna Slays Shankhachuda and Takes the Jewel
+summary: Krishna overtakes the demon, strikes him dead and gives the crest-jewel to Balarama.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Balarama, Shankhachuda
+locations: Vrindavan forest
+themes: victory, gift
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0108
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 34 | verses 28-31 | confidence 5
+  excerpt: Krishna overtook the fleeing demon, struck his head with his fist and took the bright jewel from his crest, and gave it to his elder brother Balarama while the women looked on. (rendered from Sanskrit, verses 29-31)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.34 (28-31)
+28. sa vīkṣya tāv anuprāptau kāla-mṛtyū ivodvijan /
+29. tam anvadhāvad govindo yatra yatra sa dhāvati /
+30. avidūra ivābhyetya śiras tasya durātmanaḥ /
+31. śaṅkhacūḍaṃ nihatyaivaṃ maṇim ādāya bhāsvaram /
+
+## Corpus chain
+previous_story_id: DKS_0065 | next_story_id: DKS_0067
+previous title: Shankhachuda Abducts the Gopis
+next title: Krishna Slays the Bull-Demon Arishta

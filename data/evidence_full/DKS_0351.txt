@@ -1,0 +1,29 @@
+# STORY DKS_0351 — Krishna Defeats the Besieging Kings and Demons || Uddhava recalls how Krishna destroyed the hosts of Kala, Magadha (Jarasandha) and Shalva that besieged Dwaraka, and slew Shambara, Dvivida, Bana, Mura, Balvala, Dantavakra and others.
+
+## Index entry
+title: Krishna Defeats the Besieging Kings and Demons || Uddhava recalls how Krishna destroyed the hosts of Kala, Magadha (Jarasandha) and Shalva that besieged Dwaraka, and slew Shambara, Dvivida, Bana, Mura, Balvala, Dantavakra and others.
+summary: Uddhava recalls how Krishna destroyed the hosts of Kala, Magadha (Jarasandha) and Shalva that besieged Dwaraka, and slew Shambara, Dvivida, Bana, Mura, Balvala, Dantavakra and others.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Krishna, Jarasandha, Shalva, Bana, Mura, Dantavakra
+locations: Dwaraka, the surrounding battlefields
+themes: defence of the city, demon-slaying, valour
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0284
+variant_notes: Recall bundling many battles (Kala, Magadha, Shalva, Shambara, Dvivida, Bana, Mura, Balvala, Dantavakra).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 9-10 | confidence 5
+  excerpt: Uddhava said: 'The hosts of Kala, Magadha and Shalva that besieged the city he slew; Shambara, Dvivida, Bana, Mura and Balvala, and others like Dantavakra, he killed, or had killed.' (rendered from Sanskrit, verses 9-10)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (9-10)
+9. kāla-māgadha-śālvādīn anīkai rundhataḥ puram /
+10. śambaraṃ dvividaṃ bāṇaṃ muraṃ balvalam eva ca /
+
+## Corpus chain
+previous_story_id: DKS_0350 | next_story_id: DKS_0352
+previous title: Balarama Marries Revati
+next title: Balarama Revisits Vraja

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0171",
+ "title": "A Divine Chariot and Weapons Descend for Krishna",
+ "subtitle": null,
+ "story": "From the walls of Mathura, the horizon had vanished. Where fields and woodlands had lain, there now stretched an army: the twenty-three divisions of King Jarasandha of Magadha, camped in rings around the city, so many men, horses, chariots and elephants that the plain seemed to heave like a sea overflowing its banks. Jarasandha had come to avenge his son-in-law Kamsa, and he had sworn to leave no Yadava alive beneath the sun.\n\nKrishna stood looking out at it all, and while he looked he reflected. The weight of these warring kings lay heavy on the earth, he thought; this gathering itself was another burden laid upon her. \"I will destroy this force,\" he said within himself, \"this weight that has been heaped upon the earth. It was to remove the earth's burden that I came down; and for the protection of dharma, another form of mine is ever maintained.\"\n\nAnd as he thought this, the sky answered him.\n\nOut of the empty air above Mathura two chariots descended, bright as the sun itself. Each had its driver at the reins, and each carried the ancient divine weapons of a warrior — bows, quivers, maces, armor, things old beyond memory yet gleaming as though made that morning. No one had sent them and no one had summoned them. They came of their own accord, sinking out of the light like the answer to a question not yet spoken aloud, and came to rest before the two brothers.\n\nKrishna turned to Balarama. \"Look, Arya,\" he said. \"Calamity has come upon the Yadavas, who look to you. It was for this that we two were born — to bring ease to the good.\"\n\nThe brothers armed themselves, and the ancient weapons fitted them as if they had been shaped for them all along. Then the two chariots rolled out through the gates of Mathura, past the citizens who had come running into the streets, and out onto the open ground between the walls and the enemy host.\n\nKrishna's chariot was driven by Daruka, his charioteer. As the wheels cleared the gate, Krishna raised to his lips the great conch at his side and blew it once. The sound rolled across the plain like thunder walking the earth, deep and unhurried, filling the whole space between the city and the camps.\n\nIn the tents of the Magadha king, in the ranks of the allied kings, in the hearts of the soldiers who had come to wipe the Yadavas from the face of the earth, terror entered and took hold. Men looked at one another and did not know why their hands trembled.\n\nTwo chariots stood before the greatest army the age had seen, and the army, for a moment, did not move. The sun stood high over Mathura. The conch's echo went on fading over the fields.\n\nThen the battle began.",
+ "reflection": "The chariots come down of their own accord, at the exact moment Krishna resolves to act — as if heaven had been waiting for his decision. His weighing of the earth's burden is described in wholly human terms, and the divine answer arrives only when the human resolve is complete.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Daruka"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "divine grace",
+  "war",
+  "resolve"
+ ],
+ "previous_story_id": "DKS_0170",
+ "next_story_id": "DKS_0172",
+ "next_story_tease": "Jarasandha's host rolled forward to meet the two chariots, and the greatest battle of the age began.",
+ "hero_scene": "Two sun-bright chariots descending out of the sky over Mathura, their drivers holding ancient divine weapons, while Krishna and Balarama below look up at the falling light; beyond the walls, the vast enemy camp darkens the plain to the horizon.",
+ "visual_elements": [
+  "two sun-bright chariots descending from the sky",
+  "ancient divine weapons",
+  "Krishna and Balarama armed below",
+  "the gates and walls of Mathura",
+  "Jarasandha's vast camp on the plain",
+  "anticipation and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.50.6-15",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:57Z",
+  "source_event_id": "evt_0166"
+ },
+ "editorial_status": "unreviewed"
+}

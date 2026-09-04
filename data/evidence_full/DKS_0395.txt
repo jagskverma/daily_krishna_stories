@@ -1,0 +1,30 @@
+# STORY DKS_0395 — The Pandavas Conquer the Directions
+
+## Index entry
+title: The Pandavas Conquer the Directions
+summary: Yudhishthira sends his four brothers to conquer the four quarters, and they return laden with tribute for the sacrifice.
+life_stage: pandava_period | story_arc: rajasuya_and_sisupala
+characters: Yudhishthira, Sahadeva, Nakula, Arjuna, Bhima
+locations: the four directions
+themes: conquest, tribute, empire
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0378
+variant_notes: Follows the Rajasuya permission; cf. bp10d_007.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 72 | verses 11-13 | confidence 5
+  excerpt: Pleased, Yudhishthira dispatches his brothers on the conquest of the quarters — Sahadeva to the south, Nakula to the west, Arjuna to the north, and Bhima to the east. They vanquish the kings and bring back abundant wealth for the sacrifice. (rendered from Sanskrit, verse 11-13)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.72 (11-13)
+11. bhp_10.72.012/0 śrī-śuka uvāca
+12. sahadevaṃ dakṣiṇasyām ādiśat saha sṛñjayaiḥ /
+13. te vijitya nṛpān vīrā ājahrur digbhya ojasā /
+
+## Corpus chain
+previous_story_id: DKS_0394 | next_story_id: DKS_0396
+previous title: Yudhishthira Requests the Rajasuya and Krishna Approves
+next title: Krishna Receives the First Honor (Arghya) at the Rajasuya

@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0486",
+ "title": "Balarama Tries to Halt the Mace-Duel",
+ "subtitle": null,
+ "story": "The news reached Balarama from the mouths of brahmins — the learned travellers who carried tidings from kingdom to kingdom — telling of the great war at Kurukshetra, where the five Pandava brothers had fought their hundred cousins, the Kauravas, and of the slaughter of the warrior kings. Balarama, Krishna's elder brother, had been journeying through the holy places, and now he listened, and he understood: the burden the earth had carried so long — the weight of kings grown too heavy for the world — was being lifted at last, king by king.\n\nBut one duel remained.\n\nBhima of the Pandavas and Duryodhana of the Kauravas, the two mightiest mace-fighters of their age, had met in their final combat and were beating each other toward death with their iron clubs, the blows ringing out across the field. Balarama set out for Kurukshetra at once, for the slaughter of the kings was done, and he would not see two more lives spent on what was already decided. As he rode, the news was still turning in his mind — the war done, the kings fallen, two champions yet beating each other to death. He drove on with the sound of those iron blows in his ears.\n\nYudhishthira, the eldest of the Pandavas, saw him coming and went to greet him, the twins Nakula and Sahadeva with him, and Krishna and Arjuna. But Balarama had not come for greetings. His eyes were on the centre of the field, where the two champions stood, maces in hand, enraged, each bent on victory — the last two fighters of a war that had consumed the kings of the earth. All around them lay the silence of a finished slaughter; the great armies were gone, the banners down, and only these two still stood, one against the other, settling what the war had not settled.\n\n\"Bhima! Duryodhana!\" he called, and his voice carried across the field. \"The two of you are of equal strength, equal heroes. Neither of you can win this fight. Desist.\"\n\nIt was the counsel of an honest man, and it was the truth. The two were matched so evenly that victory could be claimed by neither; at the end of such a duel, ruin waited for both. Balarama had no stake in the quarrel of the cousins — he had come only to say what any onlooker with clear eyes could see — and the words he flung across the field were meant to save the lives of both of them.\n\nBut the champions did not heed his words. They were bound by enmity, the way kings are bound by the greed of a kingdom; they remembered the insults they had exchanged across the years, and memory held them tighter than any counsel. What Balarama said was reasonable, and neither of them had come to Kurukshetra to be reasonable.\n\nBalarama waited, watching the maces rise and fall, and saw that he could not part them. He was not a man to force his will upon destiny. Accepting what he saw — two champions locked in their duel, deaf to everything but their own hatred — he turned away without another word.\n\nHe returned to Dwaraka, leaving the field to the mace and the men who swung it. Behind him, the maces rose and fell, and the last duel of the war went on without him. He had spoken, and been heard, and refused; there was nothing left for a witness to do but leave the field to the two who had chosen it.",
+ "reflection": "Balarama comes to the last duel as an impartial witness, speaks the truth over the field, and leaves when it is not heard — even the greatest can offer counsel, not compel. The war's ending belongs to the men who chose it and to the hatred that binds them.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Balarama",
+  "Bhima",
+  "Duryodhana",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Kurukshetra",
+  "Dwaraka"
+ ],
+ "themes": [
+  "impartiality",
+  "war",
+  "futility"
+ ],
+ "previous_story_id": "DKS_0485",
+ "next_story_id": "DKS_0487",
+ "next_story_tease": "Only the duel of the maces stood between the field and the end of the war.",
+ "hero_scene": "Balarama stands at the edge of the field, one hand raised, calling to the two mace-wielding champions locked in combat in the centre, while the Pandavas watch and the dust of the duel rises around them.",
+ "visual_elements": [
+  "brahmins telling Balarama the news of the war",
+  "Balarama arriving at Kurukshetra as the Pandavas greet him",
+  "Bhima and Duryodhana locked in combat, maces raised",
+  "Balarama calling to the champions to desist",
+  "the two champions ignoring his words, bound by enmity",
+  "Balarama turning away and departing for Dwaraka"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.79.21-28",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:14:29Z",
+  "source_event_id": "evt_0411",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

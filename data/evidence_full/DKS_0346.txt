@@ -1,0 +1,142 @@
+# STORY DKS_0346 — Krishna Severs Bana's Thousand Arms and Spares Him
+
+## Index entry
+title: Krishna Severs Bana's Thousand Arms and Spares Him
+summary: Krishna severs Bana's thousand arms with his discus; Shiva intercedes, and Krishna spares Bana with four arms remaining.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Bana, Shiva, Prahrada
+locations: Shonitapura
+themes: mercy, devotion, honor
+festival_tags: 
+age_sensitivity: mild_violence | notes: Bana's subsequent dance and Mahakala boon (hv_b2_074) is a distinct beat. | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0227
+variant_notes: Arms remaining varies: four (BP) vs two (Harivamsha/VP). Shiva intercedes in all.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 63 | verses 20-48 | confidence 5
+  excerpt: Krishna cut off Bana's thousand arms with his discus as if pruning branches; Shiva pleaded for his devotee, and Krishna, honoring the boon given to Prahrada, spared Bana, leaving him four arms and freedom from fear. (rendered from Sanskrit, verses 20-48)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 275 | verses  | confidence 4
+  excerpt: taking up that wonderful discus... discharged it and cut off Vāna's arms... Gradually cutting off Vāna's thousand arms and making him the owner of only two the Sudarshana discus returned into Krishna's hands
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 33 | verses  | confidence 4
+  excerpt: The discus... lopped off successively the numerous arms of the Asura... 'Since you, Śankara, have given a boon unto Báňa, let him live: from respect to your promises, my discus is arrested.'
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.63 (20-48)
+20. tatas tiryaṅ-mukho nagnām anirīkṣan gadāgrajaḥ /
+21. vidrāvite bhūta-gaṇe jvaras tu trī-śirās trī-pāt /
+22. atha nārāyaṇaḥ devaḥ taṃ dṛṣṭvā vyasṛjaj jvaram /
+23. māheśvaraḥ samākrandan vaiṣṇavena balārditaḥ /
+24. bhp_10.63.025/0 jvara uvāca
+25. kālo daivaṃ karma jīvaḥ svabhāvo dravyaṃ kṣetraṃ prāṇa ātmā vikāraḥ /
+26. nānā-bhāvair līlayaivopapannair devān sādhūn loka-setūn bibharṣi /
+27. tapto 'ham te tejasā duḥsahena śāntogreṇāty-ulbaṇena jvareṇa /
+28. bhp_10.63.029/0 śrī-bhagavān uvāca
+29. ity ukto 'cyutam ānamya gato māheśvaro jvaraḥ /
+30. tato bāhu-sahasreṇa nānāyudha-dharo 'suraḥ /
+31. tasyāsyato 'strāṇy asakṛc cakreṇa kṣura-neminā /
+32. bāhuṣu chidyamāneṣu bāṇasya bhagavān bhavaḥ /
+33. bhp_10.63.034/0 śrī-rudra uvāca
+34. nābhir nabho 'gnir mukham ambu reto $ dyauḥ śīrṣam āśāḥ śrutir aṅghrir urvī &amp;candro mano yasya dṛg arka ātmā % ahaṃ samudro jaṭharaṃ bhujendraḥ
+35. romāṇi yasyauṣadhayo 'mbu-vāhāḥ $ keśā viriñco dhiṣaṇā visargaḥ &romāṇi yasyauṣadhayo 'mbu-vāhāḥ $ keśā viriñco dhiṣaṇā visargaḥ &prajā-patir hṛdayaṃ yasya dharmaḥ % sa vai bhavān puruṣo loka-kalpaḥ
+36. tavāvatāro 'yam akuṇṭha-dhāman dharmasya guptyai jagato hitāya /
+37. tvam eka ādyaḥ puruṣo 'dvitīyas turyaḥ sva-dṛg dhetur ahetur īśaḥ /
+38. yathaiva sūryaḥ pihitaś chāyayā svayā $ chāyāṃ ca rūpāṇi ca sañcakāsti &amp;evaṃ guṇenāpihito guṇāṃs tvam % ātma-pradīpo guṇinaś ca bhūman
+39. yan-māyā-mohita-dhiyaḥ putra-dāra-gṛhādiṣu /
+40. deva-dattam imaṃ labdhvā nṛ-lokam ajitendriyaḥ /
+41. yas tvāṃ visṛjate martya ātmānaṃ priyam īśvaram /
+42. ahaṃ brahmātha vibudhā munayaś cāmalāśayāḥ /
+43. taṃ tvā jagat-sthity-udayānta-hetuṃ $ samaṃ prasāntaṃ suhṛd-ātma-daivam &amp;ananyam ekaṃ jagad-ātma-ketaṃ % bhavāpavargāya bhajāma devam
+44. ayaṃ mameṣṭo dayito 'nuvartī mayābhayaṃ dattam amuṣya deva /
+45. bhp_10.63.046/0 śrī-bhagavān uvāca
+46. avadhyo 'yaṃ mamāpy eṣa vairocani-suto 'suraḥ /
+47. darpopaśamanāyāsya pravṛkṇā bāhavo mayā /
+48. catvāro 'sya bhujāḥ śiṣṭā bhaviṣyaty ajarāmaraḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.275 ()
+TITLE: THE BATTLE BETWEEN VANA AND KRISHNA
+
+Beholding Vāna issue out and stand for battle Krishna too rode Garuda
+and went towards Wāna. Beholding the Yadu king Krishna, of incomparable
+energy, the rider of Garuda, approach and stand in the west Vāna was
+filled with anger and said to Vāsudeva:—"Wait! Wait! You will not escape
+from me to-day alive to Dwarakā and see your friends there. O Mādhava,
+you have been urged on by Death. Therefore vanquished by me in battle,
+you will, on the eve of your death, see the golden leaves of the trees.
+O Garudhwaja, being of eight arms how you will be able to fight with me
+who have a thousand arms? Slain with all your friends by me in the city
+of Shonita you will remember Dwārakā. You will see to-day my thousand
+arms, adorned with various weapons and ornaments, multiply into a
+million" (36-44).
+
+While Vāna was thus roaring his words as if travelled all over like the
+dreadful waves of an ocean raised by the wind. As if desirous of
+consuming the world the eyes of that highly powerful Asura, filled with
+anger, shone like two suns rising in the firmament. Hearing those proud
+words of Vāna Nārada so laughed aloud that as if the sky was sundered in
+twain. Seated on a Yoga seat that ascetic, filled with curiosity, moved
+about on all sides for seeing the battle (45-48).
+
+Krishna said:—"O Vāna, why are you roaring thus out of foolishness? The
+heroes do not vaunt thus. What is the use of vaunting? Come and fight
+with me in the battle field. O son of Diti, you have given vent to many
+unconnected words. If by words victory is accomplished in a battle, you
+would have been no doubt victorious. Come O Vāna; either defeat me or
+vanquished by me lie down on earth for good with your face down." Saying
+this Krishna struck Vāna with arrows cutting him to the quick. Thus
+mangled in that dreadful encounter by Krishna with arrows cutting to the
+very vitals Vāna, with great care, covered Krishna with burning arrows.
+With Parighas, Nisthringsas, clubs, Tomaras, Saktis, maces and Pattishas
+he completely covered Keshava. Proud Vāna, having a thousand arms,
+easily fought in the battle-field with two-armed Keshava. Although
+having eight-arms Keshava, the holder of conch-shell, discus and club,
+fought with thousand-armed Vāna in that battle. Then beholding Krishna’s
+superior training Bali’s son was greatly worked up with anger. He then
+discharged that celestial great weapon destructive of all enemies which
+Brahmā, by his ascetic powers, had formerly created for Hiranyakashipu.
+When that weapon was shot off all the quarters were enshrouded with
+darkness and thousands of dreadful omens were seen on all sides. When
+all the worlds were covered with darkness every thing was beyond the
+range of perception (49-59). The Dānavas applauded Wāna, saying "Well
+done! Well done!" and words of exclamations by the gods as "Alas!" were
+heard (90). A dreadful downpour of burning arrows was caused by the
+power and force of that weapon (61). When that weapon was discharged by
+Vāna and Keshava was being burnt, wind, storm or clouds did not move
+(62). When the divine slayer of Madhu took up Indra’s weapon like unto
+inevitable death in the battle-field all the worlds were shorn of
+darkness, the fire was extinguished and the Dānavas completely lost
+their hearts. Seeing the Dānava weapon counteracted as soon as Indra’s
+weapon was got ready the gods began to laugh and roar like lions
+(63–65).
+
+Beholding his weapon thus counteracted Diti’s son Vāna was beside
+himself with rage, said harsh words to Keshava who was on Garuda and
+covered him with maces and Pattiças. Keshava, the slayer of his enemies,
+however soon counteracted similingly his uplifted weapon. In that great
+battle with arrows, like unto thunderbolts, shot off his Srānga bow
+Keshava sundered Vāna’s car, with horses and standards, into pieces. The
+very next moment the highly powerful Keshava separated from Vāna’s
+person his highly lustrous crown, coat of mail, bow and shield. And
+smilingly he struck him on the breast with winged arrows. Cut to the
+very quick Vāna lost his consciousness and swooned away. Seeing Vāna
+thus struck and swoon away Nārada, who was sitting on the highest top of
+the palace, rose up with clapping and said "O great fortune! Great
+fortune, blessed is my life and birth since I have witnessed today this
+wonderful prowess of Dāmodara. O thou of large arms, O thou adored by
+the gods, do thou accomplish that for which thou hast incarnated
+thyself. Destroy soon Diti’s son Vāna." Having thus sung the glories of
+the Lord Krishna and emblazoned the battle-field with sharpened arrows
+he moved about in the battle-field (66–76).
+
+In that battle their standards, encountering each other, fought; so did
+the horses of the Devas and Dānavas. When Garuda and the peacock fought
+they struck each other with wings, beaks and talons. Thereupon leaping
+up in anger the highly powerful son of Vinatā speedily caught hold of
+the peacock’s head with his beaks and struck him wi
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0345 | next_story_id: DKS_0347
+previous title: Krishna Stupefies Shiva and Puts Skanda to Flight
+next title: Aniruddha and Usha Are Freed

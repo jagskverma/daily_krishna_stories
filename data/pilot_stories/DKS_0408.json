@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0408",
+ "title": "Krishna Protects Draupadi with Endless Robes",
+ "subtitle": null,
+ "story": "Before the whole court of Hastinapura, Dussasana pulled at the queen's garment — and Draupadi, alone in that crowded hall, called on the one name that was left to her. She called on Krishna.\n\nThis was why she stood there. Her husband Yudhishthira, eldest of the five Pandava brothers, had lost a game of dice to his cousins the Kauravas. He had staked his kingdom and lost it, staked his brothers and lost them, staked himself — and finally, with nothing left to wager, he had staked her. The kings and elders of the court had watched it all and said nothing. Only Vidura, the wise uncle of the house, had warned that the Kurus were calling ruin down on their own heads, and his warning had been brushed aside.\n\nA messenger had come for her earlier, going in fear of his life — the old tale says he crept in like a dog into a lion's den — to tell her that she had been won at dice. Draupadi had answered with a question no one in the court could answer: when her husband had nothing left, had he lost himself first, or her? A man who no longer owns himself cannot stake his wife. The question was carried into the hall, and Yudhishthira sat there like a man demented and said neither yes nor no, and his silence hung over the assembly like a judgment.\n\nNow Dussasana, Duryodhana's younger brother, had laid his hands on her garment and was pulling, trying to strip her of her honour before the eyes of the whole hall. The elders looked away. The fathers and grandfathers of the house sat with lowered eyes, and not one of them rose. And Draupadi raised her voice and called out to Krishna, pouring out her heart to the one who had never failed her.\n\nAnd Krishna heard her. The old telling is plain about it: hearing her words, he was deeply moved, and leaving his seat, he came to her there out of compassion. He did not thunder down from the sky or break the doors in. He came the way mercy comes.\n\nThen something the hall could not explain began to happen. Dharma — righteousness itself, the unseen law of what is right — was present in that hall, and it covered her. As each garment was pulled away, another of the same kind appeared in its place, covering her again. One after another the robes came, of many bright colours, without end — hundreds upon hundreds — so that however long Dussasana pulled, Draupadi stayed covered. The harder he pulled, the more the cloth came, as if the fabric itself had set its mind to keeping her safe. Her honour could not be torn from her.\n\nAt last Dussasana, spent and disgraced, let go and fell back, sinking among the very robes he had tried to tear from her, and the great heap of cloth stood there like a witness against him. Draupadi stood unharmed, wrapped in a garment that was not cloth so much as the answer to a cry for help. The court sat stunned before a proof it had refused to believe.\n\nThe one who had answered her showed no face and spoke no word. But every robe that came was itself a word, and together they said plainly what no one in that hall had been willing to say: Draupadi had called on Krishna, and she was not alone.",
+ "reflection": "The text does not say Krishna struck anyone or even raised his voice; it says he was moved, and that the unseen Dharma covered her. The miracle is a quiet one — not a display of power but an answer to a call, given so that honour and dignity could not be torn away.",
+ "tradition_note": null,
+ "content_note": "Describes the attempted public humiliation of Draupadi, whose garment is seized before the assembly; the scene is handled with restraint, and she is protected.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "draupadi_honour",
+ "characters": [
+  "Krishna",
+  "Draupadi",
+  "Dussasana",
+  "Dharma"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "divine-protection",
+  "miracle",
+  "honour",
+  "compassion"
+ ],
+ "previous_story_id": "DKS_0398",
+ "next_story_id": "DKS_0441",
+ "next_story_tease": null,
+ "hero_scene": "Draupadi standing in the crowded Kuru assembly, calling out to Krishna as Dussasana pulls at her garment, while robe after robe of many hues appears around her, covering her again and again, the elders looking on in silence.",
+ "visual_elements": [
+  "Draupadi calling out with raised hands",
+  "Dussasana pulling at her garment",
+  "endless many-hued robes appearing one after another",
+  "the unseen presence of Dharma",
+  "the silent elders of the Kuru court",
+  "the growing pile of cloth",
+  "the great assembly hall of Hastinapura",
+  "Draupadi unharmed and dignified"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.66",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:30Z",
+  "source_event_id": "evt_0401",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

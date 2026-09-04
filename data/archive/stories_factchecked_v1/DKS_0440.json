@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0440",
+ "title": "Karna Upon Krishna's Chariot",
+ "subtitle": null,
+ "story": "The court of Hastinapura watched Krishna take Karna onto his chariot, and the wonder of it followed him out of the city.\n\nHe had come to the Kuru capital as a messenger of peace, and the embassy had failed: Duryodhana had refused every word that Krishna and the Rishis had spoken, and the earth now stood on the edge of war. From Kunti's abode Krishna had carried away a mother's charge to her sons — parting words, a prophecy, a demand that her children live by the prowess of their arms. He had saluted her and walked round her before issuing out of her abode, the mighty-armed Krishna whose gait resembled the majestic gait of the lion. Now, at the edge of the royal quarter, he dismissed the chiefs of the Kurus, with Bhishma at their head, who had followed him through the city. Then he took Karna upon his chariot, called Satyaki to his side, and drove out through the gates.\n\nAfter he had departed, the Kurus gathered and talked among themselves of that highly wonderful and marvellous incident connected with him, and their talk was not of hope. \"Overcome with ignorance,\" they said, \"the whole earth hath been entangled in the meshes of death!\" And they said also, \"Through Duryodhana's folly, all this is doomed to destruction.\"\n\nOn the road, Krishna and Karna spoke together at length. What passed between them on that stretch of dusty ground is not set down in this telling; the source records only that the foremost of persons proceeded, deliberating with Karna for a long time, and that the chariot kept pace with the conversation. Krishna had come to Hastinapura carrying a secret about Karna's birth — a secret he had chosen this road to begin telling, and one that would be carried to its end on a later road, when the charioteer's son would learn who he truly was. That revelation, with all it would offer and all it would cost, belongs to another telling; here, the two men rode side by side through the fading day, the one who knew and the one who did not.\n\nFor now, the road itself was the story. When Krishna had said what he had come to say, he dismissed Karna and urged his steeds to greater speed. Daruka held the reins, and the swift coursers, endued with the speed of the tempest of the mind, went on as if drinking the skies. They traversed a long way like fleet hawks and reached Upaplavya very soon, bearing the wielder of Saranga — Krishna — back to the camp of the Pandavas, where the brothers waited to hear what peace had come to. The messenger of peace rode in alone, having left behind him the one man of the Kuru side he had chosen to ride beside, and a city that already knew itself doomed.",
+ "reflection": "Krishna leaves Hastinapura with Karna beside him — the one warrior of the Kuru side he treats as a companion rather than a foe — and returns alone, at the speed of the mind, as if the conversation had given him everything and nothing. The Kurus' parting words frame the whole embassy: the earth already entangled in the meshes of death, not by the gods, but by Duryodhana's folly.",
+ "tradition_note": "The fuller account of the private conversation between Krishna and Karna — in which Karna's birth is revealed and the kingdom offered to him — follows in the sequel (Udyoga Parva 5.138–141); the present story follows the compressed reference in 5.137.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Karna",
+  "Satyaki",
+  "Daruka",
+  "Bhishma"
+ ],
+ "locations": [
+  "Hastinapura",
+  "road to Upaplavya"
+ ],
+ "themes": [
+  "journey",
+  "dialogue",
+  "return"
+ ],
+ "previous_story_id": "DKS_0439",
+ "next_story_id": "DKS_0441",
+ "next_story_tease": "But the secret Krishna had begun on that road — the truth of Karna's birth — had yet to be spoken aloud.",
+ "hero_scene": "Krishna's chariot thunders out of Hastinapura with Karna seated beside him and Satyaki behind, the dust of the road rising as Bhishma and the Kuru chiefs stand watching at the city gates.",
+ "visual_elements": [
+  "Krishna's chariot leaving Hastinapura with Karna beside him",
+  "Satyaki seated behind them",
+  "Bhishma and the Kuru chiefs watching from the gates",
+  "Daruka driving the swift horses",
+  "the chariot speeding like fleet hawks toward Upaplavya"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.137",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:58Z",
+  "source_event_id": "evt_0447"
+ },
+ "editorial_status": "unreviewed"
+}

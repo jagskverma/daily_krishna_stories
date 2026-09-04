@@ -1,0 +1,34 @@
+# STORY DKS_0106 — Krishna Teaches About Love
+
+## Index entry
+title: Krishna Teaches About Love
+summary: Krishna answers the gopis' question about why he loves those who love him, explaining the ways of love.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Vrindavan
+themes: love, teaching
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0117
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 32 | verses 15-21 | confidence 5
+  excerpt: When the gopis asked why he loves those who love him, Krishna explained the ways of love, and told them their love for him, which had severed the bonds of home, could never be repaid, but that it returned to them of itself. (rendered from Sanskrit, verses 15-21)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.32 (15-21)
+15. bhp_10.32.016/0 śrī-gopya ūcuḥ
+16. bhp_10.32.017/0 śrī-bhagavān uvāca
+17. bhajanty abhajato ye vai karuṇāḥ pitarau yathā /
+18. bhajato 'pi na vai kecid bhajanty abhajataḥ kutaḥ /
+19. nāhaṃ tu sakhyo bhajato 'pi jantūn bhajāmy amīṣām anuvṛtti-vṛttaye /
+20. evaṃ mad-arthojjhita-loka-veda svānām hi vo mayy anuvṛttaye 'balāḥ /
+21. na pāraye 'haṃ niravadya-saṃyujāṃ sva-sādhu-kṛtyaṃ vibudhāyuṣāpi vaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0105 | next_story_id: DKS_0107
+previous title: Krishna Reappears Among the Gopis
+next title: The Great Rasa Dance

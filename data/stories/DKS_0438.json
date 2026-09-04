@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0438",
+ "title": "Vidula's Rebuke: Rise, O Coward",
+ "subtitle": null,
+ "story": "In Hastinapura, where she lived while her sons camped far away, Kunti — mother of the five Pandavas, whose kingdom had been taken from them — had not finished with Krishna. When he had received her charge for Yudhishthira, her eldest, she drew him into an older story: the tale of a mother who would not let her son lie defeated.\n\n\"In this connection,\" she said, \"they tell an old story of the conversation between Vidula and her son. Carry to Yudhishthira whatever can be gathered from it — or anything more beneficial still.\"\n\nVidula was high-born and far-seeing, a princess known to every king of the earth, a little quick to anger, sharp of tongue, devoted to the warrior's code, and schooled by teachers of many minds. One day she rebuked her own son — who, after his defeat by the king of the Sindhus, lay prostrate, his heart sunk in despair.\n\nHer first words were chosen to cut. \"You are no son of mine,\" she said. \"I did not bear you, nor your father beget you. A man without wrath cannot be counted a man. Do you mean to sink in despair as long as you live? If you care for your own welfare, take your affairs on your own shoulders and do not be satisfied with little. Put away your fears. Rise, coward — do not lie there after your defeat, delighting your enemies and grieving your friends.\"\n\nThen the rebuke turned to proverbs, and the proverbs were fierce. A little stream is soon filled; a mouse's palm holds only a little. A coward is soon gratified with small gains. \"Better to die pulling the fangs of a snake than to die miserable like a dog. Risk your life and show your strength — range the sky like a fearless hawk, or watch your enemies silently for the right hour.\"\n\n\"Why do you lie there like a corpse, like a man struck by thunder? Rise, coward; do not sleep after the enemy has beaten you. Make yourself known by your deeds. Never settle for the middle, the low, or the lowest station. Blaze up like a well-fed fire. Like a brand of tinduka wood, burn bright even for a moment — it is better to blaze than to smoulder forever, a fire without flame.\"\n\nShe spoke of what a royal son owes his race. \"Let no son be born in a royal house who is either all fierceness or all gentleness. Going to the field of battle and achieving every great feat a man can achieve, a brave man clears the debt he owes to the warrior's order. Such a man never disgraces himself. Whether he wins his object or not, a man of sense does not wallow in grief.\"\n\n\"If fall one must, seize the foe by the hips and fall with him. Even with your roots cut off, do not give way to despair. Horses of high mettle strain to the full of their strength at the heaviest loads — remember them, and muster all your courage and honour. Know what your manhood consists of, and lift up the house that has sunk because of you.\"\n\nAnd the naming of what a coward is became almost unbearable. \"A man who has done nothing worth the telling only adds to the number of the living,\" she said. \"He is neither man nor woman. A son whose fame rests on no charity, no penance, no truth, no learning, no wealth is only a burden to the mother who bore him.\" The idle, wretched life of a beggar, worthy only of a coward, was not for him; friends find no joy in a weak man whose very sight delights his enemies.\n\n\"Alas,\" Vidula cried at last, \"exiled from our kingdom, driven from home, robbed of every pleasure, destitute of every resource, we shall perish for want of the very means of life! And you — misbehaving among the good, the destroyer of your own race — in bearing you, Sanjaya, I have brought forth the age of darkness itself in the shape of a son. Do not smoulder. Blaze up, and show your strength.\"\n\nSo the tale ended, and Kunti looked at Krishna. The message for Yudhishthira was plain: a mother's love, when her son has been defeated, may take the shape of a fury that will not let him lie down. If Vidula could speak so of her own Sanjaya, the mother of the Pandavas expected Krishna to repeat every word.",
+ "reflection": "Kunti chooses, as her exemplar for Yudhishthira, a mother shaming her own defeated son — the harshest form of love. Vidula's fury is never cruel for its own sake: every insult is an argument that the son still owes his race the effort of rising, and that the coward's quiet is a kind of death already chosen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti",
+  "Vidula",
+  "Sanjaya"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "courage",
+  "exhortation",
+  "war"
+ ],
+ "previous_story_id": "DKS_0437",
+ "next_story_id": "DKS_0439",
+ "next_story_tease": "Before Krishna left, Kunti had parting words for every one of her sons.",
+ "hero_scene": "Vidula stands over her defeated son Sanjaya, one arm thrust out, commanding him to rise from the ground where he lies prostrate in despair.",
+ "visual_elements": [
+  "Vidula standing over the prostrate Sanjaya",
+  "her outstretched, commanding arm",
+  "the defeated son lying with his face turned away",
+  "the quiet chamber where Kunti tells the tale to Krishna",
+  "the image of the hawk ranging the sky fearlessly"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.133",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:58Z",
+  "source_event_id": "evt_0445",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "DKS_0247",
+  "title": "When Fever Consumed Baladeva",
+  "subtitle": null,
+  "story": "Krishna had marched on Sonitpura, the city of Vana, the thousand-armed demon king, to win back his young grandson whom Vana held prisoner — and Vana's great army had come out to stop him. All day the host had held the field. Now it broke before four fighters moving together like one storm, and the battle showed its true face.\n\nKrishna's elder brother Balarama fought with a plough, and his ploughshare was like a hook: he drew the enemy close and ground them down with his heavy mace, raging as if he meant to swallow the whole field. Krishna's son Pradyumna kept the demons at bay with his arrows. Krishna himself — dark as a storm cloud — blew his conch and fought every way at once, conch, discus and club always in his hands. The great eagle Garuda struck among them too, beating the demons with his wings and tearing at them with beak and claws until he sent them to the realm of Yama, king of the dead. Pounded by that rain of arrows and overpowered by those four, the demon army turned and fled.\n\nSeeing his host routed, one of Shiva's own followers came walking onto the field to protect it: Jvara, the demon of fever. He sighed again and again like a man out of his wits, and his shape was stranger than any demon's — three legs, three heads, six arms, and nine faces. He carried a weapon that consumed whatever it touched. He roared like a thousand storm clouds, and as he came he yawned and nodded, his hair standing on end, his eyes filthy and terrible. He twisted his many faces into something still more terrible and shouted at Balarama: \"Why are you so proud of your strength? Do you not see that I have come to this field? Wait a few moments. You stood against me in this battle — you will not return with your life.\"\n\nSmiling, showing a fist dreadful as the fire that ends a world, Jvara ran at Balarama. But Balarama was too quick: he wheeled in one swift circle after another, and the demon could find no opening. At last, aiming at that body huge as a mountain, Jvara hurled his burning weapon. It struck Balarama on the breast. Then it dropped from his breast and fell on the summit of Mount Sumeru, far beyond the field, and shattered the great mountain into pieces. But a remnant of the fire stayed where it had struck — and it began to consume Krishna's elder brother.\n\nThe warrior who had stood unshaken against whole armies now reeled about the field, sighing and yawning without end, his eyes wide, his hair on end, his senses swimming. Almost losing hold of himself, he cried out: \"Krishna! I am being consumed — I am being consumed completely. How shall I be saved?\"\n\nKrishna smiled. \"No fear,\" he said.\n\nAnd he embraced his brother. At that embrace, at the touch of Krishna, the burning that had begun to eat Balarama went out. He was saved, there in his brother's arms.\n\nThen Krishna turned, angry now, to the demon. \"Jvara,\" he said, \"come and fight with me. Show me the full extent of your strength and power in this battle.\"\n\nThe fever-demon raised his burning weapon again — and the field went still.",
+  "reflection": "The mightiest warrior on that field is not laid low by an army but by fever, something small and formless; and the cure is not a weapon but an embrace. Krishna answers his brother's despair with two words, 'No fear,' and the burning goes out at his touch.",
+  "tradition_note": null,
+  "content_note": "A battle scene in which Balarama is burned by the fever-demon Jvara's consuming weapon before Krishna saves him; described with restraint.",
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 4,
+  "life_stage": "dwaraka",
+  "story_arc": "narakasura_and_gods",
+  "characters": [
+    "Krishna",
+    "Balarama",
+    "Jvara",
+    "Pradyumna",
+    "Garuda"
+  ],
+  "locations": [
+    "Sonitpura battlefield"
+  ],
+  "themes": [
+    "fever-demon",
+    "burning weapon",
+    "brotherly rescue"
+  ],
+  "previous_story_id": "DKS_0246",
+  "next_story_id": "DKS_0248",
+  "next_story_tease": "The fever-demon raised his burning weapon again, and Krishna stepped forward to answer it.",
+  "hero_scene": "Krishna embracing the reeling, fever-consumed Balarama in the middle of the battlefield, the glow of the dying burning weapon on Balarama's breast fading as Garuda and the routed Asuras look on from the distance.",
+  "visual_elements": [
+    "the three-legged, three-headed, six-armed Jvara with nine faces",
+    "the consuming burning weapon falling on Balarama's breast",
+    "Mount Sumeru shattered into pieces",
+    "Balarama reeling, eyes dilated, senses bewildered",
+    "Krishna smiling and embracing his brother",
+    "the burning going out at Krishna's touch",
+    "a mood of dread turning to relief"
+  ],
+  "sources": [
+    {
+      "work": "Harivamsha",
+      "reference": "1.270",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:43:07Z",
+    "source_event_id": "evt_0348",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "major"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

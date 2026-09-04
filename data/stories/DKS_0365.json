@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0365",
+ "title": "Fire, Even Covered, Can Be Known",
+ "subtitle": null,
+ "story": "\"Enjoy it all,\" Kunti called from the inner room, without looking out. Her five sons — princes of the Kuru line living disguised as brahmins since their narrow escape from a house set to burn them — had come home to the potter's house that evening and told their mother they had brought alms that day. Kunti, who had not yet seen her sons, answered as the mother of brahmin boys should when the day's begging comes in: \"Enjoy it all, whatever you have obtained.\"\n\nThe moment after, she saw the alms — and cried out, \"Oh, what have I said?\" For that morning, at the svayamvara of King Drupada, her son Arjuna had strung the bow no king could bend and won the hand of Draupadi, the king's daughter. The brothers had brought the princess home in triumph and, still keeping up their disguise, announced to their mother only that they had \"brought alms.\" Now Kunti saw what the alms was: she had commanded her five sons to enjoy, all together, the daughter of the king of Panchala.\n\nAfraid of the wrong that might follow, Kunti took the cheerful princess by the hand and went to Yudhishthira, her eldest son. \"Your younger brothers told me that the alms they had obtained was the daughter of the king of Panchala,\" she said, \"and in ignorance, my son, I said, 'Enjoy it all.' Tell me how my words may not become a lie, how no sin may touch this princess, and how she may not be troubled.\"\n\nYudhishthira reflected for a moment and consoled his mother. Then he turned to Arjuna. \"By you, Arjuna, the king's daughter was won,\" he said. \"It is proper, then, that you should wed her. Kindle the sacred fire and take her hand with the due rites.\" But Arjuna shook his head. \"King, do not make me share in sin,\" he said. \"What you command does not follow virtue; that is the path the sinful walk. You must wed first, then the strong-armed Bhima, then myself, then Nakula, and last of all Sahadeva. We are all obedient to you — command us as you wish.\"\n\nThe brothers looked at one another, and at Draupadi; and the beauty of the princess of Panchala, fashioned by the Creator himself, entered their hearts, and desire pressed upon their senses. Yudhishthira, watching his younger brothers, understood what was passing in their minds. He remembered the words of the sage Krishna-Dwaipayana — the great seer Vyasa — and, from fear of a division among the brothers, he spoke: \"The auspicious Draupadi shall be the common wife of us all.\"\n\nIt was then that two more visitors came to the potter's house. Krishna, suspecting that the five men he had seen at the svayamvara were none other than the lost princes of the Kuru line, had come with his elder brother Balarama. They entered and found Yudhishthira of the long, strong arms seated at the heart of the room, his younger brothers around him glowing like fire. Krishna went to the eldest, touched the feet of Kunti's son in greeting, and said, \"I am Krishna.\" Balarama did the same. The delight of the five brothers at the sight of their cousins was plain to see; and the two Yadava princes also touched the feet of Kunti, their father's sister.\n\nThen Yudhishthira, gazing at Krishna, asked the question that had been burning in him. \"How, Vasudeva,\" he said, \"did you find us, living as we are in disguise?\"\n\nKrishna smiled. \"Fire, even if it is covered, can be known,\" he said. \"Who else among men but the Pandavas could show such might? Sons of Pandu, by sheer good fortune you escaped that fierce fire; and by sheer good fortune the wicked son of Dhritarashtra and his counselors did not gain their wish. Blessings on you — and grow in prosperity like a fire in a cave, spreading little by little on every side. And now, lest any of the monarchs recognize you, let us return.\"\n\nAnd the two Yadava princes went out again into the evening as quietly as they had come, leaving the potter's house to keep its secret a little longer.",
+ "reflection": "Krishna's answer — that fire, even covered, can be known — cuts both ways. The disguise holds not because the brothers are invisible, but because the people who see through it choose to protect the secret instead of revealing it. Recognition and restraint are both acts of friendship, and the visit ends the moment it might betray them.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Yudhishthira",
+  "Kunti",
+  "Draupadi"
+ ],
+ "locations": [
+  "Panchala",
+  "the potter's house"
+ ],
+ "themes": [
+  "friendship",
+  "disguise",
+  "prudence"
+ ],
+ "previous_story_id": "DKS_0364",
+ "next_story_id": "DKS_0366",
+ "next_story_tease": "In the days that followed, the potter's house prepared for a wedding — and Krishna prepared a gift.",
+ "hero_scene": "By lamplight in a potter's house, Krishna and Balarama touch the feet of Yudhishthira, who sits among his brothers still dressed in Brahmana robes, while the five disguised princes rise in delight and Kunti looks on; clay pots and the potter's wheel surround them.",
+ "visual_elements": [
+  "the low rooms of the potter's house lit by lamplight",
+  "Krishna and Balarama touching Yudhishthira's feet",
+  "the five brothers in Brahmana robes seated around their eldest",
+  "Kunti receiving the homage of her nephews",
+  "Krishna smiling as he says fire, even covered, can be known"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.193",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:58Z",
+  "source_event_id": "evt_0383",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

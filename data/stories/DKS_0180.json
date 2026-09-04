@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0180",
+ "title": "A Son Crowned, the Kings Freed",
+ "subtitle": "After Jarasandha's fall, Krishna sets his son on the throne of Magadha and opens the prison.",
+ "story": "The city of Girivraja was still settling after the fall of its king when Krishna did something the court had not expected. Jarasandha was dead — Bhima, Krishna's cousin and the strongest of the five Pandava brothers, had slain him in single combat outside the city, after a duel long enough to shatter two great maces — and in the hush that followed, everyone waited to see what the victors would do with a conquered capital. Magadha had been the terror of kings for a generation: its armies had marched across the world and carried its enemies home in chains. Some braced for fire, or plunder, or a war carried into the houses of the defeated. What they got instead was a coronation.\n\nJarasandha's son was a young man named Sahadeva. He had not chosen his father's wars, had not dragged kings from their thrones, had not filled the dungeons beneath the city. Krishna called him forward before the assembled court and installed him as lord of the Magadhas — the house of Jarasandha set back on the seat its king had made terrible. The ministers and elders of Magadha, who had expected a reckoning, watched the crown come down on the head of the one man in the city whose hands were clean of all of it. A conquered capital does not often get its own line of kings back, and the court did not quite know what to make of the mercy.\n\nBut the crowning was only half of what Krishna had come to do. The other half lay underneath their feet.\n\nFor years Jarasandha had kept his prisoners in Girivraja — kings he had vanquished in battle and carried away from their own thrones, warrior-kings of many lands who had ruled their own courts and now sat in darkness. He had not held them for ransom. He had gathered them for one terrible purpose: he meant to offer them up, one great day, as a sacrifice to Rudra — Shiva, the great god — the kings of the world led up like animals to feed a god who had never asked for them.\n\nKrishna went down to them himself, and the prison was opened. One by one the captive kings came out into a light they had not seen in years — blinking, leaning on one another, slow to trust that the doors were truly open and that no guard would drag them back. Some wept. Some knelt. When the last of them stood in the daylight, Jarasandha's whole design lay undone: the kings of a hundred lands walking free out of the city that had swallowed them, no condition asked, no oath extracted, no price set on their freedom.\n\nGirivraja that day saw both halves of a victory arranged side by side: a new king crowned in the hall above, and in the courtyard below, the old king's prisoners taking their first free steps. The kingdom of Magadha did not fall — it was handed back to its own people, with a son of their own line on the throne. It was the cruelty of the old reign that ended, not the kingdom itself.\n\nAnd with the kings freed, the last obstacle on the road to the Rajasuya — the great imperial sacrifice — was gone. The captives who had been meant to die for a sacrifice would instead return to their own kingdoms, and when they reached their courts they carried a story with them: that the man who had conquered their lands had been answered at last, and that the man who had freed them had asked nothing for it but their freedom — and that on the day Magadha lost its terrible king, it found a gentler one.",
+ "reflection": "The crowning of Sahadeva is the quieter half of a victory. Bhima's duel ended Jarasandha, but it is Krishna who decides what comes after — a son restored to his father's throne and prisoners walking free. Justice that removes a king's cruelty without erasing his kingdom is the harder kind, and this story shows it being chosen on purpose.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Sahadeva",
+  "the captive kings"
+ ],
+ "locations": [
+  "Girivraja (Magadha)"
+ ],
+ "themes": [
+  "liberation",
+  "justice",
+  "succession"
+ ],
+ "previous_story_id": "DKS_0179",
+ "next_story_id": "DKS_0181",
+ "next_story_tease": "But how Jarasandha came to that duel had not yet been told.",
+ "hero_scene": "In the court of Girivraja, Krishna places the crown on young Sahadeva's head as the assembled court watches, while below, the kings Jarasandha had imprisoned step out of their cells into the first daylight they have seen in years.",
+ "visual_elements": [
+  "Krishna crowning Sahadeva in the court of Girivraja",
+  "the assembled court of Magadha",
+  "the prison doors standing open",
+  "the freed kings in the light",
+  "the hill city of Girivraja",
+  "relief and tears among the released captives"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.72.45",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:20Z",
+  "source_event_id": "evt_0265",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

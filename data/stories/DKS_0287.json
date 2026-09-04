@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0287",
+ "title": "Four Handfuls of Flat Rice",
+ "subtitle": "Sudama's Poverty and Journey",
+ "story": "Of all the brahmanas who kept their vows in that poor village, none was more learned than Sudama, and none lived in greater want. He had chosen a life of the mind and the spirit, and the world had repaid the choice with hunger. His house stood at the edge of the village with empty stores. Whatever came to him by chance — a measure of grain from a harvest, a coin from a passing traveler — went to feed the fire and the family, and it was never enough. Some days there was no grain at all. His body grew thin, and his clothes wore thin with it, and his wife's face lost its color, the way faces do when they are always hoping and always short.\n\nShe bore it as long as she could. Then one day she came to him, her voice low and her eyes on the ground, and said what had been on her mind for months.\n\n\"You were Krishna's friend,\" she said, \"before either of you had anything. You know this. He is the lord of Dwaraka now, ruler of the Bhoja, the Vrishni and the Andhaka peoples, and fortune never leaves his side. Go to him. He will see you, and he will give us wealth, and this house will know ease again.\"\n\nSudama heard her out and said nothing. He was a man who had long ago stopped asking the world for things; it was hard to begin again, even with a friend. But his wife did not stop. She asked again and again, day after day, and at last the thought took root in him. If Krishna was truly his friend, what harm could there be in one journey?\n\nHe resolved to go. Once the resolve was made, he did not linger over it; whatever waited in Dwaraka — a welcome or a door closed in his face — had to be better than standing still.\n\nBut he would not go empty-handed. A guest does not come to a king's door with nothing. Sudama went to the brahmanas of the village and asked — humbly, for he had never been good at asking — for something to carry. He asked for no gold and no fine cloth; the plainest gift would do. They gave what they had: four handfuls of flattened rice — plain rice, pressed flat, the poor man's food, the kind of gift a neighbor brings a neighbor. He tied the four handfuls in a piece of rag and set out for Dwaraka.\n\nThe road was long and he was weak. He walked through country he had never seen, past fields and forests, resting where he could, and as he walked he turned one question over and over: how would he even gain sight of Krishna? The lord of a great city, surrounded by guards and ministers and queens — would such a man see a ragged brahmana standing at his gate? Sudama had no answer. He only walked, the little bundle in his hand, and trusted the friend he remembered — a boy who had shared his lessons and his hunger, and who had never once made him feel small.\n\nAt last the towers of Dwaraka rose on the horizon, and the sea glittered beyond them. He crossed the outer groves, passed the three gates of the city, past merchants and chariots and men in armor, until he stood before the palace of the king who had sixteen thousand queens — the king who had once been a boy at their teacher's house, hungry and ragged like him.",
+ "reflection": "Sudama's poverty is not merely hardship; it is also the condition that lets the story happen. The wife who refuses to let pride waste a friendship, and the poor man who would rather carry a gift of flat rice than come empty-handed, set the whole meeting in motion. The gift's smallness is the point — friendship is measured by the giving, not the gift.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Sudama",
+  "Sudama's wife",
+  "Krishna"
+ ],
+ "locations": [
+  "a village",
+  "Dwaraka"
+ ],
+ "themes": [
+  "poverty",
+  "friendship",
+  "faith"
+ ],
+ "previous_story_id": "DKS_0286",
+ "next_story_id": "DKS_0288",
+ "next_story_tease": "Inside the palace, Krishna had already seen him — and was rising from his couch.",
+ "hero_scene": "A thin brahmana in worn clothes walking the long road to Dwaraka, a small rag bundle of flat rice in his hand, with the towers of the city and the glittering sea rising on the horizon.",
+ "visual_elements": [
+  "Sudama, thin and ragged, walking the road",
+  "the small rag bundle of flattened rice in his hand",
+  "the towers of Dwaraka on the horizon",
+  "the sea glittering beyond the city",
+  "the dusty road through fields and forests"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.80.5-16",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:23Z",
+  "source_event_id": "evt_0275",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0460",
+ "title": "The Return of the Gentle Form",
+ "subtitle": null,
+ "story": "Show me the form I know, Arjuna said, and his voice trembled as he spoke.\n\nMoments earlier, on the field of Kurukshetra where two armies waited for the war to begin, Krishna, his cousin, his closest friend, and his charioteer, had shown Arjuna his true form: the body of the universe itself, with a thousand faces and a thousand arms, the sun and moon for eyes, a mouth like the fire at the end of the world. Arjuna had seen everything gathered into that one body, gods and serpents, sages and shining hosts, some entering the form, others praying before it with joined hands. And he had seen the most terrible thing of all: the warriors of both armies, Bhishma and Drona and Karna, his cousins the sons of Dhritarashtra and all their kings, rushing into those flaming mouths like rivers streaming into the sea.\n\nThe wonder of it had lifted him. The fear of it had nearly undone him. His hair had stood on end, his whole body had trembled, and even now, with the vision folded away, he could not be still.\n\n\"I have seen your form, which no one has ever seen before,\" he said, \"and my heart is full of joy and fear at once. Show me that other form, the gentle one. Show me the face of my friend.\"\n\nKrishna heard him and answered. Once more the thousand faces folded back into one face. The mouths that had blazed like the fire at the end of the world became a smile. The crown, the mace, and the discus faded, and there stood the Krishna Arjuna knew: the friend who had driven his chariot, who had sat beside him and counselled him, whose voice he had heard all his life. Gently, Krishna comforted the man he had shaken.\n\nHe said nothing about the vision. He simply waited, as a friend waits, while Arjuna found his footing again.\n\nComfort, in that presence, was not a word but a work. The trembling in Arjuna's hands began to ease. His scattered thoughts gathered themselves and settled. He breathed, and the breath no longer caught in his chest. The field that had seemed, for a moment, to be the mouth of the end of all things became again a stretch of grass and dust, with two armies waiting across from one another and the morning light lying quietly between them.\n\nThen Arjuna spoke, and this time his voice was his own. \"Beholding this gentle human form of yours,\" he said, \"I am myself again. My senses have come back to me. I am calm once more.\"\n\nThat was Krishna's gift: not a vision taken away, but a friend given back. The one who had shown him the body of the universe had chosen, for the sake of a trembling friend, to fold himself back into the shape of a charioteer. The terrible form was truth; the gentle form was mercy, and both wore the same face. Arjuna stood, restored, and looked across the field. The war still waited. For this moment it was enough that his friend stood beside him again, in the form he could bear.",
+ "reflection": "The return to the gentle form is the other half of the revelation. Arjuna could carry the truth of who Krishna is only because Krishna was willing to be small for him: mercy here is not an abstract quality but a shape, the familiar face and the charioteer's hands. The terrible form revealed the universe; the gentle form revealed what the universe's lord chooses, again and again, to become.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "mercy",
+  "grace",
+  "restoration"
+ ],
+ "previous_story_id": "DKS_0459",
+ "next_story_id": "DKS_0461",
+ "next_story_tease": "Restored to himself, Arjuna still carried one question about duty and renunciation that only Krishna could answer.",
+ "hero_scene": "On the battlefield at Kurukshetra, the blazing cosmic form with a thousand faces folds back into the familiar figure of Krishna the charioteer, who reaches out to comfort Arjuna as the trembling archer bows before him, the morning light returning to the field.",
+ "visual_elements": [
+  "the cosmic form with a thousand faces and arms receding and folding into one body",
+  "Krishna's ordinary gentle form, without diadem, mace, or discus",
+  "Arjuna with folded hands, trembling, his hair standing on end",
+  "the battlefield at dawn with the two armies waiting",
+  "the moment of comfort as Krishna waits beside Arjuna"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:10Z",
+  "source_event_id": "evt_0457",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

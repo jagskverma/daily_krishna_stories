@@ -1,0 +1,32 @@
+# STORY DKS_0146 — Krishna Restores the Yadava Kinsmen
+
+## Index entry
+title: Krishna Restores the Yadava Kinsmen
+summary: Krishna brings back and settles all the Yadava kinsmen who had fled in fear of Kamsa.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Yadavas
+locations: Mathura
+themes: restoration
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0150
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 45 | verses 14-18 | confidence 5
+  excerpt: Krishna brought back all the Yadava, Vrishni, Andhaka and Madhu kinsmen who had fled in fear of Kamsa, settled them in their homes with wealth, and they rejoiced daily at the sight of his face. (rendered from Sanskrit, verses 14-17)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.45 (14-18)
+14. sarvān svān jñati-sambandhān digbhyaḥ kaṃsa-bhayākulān /
+15. sabhājitān samāśvāsya videśāvāsa-karśitān /
+16. kṛṣṇa-saṅkarṣaṇa-bhujair guptā labdha-manorathāḥ /
+17. vīkṣanto 'har ahaḥ prītā mukunda-vadanāmbujam /
+18. tatra pravayaso 'py āsan yuvāno 'ti-balaujasaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0145 | next_story_id: DKS_0147
+previous title: Krishna Installs Ugrasena as King
+next title: Krishna and Balarama Study Under Sandipani

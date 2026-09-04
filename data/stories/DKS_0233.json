@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0233",
+ "title": "A Mother's Hands Between Two Brothers",
+ "subtitle": null,
+ "story": "Before the Parijata could be carried home to Dwaraka, the quarrel over it had to be settled — and the settling came close to unmaking the world.\n\nOn the Parijatra mountain, in the first light, the battle over the tree began again, and this time the world itself reeled. Krishna and Indra fought from their cars, and though neither ever struck the other directly, their weapons sought everything around them: Krishna's arrows scattered Indra's soldiers, ten shafts apiece for the horses of the king of gods; Indra's arrows covered the horses of Krishna's car and buried Garuda's wings in a storm of shafts; a thousand arrows cloaked the great elephant. And as the two heroes fought, the earth shook like a boat adrift in water, the quarters blazed with an unnatural light, mountains trembled, hundreds of trees were uprooted, and even people at their prayers fell where they stood. Hurricanes tore the sky. Rivers turned and ran backward. Fire burned even in water; planets clashed in the heavens; hundreds of stars dropped from the sky, and the elephants of the quarters quivered in their stalls. Cranes wheeled overhead crying dreadfully, and it seemed that earth, heaven, and sky had all vanished from view.\n\nIn that breaking world, the ascetics recited their sacred mantras, and the brahmanas, the learned priests, sat deep in meditation, praying for the sake of all creatures.\n\nThen Brahma, the creator, spoke to Kashyapa. “Go, with your wife Aditi,” he said, “and prevent your two sons.”\n\nThe sage obeyed, and came with Aditi to the battlefield. The moment Krishna and Indra saw their parents, the fury fell away from both of them. They climbed down from their cars, laid down their arms, and saluted the feet of Kashyapa and Aditi.\n\nAditi took them both by the hands. “Born of the same parents,” she said, “you are trying to slay each other as if you were not brothers. Let pass what has happened. If you think you should obey the words of your mother and your father, lay down your arms and hear what I say.”\n\n“Let it be so,” they said, and the two of them walked together to the bank of the Jahnvi, as the Ganga is also called.\n\nThere, at the water's edge, Indra spoke. “O Krishna, you are the Lord and Creator of the universe, and I have been placed by you in my kingdom. Having yourself established me here, why do you disregard me? Having accepted me as your elder brother, why do you wish to destroy me?”\n\nKrishna did not answer with weapons. The two bathed together in the Jahnvi, and returned to Kashyapa and Aditi; and the ascetics gave that place a name — the union ground of dear ones — for there the two brothers were united with their parents. Before the assembled celestials, Krishna promised safety to Indra; and the gods, shining in their true forms, repaired to heaven, with Kashyapa, Aditi, Indra, and Krishna riding together on one car. Sachi, Indra's queen, adored the sage and his wife.\n\nThe battle was over; the quarrel was healed. And when the night had passed, Aditi, who had seen her sons nearly destroy the world over a tree, took the tree itself out of the quarrel. Krishna would carry it to Dwaraka, she said, for the festival his wife longed for — and when that rite was done, he would bring it back to the garden of Nandana, where it had always stood. So the war that had shaken the three worlds ended not with a victor but with a mother's gift: the tree was given, not taken, and the two brothers parted at peace.",
+ "reflection": "The battle ends not with a victor but with a mother's hands holding both her sons'. Indra's question — you placed me in this kingdom, you call me elder brother, why would you destroy me? — is the real resolution: the quarrel was never about power but about kinship, and once the brothers bathe together in the Jahnvi, the war simply stops being possible.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Indra",
+  "Kashyapa",
+  "Aditi",
+  "Brahma",
+  "Sachi"
+ ],
+ "locations": [
+  "Parijatra mountain",
+  "Jahnvi river"
+ ],
+ "themes": [
+  "reconciliation",
+  "family",
+  "peace"
+ ],
+ "previous_story_id": "DKS_0232",
+ "next_story_id": "DKS_0234",
+ "next_story_tease": "Back in Dwaraka, Satyabhama was readying a rite that would put even the gift of the Parijata to a stranger test.",
+ "hero_scene": "Aditi holds the hands of Krishna and Indra on the battlefield, the two brothers' weapons laid on the ground between them, with Kashyapa beside her and the battered world settling into early light behind them.",
+ "visual_elements": [
+  "Aditi holding the hands of Krishna and Indra",
+  "Kashyapa standing beside her",
+  "weapons laid down on the earth",
+  "the two brothers bowing to their parents",
+  "the calm of the Jahnvi river nearby",
+  "reconciliation and peace"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.222",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:00Z",
+  "source_event_id": "evt_0303",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

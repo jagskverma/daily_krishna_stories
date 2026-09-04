@@ -1,0 +1,103 @@
+# STORY DKS_0039 — Krishna Conjures Wolves to Move the Milkmen to Vrindavan
+
+## Index entry
+title: Krishna Conjures Wolves to Move the Milkmen to Vrindavan
+summary: Desiring a new forest, Krishna produces hundreds of wolves from his body to terrify the milkmen so they will abandon Vraja for Vrindavan.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Sangkarshana, milkmen
+locations: Vraja, Vrindavan, Govardhana
+themes: divine play, migration
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0055
+variant_notes: HV's version of the migration; BP/VP attribute the move to omens/portents instead (see 'migrate_decision').
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 58 | verses  | confidence 4
+  excerpt: From the hairs of his body there arose hundreds of wolves living on fat, blood and flesh... striking terror to the entire land of milkmen.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.58 ()
+TITLE: KRISHNA WISHES TO GO TO VRINDAVANA AND PRODUCES WOLVES
+
+Vaishampayana said:—In this way, Krishna and Sangkarshana passed their
+childhood in Vraja and became seven years old (1). They used to put on
+dark-blue and yellow raiments, paste their persons with yellow and white
+paints and used to wear feathers of crows while tending kine (2). While
+gone to the forest those two beautiful boys used to play on Panāvas, the
+music of which is sweet to the ears, and shone there like three-hooded
+serpents (3). Sometimes putting peacock feathers on their ears, crowns
+of leaves on their heads and garlands of wild flowers on their breast
+they shone there like two growing trees (4). Sometimes placing a crown
+of lotuses on their heads, converting a rope into a sacred thread and
+gourds with a string suspended, in their hands, they used to play on
+flutes (5). Sometimes sporting with one another, laughing and lying down
+on a bed of leaves they used to enjoy sleep (6). Thus leading the life
+of a cow-herd boy and moving about delightedly hither and thither like
+two young horses they beautified that forest (7).
+
+One day the beautiful Dāmodara said to Sangkarshana: "O Sir, by sporting
+everywhere in the forest we have well nigh spoilt it. We cannot play
+here any more with the cow-herd boys (8). It has been divested of grass
+and twigs and the milk-men have up-rooted the trees. This beautiful
+forest has been destroyed by us (9). All the forests and woods, that
+were thick (with trees), are now all looking blank like the sky. All
+these eternally beautiful trees, that were in the cow-sheds
+well-protected by walls and wooden bolts, have been destroyed by the
+fire of cow-sheds (10-11). The trees and grass, that were near us, have
+been all thrown away on the ground at a great distance (12). Water,
+trees, groves and other resorts have now become scarce in this forest.
+Even by searching we cannot get at a place for rest. It has become very
+dreary and trees are not to be seen (13). The trees have been destroyed
+by the people of this extensive village. The birds have fled away from
+the useless trees (14). This forest, divested of birds, has become
+disgusting like rice without curry and other vegetable dishes. Even the
+delightful winds do not blow here (15). Woods and vegetables, grown in
+the forest, are now being sold. The grass is all destroyed and this
+village has taken the appearance of a city (16). The ornament of the
+mountain is the village of herdsmen, the forest is its ornament and the
+cows are the ornaments of the forest. And they are our most excellent
+refuge (17). Let the wealthy inhabitants of Vraja repair to another
+forest filled with new trees and grass; when the extensive villages, of
+milkmen, are shut out by doors and when the fields are covered with
+houses they do not look beautiful like the Chakrachari²⁰⁶ birds (19).
+When excrement and urine fall on grass its juice becomes poisonous. The
+cows do not like to graze on it and it is unwholesome for milk (20). We
+wish to range, with our kine, in the charming new woods which are almost
+like dry ground. Let this station of milk-men be also transferred there
+(21). I have heard that there is a charming forest on the bank of Yamunā
+abounding in profuse grass, endued with all the virtues and freed of
+thorns and insects. It is named Vrindāvana. It is filled with fruits,
+water and Kadamba trees (22-23). Cool winds always blow there in the
+forest as if it is an asylum of all the seasons. All the woods there are
+so very charming that the milk-men will be able to range there happily
+(24). Near it is the huge mountain Govardhana with a high summit like
+the mount Mandāra near the celestial garden Nandana (25). In the centre
+of that mountain there is a huge fig-tree, by name Bhāndira, consisting
+of high branches and extending over a _yojana_. It shone there like a
+dark-blue cloud in the sky (26). Like unto the river Nalini flowing in
+the garden of Nandana, Kālindi, the foremost of streams, passes through
+its middle as if forming a line for separating hairs on each side of the
+head (27). With great joy we will always behold there the mount
+Govardhana, the tree Bhāndira and the charming river Kālindi (28). O
+Sir, mayst thou fare well. Leaving this forest which has no attractions
+do thou lay out there the station of milk-men. Let us now, creating some
+calamity, terrify the milk-men" (29).
+
+While thus talking the intelligent Vasudeva engaged himself in a
+thought. From the hairs of his body there arose hundreds of wolves
+living on fat, blood and flesh. As soon as they came out they ran in all
+directions as if it to devasstate the village Vraja. Beholding them fall
+upon calves, kine and their women the milk-men were stricken with great
+fear. Forming themselves into groups of five, ten, thirty, twenty and a
+hundred those dark-faced wolves, bearing the mystic mark of Srivatsa,
+that had come out of the body of Krishna, began to range there and
+increase the fear of milkmen. Thus striking terror to the
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0038 | next_story_id: DKS_0040
+previous title: The Cowherds Decide to Migrate to Vrindavan
+next title: Uddhava Recalls Krishna's Cowherd Childhood and Kamsa's Demons

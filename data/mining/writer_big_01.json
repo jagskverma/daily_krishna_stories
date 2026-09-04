@@ -1,0 +1,137 @@
+[
+ {
+  "group_id": "g001",
+  "stories": [
+   "DKS_0001",
+   "DKS_0002",
+   "DKS_0004",
+   "DKS_0005"
+  ]
+ },
+ {
+  "group_id": "g002",
+  "stories": [
+   "DKS_0006",
+   "DKS_0007",
+   "DKS_0008",
+   "DKS_0009"
+  ]
+ },
+ {
+  "group_id": "g003",
+  "stories": [
+   "DKS_0010",
+   "DKS_0011",
+   "DKS_0012",
+   "DKS_0014"
+  ]
+ },
+ {
+  "group_id": "g004",
+  "stories": [
+   "DKS_0016",
+   "DKS_0017",
+   "DKS_0019",
+   "DKS_0020"
+  ]
+ },
+ {
+  "group_id": "g005",
+  "stories": [
+   "DKS_0021",
+   "DKS_0022",
+   "DKS_0023",
+   "DKS_0025"
+  ]
+ },
+ {
+  "group_id": "g006",
+  "stories": [
+   "DKS_0026",
+   "DKS_0027",
+   "DKS_0029",
+   "DKS_0031"
+  ]
+ },
+ {
+  "group_id": "g007",
+  "stories": [
+   "DKS_0034",
+   "DKS_0036",
+   "DKS_0037",
+   "DKS_0038"
+  ]
+ },
+ {
+  "group_id": "g008",
+  "stories": [
+   "DKS_0039",
+   "DKS_0040",
+   "DKS_0041",
+   "DKS_0042"
+  ]
+ },
+ {
+  "group_id": "g009",
+  "stories": [
+   "DKS_0043",
+   "DKS_0044",
+   "DKS_0045",
+   "DKS_0046"
+  ]
+ },
+ {
+  "group_id": "g010",
+  "stories": [
+   "DKS_0048",
+   "DKS_0050",
+   "DKS_0051",
+   "DKS_0052"
+  ]
+ },
+ {
+  "group_id": "g011",
+  "stories": [
+   "DKS_0053",
+   "DKS_0054",
+   "DKS_0055",
+   "DKS_0056"
+  ]
+ },
+ {
+  "group_id": "g012",
+  "stories": [
+   "DKS_0057",
+   "DKS_0058",
+   "DKS_0059",
+   "DKS_0061"
+  ]
+ },
+ {
+  "group_id": "g013",
+  "stories": [
+   "DKS_0062",
+   "DKS_0063",
+   "DKS_0064",
+   "DKS_0065"
+  ]
+ },
+ {
+  "group_id": "g014",
+  "stories": [
+   "DKS_0066",
+   "DKS_0067",
+   "DKS_0068",
+   "DKS_0069"
+  ]
+ },
+ {
+  "group_id": "g015",
+  "stories": [
+   "DKS_0070",
+   "DKS_0071",
+   "DKS_0072",
+   "DKS_0073"
+  ]
+ }
+]

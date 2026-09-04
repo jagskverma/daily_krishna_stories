@@ -1,0 +1,102 @@
+# STORY DKS_0139 — Krishna and Balarama Slay the Wrestlers
+
+## Index entry
+title: Krishna and Balarama Slay the Wrestlers
+summary: Despite the women's protest, Krishna slays Chanura and Balarama slays Mushtika, Kuta, Shala and Tośala.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Balarama, Chanura, Mushtika
+locations: Mathura arena
+themes: wrestling, victory
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0142
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 44 | verses 1-27 | confidence 5
+  excerpt: The women protested the unequal match, but Krishna seized Chanura, whirled him and dashed him to the ground, killing him, while Balarama slew Mushtika, and Rama and Krishna slew Kuta, Shala and Tośala. (rendered from Sanskrit, verses 1-27)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 85 | verses  | confidence 4
+  excerpt: Wrestling with Chanura for a long time, Devaki's son... stole away his strength... struck him on the head with his fist... Thus with his eyes drawn out Chanura... lay in the arena.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 20 | verses  | confidence 4
+  excerpt: Having whirled Cháńúra round a hundred times... Krishńa dashed him on the ground with such violence as to smash his body into a hundred fragments... the mighty Baladeva... pummelled him there till he was dead.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.44 (1-27)
+1. hastābhyāṃ hastayor baddhvā padbhyām eva ca pādayoḥ /
+2. aratnī dve aratnibhyāṃ jānubhyāṃ caiva jānunī /
+3. paribhrāmaṇa-vikṣepa- parirambhāvapātanaiḥ /
+4. utthāpanair unnayanaiś cālanaiḥ sthāpanair api /
+5. tad balābalavad yuddhaṃ sametāḥ sarva-yoṣitaḥ /
+6. mahān ayaṃ batādharma eṣāṃ rāja-sabhā-sadām /
+7. kva vajra-sāra-sarvāṅgau mallau śailendra-sannibhau /
+8. dharma-vyatikramo hy asya samājasya dhruvaṃ bhavet /
+9. na sabhāṃ praviśet prājñaḥ sabhya-doṣān anusmaran /
+10. valgataḥ śatrum abhitaḥ kṛṣṇasya vadanāmbujam /
+11. kiṃ na paśyata rāmasya mukham ātāmra-locanam /
+12. puṇyā bata vraja-bhuvo yad ayaṃ nṛ-liṅga $ gūḍhaḥ purāṇa-puruṣo vana-citra-mālyaḥ &amp;gāḥ pālayan saha-balaḥ kvaṇayaṃś ca veṇuṃ % vikrīdayāñcati giritra-ramārcitāṅghriḥ
+13. gopyas tapaḥ kim acaran yad amuṣya rūpaṃ $ lāvaṇya-sāram asamordhvam ananya-siddham &gopyas tapaḥ kim acaran yad amuṣya rūpaṃ $ lāvaṇya-sāram asamordhvam ananya-siddham &dṛgbhiḥ pibanty anusavābhinavaṃ durāpam % ekānta-dhāma yaśasaḥ śrīya aiśvarasya
+14. yā dohane 'vahanane mathanopalepa preṅkheṅkhanārbha-ruditokṣaṇa-mārjanādau /
+15. prātar vrajād vrajata āviśataś ca sāyaṃ $ gobhiḥ samaṃ kvaṇayato 'sya niśamya veṇum &amp;nirgamya tūrṇam abalāḥ pathi bhūri-puṇyāḥ % paśyanti sa-smita-mukhaṃ sa-dayāvalokam
+16. evaṃ prabhāṣamāṇāsu strīṣu yogeśvaro hariḥ /
+17. sa-bhayāḥ strī-giraḥ śrutvā putra-sneha-śucāturau /
+18. tais tair niyuddha-vidhibhir vividhair acyutetarau /
+19. bhagavad-gātra-niṣpātair vajra-nīṣpeṣa-niṣṭhuraiḥ /
+20. sa śyena-vega utpatya muṣṭī-kṛtya karāv ubhau /
+21. nācalat tat-prahāreṇa mālāhata iva dvipaḥ /
+22. bhū-pṛṣṭhe pothayām āsa tarasā kṣīṇa jīvitam /
+23. tathaiva muṣṭikaḥ pūrvaṃ sva-muṣṭyābhihatena vai /
+24. pravepitaḥ sa rudhiram udvaman mukhato 'rditaḥ /
+25. tataḥ kūṭam anuprāptaṃ rāmaḥ praharatāṃ varaḥ /
+26. tarhy eva hi śalaḥ kṛṣṇa- prapadāhata-śīrṣakaḥ /
+27. cāṇūre muṣṭike kūṭe śale tośalake hate /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.85 ()
+TITLE: TRIAL OF ARMS
+
+Vaishampayana said:—Shaking the earth with the sound of the slapping of
+his arms Krishna, the lotus-eyed son of Devaki, entered the arena, with
+his elder brother before him. His raiment was being shaken by the wind,
+his body was wounded with the tusks of the elephant and his limbs were
+covered with must and blood; he was bounding like a lion and entered
+there quickly like a cloud for bringing about the destruction of Kansa.
+He was very careful to find out the defects and his beautiful arms were
+adorned with the tusks of the elephant. Beholding him thus enter with
+great force the face of Ugrasena’s son grew pale and he began to eye
+them in anger (1–4). With the tusks in his hand Keshava shone there like
+a mountain of one summit stricken with the image of the half-moon (5).
+While he ranged by leaps and bounds, that ocean-like arena shone there
+filled with the echoes of the crowd (6).
+
+Thereupon with his eyes reddened in anger the highly wrathful Kansa
+ordered the greatly powerful Chānura to fight with Krishna (7). He
+ordered the powerful wrestlers Andhra, Nikriti and Mushthika, resembling
+so many mountains, to engage with Balarāma (8). Chānura had already been
+ordered by Kansa to fight with Krishna carefully. And again commanded
+thus, he, with his eyes reddened with ire, went forward to fight like a
+cloud surcharged with water (9-10). Afterwards when the royal mandate
+"Be all silent" was announced on all sides and the entire crowd was
+hushed into silence the Yādavas, assembled together, said (11): "This
+trial at arms was first introduced by the Creator as one in which no
+weapons should be used, in which skill and strength are necessary, in
+which there should be judges and no cowards should take part (12). In it
+(the parties) should await the appointed hour and remove their toil with
+water. It is also laid down that wrestlers should besmear their body
+with cow-dung (13). In it one standing should fight with another such,
+one lying on the ground should engage with another such; in whatever
+condition one may be one should fight with him in that order; such the
+judges say (14). A boy, a youth, an old man, a strong man or a weak man,
+whoever he may be, they should be informed of the particulars of the
+trial waiting in their respective quarters (15). Persons, conversant
+with the modes of wrestling, say that one, conversant with this mode,
+should not display his strength or skill while his antagonist is
+defeated (16). Now Krishna and the wrestler Andhra will fight with each
+other in the arena. Krishna is a mere boy and Andhra is an elderly
+p
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0132 | next_story_id: DKS_0140
+previous title: Krishna Straightens the Hunchback Kubja
+next title: Krishna Slays Kamsa

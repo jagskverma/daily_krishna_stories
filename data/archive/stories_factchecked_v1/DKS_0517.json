@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0517",
+ "title": "Uddhava's Road to Badari",
+ "subtitle": "Krishna sends his dearest friend north",
+ "story": "The last teaching had been given, and there was nothing left to say. Krishna's court in Dwaraka had held the long instruction of the Uddhava Gita — the whole of what a soul needs to know, spoken by Krishna to the friend he trusted most. Now the two sat together, and the silence between them was heavier than the words had been.\n\nGo, Uddhava, said Krishna. Go as I have commanded, to my hermitage called Badari, far in the north. Travel by the celestial route, as the blessed go, until you come to the hermitage on the bank of the Alakananda, where the very sight of the river washes away every stain. There, in that solitude sanctified by the long austerities of Narayana and Nara, dwell on what I have taught you. Patient with the pairs of opposites, gentle in conduct, your senses under control, abide there in the teaching — and meditating on me, you will come to me beyond the three paths, beyond the strands of nature that bind this world.\n\nUddhava heard the command and could not move. He, who had received the whole of the teaching, could not receive this one sentence. Separation from Krishna was the one thing his heart refused, and it showed in his face: the friend who had carried messages between Krishna and the Pandavas, who had been trusted with more than any other man in Dwaraka, stood stricken, unable to leave him.\n\nBut Krishna had spoken, and Uddhava was Uddhava. He walked around Krishna, once, again, and again, as if the circle of his steps could hold the moment open a little longer. Then he knelt, and took Krishna's feet and placed them upon his own head — the last honor, the last touch. And bearing Krishna's sandals in his hands, he went forth.\n\nHe placed the Lord within his own heart and set his face north. And Vidura, the wise uncle of the Pandavas, drew the story from him: how he had worshipped the sanctity of Krishna's feet, how he had learned the path of self-knowledge, how he had bowed and come away heart-torn with separation, and how he would go on to the hermitage of Badari, where Narayana and the sage Nara once performed their long austerities. Even in the telling, Uddhava's grief was fresh, and Vidura, who knew something of longing himself, let him speak.\n\nThen Uddhava went on, north along the road that climbs toward the mountains, carrying Krishna's sandals, carrying the teaching. The city of Dwaraka fell behind him, and the life he had known there, and the friendship that had been the shape of his life. What he carried forward was stranger and stronger than either: the whole of what he had been told, and the promise that where he was going, the Lord who had sent him would be there before him — beyond the three paths, beyond everything that binds.\n\nThey say the road was long and the hermitage was high, and that the man who walked it had already left behind more than the court of Dwaraka. He had left behind himself — the self that clings and grieves — the way the teaching had shown him, step by step, until the walking itself became the teaching.",
+ "reflection": "The command to go to Badari is also a promise: separation from Krishna's body is not separation from Krishna. Uddhava carries the sandals — the last physical trace — but he also carries the teaching in his heart, and that is how the journey is meant to be made: the farewell that looks like an ending is, in the teaching's own terms, the beginning of the meeting.",
+ "tradition_note": "The Mahabharata (16.3) frames Uddhava's departure differently: he takes his leave of Krishna on the seacoast where the Vrishnis had gathered, and Krishna, saluting him with joined hands and knowing the clan's destruction was near, does not prevent him. The Bhagavata Purana places the farewell in Dwaraka at the close of the teaching, which is followed here.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "Krishna",
+  "Uddhava"
+ ],
+ "locations": [
+  "Dwaraka",
+  "the road to Badarikashrama"
+ ],
+ "themes": [
+  "farewell",
+  "the final teaching",
+  "separation",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0516",
+ "next_story_id": "DKS_0518",
+ "next_story_tease": "Even as Uddhava walked north, Narada was prophesying what the ocean would one day do to Dwaraka itself.",
+ "hero_scene": "Uddhava kneels and places Krishna's feet upon his own head while Krishna stands with one hand raised in blessing; the golden roofs of Dwaraka rise behind them, and the northern road stretches away in the distance.",
+ "visual_elements": [
+  "Uddhava kneeling, Krishna's feet placed on his head",
+  "Krishna standing with a hand raised in blessing",
+  "the golden city of Dwaraka behind them",
+  "the northern road climbing toward distant mountains",
+  "Krishna's sandals carried in Uddhava's hands"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.29.40-47",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.4.19-21",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.37",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.3",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:23Z",
+  "source_event_id": "evt_0005"
+ },
+ "editorial_status": "unreviewed"
+}

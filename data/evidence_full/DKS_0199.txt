@@ -1,0 +1,60 @@
+# STORY DKS_0199 — Rukmini's Prayer at the Temple of Ambika || Anxious at Krishna's delay, Rukmini visits the temple of goddess Ambika and prays that Krishna alone may be her husband.
+
+## Index entry
+title: Rukmini's Prayer at the Temple of Ambika || Anxious at Krishna's delay, Rukmini visits the temple of goddess Ambika and prays that Krishna alone may be her husband.
+summary: Anxious at Krishna's delay, Rukmini visits the temple of goddess Ambika and prays that Krishna alone may be her husband.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Rukmini, Krishna
+locations: Kundina
+themes: anxiety, devotion, prayer
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0241
+variant_notes: Cross-ref: Rukmini abduction cluster; distinct prayer beat.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 53 | verses 20-52 | confidence 5
+  excerpt: As the wedding hour neared, Rukmini, not seeing Krishna arrive, prayed tearfully; going in procession to the temple of Bhavani, she bowed: 'May Krishna, the Lord, alone become my husband; bless this.' (rendered from Sanskrit, verses 20-52)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.53 (20-52)
+20. balena mahatā sārdhaṃ bhrātṛ-sneha-pariplutaḥ /
+21. bhīṣma-kanyā varārohā kāṅkṣanty āgamanaṃ hareḥ /
+22. aho tri-yāmāntarita udvāho me 'lpa-rādhasaḥ /
+23. api mayy anavadyātmā dṛṣṭvā kiñcij jugupsitam /
+24. durbhagāyā na me dhātā nānukūlo maheśvaraḥ /
+25. evaṃ cintayatī bālā govinda-hṛta-mānasā /
+26. evaṃ vadhvāḥ pratīkṣantyā govindāgamanaṃ nṛpa /
+27. atha kṛṣṇa-vinirdiṣṭaḥ sa eva dvija-sattamaḥ /
+28. sā taṃ prahṛṣṭa-vadanam avyagrātma-gatiṃ satī /
+29. tasyā āvedayat prāptaṃ śaśaṃsa yadu-nandanam /
+30. tam āgataṃ samājñāya vaidarbhī hṛṣṭa-mānasā /
+31. prāptau śrutvā sva-duhitur udvāha-prekṣaṇotsukau /
+32. madhu-parkam upānīya vāsāṃsi virajāṃsi saḥ /
+33. tayor niveśanaṃ śrīmad upākalpya mahā-matiḥ /
+34. evaṃ rājñāṃ sametānāṃ yathā-vīryaṃ yathā-vayaḥ /
+35. kṛṣṇam āgatam ākarṇya vidarbha-pura-vāsinaḥ /
+36. asyaiva bhāryā bhavituṃ rukmiṇy arhati nāparā /
+37. kiñcit su-caritaṃ yan nas tena tuṣṭas tri-loka-kṛt /
+38. evaṃ prema-kalā-baddhā vadanti sma puraukasaḥ /
+39. padbhyāṃ viniryayau draṣṭuṃ bhavānyāḥ pāda-pallavam /
+40. yata-vāṅ mātṛbhiḥ sārdhaṃ sakhībhiḥ parivāritā /
+41. nānopahāra balibhir vāramukhyāḥ sahasraśaḥ /
+42. gāyantyaś ca stuvantaś ca gāyakā vādya-vādakāḥ /
+43. āsādya devī-sadanaṃ dhauta-pāda-karāmbujā /
+44. tāṃ vai pravayaso bālāṃ vidhi-jñā vipra-yoṣitaḥ /
+45. namasye tvāmbike 'bhīkṣṇaṃ sva-santāna-yutāṃ śivām /
+46. adbhir gandhākṣatair dhūpair vāsaḥ-sraṅ-mālya bhūṣaṇaiḥ /
+47. vipra-striyaḥ patimatīs tathā taiḥ samapūjayat /
+48. tasyai striyas tāḥ pradaduḥ śeṣāṃ yuyujur āśiṣaḥ /
+49. muni-vratam atha tyaktvā niścakrāmāmbikā-gṛhāt /
+50. tāṃ deva-māyām iva dhīra-mohinīṃ su-madhyamāṃ kuṇḍala-maṇḍitānanām /
+51. śuci-smitāṃ bimba-phalādhara-dyuti- śoṇāyamāna-dvija-kunda-kuḍmalām /
+52. vilokya vīrā mumuhuḥ samāgatā yaśasvinas tat-kṛta-hṛc-chayārditāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0198 | next_story_id: DKS_0200
+previous title: Krishna Hastens to Kundina || Krishna receives Rukmini's message and races overnight to Kundina, where rival kings are gathering to enforce Shishupala's claim.
+next title: Krishna Carries Off Rukmini

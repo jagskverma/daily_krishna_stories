@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0354",
+ "title": "The Ape Who Avenged Narakasura",
+ "subtitle": null,
+ "story": "When the demon king Narakasura fell to Krishna's discus, he left behind a friend who would not let the world forget it.\n\nDvivida was an ape of the mountains, vast and powerful, and he had loved the slain demon king like a brother. Where Narakasura's other allies made their peace or hid themselves, Dvivida chose vengeance — and he had the strength to make vengeance terrible. He would repay his friend's death, he swore, with the ruin of everything Krishna loved. He was not a demon of the cities, who plots in shadows; he was a force of the wild, and he struck in the open, where everyone could see and no one could stop him.\n\nThe land he chose to punish was Anarta, the country of the Yadavas. And he began.\n\nHe set fire to the cities and the villages, and watched the flames climb. He went to the mountains and tore them up by their roots, and hurled them down upon the regions below, crushing whatever lay beneath. He waded into the middle of the ocean and stood there, scooped up the sea with his two arms, and flung it over the coastal lands until the shore drowned. The hermitages of the sages — the quiet places where holy men kept their fires and their vows — he tore apart, breaking their trees and scattering their offerings, defiling the sacred fires themselves, and the holy men were driven from the places they had kept for a lifetime. He seized men and women and hurled them into the caves of the mountains. He laid waste to the whole country, and the women of good families learned to fear the shadow of the ape.\n\nThe terror had a shape and a name. Farmers abandoned their fields; villages emptied at the first cry of alarm; the roads filled with people walking with everything they owned on their heads, not knowing which direction would be far enough. No army could catch him. He moved like a storm, and like a storm he was gone before the dust settled, leaving behind only smoke, torn earth, and the sea lying where the land had been.\n\nFor the ape, it was a kind of joy. Every village that burned was a stone laid on Narakasura's pyre; every hermitage broken was a blow struck for his friend. He was doing what the dead king would have wanted, and he meant to keep doing it until there was nothing left of Anarta to save.\n\nAnd then, one day, in the middle of the country he had made his own, Dvivida came upon a sight he had not expected. Standing in the ruin — quiet, unhurried, a garland of lotuses around his neck — was the lord of the Yadavas himself. Not the one who had slain his friend. The other one: Balarama, Krishna's elder brother, the plough-bearer whose weapon was a great iron plough, come to see what had been done to his people's land.\n\nThe ape stopped. Behind him the fires still burned, and the hands that had torn up mountains hung at his sides. For a long moment neither of them moved; only the smoke of the burning passed between them. For the first time since Narakasura died, Dvivida looked at a man and did not see prey. Then he showed his teeth — not in fear, but in the joy of a fighter who had finally found an opponent.",
+ "reflection": "Dvivida's destruction is terrible precisely because it is faithful: he is repaying a friendship, and every act of ruin is, in his own mind, an act of love for the dead. The story sets revenge and ruin against the quiet arrival of Balarama, and the whole country holds its breath at the meeting.",
+ "tradition_note": null,
+ "content_note": "The ape Dvivida ravages the land: villages burn, mountains are hurled down on regions, coastal lands are flooded, and villagers are seized and assaulted. The destruction is described with restraint, but may warrant parental awareness for younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Dvivida",
+  "Balarama",
+  "Narakasura"
+ ],
+ "locations": [
+  "Anarta"
+ ],
+ "themes": [
+  "revenge",
+  "destruction",
+  "chaos"
+ ],
+ "previous_story_id": "DKS_0353",
+ "next_story_id": "DKS_0355",
+ "next_story_tease": "The ape and the plough-bearer were about to settle everything between them.",
+ "hero_scene": "In the wreckage of Anarta: the vast ape Dvivida, smoke rising from burning villages behind him, faces the quiet, lotus-garlanded Balarama across the torn ground, the whole land holding its breath.",
+ "visual_elements": [
+  "the vast ape Dvivida looming over burning villages",
+  "mountains uprooted and hurled down upon the regions below",
+  "Dvivida standing mid-ocean flinging seawater over the coastal lands",
+  "the sages' hermitages broken, their trees scattered and fires defiled",
+  "roads filled with fleeing villagers carrying their belongings",
+  "Balarama standing quietly in the ruin with a garland of lotuses around his neck"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.67.1-8",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:39Z",
+  "source_event_id": "evt_0255",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

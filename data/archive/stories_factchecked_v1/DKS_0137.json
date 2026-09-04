@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0137",
+ "title": "The Citizens Rejoice in the Arena",
+ "subtitle": null,
+ "story": "Krishna walked into the arena still holding the elephant's tusk, Balarama at his side, and the city looked down at the two of them and forgot, for a moment, that it had come to watch them die. They shone as they entered — the two of them great-armed, in bright garments and garlands and ornaments, the tusk carried like a staff of proof — and the crowd's eyes followed them across the sand.\n\nThe galleries were full — townsmen and countrymen, kings and commoners, wrestlers and merchants, women at the screened windows — all of them standing on the tiers and leaning forward over the rail. The verses say they drank the two young men in, with their eyes and as if with their tongues, unable to look away from what stood below them.\n\nThen they began to speak to one another, and what they said was the same and yet different, for each person saw the two according to his own heart. To the wrestlers, they whispered, this one is a thunderbolt. To ordinary men he was the best of men. To the women he was love itself given a form. To the cowherds of Vrindavan he was one of their own, come in from the pastures. To the wicked among the kings he was a chastiser, come to call them to account. To the ignorant he was the highest truth; to the yogis, the end of all their striving; to the line of the Vrishnis, their own supreme deity. To his parents he was still only a child. And to the lord of the Bhojas — to Kamsa, seated high above them — he was death walking in through the gate.\n\nAnd as they looked, the people began to remember aloud what they had heard of this boy. They told how he was born to Devaki and carried away in the night to Gokula. How the demoness Putana had been brought to an end by him, and the whirlwind demon after her. How he had saved the cows and the cowherds from the forest fire, and how he had held up a great hill on one hand for seven whole days. They spoke of the gopis, who never tired of his smiling, glancing face, and of how he had made the line of Yadu famous in every land. And this one beside him, they said, is his elder brother — the glorious Rama, with the lotus eyes.\n\nThe trumpets were still sounding, but above them rose another sound: the murmur of a crowd realizing, all at once, who it was that had walked into its arena. The two they had come to see as victims were being named, from every side and in every way, as something far older and far larger than the sport of an afternoon. The rejoicing filled the galleries before a single blow of the wrestling had been struck.",
+ "reflection": "The verse does not pick one of the crowd's descriptions as the true one. It says Krishna is all of them at once — thunderbolt and kinsman, child and death — and that each person, for a moment, is given the sight he or she is ready for. Recognition is the whole event here, and it happens before the fight.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "citizens",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "rejoicing",
+  "recognition"
+ ],
+ "previous_story_id": "DKS_0136",
+ "next_story_id": "DKS_0138",
+ "next_story_tease": "But the rejoicing did not last; Chanura was already stepping forward.",
+ "hero_scene": "Krishna and Balarama entering the Mathura arena, Krishna still carrying the elephant's tusk, while the crowded galleries lean forward, every face turned down toward the two brothers, wonder and joy rising like a tide.",
+ "visual_elements": [
+  "Krishna and Balarama entering the arena",
+  "the elephant tusk carried as a weapon",
+  "citizens filling the wooden galleries",
+  "women at the screened windows",
+  "sounding trumpets",
+  "the deeds of Vrindavan spoken aloud",
+  "wonder and rejoicing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.43.16-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:19:56Z",
+  "source_event_id": "evt_0140"
+ },
+ "editorial_status": "unreviewed"
+}

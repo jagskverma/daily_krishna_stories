@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0308",
+ "title": "The Bee in the Garland",
+ "subtitle": null,
+ "story": "The sealed city of Vajra, ruled by the demon king Vajranabha, had seen many traveling players, but never a troupe whose heroes looked so exactly like the heroes they pretended to be. There was a reason: the young men of the company were warriors of the Yadava clan, the family of Krishna of far-off Dwaraka, who had entered the sealed city disguised as players under the famous actor Bhadra.\n\nWord of the players had gone ahead of them, and at Supura, a city of the demon king, Vajranabha's orders had already arrived: give the actors the finest rooms, treat them as honored guests, press jewels and fine clothes upon them. Bhadra danced for the people of Supura, and they were delighted. Then the company performed the Ramayana, the story of Vishnu taking birth as Rama to destroy the demon king Ravana. The players who took the parts of Rama and his brothers looked so much like the princes they played that even the oldest demons were startled; they rose to applaud, flinging down necklaces of gold and gems, bracelets and fine cloth, while the actors praised each demon house in verse.\n\nThe news reached the city of Vajra itself. Vajranabha, who had heard of the famous actor long before, sent for the troupe, and demons from the branch cities escorted the disguised warriors through the gates. They were lodged in a beautiful house built by the architect of the gods, and the king raised a great pavilion and turned their coming into a festival. When they had rested, he gave them jewels and called for the play. The women of his family watched from behind a screen, and the king sat among his kinsmen.\n\nThe young men of the Yadava clan dressed as players and began. First came music — drums and flutes — and then the women of the troupe sang a song of heaven, sweet to the ear, called Chhalikya. With the seven scales of music and the ragas of spring they sang the story of the sacred river Ganga's descent from heaven, and the demons rose again and again in pleasure. Pradyumna, Krishna's son, spoke the opening blessing with Gada and Shamba, his young kinsmen, and sang the hymn of the Ganga himself with graceful gestures. Then came a drama, the tale of the nymph Rambha: Pradyumna played the god Nalakuvara, who cursed the demon king Ravana for his cruelty and comforted the nymph, and the warriors' illusion raised Mount Kailasa behind them. Scene by scene the demons showered the players with costly garments, jewelled necklaces, sky-chariots, celestial elephants and cooling sandal scents — and at last the Chintamani, the gem that grants every wish. So freely did they give that they emptied their own treasuries.\n\nBut the true purpose of the festival lay elsewhere — in the chamber where Prabhavati, the king's daughter, lived. She had given her heart to a man she had never seen, Pradyumna, whose name and deeds the swans of heaven had carried to her. Now her dearest friend, a goose named Suchimukhi, came to her with news from beyond the walls. \"I went to Dwaraka, the city of the Yadavas,\" she said. \"I saw Pradyumna there in secret and told him of your love. He was glad, and he has appointed this very evening to meet you. The Yadavas never speak an untruth. Truly, tonight you will meet your love.\"\n\nPrabhavati's heart leapt. \"Stay in my room tonight,\" she said. \"If you are with me, I fear nothing. With you beside me, I will see Krishna's son.\"\n\nThat evening a fragrant garland, thick with bees, was carried to the princess's chamber, and hidden among the bees was Pradyumna in the form of one of them. As dusk deepened, the other bees flew away one by one, until only one remained; and that one, the hero of the Yadava house, settled slowly on Prabhavati's ear.\n\nThe full moon rose over the city. Prabhavati's limbs burned and her mouth had gone dry; she confessed to the goose the strange fever of loving a man she had only heard of. \"I have not seen him,\" she said, \"and still my limbs burn.\" Then the bee at her ear was a bee no longer — the guest promised for the evening had come. In the lamplit room above the city, the princess who had given her heart to a name met at last the hero who had crossed the most guarded walls in the world as a bee in a flower garland.",
+ "reflection": "The city that no army could breach is entered by a bee in a garland. Pradyumna, who could fight any host, comes to his bride as the smallest of creatures — the episode's power lies in how much is carried by stillness and trust: a goose's promise, a princess's faith, an evening kept.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Prabhavati",
+  "Suchimukhi (goose)"
+ ],
+ "locations": [
+  "city Vajra",
+  "Prabhavati's chamber"
+ ],
+ "themes": [
+  "romance",
+  "longing",
+  "disguise"
+ ],
+ "previous_story_id": "DKS_0307",
+ "next_story_id": "DKS_0309",
+ "next_story_tease": "The marriage was secret, but the sons it would bring into the world would not stay hidden for long.",
+ "hero_scene": "By moonlight in Prabhavati's chamber, a single bee settles on the princess's ear as the rest of the garland's bees drift away into the evening; her eyes widen, half-afraid and half-knowing, as the full moon rises over the city of Vajra.",
+ "visual_elements": [
+  "the garland thick with bees carried to Prabhavati's chamber",
+  "Pradyumna as a bee settling on her ear as the others fly away at dusk",
+  "the full moon rising over the city of Vajra",
+  "the lamplit room where the lovers meet",
+  "longing and secrecy"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.240",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:53:20Z",
+  "source_event_id": "evt_0323",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

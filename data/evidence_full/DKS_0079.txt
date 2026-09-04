@@ -1,0 +1,33 @@
+# STORY DKS_0079 — Krishna Questions the Indra Sacrifice
+
+## Index entry
+title: Krishna Questions the Indra Sacrifice
+summary: Krishna, bowing humbly, asks Nanda and the elders what ceremony they have begun, its fruit, for whom, and by what means it is accomplished.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Krishna, Nanda
+locations: Vrindavan
+themes: ritual, questioning, humility
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0091
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 24 | verses 1-6 | confidence 5
+  excerpt: Krishna, bowing humbly, asked the elders led by Nanda: 'Tell me, father, what is this ceremony you have undertaken? What is its fruit, for whom, and by what means is the sacrifice accomplished?' (rendered from Sanskrit, verse 2)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.24 (1-6)
+1. tad-abhijño 'pi bhagavān sarvātmā sarva-darśanaḥ /
+2. kathyatāṃ me pitaḥ ko 'yaṃ sambhramo va upāgataḥ /
+3. etad brūhi mahān kāmo mahyaṃ śuśrūṣave pitaḥ /
+4. asty asva-para-dṛṣṭīnām amitrodāsta-vidviṣām /
+5. jñatvājñātvā ca karmāṇi jano 'yam anutiṣṭhati /
+6. tatra tāvat kriyā-yogo bhavatāṃ kiṃ vicāritaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0078 | next_story_id: DKS_0080
+previous title: Krishna Emerges and the Villagers Rejoice
+next title: Indra Becomes Furious

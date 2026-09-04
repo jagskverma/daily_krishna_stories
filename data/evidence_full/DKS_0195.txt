@@ -1,0 +1,29 @@
+# STORY DKS_0195 — Krishna Carries Off Rukmini and Wins Satya || Uddhava recalls how Krishna carried off Rukmini, Bhishmaka's daughter, by the gandharva rite, and how he defeated the proud kings to win Satya (Nagnajiti) at her svayamvara.
+
+## Index entry
+title: Krishna Carries Off Rukmini and Wins Satya || Uddhava recalls how Krishna carried off Rukmini, Bhishmaka's daughter, by the gandharva rite, and how he defeated the proud kings to win Satya (Nagnajiti) at her svayamvara.
+summary: Uddhava recalls how Krishna carried off Rukmini, Bhishmaka's daughter, by the gandharva rite, and how he defeated the proud kings to win Satya (Nagnajiti) at her svayamvara.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Rukmini, Satya (Nagnajiti)
+locations: Kundina, the svayamvara hall
+themes: elopement, marriage, valour
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0282
+variant_notes: Recall bundling Rukmini's abduction + Satya's svayamvara; cross-ref both clusters.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 2-3 | confidence 5
+  excerpt: Uddhava said: 'Summoned by Bhishmaka's daughter, he carried off his own share by the gandharva rite while the suitors looked on; and, humbling the proud kings, he won Nagnajiti at her svayamvara.' (rendered from Sanskrit, verses 2-3)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (2-3)
+2. samāhutā bhīṣmaka-kanyayā ye śriyaḥ savarṇena bubhūṣayaiṣām /
+3. kakudmino 'viddha-naso damitvā svayaṃvare nāgnajitīm uvāha /
+
+## Corpus chain
+previous_story_id: DKS_0194 | next_story_id: DKS_0196
+previous title: Rukmini Declares She Weds Only Krishna
+next title: Rukmini Resolves to Marry Krishna and Sends a Brahmana Messenger || Princess Rukmini, hearing of Krishna's virtues, resolves to wed him and sends a brahmana to Dvaraka with her secret message.

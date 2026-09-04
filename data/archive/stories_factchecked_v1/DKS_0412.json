@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0412",
+ "title": "Krishna Accepts the Peace Mission",
+ "subtitle": null,
+ "story": "When the brothers had finished, Arjuna spoke once more, and this time his words were few and direct. \"You are now the best friend of all the Kurus,\" he said. \"Related to both parties, you are the dear friend of both. It behoves you to bring about peace between the Pandavas and the sons of Dhritarashtra — you are competent, and therefore it behoves you to bring about reconciliation. Going hence for peace, say to our ever-wrathful brother Suyodhana what should be said: if the foolish Duryodhana does not accept your auspicious and beneficial counsels, fraught with virtue and profit, he will surely then be the victim of his fate.\"\n\nKrishna answered without hesitation. \"Yes, I will go to king Dhritarashtra,\" he said, \"desirous of accomplishing what is consistent with righteousness, what may be beneficial to us, and what also is for the good of the Kurus.\"\n\nThe night passed. A bright sun rose in the east, the hour called Maitra set in, and the rays of the sun were still mild. It was the month of Kartika, under the constellation Revati; the season of dew had come, autumn having departed, and the earth was covered with abundant crops on every side. Krishna performed the customary rites of the morning, purified himself by a bath, and decked his person with unguents and ornaments. He worshipped the Sun and Fire, touched the tail of a bull, bowed reverently to the Brahmanas, walked round the sacred fire, and cast his eyes on the auspicious articles placed in view.\n\nThen he recollected Yudhishthira's words and called to Satyaki, seated near. \"Let my car be made ready,\" he said, \"and let my conch and discus, along with my mace, my quivers and darts, and all kinds of weapons, offensive and defensive, be placed on it. For Duryodhana and Karna and Suvala's son are all of wicked souls — and foes, however contemptible, should never be disregarded by even a powerful person.\"\n\nHis attendants understood and set to work. The chariot they readied blazed like the fire of universal dissolution, and its speed matched the thought of the rider. Its two wheels resembled the sun and the moon in lustre; it bore emblazonments of moons both crescent and full, of fishes, animals and birds, and was adorned with garlands of flowers and with pearls and gems on every side. A tall flagstaff rose from it, bearing beautiful pennons, and tiger-skins covered its frame. Incapable of being resisted by any foe, capable of robbing the fame of every enemy, it was a chariot that enhanced the joy of the Yadavas. To it they yoked the great horses Saivya, Sugriva, Meghapushpa and Valahaka, bathed and attired in beautiful harness. And as Krishna's dignity grew still greater, Garuda, lord of the feathered creation, came and perched on the flagstaff, producing a terrible rattle.\n\nKrishna mounted the car — high as the summit of Meru, sounding deep and loud as a kettle-drum or thunder — and, taking Satyaki up beside him, set out, filling the earth and the sky with the rattle of his chariot-wheels. The sky was cloudless, auspicious winds began to blow, and the atmosphere, freed from dust, turned pure. Auspicious animals and birds, whirling by the right side, began to follow him; cranes and peacocks and swans cried out good omens, and the fire fed with homa libations blazed up cheerfully, sending its flames towards the right. Great seers — Vasishtha and Vamadeva among them — stood on Krishna's right as he passed. Yudhishthira followed his cousin, and with him Bhima, Arjuna, and the twins, and behind them the valiant Chekitana, Dhrishtaketu the ruler of the Chedis, Drupada, and the king of Kasi. They accompanied the car for a little way and then let it go, watching as the last chance for peace rolled northward towards the residence of the Kurus, its wheels thundering under the bright Kartika sky.",
+ "reflection": "Krishna accepts the mission in three clauses — what is righteous, what is beneficial, and what is good for the Kurus — as if the three could be one. And then he arms his chariot for a peace mission, because he knows whom he is going to meet: the same Krishna who promises reconciliation also tells Satyaki that no foe, however contemptible, should ever be disregarded.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Satyaki",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "peace",
+  "duty",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0411",
+ "next_story_id": "DKS_0413",
+ "next_story_tease": "The road to Hastinapura lay open before him, and in the Kuru city the brothers waited to receive their guest.",
+ "hero_scene": "At bright Kartika dawn, Krishna's great chariot stands ready before the camp at Upaplavya — wheels bright as sun and moon, garlands and gems adorning it, Garuda perched on the flagstaff — as Krishna, with Satyaki beside him, prepares to mount while the Pandava brothers stand watching.",
+ "visual_elements": [
+  "the great chariot with wheels like sun and moon",
+  "emblems of moons, fishes, animals and birds; garlands, pearls and gems",
+  "Garuda perched on the flagstaff",
+  "the four horses Saivya, Sugriva, Meghapushpa and Valahaka in harness",
+  "Krishna mounting with Satyaki, the Pandavas watching",
+  "bright dawn, Kartika season, crops covering the earth"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.83",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0419"
+ },
+ "editorial_status": "unreviewed"
+}

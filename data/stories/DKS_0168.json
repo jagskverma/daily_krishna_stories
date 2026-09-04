@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0168",
+ "title": "The Hand Krishna Held Back",
+ "subtitle": null,
+ "story": "The three guests had refused the king's welcome, and the refusal hung in the hall like a line drawn between Jarasandha of Magadha and the strangers before him. They had come to his city disguised as brahmanas, the holy men whom every king is bound to honour; he had received them with every honour; and they had set his courtesy aside. Whatever they were, they were plainly not what they seemed — and Jarasandha, who had conquered and imprisoned so many rulers, did not raise his hand against them. He asked his question first. \"I have searched my memory,\" he said, \"and I cannot recall that I ever did you an injury. When I have done you no wrong, why do you treat me, who am innocent, as your enemy? Answer me truly — that is the way of honest men.\"\n\nKrishna's answer changed the air of the hall. \"We did not come of our own will,\" he said. \"A king at the head of a royal line sent us against you. You have brought many of the rulers of the world here as captives to your city. After such a wrong, how can you call yourself innocent? You treat other kings with cruelty and keep them for a sacrifice to the god Rudra, whom some name Sankara. The slaughter of human beings as an offering to the gods is never seen anywhere. Why then do you mean to perform a sacrifice to that god by killing men? You would make rulers of your own warrior class into animals for the altar.\"\n\nThen he told them plainly who stood before him. \"Know that we are no brahmanas. I am Krishna, and these two are Bhima and Arjuna, the sons of Pandu. King of Magadha, we challenge you. Stand and fight. Either set free every king you hold, or make your way to the realm of Yama, the lord of the dead.\" He spoke of what waits for a warrior who dies in open fight: heaven, gained as surely as victory — the road by which Indra, king of the gods, rose to his place by vanquishing the demons. And he spoke of kings who had thought themselves beyond reach — Damvodhava, Kartavirya, Uttara, and Vrihadratha — all swept away with their armies for looking down on those above them. \"Do not scorn other men,\" Krishna said. \"Valour lives in every man, and there are many whose strength equals or passes yours. Put aside your pride in the presence of your equals.\"\n\nJarasandha's answer was unshaken. He had never made a captive of a king he had not first conquered, he said; every ruler kept in his city had been defeated in open war. It was the duty of his order — the Kshatriyas, the warrior kings — to bring others under their sway by the showing of strength and then to hold them. \"Having gathered these monarchs to offer them as sacrifice to the god, how shall I, out of fear, set them free today?\" He would not bargain, and he would not bend: troops against troops, he said, or alone against one of them, or against two, or against all three at once.\n\nThey might have fallen on him together then, and one alone would have been enough — for Krishna himself was more than a match for the king of Magadha, and the strength of his whole line could have ended the matter then and there. But Krishna held back. He was devoted to truth, and he remembered the decree of Brahma, the creator: Jarasandha was destined to fall in battle by the hand of Bhima, and not by the hand of any Yadava. He would not take what destiny had given to another.\n\nSo Bhima, the son of Pandu, stepped forward to meet the king of Magadha, and Krishna drew back his own hand and stood aside. The long duel began — a fight in which Krishna would take no part, because this death had another name written on it, and he would not write over it with his own.",
+ "reflection": "The hinge of the episode is Krishna's restraint — the king of Magadha stands within his reach, yet he will not take what destiny has assigned to another hand. His power shows itself as much in what he refuses to do as in what he does.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Jarasandha",
+  "Bhima"
+ ],
+ "locations": [
+  "Girivraja"
+ ],
+ "themes": [
+  "destiny",
+  "restraint",
+  "deference"
+ ],
+ "previous_story_id": "DKS_0167",
+ "next_story_id": "DKS_0169",
+ "next_story_tease": "But even as the duel began, a new enemy was already marching against Mathura — the Yavana king Kalayavana.",
+ "hero_scene": "Bhima stepping forward to face Jarasandha in the middle of the great hall, while Krishna stands back with arms folded, deliberately refusing a fight that destiny has assigned to another.",
+ "visual_elements": [
+  "the court of Girivraja",
+  "Bhima and Jarasandha facing each other",
+  "Krishna standing aside, withholding his hand",
+  "Arjuna at his side",
+  "the challenge accepted",
+  "restraint and destiny"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:04Z",
+  "source_event_id": "evt_0395",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

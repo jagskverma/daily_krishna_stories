@@ -1,0 +1,37 @@
+# STORY DKS_0261 — Krishna Slays Mura and His Seven Sons || Krishna beheads the five-headed demon Mura and slays his seven sons who attack in revenge.
+
+## Index entry
+title: Krishna Slays Mura and His Seven Sons || Krishna beheads the five-headed demon Mura and slays his seven sons who attack in revenge.
+summary: Krishna beheads the five-headed demon Mura and slays his seven sons who attack in revenge.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Mura
+locations: Pragjyotisha
+themes: battle, demon-slaying
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0246
+variant_notes: Cross-ref: Naraka cluster (hv_b1_120_02 bundles Mura's slaying).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 59 | verses 5-14 | confidence 5
+  excerpt: Mura, roused by Krishna's conch, rose from the waters with five heads and hurled his trident; Krishna shattered it with two arrows and with his discus cut off Mura's heads, then slew Mura's seven sons who attacked to avenge their father. (rendered from Sanskrit, verses 5-14)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.59 (5-14)
+5. pāñcajanya-dhvaniṃ śrutvā yugāntaśani-bhīṣaṇam /
+6. tri-śūlam udyamya su-durnirīkṣaṇo yugānta-sūryānala-rocir ulbaṇaḥ /
+7. āvidhya śūlaṃ tarasā garutmate nirasya vaktrair vyanadat sa pañcabhiḥ /
+8. tadāpatad vai tri-śikhaṃ garutmate hariḥ śarābhyām abhinat tridhojasā /
+9. tām āpatantīṃ gadayā gadāṃ mṛdhe gadāgrajo nirbibhide sahasradhā /
+10. vyasuḥ papātāmbhasi kṛtta-śīrṣo nikṛtta-śṛṅgo 'drir ivendra-tejasā /
+11. tāmro 'ntarikṣaḥ śravaṇo vibhāvasur $ vasur nabhasvān aruṇaś ca saptamaḥ &amp;pīṭhaṃ puraskṛtya camū-patiṃ mṛdhe % bhauma-prayuktā niragan dhṛtāyudhāḥ
+12. prāyuñjatāsādya śarān asīn gadāḥ śakty-ṛṣṭi-śūlāny ajite ruṣolbaṇāḥ /
+13. tān pīṭha-mukhyān anayad yama-kṣayaṃ $ nikṛtta-śīrṣoru-bhujāṅghri-varmaṇaḥ &
+14. dṛṣṭvā sa-bhāryaṃ garuḍopari sthitaṃ $ sūryopariṣṭāt sa-taḍid ghanaṃ yathā &amp;kṛṣṇaṃ sa tasmai vyasṛjac chata-ghnīṃ % yodhāś ca sarve yugapac ca vivyadhuḥ
+
+## Corpus chain
+previous_story_id: DKS_0260 | next_story_id: DKS_0262
+previous title: Krishna Breaches Mura's Fortifications || Indra complains of Narakasura's thefts; Krishna with Satyabhama on Garuda shatters the mountain, weapon, water, fire and Mura-pasha defenses of Pragjyotisha.
+next title: Krishna Slays Narakasura

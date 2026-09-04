@@ -1,0 +1,35 @@
+# STORY DKS_0095 — The Brahmanas' Wives Bring Food to Krishna
+
+## Index entry
+title: The Brahmanas' Wives Bring Food to Krishna
+summary: Krishna then sends the boys to the brahmanas' wives, who, longing for his sight, hasten to him with every kind of food, disregarding their families.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: brahmana wives, cowherd boys, Krishna
+locations: Vrindavan
+themes: devotion, longing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0088
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 23 | verses 12-19 | confidence 5
+  excerpt: The wives of the brahmanas, hearing that Krishna has come, take dishes of fine food and hurry to him like rivers to the sea, heedless of husbands and kinsmen who would stop them. (rendered from Sanskrit, verse 12-19)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.23 (12-19)
+12. tad upākarṇya bhagavān prahasya jagad-īśvaraḥ /
+13. māṃ jñāpayata patnībhyaḥ sa-saṅkarṣaṇam āgatam /
+14. gatvātha patnī-śālāyāṃ dṛṣṭvāsīnāḥ sv-alaṅkṛtāḥ /
+15. namo vo vipra-patnībhyo nibodhata vacāṃsi naḥ /
+16. gāś cārayan sa gopālaiḥ sa-rāmo dūram āgataḥ /
+17. śrutvācyutam upāyātaṃ nityaṃ tad-darśanotsukāḥ /
+18. catur-vidhaṃ bahu-guṇam annam ādāya bhājanaiḥ /
+19. niṣidhyamānāḥ patibhir bhrātṛbhir bandhubhiḥ sutaiḥ /
+
+## Corpus chain
+previous_story_id: DKS_0094 | next_story_id: DKS_0096
+previous title: The Brahmanas Refuse Krishna's Request for Food
+next title: The Wives Refuse to Return and Krishna Welcomes Them

@@ -1,0 +1,47 @@
+# STORY DKS_0085 — Krishna Lifts Govardhana Hill
+
+## Index entry
+title: Krishna Lifts Govardhana Hill
+summary: Krishna lifts Govardhana hill with one hand and holds it aloft like an umbrella to shelter the cowherds.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Krishna, Indra, cowherds
+locations: Govardhana
+themes: protection, divine power
+festival_tags: Govardhan Puja
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0097
+variant_notes: HV/VP specify seven nights/days; bpc1_036 is Uddhava's recollection.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 25 | verses 10-19 | confidence 5
+  excerpt: Seeing the cowherds stricken by hail and wind, Krishna reasoned that Indra in anger was sending this out-of-season storm, and to destroy the pride of those who fancy themselves lords, he lifted Govardhana hill with one hand and held it up like an umbrella. (rendered from Sanskrit, verses 13-18)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 31-32 | confidence 5
+  excerpt: Uddhava said: 'He had the cowherd king perform the go-savana sacrifice; and when Indra, his pride broken, rained down in fury, the terrified Vraja was sheltered by the umbrella of the hill, the Lord favouring his devotees.' (rendered from Sanskrit, verses 31-32)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 73 | verses  | confidence 4
+  excerpt: For protecting the Gopas like unto Brahma the Lord Krishna raised up that mountain and kept it on the tip of his finger.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 11 | verses  | confidence 4
+  excerpt: Krishńa immediately plucked up the mountain Govarddhana, and held it aloft with one hand in sport... For seven days and nights did the vast clouds sent by Indra rain upon the Gokula of Nanda... but they were protected by the elevation of the mountain.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.25 (10-19)
+10. aty-āsārāti-vātena paśavo jāta-vepanāḥ /
+11. śiraḥ sutāṃś ca kāyena pracchādyāsāra-pīḍitāḥ /
+12. kṛṣṇa kṛṣṇa mahā-bhāga tvan-nāthaṃ gokulaṃ prabho /
+13. śilā-varṣāti-vātena hanyamānam acetanam /
+14. apartv aty-ulbaṇaṃ varṣam ati-vātaṃ śilā-mayam /
+15. tatra pratividhiṃ samyag ātma-yogena sādhaye /
+16. na hi sad-bhāva-yuktānāṃ surāṇām īśa-vismayaḥ /
+17. tasmān mac-charaṇaṃ goṣṭhaṃ man-nāthaṃ mat-parigraham /
+18. ity uktvaikena hastena kṛtvā govardhanācalam /
+19. athāha bhagavān gopān he 'mba tāta vrajaukasaḥ /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (31-32)
+31. ayājayad go-savena gopa-rājaṃ dvijottamaiḥ /
+32. varṣatīndre vrajaḥ kopād bhagnamāne 'tivihvalaḥ /
+
+## Pilot chain
+previous_story_id: DKS_0074 | next_story_id: DKS_0099
+previous title: Krishna Dances on Kaliya's Heads
+next title: The Gopis Abandon Their Homes

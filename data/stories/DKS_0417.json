@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0417",
+ "title": "Krishna's Auspicious Journey to Hastinapura",
+ "subtitle": null,
+ "story": "From Upaplavya, the Pandavas' camp, Krishna set out on the errand Yudhishthira had asked of him. Ten car-warriors rode behind his chariot, fully armed and ready to meet hostile heroes; a thousand foot-soldiers and a thousand horsemen followed, with attendants by the hundred carrying provisions in abundance. Ahead lay Hastinapura, the capital of the Kurus. And for those who watched him go, the sky itself began to speak.\n\nThough no cloud stood in it, thunder rolled and lightning flashed. Fleecy clouds in the clear sky rained down behind him. The seven great rivers — the Sindhu among them — that flow eastward turned and ran the other way. The directions themselves seemed reversed, and nothing could be told apart. Fires blazed up from the earth, and the earth trembled again and again. Wells and water jars by the hundred swelled up and ran over. Darkness covered the whole universe, and dust filled the air until neither one point of the horizon nor another could be distinguished. Loud roars rolled through the sky, and no being was visible from whom they came. And a south-westerly wind, harsh with thunder, tore up trees by the thousands and crushed the city of Hastinapura.\n\nBut the road that Krishna travelled turned gentle. Delicious breezes blew, and everything around him became auspicious. Showers of lotuses and fragrant flowers fell where he passed. The way itself grew delightful, free of prickly grass and thorns. Wherever he stayed, brahmin priests by the thousand glorified him and worshipped him with dishes of curds, ghee, and honey, and with gifts of wealth, and the women, coming out onto the road, strewed wild flowers of great fragrance in his path. The same departure was ruin for the Kuru capital and blessing for every place his chariot touched.\n\nHe passed through villages abounding in bees, pleasing to the eye and restful to the heart, and through cities and kingdoms of every kind, until he came to a delightful spot called Salibhavana, filled with every sort of crop. The citizens of Upaplavya — always cheerful, well protected, free from any fear of invaders — came out of their town and stood together on the way, eager to see Krishna; and when he arrived, they worshipped him with all the honours due to a guest.\n\nAt last, when Krishna came to Vrikasthala, the sun reddened the sky with long, straggling rays of light. Alighting from his chariot, he performed the traveller's washing and set himself to his evening prayers. Daruka, his charioteer, freed the horses and tended them as a master charioteer should, loosening the yokes and traces and letting them rest. Then Krishna said, \"Here we must pass the night — for the sake of Yudhishthira's mission.\"\n\nReading his intention, the attendants soon raised a shelter and prepared, in a short time, excellent food and drink. The brahmins of the village — noble and high-born, modest, devoted to the learning of the Vedas — came to honour him with blessings and auspicious words, and pressed their own houses, rich as they were, upon him. \"Enough,\" Krishna told them, and he paid each one the respect due to his rank, walked with them to their homes, and returned in their company to his own tent. He fed the brahmins with sweetmeats and took his meal with them, and passed the night there content — at the very threshold of the city whose sky had darkened at his coming.",
+ "reflection": "The omens at Krishna's departure split the world in two: ruin gathers over Hastinapura while his own path turns auspicious, as though the sky itself chose sides. The same journey is disaster for one city and blessing for every village along the way — his presence, not the weather, decides what happens where.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Daruka"
+ ],
+ "locations": [
+  "Vrikasthala",
+  "Road to Hastinapura"
+ ],
+ "themes": [
+  "omens",
+  "auspiciousness",
+  "journey"
+ ],
+ "previous_story_id": "DKS_0416",
+ "next_story_id": "DKS_0418",
+ "next_story_tease": "In Hastinapura, Duryodhana was already raising a reception fit for a king — pavilions, gems, and garlands meant to dazzle the arriving guest.",
+ "hero_scene": "Krishna's chariot rolls along a road free of thorns as showers of lotuses fall from a clear sky and women strew wildflowers in his path, while the sky over distant Hastinapura churns with darkness, lightning, and dust.",
+ "visual_elements": [
+  "Krishna's chariot with armed escort",
+  "showers of lotuses and fragrant flowers falling from a clear sky",
+  "women strewing wildflowers on the road",
+  "thunder, lightning, and dust over distant Hastinapura",
+  "the road to Hastinapura free of prickly grass and thorns",
+  "auspicious serenity against a storm-touched horizon"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.84",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0424",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

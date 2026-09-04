@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0112",
+ "title": "Akrura Journeys to Vrindavan",
+ "subtitle": null,
+ "story": "The man on the road was the envoy of a tyrant, and yet the nearer he came to Vrindavan, the lighter his errand felt. Akrura had been sent by Kamsa, the king of Mathura, to fetch Krishna and Balarama to the city. But in his own heart Akrura was no servant of Kamsa, and as his chariot moved through the country he began to speak to himself, not as a messenger but as a pilgrim.\n\nWhat good have I ever done, he wondered, that I should have this? What great austerity have I performed, that the rare sight of Krishna — the sight the sages and the gods long for — should be coming to me? He turned the thought over and over, and it kept returning the same answer: it was not a thing he had earned. Even Kamsa, by sending him, had unwittingly shown him grace; the very man who meant harm had handed Akrura the chance to behold the lotus feet of Hari. Feet worshipped by Brahma and Shiva, by the goddess of fortune and the sages, feet that had wandered the forest herding cows, marked with the dust of the gopis' love — feet that give shelter to those fleeing the great serpent of time, and at which Indra and Bali once placed their offerings and won the lordship of the three worlds.\n\nHe let himself imagine the meeting, and the imagining became its own kind of prayer. He would see the face at last — the fine cheeks and nose, the smiling glance, the eyes like red lotuses — the Lord who had descended of his own free will into the line of the Yadus to lift the earth's burden, whose praises mingle with every auspicious word spoken of his deeds and his births. He pictured himself falling at Krishna's feet, and Krishna's own lotus hand resting on his head in blessing. He saw the embrace: the two strong arms closing around him, and the voice — that voice — saying, \"O Akrura.\" And if that word were ever spoken to him, he thought, then his birth — every birth — would at last be fulfilled. He imagined Krishna looking at him with a smile and eyes soft with kindness, and the thought alone, he felt, would wash away every wrong he had ever carried. He dared to hope Balarama would embrace him too.\n\nAnd then the fear that every sincere heart knows. I am Kamsa's messenger, he thought. What if Krishna, who sees everything within and without, reads the errand and turns away? But the fear dissolved as quickly as it rose. Krishna is no partisan, he told himself; he has no favorite and no enemy, no one he despises and no one he avoids. He would not hold against a man the chariot he happened to arrive in, or the errand he happened to carry.\n\nSo he rode on, his thoughts no longer on the message he carried but on the feet he was travelling toward. The sun sank low, and at Gokula, as the day ended, he came down from the chariot. There in the dust of the road he saw them — the footprints of the Lord, marked with the lotus and the other signs, the feet whose dust adorns the crowns of all the protectors of the worlds. He stood before them a long moment, and the journey was already over, because the errand had already become something else.\n\nHe had set out to carry a king's order. He had arrived carrying only a longing, and it was enough.",
+ "reflection": "Akrura's fear that Krishna will read his errand and turn away is the fear of anyone who comes to the divine with mixed motives. The story answers it not with reassurance but with a truth about Krishna himself — that he holds no one as enemy or favorite — which makes the road, and not the message, the real point of the journey.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Akrura"
+ ],
+ "locations": [
+  "Vrindavan",
+  "Gokula"
+ ],
+ "themes": [
+  "devotion",
+  "anticipation"
+ ],
+ "previous_story_id": "DKS_0111",
+ "next_story_id": "DKS_0113",
+ "next_story_tease": "The footprints were only the beginning; ahead, at the cow-pens of Vrindavan, the Lord himself was waiting to be seen.",
+ "hero_scene": "Akrura standing beside his chariot on the road into Gokula at sunset, gazing down at the footprints of Krishna marked with the lotus and other auspicious signs in the dust.",
+ "visual_elements": [
+  "Akrura the envoy on his chariot",
+  "the long road to Vrindavan",
+  "sunset over Gokula",
+  "footprints in the dust marked with the lotus and other signs",
+  "a man lost in longing and hope",
+  "the imagined embrace and blessing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.38.1-23",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:05Z",
+  "source_event_id": "evt_0122"
+ },
+ "editorial_status": "unreviewed"
+}

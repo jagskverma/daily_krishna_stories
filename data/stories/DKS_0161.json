@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0161",
+ "title": "Kalayavana Marches on Mathura",
+ "subtitle": null,
+ "story": "Kalayavana, king of the Yavanas, held in his hands the strangest honor of his life: the kings of the earth had asked him to defeat Krishna, the hero of Mathura, whom no king had yet beaten in war. He was not a man given to doubt, and the request only confirmed what he already believed of himself.\n\n\"Happily honored am I,\" he said, \"and my life is crowned with success. Numberless kings have begged me to vanquish Krishna, who is invincible in the three worlds, even to gods and demons — and they have already declared my victory. Whatever comes of it, I will carry out the command of the emperor Jarasandha. Even my defeat in such a cause will count as success. The stars are auspicious today, and today I march on Mathura, to defeat Krishna in the field.\"\n\nHe loaded Shalya with precious gems and fine clothes, scattered gifts among the priests, and made offerings to the sacred fire. Then, when the rites of blessing were done, he set out with his army; and Shalya, his errand achieved, embraced the king of the Yavanas and rode home with the answer for the kings.\n\nFew in the host that marched behind Kalayavana knew the story of their king's birth, though all India was about to learn it. The sage Gargya, mocked as powerless by his own brother-in-law before an assembly of the Yadavas, had not forgiven the laughter. He went to the shore of the western sea and did penance, living on iron sand, until Shiva was pleased and granted his prayer: a son who would be a terror to the tribe of Yadu. The childless king of the Yavanas befriended the sage, and by the king's wife Gargya begot a son — a boy black as a bee, with a chest hard as the point of a thunderbolt — and they named him Kalayavana. The old king set the boy on his throne and went into the forest to live as a hermit.\n\nOnce he was king, Kalayavana asked the wandering sage Narada who the mightiest heroes on earth were. \"The Yadavas,\" Narada answered — and the king of the Yavanas never forgot the name. They were the only enemies he thought worth marching against.\n\nSo he gathered a countless host of foreign warriors — elephants, horsemen, chariots and foot — and drove it against Mathura, wearying the beast that carried him each day but never seeming to tire himself. The whole army moved at the pace of his restlessness. The name of Kalayavana ran ahead of it like fire: he was coming to Mathura, he would not turn back until Krishna was beaten in the field, and he had sworn that even his own defeat would not count as failure.",
+ "reflection": "Kalayavana's boast contains its own admission — even his discomfiture, he says, will count as success. A king who sets out expecting that nothing he does can be failure has already stopped weighing his chances.",
+ "tradition_note": "The Vishnu Purana tells this march differently: there, Kalayavana learns from Narada that the Yadavas are the mightiest heroes on earth and advances on his own, with no embassy from Jarasandha. This account follows the Harivamsha.",
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Kalayavana",
+  "Shalya",
+  "Krishna",
+  "Gargya",
+  "Narada"
+ ],
+ "locations": [
+  "Yavana capital",
+  "Mathura"
+ ],
+ "themes": [
+  "pride",
+  "war-march",
+  "boast"
+ ],
+ "previous_story_id": "DKS_0160",
+ "next_story_id": "DKS_0162",
+ "next_story_tease": "As the Yavana host drew near Mathura, Krishna prepared a warning sealed in a jar.",
+ "hero_scene": "Kalayavana at the head of his vast army — elephants, cavalry, chariots and foot stretching to the horizon — riding out of the Yavana capital toward Mathura, dust rising around him.",
+ "visual_elements": [
+  "Kalayavana at the head of his army",
+  "elephants, cavalry, chariots and foot",
+  "the host stretching to the horizon",
+  "dust rising on the march",
+  "the Yavana capital behind",
+  "pride and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.111",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.23",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0188",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

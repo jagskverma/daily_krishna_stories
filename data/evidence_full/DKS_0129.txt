@@ -1,0 +1,121 @@
+# STORY DKS_0129 — Kamsa Sends Akrura to Fetch Krishna
+
+## Index entry
+title: Kamsa Sends Akrura to Fetch Krishna
+summary: Kamsa, taking Akrura by the hand, sends him with sweet words to bring Krishna and Balarama to Mathura.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Kamsa, Akrura
+locations: Mathura
+themes: deceit, mission
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0131
+variant_notes: VP 5.15 also folds in the sending of Kesin.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 36 | verses 26-39 | confidence 5
+  excerpt: Kamsa, taking Akrura by the hand, sent him with sweet words to bring Krishna and Balarama from Vraja, saying the bow sacrifice was to be seen; and Akrura, though he knew Kamsa's intent, agreed to carry out the command. (rendered from Sanskrit, verses 26-39)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 77 | verses  | confidence 4
+  excerpt: 'Whatever it may be, O giver of gifts, go to Vraja, at my command and bring these two boys, Nanda and other Gopas who pay tributes to me.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 15 | verses  | confidence 4
+  excerpt: I will send the noble Yadu, Akrúra the son of Swaphalka, to Gokula, to bring them hither: I will order the fierce Keśin... to attack them... my elephant Kuvalayápíd́a shall trample to death these two cow-boy sons of Vasudeva.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.36 (26-39)
+26. ity ājñāpyārtha-tantra-jña āhūya yadu-puṅgavam /
+27. bho bho dāna-pate mahyaṃ kriyatāṃ maitram ādṛtaḥ /
+28. atas tvām āśritaḥ saumya kārya-gaurava-sādhanam /
+29. gaccha nanda-vrajaṃ tatra sutāv ānakadundubheḥ /
+30. nisṛṣṭaḥ kila me mṛtyur devair vaikuṇṭha-saṃśrayaiḥ /
+31. ghātayiṣya ihānītau kāla-kalpena hastinā /
+32. tayor nihatayos taptān vasudeva-purogamān /
+33. ugrasenaṃ ca pitaraṃ sthaviraṃ rājya-kāmukaṃ /
+34. tataś caiṣā mahī mitra bhavitrī naṣṭa-kaṇṭakā /
+35. śambaro narako bāṇo mayy eva kṛta-sauhṛdāḥ /
+36. etaj jñātvānaya kṣipraṃ rāma-kṛṣṇāv ihārbhakau /
+37. bhp_10.36.038/0 śrī-akrūra uvāca
+38. manorathān karoty uccair jano daiva-hatān api /
+39. bhp_10.36.040/0 śrī-śuka uvāca
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.77 ()
+TITLE: KANSA INVITES KRISHNA AND SENDS AKRURA TO BRING HIM
+
+Vaishampayana said:—Hearing that Krishna was advancing in power like
+fire in Vraja, Kansa, anticipating fear from him, was filled with
+anxiety (1). On Putana being slain, the two trees being dragged by the
+boy of no boy-like deeds, Kalya being vanquished, Dhenuka being killed,
+Pralamva being discomfitted, the mount Govardhana being raised up,
+Indra’s commandment being disregarded, the kine being protected by
+enviable deeds and Kakudmi and Arishtha being destroyed the Gopas were
+filled with delight. Beholding these highly terrible portends indicating
+his impending death and these unthought of feats amongst his rising
+enemies Mathura’s king Kansa considered himself as brought under the
+influence of death. And his organs and mind being deprived of
+consciousness he appeared like one dead (2-6). Thereupon in the
+noiseless dead of night, Mathura’s king Kansa, the son of Ugrasena of
+fierce commands, summoned his father and kinsmen to his city (7).
+Summoning god-like Vasudeva, Kangka, Satyaka, Dāruka, Kanka’s youngest
+brother, Bhoja, Vaitarana, the highly powerful Vikadru, the king
+Bhayesakha, Viprithu of great prosperity, the liberal Kritavarma, the
+highly energetic and bold Bhurishravā and various other descendants of
+Yadu race and welcoming them all in due order he said:—"Listen, O ye
+Yādavas, ye are all business-like, devoted to the Vedas, expert in
+ascertaining the proper rules of conduct, the introducers of the three
+Vargas²⁴⁵, ever observant of your duties, like gods in this world, and
+ever wending the good ways and firm as the mountains (8-13). Ye are all
+shorn of haughtiness and you have all lived properly in the families of
+your preceptors²⁴⁶, ye are all therefore proficient in archery and
+capable of holding royal counsels (14). Besides ye are all like lamps of
+glory in all these worlds, conversant with the real purport of the
+Vedas, the true import of the Ashramas (conditions of life), with the
+order of Varnas (castes), the propounder of the beautiful rules of
+conduct, the leaders of the givers of laws, the conquerors of foreign
+kingdoms, and the protectors of those seeking refuge with you (15–16).
+You are all so very vivacious in your conversation and endued with such
+an unimpeachable character, what to speak of the earth even the
+celestial region may feel itself honored (by your presence) (17). Your
+conduct resembles that of the Rishis, your power is like that of the
+Maruts, your anger is like that of Rudras and your effulgence is like
+that of the fire (18). As the earth is supported by the mountains so the
+decaying race of Yadus is upheld by you all, heroes of far-famed glory
+(19) You all follow my will, why then are you at present disregarding
+the rising calamity of mine, (20)? Like unto a rising a cloud, Nanda
+Gopa’s son, the celebrated Krishna of Vraja is about to strike at the
+root (of the race) (21). I have lost my heart and four eyes and I have
+no able ministers. And therefore that boy was kept secretly in Nanda
+Gopa’s house (22). Like a malady disregarded, the swelling ocean and the
+roaring clouds of the rainy season that wicked-minded one is rising in
+power (23). I have not been able to find out the means of subduing or to
+understand the movements of that boy of wonderful deeds born in Nanda
+Gopa’s house (24). That boy is either the offspring of a god or born of
+any other powerful being. I however do not know any thing—but I surmise
+so by his superhuman deeds which even the celestials can not perform
+(25). While asleep in his infancy he drank up the life of Putanā (going
+there in the form of a) bird under the pretext of sucking her breast
+(26). Vanquished in no time in the lake of Yamuna, that Nāga Kalya,
+ranging in the region underneath, has disappeared (27). But Nanda’s son,
+by his Yoga power, has risen up again. Dropped down from the top of a
+palm tree Dhenuka has breathed his last (28). Pralamva too, whom even
+the gods could not surpass in battle, has been slain like an ordinary
+animal, by that powerful one with the strokes of his fist (29).
+Suppressing the festivity in honor of Indra, and putting a stop to
+excessive rain consequent upon his anger that boy held up the mount
+Govardhana for affording shelter to the kine (30). The powerful Aristha,
+with his horns shattered, has been slain by him in Vraja. From the
+actions of that boy living in the village of milk-men it appears that he
+is not a boy, but assuming the false guise of a child, is sporting there
+merely. While he stands before me for a battle, forsooth, I know that he
+is my Death—(the destroyer) of my former body (31–33). There is a vast
+difference between the birth as a wretched milkman amongst men, weak for
+their death and his sporting in my cow-settlement with the power of a
+god (34). It appears to me as certain that a god, covering his own true
+form with a Gopa body, is sporting here like fire in the cremation
+ground (35). I have heard that in the days of yore in order
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0128 | next_story_id: DKS_0130
+previous title: Kamsa Orders the Wrestlers and Elephant to Kill Krishna
+next title: Krishna and Balarama Enter Mathura

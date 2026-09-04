@@ -1,0 +1,182 @@
+{"cluster": ["bp10a_001_03", "vp5_001_01", "hv_a_014"], "canonical_title": "The Doom Prophecy Warns Kamsa of Devaki's Eighth Child", "variant_notes": "BP/VP: a bodiless heavenly voice warns at the wedding; HV: Narada delivers the warning. VP 5.1 also folds in the pacification beat.", "notes": ""}
+{"cluster": ["bp10a_001_04"], "canonical_title": "Vasudeva Pacifies Kamsa and Promises to Surrender His Sons", "variant_notes": "See also 'prophecy' (VP 5.1 combines warning + pacification).", "notes": ""}
+{"cluster": ["bp10a_001_05", "vp5_001_03", "hv_a_015"], "canonical_title": "Kamsa Imprisons Devaki and Destroys Her Children", "variant_notes": "", "notes": ""}
+{"cluster": ["vp5_001_02", "hv_a_012", "hv_a_013"], "canonical_title": "Vishnu Resolves to Incarnate to Relieve the Earth", "variant_notes": "VP: Earth petitions at Meru and Vishnu plucks black/white hairs; HV: Narada urges Vishnu, Brahma foretells the birth.", "notes": ""}
+{"cluster": ["bp10a_002_01", "hv_a_017", "vp5_001_04"], "canonical_title": "Vishnu Commands Yogamaya to Transfer Balarama and Arrange the Exchange", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_002_02", "hv_a_016", "vp5_002_01"], "canonical_title": "The Conception of Devaki and the Six Demon Embryos", "variant_notes": "HV gives the backstory (six Saragarbha demons cursed by Hiranyakashipu); BP omits the six-embryo detail.", "notes": ""}
+{"cluster": ["hv_a_019"], "canonical_title": "Devaki's Seventh Embryo Is Transferred to Rohini (Balarama Born)", "variant_notes": "Execution of the command in 'command_yogamaya'; see also 'conception' (VP 5.2 covers this transfer).", "notes": ""}
+{"cluster": ["bp10a_002_03"], "canonical_title": "The Gods Praise the Unborn Lord in Devaki's Womb", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_003_01", "hv_a_020", "vp5_003_01"], "canonical_title": "Krishna Is Born at Midnight in the Prison", "variant_notes": "VP 5.3 also includes the four-armed form and withholding of it (see 'reveal_form').", "notes": ""}
+{"cluster": ["bp10a_003_02"], "canonical_title": "Krishna Reveals His Divine Form and Recalls Past Births", "variant_notes": "See also 'birth' (VP 5.3 folds this in).", "notes": ""}
+{"cluster": ["bp10a_003_03", "vp5_003_02"], "canonical_title": "Vasudeva Carries Krishna Out of Prison Across the Yamuna", "variant_notes": "VP 5.3 also includes the exchange at Gokula (see 'exchange').", "notes": ""}
+{"cluster": ["bp10a_003_04", "hv_a_021"], "canonical_title": "Vasudeva Exchanges Krishna for Yashoda's Daughter", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_004_01"], "canonical_title": "Kamsa Comes to Slay the Newborn Girl", "variant_notes": "See also 'yogamaya_warn' (the dashing that follows).", "notes": ""}
+{"cluster": ["bp10a_004_02", "hv_a_022", "vp5_003_03"], "canonical_title": "Kamsa Dashes the Infant and Yogamaya Warns Him", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_023"], "canonical_title": "Kamsa Repents and Devaki Forgives Him", "variant_notes": "HV-specific; BP 10.4.2 folds repentance into the Yogamaya episode.", "notes": ""}
+{"cluster": ["bp10a_004_03"], "canonical_title": "Kamsa's Ministers Counsel Slaughtering the Righteous", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_004_04", "vp5_004_01"], "canonical_title": "Kamsa Orders the Slaughter of Children and the Pious", "variant_notes": "VP 5.4 also includes the release of Vasudeva and Devaki.", "notes": ""}
+{"cluster": ["bp10a_005_01"], "canonical_title": "Nanda Celebrates the Birth of His Son", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_005_02"], "canonical_title": "Nanda Visits Mathura and Meets Vasudeva", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_005_03"], "canonical_title": "Vasudeva Warns Nanda of Danger in Gokula", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_006_01"], "canonical_title": "Putana Enters Gokula Disguised as a Woman", "variant_notes": "See also 'putana_kill'.", "notes": ""}
+{"cluster": ["bp10a_006_02", "hv_a_025", "vp5_005_02", "bpc1_032"], "canonical_title": "Krishna Drains the Demoness Putana's Life", "variant_notes": "bpc1_032 is Uddhava's recollection of the same episode.", "notes": ""}
+{"cluster": ["bp10a_006_03"], "canonical_title": "The Villagers Burn Putana's Body", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_007_01", "hv_a_024", "vp5_006_01"], "canonical_title": "The Infant Krishna Overturns the Cart with His Foot", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_007_02"], "canonical_title": "Trinavarta the Whirlwind Carries Off the Baby", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_007_03"], "canonical_title": "Trinavarta Is Crushed by the Child's Weight", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_007_04"], "canonical_title": "Yasoda Sees the Universe in the Nursing Child's Mouth", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_008_01", "vp5_006_02"], "canonical_title": "Garga Secretly Names Rama and Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_008_02"], "canonical_title": "Krishna and Rama's Childhood Pranks and Butter-Stealing", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_008_03"], "canonical_title": "Krishna Eats Mud and Shows the Cosmos in His Mouth", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_009_01"], "canonical_title": "Krishna Breaks the Butter Pot", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_009_02"], "canonical_title": "Yasoda Binds Krishna to the Mortar", "variant_notes": "HV 1.62 and VP 5.6 fold this binding into the uprooting episode (see 'uproot_trees').", "notes": ""}
+{"cluster": ["bp10a_009_03"], "canonical_title": "Krishna Notices the Twin Arjuna Trees", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_010_02", "hv_a_026", "vp5_006_03"], "canonical_title": "Krishna Uproots the Twin Arjuna Trees (Named Damodara)", "variant_notes": "HV/VP fold in the mortar-binding beat.", "notes": ""}
+{"cluster": ["bp10a_010_03"], "canonical_title": "The Two Devotees Are Liberated from the Trees", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_011_01"], "canonical_title": "The Fruit-Seller Receives a Gift of Jewels", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_011_02", "vp5_006_04"], "canonical_title": "The Cowherds Decide to Migrate to Vrindavan", "variant_notes": "BP: prompted by Upananda citing omens; VP: alarmed by Putana's death, the waggon and the trees.", "notes": ""}
+{"cluster": ["bp10a_011_03"], "canonical_title": "The Cowherds Settle in Vrindavan", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_018"], "canonical_title": "Krishna Conjures Wolves to Move the Milkmen to Vrindavan", "variant_notes": "HV's version of the migration; BP/VP attribute the move to omens/portents instead (see 'migrate_decision').", "notes": ""}
+{"cluster": ["bp10a_011_04"], "canonical_title": "Krishna Slays the Calf-Demon Vatsasura", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_011_05"], "canonical_title": "Krishna Slays the Crane-Demon Bakasura", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_012_01"], "canonical_title": "Aghasura Becomes a Giant Python", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_012_02"], "canonical_title": "Krishna Kills Aghasura and Revives His Friends", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_013_01"], "canonical_title": "Brahma Steals the Calves and Boys", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_013_02"], "canonical_title": "Krishna Expands Into All the Calves and Boys", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_013_03"], "canonical_title": "Brahma Is Bewildered and Worships Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_014_01"], "canonical_title": "Brahma Praises Krishna and Departs", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_014_02"], "canonical_title": "The Boys Resume Their Meal Unaware of the Lost Year", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_015_01"], "canonical_title": "The Boys Long for the Palm Grove's Fruit", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_015_02", "vp5_008_01"], "canonical_title": "Balarama Slays the Ass-Demon Dhenuka", "variant_notes": "BP attributes the deed jointly to Balarama; VP to Rama alone.", "notes": ""}
+{"cluster": ["bp10a_015_03"], "canonical_title": "Krishna and Balarama Clear the Grove of Dhenuka's Kin", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_015_04"], "canonical_title": "Krishna Revives the Cowherds from Poisoned Water", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_016_01", "hv_a_029", "vp5_007_01"], "canonical_title": "Krishna Leaps into Kaliya's Poisoned Pool", "variant_notes": "VP 5.7 also includes the biting and the despair of the watchers.", "notes": ""}
+{"cluster": ["bp10a_016_02"], "canonical_title": "Kaliya Coils Around Krishna and Vraja Despairs", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_016_03"], "canonical_title": "Krishna Dances on Kaliya's Heads", "variant_notes": "HV/VP fold this dance into the banishment episode (see 'kaliya_banish').", "notes": ""}
+{"cluster": ["bp10a_016_04"], "canonical_title": "Kaliya's Wives Plead for His Life", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_016_05", "hv_a_030", "vp5_007_02", "bpc1_035"], "canonical_title": "Krishna Spares and Banishes Kaliya", "variant_notes": "HV/VP fold in the dance on the hoods; bpc1_035 is Uddhava's recollection.", "notes": ""}
+{"cluster": ["bp10a_017_01"], "canonical_title": "Why Kaliya Took Refuge in the Yamuna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_017_02"], "canonical_title": "Krishna Emerges and the Villagers Rejoice", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_028"], "canonical_title": "Krishna Resolves to Subdue the Serpent Kaliya", "variant_notes": "HV-specific precursor; see 'kaliya_leap'.", "notes": ""}
+{"cluster": ["bp10a_017_03"], "canonical_title": "Krishna Swallows the Forest Fire at Night", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_018_01"], "canonical_title": "Pralamba Joins the Games in Disguise", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_018_02", "hv_a_027", "vp5_009_01"], "canonical_title": "Balarama Slays the Demon Pralamba", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_019_01"], "canonical_title": "The Cattle Stray Into the Munja Forest and a Wildfire Breaks Out", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_019_02"], "canonical_title": "Krishna Swallows the Wildfire and Saves the Herd", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_020_01"], "canonical_title": "Krishna Enjoys the Monsoon Pastures", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_021_01"], "canonical_title": "The Gopis Praise Krishna's Flute", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_022_01"], "canonical_title": "The Gopis Perform the Katyayani Vow", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_022_02"], "canonical_title": "Krishna Steals the Gopis' Clothes", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_022_03"], "canonical_title": "Krishna Returns the Clothes and Blesses the Gopis", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_023_01"], "canonical_title": "The Brahmanas Refuse Krishna's Request for Food", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_023_02"], "canonical_title": "The Brahmanas' Wives Bring Food to Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_023_03"], "canonical_title": "The Wives Refuse to Return and Krishna Welcomes Them", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10a_023_04"], "canonical_title": "The Brahmanas Repent and Praise Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_001"], "canonical_title": "Krishna Questions the Indra Sacrifice", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_002"], "canonical_title": "Nanda Explains the Indra Worship", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_003", "hv_a_031", "vp5_010_01"], "canonical_title": "Krishna Argues for Worshipping Govardhana Hill", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_004", "bp10b_005", "vp5_010_02"], "canonical_title": "The Cowherds Worship Govardhana and Krishna Receives Offerings as the Hill", "variant_notes": "BP splits the worship (10.24) and Krishna's manifestation (10.24) into two beats; VP 5.10 combines them.", "notes": ""}
+{"cluster": ["bp10b_006"], "canonical_title": "Indra Becomes Furious", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_007", "hv_a_032", "vp5_011_01"], "canonical_title": "Indra Unleashes the Storm on Vrindavan", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_008", "hv_a_033", "vp5_011_02", "bpc1_036"], "canonical_title": "Krishna Lifts Govardhana Hill", "variant_notes": "HV/VP specify seven nights/days; bpc1_036 is Uddhava's recollection.", "notes": ""}
+{"cluster": ["bp10b_009"], "canonical_title": "Seven Days Beneath Govardhana", "variant_notes": "Folded into 'govardhana_lift' in HV/VP.", "notes": ""}
+{"cluster": ["bp10b_010"], "canonical_title": "Krishna Restores the Hill and the Cowherds Rejoice", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_011", "vp5_013_01"], "canonical_title": "The Cowherds Wonder at Krishna's Deeds", "variant_notes": "BP adds Nanda recounting Garga's prophecy.", "notes": ""}
+{"cluster": ["bp10b_012"], "canonical_title": "Indra Surrenders and Begs Forgiveness", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_013", "hv_a_034", "vp5_012_01"], "canonical_title": "Indra Installs Krishna as Govinda", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_035", "vp5_012_02"], "canonical_title": "Indra Asks Krishna to Befriend Arjuna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_014"], "canonical_title": "Nanda Is Seized by Varuna and Rescued", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_015"], "canonical_title": "Krishna Reveals His Supreme Abode", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_026"], "canonical_title": "Nanda Is Swallowed by a Serpent and Freed", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_027"], "canonical_title": "Shankhachuda Abducts the Gopis", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_028"], "canonical_title": "Krishna Slays Shankhachuda and Takes the Jewel", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_016"], "canonical_title": "The Gopis Abandon Their Homes", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_017"], "canonical_title": "Krishna Tests the Gopis", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_018"], "canonical_title": "Krishna Relents and Sports with the Gopis", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_019"], "canonical_title": "Krishna Vanishes", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_020"], "canonical_title": "The Gopis Search the Forest", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_021"], "canonical_title": "The Gopis Enact Krishna's Lilas", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_022"], "canonical_title": "The Favored Gopi's Pride and Krishna's Second Vanishing", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_023"], "canonical_title": "Krishna Reappears Among the Gopis", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_024"], "canonical_title": "Krishna Teaches About Love", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_025", "hv_a_036", "vp5_013_02", "bpc1_037"], "canonical_title": "The Great Rasa Dance", "variant_notes": "bpc1_037 is Uddhava's recollection.", "notes": ""}
+{"cluster": ["bp10b_029", "vp5_014_01"], "canonical_title": "Krishna Slays the Bull-Demon Arishta", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_033", "hv_a_038", "vp5_016_01"], "canonical_title": "Krishna Slays the Horse-Demon Keshi", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_034"], "canonical_title": "Krishna Slays the Demon Vyoma", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_035"], "canonical_title": "Akrura Journeys to Vrindavan", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_036", "hv_a_039", "vp5_017_01"], "canonical_title": "Akrura Arrives in Vrindavan and Beholds Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_037", "hv_a_040", "vp5_018_01"], "canonical_title": "Akrura Reveals Kamsa's Plan and Krishna Agrees to Go", "variant_notes": "VP 5.18 has Krishna vow to slay Kansa within three nights.", "notes": ""}
+{"cluster": ["bp10b_038", "vp5_018_02"], "canonical_title": "The Gopis Grieve at Krishna's Departure", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_039"], "canonical_title": "Krishna Consoles the Gopis", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_040", "hv_a_041", "vp5_018_03"], "canonical_title": "Akrura Beholds the Divine Vision in the Yamuna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_041"], "canonical_title": "Akrura Reports to Kamsa", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_030", "vp5_015_01"], "canonical_title": "Narada Reveals the Truth to Kamsa", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_031", "hv_a_045"], "canonical_title": "Kamsa Orders the Wrestlers and Elephant to Kill Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_032", "hv_a_037", "vp5_015_02"], "canonical_title": "Kamsa Sends Akrura to Fetch Krishna", "variant_notes": "VP 5.15 also folds in the sending of Kesin.", "notes": ""}
+{"cluster": ["bp10b_042"], "canonical_title": "Krishna and Balarama Enter Mathura", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_043", "hv_a_042", "vp5_019_01"], "canonical_title": "Krishna Slays the Insolent Washerman", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_044", "vp5_019_02"], "canonical_title": "The Weaver and Sudama (Flower-Seller) Honor Krishna", "variant_notes": "BP adds the weaver; VP has only the flower-seller.", "notes": ""}
+{"cluster": ["bp10b_045", "hv_a_043", "vp5_020_01"], "canonical_title": "Krishna Straightens the Hunchback Kubja", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_046", "hv_a_044", "vp5_020_02"], "canonical_title": "Krishna Breaks Kamsa's Great Bow", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_047"], "canonical_title": "Kamsa Is Terrified by Evil Omens", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_048"], "canonical_title": "Kamsa Orders the Wrestling Festival", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_049", "hv_a_046", "vp5_020_03"], "canonical_title": "Krishna Slays the Elephant Kuvalayapida", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_050"], "canonical_title": "The Citizens Rejoice in the Arena", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_051"], "canonical_title": "Chanura Challenges Krishna and Balarama", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_052", "hv_a_047", "vp5_020_04"], "canonical_title": "Krishna and Balarama Slay the Wrestlers", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_048"], "canonical_title": "Kamsa Orders the Gopas Expelled and Vasudeva Punished", "variant_notes": "HV-specific; the provocation immediately preceding the killing (see 'slay_kamsa').", "notes": ""}
+{"cluster": ["bp10b_053", "hv_a_049", "vp5_020_05", "bpc1_038"], "canonical_title": "Krishna Slays Kamsa", "variant_notes": "bpc1_038 is Uddhava's recollection.", "notes": ""}
+{"cluster": ["bp10b_054", "hv_a_050"], "canonical_title": "Balarama Slays Kamsa's Brothers", "variant_notes": "HV folds in the greeting of the parents.", "notes": ""}
+{"cluster": ["bp10b_055", "hv_a_052"], "canonical_title": "Kamsa's Wives Lament and the Funeral Rites Are Performed", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_056", "vp5_020_06"], "canonical_title": "Krishna Frees and Bows to Vasudeva and Devaki", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_057"], "canonical_title": "Krishna Begs His Parents' Forgiveness", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_058", "hv_a_051", "vp5_021_01"], "canonical_title": "Krishna Installs Ugrasena as King", "variant_notes": "VP 5.21 also folds in the consolation of the widows.", "notes": ""}
+{"cluster": ["bp10b_059"], "canonical_title": "Krishna Restores the Yadava Kinsmen", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_060"], "canonical_title": "Nanda Departs for Vraja", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_061"], "canonical_title": "Krishna and Balarama Study Under Sandipani", "variant_notes": "See 'sandipani_son' (VP 5.21 combines study + recovery).", "notes": ""}
+{"cluster": ["bp10b_062", "hv_a_053", "vp5_021_03", "bpc1_039"], "canonical_title": "Krishna Retrieves Sandipani's Son", "variant_notes": "VP 5.21 folds in the study; bpc1_039 is Uddhava's recollection.", "notes": ""}
+{"cluster": ["vp5_021_02"], "canonical_title": "Krishna Obtains the Celestial Hall Sudharman", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_063"], "canonical_title": "Krishna Sends Uddhava to Vrindavan", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10b_064"], "canonical_title": "Uddhava Arrives in Vrindavan and Nanda Longs for Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_001"], "canonical_title": "Uddhava Arrives Bearing Krishna's Message", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_002"], "canonical_title": "The Gopi's Lament to the Bee (Bhramara-gita)", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_003"], "canonical_title": "Uddhava Delivers Krishna's Message and the Gopis Reply", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_004"], "canonical_title": "Uddhava Praises the Gopis and Departs", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_005"], "canonical_title": "Krishna Visits Trivakra and Grants Her a Boon", "variant_notes": "Later visit (10.48); see 'kubja_straighten' for the first meeting.", "notes": ""}
+{"cluster": ["bp10c_006"], "canonical_title": "Krishna Sends Akrura to Hastinapura", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_007"], "canonical_title": "Kunti Confides Her Sorrow to Akrura", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_008"], "canonical_title": "Akrura Counsels Dhritarashtra", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_009", "hv_a_054", "hv_a_055", "vp5_022_01"], "canonical_title": "Jarasandha Attacks and Besieges Mathura", "variant_notes": "VP 5.22 folds in the routing of Jarasandha across eighteen attacks; HV splits the march (1.89) and the siege (1.90).", "notes": ""}
+{"cluster": ["bp10c_010"], "canonical_title": "A Divine Chariot and Weapons Descend for Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["bp10c_011", "hv_a_056", "hv_a_057"], "canonical_title": "The Yadavas Rout Jarasandha's Army and Spare Him", "variant_notes": "HV splits the battle and the divine voice sparing Jarasandha.", "notes": ""}
+{"cluster": ["hv_a_058"], "canonical_title": "The Yadavas Counsel That Mathura Cannot Withstand Siege", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_059"], "canonical_title": "Krishna Resolves to Abandon Mathura", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_060"], "canonical_title": "Krishna Meets Parasurama, Who Counsels Gomanta", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_061"], "canonical_title": "Garuda Restores Vishnu's Stolen Crown to Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_062"], "canonical_title": "Krishna Wields the Divine Weapons on Gomanta", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_063"], "canonical_title": "The King of Chedi Befriends Krishna and Escorts Him to Karavira", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_064"], "canonical_title": "Krishna Slays King Shrigala with the Discus", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_a_065"], "canonical_title": "Krishna Installs Shakradeva on the Throne of Karavira", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_101_01"], "canonical_title": "Krishna Returns to Mathura", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_103_01"], "canonical_title": "News of Rukmini's Swayamvara", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_104_01"], "canonical_title": "Krishna Summons Garuda at Bhishmaka's House", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_105_01"], "canonical_title": "Jarasandha Warns the Assembled Kings", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_106_01"], "canonical_title": "The Kings Debate and Bhishmaka Yields", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_107_01"], "canonical_title": "Kaishika Offers His Kingdom", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_107_02"], "canonical_title": "Krishna's Royal Consecration", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_108_01"], "canonical_title": "Krishna Reveals Rukmini Is Lakshmi", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_108_02"], "canonical_title": "Bhishmaka Beholds Krishna's Cosmic Form", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_109_01"], "canonical_title": "Shalya Proposes Inviting Kalayavana", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_109_02"], "canonical_title": "Rukmini Declares She Weds Only Krishna", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_110_01"], "canonical_title": "Shalya Delivers Jarasandha's Message to Kalayavana", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_111_01", "vp5_023_01"], "canonical_title": "Kalayavana Marches on Mathura", "variant_notes": "VP 5.23 gives Gargya's penance as Kalayavana's origin; HV has Shalya invite him.", "notes": ""}
+{"cluster": ["hv_b1_112_01"], "canonical_title": "Ugrasena Welcomes Krishna Back", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_112_02"], "canonical_title": "Garuda Reports the Site of Dwaraka", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_113_01"], "canonical_title": "Krishna Proposes Leaving Mathura for the West", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_114_01"], "canonical_title": "The Serpent-Jar Stratagem Against Kalayavana", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_114_02", "vp5_023_03"], "canonical_title": "Kalayavana Is Burned by Muchukunda's Gaze", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_102_01", "vp5_024_02"], "canonical_title": "Balarama Revisits Vraja", "variant_notes": "", "notes": ""}
+{"cluster": ["hv_b1_102_02", "vp5_025_01"], "canonical_title": "Balarama Drags the Yamuna", "variant_notes": "", "notes": ""}
+{"cluster": ["bpc1_033"], "canonical_title": "Uddhava Recalls Krishna's Birth and Removal to Vraja", "variant_notes": "Compressed recollection spanning the birth and exchange (see 'birth','exchange').", "notes": ""}
+{"cluster": ["bpc1_034"], "canonical_title": "Uddhava Recalls Krishna's Cowherd Childhood and Kamsa's Demons", "variant_notes": "General recollection; see specific demon episodes.", "notes": ""}
+{"cluster": ["vp5_005_01"], "canonical_title": "Nanda Brings the Infants Home to Gokula", "variant_notes": "", "notes": ""}

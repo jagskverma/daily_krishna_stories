@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0259",
+ "title": "The Earrings of Aditi",
+ "subtitle": null,
+ "story": "Garuda flew to heaven bearing a strange cargo: the umbrella of Varuna and the jewel mountain, recovered from the demon's hoard, and on his back Krishna himself, coming home to return what had been stolen. The great bird went lightly, as if in sport — as though carrying a god to his own house required no effort at all.\n\nAt the portals of Swarga, Krishna blew his conch, and the gods came out to meet him, bearing respectful offerings for the one who had won back their treasures. He passed through their court, past palaces whose turrets rose like white clouds, to the dwelling of the mother of the gods. There sat Aditi — mother of Indra, mother of the gods themselves, the eldest of all the divine mothers — and in her keeping, once, had been the earrings that the demon Narakasura had torn away in his raids on heaven. Krishna bowed before her, with Indra beside him, and placed her earrings back in her hands, and told her that the demon who had robbed her was dead.\n\nThe mother of the gods was well pleased. She fixed her whole mind upon Krishna and spoke, and her words came out as praise, long and wondering. Glory to the lotus-eyed one, she said, who removes all fear from those who worship him; the eternal, universal, living soul; the origin of all beings. He was evening, night and day; earth, sky, air, water and fire; mind, intellect and individuality. He was Brahma, Vishnu and Shiva, gods and demons and serpents, men and beasts and trees, the vast and the minute — all things whatsoever, composed of gathered atoms. And beyond all of it, she said, was a form no eye could rest on — the imperishable one behind every perceptible shape, whom she could only glimpse and name. Yet the world itself was his play, she said; the illusion that beguiled those who think \"I am, this is mine\" was woven by his own hand, and only those who worshipped him crossed through it to freedom. It was a fault, she added gently, to ask small things of one who could give everything — like asking a wish-fulfilling tree for a rag to cover one's nakedness, when it could grant any treasure at all.\n\nSo Aditi hymned him, and Krishna smiled, and said, \"Mother, show me favour. Grant me your blessing.\" And Aditi answered, \"So be it — and while you dwell among mortals, first among men, you shall be invincible to gods and demons alike.\"\n\nThen Satyabhama came forward, with Indra's queen beside her, and respectfully asked the mother of the gods for her blessing as well. Aditi looked at her and smiled. \"Fair-browed one,\" she said, \"you shall never suffer decay, nor loss of beauty. You shall be the refuge of all loveliness.\"\n\nSo the earrings were restored, and blessings were exchanged in both directions — the mother of the gods hymning the lord of all as her creator, and the lord of all asking her blessing like a son. And when it was done, Indra conducted Krishna and Satyabhama through the gardens of the gods, through Nandana and the pleasant groves of heaven, where the trees bloomed in gold and copper and the air hung heavy with fragrance, and the Parijata stood among them — the golden tree that had risen from the churned ocean, waiting for eyes that would notice it. Behind them, the mother of the gods held her earrings; ahead of them, the gardens of heaven opened, radiant and endless; and far below the clouds, in the land of men, the demon's conquered city lay still, its stolen hoard already scattered back toward its owners.",
+ "reflection": "The scene turns on exchanged reverence: the mother of the gods hymns Krishna as the origin of all things, and he in turn asks her blessing, and she grants him invincibility. Aditi's praise carries the story's theology in miniature — the creator is also the play of his own illusion — but it is her small, human-sized blessing to Satyabhama, a promise of beauty that will never fade, that lingers longest.",
+ "tradition_note": "This account follows the Vishnu Purana's telling, in which the earrings are restored after Narakasura's fall. The Bhagavata Purana places the restoration at the end of the same war, with the visit to heaven leading directly into the uprooting of the Parijata tree.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Aditi",
+  "Satyabhama",
+  "Indra",
+  "Garuda"
+ ],
+ "locations": [
+  "Swarga"
+ ],
+ "themes": [
+  "restoration",
+  "blessing",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0258",
+ "next_story_id": "DKS_0260",
+ "next_story_tease": "The earrings had been only one of the stolen treasures, and the city that hoarded the rest still stood unbroken.",
+ "hero_scene": "Krishna kneeling before Aditi, the mother of the gods, and placing her recovered earrings into her hands while Indra stands beside him and the palace turrets rise like white clouds behind them.",
+ "visual_elements": [
+  "Garuda flying to Swarga with the umbrella of Varuna and the jewel mountain",
+  "the gods coming out to meet Krishna with offerings",
+  "the palace of Aditi with turrets like white clouds",
+  "Krishna restoring the earrings to Aditi",
+  "Aditi blessing Satyabhama",
+  "the gardens of Nandana in gold and copper bloom"
+ ],
+ "sources": [
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:45Z",
+  "source_event_id": "evt_0364"
+ },
+ "editorial_status": "unreviewed"
+}

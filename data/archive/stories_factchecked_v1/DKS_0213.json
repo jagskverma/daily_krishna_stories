@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0213",
+ "title": "The Rumor Against Krishna",
+ "subtitle": null,
+ "story": "The Syamantaka had been in Dwaraka only a few seasons, and already it had changed how the city kept account of its people. The jewel — a gift of the sun god — was said to fill its owner's coffers with gold, to summon rain in its season, to keep disease from the house that held it. Everyone knew where it had come to rest: around the neck of Satrajit, a noble of the Yadu clan, who walked through Dwaraka glowing like a second sun.\n\nKrishna asked for the jewel. He did not demand it, though he could have taken it; he did not scheme for it; he simply asked. Satrajit refused. He was a covetous man, and the Syamantaka was the finest thing he had ever owned, and he could not bear to part with it. Krishna let the matter rest. But the refusal did not rest; it lay in the city's memory like a seed, and the seed had ears.\n\nThen Prasena went hunting. Prasena was Satrajit's brother, and one morning he rode out into the forest wearing the Syamantaka at his throat. He did not ride back. A lion had brought him down — killed him and his horse together — and then the lion itself had been struck dead in turn, by a great bear, who took the jewel from the kill and carried it into the mountains.\n\nWhen the news reached Dwaraka, no one spoke of lions or bears. The city remembered that Krishna had asked for the Syamantaka and had been refused, and a whisper began to move through the streets like wind through standing grain: Krishna had killed Prasena. He had wanted the jewel; now Prasena was dead and the jewel was gone; who else could have done it? The whisper grew, and every retelling sharpened it.\n\nKrishna heard what the city was saying. He did not rage, and he did not answer with speeches. He knew he was innocent, and he knew that words would not prove it — only the jewel would. \"I must bring the jewel,\" he resolved, and with his followers he set out for the forest where Prasena had gone.\n\nThe trail was written plainly on the earth for anyone who knew how to read it. Krishna followed the tracks of horse and rider through the forest, up into the Rikshavan mountains and across the flanks of the Vindhya ranges, searching every path and hollow until weariness began to pull at his limbs. Then he found Prasena — Prasena and his horse, both dead in a clearing, and no jewel on either. Near them lay the lion, killed by something greater than itself. The footprints around the kill told the rest of the story: a bear had taken the jewel from the lion's body and carried it away.\n\nKrishna followed the bear's trail to the mouth of a den in the mountainside — a vast, dark opening that breathed cold air. From inside came a woman's voice, low and coaxing, the way a nurse speaks to a child. She was playing with the jewel, offering it to a little one, saying, \"Do not weep.\" Then her words floated out of the den, and Krishna heard the whole truth of what had happened in the forest: \"The lion killed Prasena, and the lion was killed by Jambavan. So do not weep, my good boy — this Syamantaka belongs to you.\"\n\nThere it was. No one in Dwaraka had spoken a word in Krishna's defense, but the den had just cleared his name: the bear king Jambavan had taken the jewel from the lion, and the jewel now lay in the hands of Jambavan's own cub, kept as a plaything.\n\nKrishna left Balarama and the Yadavas at the mouth of the den. Then, alone and silent, his bow in his hand, he stepped into the darkness. The rumor had driven him out of Dwaraka. The truth was waiting for him inside.",
+ "reflection": "Krishna's answer to the rumor is not a defense but a search: he lets the truth travel the same ground the accusation did, from the city to the forest to the den, and it vindicates him without a single argument. The city was ready to believe the worst; the evidence was ready to prove otherwise.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Satrajit",
+  "Prasena",
+  "Krishna",
+  "Jambavan"
+ ],
+ "locations": [
+  "Dwaraka",
+  "forest"
+ ],
+ "themes": [
+  "pride",
+  "rumor",
+  "injustice"
+ ],
+ "previous_story_id": "DKS_0212",
+ "next_story_id": "DKS_0214",
+ "next_story_tease": "In the darkness of the den, the king of bears rose to meet him.",
+ "hero_scene": "Krishna, alone at the mouth of Jambavan's vast dark den, stepping into the shadows with his bow in hand while Balarama and the Yadavas wait behind him at the entrance.",
+ "visual_elements": [
+  "the Syamantaka jewel glowing at Satrajit's neck",
+  "Krishna asking Satrajit for the jewel",
+  "Prasena hunting in the forest with the jewel at his throat",
+  "the slain lion and the great bear carrying the jewel away",
+  "the nurse playing with the jewel to Jambavan's cub",
+  "Krishna entering the dark den alone"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.56.11-15",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:15Z",
+  "source_event_id": "evt_0202"
+ },
+ "editorial_status": "unreviewed"
+}

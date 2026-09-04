@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0232",
+ "title": "The Parijata Comes to Dwaraka",
+ "subtitle": null,
+ "story": "The Parijata was coming to Dwaraka — on loan from heaven, and with a mother's condition attached.\n\nThe quarrel between Krishna and Indra over the tree had been ended by the elders of the gods: the sage Kashyapa and his wife Aditi, who were parents to both. When the night had passed, Aditi spoke to Krishna. \"Take this Parijata,\" she said. \"Go to Dwaraka and perform the auspicious festival so longed for by your wife. But when that ceremony is over, you are to bring this tree back, and place it as before in the garden of Nandana.\"\n\nKrishna accepted the tree and its condition together. Satyaki and Pradyumna, who had guarded the Parijata through all the fighting, kept their watch as it traveled, and Garuda bore the great tree without complaint, its blossoms swaying above the clouds. On the way home Krishna set the tree down at Raivataka, the mountain that looked out toward the sea and the city, before carrying it the last stretch into Dwaraka itself.\n\nWord of the tree ran ahead of them. When Krishna arrived over the city, he blew his conch, and the sound delighted every inhabitant of Dwaraka. He alighted from Garuda, and with Satyabhama at his side he walked to her garden and planted the great Parijata there, where its roots would hold the earth of the city and its branches rise toward the sky it had come from.\n\nThen the wonder of it began to spread. The fragrance of the tree perfumed the earth for three furlongs in every direction, drifting through the streets of Dwaraka like a rumor of another world. Anyone who came near it could recall the events of a prior existence, as if the tree held a mirror to the lives behind this one; and when the Yadavas looked into its blossoms, they contemplated themselves in their original celestial forms — the forms they had worn before this world, remembered now at the sight of their own faces in the tree. Heaven, it seemed, had come to earth with its roots in Satyabhama's garden.\n\nSatyabhama received the tree joyfully. This was the auspicious festival she had longed for, the rite she had spoken of; and here was the tree of heaven itself, planted at her door, blooming in the air of Dwaraka. Whatever the ceremony required — flower, shade, or fragrance — the Parijata would provide.\n\nOnly the condition hung over the joy, soft as the tree's own scent: the tree was a loan, not a gift. When the rite was done, it was to return to the garden of Nandana, to the heaven from which it had been uprooted. For now, the city had its wonder — a tree from the gods' own garden rooted in mortal earth, filling three furlongs of Dwaraka with the scent of another world.",
+ "reflection": "The tree is a gift with a return address: Aditi lends what Indra could not keep by force, and Satyabhama's joy is framed by a condition. The wonder of the tree — past-life memory, celestial forms — belongs to the Vishnu Purana's telling, while the loan belongs to the Harivamsha's; both agree on the marvel itself, heaven rooted in a mortal garden.",
+ "tradition_note": "The Harivamsha has Aditi grant the Parijata on condition that it return to the garden of Nandana after Satyabhama's rite, while the Vishnu Purana has Indra himself consent to the tree remaining on earth as long as Krishna abides there.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Satyabhama",
+  "Aditi",
+  "Satyaki",
+  "Pradyumna"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Raivataka mountain"
+ ],
+ "themes": [
+  "gift",
+  "marital devotion",
+  "wonder"
+ ],
+ "previous_story_id": "DKS_0231",
+ "next_story_id": "DKS_0233",
+ "next_story_tease": "The battle that had uprooted the tree, and the parents who stopped it, were yet to be told in full.",
+ "hero_scene": "Krishna, alighting from Garuda in Satyabhama's garden at Dwaraka, plants the great Parijata as its blossoms rain fragrance over the city, Satyabhama receiving the tree joyfully at his side.",
+ "visual_elements": [
+  "Krishna planting the Parijata in the garden",
+  "Satyabhama receiving the tree joyfully",
+  "Garuda resting nearby",
+  "the tree's blossoms spreading fragrance across the city",
+  "Yadavas marveling and remembering past lives",
+  "wonder and gift"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.222",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.31",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:00Z",
+  "source_event_id": "evt_0214"
+ },
+ "editorial_status": "unreviewed"
+}

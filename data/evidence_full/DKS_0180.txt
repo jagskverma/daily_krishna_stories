@@ -1,0 +1,114 @@
+# STORY DKS_0180 — Sahadeva Crowned and the Kings Freed || Krishna crowns Jarasandha's son Sahadeva king of Magadha and releases all the kings imprisoned by Jarasandha.
+
+## Index entry
+title: Sahadeva Crowned and the Kings Freed || Krishna crowns Jarasandha's son Sahadeva king of Magadha and releases all the kings imprisoned by Jarasandha.
+summary: Krishna crowns Jarasandha's son Sahadeva king of Magadha and releases all the kings imprisoned by Jarasandha.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Sahadeva, the captive kings
+locations: Girivraja (Magadha)
+themes: liberation, justice, succession
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0265
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 72 | verses 45 | confidence 5
+  excerpt: Krishna installs Jarasandha's son Sahadeva as lord of the Magadhas, and releases the kings who had been held captive by Jarasandha. (rendered from Sanskrit, verse 45)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.72 (45)
+1. ācāryaiḥ kula-vṛddhaiś ca jñāti-sambandhi-bāndhavaiḥ /
+śṛṇvatām eva caiteṣām ābhāṣyedam uvāca ha
+2. bhp_10.72.003/0 śrī-yudhiṣṭhira uvāca 
+kratu-rājena govinda rājasūyena pāvanīḥ /
+yakṣye vibhūtīr bhavatas tat sampādaya naḥ prabho
+3. tvat-pāduke avirataṃ pari ye caranti $ dhyāyanty abhadra-naśane śucayo gṛṇanti &amp;vindanti te kamala-nābha bhavāpavargam % āśāsate yadi ta āśiṣa īśa nānye
+4. tad deva-deva bhavataś caraṇāravinda- $ sevānubhāvam iha paśyatu loka eṣaḥ &tad deva-deva bhavataś caraṇāravinda- $ sevānubhāvam iha paśyatu loka eṣaḥ &ye tvāṃ bhajanti na bhajanty uta vobhayeṣāṃ % niṣṭhāṃ pradarśaya vibho kuru-sṛñjayānām
+5. na brahmaṇaḥ sva-para-bheda-matis tava syāt $ sarvātmanaḥ sama-dṛśaḥ sva-sukhānubhūteḥ &na brahmaṇaḥ sva-para-bheda-matis tava syāt $ sarvātmanaḥ sama-dṛśaḥ sva-sukhānubhūteḥ &saṃsevatāṃ sura-taror iva te prasādaḥ % sevānurūpam udayo na viparyayo 'tra
+6. bhp_10.72.007/0 śrī-bhagavān uvāca 
+samyag vyavasitaṃ rājan bhavatā śatru-karśana /
+kalyāṇī yena te kīrtir lokān anubhaviṣyati
+7. ṛṣīṇāṃ pitṛ-devānāṃ suhṛdām api naḥ prabho /
+sarveṣām api bhūtānām īpsitaḥ kratu-rāḍ ayam
+8. vijitya nṛpatīn sarvān kṛtvā ca jagatīṃ vaśe /
+sambhṛtya sarva-sambhārān āharasva mahā-kratum
+9. ete te bhrātaro rājaṃl loka-pālāṃśa-sambhavāḥ /
+jito 'smy ātmavatā te 'haṃ durjayo yo 'kṛtātmabhiḥ
+10. na kaścin mat-paraṃ loke tejasā yaśasā śriyā /
+vibhūtibhir vābhibhaved devo 'pi kim u pārthivaḥ
+11. bhp_10.72.012/0 śrī-śuka uvāca 
+niśamya bhagavad-gītaṃ prītaḥ phulla-mukhāmbujaḥ /
+bhrātṝn dig-vijaye 'yuṅkta viṣṇu-tejopabṛṃhitān
+12. sahadevaṃ dakṣiṇasyām ādiśat saha sṛñjayaiḥ /
+diśi pratīcyāṃ nakulam udīcyāṃ savyasācinam /
+prācyāṃ vṛkodaraṃ matsyaiḥ kekayaiḥ saha madrakaiḥ
+13. te vijitya nṛpān vīrā ājahrur digbhya ojasā /
+ajāta-śatrave bhūri draviṇaṃ nṛpa yakṣyate
+14. śrutvājitaṃ jarāsandhaṃ nṛpater dhyāyato hariḥ /
+āhopāyaṃ tam evādya uddhavo yam uvāca ha
+15. bhīmaseno 'rjunaḥ kṛṣṇo brahma-linga-dharās trayaḥ /
+jagmur girivrajaṃ tāta bṛhadratha-suto yataḥ
+16. te gatvātithya-velāyāṃ gṛheṣu gṛha-medhinam /
+brahmaṇyaṃ samayāceran rājanyā brahma-liṅginaḥ
+17. rājan viddhy atithīn prāptān arthino dūram āgatān /
+tan naḥ prayaccha bhadraṃ te yad vayaṃ kāmayāmahe
+18. kiṃ durmarṣaṃ titikṣūṇāṃ kim akāryam asādhubhiḥ /
+kiṃ na deyaṃ vadānyānāṃ kaḥ paraḥ sama-darśinām
+19. yo 'nityena śarīreṇa satāṃ geyaṃ yaśo dhruvam /
+nācinoti svayaṃ kalpaḥ sa vācyaḥ śocya eva saḥ
+20. hariścandro rantideva uñchavṛttiḥ śibir baliḥ /
+vyādhaḥ kapoto bahavo hy adhruveṇa dhruvaṃ gatāḥ
+21. bhp_10.72.022/0 śrī-śuka uvāca 
+svarair ākṛtibhis tāṃs tu prakoṣṭhair jyā-hatair api /
+rājanya-bandhūn vijñāya dṛṣṭa-pūrvān acintayat
+22. rājanya-bandhavo hy ete brahma-liṅgāni bibhrati /
+dadāni bhikṣitaṃ tebhya ātmānam api dustyajam
+23. baler nu śrūyate kīrtir vitatā dikṣv akalmaṣā /
+aiśvaryād bhraṃśitasyāpi vipra-vyājena viṣṇunā
+24. śriyaṃ jihīrṣatendrasya viṣṇave dvija-rūpiṇe /
+jānann api mahīm prādād vāryamāṇo 'pi daitya-rāṭ
+25. jīvatā brāhmaṇārthāya ko nv arthaḥ kṣatra-bandhunā /
+dehena patamānena nehatā vipulaṃ yaśaḥ
+26. ity udāra-matiḥ prāha kṛṣṇārjuna-vṛkodarān /
+he viprā vriyatāṃ kāmo dadāmy ātma-śiro 'pi vaḥ
+27. bhp_10.72.028/0 śrī-bhagavān uvāca 
+yuddhaṃ no dehi rājendra dvandvaśo yadi manyase /
+yuddhārthino vayaṃ prāptā rājanyā nānya-kāṅkṣiṇaḥ
+28. asau vṛkodaraḥ pārthas tasya bhrātārjuno hy ayam /
+anayor mātuleyaṃ māṃ kṛṣṇaṃ jānīhi te ripum
+29. evam āvedito rājā jahāsoccaiḥ sma māgadhaḥ /
+āha cāmarṣito mandā yuddhaṃ tarhi dadāmi vaḥ
+30. na tvayā bhīruṇā yotsye yudhi viklava-tejasā /
+mathurāṃ sva-purīṃ tyaktvā samudraṃ śaraṇaṃ gataḥ
+31. ayaṃ tu vayasātulyo nāti-sattvo na me samaḥ /
+arjuno na bhaved yoddhā bhīmas tulya-balo mama
+32. ity uktvā bhīmasenāya prādāya mahatīṃ gadām /
+dvitīyāṃ svayam ādāya nirjagāma purād bahiḥ
+33. tataḥ samekhale vīrau saṃyuktāv itaretaram /
+jaghnatur vajra-kalpābhyāṃ gadābhyāṃ raṇa-durmadau
+34. maṇḍalāni vicitrāṇi savyaṃ dakṣiṇam eva ca /
+caratoḥ śuśubhe yuddhaṃ naṭayor iva raṅgiṇoḥ
+35. tataś caṭa-caṭā-śabdo vajra-niṣpesa-sannibhaḥ /
+gadayoḥ kṣiptayo rājan dantayor iva dantinoḥ
+36. te vai gade bhuja-javena nipātyamāne $ anyonyato 'ṃsa-kaṭi-pāda-karoru-jatrum &amp;cūrṇī-babhūvatur upetya yathārka-śākhe % saṃyudhyator dviradayor iva dīpta-manvyoḥ
+37. itthaṃ tayoḥ prahatayor gadayor nṛ-vīrau $ kruddhau sva-muṣṭibhir ayaḥ-sparaśair apiṣṭām &itthaṃ tayoḥ prahatayor gadayor nṛ-vīrau $ kruddhau sva-muṣṭibhir ayaḥ-sparaśair apiṣṭām &śabdas tayoḥ praharator ibhayor ivāsīn % nirghāta-vajra-paruṣas tala-tāḍanotthaḥ
+38. tayor evaṃ praharatoḥ sama-śikṣā-balaujasoḥ /
+nirviśeṣam abhūd yuddham akṣīṇa-javayor nṛpa
+39. śatror janma-mṛtī vidvāñ jīvitaṃ ca jarā-kṛtam /
+pārtham āpyāyayan svena tejasācintayad dhariḥ
+40. sañcintyārī-vadhopāyaṃ bhīmasyāmogha-darśanaḥ /
+darśayām āsa viṭapaṃ pāṭayann iva saṃjñayā
+41. tad vijñāya mahā-sattvo bhīmaḥ praharatāṃ varaḥ /
+gṛhītvā pādayoḥ śatruṃ pātayām āsa bhū-tale
+42. ekam pādaṃ padākramya dorbhyām anyaṃ pragṛhya saḥ /
+gudataḥ pāṭayām āsa śākham iva mahā-gajaḥ
+43. eka-pādoru-vṛṣaṇa- kaṭi-pṛṣṭha-stanāṃsake
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0179 | next_story_id: DKS_0181
+previous title: Krishna's Grand Procession from Dwaraka || Krishna departs Dwaraka for Indraprastha with a vast army, chariots, elephants and his queens, to the sound of drums and conches.
+next title: Krishna, Bhima and Arjuna Approach Jarasandha in Disguise

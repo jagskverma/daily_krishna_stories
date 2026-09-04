@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0167",
+ "title": "The Rules of an Enemy's Gate",
+ "subtitle": null,
+ "story": "The five hills of Girivraja ringed the capital of Magadha like the fingers of a cupped hand, and inside that ring ruled Jarasandha, the king who kept conquered rulers captive in his city. To that city three men had come who meant to make him answer for it — Krishna and the Pandava princes, his cousins Bhima and Arjuna. They had come dressed as holy men, but they had not come to beg.\n\nBest loved of the hills was Chaitya, worshipped by the citizens and by the royal line of Vrihadratha; and it was that hill, at the point where the great drums of the old kings used to sound, that the three had torn down with their bare arms before ever entering the gate. Then, in the robes of wandering brahmanas, they had walked through the crowded streets past shops heavy with food and flowers, and the people of Magadha, seeing such giants in holy men's dress, had wondered what sort of guests these were.\n\nInside the city the omens had already been speaking. Learned brahmanas had reported evil signs to Jarasandha; his priest had set him on an elephant and walked about him with lighted brands; and the king had begun a sacrifice to turn the portents aside. Yet when the three strangers presented themselves at his house, he rose in haste and gave them full honour — water for their feet, honey, the offerings of welcome, gifts of cattle — and bade them welcome. Bhima and Arjuna stood silent while Krishna spoke for them. But Jarasandha was not a man to let a strange entry pass unremarked, and when the ceremony of welcome was over he looked at his guests and asked what they meant by coming into his city by no proper gate.\n\nKrishna answered without heat, as though stating a rule everyone knew. \"The rule stands written,\" he said, \"that an enemy's house is entered through a wrong gate, and a friend's house through the right one. Know also that this is the vow we keep: having entered a foe's dwelling for the sake of our purpose, we do not accept the worship offered to us.\"\n\nThe water for the feet stood untouched. The gifts lay where they had been laid. In the most courteous words imaginable, the king of Magadha had just been told that these men were not his guests but his enemies — that they had entered his house the way one enters an enemy's house, and that they refused his friendship outright. Whatever courtesy had passed between them was finished.\n\nJarasandha heard it out in silence. And in that silence the three of them stood in the hall of the king they had come to fight, with the challenge itself still waiting to be spoken.",
+ "reflection": "Krishna answers a charge of bad manners with a precise code of his own: a friend's house and a foe's house are not entered the same way, and a guest who refuses the offered worship is declaring, openly and without rudeness, that he has come as an enemy. The courtliness of the reply only sharpens the threat beneath it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Jarasandha",
+  "Bhima",
+  "Arjuna"
+ ],
+ "locations": [
+  "Girivraja"
+ ],
+ "themes": [
+  "dialogue",
+  "defiance",
+  "war-ethics"
+ ],
+ "previous_story_id": "DKS_0166",
+ "next_story_id": "DKS_0168",
+ "next_story_tease": "But Jarasandha, certain of his own innocence, would demand to know what injury he had ever done them.",
+ "hero_scene": "Krishna standing calm in Jarasandha's hall, the untouched water for the feet and the gifts of welcome lying between him and the seated king, with Bhima and Arjuna silent behind him in mendicants' robes.",
+ "visual_elements": [
+  "the five hills of Girivraja",
+  "the broken Chaityaka peak",
+  "Krishna, Bhima and Arjuna in Brahmana disguise",
+  "Jarasandha's reception hall",
+  "the untouched water and gifts of welcome",
+  "tension and defiance"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.21",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:04Z",
+  "source_event_id": "evt_0394",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

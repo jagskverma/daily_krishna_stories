@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0318",
+ "title": "The Four Ministers Fall",
+ "subtitle": null,
+ "story": "The war had begun with a broken standard and a hundred fallen princes, and it had come down at last to a single meeting on the field before the demon king's city: Pradyumna, the son of Krishna and Rukmini, against the four ministers of Shamvara.\n\nShamvara's arrows came first — thousands of them, falling on Pradyumna like a season of rain — and the young man's hands moved faster than the eye could follow, cutting each shaft out of the air before it could touch him. Then he bent his own bow, and there was no one in the demon army who went unstruck.\n\nThe soldiers who survived that rain broke and ran back toward their king in fear, and Shamvara, watching his army scatter, was beside himself. He turned to the four ministers around him — Durdhara, Ketumali, Shatruhanta, and Pramardana. \"At my command, go and strike down my enemy's son,\" he told them. \"Do not hold back; kill him at once. A danger ignored at its beginning grows like a disease — leave this boy alone and he will ruin us all.\"\n\nWhat followed lifted the hair of everyone who watched: the four greatest warriors of the demon court against the young prince of Dwaraka. The old tellings name him the delight of his mother's heart — and his mother, far away in Dwaraka, did not know that the son she had mourned for years was alive and fighting, cutting down the enemies of her house. The ministers, burning to obey their king, drove their chariots out wheel to wheel, with arrows showering from them, and the air between them and the young man filled with shafts. Pradyumna, quick as anger, took up his bow and stood his ground. He struck Durdhara with twenty-five arrows, Ketumali with sixty-three, Shatruhanta with seventy, and Pramardana with eighty-two. The four, in fury, covered him in a downpour of their own — and then the boy who had learned every form of illusion in the demon's own house finished the work.\n\nHe put an arrow through Durdhara's breast, and the minister fell. Before the eyes of the whole army he cut Ketumali down. Shatruhanta, the mightiest of the four, was pierced to the heart in the same breath. And Pramardana, the last of them, was crushed beneath Pradyumna's club. He had measured out their doom by count — twenty-five here, sixty-three there — as if the numbers themselves were the sentence. The ministers lay dead in a ring around him, their chariots wrecked, their flags trailing in the dirt.\n\nThe demon army had watched its hundred princes fall, and now it had watched its four greatest warriors die in a single fight. It could bear no more. The rout was total: the soldiers threw down their weapons and fled the field in terror, abandoning their king and their banners, and the field emptied like a tide going out. The omens that had darkened Shamvara's march were fulfilled at last — the vultures had been right, and the eclipsed moon had not lied.\n\nPradyumna stood among the wreckage and looked once more toward Shamvara — the demon who had stolen an infant from its mother's room and raised it as his own son, only to watch that boy cut down his hundred sons and his four ministers, one after another. Behind him the field lay under the torn flags of the ministers. The father was alone now, with nothing left but his own weapons and the arts of illusion that his own household had once taught the stolen child.",
+ "reflection": "There is an exactness to Pradyumna's justice: each minister receives his counted share of arrows — twenty-five here, sixty-three there — before the end. The arithmetic of the field stands in place of mercy, as if the young warrior measures out doom the way his father measured out grace.",
+ "tradition_note": null,
+ "content_note": "Battle violence: the four ministers of Shamvara are slain in single combat; the deaths are recounted without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Shamvara",
+  "Durdhara",
+  "Ketumali",
+  "Shatruhanta",
+  "Pramardana"
+ ],
+ "locations": [
+  "battlefield"
+ ],
+ "themes": [
+  "single combat",
+  "rout",
+  "strength"
+ ],
+ "previous_story_id": "DKS_0317",
+ "next_story_id": "DKS_0319",
+ "next_story_tease": "But Shamvara had not yet used the one weapon he trusted most — the art of illusion itself.",
+ "hero_scene": "Pradyumna astride his chariot in the turning chaos of battle, the four ministers falling one by one around him — Durdhara pierced through the breast, Ketumali's head taken, Pramardana crushed beneath the club — while the demon army breaks and runs.",
+ "visual_elements": [
+  "Pradyumna cutting Shamvara's arrows out of the air",
+  "the four ministers' chariots charging, flags flying",
+  "Durdhara, Ketumali, Shatruhanta and Pramardana falling one by one",
+  "the demon army fleeing the field in terror",
+  "single combat and rout"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.252",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:28Z",
+  "source_event_id": "evt_0337",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

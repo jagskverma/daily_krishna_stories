@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0218",
+ "title": "A Hundred Yojanas and No Jewel",
+ "subtitle": null,
+ "story": "Satadhanva rode as if the road were endless and the distance nothing. His mare, Vijnatahridaya, could carry him a hundred yojanas without rest, and behind him came the two men he feared most in the world: Krishna and Balarama, bent on avenging the murder of Satrajit and recovering the Syamantaka jewel.\n\nDays earlier, Satyabhama had returned to her father's house to find him slain in the night, and the great jewel — the same gem Krishna had once bestowed on Satrajit — was gone from his home. Every sign pointed to Satadhanva of the Bhoja race, and there was no time for counsel: Krishna and Balarama mounted their chariot and gave chase at once, determined to run the killer down before he could reach a friendly court and slip beyond their reach.\n\nThe flight took them beyond the borders of the Vrishni lands and onto the long roads that led toward Mithila. A hundred yojanas the mare covered, mile after mile, with the brothers pressing close behind, and the road itself grew strange to them — for neither had ever had cause to ride so far from Dwaraka before. But no creature can outrun exhaustion forever. At last, in a grove on the approach to Mithila, Vijnatahridaya stumbled and stood motionless, her strength spent, her breath failing; and there the rider and the horse came to a stop, with the chariot still closing in.\n\nKrishna looked at the trembling mare and turned to his brother. \"Wait here,\" he said. \"I will go on foot and take the jewel from him myself.\" Balarama held the chariot, and Krishna went forward alone, on foot, with the discus in his hand — the same discus that had ended the lives of greater demons than Satadhanva.\n\nThe fugitive had no fight left in him. Krishna overtook him on the outskirts of Mithila and struck him down with the discus, and the murderer of Satrajit was dead, cut down in the very field where he had hoped to find safety. Krishna bent over the body and searched it. He searched the folds of the fallen man's garments and the saddle of the dying mare. There was no jewel. The Syamantaka was not on Satadhanva.\n\nKrishna returned to his brother with empty hands. \"Give me the jewel,\" said Balarama, and Krishna answered simply: \"I have not got it.\"\n\nThe words fell between the two brothers like a stone. Balarama's face darkened, and his anger rose as it rarely did. \"Fie on you, fie on you,\" he said. \"I forgive you because you are my brother. But I will go away from here. I have nothing more to do with you, or with the Vrishnis of Dwaraka.\" And with that, the elder brother turned his back on the chariot and entered the city of Mithila alone.\n\nThere King Janaka received him with honor, rising from his seat at the sight of the beloved guest and loading him with gifts worthy of a king's affection. Balarama stayed on in Mithila for months, and in that time he found a pupil: the young prince Duryodhana of Hastinapura, who had come to Janaka's court and received from Balarama the finest instruction in the use of the mace that any teacher could give.\n\nKrishna returned to Dwaraka alone, the murderer punished and the jewel still lost. The pursuit that had begun with a murdered father-in-law ended with a dead fugitive, a parted brother, and a gem that seemed to have vanished into thin air. Somewhere in Dwaraka, someone was keeping a secret about the Syamantaka — and Krishna, who knew all things, had already begun to suspect where the jewel had truly gone.",
+ "reflection": "The chase that spans a hundred yojanas ends in nothing: the killer is dead, but the jewel is not on him, and Balarama walks away rather than ride home empty-handed beside his brother. Krishna's pursuit was just, yet justice alone does not return what was stolen — the story turns on the gap between punishing the thief and recovering the loss.",
+ "tradition_note": "The Bhagavata has Balarama simply go on to Mithila to visit King Janaka, his dearest friend; the Harivamsha presents the parting as a rift, with Balarama angry that Krishna could not produce the jewel. Both agree that Satadhanva was killed near Mithila and that no jewel was found.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Satadhanva"
+ ],
+ "locations": [
+  "Mithila"
+ ],
+ "themes": [
+  "pursuit",
+  "justice",
+  "disappointment"
+ ],
+ "previous_story_id": "DKS_0217",
+ "next_story_id": "DKS_0219",
+ "next_story_tease": "Somewhere in Dwaraka, a secret was being kept about the missing jewel.",
+ "hero_scene": "Krishna, alone on foot on the road near Mithila, his discus back in his hand, standing over the fallen Satadhanva beside the collapsed mare, while Balarama waits far behind with the chariot.",
+ "visual_elements": [
+  "Krishna on foot with his discus",
+  "the fallen Satadhanva",
+  "the exhausted mare Vijnatahridaya",
+  "Balarama waiting with the chariot in the distance",
+  "the open road toward Mithila",
+  "dust and exhaustion",
+  "pursuit and disappointment"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.57.9-25",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.39",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:16Z",
+  "source_event_id": "evt_0206"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,33 @@
+# STORY DKS_0071 — Krishna Revives the Cowherds from Poisoned Water
+
+## Index entry
+title: Krishna Revives the Cowherds from Poisoned Water
+summary: Thirsty cowherds and cattle drink the poisoned waters of the Yamuna and die; Krishna revives them all with a glance of nectar.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Krishna, cowherds, cattle
+locations: Yamuna river
+themes: healing, compassion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0068
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 15 | verses 46-51 | confidence 5
+  excerpt: The cowherds and cattle, overcome by the poisoned water of the Yamuna, fall lifeless, but Krishna, the master of all yoga, restores them with a single nectar-showering glance. (rendered from Sanskrit, verse 46-51)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.15 (46-51)
+46. evaṃ sa bhagavān kṛṣṇo vṛndāvana-caraḥ kvacit /
+47. atha gāvaś ca gopāś ca nidāghātapa-pīḍitāḥ /
+48. viṣāmbhas tad upaspṛśya daivopahata-cetasaḥ /
+49. vīkṣya tān vai tathā-bhūtān kṛṣṇo yogeśvareśvaraḥ /
+50. te sampratīta-smṛtayaḥ samutthāya jalāntikāt /
+51. anvamaṃsata tad rājan govindānugrahekṣitam /
+
+## Corpus chain
+previous_story_id: DKS_0070 | next_story_id: DKS_0072
+previous title: Krishna Resolves to Subdue the Serpent Kaliya
+next title: Krishna Leaps into Kaliya's Poisoned Pool

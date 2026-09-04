@@ -1,0 +1,65 @@
+# STORY DKS_0284 — Narada Sees Krishna in Every Palace of Dvaraka || Narada visits Dvaraka to witness Krishna's household, and sees him simultaneously present in each of the 16,000 palaces performing different duties.
+
+## Index entry
+title: Narada Sees Krishna in Every Palace of Dvaraka || Narada visits Dvaraka to witness Krishna's household, and sees him simultaneously present in each of the 16,000 palaces performing different duties.
+summary: Narada visits Dvaraka to witness Krishna's household, and sees him simultaneously present in each of the 16,000 palaces performing different duties.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Narada, Krishna, Rukmini
+locations: Dvaraka
+themes: omnipresence, wonder, devotion
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0257
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 69 | verses 1-38 | confidence 5
+  excerpt: Narada, curious how Krishna wed 16,000 wives with one body, entered palace after palace and saw Krishna everywhere at once — playing dice, raising children, performing sacrifices, worshipping, hunting — in each of the 16,000 mansions. (rendered from Sanskrit, verses 1-38)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.69 (1-38)
+1. citraṃ bataitad ekena vapuṣā yugapat pṛthak /
+2. ity utsuko dvāravatīṃ devarṣir draṣṭum āgamat /
+3. utphullendīvarāmbhoja- kahlāra-kumudotpalaiḥ /
+4. prāsāda-lakṣair navabhir juṣṭāṃ sphāṭika-rājataiḥ /
+5. vibhakta-rathyā-patha-catvarāpaṇaiḥ śālā-sabhābhī rucirāṃ surālayaiḥ /
+6. tasyām antaḥ-puraṃ śrīmad arcitaṃ sarva-dhiṣṇya-paiḥ /
+7. tatra ṣoḍaśabhiḥ sadma- sahasraiḥ samalaṅkṛtam /
+8. viṣṭabdhaṃ vidruma-stambhair vaidūrya-phalakottamaiḥ /
+9. vitānair nirmitais tvaṣṭrā muktā-dāma-vilambibhiḥ /
+10. dāsībhir niṣka-kaṇṭhībhiḥ su-vāsobhir alaṅkṛtam /
+11. ratna-pradīpa-nikara-dyutibhir nirasta- dhvāntaṃ vicitra-valabhīṣu śikhaṇḍino 'ṅga /
+12. tasmin samāna-guṇa-rūpa-vayaḥ-su-veṣa- $ dāsī-sahasra-yutayānusavaṃ gṛhiṇyā &amp;vipro dadarśa camara-vyajanena rukma- % daṇḍena sātvata-patiṃ parivījayantyā
+13. taṃ sannirīkṣya bhagavān sahasotthita-śrī- $ paryaṅkataḥ sakala-dharma-bhṛtāṃ variṣṭhaḥ &taṃ sannirīkṣya bhagavān sahasotthita-śrī- $ paryaṅkataḥ sakala-dharma-bhṛtāṃ variṣṭhaḥ &ānamya pāda-yugalaṃ śirasā kirīṭa- % juṣṭena sāñjalir avīviśad āsane sve
+14. tasyāvanijya caraṇau tad-apaḥ sva-mūrdhnā $ bibhraj jagad-gurutamo 'pi satāṃ patir hi &tasyāvanijya caraṇau tad-apaḥ sva-mūrdhnā $ bibhraj jagad-gurutamo 'pi satāṃ patir hi &brahmaṇya-deva iti yad guṇa-nāma yuktaṃ % tasyaiva yac-caraṇa-śaucam aśeṣa-tīrtham
+15. sampūjya deva-ṛṣi-varyam ṛṣiḥ purāṇo $ nārāyaṇo nara-sakho vidhinoditena &sampūjya deva-ṛṣi-varyam ṛṣiḥ purāṇo $ nārāyaṇo nara-sakho vidhinoditena &vāṇyābhibhāṣya mitayāmṛta-miṣṭayā taṃ % prāha prabho bhagavate karavāma he kim
+16. bhp_10.69.017/0 śrī-nārada uvāca naivādbhutaṃ tvayi vibho 'khila-loka-nāthe $ maitrī janeṣu sakaleṣu damaḥ khalānām & naivādbhutaṃ tvayi vibho 'khila-loka-nāthe $ maitrī janeṣu sakaleṣu damaḥ khalānām & niḥśreyasāya hi jagat-sthiti-rakṣaṇābhyāṃ % svairāvatāra urugāya vidāma suṣṭhu
+17. dṛṣṭaṃ tavāṅghri-yugalaṃ janatāpavargaṃ $ brahmādibhir hṛdi vicintyam agādha-bodhaiḥ & dṛṣṭaṃ tavāṅghri-yugalaṃ janatāpavargaṃ $ brahmādibhir hṛdi vicintyam agādha-bodhaiḥ & saṃsāra-kūpa-patitottaraṇāvalambaṃ % dhyāyaṃś carāmy anugṛhāṇa yathā smṛtiḥ syāt
+18. tato 'nyad āviśad gehaṃ kṛṣṇa-patnyāḥ sa nāradaḥ /
+19. dīvyantam akṣais tatrāpi priyayā coddhavena ca /
+20. pṛṣṭaś cāviduṣevāsau kadāyāto bhavān iti /
+21. athāpi brūhi no brahman janmaitac chobhanaṃ kuru /
+22. tatrāpy acaṣṭa govindaṃ lālayantaṃ sutān śiśūn /
+23. juhvantaṃ ca vitānāgnīn yajantaṃ pañcabhir makhaiḥ /
+24. kvāpi sandhyām upāsīnaṃ japantaṃ brahma vāg-yatam /
+25. aśvair gajai rathaiḥ kvāpi vicarantaṃ gadāgrajam /
+26. mantrayantaṃ ca kasmiṃścin mantribhiś coddhavādibhiḥ /
+27. kutracid dvija-mukhyebhyo dadataṃ gāḥ sv-alaṅkṛtāḥ /
+28. hasantaṃ hāsa-kathayā kadācit priyayā gṛhe /
+29. dhyāyantam ekam āsīnaṃ puruṣaṃ prakṛteḥ param /
+30. kurvantaṃ vigrahaṃ kaiścit sandhiṃ cānyatra keśavam /
+31. putrāṇāṃ duhitṝṇāṃ ca kāle vidhy-upayāpanam /
+32. prasthāpanopanayanair apatyānāṃ mahotsavān /
+33. yajantaṃ sakalān devān kvāpi kratubhir ūrjitaiḥ /
+34. carantaṃ mṛgayāṃ kvāpi hayam āruhya saindhavam /
+35. avyakta-lingaṃ prakṛtiṣv antaḥ-pura-gṛhādiṣu /
+36. athovāca hṛṣīkeśaṃ nāradaḥ prahasann iva /
+37. vidāma yoga-māyās te durdarśā api māyinām /
+38. anujānīhi māṃ deva lokāṃs te yaśasāplutān /
+
+## Corpus chain
+previous_story_id: DKS_0283 | next_story_id: DKS_0285
+previous title: Samba Carries Off Duryodhana's Daughter
+next title: Narada Marvels at Krishna's Yoga-Maya and Departs || Narada praises Krishna's unfathomable yoga-maya, and Krishna bids him wander singing his glories throughout the worlds.

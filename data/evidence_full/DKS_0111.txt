@@ -1,0 +1,44 @@
+# STORY DKS_0111 — Uddhava Praises the Gopis and Departs
+
+## Index entry
+title: Uddhava Praises the Gopis and Departs
+summary: Uddhava extols the gopis' supreme devotion, wishes to be a shrub in Vrindavan, stays some months, then returns to Mathura.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Uddhava, Gopis, Nanda, Yashoda
+locations: Vrindavan, Mathura
+themes: devotion, humility, reverence
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0160
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 47 | verses 52-68 | confidence 5
+  excerpt: Uddhava declared: 'May I become any shrub, creeper or herb in Vrindavan, blessed by the dust of these gopis' feet.' After consoling Nanda, Yashoda and the gopas, he departed and returned to Mathura. (rendered from Sanskrit, verses 52-68)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.47 (52-68)
+52. bhp_10.47.053/0 śrī-śuka uvāca
+53. uvāsa katicin māsān gopīnāṃ vinudan śucaḥ /
+54. yāvanty ahāni nandasya vraje 'vātsīt sa uddhavaḥ /
+55. sarid-vana-giri-droṇīr vīkṣan kusumitān drumān /
+56. dṛṣṭvaivam-ādi gopīnāṃ kṛṣṇāveśātma-viklavam /
+57. etāḥ paraṃ tanu-bhṛto bhuvi gopa-vadhvo $ govinda eva nikhilātmani rūḍha-bhāvāḥ &amp;vāñchanti yad bhava-bhiyo munayo vayaṃ ca % kiṃ brahma-janmabhir ananta-kathā-rasasya
+58. kvemāḥ striyo vana-carīr vyabhicāra-duṣṭāḥ $ kṛṣṇe kva caiṣa paramātmani rūḍha-bhāvaḥ &kvemāḥ striyo vana-carīr vyabhicāra-duṣṭāḥ $ kṛṣṇe kva caiṣa paramātmani rūḍha-bhāvaḥ &nanv īśvaro 'nubhajato 'viduṣo 'pi sākṣāc % chreyas tanoty agada-rāja ivopayuktaḥ
+59. nāyaṃ śriyo 'ṅga u nitānta-rateḥ prasādaḥ $ svar-yoṣitāṃ nalina-gandha-rucāṃ kuto 'nyāḥ &nāyaṃ śriyo 'ṅga u nitānta-rateḥ prasādaḥ $ svar-yoṣitāṃ nalina-gandha-rucāṃ kuto 'nyāḥ &rāsotsave 'sya bhuja-daṇḍa-gṛhīta-kaṇṭha- % labdhāśiṣāṃ ya udagād vraja-vallabhīnām
+60. āsām aho caraṇa-reṇu-juṣām ahaṃ syāṃ $ vṛndāvane kim api gulma-latauṣadhīnām &āsām aho caraṇa-reṇu-juṣām ahaṃ syāṃ $ vṛndāvane kim api gulma-latauṣadhīnām &yā dustyajaṃ sva-janam ārya-pathaṃ ca hitvā % bhejur mukunda-padavīṃ śrutibhir vimṛgyām
+61. yā vai śriyārcitam ajādibhir āpta-kāmair $ yogeśvarair api yad ātmani rāsa-goṣṭhyām &yā vai śriyārcitam ajādibhir āpta-kāmair $ yogeśvarair api yad ātmani rāsa-goṣṭhyām &kṛṣṇasya tad bhagavataḥ caraṇāravindaṃ % nyastaṃ staneṣu vijahuḥ parirabhya tāpam
+62. vande nanda-vraja-strīṇāṃ pāda-reṇum abhīkṣṇaśaḥ /
+63. bhp_10.47.064/0 śrī-śuka uvāca
+64. taṃ nirgataṃ samāsādya nānopāyana-pāṇayaḥ /
+65. manaso vṛttayo naḥ syuḥ kṛṣṇa pādāmbujāśrayāḥ /
+66. karmabhir bhrāmyamāṇānāṃ yatra kvāpīśvarecchayā /
+67. evaṃ sabhājito gopaiḥ kṛṣṇa-bhaktyā narādhipa /
+68. kṛṣṇāya praṇipatyāha bhakty-udrekaṃ vrajaukasām /
+
+## Corpus chain
+previous_story_id: DKS_0110 | next_story_id: DKS_0112
+previous title: Uddhava Delivers Krishna's Message and the Gopis Reply
+next title: Akrura Journeys to Vrindavan

@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0416",
+ "title": "When Krishna Met Parashurama",
+ "subtitle": null,
+ "story": "Ahead of him on the road, Krishna saw a company of sages, and even from a distance they seemed to burn with a light of their own, the radiance of men who had worn away the world's desires in austerity. He reined in the chariot, and before the horses had fully stopped he had alighted and gone to worship them, for though he travelled as the envoy of kings, before sages every envoy of kings bows first.\n\nThe rishis stood in the road blazing with that Brahmic lustre, and among them Krishna recognised Narada, the tireless traveller of the three worlds, whose presence carried its own meaning: whatever happened here would be known everywhere. And there were others whose names the road would carry all the way back to Upaplavya. It was an honour beyond any court's, and Krishna offered it as it was due: he worshipped them, and waited for their word.\n\nThen one of the sages came forward, and the air seemed to change around him. It was Parashurama, Jamadagni's son, whose name every warrior in the world knew. He approached Govinda, the slayer of Madhu, and embraced him, and the embrace was not a formality between two great men; it was the greeting of an elder who had come a long way on purpose.\n\n\"We are desirous,\" Parashurama said, \"of beholding all the Kshatriyas of the earth assembled from every side.\" The peace conclave at Hastinapura would draw every king and every warrior of the world to one gathering, and the sages had not wanted to miss it. But they had not come only to watch. \"And we are anxious,\" the sage went on, \"to listen to those words fraught with virtue and profit, which will be spoken by you unto the Kurus, in the presence of all.\"\n\nThere was something in the words that made the moment larger than a roadside courtesy. These were men who had renounced the world, yet they had journeyed to hear a speech about peace. They would not take sides in the quarrel; they had come to witness it, to stand as listeners at the place where the fate of the earth would be spoken aloud. And it was Parashurama, Jamadagni's son, who said it — the ancient sage, feared by warriors since before the fathers of the men now gathering, standing on the open road to say that what mattered was the word Krishna would speak.\n\nKrishna received the blessing and the embrace, and the sages stood on the roadside as he remounted the chariot and gathered the reins. The chariot rolled on toward Hastinapura, and behind him the rishis remained where they were, a company of witnesses in the dust of the road, their presence a kind of promise: whatever words were spoken at the conclave of the Kurus, they would not be spoken unheard. The light of their austerity faded behind the chariot, and ahead lay the city, and the assembly, and the words that everyone had come to hear.",
+ "reflection": "The sages come as witnesses, not as advisors: they want to see the warriors of the earth gathered and to hear the words of peace spoken before them. That the ancient Parashurama, Jamadagni's son, should journey to listen rather than to act is its own quiet argument that in the coming days, the words spoken at Hastinapura may matter more than any sword.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Parashurama",
+  "Narada"
+ ],
+ "locations": [
+  "road to Hastinapura"
+ ],
+ "themes": [
+  "divinity",
+  "witness",
+  "assembly"
+ ],
+ "previous_story_id": "DKS_0415",
+ "next_story_id": "DKS_0417",
+ "next_story_tease": "With the sages' blessings behind him, Krishna turned his face toward the city of the Kurus.",
+ "hero_scene": "On the open road, Krishna bows before a band of radiant sages blazing with Brahmic lustre, while the grey-haired Parashurama, Jamadagni's son, steps forward to embrace him, the chariot waiting behind them.",
+ "visual_elements": [
+  "the company of rishis blazing with Brahmic lustre on the open road",
+  "Krishna alighting from the chariot to worship them",
+  "Narada among the assembled sages",
+  "Parashurama, Jamadagni's son, stepping forward to embrace Krishna",
+  "the chariot waiting on the road as the sages stand in witness"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.83",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0423"
+ },
+ "editorial_status": "unreviewed"
+}

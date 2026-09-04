@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0411",
+ "title": "The Pandavas Entrust the Peace Mission",
+ "subtitle": null,
+ "story": "The vow was spoken, but the question of peace would not die with it. Krishna had come to Upaplavya as the Pandavas' friend, and for days the tent had argued the one question that divided the house: whether to stretch out a hand to Hastinapura or to raise weapons against it. Now, in the lamplight, the brothers gathered around Krishna and pressed the last great plea of their house upon him: carry our cause to Hastinapura, and bring back either the kingdom or an answer that ends this waiting. One after another they spoke for the mission, Bhima and Nakula each entrusting the family's hope to him, until Arjuna rose, and the night's argument took its final shape.\n\n\"Yudhishthira has already said what should be said,\" Arjuna began. \"But it seems to me, Krishna, that you do not think peace can be easily obtained — whether because of Dhritarashtra's covetousness or because of our present weakness. You think that human prowess alone is fruitless, and that without putting forth one's prowess nothing can be achieved. That may be true, and it may not always be true. Nothing, however, should be regarded as impracticable.\"\n\nHe leaned forward, and his voice changed from argument to entreaty. \"If peace is properly proposed, it may be concluded. Strive, therefore, to bring about peace with the foe. You are the foremost friend of both the Pandavas and the Kurus, even as Prajapati is the friend of both the gods and the Asuras. Accomplish what is good for both houses. The accomplishment of our good is not difficult for you — as soon as you go there, it will be accomplished.\"\n\nThen the harder edge of the night surfaced. Whatever Krishna wished — peace or war — his wish would be honoured by the Pandavas, Arjuna said; the choice was his. But let him remember what had brought them to this pass. Duryodhana, unable to bear the sight of Yudhishthira's prosperity and finding no honest expedient, had deprived them of their kingdom by the sinful expedient of deceitful dice. \"What bowman,\" Arjuna asked, \"born in the Kshatriya order and invited to combat, turns away from the fight even if he is sure to die? When I saw us vanquished by sinful means and banished to the woods, I thought that Suyodhana deserved death at my hands.\"\n\nYet he did not press that course. If Krishna judged their immediate destruction preferable, let it be done soon and without further deliberation. But if the road of peace remained open, then Krishna alone could walk it, for he was related to both houses and trusted in both courts.\n\n\"Surely you know,\" Arjuna said, \"how Draupadi was insulted in the midst of the assembly by Duryodhana of sinful soul, and how we bore it with patience. That Duryodhana will behave with justice towards the Pandavas, I cannot believe. Wise counsels will be lost on him like seed sown in barren soil. Therefore do without delay what you think proper and beneficial for the Pandavas — what should next be done.\"\n\nHe fell silent. The mission had been entrusted: the kingdom's last claim, the family's dignity, and the question of war or peace were all placed in Krishna's hands. Every eye in the tent turned to him, waiting for the answer that would set the road to Hastinapura — or to battle. Outside, the night pressed against the canvas, and the camp settled into its watch. Inside, the brothers waited, and the waiting itself had become a kind of faith: whatever Krishna decided, they would follow it, to the Kuru city or to the field of arms.",
+ "reflection": "Arjuna's speech carries both directions of the Pandavas' hope: he entreats Krishna to win peace and in the same breath reminds him that Duryodhana cannot be trusted, that wise counsel will fall on him like seed in barren soil. The brothers are not naive — they simply believe that whatever Krishna chooses will be right, which is why the night ends not with a decision but with an expectation.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Bhima",
+  "Nakula"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "peace",
+  "diplomacy",
+  "trust"
+ ],
+ "previous_story_id": "DKS_0410",
+ "next_story_id": "DKS_0412",
+ "next_story_tease": "It remained for Krishna to answer whether he would carry the Pandavas' plea to Hastinapura.",
+ "hero_scene": "By night in the camp at Upaplavya, Arjuna stands before Krishna with one hand raised, arguing for the peace mission, while Bhima and Nakula wait behind him and the tent glows with lamp-light.",
+ "visual_elements": [
+  "Arjuna standing, hand raised, making his plea",
+  "Krishna seated, listening gravely",
+  "Bhima and Nakula waiting behind Arjuna",
+  "lamp-light and shadows in the tent at night",
+  "the stillness of a decision not yet made"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.78",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0480"
+ },
+ "editorial_status": "unreviewed"
+}

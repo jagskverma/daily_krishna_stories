@@ -1,0 +1,108 @@
+# STORY DKS_0482 — Krishna Offers Sudarsana to Slay Karna
+
+## Index entry
+title: Krishna Offers Sudarsana to Slay Karna
+summary: Seeing Karna baffle Arjuna's weapons, Krishna rebukes Arjuna's slackness and offers him the razor-edged Sudarsana discus to strike off Karna's head.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Karna
+locations: Kurukshetra
+themes: divine weapon, wrath, resolve
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0476
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 8 | chapter/section 89 | verses  | confidence 4
+  excerpt: Then Vasudeva, beholding Partha's shafts baffled by Karna, said unto the former, 'What is this, O diadem-decked Arjuna, that Karna should succeed in crushing thy weapons today... Putting forth thy might, strike off the head of that foe of thine with this Sudarsana, of edge keen as a razor, that I give unto thee, like Sakra striking off the head of his foe Namuci, with the thunderbolt.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 8.89 ()
+"Sanjaya said, 'Then when the blare of conchs and the peal of drums became
+very loud, those two foremost of men, both owning white steeds, the
+Suta's son Vikartana and Arjuna, encountered each other in consequence, O
+king, of thy son's evil policy. Those two heroes endued with great
+impetuosity, Dhananjaya and Adhiratha's son, closed with each other like
+two infuriated Himalayan elephants, both of full-grown tusks, fighting
+with each other for the sake of a she-elephant in her season. Like a mass
+of clouds encountering another mass, or a mountain encountering a
+mountain, those two warriors, both pouring showers of arrows, encountered
+each other, their bows loudly twanging the while, and the wheels of their
+cars producing a deafening clatter, and their bow-strings and palms
+emitting loud sounds. Like two mountains, both endued with tall cliffs
+and abounding in trees and creepers and herbs and both teeming with the
+diverse other denizens that are natural to them, moving towards each
+other for an encounter, those two mighty warriors encountered each other,
+each striking the other with mighty weapons.
+
+"'The combat between the two heroes became furious like that between the
+chief of the celestials and Virocana's son in days of yore. Incapable of
+being endured by others and marked by a river whose distasteful water
+consisted of blood, the limbs of those two heroes, as also their drivers
+and animals, became exceedingly mangled. Like two large lakes, both
+teeming with lotuses of diverse kinds and fish and tortoises, and echoing
+with the voices of diverse kinds of fowl, and softly stirred by the wind,
+approaching each other, those two cars graced with standards approached
+each other. Both endued with prowess equal to that of the great Indra,
+both resembling the great Indra himself, those two mighty car-warriors
+struck each other with shafts that resembled the great Indra's thunder,
+like the great Indra himself and (the asura) Vritra.
+
+"'Both the armies consisting of cars and elephants and steeds and
+foot-soldiers, all equipped with beautiful armour and ornaments and robes
+and weapons, and those also that were in the welkin, were inspired with
+fear upon beholding that encounter of wonderful aspect between Arjuna and
+Karna. Others among the spectators, filled with joy and uttering leonine
+shouts, raised their arms, waving their fingers or the pieces of cloth
+they held, when Arjuna rushed against the son of Adhiratha, from desire
+of slaughter, like one infuriated elephant rushing against another.
+
+"'The Somakas then loudly shouted to Partha, saying, "Be quick, O Arjuna,
+go and pierce Karna. Cut off his head without delay, and (with it) the
+desire of Dhritarashtra's son for kingdom." Similarly many warriors of
+ours that were there, said unto Karna, "Proceed, proceed, O Karna, and
+slay Arjuna with keen shafts. Let the sons of Pritha once more go to the
+woods forever."
+
+"'Then Karna first pierced Partha in that encounter, with ten mighty
+shafts. Arjuna pierced him in return with ten keen-pointed shafts, shot
+with great vigour, in the centre of the chest. Indeed, the Suta's son and
+Arjuna then mangled each other with many shafts equipped with goodly
+wings. Desirous of obtaining advantage of each other's lapses in that
+dreadful encounter, with cheerful hearts they rushed against each other
+fiercely.
+
+"'Rubbing his two arms and the string also of Gandiva, that fierce bowman,
+Arjuna, then sped showers of cloth-yard shafts, and Nalikas and arrows
+equipped with heads like boar's ears and razors, and Anjalikas, and
+crescent-shaped arrows. Those arrows of Partha, O king, spread over the
+welkin, penetrated into Karna's car like flights of birds, with heads
+bent down, penetrating in the evening into a tree for roosting there in
+the night. All those arrows, however, O king, that Arjuna, that victor
+over all foes, with furrowed brow and angry glances, sped at Karna, all
+those successive showers of shafts shot by the son of Pandu, were cut off
+by the Suta's son with his own arrows.
+
+"'The son of Indra then sped at Karna a fiery weapon capable of slaying all
+foes. Covering the earth and the welkin and the ten points of the compass
+and the very course of the sun with its effulgence, it caused his own
+body also to blaze up with light. The robes of all the warriors took
+fire, at which they fled away. Loud sounds also arose there, like what is
+heard when a forest of bamboos in a wilderness is on fire. Beholding that
+fiery weapon acting on all sides, the Suta's son Karna of great valour
+shot in that encounter the varunastra for quenching it. That
+conflagration then, in consequence of Karna's weapon, became quenched.
+
+"'A large mass of clouds quickly caused all the points of the compass to be
+enveloped with darkness. Those clouds whose extremities presented the
+aspect of mountains, surrounding every side, flooded the earth with
+water. That fierce conflagration, though it was such, was still quenched
+by those clouds in a trice. The entire we
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0481 | next_story_id: DKS_0483
+previous title: Krishna Drives Arjuna to Yudhishthira's Side
+next title: Krishna Sinks the Chariot to Save Arjuna

@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0530",
+ "title": "The Hunter Jara Shoots Krishna's Foot",
+ "subtitle": null,
+ "story": "After the Yadavas were gone, a great silence lay over the shore, and Krishna walked into a forest near the sea and sat down alone. He had watched Balarama depart, and had seen the last of his people fall, and there was no one left to stay for. The forest was quiet around him, and the sea lay somewhere beyond the trees. At the foot of a pippala tree he seated himself, and there he sat in meditation, perfectly still, and let his own form change.\n\nIt was the form he did not often show: four-armed, bearing the Shrivatsa mark upon his chest, dark as a raincloud, bright with the splendour of molten gold. His face was a smiling lotus framed in dark curls. A waistband and a sacred thread, a diadem and bracelets and armlets adorned him, a garland of forest flowers lay about his body, and his own weapons, embodied, stood about him. He drew his right foot up upon his thigh and rested there, quiet, as if he had come to the end of a long road.\n\nNot far off, an iron arrowhead carried a long story. Long before, an iron club had come into being in the Yadava house, a doom made into metal and foretold to crush the whole race. It had been ground to dust and thrown into the sea, so that its power might be scattered, but the sea gave the dust back as rushes along the shore. And now the last fragment of that iron, fashioned into a blade, sat on the shaft of a hunter who had come into the forest in search of deer.\n\nHis name was Jara. From a distance he saw Krishna's foot, and he mistook it for the face of a deer. He loosed the arrow, and it lodged in the sole.\n\nHe ran forward quickly to claim his prey, and he saw what he had done. A four-armed Lord sat there, radiant, and the terror of it took hold of him. He fell at Krishna's feet and begged forgiveness: this was done unknowingly, he said, in sin; let the sin of this deer-hunting sinner be swiftly destroyed, for the remembrance of that name destroys the darkness of ignorance in men. What he had pierced, the hunter understood, was a form that even Brahma and Rudra and the lords of speech could not fully know, and what could a man of worthless refuge say of such a thing?\n\nAnd Krishna forgave him, and spoke to him gently, and raised him up. Then, quietly, the Lord relinquished his mortal body, and was gathered back into his own abode.\n\nSo it ended the way it had been written: not on a battlefield, but beneath a tree, by an arrow meant for a deer, loosed by a man who meant no harm and asked only to be forgiven.",
+ "reflection": "The arrow that ends Krishna's earthly form is forged from the last fragment of the iron that destroyed his people, so that one doom gathers up its own loose ends. A hunter who meant no harm becomes the instrument, and is forgiven, a strange and gentle close to a life spent in the middle of wars.",
+ "tradition_note": "The Mahabharata describes Krishna lying on the earth in high yoga, pierced at the heel; the Bhagavata Purana, followed here, has him seated at the foot of a pippala tree with his foot drawn up.",
+ "content_note": "Krishna's earthly form is pierced by an arrow and he departs; the death is described gently.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Krishna",
+  "the hunter Jara",
+  "Balarama"
+ ],
+ "locations": [
+  "a forest near Prabhasa"
+ ],
+ "themes": [
+  "fate",
+  "hunters_arrow",
+  "divine_play",
+  "forgiveness"
+ ],
+ "previous_story_id": "DKS_0523",
+ "next_story_id": "DKS_0537",
+ "next_story_tease": null,
+ "hero_scene": "The four-armed Krishna seated in meditation at the foot of a pippala tree, his right foot drawn up, while the hunter Jara, bow in hand, stands frozen in terror at the edge of the forest.",
+ "visual_elements": [
+  "Krishna, four-armed and radiant",
+  "the hunter Jara",
+  "bow and iron-tipped arrow",
+  "pippala tree",
+  "forest near the sea",
+  "quiet green light",
+  "terror turning to reverence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.30.26-39",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.37",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.4",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0371"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0271",
+ "title": "Arrows That Never Touched the Maiden",
+ "subtitle": null,
+ "story": "By the time the alarm reached the men of Dwaraka, the abductor was already gone from sight. A demon named Nikumbha had snatched Bhanumati, daughter of the Yadava chief Bhanu, from the garden attached to the women's quarters, and the city that had been absorbed in its own celebrations had simply been caught unawares.\n\nNikumbha had not chosen his moment idly. Years before, Krishna's son Pradyumna had carried off Prabhavati, the daughter of Nikumbha's brother Vajranabha, and had killed Vajranabha in the bargain. The demon had nursed that old wound, waited for his hour, and when the garden stood unguarded he had taken the maiden and fled, leaving weeping and confusion behind him.\n\nVasudeva and Ahuka, the city's elders, came running at the first cries and found no offender to punish; the demon had vanished into the open country. So they went to Krishna. The insult, he judged, was one for him to answer. Riding the great bird Garuda, with Arjuna at his side, Krishna set off at once; Pradyumna was ordered to follow in his own chariot, and Garuda, enemy of serpents, was asked to stretch his wings to the utmost.\n\nBefore Nikumbha could reach the city of Vajra, where he meant to carry his prize, the pursuit overtook him. Pradyumna, the foremost of the Yadava masters of illusion, divided himself into three forms and closed in from every side. The demon met them smiling, as though it were all a game. With the weeping maiden held fast in his left hand, he swung a heavy club with his right and fought all three at once.\n\nThat was the difficulty, and it was a precise one. Krishna, Pradyumna and Arjuna could have destroyed Nikumbha at any moment — he was an enemy, and they were three heroes to his one — but the maiden stood between them. Any ruthless stroke that killed the demon would kill her first. So the three of them did the harder thing: they fought carefully. They sighed aloud with compassion for the girl even as they pressed the attack. Arjuna, the foremost of archers, shot as a man shoots at a serpent coiled round a camel — striking the snake while leaving the beast untouched. Following the rules of their art, their training and their reasoning, the three never touched the maiden; again and again their cane-like arrows bit into the demon instead.\n\nThen Nikumbha vanished. He was a master of illusion too, and with his magical powers he disappeared with the maiden so completely that no one could tell where he had gone — or so he thought. The pursuers saw him resume the shape of a yellow vulture wheeling away across the sky, and they went after him. Arjuna's arrows found him, piercing his very vitals, and the wounded demon fled. Across the whole earth he ran — over all seven continents of the world, with Krishna and Arjuna driving behind him on Garuda — until at last he dropped down, exhausted, on the bank of the river Chela Ganga, high on the summit of Mount Gokarna.\n\nIt was a desperate refuge, but a cunning one. No god, no demon, no great ascetic could cross that mountain, for it was protected by the energy of Mahadeva himself; and Nikumbha hoped the three pursuers would break against it. Instead Pradyumna, quick-coursing and invincible in battle, found the weak point: in the instant the demon's guard faltered, he snatched Bhanumati clean away. Krishna and Arjuna at once assailed the demon with a storm of arrows, and Nikumbha fled again, down from the northern slope of the mountain to the southern range, with the two Krishnas on Garuda behind him all the way.\n\nAt last the demon reached Shatpura, the stronghold of his kinsmen, and slipped into a cave at its entrance. There the pursuit came to rest. Krishna and Arjuna spent the night at the mouth of the cave, and by Krishna's leave Pradyumna carried Bhanumati back to Dwaraka in triumph, settled her safely in the city, and returned to rejoin them. When morning came, the three heroes were still there — Krishna, Arjuna and Pradyumna, occupying the entrance of Shatpura, waiting for Nikumbha to come out and face the reckoning he had earned.",
+ "reflection": "The episode turns on a small, precise mercy: three of the greatest warriors of their age hold back their full power because a girl stands in the line of fire, and win by accuracy instead of force. The rescue of Bhanumati is accomplished not by destroying her captor but by out-thinking him at his own game of illusion.",
+ "tradition_note": null,
+ "content_note": "A pursuit and running battle with arrows and clubs; the violence is restrained and the maiden is never harmed.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Pradyumna",
+  "Nikumbha",
+  "Bhanumati",
+  "Bhanu"
+ ],
+ "locations": [
+  "Mount Gokarna",
+  "River Chela Ganga",
+  "Shatpura",
+  "Dwaraka"
+ ],
+ "themes": [
+  "pursuit",
+  "rescue",
+  "precision"
+ ],
+ "previous_story_id": "DKS_0270",
+ "next_story_id": "DKS_0272",
+ "next_story_tease": "Only later would the sage Narada reveal that the abduction had not been Nikumbha's doing alone.",
+ "hero_scene": "Over the summit of Mount Gokarna, Krishna and Arjuna on Garuda close in on Nikumbha, who grips the weeping Bhanumati in one arm and swings a club with the other, while Pradyumna darts in to snatch the maiden free.",
+ "visual_elements": [
+  "Krishna and Arjuna riding Garuda across the earth",
+  "Nikumbha fleeing with Bhanumati in his left arm, club in his right hand",
+  "cane-like arrows striking the demon but never the maiden",
+  "Nikumbha transformed into a yellow vulture",
+  "Mount Gokarna and the river Chela Ganga",
+  "Pradyumna recovering Bhanumati",
+  "the three heroes waiting at the cave mouth of Shatpura",
+  "pursuit and rescue"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.237",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:30Z",
+  "source_event_id": "evt_0316"
+ },
+ "editorial_status": "unreviewed"
+}

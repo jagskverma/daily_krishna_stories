@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0123",
+ "title": "Kaishika Offers His Kingdom",
+ "subtitle": null,
+ "story": "Krishna came to the land of Vidarbha as a guest, and by every ordinary measure he came with nothing. He had slain Kamsa, the tyrant of Mathura, yet he had not taken the throne for himself. He held no city, wore no crown, and so had no seat among the kings gathered at Kundina, Bhishmaka's city, for the swayamvara of the princess — the great choosing, at which a princess takes a husband from among the kings who come to seek her. The proud among them had already settled the matter in their own minds, echoing the taunt of the emperor Jarasandha, Krishna's enemy: Devaki's son has never been installed. He holds no city. How shall he sit in the same assembly as kings?\n\nBut there were two who saw it differently. Kratha and Kaishika, the brothers who ruled Vidarbha, watched the visitor and thought not of what he lacked but of what they owed him. If we can but see this man anointed king with our own eyes, Kaishika turned it over, our sins will be washed away; his presence will purify our understanding. And since there was no worthier person in all the worlds, what gift could ever be enough? The turning of that question brought them to the only answer worthy of such a guest: the whole of what they ruled.\n\nThe answer they settled on was everything. The two brothers went to Krishna and bowed their heads low. Blessed is our birth and our fame today, they said; blessed are our ancestors, since you have come to our house. Then they laid it all at his feet — umbrellas and flagstaffs, throne, army, and flourishing city. Indra himself once anointed you, they reminded him, and you carry the name Upendra from that day — one who stands beside the king of the gods. We now install you in our kingdom. What we two do, no host of kings will be able to undo — not even Jarasandha himself.\n\nThere was a reason for the urgency. King Bhishmaka, the father of the maiden, had seen the trouble brewing among the assembled kings and, after consulting the brothers, had readied a fine resting house for Krishna, so that no quarrel over seats could break the gathering apart. Perform the royal anointing today, the brothers urged, and tomorrow be seated at ease on an auspicious throne, installed before all the kings as their emperor, at the bidding of Indra.\n\nSo they sent an emissary to the assembly of kings, and there Kaishika rose to speak of what had just occurred. His eldest brother Kratha had conferred the kingdom upon Krishna. But the moment Kratha had said, Sit on this seat, a voice had spoken from the sky — a voice no one could see.\n\nThe voice was the envoy of Indra, and his words were plain. Do not offer him the seat on which you have sat, the voice said. For him alone the king of the gods has sent a white seat of gold, built by the celestial architect, crested with gems and marked with the emblem of a lion. Place him upon it among the other kings, and sprinkle him with water, as kings are anointed. Whoever among the kings gathered here for the maiden fails to come shall answer to the king of the gods. Eight jars of celestial gold and jewels, born of the treasure-houses of the god of wealth, will come among you to install this emperor.\n\nThen Kaishika told the kings what had followed. The emissary had set the seat before Krishna — bright as the rising sun — and had returned to the city of the gods. Now let every king here behold the one whom the king of the gods has himself recognized, he said: dreadful, irresistible, wonderful in form, a sight rare in the land of mortals. If we witness this ceremony, the anointing of the God of gods, surely our sins will be destroyed.\n\nThe offer had been made, and the heavens had already answered it.",
+ "reflection": "The brothers' gesture matters because of what it reverses. Jarasandha measures a man by his city and his crown, and finds Krishna lacking; Kratha and Kaishika, looking at the same man, can think only of what they might give him. Their kingdom is not a sacrifice but a recognition — and the answer from the sky confirms that they have seen truly.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Kaishika",
+  "Kratha",
+  "Chitrangada",
+  "Indra"
+ ],
+ "locations": [
+  "Vidarbha"
+ ],
+ "themes": [
+  "offering",
+  "divine mandate"
+ ],
+ "previous_story_id": "DKS_0122",
+ "next_story_id": "DKS_0124",
+ "next_story_tease": "But the white seat was only the beginning; a consecration unlike any on earth was about to fall from the sky itself.",
+ "hero_scene": "Kratha and Kaishika, the two kings of Vidarbha, bowing low before Krishna as they offer him their umbrellas, throne, army and city, while above them an unseen voice announces the white seat of gold sent by Indra.",
+ "visual_elements": [
+  "Krishna arriving as a guest with Garuda",
+  "Kratha and Kaishika bowing low",
+  "the white seat of gold marked with a lion emblem",
+  "the celestial emissary's voice from the sky",
+  "the assembled kings at Kundina",
+  "the resting house prepared by Bhishmaka",
+  "awe and offering"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.107",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:17Z",
+  "source_event_id": "evt_0181",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

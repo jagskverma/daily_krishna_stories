@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0428",
+ "title": "Parashurama Reveals Nara and Narayana",
+ "subtitle": "The legend of Dambhodbhava",
+ "story": "For a long moment no one in the great hall dared to answer Krishna's speech. The kings sat without moving, and the silence stretched out like a held breath. Then a voice rose out of it — old and calm. It was Parashurama, a warrior-sage of an age long past, and he spoke straight to Duryodhana, the prince whose answer would decide whether the peace held.\n\n\"Listen to my words,\" Parashurama said. \"They come with an example to point them, and if my speech commends itself to you, take your own good from it.\"\n\nAnd he told the assembly about a king of long ago named Dambhodbhava, whose rule stretched over the whole earth. Every morning, when the night had passed, the king called the priests and warriors of his court — the Brahmanas and Kshatriyas, as they were called — and put the same question to them: \"Among all men, priest or warrior, merchant or labourer, is there anyone who is my equal in battle, or my better?\" Then he would wander the earth, drunk on his own pride.\n\nThe wise priests, learned in the Vedas, the oldest sacred teachings, counselled him to set his pride aside, but the king went on asking the same question day after day. At last some of them, their anger roused, answered him plainly. \"There are two beings who stand above all men and are always victorious in battle,\" they said. \"You will never equal either of them, if you go looking for them.\"\n\nThe king asked where these heroes might be found, and into what family they were born. \"They are ascetics named Nara and Narayana,\" the priests replied — holy men who had given up comfort to live as hermits, testing themselves with fasting and hardship. \"Both were born into the line of men. Go and fight them, if you will. They are keeping the hardest of austerities even now, in a hidden corner of Mount Gandhamadana.\"\n\nThe king could not bear even the rumor of such rivals. He gathered his whole army, marched to the rugged and frightening slopes of Gandhamadana, and searched the forests until he found the two hermits — thin with hunger and thirst, worn by cold winds and burning sun. Dambhodbhava approached them, touched their feet in respect, and asked after their welfare. The two sages received him kindly, setting before him fruits and roots, a seat and water. and asked his business. \"Whatever you wish,\" they said, \"let it be done.\"\n\n\"The whole earth has been conquered by the strength of my arms,\" he declared. \"All my enemies are dead. I have come to this mountain because I wish to fight you both. Grant me this — I have carried the wish for a long time.\"\n\n\"Wrath and greed have no place in this hermitage,\" the sages replied. \"There are no weapons here, and nothing of malice or wrong. Seek your battle elsewhere — the earth is full of warriors.\"\n\nBut the king pressed them, and they soothed him and overlooked his rudeness. Still he repeated his summons. At last Nara picked up a handful of grass-blades. \"Since you want battle so badly, come, warrior, and fight!\" he said. \"Take up all your arms and array your troops. I will cure you of your eagerness for it.\"\n\nDambhodbhava answered that he had come to fight, and would fight even against such a weapon. With all his troops he covered every side of the mountain with a shower of arrows. And the hermit, with nothing but those blades of grass, turned aside every shaft they loosed. Then Nara loosed his own weapon, a blade of grass that could not be countered — and what followed silenced every boast that had ever rung through Dambhodbhava's court. The king who had measured himself against the whole world found his measure at last.\n\nParashurama paused, letting the assembly understand his tale before he spoke. \"Those who were Nara and Narayana in the ages past,\" he said at last, \"are now Arjuna and Krishna. Know, O king, who these two are. If you believe me and do not mistrust my words, take up a virtuous resolve and make peace with the sons of Pandu.\"\n\nThe kings of the earth looked at the two men sitting among them — the envoy who had come to plead for peace, and Arjuna beside him — and it seemed to them that they heard the oldest names in the world laid over the newest faces.",
+ "reflection": "The tale of Dambhodbhava is a lesson in misplaced pride delivered through the oldest of mirrors: the king who measured himself against every man on earth never once thought to ask what the gods' own companions might be. Parashurama leaves the assembly in no doubt about who sits before them — the question now is whether Duryodhana will believe it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Parashurama",
+  "Duryodhana",
+  "Dambhodbhava",
+  "Nara",
+  "Narayana"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly",
+  "Mount Gandhamadana"
+ ],
+ "themes": [
+  "divinity",
+  "counsel",
+  "peace"
+ ],
+ "previous_story_id": "DKS_0427",
+ "next_story_id": "DKS_0429",
+ "next_story_tease": "The appeal would be carried one step further, directly to Duryodhana himself.",
+ "hero_scene": "On the hidden slopes of Mount Gandhamadana, the emaciated ascetic Nara stands calmly holding up a handful of grass-blades while King Dambhodbhava's army looses a shower of arrows that the blades turn aside, the king's pride breaking at last before the weapon that cannot be counteracted.",
+ "visual_elements": [
+  "Nara holding a handful of grass-blades against a shower of arrows",
+  "King Dambhodbhava and his army on the slopes of Mount Gandhamadana",
+  "the emaciated ascetics Nara and Narayana in their forest retreat",
+  "Parashurama speaking in the Kuru assembly, the kings listening",
+  "Krishna and Arjuna seated among the assembled kings as the tale ends"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.096",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0435",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,38 @@
+# STORY DKS_0047 — Krishna Kills Aghasura and Revives His Friends
+
+## Index entry
+title: Krishna Kills Aghasura and Revives His Friends
+summary: Entering the demon's throat with his friends, Krishna expands and chokes Aghasura to death, then revives the swallowed boys and calves; the demon's soul merges into Krishna as a great light.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Aghasura, cowherd boys
+locations: Vrindavan
+themes: rescue, divine_power, liberation
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0059
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 12 | verses 25-35 | confidence 5
+  excerpt: Krishna enters the demon's mouth and grows until he blocks its throat; as the demon's life departs, Krishna raises up his companions and calves and walks out, while a great radiance from the demon's body enters Krishna. (rendered from Sanskrit, verse 25-35)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.12 (25-35)
+25. tāvat praviṣṭās tv asurodarāntaraṃ paraṃ na gīrṇāḥ śiśavaḥ sa-vatsāḥ /
+26. tān vīkṣya kṛṣṇaḥ sakalābhaya-prado $ hy ananya-nāthān sva-karād avacyutān &amp;dīnāṃś ca mṛtyor jaṭharāgni-ghāsān % ghṛṇārdito diṣṭa-kṛtena vismitaḥ
+27. kṛtyaṃ kim atrāsya khalasya jīvanaṃ $ na vā amīṣāṃ ca satāṃ vihiṃsanam &kṛtyaṃ kim atrāsya khalasya jīvanaṃ $ na vā amīṣāṃ ca satāṃ vihiṃsanam &dvayaṃ kathaṃ syād iti saṃvicintya % jñātvāviśat tuṇḍam aśeṣa-dṛg ghariḥ
+28. tadā ghana-cchadā devā bhayād dhā-heti cukruśuḥ /
+29. tac chrutvā bhagavān kṛṣṇas tv avyayaḥ sārbha-vatsakam /
+30. tato 'tikāyasya niruddha-mārgiṇo hy udgīrṇa-dṛṣṭer bhramatas tv itas tataḥ /
+31. tenaiva sarveṣu bahir gateṣu prāṇeṣu vatsān suhṛdaḥ paretān /
+32. pīnāhi-bhogotthitam adbhutaṃ mahaj jyotiḥ sva-dhāmnā jvalayad diśo daśa /
+33. tato 'tihṛṣṭāḥ sva-kṛto 'kṛtārhaṇaṃ $ puṣpaiḥ sugā apsarasaś ca nartanaiḥ &amp;gītaiḥ surā vādya-dharāś ca vādyakaiḥ % stavaiś ca viprā jaya-niḥsvanair gaṇāḥ
+34. tad-adbhuta-stotra-suvādya-gītikā- jayādi-naikotsava-maṅgala-svanān /
+35. rājann ājagaraṃ carma śuṣkaṃ vṛndāvane 'dbhutam /
+
+## Pilot chain
+previous_story_id: DKS_0035 | next_story_id: DKS_0049
+previous title: Krishna Uproots the Twin Arjuna Trees (Named Damodara)
+next title: Krishna Expands Into All the Calves and Boys

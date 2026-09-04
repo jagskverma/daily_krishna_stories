@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0195",
+ "title": "Two Weddings in One Memory",
+ "subtitle": "Uddhava recalls how Krishna carried off Rukmini and won Satya",
+ "story": "Years later, when Uddhava — who had served Krishna and loved him — remembered the great days of his Lord, two weddings came back to him in a single memory, the way a man recalls two victories of a long-ago war in one breath.\n\nThe first began with a summons. Bhishmaka's daughter had sent for Krishna, and he had answered. She was the princess Rukmini, the one the kings of the earth had gathered in Kundina to compete for; but she had already chosen, and her choice was known only to her and to the man she had called. So when Krishna came to Kundina, he came as a bridegroom answering a bride, not as a suitor entering a contest.\n\nThe kings who had ridden to the swayamvara saw none of that. They saw only what they had come to see: the ceremony, the crowd, the chance to win a princess. And while they looked — while the suitors watched and waited, sure that the day would end with one of them crowned — Krishna carried off his bride.\n\nIt was a gandharva marriage, the old rite by which a man and a woman take each other with no priest, no fire, no assembly: a marriage of consent alone, the simplest and oldest binding there is. In the sight of all the assembled kings, who could only look on, he took Rukmini and made her his own by that rite, and the swayamvara that had drawn half the thrones of the earth ended without a single garland being placed. The kings had come to compete; Krishna came, and took, and the competition was over before it began. It was his share — the bride the gods had destined for him — and he claimed it openly, with the whole gathering of suitors as his witness.\n\nBut Uddhava's memory did not stop there, because Krishna's life did not stop there. The same recollection that held Rukmini held another bride as well: Nagnajiti, the princess called Satya, whose swayamvara was held in her own kingdom, in a hall ringed by the proudest kings of the age. There was no summons for Satya's hand, no secret message carried to Dwaraka. She was offered as a prize to the strongest, and the kings who came for her were arrogant and sure, each of them certain the garland would be his.\n\nKrishna came to that swayamvara too, and he did not need to be summoned. When the proud kings pressed forward, he met them and humbled them — defeated them, one after another, until the pride of that assembly lay broken at his feet. The kings who had come to win a princess left having lost something of themselves, and Satya, Nagnajiti, went with Krishna as his bride.\n\nTwo weddings, remembered together: one a secret answered openly, one a contest won by strength. In the first, a princess chose him in the dark and he came for her with a chariot while the suitors stared; in the second, he walked into the hall of the proud and took what was his by defeating them in front of their own eyes. The rites were different — one the whispered consent of a gandharva marriage, the other a victory before a crowd — but the shape was the same: Krishna married the women the gods had joined to him, and the kings of the earth, for all their armies and their pride, could not stop him. They could only watch.\n\nThat is how Uddhava remembered it, years afterward in the palace at Dwaraka, with the two brides of his Lord ruling that great house beside him: the carried-off princess and the won princess, Rukmini and Satya, two weddings folded into one shining memory of a man who could not be opposed.",
+ "reflection": "Uddhava's recollection deliberately pairs the two marriages, and the pairing says something about Krishna: Rukmini is taken by the quiet rite of consent while the suitors watch, Satya is won by openly humbling the proud. One is a whisper, the other a conquest — yet in both, the initiative is entirely his, and the assembled kings are reduced to spectators.",
+ "tradition_note": "This account comes from Uddhava's recollection in the Bhagavata Purana, which condenses Rukmini's carrying off and Satya's swayamvara into a single memory; the Harivamsha tells each of the two marriages at length.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Rukmini",
+  "Satya (Nagnajiti)",
+  "Uddhava"
+ ],
+ "locations": [
+  "Kundina",
+  "the swayamvara hall"
+ ],
+ "themes": [
+  "elopement",
+  "marriage",
+  "valour"
+ ],
+ "previous_story_id": "DKS_0194",
+ "next_story_id": "DKS_0196",
+ "next_story_tease": "But the story of that summons goes back further — to the day in Kundina when Rukmini first made her choice and entrusted it to a brahmana messenger bound for Dwaraka.",
+ "hero_scene": "Uddhava, in the palace at Dwaraka, remembering: Krishna lifting Rukmini onto his chariot before the staring assembly of suitors at Kundina, and in the same memory standing victorious in the swayamvara hall of Nagnajiti with the humbled kings around him.",
+ "visual_elements": [
+  "Uddhava remembering",
+  "Krishna's chariot with Rukmini",
+  "the staring suitors at Kundina",
+  "the swayamvara hall of Nagnajiti",
+  "humbled kings",
+  "the palace at Dwaraka"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.3.2-3",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:11Z",
+  "source_event_id": "evt_0282"
+ },
+ "editorial_status": "unreviewed"
+}

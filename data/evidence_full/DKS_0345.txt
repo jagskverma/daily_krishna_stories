@@ -1,0 +1,41 @@
+# STORY DKS_0345 — Krishna Stupefies Shiva and Puts Skanda to Flight
+
+## Index entry
+title: Krishna Stupefies Shiva and Puts Skanda to Flight
+summary: Krishna throws the Jrimbhana astra, stupefying Shiva, and Pradyumna routs Skanda, while Bana's mother shields her son.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Shiva, Pradyumna, Skanda, Kotara
+locations: Shonitapura
+themes: divine power, battle, mother's love
+festival_tags: 
+age_sensitivity: mild_violence | notes: The Jvara/Fever episode is expanded in Harivamsha (hv_b2_063-066). | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0225
+variant_notes: BP: Jrimbhana astra; VP: weapon of yawning. VP bundles the three-headed Fever's defeat here.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 63 | verses 13-20 | confidence 5
+  excerpt: Krishna, stupefying Shiva with the Jrimbhana weapon, slew Bana's army, while Pradyumna's arrows drove the bloodied Skanda from the field; Bana's mother Kotara stood naked before Krishna to save her son's life. (rendered from Sanskrit, verses 13-20)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 33 | verses  | confidence 4
+  excerpt: Govinda, with the weapon of yawning, set Śankara a-gape... Hara, overcome with incessant gaping, sat down in his car, and was unable longer to contend with Krishńa... Kártikeya, wounded... took to flight.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.63 (13-20)
+13. mohayitvā tu giriśaṃ jṛmbhaṇāstreṇa jṛmbhitam /
+14. skandaḥ pradyumna-bāṇaughair ardyamānaḥ samantataḥ /
+15. kumbhāṇḍa-kūpakarṇaś ca petatur muṣalārditau /
+16. viśīryamāṇam sva-balaṃ dṛṣṭvā bāṇo 'ty-amarṣitaḥ /
+17. dhanūṃṣy ākṛṣya yugapad bāṇaḥ pañca-śatāni vai /
+18. tāni ciccheda bhagavān dhanūṃsi yugapad dhariḥ /
+19. tan-mātā koṭarā nāma nagnā makta-śiroruhā /
+20. tatas tiryaṅ-mukho nagnām anirīkṣan gadāgrajaḥ /
+
+### Vishnu Purana (Wilson 1840) 5.33 ()
+Báńa solicits Śiva for war: finds Aniruddha in the palace, and makes him prisoner. Krishńa, Balaráma, and Pradyumna come to his rescue Śiva and Skanda aid Báńa: the former is disabled; the latter put to flight. Báńa encounters Krishńa, who cuts off all his arms, and is about to put him to death. Śiva intercedes, and Krishńa a spares his life. Vishńu and Śiva are the same.BEFORE this took place, Báńa had been engaged in the adoration of the three-eyed god, and had thus prayed to him: "I am humiliated, O lord, by the possession of a thousand arms in a state of peace; let some hostilities ensue, in which I may derive some advantage from their possession. Without war, what is the use of these arms? they are but a burden to me." Śankara replied, "When thy peacock banner shall be broken, thou shalt have war, the delight of the evil spirits that feast on the flesh of man." Báńa, pleased by this promise, proffered his thanks to Śambhu, and returned to his palace, where he found his standard broken; at which his joy was increased.At that time the nymph Chitralekhá returned from Dwáraká, and by the exercise of her magic power brought Aniruddha along with her. The guards of the inner apartments discovering him there with Ushá, reported it to the king who immediately sent a body of his followers to seize the prince; but the valiant youth, taking up an iron club, slew his assailants: on which Báńa mounted his car, advanced against him, and endeavoured to put him to death. Finding, however, that Aniruddha was not to be subdued by prowess, he followed the counsel of his minister, and brought his magical faculties into the conflict, by which he succeeded in capturing the Yadu prince, and binding him in serpent bonds.When Aniruddha was missed from Dwáravatí, and the Yádavas were inquiring of one another whither he had gone, Nárada came to them, and told them that he was the prisoner of Báńa, having been conveyed by a female, possessed of magic faculties, to Śońitapura When they heard this, they were satisfied; for they had imagined he had been taken away by the gods (in reprisal for the Párijáta tree). Krishńa therefore immediately summoned Garud́a, who came with a wish; and mounting upon him, along with Bala and Pradyumna, he set off for the city of Báńa. On their approach to the city they were opposed by the spirits who attend on Rudra, but these were soon destroyed by Hari, and he and his companions reached the vicinity of the town. Here mighty Fever, an emanation from Maheśwara, having three feet and three heads, fought desperately with Vishńu in defence of Báńa. Baladeva, upon whom his ashes were scattered, was seized with burning heat, and his eyelids trembled: but he obtained relief by clinging to the body of Krishńa. Contending thus with the divine holder of the bow, the Fever emanating from Śiva was quickly expelled from the person of Krishńa by Fever which he himself engendered. Brahmá beholding the impersonated malady bewildered by the beating inflicted by the arms of the deity, entreated the latter to desist; and the foe of Madhu refrained, and absorbed into himself the fever he had created. The rival Fever then departed, saying to Krishńa, "Those men who call to memory the combat between us shall be ever exempt from febrile disease."Next Vishńu overcame and demolished the five fires, and with perfect ease annihilated the army of the Dánavas. Then the son of Bali (Báńa), with the whole of the Daitya host, assisted by Śankara and Kártikeya, fought with Śauri. A fierce combat took place between Hari and Śankara; all the regions shook, scorched by their flaming weapons, and the celestials felt assured that the end of the universe was at hand. Govinda, with the weapon of yawning, set Śankara a-gape; and then the demons and the demigods attendant upon Śiva were destroyed on every side; for Hara, overcome with incessant gaping, sat down in his car, and was unable longer to contend with Krishńa, whom no acts affect. The deity of war, Kártikeya, wounded in the arm by Garud́a, struck by the weapons of Pradyumna, and disarmed by the shout of Hari, took to flight. Báńa, when he saw Śankara disabled, the Daityas destroyed, Guha fled, and Śiva's followers slain, advanced on his vast car, the horses of which were harnessed by Nandíśa, to encounter Krishńa and his associates Bala and Pradyumna. The valiant Balabhadra, attacking the host of Báńa, wounded them in many ways with his arrows, and put them to a shameful rout; and their sovereign beheld them dragged about by Ráma with his ploughshare, or beaten by him with his club, or pierced by Krishńa with his arrows: he therefore attacked Krishńa, and a fight took place between them: they cast at each other fiery shafts, that pierced through their armour; but Krishńa intercepted with his arrows those of Báńa, and cut them to pieces. Báńa nevertheless wounded Keśava, and the wielder of the discus wounded Báńa; and both desirous of victory, and seeking enraged the death of his anta
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0344 | next_story_id: DKS_0346
+previous title: Krishna and Shiva Duel with Divine Weapons
+next title: Krishna Severs Bana's Thousand Arms and Spares Him

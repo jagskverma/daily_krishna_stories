@@ -1,0 +1,38 @@
+# STORY DKS_0288 — Krishna Embraces His Old Friend || Krishna rises from his couch, embraces Sudama with tears of joy, washes his feet, and anoints him, while Rukmini fans him, astonishing the palace women.
+
+## Index entry
+title: Krishna Embraces His Old Friend || Krishna rises from his couch, embraces Sudama with tears of joy, washes his feet, and anoints him, while Rukmini fans him, astonishing the palace women.
+summary: Krishna rises from his couch, embraces Sudama with tears of joy, washes his feet, and anoints him, while Rukmini fans him, astonishing the palace women.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Sudama, Rukmini
+locations: Dwaraka, Krishna's palace
+themes: friendship, humility, love
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0276
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 80 | verses 16-26 | confidence 5
+  excerpt: Seeing Sudama from afar, Krishna rises from Rukmini's couch, runs to him, and embraces his old friend with tears of joy, then seats him on his own couch, washes his feet and bears the water on his head. The goddess Rukmini herself fans the emaciated brahmana, and the women of the palace marvel at the honor shown to a poor mendicant. (rendered from Sanskrit, verse 16-26)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.80 (16-26)
+16. gṛhaṃ dvy-aṣṭa-sahasrāṇāṃ mahiṣīṇāṃ harer dvijaḥ /
+17. taṃ vilokyācyuto dūrāt priyā-paryaṅkam āsthitaḥ /
+18. sakhyuḥ priyasya viprarṣer aṅga-saṅgāti-nirvṛtaḥ /
+19. athopaveśya paryaṅke svayam sakhyuḥ samarhaṇam /
+20. agrahīc chirasā rājan bhagavāṃl loka-pāvanaḥ /
+21. dhūpaiḥ surabhibhir mitraṃ pradīpāvalibhir mudā /
+22. ku-cailaṃ malinaṃ kṣāmaṃ dvijaṃ dhamani-santatam /
+23. antaḥ-pura-jano dṛṣṭvā kṛṣṇenāmala-kīrtinā /
+24. kim anena kṛtaṃ puṇyam avadhūtena bhikṣuṇā /
+25. yo 'sau tri-loka-guruṇā śrī-nivāsena sambhṛtaḥ /
+26. kathayāṃ cakratur gāthāḥ pūrvā guru-kule satoḥ /
+
+## Corpus chain
+previous_story_id: DKS_0287 | next_story_id: DKS_0289
+previous title: Sudama's Poverty and Journey || Sudama's wife urges the destitute brahmana to seek his boyhood friend Krishna, and he sets out for Dwaraka with a humble gift of flat rice.
+next title: Krishna Eats Sudama's Flat Rice || Krishna asks for the gift and eats Sudama's handful of flat rice with delight, and Sudama, too ashamed to ask for anything, returns home empty-handed.

@@ -1,0 +1,66 @@
+{
+ "id": "DKS_0131",
+ "title": "The King's Washerman",
+ "subtitle": null,
+ "story": "Krishna and his elder brother Balarama walked the streets of Mathura at dusk, moving through the crowd the way two young elephants move when they are loosed from their posts — curious, unhurried, and not easy to stand against. They had come that day from the cowherd settlements of Vrindavan to see the city where King Kamsa held his festival. Akrura, the courtier who had driven them there in his chariot, had gone on ahead to the palace, leaving the brothers to wander the streets on their own. They took the city in slowly: the houses leaning close over the lanes, the smell of dye and cooking and dust, the press of strangers, the sheer number of lives going on at once. None of it was theirs, and yet they walked it as if they had every right to be there. Beside them, the crowd moved aside without quite knowing why.\n\nThey were in no hurry. They had heard of Mathura all their lives — its gates, its wealth, its cruel and watchful king — and now they meant to see it for themselves, street by street, like boys let loose in a fair that belonged to someone else.\n\nOn the road they met a washerman coming toward them, stooped under his bundles of dyed cloth. This was no ordinary man with ordinary washing: he was the king’s washerman, and the cloth he carried was the king’s own — garments dyed in the colors Kamsa favored, gathered from many countries and made bright for the royal household. The dye still seemed to sit freshly on the cloth, red and yellow and deep blue. Krishna stopped him and, without any sharpness in his voice, asked for clothes that would suit the two of them.\n\nThe washerman looked them over — their rough dress, their forest manner — and laughed at the request. These clothes belonged to the king, he said; who were they to ask for them? They were boys of the forest, born among the deer and grown up with them, with no notion of what a city or a king might be. Why should such as they desire the robes of a king? And if they valued their lives at all, he added, they would drop the request and be on their way before their words cost them more than they could pay.\n\nThe scornful words were still on his lips when Krishna, his anger rising, struck him a single blow of his open hand across the head. The man fell, and lay still upon the earth, and the road fell silent around him, the laughter gone out of the evening as suddenly as it had come.\n\nHis attendants, seeing it, dropped their bundles of dyed cloth where they stood and ran, scattering the bright cloth into the dust. Krishna and Balarama stepped forward into the heap of the king’s finest garments and chose for themselves the clothes that pleased them, and the rest they gave away to the cowherds who had travelled with them from Vrindavan. Then the two brothers walked on, deeper into the city, leaving the scattered cloth and the fallen man behind them on the road.\n\nThey did not look back. Ahead of them the streets of Mathura went on, bright with lamps and full of people, and the evening had only just begun.",
+ "reflection": "The washerman is undone less by his refusal than by his contempt: he reads the two strangers by their rough clothes and their forest birth and mistakes both for worthlessness. The episode does not linger over the killing; it moves at once to the bright heap of garments and the brothers walking on, as if what mattered most was not the man's death but what his pride had refused to see.",
+ "tradition_note": "The Harivamsha and Vishnu Purana identify the washerman as Kamsa's own servant, made insolent by royal favor; the Bhagavata, followed here, has him simply refuse and abuse the two strangers.",
+ "content_note": "Krishna kills the washerman with a single blow to the head.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "washerman"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "pride",
+  "punishment"
+ ],
+ "previous_story_id": "DKS_0130",
+ "next_story_id": "DKS_0132",
+ "next_story_tease": "But the two brothers were not done with Mathura's streets, and the next meeting would go very differently.",
+ "hero_scene": "Krishna striking the insolent washerman down with a blow of his open hand on a Mathura street at dusk, bundles of the king's dyed cloth scattered on the ground as the man's attendants flee.",
+ "visual_elements": [
+  "Krishna and Balarama walking a city street at dusk",
+  "bundles of brightly dyed cloth",
+  "the washerman refusing with contempt",
+  "attendants scattering and fleeing",
+  "Krishna's raised hand",
+  "a mood of sudden consequence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.41.31-38",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.82",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.19",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:20Z",
+  "source_event_id": "evt_0133",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

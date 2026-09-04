@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0047",
+ "title": "Krishna Kills Aghasura and Revives His Friends",
+ "subtitle": null,
+ "story": "Aghasura was a demon, and he had come to the forest in the shape of an immense python. The forest had gone quiet around him, as though the birds had understood before anyone else what lay stretched along the ground. The cowherd boys of Vrindavan, out with their calves as on any other day, had gone into his open mouth, and now they lay inside him — alive but trapped, not yet swallowed. How they were drawn in, the old verses do not say; only that they went in, and did not come out.\n\nKrishna saw it, and the sight pierced him with pity. These were his friends, his own companions, and they lay in the belly of a demon, helpless, with no one in the world to turn to but him. He was amazed, too, at what fate had done. What use was the life of this wretch, he asked himself — and how could the harm done to these innocents be undone? Could both be answered at once, the death of the evil one and the saving of the good? He saw that they could, in a single stroke, and he did not hesitate. He walked into the demon's mouth.\n\nThe gods, watching from behind the clouds, cried out in fear. They had seen what a demon could do to a child, and they did not yet know that they were watching a god undo it.\n\nInside, Krishna grew. He grew until the demon's throat was blocked, until the great serpent could neither swallow nor breathe. He grew past its teeth and its throat, and the darkness inside it gave way before him. Its eyes bulged, and it writhed this way and that, and its vast body thrashed against the earth as the air was cut off from it. It had meant to hold the whole herd in its belly, and instead it found that it could not even draw a breath. And when its last breath left it, Krishna raised up the boys and their calves, who had lain lifeless inside, and led them out into the open air — alive again.\n\nAs the demon died, a great light rose from its body and stood blazing, like a second moon or the sun come up at night, and the light entered Krishna.\n\nThen the sky broke into sound. The gods rained flowers down. The gandharvas, heaven's singers, sang; the apsaras, heaven's dancers, danced; and the brahmins raised their hymns, and all of heaven celebrated the boys' return. And where the demon had fallen, only its dried skin remained, stretched across the ground of Vrindavan, a wonder that would not soon be forgotten. The boys looked at it for a long time before they gathered their calves and started for home.",
+ "reflection": "The story's emphasis falls not on the killing but on the great light that leaves the demon and enters Krishna, and on the boys walking out alive. Even for an enemy, the account holds out release rather than destruction.",
+ "tradition_note": null,
+ "content_note": "A demon in python form swallows the cowherd boys and calves; he is overcome without graphic detail.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Aghasura",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "rescue",
+  "divine_power",
+  "liberation"
+ ],
+ "previous_story_id": "DKS_0035",
+ "next_story_id": "DKS_0049",
+ "next_story_tease": null,
+ "hero_scene": "Krishna walking out of the open mouth of a vast python lying dead across the forest floor, leading the cowherd boys and their calves out behind him, as a great light rises into the sky.",
+ "visual_elements": [
+  "Krishna",
+  "cowherd boys",
+  "calves",
+  "Aghasura as python",
+  "Vrindavan forest",
+  "rising light",
+  "boys led out to safety",
+  "eerie, then triumphant"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.12.25-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0058",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

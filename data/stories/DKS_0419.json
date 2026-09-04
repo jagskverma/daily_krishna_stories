@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0419",
+ "title": "Vidura Exposes the Plan to Bribe Krishna",
+ "subtitle": null,
+ "story": "Dhritarashtra had begun to list the treasures he would heap upon Krishna — gold, jewels, gifts beyond measure, everything a king could give a guest. The blind king planned to win over the visitor the whole court called the lord of the three worlds, and most of the assembly took this for wisdom. Vidura heard it and could hold his peace no longer.\n\nVidura was the blind king's brother, and the one man in that hall who told him the truth. \"Great king,\" he said, \"the three worlds respect you, and everyone who knows you holds you dear. Your years are many, and your mind is calm, so that what you say can never be against the scriptures or against right reason. Your subjects are certain that virtue lives in you as surely as letters live cut in stone, as light lives in the sun, as waves live in the ocean. Every person you honour is made happy by it. So hold fast to those virtues, with your friends and kinsmen beside you. Choose sincerity. Do not, out of folly, bring destruction on your sons, your grandsons, your friends, your kinsmen — on all that you hold dear.\"\n\nThen he came to the point. \"It is much that you wish to give Krishna as your guest. Know that he deserves all this and far more — the whole earth itself. But I swear by my own soul that you do not wish to give it either from virtue or for the sake of pleasing him. All this betrays only deception, falsehood, and insincerity.\"\n\nThe words fell on the hall like a stone into still water. Vidura went on, unsparing. \"By your outward acts, O king, I know your secret purpose. The five Pandavas ask only for five villages. You will not give them even that — and so you are not truly willing for peace. You hope to win the hero of Vrishni's race to your side with wealth, and in this way to separate Krishna from the Pandavas. But neither wealth, nor attention, nor worship can do that. I know Krishna's greatness, and I know the firmness of Arjuna's devotion. Arjuna is Krishna's very life, and Krishna will never give him up.\"\n\nAnd then he told the king what Krishna would actually accept. \"Only a vessel of water, only the washing of his feet, only the usual enquiries after the welfare of those he will meet — nothing more. Give him the one thing he comes seeking: peace between you and Duryodhana on one side and the Pandavas on the other. Follow his counsel, O king. You are their father; the Pandavas are your sons, young in years beside you. Behave as a father to them, and they will honour you as sons.\"\n\nIn a single speech Vidura had named the plan and the heart beneath it: the gifts were not generosity but a bid to prise Krishna loose from the Pandavas; the peace Krishna had crossed half the country to offer was real; and the guest himself could not be bought at any price. The question that hung in the air of the Kuru hall was whether anyone there was willing to hear it.",
+ "reflection": "Vidura's service is to name what everyone else politely ignored: the king's gifts are not generosity but an attempt to separate Krishna from the Pandavas. His certainty rests on character, not suspicion — he knows Krishna's magnanimity and Arjuna's devotion, so he knows no price exists that could come between them.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Dhritarashtra"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "discernment",
+  "loyalty",
+  "deception"
+ ],
+ "previous_story_id": "DKS_0418",
+ "next_story_id": "DKS_0420",
+ "next_story_tease": "But Duryodhana had already formed a resolution of his own — to imprison the ambassador who was coming to make peace.",
+ "hero_scene": "Vidura stands before the seated Dhritarashtra in the Kuru hall, one hand raised as he names the king's secret purpose, while the counsellors fall silent around them.",
+ "visual_elements": [
+  "Vidura addressing Dhritarashtra in the Kuru hall",
+  "Dhritarashtra seated on the throne, listening",
+  "the counsellors falling silent around them",
+  "the royal hall of Hastinapura",
+  "Krishna's anticipated arrival as ambassador",
+  "solemn, unmasking mood"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.87",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0426",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

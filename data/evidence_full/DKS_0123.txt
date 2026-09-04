@@ -1,0 +1,110 @@
+# STORY DKS_0123 — Kaishika Offers His Kingdom
+
+## Index entry
+title: Kaishika Offers His Kingdom
+summary: The Vidarbha kings Kratha and Kaishika offer Krishna their kingdom and arrange his consecration, while a celestial voice announces that Indra has sent a golden seat.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Kaishika, Kratha, Chitrangada, Indra
+locations: Vidarbha
+themes: royal-unction, offering, divine-mandate
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0181
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 107 | verses  | confidence 4
+  excerpt: the two heroic and noble kings of Vidarbha, said: 'Blessed is our birth and fame to-day ... We now install thee in our kingdom.' ... 'For him the king of gods has sent this white seat of gold ... Do thou along with other kings place him on this seat and sprinkle him.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.107 ()
+TITLE: KAISHIKA WORSHIPS KRISHNA
+
+Janamejaya said:—O lord, having slain the highly powerful Kansa
+irrepressible unto the gods Krishna did not sit on the throne. Then he
+waited for the maiden and was not welcomed there. Why did he show
+forgiveness although thus insulted (1-2). Vinatā’s son was highly
+powerful. Why did he too show forgiveness? O Brahman, I am greatly
+stricken with curiosity to listen to all this. Do thou describe it at
+length (3).
+
+Vaishampāyana said:—When with Vinatā’s son the eternal Vāsudeva arrived
+at the city of Vidarbha Kaishika thought thus about him in his
+mind:—(4). "Forsooth shall our sins be destroyed if we behold the
+wonderful Abhisheka of Krishna (5). And from Krishna who has seen the
+true essence of things our mind will also be purified. Besides there is
+no other worthier person in the three worlds than the lotus-eyed
+Janārddana, Krishna, the king of gods. O kings, what hospitality can we
+offer to him obtaining such a person? However virtue will not be
+spoiled?" Thus thinking the two brothers Kratha and Kaishika desired to
+go to Keshava in order to confer upon him their kingdom. Approaching
+that god and bending low their heads unto him, the two heroic and noble
+kings of Vidarbha, said: "Blessed is our birth and fame to-day; blessed
+are our ancestral manes since thou hast come to our house. (6-10). We
+ourselves, our umbrellas, flag-staffs, throne, army and our flourishing
+city belong to thee (11). O thou of large arms, formerly thou wert
+annointed by Indra as Upendra. We now install thee in in our kingdom
+(12). The innumerable kings and even the Emperor Jarāsandha will not be
+able to undo what both of us will do (13). The highly effulgent king
+Jarāsandha, who offers shelter to other kings, is thy enemy. And he
+always mentions in a conversation ’Devaki’s son has not been installed
+on a throne and he has no city. How will he sit in the same assembly
+with the kings (14–15)? The highly effulgent and powerful Krishna too is
+very proud. He will therefore never come to this Swayamvara for the
+maiden (16). When all the kings will sit on their respective seats, how
+will that highly effulgent one sit on a lower seat (17)?’ Hearing this
+discussion amongst the kings and in order to put a stop to the
+dissension the king Bhishmaka, after consulting with us, has got ready
+this most excellent resting house for the thee. O thou of great
+effulgence, thou art the prime deity amongst the gods and art the lord
+of all the worlds. Do thou behave now as the Emperor in this land of
+mortals. O lord, may not difficulties about seats arise in the assembly
+of kings (18–20). Having performed today the ceremony of royal unction
+according to rites laid down in scriptures, do thou, next morning,
+seated at ease on an auspicious throne, in the city of Vidarbha, be
+installed as the Emperor of the kings assembled at the behest of Indra
+(21–22)."
+
+Having said this to that foremost of celestials and bowing unto him with
+folded-hands those two heroes sent an emissary to the kings (23). As
+Vāsava, the holder of thunderbolt, announced through the celestial
+emissary so Kaishika announced this intelligence to the assembled kings
+(24).
+
+Kaishika said:—O ye kings, you all know that the eternal Hari has
+arrived at the city of Vidarbha, along with Vinata’s son, as our guest
+(25). Beholding the worthiest person, to whom a gift could be made,
+present my eldest brother Kratha, with a view to acquire piety, has
+conferred upon Vasudeva his kingdom (26). When my brother said "Sit on
+this seat" an invisible speech was uttered by a sky-ranger (27).
+
+The celestial emissary said:—"O king, thou shouldst not offer to
+Vāsudeva the seat on which thou didst sit. For him the king of gods has
+sent this white seat of gold, constructed by the celestial Architect,
+crested with all sorts of jems and marked with an emblem of a lion
+(28–29). Do thou along with other kings place him on this seat and
+sprinkle him (30). He, who amongst the kings assembled in this city of
+Kundina for the maiden will not come, will be slain by the king of gods
+(31). The eight jars, born of the portions of Nidhis made of celestial
+gold and jewels and containing celestial ornaments belonging to the
+high-souled lord of riches, will come amongst those kings for installing
+this Emperor (32–33). O king, this order of the lord of gods is
+communicated to thee. Do thou invite all the kings with a letter and
+perform the royal unction of Keshava (34)."
+
+Kaishika continued:—"O kings, saying this from the welkin and giving to
+Krishna, the seat, effulgent like the rising sun the celestial emissary
+returns to the city of gods (35). I therefore speak to the assembled
+kings, that they should all behold Janārddana of a wonderful form rare
+in the land of mortals whom the king of gods has recognised as dreadful
+and greatly irrepressible and whom he will sprinkle from the welkin with
+jars (36–37). If we behold the wonderful ceremony, the bathing of
+Vishnu, the God of gods, surely our sins wi
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0122 | next_story_id: DKS_0124
+previous title: Krishna Returns to Mathura
+next title: Krishna's Royal Consecration

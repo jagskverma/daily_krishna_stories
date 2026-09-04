@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0040",
+ "title": "Uddhava Remembers Krishna's Cowherd Childhood",
+ "subtitle": null,
+ "story": "Years later, when Uddhava — Krishna's close friend and adviser — looked back on his friend's childhood, what he remembered first was not a god but a boy.\n\nHe remembered the calves. There had been a time, he said, when Krishna went out among them day after day, the young ones crowding close as he herded them, and sported in the groves along the Yamuna. The river lay green and quiet behind them, and the child moved at the heart of the herd while the calves pressed around him, as if they knew him and had no wish to be anywhere else. To the people of Vraja he showed his childhood play, and they found it lovely to watch — the way one watches something that will not come again.\n\nHe remembered, too, the way Krishna had been in those days: a child who wept and laughed in the same hour, whose glance, when he looked up, had the bright boldness of a lion cub. It was not one mood but all of childhood at once, tears and laughter turning into each other as they only do in the very young. The cowherds never tired of watching him, because in him their own children's days seemed lit from within.\n\nAnd he remembered the flute. When Krishna played, the cowherds forgot their work and stood listening. The music gathered people round him the way the calves gathered at his feet, and no one wanted the tune to end; it seemed to hold them all in one place, under the trees, until the last note let them go.\n\nBut the memory that stayed with Uddhava longest was the strangest one. Kamsa — the cruel king of Mathura, Krishna's own uncle — had never stopped sending his agents against the boy. They came as shape-shifters, demons who could take any form they chose, and they came into the groves of Vrindavan meaning to destroy him. Krishna dispelled them, Uddhava remembered, in sport — as easily as a child knocks aside his toys. There was no battle in it, and no fear. The same boy who herded calves and played the flute simply brushed aside whatever darkness came looking for him, and then went back to his play, as if nothing had come at all.\n\nThat was what Uddhava could never put out of his mind: that the tenderness and the power had been one thing. The child who wept and laughed among the calves was the same one before whom the demons melted away. It was the oldest memory he had of Krishna, and it never dimmed; whenever he spoke of him in the years that followed, it was this boy he spoke of first — the child in the grove, with the calves and the flute, before the world knew him as anything else.",
+ "reflection": "Uddhava's memory holds the childhood and the godhood in a single breath: the same boy herding calves, weeping and laughing, and dispelling demons 'in sport, like toys.' The recollection finds the divine not in the miracles alone but in the tenderness of the ordinary day.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "Kamsa's demons"
+ ],
+ "locations": [
+  "Vrindavan",
+  "Yamuna groves"
+ ],
+ "themes": [
+  "childhood_play",
+  "the_flute",
+  "demon_slaying"
+ ],
+ "previous_story_id": "DKS_0039",
+ "next_story_id": "DKS_0041",
+ "next_story_tease": "And among those remembered days was one that began more quietly than the rest, with a child left alone in a courtyard and two trees standing in the yard.",
+ "hero_scene": "The boy Krishna surrounded by calves in a riverside grove on the Yamuna, flute lifted, cowherds gathered listening, while a shadowy shape-shifting demon recedes at the grove's edge.",
+ "visual_elements": [
+  "Krishna as a child",
+  "calves",
+  "the Yamuna groves",
+  "the flute",
+  "gathered cowherds",
+  "a shape-shifting demon dissolving",
+  "Uddhava remembering",
+  "tender, luminous"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.26-29",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:54:24Z",
+  "source_event_id": "evt_0193",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0130",
+ "title": "Krishna and Balarama Enter Mathura",
+ "subtitle": null,
+ "story": "Mathura had never looked the way it looked that afternoon, or so it seemed to the two boys who came walking up its road.\n\nIn the afternoon Krishna and Balarama reached the city. It rose before them dressed for a festival. The gateway was of crystal, tall and shining, fitted with doors of gold and golden arches; beyond it lay crossroads of gold, high mansions and terraced gardens, rows of houses and open assembly halls. In the lattice windows doves and peacocks called out to one another. Water pots stood full along the streets, and the ground had been sprinkled with curd and sandalwood; garlands of flowers and strings of lamps hung everywhere among fresh green leaves.\n\nThe two sons of Vasudeva entered by the king's road, surrounded by their cowherd companions, and the news of their coming ran ahead of them faster than they could walk. The women of the city came running to see them.\n\nAnd what the city saw undid its composure. The verses describe the women caught in the middle of their ordinary tasks, and how those tasks fell apart. One came with her clothes and ornaments put on inside out. Another, in her haste, had forgotten one of a pair — a single earring, a single anklet. Another had lined only one eye with kajal and left the other bare. Some set down their food halfway through eating. Some, being rubbed with oil, left off before the bath was done. None of it mattered anymore; they had a single thought, and it pulled them all toward the same street.\n\nKrishna walked among them, the lotus-eyed boy whose bold, easy smiles and slow, teasing glances the verses say were like nectar poured out over the crowd. The women drank the sight of him and embraced his form with their eyes, as if they could hold him there by looking; their skin thrilled with a joy they had no name for, and a sorrow they had carried a long time loosened its hold on them there in the road and fell away.\n\nThose who could not reach the street climbed to the rooftops, their faces open with delight, and from the terraces they showered down curd and unbroken rice and water, garlands and sweet scents, like offerings. And the people of the city, watching the cowherd women who had this boy to themselves every day, called out in wonder: what great austerities must these gopis have performed, that they can see him whenever they wish?\n\nThe two brothers walked on through the rejoicing city, and behind them, in the doorways and on the roofs, the women of Mathura stayed watching until the two of them had passed from sight.",
+ "reflection": "The heart of the scene is not the grandeur of Mathura but the women's self-forgetfulness — the half-done hair, the single earring, the one lined eye. Joy this complete makes self-consciousness impossible, and the citizens' wondering question to the gopis turns the city's own longing back on itself.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "citizens"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "entry",
+  "rejoicing"
+ ],
+ "previous_story_id": "DKS_0129",
+ "next_story_id": "DKS_0131",
+ "next_story_tease": "But the same road held other meetings for them, and the first would not be a friendly one.",
+ "hero_scene": "Krishna and Balarama walking the king's road into Mathura in the afternoon, surrounded by cowherd companions, while the women of the city lean from windows and rooftops, showering down curd, unbroken rice, garlands and scents.",
+ "visual_elements": [
+  "Krishna and Balarama walking into Mathura",
+  "crystal gates and golden doors",
+  "doves and peacocks in lattice windows",
+  "water pots and garlands",
+  "women forgetting their dress and work",
+  "rooftop crowds showering curd, rice and garlands",
+  "rejoicing and wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.41.18-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0132"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0294",
+ "title": "The Six Sons Restored to Devaki",
+ "subtitle": null,
+ "story": "Krishna and Balarama returned to Dwaraka carrying six small children, and the city that had witnessed every kind of wonder fell quiet at the sight. Two grown men — one dark, one fair — walking up the coast road with infants in their arms, six of them, small and silent, as though the brothers had gone down into the earth and come back with the morning held in their hands. Word of them traveled faster than their feet: children, the city whispered, they have brought children back from the underworld.\n\nThe children were Devaki's sons. Years before, her brother Kamsa had taken each of her first six children at birth and killed them, one by one, because a prophecy had warned him that a child of Devaki would one day end his reign. She had carried that grief ever since — a weight worn smooth by time but never lifted. She had borne Krishna and Balarama, the seventh and the eighth, and had loved them with all her strength; but the six were always there, six small absences standing in the shadow of her heart.\n\nAnd now Krishna and Balarama had descended to Sutala, the netherworld kingdom where King Bali reigned, and had brought the six back to the world above. The journey home was long, and the brothers carried the children turn by turn, so that not one of them was ever out of someone's arms — as if the earth had once taken these children and they meant to be sure it did not take them again.\n\nWord ran ahead of them through the streets, and Devaki came out of the palace as they reached the gate. She came forward slowly, the way people move when they are afraid to believe, and the women of the palace followed her with their hands pressed to their mouths. She stopped a little way off and counted them — one, two, three, four, five, six — and then her milk came, the body remembering what the heart had kept locked for so many years. She took them into her arms, all six at once, and nursed them, her breasts flowing, holding each small head to her, weeping and laughing together, while the courtyard stood silent around her. No one moved. The guards, the ministers, the women of the palace — they watched a mother receive her children, and there was nothing to say.\n\nWhen the six had drunk their fill, they drew back from her and stood. Then, before the eyes of everyone gathered there, they bowed — first to Krishna, then to Devaki, their mother, then to Vasudeva, their father, and at last to Balarama. And released at last from the curse that had taken them at birth, they rose from the ground and ascended, slowly, like light climbing a wall, until they reached the abode of the gods and were gone.\n\nDevaki stood with empty arms, milk still on her lips, watching the sky where her sons had vanished. She had held them for a single evening — long enough to feed them, long enough to know them — and the old grief went out of her like a breath she had been holding for years. Beside her, Vasudeva watched his sons climb the sky and said nothing; there was nothing a father could add. The court watched her, and then looked up at the sky, and understood what they had seen: a debt of love, paid in full.\n\nDwaraka kept this in its memory for a long time after — six children carried down into the earth and carried back up again, and a mother whose arms were, for one night, the place where a curse was dissolved.",
+ "reflection": "Devaki is given her sons not to keep but to hold once: the restoration lasts a single evening of milk and touch, and then the children leave. The story honors a mother's love by letting it finish what a curse began — the six are freed through her embrace, not through any power, and her grief is answered by release rather than by possession.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Devaki",
+  "Vasudeva",
+  "the six sons"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "restoration",
+  "mother's love",
+  "release from curse"
+ ],
+ "previous_story_id": "DKS_0293",
+ "next_story_id": "DKS_0295",
+ "next_story_tease": "But Krishna's journeys were not finished: in Mithila, two men were preparing for the same guest, each certain the visit was meant for him alone.",
+ "hero_scene": "The six sons, having drunk Devaki's milk, rising into the sky above the palace courtyard of Dwaraka as Devaki stands below with empty arms and milk still on her lips, while Krishna and Balarama watch and the whole court gazes upward in wonder.",
+ "visual_elements": [
+  "Devaki nursing the six restored sons",
+  "the six children rising and ascending into the sky",
+  "Krishna and Balarama standing by, watching",
+  "Vasudeva present in the courtyard",
+  "the palace courtyard of Dwaraka",
+  "a crowd of guards, ministers and women of the palace",
+  "evening light, wonder and release"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.85.51-56",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:16Z",
+  "source_event_id": "evt_0498",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

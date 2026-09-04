@@ -1,0 +1,43 @@
+# STORY DKS_0150 — Memories of the Gurukula || Krishna and Sudama recall their student days under Sandipani, when they were sent to fetch firewood and, caught in a fierce storm, wandered lost until the guru found them at dawn.
+
+## Index entry
+title: Memories of the Gurukula || Krishna and Sudama recall their student days under Sandipani, when they were sent to fetch firewood and, caught in a fierce storm, wandered lost until the guru found them at dawn.
+summary: Krishna and Sudama recall their student days under Sandipani, when they were sent to fetch firewood and, caught in a fierce storm, wandered lost until the guru found them at dawn.
+life_stage: dwaraka | story_arc: mathura_and_kamsa
+characters: Krishna, Sudama, Sandipani
+locations: Dwaraka, (reminiscence of the gurukula)
+themes: friendship, gratitude, reminiscence
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0277
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 80 | verses 27-42 | confidence 5
+  excerpt: Krishna asks Sudama whether he remembers their days serving the guru, and recounts how, sent by the guru's wife to gather firewood, they entered the forest when a violent wind and rain arose, night fell, and, lost in the darkness and holding hands, they wandered till the guru found them at sunrise and blessed them. (rendered from Sanskrit, verse 27-42)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.80 (27-42)
+27. bhp_10.80.028/0 śrī-bhagavān uvāca
+28. prāyo gṛheṣu te cittam akāma-vihitaṃ tathā /
+29. kecit kurvanti karmāṇi kāmair ahata-cetasaḥ /
+30. kaccid guru-kule vāsaṃ brahman smarasi nau yataḥ /
+31. sa vai sat-karmaṇāṃ sākṣād dvijāter iha sambhavaḥ /
+32. nanv artha-kovidā brahman varṇāśrama-vatām iha /
+33. nāham ijyā-prajātibhyāṃ tapasopaśamena vā /
+34. api naḥ smaryate brahman vṛttaṃ nivasatāṃ gurau /
+35. praviṣṭānāṃ mahāraṇyam apartau su-mahad dvija /
+36. sūryaś cāstaṃ gatas tāvat tamasā cāvṛtā diśaḥ /
+37. vayaṃ bhṛśam tatra mahānilāmbubhir nihanyamānā mahur ambu-samplave /
+38. etad viditvā udite ravau sāndīpanir guruḥ /
+39. aho he putrakā yūyam asmad-arthe 'ti-duḥkhitāḥ /
+40. etad eva hi sac-chiṣyaiḥ kartavyaṃ guru-niṣkṛtam /
+41. tuṣṭo 'haṃ bho dvija-śreṣṭhāḥ satyāḥ santu manorathāḥ /
+42. itthaṃ-vidhāny anekāni vasatāṃ guru-veśmani /
+
+## Corpus chain
+previous_story_id: DKS_0149 | next_story_id: DKS_0151
+previous title: Krishna Visits Trivakra and Grants Her a Boon
+next title: The Yadavas Counsel That Mathura Cannot Withstand Siege

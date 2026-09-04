@@ -1,0 +1,105 @@
+# STORY DKS_0121 — Garuda Restores Vishnu's Stolen Crown to Krishna
+
+## Index entry
+title: Garuda Restores Vishnu's Stolen Crown to Krishna
+summary: Garuda, having recovered Vishnu's crown stolen by Bali's son, places it on Krishna's head on Gomanta.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Garuda, Balarama
+locations: Gomanta
+themes: divine insignia, restoration
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0171
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 97 | verses  | confidence 4
+  excerpt: that foremost of birds threw from the welkin that crown on Vishnu's head... 'When I fell asleep in the ocean, Virochana's son... stole away my diadem... Garuda has brought this back.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.97 ()
+TITLE: BALARAMA GETS DRUNK
+
+Vaishampayana said:—After the departure of Jamadagni’s son Rāma, Rāma
+and Krishna, the perpetuators of the Yadu race, assuming forms of their
+own accord began to range on the charming summit of Gomanta (1). Wearing
+on their breast garlands of wild flowers, clad in dark-blue and yellow
+apparels and with their body besmeared with metalic discharges those two
+youths, of dark-blue and white persons, began to range, with a view to
+sport in the charming forests on the summit and see the sun and moon,
+the lords of luminous bodies at the time of the rising and setting of
+planets (2-4).
+
+Thereupon once on a time while separated from Krishna the powerful and
+beautiful Sangkarshana, ranging on the summit of the mountain, sat under
+a charming shade of a blossoming Kadamva tree, sweet-scented wind began
+to fan him (5–6). Thus served by the wind and smell of wine touching his
+nostril he felt a hankering for wine and his mouth began to dry up like
+one who had excessively drunk in the previous day (7-8). Thereupon
+recollecting the drinking of ambrosia in the days of yore, he, searching
+the wine, saw the Kadamva tree (9). Deposited in its cave, the water,
+that the clouds showered on the tree in the rains, had become a
+delightful wine (10). The powerful Baladeva was over-powered by thirst,
+so drinking that wine again and again, like a sick person drinking water
+he grew inebriete and his body began to reel (11). On account of his
+being drunk his eyes and face, resembling an autumnal moon, began to
+roll (12). The goddess Vāruni, who was the churning rod of ambrosia unto
+the gods, was born in that Kadamva cave in the shape of wine. And so she
+passed by the name of Kādamvari (13). Inebriete with Kādamvari wine
+while Krishna’s elder brother began to speak in indistinct but sweet
+words the wine incarnate Kānti, the beloved spouse of the moon, the
+goddess Sree the foremost of damsels having the emblem of a cloud on her
+flag, these three celestial ladies approached him with sweet words
+(14–16). First of all coming before the inebriete son of Rohini the
+goddess Vāruni, with folded hands, addressed to him words conducive to
+her own well-being (16):—"O Baladeva, O foremost of gods, do thou
+consume the host of Daityas. I am here thy beloved lady Vāruni (17). O
+thou having a pure countenance, thou used always to reside by the forest
+fire, but now thou hast disappeared. Hearing this, I am ranging on the
+face of the earth like one whose religious merit has been dissipated
+(18). For a long time I lived in the filaments of flowers and spring
+flowers whose bunches were never touched. But I am fond of pleasures,
+therefore at the advent of the rains, hiding my own true form I was
+lying in the Kadamva cave in expectation of thy arrival stricken with
+thirst (19–20). O sinless one, as I was despatched with consummate
+beauty reigning over all my limbs, by my father Varuna at the time of
+the churning for ambrosia, so I have been sent by him now (21). O lord,
+thou art my beloved preceptor, so I wish to live by thee as I was
+residing by the forest fire in the ocean (22). O god, O sinless Ananta,
+save thee I shall not be able to serve any other people. And so I shall
+not leave thee even if thou dost remonstrate with me (23)."
+
+With her eyes rolling a little and her hip moving in drunkenness, the
+goddess incarnate of beauty, Kānti, exclaiming "May victory crown Rāma",
+approached Sangkarsāna, who was seated there and lovingly addressed to
+him with folded-hands the following words pregnant with significance
+(24–26). "I regard the highly powerful god Ananta of thousand heads more
+than the moon. Therefore with all my accomplishments I am following thee
+like wine (27)." Thereupon Kamalā, the abode of lotuses who always lives
+on Vishnu’s breast, placed herself on the breast of the holder of
+plough-share like a garland of pure flowers (28). Taking a garland of
+pure flowers, placing herself on the breast of the lotus-faced Baladeva,
+the well-adorned Kamalā, with a lotus in her hand, said (29):—"O Rāma, O
+beautiful Rāma, united with Vāruni, Kānti and myself thou dost, O king
+of gods, appear beautiful like the moon (30). This is thy crown, I have
+brought from the abode of Varuna, which used to shine over thy thousand
+heads like the sun (31). O thou having lotus eyes, the golden Kundalas
+crested with diamonds and the celestial first lotus, which were thy ear
+ornaments (have also been brought) (32). The blue silken apparel, worthy
+of the ocean, which was in it and the beautiful neck-chain (have also
+been brought) (33). O god, O thou having large arms, now thy proper time
+has come. Do thou, as before, adorn thyself with these ornaments and do
+them honor (34)."
+
+The goddess Sree having said this, Baladeva, accepting those ornaments
+and the three celestial damsels, shone like the autumnal moon (35).
+Thereupon united with the slayer of Madhu resembling a cloud surcharged
+with water he attained to great delight like the moon released from Rāh
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0120 | next_story_id: DKS_0122
+previous title: Kamsa Orders the Gopas Expelled and Vasudeva Punished
+next title: Krishna Returns to Mathura

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0198",
+ "title": "The Night Journey to Kundina",
+ "subtitle": null,
+ "story": "The road from Dwaraka to Kundina usually took days. Krishna crossed it in a single night.\n\nHe heard the brahmana out, and he did not hide what the message had done to him. \"I too,\" he said, \"cannot sleep at night for her sake.\" And he said plainly what he meant to do: he would bring her back, crushing in battle the wicked kings who stood in his way. There was no council called, no army mustered. The chariot was made ready, the four horses — Shaibya, Sugriva, Meghapushpa, and Balahaka — were yoked, and Daruka his charioteer took the reins. Krishna seated the brahmana beside him, and they went out through the gates of Dwaraka while the city slept.\n\nThrough the dark they flew, over river and plain, the princess's words still hanging in the air between them. By the time the sun rose, Krishna was within the borders of Vidarbha, and no one in Kundina knew he had come.\n\nIn Kundina, no one had slept either, but for a different reason. The city was being made ready for a wedding. Bhishmaka, led by love for his son, had ordered the streets swept and sprinkled, the roads and crossings cleaned; garlands, perfumes, and bright garments appeared on every side. He worshipped the ancestors, the gods, and the brahmanas according to the rites. The bride was bathed and adorned with the auspicious ceremonies, and the foremost brahmanas chanted the mantras of the Sama, the Rig, and the Yajur over her for her protection; gifts of gold and silver cloth and sesame mixed with jaggery were distributed, and the whole city put on its finest face for the day to come.\n\nThe guests who arrived made the purpose of the gathering plain. Damaghosha, the king of Cedi, came for his son with herds of rutting elephants and chariots garlanded with gold, and the lord of Vidarbha went out to receive him with honor. With him came Shalva, and Jarasandha of Magadha, and Dantavakra, and Viduratha — kings who hated Krishna and his brother Balarama, and who were determined to give the bride to the prince of Cedi. \"If Krishna comes,\" they resolved among themselves, \"we will fight him, and we will fight him together.\"\n\nWord of that muster traveled the roads, and it reached Balarama. Flooded with love for his brother, he gathered a great force and set out after him, so that the Yadava who had ridden ahead with a single chariot now had an army on the road behind him.\n\nAnd all the while, in the inner apartments of Kundina, the bride-to-be was counting the hours toward a wedding she had never wanted — hoping, with everything in her, that the man she had written to had heard her message in time.",
+ "reflection": "The line that stays with the reader is Krishna's admission that he, too, could not sleep for her. The great dash to Kundina is easy to read as rescue or romance; the source quietly makes it mutual, and lets the two longings answer each other across the country.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Daruka",
+  "Rukmini",
+  "Shishupala"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "haste",
+  "love",
+  "resolve"
+ ],
+ "previous_story_id": "DKS_0197",
+ "next_story_id": "DKS_0199",
+ "next_story_tease": "In Kundina the bride-to-be had heard that Krishna had come — but the wedding was still a night away, and she had not yet seen him.",
+ "hero_scene": "Krishna's chariot flying across moonlit plains at full gallop, Daruka driving, the brahmana holding on beside him, the four horses — Shaibya, Sugriva, Meghapushpa, and Balahaka — stretched to their limit through the night.",
+ "visual_elements": [
+  "Krishna's chariot racing through the night",
+  "Daruka driving",
+  "the brahmana seated beside Krishna",
+  "the four horses at full gallop",
+  "moonlit plains and rivers",
+  "the wedding preparations of Kundina in the distance",
+  "a mood of urgent love and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.53.1-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:32Z",
+  "source_event_id": "evt_0240"
+ },
+ "editorial_status": "unreviewed"
+}

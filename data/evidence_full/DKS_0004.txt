@@ -1,0 +1,48 @@
+# STORY DKS_0004 — Vasudeva Pacifies Kamsa and Promises to Surrender His Sons
+
+## Index entry
+title: Vasudeva Pacifies Kamsa and Promises to Surrender His Sons
+summary: Kamsa seizes Devaki to kill her, but Vasudeva placates him with reasoning and vows to surrender every newborn son to him.
+life_stage: birth | story_arc: prophecy_of_kamsa
+characters: Vasudeva, Kamsa, Devaki
+locations: Mathura
+themes: diplomacy, fear, protection
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0018
+variant_notes: See also 'prophecy' (VP 5.1 combines warning + pacification).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 1 | verses 34-54 | confidence 5
+  excerpt: Kamsa draws his sword on his own sister, but Vasudeva soothes him with words on death and destiny, promising to hand over each son born to Devaki; at this Kamsa relents. (rendered from Sanskrit, verse 34-54)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.1 (34-54)
+34. ity uktaḥ sa khalaḥ pāpo bhojānāṃ kula-pāṃsanaḥ /
+35. taṃ jugupsita-karmāṇaṃ nṛśaṃsaṃ nirapatrapam /
+36. bhp_10.01.037/0 śrī-vasudeva uvāca
+37. mṛtyur janmavatāṃ vīra dehena saha jāyate /
+38. dehe pañcatvam āpanne dehī karmānugo 'vaśaḥ /
+39. vrajaṃs tiṣṭhan padaikena yathaivaikena gacchati /
+40. svapne yathā paśyati deham īdṛśaṃ manorathenābhiniviṣṭa-cetanaḥ /
+41. yato yato dhāvati daiva-coditaṃ mano vikārātmakam āpa pañcasu /
+42. jyotir yathaivodaka-pārthiveṣv adaḥ $ samīra-vegānugataṃ vibhāvyate &amp;evaṃ sva-māyā-raciteṣv asau pumān % guṇeṣu rāgānugato vimuhyati
+43. tasmān na kasyacid droham ācaret sa tathā-vidhaḥ /
+44. eṣā tavānujā bālā kṛpaṇā putrikopamā /
+45. bhp_10.01.046/0 śrī-śuka uvāca
+46. nirbandhaṃ tasya taṃ jñātvā vicintyānakadundubhiḥ /
+47. mṛtyur buddhimatāpohyo yāvad buddhi-balodayam /
+48. pradāya mṛtyave putrān mocaye kṛpaṇām imām /
+49. viparyayo vā kiṃ na syād gatir dhātur duratyayā /
+50. agner yathā dāru-viyoga-yogayor adṛṣṭato 'nyan na nimittam asti /
+51. evaṃ vimṛśya taṃ pāpaṃ yāvad-ātmani-darśanam /
+52. prasanna-vadanāmbhojo nṛśaṃsaṃ nirapatrapam /
+53. bhp_10.01.054/0 śrī-vasudeva uvāca
+54. bhp_10.01.055/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0003 | next_story_id: DKS_0005
+previous title: The Doom Prophecy Warns Kamsa of Devaki's Eighth Child
+next title: Kamsa Imprisons Devaki and Destroys Her Children

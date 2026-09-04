@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0231",
+ "title": "The Stronghold Beneath the Mountain",
+ "subtitle": null,
+ "story": "The mountain had one more secret, and Shiva had not yet finished speaking.\n\nThe night on the Parijatra had turned to worship. Krishna, staying on the mountain with his son Pradyumna and the warrior Satyaki, had thought of the Ganga — and at his thought the river that rises from Vishnu's own feet had come flowing up to him. He had bathed in her waters, offered her the bilva leaves and the sacred water, and eulogized Shiva until the god of gods appeared with Uma upon the river and the leaves, and had won from him the boon that he would carry away the Parijata and remain invincible. The hymn had ended; the boon had been spoken. And still Shiva lingered on the dark water, and still he spoke.\n\n\"On the summit of this mountain,\" he said, \"there is a stronghold of the Danavas, called Satpura. Hidden inside that fastness live mighty Danavas of wicked soul. By the boon of Brahma they are invincible to the gods — no weapon of the celestials can touch them, and no god can prevail against them. Do you, O Krishna, slay them.\"\n\nThe words fell into the night like a stone into still water. Here was the truth behind the mountain's reverence, the reason it had bowed itself into the earth at Krishna's coming: it was not merely holy — it was a gate. Beneath its summit, in the stronghold of Satpura, an army of Danavas waited, shielded from every god by a boon older than the quarrel over the Parijata. The day's war had been fought in the open sky, arrow against claw, for a tree. This was a different kind of war — one the gods could not fight at all, hidden under the very ground where Krishna now stood. The charge was one no god could carry out, and it was given to Krishna alone.\n\nBefore dawn, on the summit where the stronghold's gate was hidden, a shrine was raised, and Krishna was enshrined within it. The mountain that had made itself small as a grinding stone at his coming kept his presence from that night forward — a place of worship now, as the god of gods had made it holy, and a watch kept over the fastness in its heart. Whatever the Danavas had plotted in their invincible hiding, they would do it now under the eye of the one being their boon did not bind.\n\nWhen morning came, the fight with Indra would resume on the slopes below, and the Parijata would still be the prize. But the night had given Krishna more than a boon. It had given him a task — and the mountain itself, with its hidden enemy, now stood under his eye.",
+ "reflection": "The revelation sits oddly against the boon of the night before: Krishna is promised the Parijata, yet the stronghold he is shown is one the gods themselves cannot enter by Brahma's boon. The shrine on the summit reads like a claim — the mountain that bowed to Krishna now holds his presence, as though the hidden enemy were answered by an equally hidden protection.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Shiva",
+  "Uma",
+  "Danavas"
+ ],
+ "locations": [
+  "Parijatra mountain",
+  "Satpura stronghold"
+ ],
+ "themes": [
+  "revelation",
+  "hidden enemies",
+  "shrine"
+ ],
+ "previous_story_id": "DKS_0230",
+ "next_story_id": "DKS_0232",
+ "next_story_tease": "Dawn would bring the fight with Indra again — and Krishna carried the night's promise that the Parijata would go home with him.",
+ "hero_scene": "On the moonlit summit of the Parijatra, Shiva gestures toward the dark range of Satpura where the Danavas' stronghold lies hidden, while Krishna stands listening and the glow of the newly raised shrine rises beside them.",
+ "visual_elements": [
+  "Krishna listening to Shiva on the summit at night",
+  "Shiva pointing toward the hidden Satpura stronghold",
+  "Uma standing by Shiva",
+  "the dark mountain ranges below",
+  "the newly raised shrine on the summit",
+  "hidden threat and vigilance"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.221",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:00Z",
+  "source_event_id": "evt_0302"
+ },
+ "editorial_status": "unreviewed"
+}

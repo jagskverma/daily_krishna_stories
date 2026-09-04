@@ -1,0 +1,41 @@
+# STORY DKS_0196 — Rukmini Resolves to Marry Krishna and Sends a Brahmana Messenger || Princess Rukmini, hearing of Krishna's virtues, resolves to wed him and sends a brahmana to Dvaraka with her secret message.
+
+## Index entry
+title: Rukmini Resolves to Marry Krishna and Sends a Brahmana Messenger || Princess Rukmini, hearing of Krishna's virtues, resolves to wed him and sends a brahmana to Dvaraka with her secret message.
+summary: Princess Rukmini, hearing of Krishna's virtues, resolves to wed him and sends a brahmana to Dvaraka with her secret message.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Rukmini, Krishna, Rukmi, Brahmana
+locations: Kundina, Dvaraka
+themes: love, resolve, devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0238
+variant_notes: Cross-ref: Rukmini abduction cluster (bp10c_021/vp5_026_01); message is bp10c_018.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 52 | verses 14-27 | confidence 5
+  excerpt: Rukmini, daughter of Bhishmaka of Vidarbha, heard of Krishna's beauty and virtues and resolved he alone was a fitting husband; though her brother Rukmi wished to give her to Shishupala, she sent a trusted brahmana swiftly to Dvaraka. (rendered from Sanskrit, verses 14-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.52 (14-27)
+14. ānartādhipatiḥ śrīmān raivato raivatīṃ sutām /
+15. bhagavān api govinda upayeme kurūdvaha /
+16. pramathya tarasā rājñaḥ śālvādīṃś caidya-pakṣa-gān /
+17. bhp_10.52.018/0 śrī-rājovāca
+18. bhagavan śrotum icchāmi kṛṣṇasyāmita-tejasaḥ /
+19. brahman kṛṣṇa-kathāḥ puṇyā mādhvīr loka-malāpahāḥ /
+20. bhp_10.52.021/0 śrī-bādarāyaṇir uvāca
+21. rukmy agrajo rukmaratho rukmabāhur anantaraḥ /
+22. sopaśrutya mukundasya rūpa-vīrya-guṇa-śriyaḥ /
+23. tāṃ buddhi-lakṣaṇaudārya- rūpa-śīla-guṇāśrayām /
+24. bandhūnām icchatāṃ dātuṃ kṛṣṇāya bhaginīṃ nṛpa /
+25. tad avetyāsitāpāṅgī vaidarbhī durmanā bhṛśam /
+26. dvārakāṃ sa samabhyetya pratīhāraiḥ praveśitaḥ /
+27. dṛṣṭvā brahmaṇya-devas tam avaruhya nijāsanāt /
+
+## Corpus chain
+previous_story_id: DKS_0195 | next_story_id: DKS_0197
+previous title: Krishna Carries Off Rukmini and Wins Satya || Uddhava recalls how Krishna carried off Rukmini, Bhishmaka's daughter, by the gandharva rite, and how he defeated the proud kings to win Satya (Nagnajiti) at her svayamvara.
+next title: Rukmini's Love-Message to Krishna || Rukmini's message begs Krishna to carry her away in the rakshasa manner before Shishupala can claim her.

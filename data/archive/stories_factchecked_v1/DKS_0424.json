@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0424",
+ "title": "Vidura's Warning in the Night",
+ "subtitle": null,
+ "story": "It was at Vidura's table that Krishna had eaten that day, as he had told Duryodhana's court he would. And now, the meal over and the house quiet, the meaning of that choice became clear. After Krishna had dined and been refreshed, Vidura spoke to him during the night, and the man who had welcomed him with joy spoke now with dread.\n\nThis advent of yours, O Kesava, he said, has not been a well-judged one. Dhritarashtra's son transgresses the rules of both profit and religion; he is wicked and wrathful, insults others though himself desirous of honours, and disobeys the commands of the aged. He is a transgressor of the scriptures, ignorant and of wicked soul, already overtaken by fate, untractable, disposed to do evil to those who seek his good. His soul is possessed by desire and lust; he foolishly regards himself as very wise; he is the enemy of all his true friends, ever-suspicious, without any control over his soul, ungrateful, he has abandoned all virtue and is in love with sin. A slave of his senses, ever obedient to the impulses of lust and avarice, irresolute in every act that should be done, he is endued with these and many other vices. Although Krishna would point out to him what is for his good, he would disregard it all, moved by pride and anger. He has great faith in Bhishma and Drona and Kripa and Karna and Drona's son and Jayadratha, and therefore he never sets his heart on peace.\n\nKrishna listened, and Vidura went on. The sons of Dhritarashtra, with Karna, firmly believed that the Pandavas were incapable of even looking at Bhishma and Drona, not to speak of fighting against them. The foolish Duryodhana of limited sight, having assembled a huge army, regarded his purposes as already achieved; he had arrived at the conclusion that Karna, single-handed, was competent to vanquish his foes. He will, therefore, never make peace. Krishna desired to establish peace and brotherly feelings between the two parties, but all the sons of Dhritarashtra had come to the conclusion that they would not give the Pandavas what they had a right to. With those who are so resolved, his words would certainly prove vain. Where words, good or bad, are of the same effect, no wise man would spend his breath for nothing, like a singer before the deaf. As a Brahmana before a conclave of Chandalas, Krishna's words would command no respect among those ignorant and wicked wretches that have no reverence for all that deserves reverence.\n\nIt did not seem proper to Vidura that Krishna should go into the midst of those wicked-minded wretches seated together, and utter words against them. They had mustered a strong force and had suspicions of Krishna himself; they were inspired with the firm belief that Indra at the head of all the celestials was incapable of defeating them in battle. Staying in the midst of his ranks of elephants and his army of cars and heroic infantry, the foolish and wicked Duryodhana, with all fears dispelled, regarded the whole earth as already subjugated; he coveted extensive empire on the earth without any rivals. Peace, therefore, with him was unattainable. That which he has in his possession he regards as unalterably his. Alas, Vidura said, the destruction of the earth seems to be at hand for Duryodhana's sake, for, impelled by fate, the kings of the earth, with all the Kshatriya warriors, have assembled together, desirous of battling with the Pandavas. All those kings are in enmity with Krishna and have all been deprived of their possessions before this by him; through fear of him they have joined together with Karna and made an alliance with Dhritarashtra's sons. Reckless of their very lives, all those warriors have united with Duryodhana and are filled with delight at the prospect of fighting the Pandavas. It does not commend itself to me, Vidura said, that you should enter into their midst.\n\nThe night was still. Krishna had heard every word, the catalogue of Duryodhana's vices, the certainty of war, the plea that he not walk into that assembly. He did not argue with any of it. Vidura knew this court as no one else did, and Krishna had not come to Hastinapura to be persuaded out of listening.",
+ "reflection": "Vidura's warning is a portrait of a man already overtaken by fate: every vice he names is a reason Duryodhana cannot be persuaded, and every reason is also a prophecy of war. Krishna listens without argument, because the value of the warning is not that it changes his purpose, but that it is true.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Duryodhana"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Vidura's abode"
+ ],
+ "themes": [
+  "warning",
+  "discernment",
+  "foresight"
+ ],
+ "previous_story_id": "DKS_0423",
+ "next_story_id": "DKS_0425",
+ "next_story_tease": "But Krishna would answer Vidura's warning with a resolve of his own.",
+ "hero_scene": "Late at night in Vidura's quiet house, the lamp burning low, Vidura leans forward with a grave face as he warns Krishna, who sits in calm stillness listening to every word.",
+ "visual_elements": [
+  "Vidura's quiet house at night with a low-burning lamp",
+  "Vidura leaning forward, grave-faced, warning Krishna",
+  "Krishna seated in stillness, listening",
+  "the shadowed room and the late hour",
+  "the sense of war gathering beyond the house"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.92",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0431"
+ },
+ "editorial_status": "unreviewed"
+}

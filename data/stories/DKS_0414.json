@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0414",
+ "title": "Messages for Kunti and the Elders",
+ "subtitle": null,
+ "story": "Krishna had not ridden far when he heard Yudhishthira's voice behind him and reined in. The eldest Pandava had followed the chariot some distance on foot, and now he came up beside it, carrying the weight of everything he had not managed to say at parting.\n\nHe had not followed alone, though the others were gone by now. When the chariot rolled out of Upaplavya, the whole camp had gone a little way with it — Bhima and Arjuna and the twins Nakula and Sahadeva, and after them the allied kings, Chekitana and Dhrishtaketu, Drupada and the king of Kasi, and the warrior Sikhandin. One by one they had fallen back and turned for home, until only the eldest Pandava was left on the road, still walking after the chariot.\n\n\"The lady who brought us from our infancy,\" Yudhishthira began, and Krishna knew at once whom he meant. Kunti, their mother, had remained in Hastinapura when her five sons went out to the world of exile and danger, and she had grieved for them every day since. Whatever was said in councils about kingdoms and armies, this was the message that had to travel first.\n\n\"Ask after her welfare,\" Yudhishthira said. \"Salute her and embrace her, and comfort her again and again, for she is bowed down with grief for her sons.\"\n\nKrishna waited, for the eldest Pandava had not finished. And indeed Yudhishthira went on, naming the elders of the Kuru house one by one, and each name carried its own weight. \"Salute the Kuru king Dhritarashtra for me,\" he said, the blind father who had watched his own son swallow a kingdom and done nothing to stop it. \"And Bhishma,\" the grandfather who had taught them the use of arms and was bound now to the other side by his vow. \"And Drona, and Kripa,\" the teachers who had shaped them as warriors. \"And salute Vidura,\" Yudhishthira said, and his voice changed, \"who is full of great wisdom\" — the wise uncle who had stood by the Pandavas in that cold court when no one else dared.\n\nKrishna took the messages into his keeping, one by one, and promised that each would be delivered exactly as it had been given: the embrace for the mother, the salutations for the king, the honours for the elders, the warm regard for Vidura. Nothing had been asked for himself; Yudhishthira had sent no demand, no warning, no word of his own rights. Only the grief of his mother and the courtesy owed to the old.\n\nThen Yudhishthira stepped back from the chariot and stood in the road, and Krishna drove on. Behind him the eldest Pandava remained where he was, watching the chariot shrink toward the horizon, and the messages he had entrusted to it went ahead of him like a small, careful map of everything the coming days might break: a mother who stood to lose her sons whichever way the war went, teachers bound by oath to the wrong side, a wise uncle who could see the catastrophe and could not prevent it. The chariot carried all of it with it, rolling on toward Hastinapura.\n\nIt carried one thing more. Krishna had his own word to keep on that road. To Arjuna, who had pleaded that he carry peace between the two houses, he had answered that he would go to king Dhritarashtra — seeking what was right, what might benefit the Pandavas, and what was good for the Kurus. The private messages and that public errand rode together now, in the same chariot, toward the same city.",
+ "reflection": "At the moment when war hangs in the balance, Yudhishthira's first thought is not for his claim to a throne but for his mother's grief and for the elders he still honours. The messages are a small map of the tragedy to come: a mother who loses either way, teachers bound to the side they cannot leave, a wise uncle powerless to stop what he can foresee.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Kunti",
+  "Dhritarashtra",
+  "Bhishma",
+  "Drona",
+  "Kripa",
+  "Vidura"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "filial duty",
+  "grief",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0413",
+ "next_story_id": "DKS_0415",
+ "next_story_tease": "But there was one more parting word to come, from Arjuna, and it carried the weight of everything the mission stood against.",
+ "hero_scene": "Yudhishthira walking beside Krishna's chariot on the open road, one hand raised, entrusting his messages for Kunti and the elders, while Krishna leans from the car to listen.",
+ "visual_elements": [
+  "Yudhishthira walking beside the chariot, speaking with raised hand",
+  "Krishna leaning from the chariot to hear the messages",
+  "the mother's name spoken with grief in Yudhishthira's face",
+  "Yudhishthira standing alone in the road, watching the chariot depart"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.83",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0421",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

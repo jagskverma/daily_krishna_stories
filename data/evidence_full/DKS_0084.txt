@@ -1,0 +1,121 @@
+# STORY DKS_0084 — Indra Unleashes the Storm on Vrindavan
+
+## Index entry
+title: Indra Unleashes the Storm on Vrindavan
+summary: Furious Indra sends the Samvartaka storm-clouds to destroy Nanda's gokula with torrent, hail and wind.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Indra, clouds, cowherds
+locations: Vrindavan
+themes: wrath, storm
+festival_tags: Govardhan Puja
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0096
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 25 | verses 1-9 | confidence 5
+  excerpt: Furious Indra set in motion the Samvartaka clouds of destruction, saying 'Scatter the pride of these cowherds, drive their cattle to destruction'; and the clouds, freed of restraint, tormented Nanda's gokula with torrents, lightning, thunder and hail. (rendered from Sanskrit, verses 1-8)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 73 | verses  | confidence 4
+  excerpt: 'Therefore within seven nights, distress, with rain and winds, the precious kine which constitute their life-long subsistence.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 11 | verses  | confidence 4
+  excerpt: Now, therefore, afflict the cattle, that are their sustenance, and whence their occupation is derived, with rain and wind... In an instant the earth, the points of the horizon, and the sky, were all blended into one by the heavy and incessant shower.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.25 (1-9)
+1. gaṇaṃ sāṃvartakaṃ nāma meghānāṃ cānta-kārīṇām /
+2. aho śrī-mada-māhātmyaṃ gopānāṃ kānanaukasām /
+3. yathādṛḍhaiḥ karma-mayaiḥ kratubhir nāma-nau-nibhaiḥ /
+4. vācālaṃ bāliśaṃ stabdham ajñaṃ paṇḍita-māninam /
+5. eṣāṃ śriyāvaliptānāṃ kṛṣṇenādhmāpitātmanām /
+6. ahaṃ cairāvataṃ nāgam āruhyānuvraje vrajam /
+7. bhp_10.25.008/0 śrī-śuka uvāca
+8. vidyotamānā vidyudbhiḥ stanantaḥ stanayitnubhiḥ /
+9. sthūṇā-sthūlā varṣa-dhārā muñcatsv abhreṣv abhīkṣṇaśaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.73 ()
+TITLE: INDRA SENDS DOWN PUNISHMENT
+
+Vaishampayana said:—While in this wise the festivity, in his honor, was
+suppressed, Sakra, the king of the celestials said to the clouds called
+Samvartaka (1):—"O ye clouds, and elephants, if you cherish any respect
+for your king and if you consider it as your duty to do what pleases me
+(listen then to my words) (2). All these inhabitants of Vrindāvana are
+attached to Dāmodara. Nanda and other Gopas have grown inimical towards
+my festival (3). Therefore within seven nights, distress, with rain and
+winds, the precious kine which constitute their life-long subsistence
+and for which they pass by the name of Gopas²³² (4). I myself, stationed
+on (my elephant) Airavata, shall discharge dreadful rain, winds and
+showers effulgent like thunder and lightning (5). With dreadful showers
+and winds you will kill all the kine and the inhabitants of Vraja and
+leave them after they all kiss the ground" (6).
+
+On account of his festival being put down by Krishna the powerful
+Pākashāsana thus issued his mandate to the clouds (7). Thereupon, the
+dreadful dark-blue clouds, resembling a mountain in size and muttering
+awfully, covered the sky on all sides (8). Producing lightnings
+continually the clouds, adorned with the bow of Indra, enshrouded the
+welkin with darkness (9). Touching one another, all the clouds, some
+resembling the elephants, some the Makaras²³³ and some the serpents,
+began to move about in the sky (10). Coming in contact with one another
+the clouds, resembling a million of elephants, covered the sky and
+created a very unfair day (11). Showers of equal size, some resembling
+the hands of men, some the trunks of elephants and some bamboos the
+clouds began to pour down their watery contents (12). People took that
+dreadful weather as a deep, unpassable and limitless ocean stationed in
+the sky (13). Hearing the dreadful mutterings of the mountain like
+clouds, the birds could not come out of their nests and the animals
+began to fly away on all sides (14). By the excessive showers discharged
+by the dreadful clouds resembling the hour of the universal dissolution
+the bodies of men grew discoloured (15). The planets and stars
+disappearing from view, the sky, shorn of the rays of the sun and the
+moon was divested of its lustre (16). With the continual showers of rain
+let off by the clouds the ground there assumed the form of a tank (17).
+The peacocks began to cry aloud and the other birds began to emit their
+feeble notes. And the rivers, increasing their size, carried away the
+trees grown on their banks (18). As if remonstrated with by the
+mutterings of clouds and the clap of thunderbolts the grass and trees
+began to tremble there (19). Beside themselves with fear the milk-men
+began to speak amongst themselves: "We think the end of the world is at
+hand and the earth will be converted into one sheet of water (20)." The
+cows were greatly distressed by that dreadful downpour of rain. And they
+stood motionless and began to cry aloud (21). Their body was soaked,
+thighs and feet were motionless, hoops and mouth inert, the hairs stood
+erect and their belly and udders grew lean (22). Some died out of
+exhaustion, some took to their heels in fear and some with their calves
+sank under frost (23). Some cows, of emaciated belly on account of
+hunger and wearied thighs, lay to sleep embracing their calves (24). The
+cows and calves, thus assailed by rain, fell down trembling and with
+poor and distressing countenance looked towards Krishna and cried "Save
+us! Save us! (25)"
+
+Beholding this dreadful oppression over the cows on account of that
+inclemeny and the impending death of the Gopas the sweet-speeched
+Krishna was greatly worked up with anger. And meditating for a while he
+began to speak to himself (26–27):—"I knew before that this will come to
+pass. However to protect them against this downpour of rain I will
+uproot this best of mountains Govardhana containing forests and woods
+and convert it into an asylum for the kine (28). There is not a shadow
+of doubt that this mountain, a veritable planet on earth, when upheld by
+me, will be able to protect the kine and milk-men" (29).
+
+Thus meditating and displaying the strength of his arms Krishna, having
+truth for his prowess and resembling the best of mountains, uprooted
+that hill with his hands (30). Then that foremost of mountains,
+containing clouds, upheld by Krishna with his left hand, shone there
+like a house on account of its caves (41). When that mountain was
+uprooted the rocks, at its table-land, were shaken and the trees fell
+down (32). And although that mountain was immoveable still, on account
+of Krishna’s power, with its whirling summits, falling trees and
+trembling tops it went up to the sky (33). All the clouds, united, were
+pouring down their watery contents in its side. With their
+quick-coursing streams the rocks were loosened and the mountain too was
+continually agitated (34). The milk-men however could not perceive the
+raining clouds, the 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0083 | next_story_id: DKS_0085
+previous title: The Cowherds Worship Govardhana and Krishna Receives Offerings as the Hill
+next title: Krishna Lifts Govardhana Hill

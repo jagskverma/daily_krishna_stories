@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0475",
+ "title": "The Protection Arjuna Never Knew",
+ "subtitle": "Why Karna's dart never found its mark",
+ "story": "All through the war at Kurukshetra, Karna, the greatest archer of the Kaurava army, had carried one weapon that he never once hurled at Arjuna. It was a dart — given to him long ago by Indra, king of the gods, in exchange for the armour Karna had worn since birth and the ear-rings that belonged to it. The dart never missed. Whichever single warrior it was aimed at would fall. It was the one thing that could end the whole war in a single stroke, and from the day Indra gave it, it was meant for Arjuna.\n\nMany times across the battles, Arjuna had come within reach. Many times Karna's hand had closed on the dart. And every time — before he could hurl it — something went wrong.\n\nKrishna finally explained why, on a night when the two armies fought on in darkness. Speaking to Satyaki, his close friend and a warrior on the Pandava side, as the uproar of the night battle died down for a moment, he said, \"Whenever Karna reached for that dart and fixed his eyes on Arjuna, I clouded his mind. That is why the dart was never hurled at Arjuna.\"\n\nThat was the whole secret — not armour, not luck, not a vow. In the instant between drawing back the arm and letting the dart fly, Karna's thoughts would wander, the moment would slip past him, and the danger would pass before anyone on the Pandava side even knew it had come. Protection can work like that: invisible, unfelt, finished before it is ever noticed.\n\nThen Krishna said something that had no strategy in it at all. \"I do not hold my father, my mother, my brothers — not even my own life — so worthy of protection as Arjuna in battle.\"\n\nHis father. His mother. His brothers. His own life. Arjuna stood above them all.\n\nThe words made sense of something the whole army had seen that night and not understood. When Ghatotkacha fell — Bhima's son, killed in the darkness by that very dart, spent at last on someone other than Arjuna — the Pandava host had wept. Krishna had danced. He had seemed heartless, dancing while others mourned. But he had been looking at Arjuna, alive on the field; the dart that could have taken Arjuna's life was gone forever. \"Seeing Arjuna, like one returned from the dead, still standing on the field,\" Krishna told Satyaki, \"this joy seized me.\"\n\nThe armour, the ear-rings, the dart: one by one they had been stripped from Karna, and the last of the three was spent on the night Krishna had chosen. Arjuna never learned how close the war had come to ending in a single instant, because the danger had never been allowed to arrive.\n\nOn the dark field, Krishna sat in his chariot with Arjuna alive beside him. He had protected what he valued most in the world, by means no one could see, at a cost he had already counted. And somewhere out in the night, Karna still carried his bow — not yet knowing that the weapon he trusted was gone, and that he himself, who had given away the armour of his birth, was as mortal now as any man on the field.",
+ "reflection": "Krishna's protection of Arjuna is almost invisible: it works by clouding Karna's mind at the exact instant of the throw, so the danger dissolves before anyone knows it existed. His confession to Satyaki — Arjuna above father, mother, brothers, his own life — turns the night's strategy into a statement of love.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Satyaki",
+  "Arjuna",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "protection",
+  "foresight",
+  "devotion to Arjuna"
+ ],
+ "previous_story_id": "DKS_0474",
+ "next_story_id": "DKS_0476",
+ "next_story_tease": "Dawn would bring its own griefs, and Krishna would console the eldest Pandava.",
+ "hero_scene": "On the dark battlefield, Krishna sits in the chariot with Arjuna alive beside him, while in the distance the faint figure of Karna stands at his chariot, one hand resting on the spent quiver that no longer holds the dart.",
+ "visual_elements": [
+  "Krishna and Arjuna in the chariot, Arjuna alive and unharmed",
+  "Krishna speaking to Satyaki, one hand raised",
+  "Karna's distant figure on the battlefield, his hand on his empty quiver",
+  "the spent dart lying on the dark field",
+  "the scattered, fleeing troops and torchlight",
+  "the quiet moment of protection between two friends"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.181",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T20:10:00Z",
+  "source_event_id": "evt_0469",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,43 @@
+# STORY DKS_0535 — Vrikasura's Lethal Boon from Shiva
+
+## Index entry
+title: Vrikasura's Lethal Boon from Shiva
+summary: The asura Vrikasura wins from Shiva the boon that whoever's head he touches will die, then tries to test it on Shiva himself, who flees in terror to Vaikuntha.
+life_stage: other | story_arc: other
+characters: Vrikasura, Shiva, Narada, Vishnu
+locations: Kedara, Vaikuntha
+themes: boon, ingratitude, terror
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0522
+variant_notes: cf. bp10d_048 (Vishnu's rescue of Shiva).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 88 | verses 12-27 | confidence 5
+  excerpt: The asura Vrikasura, son of Shakuni, performs terrible penance and wins from the compassionate Shiva the boon that whomever he touches on the head shall die. To test it, he tries to place his hand on Shiva's own head, and the terrified Shiva, pursued by the asura, flees to the ends of the earth and heavens and finally takes refuge in Vaikuntha. (rendered from Sanskrit, verse 12-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.88 (12-27)
+12. atra codāharantīmam itihāsaṃ purātanam /
+13. vṛko nāmāsuraḥ putraḥ śakuneḥ pathi nāradam /
+14. sa āha devaṃ giriśam upādhāvāśu siddhyasi /
+15. daśāsya-bāṇayos tuṣṭaḥ stuvator vandinor iva /
+16. ity ādiṣṭas tam asura upādhāvat sva-gātrataḥ /
+17. devopalabdhim aprāpya nirvedāt saptame 'hani /
+18. tadā mahā-kāruṇiko sa dhūrjaṭir yathā vayaṃ cāgnir ivotthito 'nalāt /
+19. tam āha cāṅgālam alaṃ vṛṇīṣva me yathābhikāmaṃ vitarāmi te varam /
+20. devaṃ sa vavre pāpīyān varaṃ bhūta-bhayāvaham /
+21. tac chrutvā bhagavān rudro durmanā iva bhārata /
+22. sa tad-vara-parīkṣārthaṃ śambhor mūrdhni kilāsuraḥ /
+23. tenopasṛṣṭaḥ santrastaḥ parādhāvan sa-vepathuḥ /
+24. ajānantaḥ prati-vidhiṃ tūṣṇīm āsan sureśvarāḥ /
+25. yatra nārāyaṇaḥ sākṣān nyāsināṃ paramo gatiḥ /
+26. taṃ tathā vyasanaṃ dṛṣṭvā bhagavān vṛjinārdanaḥ /
+27. mekhalājina-daṇḍākṣais tejasāgnir iva jvalan /
+
+## Corpus chain
+previous_story_id: DKS_0534 | next_story_id: DKS_0536
+previous title: Krishna Entrusts the Women to Vasudeva
+next title: Vishnu Saves Shiva from Vrikasura

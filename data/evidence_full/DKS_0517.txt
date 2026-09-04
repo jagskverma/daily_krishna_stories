@@ -1,0 +1,46 @@
+# STORY DKS_0517 — Krishna Sends Uddhava to Badarikashrama
+
+## Index entry
+title: Krishna Sends Uddhava to Badarikashrama
+summary: Krishna commands Uddhava to leave for his hermitage at Badarikashrama and abide in the teaching he has received; the grief-stricken Uddhava circumambulates him, places his feet upon his own head, and departs bearing Krishna's sandals.
+life_stage: later_life | story_arc: uddhava_and_teachings
+characters: Krishna, Uddhava
+locations: Dwaraka, the road to Badarikashrama
+themes: farewell, the final teaching, separation, devotion
+festival_tags: 
+age_sensitivity: all | notes: Same departure instruction (VP 5.37, BP 11.29).
+
+## Canonical event
+event_id: evt_0005
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 29 | verses 40-47 | confidence 5
+  excerpt: Krishna said: 'Go, Uddhava, as I have commanded, to my hermitage called Badari; there, dwelling on what I have taught, you will come to me beyond the three paths.' Uddhava, unable to leave him, walked around him again and again, placed Krishna's feet on his head, and, bearing his sandals, at last went forth. (rendered from Sanskrit, verses 40-45)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 4 | verses 19-21 | confidence 5
+  excerpt: Uddhava said: 'So, having worshipped his feet and received the path of self-knowledge, I bowed to the Lord and came away, heart-torn with separation; I will go to the hermitage of Badari, where Narayana and Nara performed their long austerities.' (rendered from Sanskrit, verses 19-21)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 37 | verses  | confidence 4
+  excerpt: Do you go by a celestial route... to the holy place Badarikáśrama... and on that spot, sanctified by them, thou, by meditating on me, shalt obtain perfection through my favour.
+- Mahabharata (Ganguli translation) | book/canto 16 | chapter/section 3 | verses  | confidence 4
+  excerpt: Hearing that they had taken up their abode on the sea-coast, Uddhava, the wisest of men, who was, besides, well-versed in Yoga, proceeded there and took his leave (for departing). Krishna, with joined hands, saluted Uddhava, and seeing him bent on departing (from the world) and knowing that the destructions of the Vrishnis was at hand, did not feel any disposition to prevent him.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.29 (40-47)
+40. bhp_11.29.041/0 śrī-bhagavān uvāca
+41. īkṣayālakanandāyā vidhūtāśeṣa-kalmaṣaḥ /
+42. titikṣur dvandva-mātrāṇāṃ suśīlaḥ saṃyatendriyaḥ /
+43. matto 'nuśikṣitaṃ yat te viviktam anubhāvayan /
+44. bhp_11.29.045/0 śrī-śuka uvāca
+45. su-dustyaja-sneha-viyoga-kātaro na śaknuvaṃs taṃ parihātum āturaḥ /
+46. tatas tam antar hṛdi sanniveśya gato mahā-bhāgavato viśālām /
+47. ya etad ānanda-samudra-sambhṛtaṃ jñānāmṛtaṃ bhāgavatāya bhāṣitam /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.4 (19-21)
+19. sa evam ārādhita-pāda-tīrthād adhīta-tattvātma-vibodha-mārgaḥ /
+20. so 'haṃ tad-darśanāhlāda- viyogārti-yutaḥ prabho /
+21. yatra nārāyaṇo devo naraś ca bhagavān ṛṣiḥ /
+
+## Corpus chain
+previous_story_id: DKS_0516 | next_story_id: DKS_0518
+previous title: Pururava's Lament for Urvashi
+next title: Narada Prophesies the Ocean Will Swallow Dwarka || Before departing, Narada prophesies that Krishna, having fulfilled the gods' work, will let the ocean inundate Dwarka and Bhogavati, and will be united with Narayana.

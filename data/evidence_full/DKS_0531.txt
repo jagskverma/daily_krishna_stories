@@ -1,0 +1,39 @@
+# STORY DKS_0531 — Krishna's Last Message to Daruka
+
+## Index entry
+title: Krishna's Last Message to Daruka
+summary: Krishna consoles the hunter, granting him heaven, and when his charioteer Daruka weeps at his feet, sends him to Dwaraka with the final message: the Yadavas are destroyed, Balarama is gone, and the sea will swallow Dwaraka, so let the people follow Arjuna to Indraprastha.
+life_stage: later_life | story_arc: krishna_departure
+characters: Krishna, Daruka, Jara, Arjuna
+locations: the forest near Prabhasa
+themes: the final message, compassion, the coming flood
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0507
+variant_notes: cf. mb_d_019; follows the shooting (bpc1_027).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 30 | verses 38-49 | confidence 5
+  excerpt: Krishna said to Jara: 'Fear not; rise. This was my own doing. Go, with my leave, to the abode of the virtuous.' And to his charioteer he said: 'Go to Dwaraka and tell my kinsmen of the destruction and of Balarama's departure and of my state. The sea will soon flood the city I have left; let all of you, with Arjuna's help, go to Indraprastha.' (rendered from Sanskrit, verses 38-39, 45-47)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.30 (38-49)
+38. bhp_11.30.039/0 śrī-bhagavān uvāca
+39. ity ādiṣṭo bhagavatā kṛṣṇenecchā-śarīriṇā /
+40. dārukaḥ kṛṣṇa-padavīm anvicchann adhigamya tām /
+41. taṃ tatra tigma-dyubhir āyudhair vṛtaṃ $ hy aśvattha-mūle kṛta-ketanaṃ patim &amp;sneha-plutātmā nipapāta pādayo % rathād avaplutya sa-bāṣpa-locanaḥ
+42. apaśyatas tvac-caraṇāmbujaṃ prabho dṛṣṭiḥ praṇaṣṭā tamasi praviṣṭā /
+43. iti bruvati sūte vai ratho garuḍa-lāñchanaḥ /
+44. tam anvagacchan divyāni viṣṇu-praharaṇāni ca /
+45. gaccha dvāravatīṃ sūta jñātīnāṃ nidhanaṃ mithaḥ /
+46. dvārakāyāṃ ca na stheyaṃ bhavadbhiś ca sva-bandhubhiḥ /
+47. svaṃ svaṃ parigrahaṃ sarve ādāya pitarau ca naḥ /
+48. tvaṃ tu mad-dharmam āsthāya jñāna-niṣṭha upekṣakaḥ /
+49. ity uktas taṃ parikramya namaskṛtya punaḥ punaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0530 | next_story_id: DKS_0532
+previous title: The Hunter Jara Shoots Krishna's Foot
+next title: Krishna's Final Departure / Ascension

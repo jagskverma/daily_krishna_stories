@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0058",
+ "title": "Balarama Slays the Demon Pralamba",
+ "subtitle": null,
+ "story": "The riding game was a simple one, the kind children everywhere have always played: one boy hoisted another onto his shoulders, and they raced, and the one who lost carried the winner. Krishna and Balarama joined in with the rest. The verses say that when Sridama and the other strong boys of the herd stood on Balarama's side, even Krishna was defeated, and good-naturedly he took Sridama on his back. Laughter spread across the clearing as the boys staggered under one another's weight.\n\nPralamba had chosen to carry Balarama. To anyone watching, it looked like an unlucky draw, for Balarama was no light burden. But the demon had made the choice himself, and for his own reasons. All through the games he had studied the two brothers, casting his dreadful looks at them, and he had concluded that Krishna was beyond his reach, too dangerous to touch. The elder brother, he decided, was the one to take. So with Balarama on his shoulders, Pralamba began to move — not back toward the Bhandira tree where the others were gathering, but away, quickly and quietly, in the opposite direction.\n\nAt first Balarama thought little of it. But the demon's steps were swift, and the laughter of the other boys faded behind them. Then the shoulders beneath him began to swell. The figure he was riding grew — hugely, hideously — until it was no longer a cowherd boy at all but a great asura in his true form, tall as a tree, dressed in gold and blazing with ornaments, his eyes like chariot wheels and a crown upon his head, and the earth sank under the weight of his feet. He had thrown off his disguise and was carrying Balarama away through the sky like a storm-cloud carrying the moon. For a moment even Balarama, the plow-bearer, was startled.\n\nThen his mind steadied. \"Krishna,\" he called, \"I am being carried off by this great demon, who has thrown aside his illusion and shown his real form. How shall I overcome him?\"\n\nKrishna, watching from the clearing, answered him with a smile. He knew, he said, what Balarama truly was; the one being carried was not the weaker of the two. He told his brother to remember his own strength and not to fear.\n\nSo Balarama did. He let himself be carried a little longer, gathering himself, and then he raised his fist — a fist the verses compare to a thunderbolt — and brought it down once upon the demon's head. The skull shattered. Pralamba fell from the sky and lay dead upon the earth like a toppled mountain, blood running from his mouth, and the cowherd boys came running and saw him there, slain by Balarama's single blow.\n\nThe danger was over as suddenly as it had come, and the brothers turned back toward their herd and their friends, unhurried, as though nothing very remarkable had happened at all.",
+ "reflection": "Balarama's moment of fear matters. Even the strong are allowed a heartbeat of alarm before they remember what they are; what follows is not a struggle but a single, settled blow. The story keeps its power precisely because it does not pretend the danger was never real.",
+ "tradition_note": "The Harivamsha adds that the celestials gave Balarama the name Baladeva in honour of this feat, and the Vishnu Purana tells the death somewhat differently — Balarama laughing as he squeezes the demon with his knees and beats his head and face with his fists. This account follows the Bhagavata Purana, where the demon falls to a single blow.",
+ "content_note": "The demon's death is described briefly; the fall is restrained.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Balarama",
+  "Pralamba",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "victory",
+  "strength"
+ ],
+ "previous_story_id": "DKS_0057",
+ "next_story_id": "DKS_0059",
+ "next_story_tease": "But a fiercer danger than any demon was about to find the herd among the tall reeds.",
+ "hero_scene": "Balarama riding on the shoulders of the giant asura Pralamba high in the sky, the demon's true form blazing with gold ornaments and his crown alight, as Balarama raises a single fist to strike.",
+ "visual_elements": [
+  "Balarama on the demon's shoulders",
+  "Pralamba in giant asura form",
+  "gold ornaments and crown",
+  "sky and storm-cloud",
+  "Krishna watching from the clearing",
+  "cowherd boys",
+  "Bhandira tree",
+  "lightning",
+  "tension"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.18.19-29",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.64",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.9",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:15Z",
+  "source_event_id": "evt_0079"
+ },
+ "editorial_status": "unreviewed"
+}

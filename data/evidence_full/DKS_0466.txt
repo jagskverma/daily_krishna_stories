@@ -1,0 +1,100 @@
+# STORY DKS_0466 — Krishna Counsels Arjuna to Let Karna Pass
+
+## Index entry
+title: Krishna Counsels Arjuna to Let Karna Pass
+summary: Krishna holds Arjuna back from fighting Karna, warning that Karna still holds the infallible dart that Vasava (Indra) gave him.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Karna, Satyaki
+locations: Kurukshetra
+themes: war strategy, foresight, restraint
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0460
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 7 | chapter/section 146 | verses  | confidence 4
+  excerpt: Thus addressed by Savyasachin, the mighty-armed Kesava, endued with great energy, replied in these opportune words, 'The mighty-armed Satyaki is singly a match for Karna, O son of Pandu!... For the present, O Partha, it is not proper for thee to fight with Karna. The latter hath with him the blazing dart, like a fierce meteor, that Vasava gave him. O slayer of hostile heroes, he hath kept it for t
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 7.146 ()
+“Dhritarashtra said, ‘Tell me, O Sanjaya, what did my warriors do after
+the heroic ruler of the Sindhus had been slain, by Arjuna.’
+
+“Sanjaya said, ‘Beholding the ruler of the Sindhus, O sire, slain in
+battle by Partha, Kripa, the son of Saradwat, under the influence of
+wrath, covered the son of Pandu with a dense shower of arrows. Drona’s
+son also, on his car, rushed against Phalguna, the son of Pritha. Those
+two foremost of car-warriors began from their cars to shower from
+opposite directions upon the son of Pandu their keen arrows. That
+foremost of car-warriors, viz., the mighty-armed Arjuna, afflicted by
+those arrowy showers of (Kripa and Drona’s son) felt great pain. Without
+desiring, however, to slay his preceptor (Kripa) as also the son of (his
+other preceptor) Drona, Dhananjaya, the son of Kunti, began to act like a
+preceptor in arms. Baffling with his own weapons those of both
+Aswatthaman and Kripa, he sped at them, without desiring to slay them,
+shafts that coursed mildly. Those shafts, however (though mildly), shot
+by Jaya struck the two with great force, and in consequence of their
+number, caused great pain to Kripa and his nephew. Then Saradwat’s son, O
+king, thus afflicted with the arrows of Arjuna, lost all strength and
+swooned away on the terrace of his car. Understanding his master
+afflicted with shafts to be deprived of his senses, and believing him to
+be dead, the driver of Kripa’s car bore Kripa away from the fight. And
+after Kripa, the son of Saradwat, had thus been borne away from the
+battle, Aswatthaman also, from fear, fled away from the son of Pandu.
+Then the mighty bowman, Partha, beholding the son of Saradwat afflicted
+with shafts and in a swoon, began to indulge, on his car, in piteous
+lamentations. With a tearful face and in great dejection of heart, he
+uttered these words: “Beholding all this (in his mental vision), Vidura of
+great wisdom had, on the birth of the wretched Suyodhana, that
+exterminator of his race, said unto Dhritarashtra, ‘Let this wretch of
+his race be soon killed. Owing to him, a great calamity will overtake the
+foremost ones of Kuru’s race.’ Alas, these words of the truth-telling
+Vidura have come to be true. It is for him that I behold my preceptor
+today lying on a bed of arrows. Fie on the practices of Kshatriya! Fie on
+my might and prowess! Who else like me would fight with a Brahmana that
+is besides his preceptor? Kripa is the son of a Rishi; he is, again, my
+preceptor; he is also the dear friend of Drona. Alas, he lieth stretched
+on the terrace of his car, afflicted with my arrows. Though not wishing
+it, I have still been the means of crushing him with my shafts. Lying
+senseless on the terrace of his car, he paineth my heart exceedingly.
+Even though he afflicted me with shafts, I should still have only looked
+at that warrior of dazzling splendour (without striking him in return).
+Struck with numerous shafts of mine, he hath gone the way of all
+creatures. By that he hath pained me more than even the slaughter of my
+own son. Behold, O Krishna, to what plight he hath been reduced, thus
+lying miserably and in a senseless state on his own car. Those bulls
+among men that give desirable objects unto their preceptors after
+obtaining knowledge from them, attain to godhead. Those lowest of mortals
+on the other hand, who, after obtaining knowledge from their preceptors
+strike the latter, those wicked men, go to hell. Without doubt, this act
+that I have done will lead me to hell. I have deeply pierced my preceptor
+on his car with showers of arrows. While studying the science of arms at
+his feet, Kripa told me in those days, ‘Do not, O thou of Kuru’s race,
+ever strike thy preceptor.’ That command of my righteous and high-souled
+preceptor I have not obeyed, for I have struck, the very Kripa himself
+with my shafts. I bow to that worshipful son of Gotama, to that
+unretreating hero. Fie on me, O thou of Vrishni’s race, since I have
+struck even him.” While Savyasachin was thus lamenting for Kripa, the son
+of Radha, beholding the ruler of the Sindhu slain, rushed towards him.
+Seeing the son of Radha thus rushing towards Arjuna the two Panchala
+princes and Satyaki suddenly rushed towards him. The mighty car-warrior,
+Partha, beholding the son of Radha advancing, smilingly addressed the son
+of Devaki and said, “Yonder cometh the son of Adhiratha against the car
+of Satyaki. Without doubt, he is unable to bear the slaughter of
+Bhurisravas in battle. Urge my steeds, O Janardana, towards the spot
+whither Karna cometh. Let not Vrisha (Karna) cause the Satwata hero to
+follow in the wake of Bhurisravas.” Thus addressed by Savyasachin, the
+mighty-armed Kesava, endued with great energy, replied in these opportune
+words, “The mighty-armed Satyaki is singly a match for Karna, O son of
+Pandu! How much superior then will this bull among the Satwatas be when
+he is united with the two sons of Drupada! For the present, O Partha, it
+is not proper for thee to fight with Karna. The latter hath w
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0465 | next_story_id: DKS_0467
+previous title: Arjuna Restrains Krishna, Who Relents and Returns to the Chariot
+next title: Krishna Lends His Car to Satyaki

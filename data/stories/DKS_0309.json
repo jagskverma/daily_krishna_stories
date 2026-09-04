@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0309",
+ "title": "Prabhavati's Sword",
+ "subtitle": null,
+ "story": "Vajranabha, king of the Asuras, was set on conquering the three worlds, and he began with a warning he refused to hear. When the great sacrifice of the sage Kashyapa — father of gods and demons alike — came to an end, the demon king went to him to press the claim he had already made to Indra. Kashyapa answered as a father should. \"Indra is the eldest of you all and foremost in every accomplishment,\" he said. \"Strong by nature, grateful, devoted to the wise, king of the whole world and refuge of the good, he holds his sovereignty because he works for the well-being of all creatures. You cannot vanquish him; you will be killed. He who rouses a serpent meets his own destruction.\"\n\nVajranabha heard it all, saluted his father, and went home to gather his kinsmen, his warriors and his friends for war against heaven itself.\n\nBut ruin was already living inside his city. Some months before, the gates of Vajra had opened for a troupe of actors — and while they played, love had crossed the line between the two houses. Pradyumna, the son of Krishna, had secretly married Prabhavati, the daughter of Vajranabha himself, and his kinsmen Gada and Shamba had married Chandravati and Gunavati, daughters of the demon lord Sunabha. Now all three wives were with child, near their time. When the swans Indra and Krishna had sent into the city brought word that Vajranabha's death was at hand and that Pradyumna would deal it, the young heroes asked what would become of their wives and sent the swans back to the two gods with their fear. The gods answered: \"Have no fear. Your sons will be born beautiful and complete in every accomplishment; even in the womb they will master the Vedas, the sacred books of wisdom, and they will spring at once to youth, masters of every scripture.\"\n\nThe swans carried the answer back through the guarded air. In time Prabhavati bore a son, the image of his father and wise beyond his years; a month later Chandravati bore Chandraprabha, the very image of Gada; and Gunavati bore Gunavan, beautiful and no less gifted. The boys grew swiftly, mastering every shastra — every branch of knowledge and weapon-craft — and played along the high turrets of the palaces, where the demons keeping watch in the sky could see them. What they saw they carried straight to Vajranabha, still bent over his plans for the war against heaven. \"Arrest them,\" said the king, \"those who have trespassed into my house.\"\n\nAt his order soldiers closed every quarter of the city, and the cry went up on all sides: \"Arrest them — kill them.\" The young mothers began to weep with fear for their sons. Pradyumna steadied them. \"While we are alive and firm, you need not fear,\" he said. \"The demons will not be able to touch us.\" Then he turned to the bewildered Prabhavati and laid the whole choice before her. \"Your father, your uncles, your brothers and all your kinsmen are waiting with clubs in their hands. For your sake they deserve our respect and honor. But the time is dreadful, and the demon kings mean to kill us. If we bear it, we shall die; if we fight, we shall succeed. Consult with your two sisters and tell us what we should do — we are under your orders.\"\n\nPrabhavati knelt, weeping, her hands on her forehead. \"Descendant of Yadu, take up your arms and protect yourself. If you survive, you will see your wife and sons. Remember Rukmini, your mother, and Aniruddha, your son — and save yourself from this peril. A great sage, radiant as sun and fire, once gave me a boon: that I would lead a blameless life, never be a widow, and that my sons would live. I hold to the hope that his words will not fail.\"\n\nShe rose, rinsed her mouth, and took up a sword. Then she placed it in Pradyumna's hands. \"Acquire victory,\" she said. Bending low, Pradyumna bowed his head to the blade and accepted it with joy. And Chandravati, delighted, gave a sword to Gada; and Gunavati gave another to the mighty Shamba.\n\nSo the daughters of the demon house armed the sons of the Yadava house — and the family that love had joined in secret turned, as one, to face the armies of its own blood.",
+ "reflection": "Prabhavati's choice is the heart of the episode: with her father's soldiers at the door, she answers by placing a sword in her husband's hands and trusting a sage's blessing over her own father's command. The story honors the women who stand between two worlds — and who, at the moment of crisis, choose the family they themselves have made.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Prabhavati",
+  "Pradyumna",
+  "Chandravati",
+  "Gada",
+  "Gunavati",
+  "Shamba"
+ ],
+ "locations": [
+  "city Vajra"
+ ],
+ "themes": [
+  "wife's devotion",
+  "arming",
+  "blessing"
+ ],
+ "previous_story_id": "DKS_0308",
+ "next_story_id": "DKS_0310",
+ "next_story_tease": "Sword in hand, Pradyumna turned toward the army gathering in the city's streets.",
+ "hero_scene": "In the lamplit hall, Prabhavati kneels and places a sword in Pradyumna's hands, her head bowed low to the blade as she whispers \"Acquire victory\" — while behind them Chandravati and Gunavati arm Gada and Shamba, and the city's soldiers close in outside.",
+ "visual_elements": [
+  "Prabhavati kneeling, offering the sword to Pradyumna",
+  "Pradyumna bowing his head to the blade",
+  "Chandravati and Gunavati arming Gada and Shamba",
+  "the weeping young mothers and their newborn sons",
+  "the armed household facing the city's soldiers"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.243",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:53:20Z",
+  "source_event_id": "evt_0325",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

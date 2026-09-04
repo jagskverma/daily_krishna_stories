@@ -1,0 +1,44 @@
+# STORY DKS_0522 — The Yadavas Journey to Prabhasa
+
+## Index entry
+title: The Yadavas Journey to Prabhasa
+summary: Seeing the terrible omens rising in Dwaraka, Krishna tells the Yadava elders to leave at once for the holy tirtha of Prabhasa, and they cross the sea in boats and chariots to worship there.
+life_stage: later_life | story_arc: end_of_yadavas
+characters: Krishna, the Yadava elders
+locations: Dwaraka, Prabhasa
+themes: omen, fate, pilgrimage, departure
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0370
+variant_notes: Command (Bhagavata 11.30, Mahabharata 16.2) and execution (Bhagavata 3.3) of the same journey.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 30 | verses 4-10 | confidence 5
+  excerpt: Krishna said: 'These dreadful omens are the banners of death; not for a moment should we remain here. Let the women, children and elders go to Shankhoddhara, and let us go to Prabhasa where the Sarasvati flows westward.' The Yadava elders answered 'so be it' and crossed over to Prabhasa. (rendered from Sanskrit, verses 4-9)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 24-27 | confidence 5
+  excerpt: Uddhava said: 'Then, after some months, the Vrishnis, Bhojas and Andhakas went joyfully to Prabhasa, deluded by fate; there they bathed, honoured the gods and rishis, and gave the brahmins cows, gold, silver, beds, garments, chariots, elephants and lands.' (rendered from Sanskrit, verses 24-27)
+- Mahabharata (Ganguli translation) | book/canto 16 | chapter/section 2 | verses  | confidence 4
+  excerpt: Hrishikesa, summoning the Yadavas, said unto them these words: 'The fourteenth lunation has been made the fifteenth by Rahu once more... It has once more appeared, it seems, for our destruction.' ... Vasudeva, having said so, endeavoured to bring about those occurrences which would make Gandhari's words true. That chastiser of foes commanded the Vrishnis to make a pilgrimage to some sacred water.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.30 (4-10)
+4. bhp_11.30.005/0 śrī-bhagavān uvāca
+5. striyo bālāś ca vṛddhāś ca śaṅkhoddhāraṃ vrajantv itaḥ /
+6. tatrābhiṣicya śucaya upoṣya su-samāhitāḥ /
+7. brāhmaṇāṃs tu mahā-bhāgān kṛta-svastyayanā vayam /
+8. vidhir eṣa hy ariṣṭa-ghno maṅgalāyanam uttamam /
+9. iti sarve samākarṇya yadu-vṛddhā madhu-dviṣaḥ /
+10. tasmin bhagavatādiṣṭaṃ yadu-devena yādavāḥ /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (24-27)
+24. tataḥ katipayair māsair vṛṣṇi-bhojāndhakādayaḥ /
+25. tatra snātvā pit-n devān ṛṣīṃś caiva tad-ambhasā /
+26. hiraṇyaṃ rajataṃ śayyāṃ vāsāṃsy ajina-kambalān /
+27. annaṃ coru-rasaṃ tebhyo dattvā bhagavad-arpaṇam /
+
+## Corpus chain
+previous_story_id: DKS_0521 | next_story_id: DKS_0523
+previous title: Sesha Departs from Balarama
+next title: The Yadava Fratricide at Prabhasa

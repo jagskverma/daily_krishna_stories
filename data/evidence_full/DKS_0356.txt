@@ -1,0 +1,53 @@
+# STORY DKS_0356 — Balarama Seeks Samba's Release and Is Insulted || Balarama goes to Hastinapura as peacemaker, but the Kauravas, drunk on pride, mock the Yadavas and refuse to release Samba.
+
+## Index entry
+title: Balarama Seeks Samba's Release and Is Insulted || Balarama goes to Hastinapura as peacemaker, but the Kauravas, drunk on pride, mock the Yadavas and refuse to release Samba.
+summary: Balarama goes to Hastinapura as peacemaker, but the Kauravas, drunk on pride, mock the Yadavas and refuse to release Samba.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, Duryodhana, Uddhava, Dhritarashtra
+locations: Hastinapura
+themes: diplomacy, insult, pride
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0256
+variant_notes: Cross-ref: Balarama-drags-Hastinapura cluster (bp10c_072).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 68 | verses 13-38 | confidence 5
+  excerpt: Balarama, restraining the war-eager Vrishnis, went to Hastinapura and asked for Samba's release; the Kauravas mocked the Yadavas as cowherds who had risen above their station, and refused, insulting Balarama. (rendered from Sanskrit, verses 13-38)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.68 (13-38)
+13. sāntvayitvā tu tān rāmaḥ sannaddhān vṛṣṇi-puṅgavān /
+14. jagāma hāstina-puraṃ rathenāditya-varcasā /
+15. gatvā gajāhvayaṃ rāmo bāhyopavanam āsthitaḥ /
+16. so 'bhivandyāmbikā-putraṃ bhīṣmaṃ droṇaṃ ca bāhlikam /
+17. te 'ti-prītās tam ākarṇya prāptaṃ rāmaṃ suhṛt-tamam /
+18. taṃ saṅgamya yathā-nyāyaṃ gām arghyaṃ ca nyavedayan /
+19. bandhūn kuśalinaḥ śrutvā pṛṣṭvā śivam anāmayam /
+20. ugrasenaḥ kṣiteśeśo yad va ājñāpayat prabhuḥ /
+21. yad yūyaṃ bahavas tv ekaṃ jitvādharmeṇa dhārmikam /
+22. vīrya-śaurya-balonnaddham ātma-śakti-samaṃ vacaḥ /
+23. aho mahac citram idaṃ kāla-gatyā duratyayā /
+24. ete yaunena sambaddhāḥ saha-śayyāsanāśanāḥ /
+25. cāmara-vyajane śaṅkham ātapatraṃ ca pāṇḍuram /
+26. alaṃ yadūnāṃ naradeva-lāñchanair dātuḥ pratīpaiḥ phaṇinām ivāmṛtam /
+27. katham indro 'pi kurubhir bhīṣma-droṇārjunādibhiḥ /
+28. bhp_10.68.029/0 śrī-bādarāyaṇir uvāca
+29. dṛṣṭvā kurūnāṃ dauḥśīlyaṃ śrutvāvācyāni cācyutaḥ /
+30. nūnaṃ nānā-madonnaddhāḥ śāntiṃ necchanty asādhavaḥ /
+31. aho yadūn su-saṃrabdhān kṛṣṇaṃ ca kupitaṃ śanaiḥ /
+32. ta ime manda-matayaḥ kalahābhiratāḥ khalāḥ /
+33. nograsenaḥ kila vibhur bhoja-vṛṣṇy-andhakeśvaraḥ /
+34. sudharmākramyate yena pārijāto 'marāṅghripaḥ /
+35. yasya pāda-yugaṃ sākṣāc chrīr upāste 'khileśvarī /
+36. yasyāṅghri-paṅkaja-rajo 'khila-loka-pālair $ mauly-uttamair dhṛtam upāsita-tīrtha-tīrtham &amp;brahmā bhavo 'ham api yasya kalāḥ kalāyāḥ % śrīś codvahema ciram asya nṛpāsanaṃ kva
+37. bhuñjate kurubhir dattaṃ bhū-khaṇḍaṃ vṛṣṇayaḥ kila /
+38. aho aiśvarya-mattānāṃ mattānām iva māninām /
+
+## Corpus chain
+previous_story_id: DKS_0355 | next_story_id: DKS_0357
+previous title: Balarama Slays the Ape Dvivida
+next title: Balarama Drags Hastinapura with His Plough

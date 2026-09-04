@@ -1,0 +1,36 @@
+# STORY DKS_0017 — Nanda Brings the Infants Home to Gokula
+
+## Index entry
+title: Nanda Brings the Infants Home to Gokula
+summary: Set at liberty, Vasudeva bids Nanda take both Krishna and Balarama to Gokula to be reared as his own sons; Nanda and the cowherds return with their waggons.
+life_stage: gokul | story_arc: krishna_reaches_gokul
+characters: Vasudeva, Nanda, Krishna, Balarama
+locations: Mathura, Gokula
+themes: fosterage, return_home
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0194
+variant_notes: 
+
+## Sources and evidence excerpts
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 5 | verses  | confidence 4
+  excerpt: let this boy, the son whom Rohińí has borne me, accompany you, and be brought up by you as this your own son. Accordingly Nanda and the other cowherds... returned to their village.
+
+## Primary source passage(s)
+### Vishnu Purana (Wilson 1840) 5.5 ()
+Nanda returns with the infants Krishńa and Balaráma to Gokula. Pútaná killed by the former. Prayers of Nanda and Yaśodá.
+
+WHEN Vasudeva was set at liberty, he went to the waggon of Nanda, and found Nanda there rejoicing that a son was born to him. Vasudeva spake to him kindly, and congratulated him on having a son in his old age. "The yearly tribute," he added, "has been paid to the king, and men of property should not tarry near the court, when the business that brought them there has been transacted. Why do you delay, now that your affairs are settled? Up, Nanda, quickly, and set off to your own pastures; and let this boy, the son whom Rohińí has borne me, accompany you, and be brought up by you as this your own son." Accordingly Nanda and the other cowherds, their goods being placed in their waggons, and their taxes having been paid to the king, returned to their village.Some time after they were settled at Gokula, the female fiend Pútaná, the child-killer, came thither by night, and finding the little Krishńa asleep, took him up, and gave him her breast to suck. Now whatever child is suckled in the night by Pútaná instantly dies; but Krishńa, laying hold of the breast with both hands, sucked it with such violence, that he drained it of the life; and the hideous Pútaná, roaring aloud, and giving way in every joint, fell on the ground expiring. The inhabitants of Vraja awoke in alarm at the cries of the fiend, ran to the spot, and beheld Pútaná lying on the earth, and Krishńa in her arms. Yaśodá snatching up Krishńa, waved over him a cow-tail brush to guard him from harm, whilst Nanda placed dried cow-dung powdered upon his head; he gave him also an amulet, saying at the same time, "May Hari, the lord of all beings without reserve, protect you; he from the lotus of whose navel the world was developed, and on the tip of whose tusks the globe was upraised from the waters. May that Keśava, who assumed the form of a boar, protect thee. May that Keśava, who, as the man-lion, rent with his sharp nails the bosom of his foe, ever protect thee. May that Keśava, who, appearing first as the dwarf, suddenly traversed in all his might, with three paces, the three regions of the universe, constantly defend thee. May Govinda guard thy head; Keśava thy neck; Vishńu thy belly; Janárddana thy legs and feet; the eternal and irresistible Náráyańa thy face, thine arms, thy mind, and faculties of sense. May all ghosts, goblins, and spirits malignant and unfriendly, ever fly thee, appalled by the bow, the discus, mace, and sword of Vishńu, and the echo of his shell. May Vaikunt́ha guard thee in the cardinal points; and in the intermediate ones, Madhusúdana. May Rishikeśa defend thee in the sky, and Mahídhara upon earth." Having pronounced this prayer to avert all evil, Nanda put the child to sleep in his bed underneath the waggon. Beholding the vast carcass of Pútaná, the cowherds were filled with astonishment and terror.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0016 | next_story_id: DKS_0015
+previous title: Uddhava Recalls Krishna's Birth and Removal to Vraja
+next title: Kamsa Comes to Slay the Newborn Girl

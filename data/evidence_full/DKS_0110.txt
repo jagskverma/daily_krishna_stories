@@ -1,0 +1,58 @@
+# STORY DKS_0110 — Uddhava Delivers Krishna's Message and the Gopis Reply
+
+## Index entry
+title: Uddhava Delivers Krishna's Message and the Gopis Reply
+summary: Uddhava conveys Krishna's teaching of unbroken spiritual union; the gopis answer that they cannot forget Krishna.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Uddhava, Krishna, Gopis
+locations: Vrindavan
+themes: devotion, non-duality, longing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0159
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 47 | verses 21-51 | confidence 5
+  excerpt: Krishna's message: 'My separation from you is never complete, as ether, air, fire, water and earth pervade all beings... fix your mind wholly on me and you will soon attain me.' The gopis reply that every river, hill and forest reminds them of Krishna and they cannot forget him. (rendered from Sanskrit, verses 21-51)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.47 (21-51)
+21. bhp_10.47.022/0 śrī-śuka uvāca
+22. bhp_10.47.023/0 śrī-uddhava uvāca
+23. dāna-vrata-tapo-homa japa-svādhyāya-saṃyamaiḥ /
+24. bhagavaty uttamaḥ-śloke bhavatībhir anuttamā /
+25. diṣṭyā putrān patīn dehān sva-janān bhavanāni ca /
+26. sarvātma-bhāvo 'dhikṛto bhavatīnām adhokṣaje /
+27. śrūyatāṃ priya-sandeśo bhavatīnāṃ sukhāvahaḥ /
+28. bhp_10.47.029/0 śrī-bhagavān uvāca
+29. ātmany evātmanātmānaṃ sṛje hanmy anupālaye /
+30. ātmā jñāna-mayaḥ śuddho vyatirikto 'guṇānvayaḥ /
+31. yenendriyārthān dhyāyeta mṛṣā svapna-vad utthitaḥ /
+32. etad-antaḥ samāmnāyo yogaḥ sāṅkhyaṃ manīṣiṇām /
+33. yat tv ahaṃ bhavatīnāṃ vai dūre varte priyo dṛśām /
+34. yathā dūra-care preṣṭhe mana āviśya vartate /
+35. mayy āveśya manaḥ kṛtsnaṃ vimuktāśeṣa-vṛtti yat /
+36. yā mayā krīḍatā rātryāṃ vane 'smin vraja āsthitāḥ /
+37. bhp_10.47.038/0 śrī-śuka uvāca
+38. bhp_10.47.039/0 gopya ūcuḥ
+39. kaccid gadāgrajaḥ saumya karoti pura-yoṣitām /
+40. kathaṃ rati-viśeṣa-jñaḥ priyaś ca pura-yoṣitām /
+41. api smarati naḥ sādho govindaḥ prastute kvacit /
+42. tāḥ kiṃ niśāḥ smarati yāsu tadā priyābhir $ vṛndāvane kumuda-kunda-śaśāṅka-ramye &amp;reme kvaṇac-caraṇa-nūpura-rāsa-goṣṭhyām % asmābhir īḍita-manojña-kathaḥ kadācit
+43. apy eṣyatīha dāśārhas taptāḥ sva-kṛtayā śucā /
+44. kasmāt kṛṣṇa ihāyāti prāpta-rājyo hatāhitaḥ /
+45. kim asmābhir vanaukobhir anyābhir vā mahātmanaḥ /
+46. paraṃ saukhyaṃ hi nairāśyaṃ svairiṇy apy āha piṅgalā /
+47. ka utsaheta santyaktum uttamaḥśloka-saṃvidam /
+48. saric-chaila-vanoddeśā gāvo veṇu-ravā ime /
+49. punaḥ punaḥ smārayanti nanda-gopa-sutaṃ bata /
+50. gatyā lalitayodāra- hāsa-līlāvalokanaiḥ /
+51. he nātha he ramā-nātha vraja-nāthārti-nāśana /
+
+## Corpus chain
+previous_story_id: DKS_0109 | next_story_id: DKS_0111
+previous title: The Gopi's Lament to the Bee (Bhramara-gita)
+next title: Uddhava Praises the Gopis and Departs

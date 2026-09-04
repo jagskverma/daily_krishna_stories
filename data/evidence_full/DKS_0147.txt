@@ -1,0 +1,38 @@
+# STORY DKS_0147 — Krishna and Balarama Study Under Sandipani
+
+## Index entry
+title: Krishna and Balarama Study Under Sandipani
+summary: The two brothers are initiated and go to the teacher Sandipani, mastering all arts in sixty-four days.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Balarama, Sandipani
+locations: Avanti
+themes: education
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0152
+variant_notes: See 'sandipani_son' (VP 5.21 combines study + recovery).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 45 | verses 25-35 | confidence 5
+  excerpt: Vasudeva had Krishna and Balarama initiated by the brahmins, and the two, who know all knowledge, went as students to the teacher Sandipani in Avanti, and in sixty-four days mastered all the arts and sciences. (rendered from Sanskrit, verses 25-35)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.45 (25-35)
+25. atha śūra-suto rājan putrayoḥ samakārayat /
+26. tebhyo 'dād dakṣiṇā gāvo rukma-mālāḥ sv-alaṅkṛtāḥ /
+27. yāḥ kṛṣṇa-rāma-janmarkṣe mano-dattā mahā-matiḥ /
+28. tataś ca labdha-saṃskārau dvijatvaṃ prāpya su-vratau /
+29. prabhavau sarva-vidyānāṃ sarva-jñau jagad-īśvarau /
+30. atho guru-kule vāsam icchantāv upajagmatuḥ /
+31. yathopasādya tau dāntau gurau vṛttim aninditām /
+32. tayor dvija-varas tuṣṭaḥ śuddha-bhāvānuvṛttibhiḥ /
+33. sa-rahasyaṃ dhanur-vedaṃ dharmān nyāya-pathāṃs tathā /
+34. sarvaṃ nara-vara-śreṣṭhau sarva-vidyā-pravartakau /
+35. aho-rātraiś catuḥ-ṣaṣṭyā saṃyattau tāvatīḥ kalāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0146 | next_story_id: DKS_0148
+previous title: Krishna Restores the Yadava Kinsmen
+next title: Krishna Retrieves Sandipani's Son

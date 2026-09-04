@@ -1,0 +1,38 @@
+# STORY DKS_0266 — Krishna Marries the Sixteen Thousand Princesses
+
+## Index entry
+title: Krishna Marries the Sixteen Thousand Princesses
+summary: Krishna, expanding into as many forms, simultaneously weds the 16,100 princesses, giving each a palace and household.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Princesses
+locations: Dvaraka
+themes: marriage, omnipresence, grace
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0211
+variant_notes: Both: Krishna multiplies into 16,100 forms so each wife believes him hers alone.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 59 | verses 41-44 | confidence 5
+  excerpt: In a single moment Krishna, assuming as many forms, wed all the princesses, each in her own palace, living with them as a householder would, though none but the Lord could perform such a feat. (rendered from Sanskrit, verses 41-44)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 31 | verses  | confidence 4
+  excerpt: at an auspicious season he espoused all the maidens whom Naraka had carried off... Sixteen thousand and one hundred was the number of the maidens, and into so many different forms did the foe of Madhu multiply himself.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.59 (41-44)
+41. atho muhūrta ekasmin nānāgāreṣu tāḥ striyaḥ /
+42. gṛheṣu tāsām anapāyy atarka-kṛn nirasta-sāmyātiśayeṣv avasthitaḥ /
+43. itthaṃ ramā-patim avāpya patiṃ striyas tā $ brahmādayo 'pi na viduḥ padavīṃ yadīyām &amp;bhejur mudāviratam edhitayānurāga % hāsāvaloka-nava-saṅgama-jalpa-lajjāḥ
+44. pratyudgamāsana-varārhaṇa-pada-śauca- $ tāmbūla-viśramaṇa-vījana-gandha-mālyaiḥ &pratyudgamāsana-varārhaṇa-pada-śauca- $ tāmbūla-viśramaṇa-vījana-gandha-mālyaiḥ &keśa-prasāra-śayana-snapanopahāryaiḥ % dāsī-śatā api vibhor vidadhuḥ sma dāsyam
+
+### Vishnu Purana (Wilson 1840) 5.31 ()
+Krishńa, with Indra's consent, takes the Párijáta tree to Dwáraká; marries the princesses rescued from Naraka.
+
+KEŚAVA, being thus eulogized by the king of the gods, smiled, and spake gravely to him in reply. "Thou art Indra," said he, "the king of the celestials: we are but mortals, O lord of the world: thou must pardon therefore the offence that I have committed. Let this Párijáta tree be taken to its appropriate situation. I removed it in compliance with the words of Satyá. Receive back also this your thunderbolt, cast at me; for this is your proper weapon, the destroyer of your foes." Indra answered and said, "Thou beguilest us, O lord, in calling thyself a mortal; but we know thee to be the lord, although not endowed with subtlety of discernment. Thou art that thou art, engaged in the active preservation of the earth; thou extractest the thorns implanted in her bosom, destroyer of the demon race. Let this Párijáta tree be transferred to Dwáraká, and it shall remain upon earth as long as thou abidest in the world of mortals." Hari, having assented to the proposal of Indra, returned to earth, hymned by attendant sages, saints, and quiristers of heaven.When Krishńa arrived over Dwáraká, he blew his shell, and delighted all the inhabitants with the sound. Then alighting from Garud́a, he proceeded with Satyabhámá to her garden, and there planted the great Párijáta tree, the smell of which perfumed the earth for three furlongs, and an approach to which enabled every one to recollect the events of a prior existence; so that, on beholding their faces in that tree, all the Yádavas contemplated themselves in their (original) celestial forms. Then Krishńa took possession of the wealth, elephants, horses, and women, which he had recovered from Naraka, and which had been brought to Dwáraká by the servants of the demon; and at an auspicious season he espoused all the maidens whom Naraka had carried off from their friends; at one and the same moment he received the hands of all of them, according to the ritual, in separate mansions. Sixteen thousand and one hundred was the number of the maidens, and into so many different forms did the foe of Madhu multiply himself; so that every one of the damsels thought that he had wedded her in his single person; and the creator of the world, Hari, the assumer of universal shape, abode severally in the dwelling of each of these his wives.
+
+## Corpus chain
+previous_story_id: DKS_0265 | next_story_id: DKS_0267
+previous title: Krishna Uproots the Parijata Tree from Indra's Heaven
+next title: Krishna Shields Parikshit in Uttara's Womb

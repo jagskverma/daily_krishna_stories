@@ -1,0 +1,68 @@
+# STORY DKS_0441 — Krishna Reveals Karna's Birth and Offers Him the Kingdom
+
+## Index entry
+title: Krishna Reveals Karna's Birth and Offers Him the Kingdom
+summary: Krishna tells Karna he is Kunti's firstborn son and therefore a Pandava, and offers to have him installed as king of the whole earth with the Pandavas as his followers.
+life_stage: kurukshetra | story_arc: peace_mission
+characters: Krishna, Karna, Kunti, Yudhishthira
+locations: on the road, near Hastinapura
+themes: birth_secret, offer, identity
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0448
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 5 | chapter/section 140 | verses  | confidence 4
+  excerpt: Vasudeva said, 'O son of Radha, thou hast worshipped many Brahmanas fully conversant with the Vedas... It is said by those conversant with the scriptures that the two kinds of sons called Kanina and Sahoda... have him for their father who weddeth the maid. Thou, O Karna, hast been born in this way. Thou art, therefore, morally the son of Pandu. Come, be a king, according to the injunction of the s
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 5.140 ()
+“Dhritarashtra said, ‘O Sanjaya, in the midst of all the princes and the
+servants, the slayer of Madhu took Karna upon his car and went out (of
+our city). What did that slayer of hostile heroes, that one of
+immeasurable soul, say unto Radha’s son? What conciliatory words did
+Govinda speak unto the Suta’s son? Tell me, O Sanjaya, what those words
+were, mild or fierce, that Krishna, possessed of a voice deep as that of
+newly-risen clouds during the rainy season said unto Karna?’
+
+“Sanjaya said, ‘Listen to me, O Bharata, as I repeat in due order those
+words, both intimidating and mild, agreeable and consistent with virtue,
+true and beneficial, and pleasing to the heart, which the slayer of
+Madhu, of immeasurable soul, said unto Radha’s son.’
+
+“‘Vasudeva said, “O son of Radha, thou hast worshipped many Brahmanas
+fully conversant with the Vedas. With concentrated attention and mind
+free from envy thou hast also (on many an occasion) enquired of them
+after truth. Thou knowest, therefore, O Karna, what the eternal saying of
+the Vedas are. Thou art also well-versed in all the subtle conclusions of
+the scriptures. It is said by those conversant with the scriptures that
+the two kinds of sons called Kanina and Sahoda that are born of a maiden,
+have him for their father who weddeth the maid. Thou, O Karna, hast been
+born in this way. Thou art, therefore, morally the son of Pandu. Come, be
+a king, according to the injunction of the scriptures. On the side of thy
+father, thou hast the sons of Pritha, on the side of thy mother, thou
+hast the Vrishnis, (for thy kinsmen). O bull among men, know that thou
+hast these two for thy own. Proceeding this very day with me hence, O
+sire, let the Pandavas know thee as a son of Kunti born before
+Yudhishthira. The brothers, the five Pandavas, the son of Draupadi, and
+the invincible son of Subhadra, will all embrace thy feet. All the kings
+and princes, again, that have been assembled for the Pandava cause, and
+all the Andhakas and Vrishnis, will also embrace thy feet. Let queens and
+princesses bring golden and silver and earthen jars (full of water) and
+delicious herbs and all kinds of seeds and gems, and creepers, for thy
+installation. During the sixth period, Draupadi also will come to thee
+(as a wife). Let that best of Brahmanas, Dhaumya, of restrained soul,
+pour libations of clarified butter on the (sacred) fire, and let those
+Brahmanas regarding all the four Vedas as authoritative (and who are
+acting as priests unto the Pandavas), perform the ceremony of thy
+installation. Let the family priest of the Pandavas who is devoted to
+V
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0408 | next_story_id: DKS_0456
+previous title: Krishna Protects Draupadi with Endless Robes
+next title: Arjuna's Despair and Collapse

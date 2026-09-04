@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0322",
+ "title": "Garuda Quenches Bana's Fire",
+ "subtitle": null,
+ "story": "The gates of Dwaraka rang with conch shells and bugles, bards and panegyrists sang victory by the thousands, and men shouted blessings, as Krishna mounted the king of birds. With Balarama and Pradyumna behind him on Garuda's back, he rose into the sky, and his beauty, increased by the energy of Hari himself, became immense. Beneath them the city of Dwaraka grew small and vanished into the haze of the sea. They were flying to Sonitpura, to bring down Bana, and the flight itself was already a marvel.\n\nKrishna, desiring to kill Bana, had taken a form like a mountain, with eight arms: in his right hands the sword, the discus, the club and the arrows; in his left the leathern guard, the Shranga bow, the thunderbolt and the conch, and his head had multiplied into innumerable heads. Behind him rode Balarama, holding a thousand forms, white weapons in hand, shining like the rising moon above the summit of Kailasha; and Pradyumna rode with them, radiant as the eternal youth Sanatkumara. The three of them together were a sight to stop the heart of any army, and the heavens themselves watched them pass. Beneath them the great wings beat, shaking mountains, obstructing the very course of the wind, crossing in moments the sacred route of the Siddhas and Charanas. And then, suddenly, the golden change.\n\nThey were high above the world when Balarama noticed it. \"Krishna,\" he said, \"what wonder is this, that we have on a sudden been shorn of our effulgence? We all wear a golden hue. What is the cause? Have we come to the side of Mount Sumeru?\"\n\nKrishna answered his brother. \"Methinks Bana's city is near at hand,\" he said. \"To protect him, the fire stationed in his city is coming out blazing. O holder of the ploughshare, we have been possessed by the effulgence of the fire of oblation; that is what has changed our colour.\"\n\n\"If by approaching the city of Bana we lose the lustre of our bodies,\" said Balarama, \"do what you think proper afterwards.\"\n\nKrishna turned to Garuda, the son of Vinata, who carried them. \"Do what you think proper,\" he said. \"When you have found out a means, I shall do what I think proper.\"\n\nThe king of birds answered with a thousand mouths. He spread them wide, leaped up from the path of his flight, and went to the etherial Ganga, the river that runs through the sky. He drank profuse water, until his great breast was heavy with it, and came back to the blazing fire of Bana's city and showered the water down. The water fell in great silver sheets, and the blaze that had stolen the lustre of three warriors dimmed, choked, and went out at once.\n\nEven Garuda was astonished at what he had been asked to quench. \"Oh! How powerful is this fire,\" he said, \"like the fire at the end of a cycle. It disfigured the color of even the intelligent Krishna.\" Then he went on, beating his great wings, and the sound of them rolled across the plain like thunder.\n\nFar below, in the approaches of Bana's city, the fires that served the demon king looked up. They were the fire-gods, the followers of Rudra, and they saw three dreadful men of many forms riding the king of birds through the sky. \"Who are these,\" they asked one another, \"and why have they come here?\" They could not settle it among themselves, but they did not need to. The sound of Garuda's wings was already rolling toward them, and in Bana's city the chief of the fires had lifted his head. The riders were coming closer, and the road to Sonitpura lay open before them.",
+ "reflection": "The episode turns as much on trust as on power. Krishna names the problem, Balarama waits, and Garuda, the one among them who can fly, becomes the whole answer, drinking a river from the sky to do it. Greatness here is not hoarded but shared out: each does the one thing only he can do, and the fire dies.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Garuda",
+  "Krishna",
+  "Baladeva",
+  "Pradyumna"
+ ],
+ "locations": [
+  "approach to Sonitpura"
+ ],
+ "themes": [
+  "fire",
+  "elemental power",
+  "Garuda's might"
+ ],
+ "previous_story_id": "DKS_0321",
+ "next_story_id": "DKS_0323",
+ "next_story_tease": "But the fire-gods of Bana's city had marked the three riders, and their chief, Angira, was already taking up his mace.",
+ "hero_scene": "Garuda, a thousand mouths spread wide, pouring the water of the etherial Ganga in great silver sheets onto the blazing protective fire of Bana's city, while Krishna in his eight-armed mountain-like form, Balarama and Pradyumna ride his back.",
+ "visual_elements": [
+  "Garuda with a thousand open mouths",
+  "water of the etherial Ganga pouring onto the blaze",
+  "the protective city-fire of Bana",
+  "Krishna's eight-armed form with sword, discus, club, bow, thunderbolt and conch",
+  "Balarama with white weapons",
+  "Pradyumna riding behind them",
+  "the plain and Sonitpura below"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.264",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:20Z",
+  "source_event_id": "evt_0341"
+ },
+ "editorial_status": "unreviewed"
+}

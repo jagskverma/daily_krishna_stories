@@ -1,0 +1,62 @@
+# STORY DKS_0526 — Arjuna Brings News of the Yadava End
+
+## Index entry
+title: Arjuna Brings News of the Yadava End
+summary: Arjuna returns from Dwaraka broken and weeping and tells Yudhishthira how the Yadavas, deluded by a brahmin's curse and drunk on wine, slew one another with their fists, and how Krishna then departed the earth, after which the Kali age set in.
+life_stage: later_life | story_arc: krishna_departure
+characters: Krishna, Arjuna, Yudhishthira, Kunti, the Yadavas
+locations: Dwaraka, Hastinapura
+themes: destruction, separation, the Kali age, fate
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0504
+variant_notes: Arjuna's report of the Yadava end; cf. bpc1_030.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 15 | verses 1-35 | confidence 5
+  excerpt: Arjuna, his heart hollowed by grief, tells the king: 'In the city of our friends, the Yadavas, deluded by the curse of the brahmins, drinking the madira wine and beside themselves, slew one another with their bare fists; but four or five were left.' And Suta adds: when Mukunda abandoned this earth, in that very moment the Kali age, the cause of all evil for the unawakened, entered. (rendered from 
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.15 (1-35)
+1. śokena śuṣyadvadana hṛtsarojo hataprabhaḥ /
+2. kṛcchreṇa saṃstabhya śucaḥ pāṇināmṛjya netrayoḥ /
+3. sakhyaṃ maitrīṃ sauhṛdaṃ ca sārathyādiṣu saṃsmaran /
+4. bhp_01.15.005/0 arjuna uvāca
+5. yasya kṣaṇaviyogena loko hyapriyadarśanaḥ /
+6. yatsaṃśrayāddrupadageham upāgatānāṃ rājñāṃ svayaṃvaramukhe smaradurmadānām /
+7. yatsannidhāvaham u khāṇḍavam agnaye 'dām indraṃ ca sāmaragaṇaṃ tarasā vijitya /
+8. yattejasā nṛpaśiro'ṅghrim ahan makhārtham āryo 'nujastava gajāyutasattvavīryaḥ /
+9. patnyāstavādhimakhakḷptamahābhiṣeka ślāghiṣṭhacārukabaraṃ kitavaiḥ sabhāyām /
+10. yo no jugopa vana etya durantakṛcchrād durvāsaso 'riracitādayutāgrabhug yaḥ /
+11. yattejasātha bhagavān yudhi śūlapāṇir vismāpitaḥ sagirijo 'stram adān nijaṃ me /
+12. tatraiva me viharato bhujadaṇḍayugmaṃ gāṇḍīvalakṣaṇam arātivadhāya devāḥ /
+13. yadbāndhavaḥ kurubalābdhim anantapāram eko rathena tatare 'ham atīryasattvam /
+14. yo bhīṣmakarṇaguruśalyacamūṣvadabhra rājanyavaryarathamaṇḍalamaṇḍitāsu /
+15. yaddoḥṣu mā praṇihitaṃ gurubhīṣmakarṇa naptṛtrigartaśalyasaindhavabāhlikādyaiḥ /
+16. sautye vṛtaḥ kumatinātmada īśvaro me yatpādapadmam abhavāya bhajanti bhavyāḥ /
+17. narmāṇyudārarucirasmitaśobhitāni he pārtha he 'rjuna sakhe kurunandaneti /
+18. śayyāsanāṭanavikatthanabhojanādiṣv aikyādvayasya ṛtavān iti vipralabdhaḥ /
+19. so 'haṃ nṛpendra rahitaḥ puruṣottamena sakhyā priyeṇa suhṛdā hṛdayena śūnyaḥ /
+20. tadvai dhanusta iṣavaḥ sa ratho hayāste so 'haṃ rathī nṛpatayo yata ānamanti /
+21. rājaṃstvayānupṛṣṭānāṃ suhṛdāṃ naḥ suhṛtpure /
+22. vāruṇīṃ madirāṃ pītvā madonmathitacetasām /
+23. prāyeṇaitadbhagavata īśvarasya viceṣṭitam /
+24. jalaukasāṃ jale yadvan mahānto 'dantyaṇīyasaḥ /
+25. evaṃ baliṣṭhairyadubhirmahadbhiritarān vibhuḥ /
+26. deśakālārthayuktāni hṛttāpopaśamāni ca /
+27. bhp_01.15.028/0 sūta uvāca
+28. vāsudevāṅghryanudhyāna paribṛṃhitaraṃhasā /
+29. gītaṃ bhagavatā jñānaṃ yat tat saṅgrāmamūrdhani /
+30. viśoko brahmasampattyā sañchinnadvaitasaṃśayaḥ /
+31. niśamya bhagavanmārgaṃ saṃsthāṃ yadukulasya ca /
+32. pṛthāpyanuśrutya dhanañjayoditaṃ nāśaṃ yadūnāṃ bhagavadgatiṃ ca tām /
+33. yayāharadbhuvo bhāraṃ tāṃ tanuṃ vijahāvajaḥ /
+34. yathā matsyādirūpāṇi dhatte jahyādyathā naṭaḥ /
+35. yadā mukundo bhagavān imāṃ mahīṃ jahau svatanvā śravaṇīyasatkathaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0525 | next_story_id: DKS_0527
+previous title: Krishna Sends Daruka for Arjuna; Vabhru Is Slain
+next title: Vidura Meets the Grieving Uddhava

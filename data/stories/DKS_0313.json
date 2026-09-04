@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0313",
+ "title": "Four Kings for a Conquered Land",
+ "subtitle": "Indra and Krishna divide Vajranabha's realm among four young princes",
+ "story": "The war was over, and the harder question had come: what to do with the kingdom the war had won.\n\nThe kingdom had belonged to Vajranabha, a demon king, and Vajranabha was dead. Pradyumna, Krishna's son, had slain him with the discus that had come into his son's hand from Krishna himself; the demon's army was scattered and his allies fled, and Nikumbha had gone to ground in the far city of Shatpura. In the city of Vajra the streets had only just learned to be quiet again, and boys and old people were still shaking off the fear of the siege. Krishna and Indra, the king of the gods, walked among them and consoled them; only then, on the advice of Brihaspati, the wise priest of the gods, did the two turn to the question of the throne. A kingdom without a king does not stay that way for long.\n\nTheir answer had four parts. The realm would not be swallowed up by a neighbor, left masterless, or handed to one conqueror; it would be divided — and divided among the young.\n\nSo the conquered kingdom was cut into four shares. One went to Vijaya, the son of Indra's son Jayanta, a boy of the gods' own line who could already range through the upper air. One went to the son of Pradyumna; one to the son of Shamba, another son of Krishna; and the last to Chandraprabha, whose father Gada had fought beside Krishna in the war that had just ended. Four young princes, each given a realm he had not had to win, each carrying a great name on young shoulders.\n\nThe sharing went beyond the throne. The villages of the realm — numbered in the koti, the old word for ten million — were divided into four parts, along with a thousand prosperous branch cities like Vajra itself. Warm clothing, deerskins, cloths, and jewels were shared into four parts as well, and Indra and Krishna took pleasure in giving it all away. Nothing was kept back and nothing done in secret; the wealth of the dead king became the wealth of the living, shared openly and generously in full view of the people.\n\nThen came the crowning. Before the assembled Rishis, the wise sages, Indra and Krishna anointed the four young kings, pouring on their heads the water of the Ganga that issues from Vishnu's foot, while celestial bugles sounded over the city and the sages blessed each prince in turn. Vijaya had already mastered the art of moving through the airy regions, and the princes of Krishna's own line learned it from their mothers as well, so that in time they could travel the sky-road between the world of the gods and their own city of Dwaraka.\n\nWhen the ceremony was done, Indra turned to Jayanta, whose son was one of the four. \"O heroic victor of armies,\" he said, \"it falls to you to protect all these kings. One of them carries on my own line; the other three are born in the family of Krishna. By my command, no creature in all the worlds will be able to kill them. Give them elephants born of the great elephants that hold the four directions, horses from the race of Ucchaisrava, the king of horses, and chariots built by the gods' own architect.\" The four kings, newly anointed, bowed and took their places, each in his own share of the realm.\n\nAnd so the city of Vajra, which a season before had belonged to a demon king, passed into the keeping of four boys. Where one king had stood, four young kings now stood — and over them all hung a single promise, spoken by the king of the gods himself: no creature would ever be able to harm them.",
+ "reflection": "The division is not a dispersal: four shares are still one realm under a single protection, and the four young kings receive what they did not have to win. Indra's promise that no creature can kill them is the war, at last, saying it is finished — the children may grow.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Indra",
+  "Krishna",
+  "Vijaya",
+  "Jayanta",
+  "Chandraprabha"
+ ],
+ "locations": [
+  "city of Vajra"
+ ],
+ "themes": [
+  "division",
+  "anointing",
+  "succession"
+ ],
+ "previous_story_id": "DKS_0312",
+ "next_story_id": "DKS_0314",
+ "next_story_tease": "But one member of the great family had still to come home.",
+ "hero_scene": "Indra and Krishna anointing the four young kings before the assembled Rishis with water of the Ganga from Vishnu's feet, celestial bugles sounding over the city of Vajra.",
+ "visual_elements": [
+  "Indra and Krishna pouring sacred water over the young kings",
+  "the four princes at their anointing",
+  "the assembled Rishis looking on",
+  "celestial bugles in the sky",
+  "the conquered city of Vajra in the background",
+  "a mood of ceremony and new beginning"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.244",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:53Z",
+  "source_event_id": "evt_0329",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

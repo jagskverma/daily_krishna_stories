@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0042",
+ "title": "Narada Curses Nalakuvara and Manigriva",
+ "subtitle": null,
+ "story": "The two young men could not have chosen a worse moment to be proud.\n\nNalakuvara and Manigriva were the sons of Kubera, the lord of wealth, whose home was on the great mountain Kailasa, and they had never known a day of want. One day they drank deep of a heady wine the gods drink, called varuni, until their heads swam. In that state they wandered down to the river Ganga and into the water, where lotus beds grew thick along the bank, and there they played in the river with a company of celestial women, caring for nothing but their own pleasure.\n\nIt happened that Narada, the wandering sage, was passing that way. The women saw him first, and shame swept through them: unclothed as they were, and dreading what a curse from such a sage could do, they snatched their garments close and made themselves decent in an instant. But the two brothers, blinded by wine and by the pride of their riches, did not cover themselves, and did not bow. They stood where they were, as if their wealth made them untouchable.\n\nNarada looked at them, and what he felt was not anger but a kind of grief. He began to speak.\n\nLook at the bodies you are so proud of, he said. They will not last. However people may call them divine, in the end every body is worms and ashes, born of a father and a mother like any other, and gone like any other. It is only the pride of wealth that makes a man forget this — and for eyes that such pride has blinded, poverty is the best medicine, the sharpest salve. The poor man does not carry his head stiff with ego; his body is lean with hunger, and he knows he stands on no dignity. It is to the poor that the wise, who look on all beings with an equal eye, are drawn — and it is in such company that a man learns at last to want only the feet of Krishna.\n\nThen Narada turned his words upon the two before him. These two, he said, are the sons of the protector of the world, and yet they lie sunk in darkness. Therefore let them stand as trees — rooted, motionless, unable to move a single step. But he did not wish them lost forever, and the curse carried its own promise. It would not be for all time, he said. After a hundred years as the gods count years — longer than any human reckoning can hold — they would come into the very presence of Krishna, and at his touch their long stillness would end and they would be set free.\n\nSo it fell out as the sage said. The two proud young men became twin arjuna trees, and their curse was also their cure: a long rooted silence in which the pride that had blinded them could slowly drain away. And there they stood, season after season, waiting out the hundred years — until at last the years were full, and in a courtyard in the cowherd village of Gokula a child named Krishna came near them one quiet morning, and looked up. The touch that would end their stillness was at last within reach.",
+ "reflection": "Narada's curse is framed not as revenge but as treatment. Pride, in his telling, is a kind of blindness, and poverty its sharpest cure; the sentence of tree-ness is softened by the promise of Krishna's touch, so that the punishment is turned toward release before it is even carried out.",
+ "tradition_note": null,
+ "content_note": "The episode involves intoxication and references to unclothed figures; it is told with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Narada",
+  "Nalakuvara",
+  "Manigriva"
+ ],
+ "locations": [
+  "Kailasa",
+  "Ganga"
+ ],
+ "themes": [
+  "curse",
+  "pride",
+  "forgiveness"
+ ],
+ "previous_story_id": "DKS_0041",
+ "next_story_id": "DKS_0043",
+ "next_story_tease": null,
+ "hero_scene": "Narada standing on the bank of the Ganga, speaking his curse over two intoxicated young men in the water among lotus groves, while the celestial women draw their garments close in shame.",
+ "visual_elements": [
+  "Narada",
+  "Nalakuvara",
+  "Manigriva",
+  "the Ganga river",
+  "lotus groves",
+  "celestial women",
+  "two arjuna trees taking shape",
+  "Mount Kailasa",
+  "awe and shame"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.10.1-22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:54:24Z",
+  "source_event_id": "evt_0521",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

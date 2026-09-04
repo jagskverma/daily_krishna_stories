@@ -1,0 +1,108 @@
+# STORY DKS_0192 — Krishna Reveals Rukmini Is Lakshmi
+
+## Index entry
+title: Krishna Reveals Rukmini Is Lakshmi
+summary: In dialogue with Bhishmaka, Krishna declares that Rukmini is the goddess Lakshmi born to be his wife and should not be given away in a public swayamvara.
+life_stage: mathura | story_arc: rukmini_and_marriages
+characters: Krishna, Bhishmaka, Rukmini
+locations: Kundina
+themes: divine-identity, marriage-destiny, forgiveness
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0183
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 108 | verses  | confidence 4
+  excerpt: Krishna said: ... 'truly your daughter Rukshmini is not a woman; she is the very goddess Sree. For some object and at the words of Brahmā she is born (as a woman). She should not be given away in a Swayamvara where all the kings will be assembled.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.108 ()
+TITLE: CONVERSATION BETWEEN KRISHNA AND BHISHMAKA
+
+Bhishmaka said:—"O Lord of gods, out of his childish nature, my son
+wishes to give away his sister in a Swayamvara, but I do not like it
+(1). He is entirely childish; I do not like to give away (my daughter in
+this way). I wish that my daughter may select the only person whom she
+sees (2). O Lord, I propitiate thee, for this my son’s bad conduct. Be
+thou propitiated and forgive (him)" (3).
+
+Krishna said:—"While your son, as a boy, has worked up all these kings,
+I do not know how arrogant he will be when he will be advanced in years
+(4). He who, born in a great royal family in this earth, speaks a
+falsehood, even before one king, consumes with the fire of Yama’s
+tortures: his own-self and all the regions effulgent like the rays of
+the sun acquired by his asceticism (5–6). O Lord, I know this to be the
+religious duty of the kings, and even Brahmā, in the days of yore,
+pointed it out as the foremost duty of men (7). Under these
+circumstances, O king, how can your son give utterance to a lie before
+the kings in this assembly (8). Let it go, I doubt also very much your
+statement that you do not know anything of the great assemblage of the
+kings invited by your son (9). O king, you have offered hospitality and
+welcome duly to the kings, assembled like the sun and moon; cars,
+elephants, horses and the infantry have made a wild dance in your city,
+and still you do not know anything of your son’s work. How may this be
+(10-11)? I doubt very much, O king, how you were not able to know of the
+arrival of four-fold forces though it might not have been a source of
+anxiety (12). O king, perhaps thinking that my arrival was not conducive
+to your well-being, you did not offer hospitality to such an unworthy
+person (13). O you of large arms, why should you not give away your
+daughter (in Swayamvara) for the very sin of my arrival here. Leaving me
+aside, do you confer your daughter on a good husband (14). Manu and
+other leading Law-givers have ordained that he who puts obstacles in the
+way of a maiden, wastes himself in hell (15). O king, for this, I did
+not enter into the assembly-hall and accept hospitality (16). O king,
+when possessed greatly by bashfulness, I prayed for giving rest to my
+followers in the city of Vidarbha, Kaishika, ever fond of guests,
+offered us proper hospitality. I too, in the company of Garuda, am
+living here as in the city of gods" (17–18).
+
+Vaishampāyana said:—When Krishna, effulgent like burning fire, showered
+these thunder-like words, king Bhishmaka, sprinkling him with sweet
+words, consoled him (19).
+
+Bhishmaka said:—"Be thou propitiated, O Lord of the celestial region. Do
+thou forgive me, O Lord of the land of mortals. I am possessed by the
+darkness of ignorance; do thou give me eyes of wisdom (20). We are men
+of perverse understanding, gifted with fleshy eyes. Therefore whatever
+we do without judging is not accomplished (21). However we have obtained
+thee now who art the God of gods. May my vision grow wise and works be
+accomplished (22). The wise, like great commanders, render fruitful
+unaccomplished works by the discernment of moral laws (23). Having
+obtained thy shelter, I do not entertain any fear. Listen to what I wish
+to accomplish now (24). O king of gods, I do not wish to allow my
+daughter to hold her Swayamvara lest she may choose another. Be thou
+propitiated with me, O Lord of celestials. Do not be angry with me"
+(25).
+
+Krishna said:—"O king of great intelligence, O sinless one, I do not
+perceive the utility of your sayings. Who can adjust whether you will
+give away your daughter or not (26). O king, the goddess-like form of
+Rukshmini has brought me to this place. But I should not say that you
+should give her to me and not to anybody else (27). When in the days of
+yore the gods assembled on the summit of the mount Sumeru for
+incarnating their portions they said to her: ’O thou of spacious hip, do
+thou with thy husband go to the world of men. And having been born in
+the house of Bhishmaka in the city of Kundina, be thou united with
+Keshava (28–29)’. I tell you this plainly, O king; do what ever you
+think proper after due consideration (30). O king, truly your daughter
+Rukshmini is not a woman; she is the very goddess Sree. For some object
+and at the words of Brahmā she is born (as a woman) (31). She should not
+be given away in a Swayamvara where all the kings will be assembled. She
+must remain alone, and inviting one bride groom, you should confer her
+on him. It will be thus performing a Kshatriya’s duties (32). O king,
+you cannot give away Lakshmi in a Swayamvara. Selecting a good
+bridegroom, you should give her away according to proper religious rites
+(33). In order to put impediments in Swayamvara Vinata’s son has been
+despatched by the king of gods and has come to the city of Kundina (34).
+I too have come here to witness this Swayamvara festivity of the kings
+and your daughter, the beautiful Kamala without lotuses (35). Your
+saying 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0191 | next_story_id: DKS_0193
+previous title: Krishna Summons Garuda at Bhishmaka's House
+next title: Bhishmaka Beholds Krishna's Cosmic Form

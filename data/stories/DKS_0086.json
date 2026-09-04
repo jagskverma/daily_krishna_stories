@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0086",
+ "title": "Seven Days Beneath Govardhana",
+ "subtitle": null,
+ "story": "The storm did not pass. Indra, the king of the gods, had sent it in anger because the cowherds of Vrindavan had turned away from his worship, and the storm was meant to destroy them. But the cowherds had a shelter that no rain could reach: Krishna, a boy of their own village, had lifted the great hill of Govardhana on one hand and held it over them like an umbrella. Beneath the hill, out of the torrent, the villagers and their cattle had crowded together, and there they stayed.\n\nYet the refuge was not a comfortable one, and the days did not pass easily. Hunger and thirst pressed on them. Their bodies ached. The soft ground, the warm houses, the easy comfort of their own cow-pens — all of it was gone, and in its place there was only the dim space under the hill and the sound of the storm beyond it.\n\nKrishna would not let fear in. \"There is nothing to fear here,\" he told them. \"The hill will not fall on you while I hold it.\" And the villagers believed him. They set aside their hunger, their thirst, their aches, and their longing for home, and they stayed beneath the mountain with their cattle and their families around them.\n\nDay followed day, and Krishna did not move from his place. Seven days he stood there, holding the hill, and for seven days the people of Vrindavan lived in that shelter and found that it held. There was little to do beneath the mountain but wait and trust, and that, in the end, was what they learned to do. The hill above them never slipped. The arm beneath it never tired.\n\nThen, at last, something changed. Indra had been watching. As the seventh day turned, the king of the gods looked down and saw what had come of his fury — that the cowherds he meant to destroy were sheltered and dry beneath a mountain lifted by a cowherd boy who had not stirred through all of it. Astonishment overtook his anger. He called back his clouds, and the storm began to break.\n\nThe rain slackened and stopped. The wind died away. The clouds thinned and drew apart, and the sun came out again over a washed and shining Vrindavan. Word went round the shelter that the danger was over, and the cowherds were told to come out and leave their fear behind — all of them, with their women, their wealth, and their children. The hollow beneath the hill, which had sheltered them from what had looked like the end of the world, opened at last onto morning.\n\nThe cowherds looked at one another in the clear light. They had not been destroyed. The mountain had held, and the boy beneath it had not failed them.",
+ "reflection": "The seven days beneath the hill are a test of endurance as much as a rescue. The cowherds surrender comfort, hunger, and fear at Krishna's word, and in exchange they learn that the refuge he offers can be trusted to hold.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Krishna",
+  "cowherds",
+  "cattle"
+ ],
+ "locations": [
+  "Govardhana"
+ ],
+ "themes": [
+  "refuge",
+  "endurance"
+ ],
+ "previous_story_id": "DKS_0085",
+ "next_story_id": "DKS_0087",
+ "next_story_tease": "The storm had passed, and now the hill could be set down at last.",
+ "hero_scene": "Krishna standing motionless for seven days holding Govardhana aloft on one raised hand, while cowherds, cattle, and families huddle in the dim, dry hollow beneath the mountain as rain lashes the world outside.",
+ "visual_elements": [
+  "Krishna holding Govardhana on one hand",
+  "the hollow beneath the hill",
+  "cowherds, women, and children sheltering",
+  "cattle crowded together",
+  "rain lashing the landscape outside",
+  "a mood of endurance and quiet trust"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.25.20-25",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:28Z",
+  "source_event_id": "evt_0098",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

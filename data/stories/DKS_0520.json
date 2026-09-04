@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0520",
+ "title": "Krishna Weighs His Own Clan",
+ "subtitle": "Uddhava recalls how Krishna foresaw that only the Yadavas' own quarrel could destroy them",
+ "story": "Uddhava, Krishna’s dearest friend, would remember the words for the rest of his life — the way Krishna had spoken of his own people as if they were already gone.\n\nIt was after the great war, when the earth was still recovering from the weight that had been lifted from her. Drona and Bhishma were dead. Arjuna and Bhima — who with them had been the root of the earth’s unbearable burden — had done their work at Kurukshetra, and the load was gone. The kings who had made the world groan had fallen, one after another, and the great field had drunk the blood of the armies. But Krishna, counting what remained, saw what no one else saw: the Yadavas themselves had become the burden.\n\nThey were not weak, and they were not few. They were the most terrible war-host left upon the earth — the warriors of his own house, mighty, proud and unopposed, able to field eighteen akshauhinis, eighteen full armies of chariots, elephants, horsemen and foot. No enemy could destroy them. No king in the world could raise a hand against them. And that, said Krishna, was exactly the trouble. An unbearable weight does not need another hand to lift it; it only needs to crack from within. No war could lighten the earth of the Yadavas, because no war could be fought against them and won.\n\n“When they quarrel among themselves,” he said, “eyes red with wine, there is no other way to destroy them.” He paused, and Uddhava heard the rest before it was spoken. “When I act, they will vanish of themselves.”\n\nThe words were a verdict and a plan at once. There would be no war against the Yadavas, no army sent against the city — only the pretext. And it came soon enough, dressed as holy anger: the sages cursed Samba, and the iron mace was born. Uddhava remembered how the story of that curse spread through the streets of Dwaraka, and how the people shook their heads over the arrogance of the young men who had mocked the brahmins. No one in the city heard a sentence of doom in it. They heard an offence and its punishment, as people do. Only Krishna heard the door opening — and he had known all along what stood behind it.\n\nUnder the cover of a brahmin’s curse, the Yadava race would destroy itself — with its own hands and wine in its eyes, exactly as he had foreseen while he sat in Dwaraka and weighed his own clan and found them too heavy for the earth to keep. The word he had used for them that day, unbearable, was the word the earth itself would have used; and the irony was that only the clan could lighten itself.\n\nRecalling it, Uddhava could never decide which was the stranger thing: the foresight, or the calm with which it was carried. Krishna had loved these people. He had built them a city, married among them, laughed with them in their courtyards — and he had known, all along, that the only way to lighten the earth of them was to let them do it themselves.\n\nWhen at last the Yadavas rode out to Prabhasa, festive and unafraid, Uddhava heard again the quiet voice in Dwaraka and understood that the end had been decided long before the journey began.",
+ "reflection": "What Uddhava recalls is not cruelty but clarity: Krishna names his own kin as the earth's last unbearable weight and lets them become the agents of their own ending. The ache of the memory is that he foresees precisely because he loves them — he will not let another hand carry out what his own people must do.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "end_of_yadavas",
+ "characters": [
+  "Krishna",
+  "Uddhava",
+  "the Yadavas"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "fate",
+  "divine design",
+  "the removal of the burden"
+ ],
+ "previous_story_id": "DKS_0519",
+ "next_story_id": "DKS_0521",
+ "next_story_tease": "The foreseen end drew near as the Yadavas gathered at Prabhasa, and the sea came to meet its own.",
+ "hero_scene": "In the lamplight of Dwaraka, Krishna sits speaking quietly to Uddhava, one hand resting on his knee, while through the window the golden roofs of the city shine — a city of people he has just weighed and found too heavy for the earth.",
+ "visual_elements": [
+  "Krishna seated in lamplight, speaking quietly to Uddhava",
+  "the golden roofs of Dwaraka shining through the window",
+  "Uddhava listening, his face troubled",
+  "the distant memory of Kurukshetra and its fallen warriors",
+  "the iron mace and the sages' curse as the coming pretext",
+  "the Yadava host riding out toward Prabhasa, festive and unafraid"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.3.13-14",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:18Z",
+  "source_event_id": "evt_0285",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0494",
+ "title": "Nanda's Farewell",
+ "subtitle": null,
+ "story": "The pilgrimage had wound down, camp by camp, and the field of Samanta-panchaka was emptying the way it had filled — in dust and shouting and the slow creak of carts. Only one farewell remained, and it had been going on for three months. Nanda had stayed all that time, honored with great worship by the Yadavas, feasts and gifts and the attendance of princes. It was, everyone agreed, a farewell without end. Some of the cowherds joked of settling at the tirtha for good, but Nanda knew the road home was waiting. And still the leaving had to come.\n\nOn the last day, Vasudeva stood before his old friend, and the words he had carried inside him for three months came out wet. The snare called affection, he said, is hard to cast off — harder still when it is weighted with guilt. He told Nanda what he had never told anyone: that blinded by royal splendor, by crowns and palaces and the endless business of a kingdom, he had neglected his oldest friend, the man in whose house his sons had grown up, safe and loved, through all the years he himself could not be there. In the years when it had been in his power, brother, he said, he had done nothing for him — nothing at all, while Nanda had done everything for his sons. He wept as he spoke, and Nanda saw that these were tears the old friend had been saving for years. For Vasudeva, the great ocean of his longing had at last been crossed, and he was not sure he deserved to have crossed it.\n\n\"May royal splendor never befall a man who desires his own good,\" he said, \"for it steals the eyes.\" And yet, he said, wiping his face, the eyes had been given back to him now.\n\nNanda answered him the way he had answered everything in his long life — not with a speech, but with an embrace. He had done what a friend does: he had raised the boys, kept the friendship, and asked for nothing. That, Vasudeva understood, was the gift that could not be repaid, only honored.\n\nThen came the farewell itself. Nanda's carts were loaded with riches — gifts from Vasudeva and from Ugrasena, from Krishna and Uddhava and Balarama — so that the caravan that had arrived in the plain cloth of the countryside left carrying the wealth of a kingdom. The cowherds and the cowherdesses of Vraja made ready; the oxen were yoked; children were lifted into the carts; the dust began to rise. Every Yadava family pressed something on the departing guests — cloth, ornaments, cattle — until the carts could hold no more, and Krishna himself walked beside Nanda's cart as far as the edge of the camp.\n\nNanda climbed up onto his cart, and his heart, better than any gold, stayed behind — fixed on Govinda's lotus feet, which he carried with him always. The caravan moved off down the road to Mathura, and Krishna and Balarama stood watching until the carts were small against the sky, until the dust settled back into the road.\n\nWhen the kinsmen had gone, the Vrishnis, whose deity is Krishna, turned homeward themselves. But for a long while no one spoke. The eclipse had come and gone; the pilgrims had bathed; the gifts had been given. What the field of Samanta-panchaka had truly given them could not be bathed away or loaded onto carts. It stayed in the memory of embraces given and received, and in the sight of an old friend's back moving down the road to Mathura, carrying home a heart that would never leave.",
+ "reflection": "Vasudeva's lament is a confession that royal splendor can blind a man to his oldest debts, and Nanda's silent reply — the embrace, the refusal to count the cost — is the friendship itself. The riches on the carts matter less than the heart Nanda carried home, fixed on Govinda's lotus feet.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Vasudeva",
+  "Nanda",
+  "Krishna",
+  "Balarama",
+  "Uddhava"
+ ],
+ "locations": [
+  "Samanta-panchaka"
+ ],
+ "themes": [
+  "friendship",
+  "gratitude",
+  "parting"
+ ],
+ "previous_story_id": "DKS_0493",
+ "next_story_id": "DKS_0495",
+ "next_story_tease": "Back in Dwaraka, the city's sixteen thousand queens were waiting for their lord to come home.",
+ "hero_scene": "Nanda's laden caravan rolls away down the road to Mathura, his face turned back toward Krishna and Balarama, who stand watching until the carts vanish in the settling dust.",
+ "visual_elements": [
+  "Vasudeva weeping before Nanda",
+  "Nanda's carts laden with gifts from the Yadavas",
+  "the cowherds and cowherdesses of Vraja making ready",
+  "the caravan moving off toward Mathura",
+  "Krishna and Balarama watching from the field",
+  "the dust settling back into the empty road"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.84.58-69",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:49Z",
+  "source_event_id": "evt_0495"
+ },
+ "editorial_status": "unreviewed"
+}

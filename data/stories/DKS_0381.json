@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0381",
+ "title": "Virtuous Men Never Suffer",
+ "subtitle": null,
+ "story": "The ten thousand disciples of the sage Durvasa went down to the stream to bathe, and when they came out of the water they were full — not of the feast they had been promised, but full in a way none of them could explain, their stomachs heavy to the throat. The sage looked at his followers, and his followers looked at one another. Durvasa understood first. A feast had been promised them and they could not touch it; what king would forgive such an insult to his hospitality? The wrath of Yudhishthira, they feared, would fall on them like fire. And so, without a word of farewell, the whole company slipped away from the Kamyaka forest as quietly as it had come, fleeing the anger they believed they had earned.\n\nThe Pandavas were left standing in the sudden quiet. A few hours earlier the forest had been loud with the arrival of ten thousand guests, and Yudhishthira had gone forward with joined palms to welcome them, promising a meal for every man. It was a promise no host should ever have made: the sun-given vessel from which the brothers ate each day was empty, for Draupadi had already taken her food, and not a grain remained for a feast.\n\nDraupadi, alone with her worry, had done the only thing she could. She had called on Krishna — their cousin, far away in Dwaraka — and reminded him of the day in the Kuru court when Dussasana had dragged her by the hair and the whole hall had sat silent. \"As you protected me then,\" she had prayed, \"extricate me now from this difficulty.\" And Krishna had come. He had looked into the empty vessel and found what a desperate eye could not: a single grain of rice and a leaf of vegetable clinging to its rim. That grain he had eaten. And in that same hour the sages bathing in the stream felt their hunger die in their stomachs.\n\nNow Krishna stood before the brothers, and they did not know how to thank him. He spoke first, and his words were simple. Knowing their danger from that wrathful sage, he said, he had been implored by Draupadi to come, and therefore he had come speedily. There was no need for fear now; Durvasa was gone. And then he gave them the deeper assurance, the one they would carry long after the forest grew quiet again: \"Virtuous men never suffer.\"\n\nIt was a strange comfort to hold, because their lives had been full of suffering — the poisoned feast, the lost kingdom, the exile, their wife dragged before an assembly of enemies who had shamed her. Yet the words came from someone who had crossed the whole distance from Dwaraka in the time it takes to say a name, and standing in his presence the brothers found that they could believe them.\n\nHe asked only one thing of them: their permission to return home. The Pandavas gave it freely and watched him go.\n\nWhen he had disappeared among the trees, the forest seemed to breathe again. The sages were gone, the feast that could not have been made had somehow been served, and the danger that had filled the afternoon had lifted like mist off the river. Yudhishthira looked at the empty vessel, at the stream where the ascetics had bathed, at the sky gone soft with evening — and understood, at last, that they had never been as alone as they had felt.",
+ "reflection": "Krishna's reassurance is striking for what it does not say: no rebuke of the sage, no drama about the miracle, only the quiet certainty that virtuous men never suffer. The relief comes not from Durvasa's retreat but from the discovery of who had been standing behind them all along.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Pandavas",
+  "Draupadi",
+  "Durvasa"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "protection",
+  "reassurance",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0380",
+ "next_story_id": "DKS_0382",
+ "next_story_tease": "Back in Mathura, Krishna would soon send a trusted friend to Hastinapura to learn the truth of the Pandavas' suffering.",
+ "hero_scene": "Krishna appearing suddenly before the anxious Pandavas in the Kamyaka forest, the brothers rising to greet him in wonder, as the last of Durvasa's ten thousand disciples vanishes toward the stream.",
+ "visual_elements": [
+  "the sudden, quiet retreat of Durvasa's disciples from the stream",
+  "Draupadi standing over the empty sun-given vessel",
+  "Krishna appearing among the trees before the Pandavas",
+  "the Pandavas listening, their anxiety lifting",
+  "Yudhishthira watching Krishna disappear into the forest"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.261",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:33Z",
+  "source_event_id": "evt_0410",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

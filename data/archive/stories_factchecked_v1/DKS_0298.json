@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0298",
+ "title": "Beyond the Darkness",
+ "subtitle": "Krishna and Arjuna journey to recover the Brahmana's sons.",
+ "story": "The brahmana came to Dwaraka in mourning, and the thing he asked for was not gold, nor land, nor revenge against an enemy. He asked for his sons.\n\nHis children had been lost to him one after another, and each loss had cut deeper than the last. Arjuna, the great archer, had promised to bring the children back, and he had failed. He had searched the earth for the boys, and even journeyed to the city of Indra, and found nothing. He had gone to every realm where the lost might be found, and each time he returned with empty hands and a heavier heart. Now the brahmana had come again, and Arjuna, who could not bear to meet his eyes, resolved to enter the fire and end his life rather than fail him once more.\n\nKrishna stopped him at the edge of the fire. Do not despair, he told him. I will show you where the children are. Then he mounted his divine chariot, with Arjuna beside him, and drove westward.\n\nThe chariot crossed the seven continents and the seven seas, and passed the seven mountains, each realm falling away behind them like a dream. The chariot moved as if it were thought itself, and the lands that had taken Arjuna so long to cross now slipped past like colors in water. Realm after realm slid past — islands ringed by salt water and sweet, rivers and peaks that men only name in old songs. On and on they went, past the last of the lands that men know, until they came to the mountain called Lokaloka, the very edge of the world. Beyond it lay a darkness so thick and terrible that no light of sun or moon could enter it — a blackness that seemed to swallow sound itself. Arjuna had seen many terrors in his life, but none like this — a darkness that pressed on the eyes and the mind alike, until it seemed no light had ever existed anywhere.\n\nInto that darkness Krishna sent his blazing discus, Sudarshana, and the discus tore a path of light through the gloom, opening a way where none had been before. Through the darkness they came into a region of waters and endless light, where the waves rose and fell without sound and the water shone from within.\n\nAnd there they beheld the Supreme Lord — radiant as a mountain of light, and dark as a rain cloud, robed in yellow, with a serene face and long, gentle eyes. He wore a crown and earrings of great gems, and a thousand locks of hair shone with a light of their own. He reclined upon the thousand-headed serpent Ananta, whose hoods glowed with jewels. He was the highest of the high, the great-souled lord beyond all lords, and yet he lay there in perfect calm, as though the whole of creation were only his couch. On his breast lay the Kaustubha gem and the mark called Srivatsa, and a garland of forest flowers hung about his neck, and his eight long arms lay spread wide in rest.\n\nKrishna and Arjuna bowed before him, and the awe of that vision fell upon them both. The lord of Dwaraka and the greatest of archers stood silent together before the one they had journeyed to the end of the world to see. And there, at the end of the world, the sons the brahmana mourned were restored to them. The way back was no longer a search but a homecoming, and the two of them returned with the children to Dwaraka, where the brahmana waited.",
+ "reflection": "The journey is striking because the mystery is not solved by strength or by searching. Arjuna, who had already failed everywhere, is carried not to a battlefield but to a vision — to the edge of the world and beyond it, where the answer turns out to be a presence, not a place.",
+ "tradition_note": "The Harivamsha gives a different account of the journey, in which the chariot crosses the ocean, whose waters part for it, and seven cosmic mountains that grant passage, rather than passing beyond the mountain Lokaloka into the darkness.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "the Supreme Lord"
+ ],
+ "locations": [
+  "beyond the darkness",
+  "Vaikuntha"
+ ],
+ "themes": [
+  "divine journey",
+  "vision",
+  "mystery"
+ ],
+ "previous_story_id": "DKS_0289",
+ "next_story_id": "DKS_0370",
+ "next_story_tease": null,
+ "hero_scene": "Krishna and Arjuna stand at the edge of the great darkness as Krishna's blazing discus cleaves a path of light through the gloom, revealing beyond it the Supreme Lord reclining on the thousand-headed serpent Ananta, radiant as a mountain of light.",
+ "visual_elements": [
+  "Krishna",
+  "Arjuna",
+  "the divine chariot",
+  "the blazing discus Sudarshana",
+  "the great darkness",
+  "the thousand-headed serpent Ananta",
+  "the radiant Supreme Lord",
+  "awe and mystery"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.89.41-56",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.260",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0220"
+ },
+ "editorial_status": "unreviewed"
+}

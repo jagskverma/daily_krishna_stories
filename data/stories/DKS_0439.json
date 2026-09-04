@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0439",
+ "title": "Kunti's Parting Words to Her Sons",
+ "subtitle": null,
+ "story": "Before he rode away from Hastinapura, Krishna went to say goodbye to Kunti, mother of the five Pandava princes. She had stayed in the Kuru capital when the dice game drove her sons from their kingdom; the peace Krishna had come to make had failed, and war stood at the door. Her farewell was not one message but five: parting words for each of her sons, and for the daughter-in-law she loved as her own.\n\nFor Arjuna she had a memory that had never dimmed. \"Tell Arjuna this,\" she said. \"When he was born, while I sat among the women of the household, a voice spoke from the sky — a celestial voice, clear and glad — and it said: 'Kunti, this son of yours will be a match for Indra, king of the gods. He will defeat in battle all the Kurus who come against him. With Bhima to help him, he will conquer the whole earth, and his fame will rise to the heavens. With Krishna at his side he will strike down the Kurus and win back the share of the kingdom that was taken from us. Blessed with great fortune, he and his brothers will offer three great sacrifices.'\"\n\nShe had never doubted that voice. \"You know how steady Arjuna truly is,\" she went on, \"and how hard he is to turn from his purpose. If there is any truth in righteousness, those words will come to pass — for you yourself, Krishna, will bring them about. I have never doubted that voice. I bow to righteousness, which stands above all things, for it is righteousness that holds up the world.\"\n\nFor Bhima the message was short and fierce. \"The time has come for the very thing a woman of the warrior class brings a son into the world for,\" she said. \"The finest of men do not lose heart when there is war to be fought.\" Krishna knew Bhima's mind well: he would know no ease until the enemies of his house were broken.\n\nFor Draupadi there was praise. \"Tell Draupadi, the daughter-in-law of the noble Pandu — blessed, of noble birth, great in renown, wise in the ways of every virtue — that the gracious conduct she has always shown my sons does her honor.\"\n\nFor the two youngest of the five, the twins born of Pandu's second wife Madri, the message was a call to remember what had been done to their house. \"Prize, more than life itself, whatever is won by your own strength,\" she said, \"for that pleases the heart of one who lives by the warrior's way. You, who strive after every virtue, saw with your own eyes the princess of Panchala called cruel names before the whole assembly. Who could forgive such an insult? The loss of the kingdom did not grieve me. The defeat at dice did not grieve me. But that noble and lovely Draupadi, weeping in the midst of that gathering while those cruel words fell on her — that is what grieves me most. Virtuous as she is, she found no protector that day, though she was wedded to men strong enough to be her protectors.\"\n\nAnd to Arjuna there went one last instruction: that he should always walk the path Draupadi pointed out to him. \"You know very well, Krishna,\" she said, \"that Bhima and Arjuna together are a pair terrible enough to send even the gods the way of all creatures. Was it not an insult to them that their wife was dragged into the assembly before all those men? Remind them of every cruel word Dushasana flung at Bhima in the presence of the whole warrior host of the Kurus.\"\n\nLast of all she asked something for herself. \"Ask after the Pandavas and their children in my name, and after Draupadi,\" she said. \"Tell them that I am well. Go your way in safety, Krishna, and protect my sons.\"\n\nKrishna rose and saluted her, walked round her in the old custom of farewell, and went out of her rooms, carrying her words with him through the city — and the road to Upaplavya lay open before him.",
+ "reflection": "Kunti's parting words map her love precisely: a prophecy for Arjuna, a summons for Bhima, praise for Draupadi, and for the twins a reminder of the one insult she could never forgive. What grieved her was not exile or the lost dice game, but Draupadi weeping in the assembly with no protector — and she binds Krishna himself to righteousness as the guarantee that the celestial voice will prove true.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti",
+  "Arjuna",
+  "Bhima",
+  "Draupadi"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "prophecy",
+  "parting",
+  "war"
+ ],
+ "previous_story_id": "DKS_0438",
+ "next_story_id": "DKS_0440",
+ "next_story_tease": "Out of the city, Krishna's chariot carried one more passenger — Karna.",
+ "hero_scene": "At the doorway of her abode in Hastinapura, the aged Kunti takes Krishna's hand as she gives him her last messages for her sons, while he bows to receive them before leaving.",
+ "visual_elements": [
+  "Kunti at the doorway of her abode, holding Krishna's hand",
+  "Krishna bowing to receive her parting words",
+  "the lying-in room where the celestial voice spoke over the infant Arjuna",
+  "the assembly where Draupadi wept, remembered in Kunti's words",
+  "Krishna walking round Kunti in farewell"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.137",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:58Z",
+  "source_event_id": "evt_0446",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

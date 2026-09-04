@@ -1,0 +1,47 @@
+# STORY DKS_0279 — Nriga Ascends and Krishna Warns Against Stealing Brahmanas' Wealth || Touched by Krishna, Nriga ascends to heaven in a celestial car, and Krishna warns the citizens that a brahmana's property is deadly poison.
+
+## Index entry
+title: Nriga Ascends and Krishna Warns Against Stealing Brahmanas' Wealth || Touched by Krishna, Nriga ascends to heaven in a celestial car, and Krishna warns the citizens that a brahmana's property is deadly poison.
+summary: Touched by Krishna, Nriga ascends to heaven in a celestial car, and Krishna warns the citizens that a brahmana's property is deadly poison.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Nriga
+locations: Dvaraka
+themes: liberation, justice, teaching
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0253
+variant_notes: BP-only; follows bp10c_061.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 64 | verses 24-43 | confidence 5
+  excerpt: Nriga praised Krishna, bowed, and ascended to heaven in a celestial car; Krishna then taught the people that a brahmana's wealth is like poison — it consumes a king and his family for generations. (rendered from Sanskrit, verses 24-43)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.64 (24-43)
+24. brahmaṇyasya vadānyasya tava dāsasya keśava /
+25. sa tvaṃ kathaṃ mama vibho 'kṣi-pathaḥ parātmā $ yogeśvaraḥ śruti-dṛśāmala-hṛd-vibhāvyaḥ &amp;sākṣād adhokṣaja uru-vyasanāndha-buddheḥ % syān me 'nudṛśya iha yasya bhavāpavargaḥ
+26. deva-deva jagan-nātha govinda puruṣottama /
+27. anujānīhi māṃ kṛṣṇa yāntaṃ deva-gatiṃ prabho /
+28. namas te sarva-bhāvāya brahmaṇe 'nanta-śaktaye /
+29. ity uktvā taṃ parikramya pādau spṛṣṭvā sva-maulinā /
+30. kṛṣṇaḥ parijanaṃ prāha bhagavān devakī-sutaḥ /
+31. durjaraṃ bata brahma-svaṃ bhuktam agner manāg api /
+32. nāhaṃ hālāhalaṃ manye viṣaṃ yasya pratikriyā /
+33. hinasti viṣam attāraṃ vahnir adbhiḥ praśāmyati /
+34. brahma-svaṃ duranujñātaṃ bhuktaṃ hanti tri-pūruṣam /
+35. rājāno rāja-lakṣmyāndhā nātma-pātaṃ vicakṣate /
+36. gṛhṇanti yāvataḥ pāṃśūn krandatām aśru-bindavaḥ /
+37. rājāno rāja-kulyāś ca tāvato 'bdān niraṅkuśāḥ /
+38. sva-dattāṃ para-dattāṃ vā brahma-vṛttiṃ harec ca yaḥ /
+39. na me brahma-dhanaṃ bhūyād yad gṛdhvālpāyuṣo narāḥ /
+40. vipraṃ kṛtāgasam api naiva druhyata māmakāḥ /
+41. yathāhaṃ praṇame viprān anukālaṃ samāhitaḥ /
+42. brāhmaṇārtho hy apahṛto hartāraṃ pātayaty adhaḥ /
+43. evaṃ viśrāvya bhagavān mukundo dvārakaukasaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0278 | next_story_id: DKS_0280
+previous title: Nriga's Story of the Disputed Cow || Nriga, an Ikshvaku king famed for charity, tells how he unwittingly gave one brahmana's stray cow to another and was cursed to become a lizard.
+next title: Paundraka Falsely Claims to Be Vasudeva || Paundraka, king of Karusha, proclaims himself the true Vasudeva and sends a messenger demanding that Krishna surrender his divine insignia.

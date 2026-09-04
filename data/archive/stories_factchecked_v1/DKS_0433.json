@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0433",
+ "title": "The Plot to Seize Krishna; Satyaki's Alarm",
+ "subtitle": null,
+ "story": "Some conspiracies are born in such low whispers that the walls themselves seem to lean in to listen. The one that took shape in Hastinapura that day began when Duryodhana rose from the Kuru assembly, deaf to the grave words his mother had just spoken to him, and walked out in anger to the company of men who would tell him only what he wanted to hear.\n\nThe Pandavas' messenger, Krishna, had come to the Kuru court seeking peace, and every elder who still had influence — the king, the grandsire, the wise Vidura — had urged Duryodhana to accept it. He would not. And now, outside the assembly, with the dust of the court still settling behind him, he set his mind to the other way of ending the matter.\n\nHe consulted with Sakuni, Suvala's son, the man most clever in dice, who had once gambled the Pandavas' kingdom away from them. Karna joined them, and Dussasana made the fourth. And this was the resolution they arrived at: 'This Janardana, quick in action, seeks, with king Dhritarashtra and Bhishma the son of Santanu, to seize us first. We, however, shall forcibly seize this tiger among men, Hrishikesa, before he can move against us — as Indra once forcibly seized Vali, the son of Virochana.'\n\nEach of them supplied reasons, and each reason sounded, to their own ears, like wisdom. Once Krishna was bound, they told one another, the Pandavas would lose heart and become incapable of exertion, like snakes whose fangs have been broken. He was the refuge and the protection of them all — the grantor of wishes, the bull of all the Satwatas. Confine him, and the Pandavas with the Somakas would sit depressed and helpless. Therefore, disregarding Dhritarashtra's cries, they would seize Kesava even here, in the heart of the Kuru court, and then fight with the foe.\n\nWhat the four conspirators did not know was that they had already been read. Satyaki, Krishna's companion, possessed the gift of knowing a man's heart by his signs — the too-quick glance, the careful lowering of a voice, the way Duryodhana's fingers worked at the hilt of his sword as he spoke of seizure. He knew the plot before the plotters had finished shaping it, and he rose quietly and left the court, with Kritavarman, Hridika's son, at his side.\n\nAt the entrance he stopped and turned. 'Array the troops,' he said. 'Accoutred in mail, with your men drawn up for battle, wait here at the entrance of the court until I have represented this matter to Krishna.'\n\nThen Satyaki went back into the hall, like a lion entering a mountain cave. He informed the high-souled Kesava first, then king Dhritarashtra, then Vidura. And having told them the whole resolution, he laughed.\n\n'These wicked men intend to commit an act here that is disapproved by the good, from consideration of virtue, profit, and desire,' he said. 'They will never be able to achieve it. These fools of sinful souls, overwhelmed by lust and anger, these wretches desiring to seize the lotus-eyed one, are like idiots and children trying to seize a blazing fire with their garments.'\n\nVidura, who foresaw all things, turned to Dhritarashtra in the midst of the Kurus. 'O king, the hour of all your sons is come,' he said, 'for they strive to perpetrate a highly infamous act, however incapable they are of accomplishing it. United, they desire to vanquish this younger brother of Vasava and seize the lotus-eyed one. Encountering this tiger among men, they will all perish like insects in a blazing fire. If Janardana wishes, he can send all of them, even if they fight in a body, to the abode of Yama, like an enraged lion dispatching a herd of elephants. But he will never do any such sinful and censurable act. This best of persons, of unfading glory, will never deviate from virtue.'\n\nIn the doorway stood Kritavarman's mail-clad ranks, silent and ready. In the middle of the hall sat the man they had meant to seize, untouched, unhurried, listening. And everyone present understood, in the hush that followed Vidura's words, what kind of quarry the four had chosen — and that the conspiracy was dead before it had ever been allowed to move.",
+ "reflection": "The conspiracy fails at the moment of its forming, and not because the plotters were careless: they simply misjudged the company they kept. Duryodhana counted on deceiving everyone in the court, but he sat within reach of a man who could read hearts by signs, and he plotted against someone who did not need an army to be unseizable.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Satyaki",
+  "Duryodhana",
+  "Karna",
+  "Sakuni",
+  "Dussasana",
+  "Kritavarman"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "conspiracy",
+  "vigilance",
+  "seizure"
+ ],
+ "previous_story_id": "DKS_0432",
+ "next_story_id": "DKS_0434",
+ "next_story_tease": "When Krishna heard the warning, his answer would be neither fear nor anger, but a calm permission that unsettled the conspirators more than any threat.",
+ "hero_scene": "Satyaki strides back into the Kuru assembly like a lion entering a mountain cave, while Kritavarman's mail-clad troops wait in silence at the court's entrance.",
+ "visual_elements": [
+  "Duryodhana leaving the assembly in anger",
+  "Duryodhana, Karna, Sakuni and Dussasana conferring in secret",
+  "Satyaki rising and leaving the court with Kritavarman",
+  "Kritavarman's mail-clad troops arrayed at the court entrance",
+  "Satyaki re-entering the hall like a lion entering a mountain cave",
+  "Krishna seated calmly in the midst of the alarmed assembly"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.130",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:19Z",
+  "source_event_id": "evt_0440"
+ },
+ "editorial_status": "unreviewed"
+}

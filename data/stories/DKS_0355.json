@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0355",
+ "title": "The Ape Who Mocked Balarama",
+ "subtitle": null,
+ "story": "The hill of Raivataka had never known a stranger visitor. Balarama — Krishna's elder brother, and the strongest man of the Yadava clan — had brought the women of his household up from Dwaraka for a day of ease: the wine jars open, a song on his lips, the sea breeze moving through the groves. Then the leaves above him shook, a branch bent like a bow, and an ape the size of a young elephant dropped onto a limb overhead. The singing stopped.\n\nFor months this same ape had been the terror of the land. His name was Dvivida, and he had been the dearest friend of Narakasura, the demon king whom Krishna had slain; in his grief and fury he had sworn to make the whole world pay. He had interrupted the sacrifices and subverted the rites. He had set fire to forests, villages and towns. He had hurled rocks down upon cities, lifted up mountains and cast them into the ocean, and churned the sea until it rose over its bounds and swept away the settlements on its shores. He could change his shape at will, and he had enlarged himself until he could walk through the standing corn like a man walking through grass, crushing the harvests beneath him. The whole land, disordered by this maddened ape, had lost its peace and its sacred study. And now he had followed the Yadavas to their pleasure hill.\n\nHe did not come to fight. He came to mock. Rocking on his branch, he grinned at Balarama, rolled his eyes at the young women, flicked his brows and pulled faces at them until they drew back, half offended and half afraid. Balarama, whose head was light with the wine they called varuni, felt the anger rise, hot and sudden. He seized a stone and hurled it.\n\nThe ape caught it out of the air — and laughed.\n\nMocked before the women of his own household, Balarama rose to his feet and took up his mace and his plough, the two weapons that had been with him since the pastures of Vrindavan. The ape, drunk on his own daring, struck at Balarama's head. The blow fell as harmlessly as red chalk flung at a mountain. And Balarama answered — with his mace, blow after blow, until the ape's great body was broken in a hundred places.\n\nStill the beast came on. He tore up trees and rocks and hurled them in a blind rain that fell harmlessly around the plough-bearer. And Balarama, disgusted at last, cast aside his weapons and seized the ape with his bare arms, like a man taking hold of a storm. What followed was not a duel but a settling. The ape's arms, thick as palm trunks, beat uselessly against that grip. When Balarama brought him down, the earth herself shuddered — the mountains trembled, the forests swayed, as if the ground knew what had been lifted from it. The ape lay where he had fallen, blood at his lips, and did not rise again.\n\nIn the sky, voices shouted victory and homage; the gods rained flowers on the hill.\n\nThe women came out of the groves, and the songs began again, quieter than before. And down in the country, in the villages Dvivida had burned, the smoke that rose was only cooking smoke once more. The sea returned to its bed. The harvests stood. The land, which for months had lived in the shadow of a maddened animal, remembered how to be a land again.\n\nThey said afterward that the hill of Raivataka carried a scar where the great ape had fallen. But hills heal, as countries do — and the memory of that afternoon stayed longer with the Yadavas than the scar did: the day their lord stood in a grove with his weapons laid by and finished with his bare hands what no army had been able to finish in a year.",
+ "reflection": "Dvivida's end comes not from a weapon Balarama keeps ready but from the strength he has never needed to display: the mace and plough are laid aside before the ape is seized with bare hands. The land is freed not by armies but by one man's patience finally spent — and the hill keeps the scar, though the peace outlasts it.",
+ "tradition_note": "The Vishnu Purana tells the same duel differently: there Dvivida first steals Balarama's plough and club and breaks the wine cups, and Balarama fells him with a single blow of the fist on the forehead. This account follows the Bhagavata Purana, where the ape is struck down with mace and plough and finally seized with bare arms.",
+ "content_note": "Mild violence — a demon-ape is slain in combat; not graphic.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Dvivida"
+ ],
+ "locations": [
+  "Raivataka hill"
+ ],
+ "themes": [
+  "combat",
+  "monster-slaying",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0354",
+ "next_story_id": "DKS_0356",
+ "next_story_tease": "Before the season turned, Balarama would ride out again — this time to a city that answered courtesy with insult.",
+ "hero_scene": "On Raivataka hill, Balarama — mace and plough cast aside — seizes the towering ape Dvivida with his bare arms and brings him crashing to earth as the hill trembles, the women of the household watching from the grove, flowers raining from a sky ringing with victory cries.",
+ "visual_elements": [
+  "Balarama drinking varuni wine and singing in the groves of Raivataka",
+  "the huge ape Dvivida rocking on a branch, mocking the women with grimaces",
+  "the ape catching a hurled stone and laughing",
+  "Balarama striking the ape with his mace while the ape hurls trees and rocks",
+  "Balarama seizing the ape with bare arms and bringing him down as the earth trembles",
+  "the gods raining flowers from a sky full of victory shouts"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.67.9-27",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.36",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0215",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

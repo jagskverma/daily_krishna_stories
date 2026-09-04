@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0363",
+ "title": "Krishna Names the Disguised Pandavas",
+ "subtitle": null,
+ "story": "Krishna saw them the moment they crossed the floor of the amphitheatre: five young brahmins in a hall full of kings who had eyes only for Draupadi. Where other princes saw ascetics in deerskins, he saw mighty elephants moving toward a lake overgrown with lotuses — fire lying under ashes, alive and unspent. Krishna, a prince of the Yadavas, had come with his brother Balarama to watch.\n\nIt was the svayamvara of Draupadi, daughter of Drupada, king of Panchala — the great ceremony at which a princess chooses her own husband, and Drupada had made the choosing a test no one could pass. Every royal house had come; one after another the kings had failed to string the great bow, tossed to the ground by it and left panting, crowns loosened and garlands disordered. Only Karna — known to the world as a charioteer's son, though in truth the child of the sun god — had strung it easily. But Draupadi's voice rang through the hall: \"I will not choose a charioteer's son for my lord.\" Laughing in vexation, he flung the drawn bow aside. Then a brahmin seated among the priests rose, strung the stiff bow as if it were a reed, and put an arrow through the golden mark. Krishna, filled with joy, had greeted him with a white robe and a garland of flowers — that was moments ago. Now Drupada stood to give his daughter to that brahmin, and the kings of the earth were on their feet in fury.\n\n\"Passing us by and treating the assembled monarchs as straw,\" they cried, \"this Drupada desires to bestow his daughter on a brahmin! Let us slay him!\" They seized their weapons and rushed at the king of Panchala, who, pale with fear, sought the protection of the brahmins. Mighty Bhima tore up a large tree as an elephant might, stripped off its leaves, and stood with it beside Arjuna like the king of the dead with his great mace; and Arjuna, shaking off all fear, stood with his bow ready to receive the assailants.\n\nAnd then, in the middle of the uproar, Krishna turned to Balarama and began, very quietly, to name the five brahmins.\n\n\"That hero there,\" he said, \"who moves like a lion and draws the great bow in his hand — a bow four full cubits long, each cubit the span from a man's elbow to his fingertips — is Arjuna. No doubt of it. That other hero, who tore up the tree and now stands ready to drive off the monarchs, is Bhima — Vrikodara, the wolf-bellied; no one alive but Bhima could do such a feat today. And the youth of lotus-petal eyes, four cubits tall, gentle and fair, with the bright nose, who left the amphitheatre a little while ago — that is Yudhishthira, Dharma's son, the eldest. The two others, like the war-god Kartikeya, are, I suspect, the sons of the twin gods the Ashvins. I had heard that the sons of Pandu and their mother Pritha — Kunti — escaped the burning of the house of lac.\"\n\nBalarama, whose skin was the colour of a cloud that holds no rain, looked where his brother pointed, and his face cleared. \"What good fortune,\" he said, \"that our father's sister Pritha — Kunti — is alive, and her sons with her.\"\n\nKrishna had known since the five first came into view. Watching them drawn toward Draupadi, he had murmured to Balarama, \"That is Yudhishthira; that is Bhima with Jishnu; and those are the twins.\" Balarama had surveyed them slowly and cast a glance of quiet satisfaction at his brother. The two Yadava princes watched the uprooted tree and the drawn bow with the calm of men who had just found a family they thought lost.\n\nAround them the amphitheatre seethed. Biting their lips in wrath, the monarchs saw only two insolent brahmins — not five princes of the Kuru line who had escaped a burning house, survived the wilderness, and walked into the world's greatest gathering in borrowed robes. The kings saw what they expected to see. Krishna saw what was.\n\nAnd for now, he said nothing.",
+ "reflection": "Krishna's recognition is a private gift, not an announcement: he names each brother to Balarama in the middle of a roaring hall and then keeps the secret, so the Pandavas can remain hidden until they choose to be seen. The scene turns on restraint — knowing who someone is, and letting them stay disguised, is its own act of friendship.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Yudhishthira",
+  "Bhima",
+  "Arjuna",
+  "Nakula",
+  "Sahadeva",
+  "Draupadi"
+ ],
+ "locations": [
+  "Panchala",
+  "Drupada's amphitheatre"
+ ],
+ "themes": [
+  "recognition",
+  "disguise",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0362",
+ "next_story_id": "DKS_0364",
+ "next_story_tease": "But the insulted kings were not ready to let the matter end in a bride given to a Brahmana.",
+ "hero_scene": "In the roaring amphitheatre of Panchala, a young Brahmana stands immovable with a drawn bow while a giant beside him holds an uprooted tree like a mace; in the crowd of furious kings, Krishna leans toward Balarama and quietly names the disguised heroes, the two Yadava princes calm amid the storm.",
+ "visual_elements": [
+  "the amphitheatre of Panchala crowded with furious kings",
+  "Bhima holding the uprooted tree like a mace",
+  "Arjuna in Brahmana robes with the great bow drawn",
+  "Krishna whispering the names of the five brothers to Balarama",
+  "Draupadi at the centre of the hall, the cause of the storm"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.191",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "1.189",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:58Z",
+  "source_event_id": "evt_0013",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

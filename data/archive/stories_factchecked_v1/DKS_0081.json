@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0081",
+ "title": "Nanda Explains the Indra Worship",
+ "subtitle": null,
+ "story": "Nanda looked at his son and answered him simply, because the answer was simple, and it had been true for as long as anyone in Vraja could remember. Around them the village still hummed with the work of the sacrifice, the fires laid and the offerings being made ready.\n\n\"Indra is the lord of the clouds,\" he said, and he spoke the god's name with the ease of a man who had never had cause to doubt it. Indra, he told him, was the blessed lord of the rain, and the clouds that gather over the land are his very selves. They go where he sends them, and from them falls the rain, and the rain is what keeps every living thing alive. The water that darkens the sky and falls on the pasture and the field is the delight and the life of the whole world. Without it the grass would not grow, and the cows would not graze, and the milk would not come, and there would be nothing for anyone.\n\nSo this is why the cowherds worship him, Nanda said. He and all the other men of the world take the things that Indra's own rain has ripened, the grain and the milk and the fruit of the season, and they offer them back to him in the sacrifice. It is not a gift they give from their own store, as if they had something he lacked. It is a return of what his showers produced, an acknowledgment that everything in the bowl and on the plate came down, in the end, from the sky. And on what remains after the offering, he said, the people live, pursuing the good things a life is meant to hold.\n\nAnd this is no small or casual thing, he went on. It is a dharma that has come down from the fathers and the fathers' fathers, handed from one generation to the next without a break. A man may abandon it, of course, out of desire, or hatred, or fear, or simple greed. But the one who sets aside this inherited dharma, for whatever reason, does not come to anything good. The sacrifice is not a matter of taste; it is the way the village has always ordered its life, and the way it survives.\n\nNanda did not preach. He simply explained, the way an elder explains to a child why the fields are sown in one season and the herds driven home in another. It was an answer as old as the rains themselves, and he gave it without pride, because he had never had reason to think there was any other answer to give.\n\nAnd having given it, he waited to see what the boy would make of it.",
+ "reflection": "Nanda's answer is not wrong; it is only inherited. He explains the sacrifice the way a farmer explains the seasons, as something settled and given, and that very settledness is the confidence Krishna is about to disturb.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Nanda",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "tradition",
+  "rain",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0080",
+ "next_story_id": "DKS_0082",
+ "next_story_tease": "But the boy had an answer of his own, and it would point the village's worship somewhere Nanda had not expected.",
+ "hero_scene": "Nanda, an elder cowherd, speaking gently to the boy Krishna and gesturing toward the rain clouds as he explains that Indra, lord of the clouds, nourishes all beings with his showers.",
+ "visual_elements": [
+  "Nanda explaining with open hands",
+  "young Krishna listening",
+  "rain clouds over the fields",
+  "cattle grazing on pasture",
+  "milk and grain offerings",
+  "Vrindavan",
+  "warmth and patience"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.24.7-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:06:08Z",
+  "source_event_id": "evt_0092"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

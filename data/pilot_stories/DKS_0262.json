@@ -1,0 +1,73 @@
+{
+ "id": "DKS_0262",
+ "title": "Krishna Slays Narakasura",
+ "subtitle": null,
+ "story": "In the far east, where the sun rose over the kingdom of Pragjyotisha, there ruled a king whose name even the gods had learned to lower their voices to speak. They called him Narakasura, and some called him Bhauma, the son of the Earth, for the goddess Earth herself had borne him. He had inherited none of her patience and none of her gentleness. The boon he had won made him fearless, and he spent it the way a cruel child spends an inheritance — by taking whatever he wanted and daring anyone to stop him.\n\nHe began with petty thefts and ended with great ones. He stole the earrings of Aditi, the mother of the gods, and kept them as a trophy. He gathered the riches of gods and men, of the earth and of the sea, and heaped them in his house without once enjoying them. He carried off women — the daughters of gods and gandharvas, the musicians of heaven, of sages and of ordinary men, sixteen thousand and one hundred of them — and shut them away in a house on a mountain, where they waited in a single braid of hair, the mark of their captivity. At his gates he set warders: Hayagriva, Nisunda, Panchanada, and the great demon Mura with his thousand sons. He oppressed the gods and the sages, and those who knew the demon's power said that no gathered army could prevail against him. He seemed beyond any hand's reach.\n\nHe was not beyond Krishna's. When Narakasura's tyranny grew too heavy for the three worlds to bear, Krishna came against him upon his great eagle, Garuda, with his wife Satyabhama beside him. The demon's host, vast and confident, stood in the field to meet them, but it did not stand for long. Krishna's arrows fell among horses, elephants, and foot soldiers alike, and the army came apart like something woven of dry grass. Narakasura's warders, the keepers of his gates, could not hold the line.\n\nThen Narakasura himself came out, enraged, and hurled his spear at Krishna. The stroke, which would have broken any other warrior, failed against him as a wave fails against a cliff. The demon raised his spear a second time, meaning to end the fight in a single blow. Krishna did not wait for it to fall. He sent his discus spinning, a wheel of light, and in one turn of light it took Narakasura's head. The head fell to the earth, still crowned, and from the sky the sages and gods let fall a rain of flowers in praise.\n\nSo ended the reign of Narakasura. But the story did not close with his fall, for much of what he had stolen still waited to be given back. The Earth herself — his own mother — came forward to meet Krishna, and in her hands she carried the stolen earrings of Aditi, bright with gold and gems, and offered them back, together with a parasol and a great jewel. What had been taken was returned to its owner.\n\nThen Krishna went to the house on the mountain where the captives were kept — the sixteen thousand and one hundred maidens — and set them free. They had waited so long in that place that hope itself had grown thin, and now it returned to them. They had been taken from every kind of world — gods, gandharvas, sages, and men — and now they were given back their freedom.\n\nThe earrings returned to Aditi. The women were set free from the house on the mountain. And the three worlds, which had grown used to dreading the name of Pragjyotisha, drew a long and easy breath.",
+ "reflection": "The deliverance of the captives matters as much as the slaying of the demon. The story does not end with a victory but with a restitution — earrings returned, women set free — as if the real point of the battle was never the killing, but the giving back of everything that had been taken.",
+ "tradition_note": "The Harivamsha describes Krishna cutting Narakasura in two with his discus, and the Vishnu Purana says he first cut the demon's nooses before slaying him; the Bhagavata Purana, followed here, has Krishna behead him with the discus.",
+ "content_note": "Krishna slays the demon Narakasura with his discus; the killing is described briefly and without detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Narakasura",
+  "Aditi",
+  "Bhumi"
+ ],
+ "locations": [
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "battle",
+  "liberation",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0214",
+ "next_story_id": "DKS_0277",
+ "next_story_tease": null,
+ "hero_scene": "Krishna's blazing discus, a wheel of light, takes Narakasura's crowned head as the demon raises his spear, while above, sages and gods shower a rain of flowers over the fallen king of Pragjyotisha.",
+ "visual_elements": [
+  "Krishna",
+  "Narakasura",
+  "the blazing discus",
+  "the fallen crowned head",
+  "Aditi's earrings",
+  "the captive maidens",
+  "Balarama",
+  "Pragjyotisha",
+  "flowers falling from the sky",
+  "liberation and justice"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.14-22",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.120",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.29",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0209",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

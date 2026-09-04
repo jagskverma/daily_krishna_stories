@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0477",
+ "title": "The Ashvatthama Stratagem",
+ "subtitle": null,
+ "story": "Drona, the great teacher of weapons who had trained the warriors of both armies, was cutting through the Pandava host, and nothing could stand before him. The Panchalas and the Srinjayas — allies of the Pandavas from the land of Panchala — rushed at him in waves, yelling as they came, and his arrows struck them down as fast as they arrived. Mighty warriors they were, full of courage, and even as he cut them down they did not yet fear him; still they came on, and still they fell. Steeds and men went down in such numbers that the field came to look like a battlefield of the gods in some older age. Fear crept into the hearts of the five Pandava brothers, and hope drained out of them. Drona alone seemed enough to undo them all. The day was theirs to lose, and he was taking it from them hour by hour.\n\n\"He will swallow us all,\" they said to one another, \"like a fire swallowing a heap of dry straw in spring. No one can even look at him in battle. And Arjuna — the one man who is his match — will not fight him.\" For Drona had been Arjuna's own teacher, the man who had taught him the bow, and Arjuna, who honoured the ways of right conduct, would not raise his weapon against the man who had given him his skill.\n\nIt was Krishna who answered their despair. \"This greatest of bowmen cannot be defeated by force,\" he said, \"not even by the gods, with Indra at their head. But when he lays aside his weapons, even mortal men can slay him. Set aside the path of strict virtue for once, sons of Pandu, and find some way — before Drona destroys us all. When his son Ashvatthama falls, he will stop fighting. Let some man tell him that Ashvatthama has been slain.\"\n\nIt was not the kind of counsel the brothers had expected from him, and it landed among them like a stone dropped into still water. Arjuna would not agree to it; he heard the plan and refused. Others approved of it. And Yudhishthira — the eldest, the brother whose word was truth itself — agreed only with the greatest difficulty. To save his brothers he would have to become, for a little while, the bearer of a falsehood, and he accepted that burden with his head bowed. It was the hardest thing he had yet agreed to in the whole war.\n\nSo it was done, in a way that split the truth down the middle. Bhima, the mightiest of the brothers, took up his mace and struck down a war-elephant of their own army — a huge, terrible, foe-crushing beast named Ashvatthama, which belonged to Indravarman, chief of the Malava people. Their own elephant, felled by their own hand, not to win any fight but to make a single sentence true. Then Bhima approached Drona in the midst of the battle and, with some bashfulness in his voice, cried aloud: \"Ashvatthama has been slain.\"\n\nThe words were true of the elephant lying dead behind him. They were spoken to a father who would hear them as the name of his son. There is a difference between a lie and a truth spoken to deceive, and the whole weight of that difference sat in Bhima's voice. Drona had heard a thousand war-cries that day and never once turned from his work. But this one name, spoken low, would do what no weapon on that field could do. On the width of a name shared between a man and a beast, the whole battle was about to turn.",
+ "reflection": "The man who taught Arjuna the way of dharma on this same field now counsels him to lay that virtue aside, and the text refuses to smooth it over: Arjuna rejects the plan, Yudhishthira accepts it only with great difficulty, and the lie is built out of something technically true. The episode leaves the reader standing in exactly that discomfort, without a verdict.",
+ "tradition_note": null,
+ "content_note": "Battle violence and a wartime deception.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Yudhishthira",
+  "Bhima",
+  "Drona"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "stratagem",
+  "moral compromise",
+  "war necessity"
+ ],
+ "previous_story_id": "DKS_0458",
+ "next_story_id": "DKS_0483",
+ "next_story_tease": "The battle did not end with Drona; ahead waited Karna, and an arrow meant for Arjuna alone.",
+ "hero_scene": "In the dust and noise of the battlefield, Bhima lowers his mace beside the fallen elephant named Ashvatthaman while, at a distance, the chariot of the aged Drona waits as the words of his son's death are carried toward him.",
+ "visual_elements": [
+  "Bhima with his mace",
+  "the fallen war-elephant named Ashvatthaman",
+  "Drona's golden chariot",
+  "the carnage of the battlefield",
+  "the Pandava brothers in council",
+  "Krishna speaking to Arjuna",
+  "dust, arrows, and fallen men",
+  "the weight of a shared name"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.191",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:15:44Z",
+  "source_event_id": "evt_0471",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

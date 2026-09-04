@@ -1,0 +1,115 @@
+# STORY DKS_0145 — Krishna Installs Ugrasena as King
+
+## Index entry
+title: Krishna Installs Ugrasena as King
+summary: Krishna makes his grandfather Ugrasena king of the Yadavas, honoring Yayati's curse.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Ugrasena
+locations: Mathura
+themes: kingship, dharma
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0149
+variant_notes: VP 5.21 also folds in the consolation of the widows.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 45 | verses 10-13 | confidence 5
+  excerpt: Krishna installed his maternal grandfather Ugrasena as king of the Yadavas, declaring that because of Yayati's curse no Yadava should sit on the throne, and that while he served, the gods themselves would pay tribute. (rendered from Sanskrit, verses 11-13)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 87 | verses  | confidence 4
+  excerpt: 'I do not care for the kingdom or the royal throne... place yourself on the throne and acquire victory by becoming the king.'... Govinda, well read in laws, installed him on the throne.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 21 | verses  | confidence 4
+  excerpt: The foe of Madhu then liberated Ugrasena from confinement, and placed him on the throne, which the death of his son had left vacant... performed the funeral rites of Kansa.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.45 (10-13)
+10. siñcantāv aśru-dhārābhiḥ sneha-pāśena cāvṛtau /
+11. evam āśvāsya pitarau bhagavān devakī-sutaḥ /
+12. āha cāsmān mahā-rāja prajāś cājñaptum arhasi /
+13. mayi bhṛtya upāsīne bhavato vibudhādayaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.87 ()
+TITLE: KRISHNA’S REPLY TO UGRASENA
+
+Vaishampayana said:—Breathing like a person who has drunk poison,
+Ugrasena, burning with grief for his son, approached Krishna (1). He saw
+him there encircled by Yadavas repenting for his sinful destruction of
+Kansa (2). Hearing the heart-rending lamentations of Kansa’s wives he,
+censuring his own self in that assembly of the Yādavas, (said)
+(3):—"Alas, out of my childish freak and under the influence of anger, I
+have, by the destruction of Kansa, made widows of these thousand women
+(4). On the death of their husband these women are bewailing so very
+plaintively that even an ordinary man’s heart, on hearing it, feels
+compassion (5). Hearing the lamentations of these guileless women, even
+Kritānta’s (Regent of the dead) heart is filled with pity (6). I had
+determined before that Kansa, the oppresser of the pious, and always
+given to vice, should be slain (7). Death is preferable to life unto him
+who, in this world, is of a degraded conduct, ruthless temper, feeble
+understanding and whom the people hate (8). Kansa was highly sinful,
+never liked by the pious and him every one used to hate. What pity
+should then be felt for him (9)? The ascetics, as a fruit of their
+virtuous deeds, live in the celestial region. He, who attains to glory
+in this world, is also like a dweller in heaven (to). If the subjects
+are self-controlled, observant of their own duties and perform pious
+deeds, unrighteousness can never touch the king (11). Those, who are
+wicked, are constrained by Death to reap the proper fruits. The pious
+attain to auspicious fruits in the next world (12). Many are the agents
+of impious deeds in these worlds and therefore the gods perfectly
+protect the pious (13). That Kansa has been slain by me should be
+considered by you as righteous for I have eradicated (thereby) his
+mis-deeds (14). Do you now console the sorrowful women, the citizens and
+the merchants (15)."
+
+When Krishna said this, Ugrasena, out of fear for his son’s misdeeds,
+entered lowering his head along with other Yadavas (16). In that
+assembly of the Yadus he addressed to the lotus-eyed Krishna the
+following poor words, sullied by the vapour of grief and becoming the
+occasion (17):—"O my son, your anger has been pacified, your enemy has
+been led to the abode of Yama, your glory has followed your own duties
+and your name has become celebrated in this world (18). By this action
+you have established your glory amongst the pious, terrified your
+enemies, made strong the position of the Yādavas and rendered your
+friends proud (19). Your glory has spread itself amongst the
+neighbouring chiefs and now they will all seek alliance with you and
+your friendship (20). O hero, your subjects will be devoted to you, the
+Brāhmanas will sing your glories and the ministers, well read in peace
+and dissension making, will bow unto you (21). O Krishna, accept this
+immortal army of Kansa abounding in elephants, horses, chariots and
+infantry (22). O Mādhava, let your men take Kansa’s wealth, corn,
+jewels, covers, gold, clothes, women and all that he possessed (23). O
+Krishna, the slayer of your enemies, by the Yoga, to which you have
+resorted on behalf of the Yādavas, all dissensions have been put a stop
+to and the earth has been established. O descendant of Yadu, from you
+now will proceed the happiness or misery of the Yadavas (24). Hear, what
+they are saying with a depressed heart. If you please, O Govinda, they
+may perform the obsequial rites of Kansa, of sinful deeds, who has been
+consumed by the fire of your anger. Having performed the after-death
+ceremonies of that king who has met with this calamity, I shall, along
+with my wife and daughters-in-law, range in the forest with the animals.
+To perform the obsequial rites of the dead is the duty of men (26–28).
+By performing this, Krishna, people are freed from their social
+obligations. Therefore having made his funeral pyre, putting fire to it
+and offering oblation of water I shall have discharged debt to Kansa
+(29). This is my only prayer, O Krishna. Show me kindness in this
+matter. With the performance of his after-death rites let sinful Kansa
+attain to a blessed state (30)."
+
+Hearing the words of Ugrasena, Krishna was filled with surprise. And
+consoling him he said (31). "O sire, O foremost of kings, what you have
+said behoves your age and family and becomes your nature (32). While the
+inevitable work is over, why do you say so? Although dead, Kansa will
+receive funeral honors befitting a king (33). O sire, you are born in a
+great race and know every thing that should be known. Why do you not
+then understand that destiny is inevitable (34)? O king, pristine deeds
+of all creatures, mobile and immobile, attain to fullness in time (55).
+O foremost of kings, even the liberal, beautiful and rich sovereigns,
+always kind to the poor, endued with prowess like that of Mahendra, well
+read in Srutis, laws and knowledge of Brahman, and like unto the regents
+of quarters, are carried away by 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0144 | next_story_id: DKS_0146
+previous title: Krishna Begs His Parents' Forgiveness
+next title: Krishna Restores the Yadava Kinsmen

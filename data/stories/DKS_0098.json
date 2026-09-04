@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0098",
+ "title": "Krishna Vanishes",
+ "subtitle": null,
+ "story": "It was autumn in Vrindavan. On a night when the full moon rose red over the forest, washing the leaves, the paths, and the dark water of the Yamuna in its light, Krishna's flute sounded through the trees — and the cowherd women who heard it set down whatever they held. One left off milking; one left the milk half-boiled over the fire; one turned from a husband she was serving; one from a child she was feeding. They slipped away as they were, earrings swinging, some with their clothes and ornaments only half arranged, so great was their haste. And those who found themselves shut inside their houses stood where they were, closed their eyes, and held him in their minds. Their families called them back; they did not turn. The flute had taken their hearts, and they went where the music led.\n\nKrishna welcomed them in the moonlit grove, and for a while the night held nothing but what they had all come for. And in that happiness a small, secret thought began to grow: that the joy was theirs to keep — that they had earned it, that the one they loved was somehow their own. It was a small thing, the way such a thought always begins: a warmth in the heart, a sense of having been chosen. Krishna saw it.\n\nThere was no word, no warning. Where he had stood, there was only empty air. He vanished in the middle of the night, in the middle of their happiness, and the women he loved stood suddenly alone among the trees.\n\nHe had not left them to punish them. He had left them to humble them, and to favor them — for the pride rising in them was the one thing that could have spoiled what they had found. And so he, who had come so close, stepped back, so that their love for him could grow deeper than their love of themselves.\n\nIn the silence the night turned suddenly vast, and the women understood, as they had not understood before, how much of what they loved was simply him. The flute had stopped. The place where he had stood still held the warmth of him, and that was all that was left. They looked at one another in the red moonlight and could not speak. They had asked the night for so much, and the night had given it; now, in an instant, it had been taken back — not to hurt them, but to show them what it was they had been given. The moon had not dimmed, and the forest had not changed. Only he was gone — and without him, the same night was a different place.",
+ "reflection": "Krishna's disappearance is the opposite of abandonment. He removes the one thing — pride — that would have soured the gopis' love, so that what remains is only the love itself.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "humility",
+  "separation"
+ ],
+ "previous_story_id": "DKS_0097",
+ "next_story_id": "DKS_0099",
+ "next_story_tease": null,
+ "hero_scene": "A full moon rising red over the Vrindavan forest at night, and the gopis standing suddenly alone among dark trees, turning to find the space where Krishna stood a moment before now empty.",
+ "visual_elements": [
+  "full red moon",
+  "night forest of Vrindavan",
+  "gopis standing alone",
+  "empty space where Krishna vanished",
+  "dark trees",
+  "silence",
+  "separation and longing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.29.47",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:14:58Z",
+  "source_event_id": "evt_0112",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

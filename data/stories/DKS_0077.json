@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0077",
+ "title": "Why Kaliya Took Refuge in the Yamuna",
+ "subtitle": null,
+ "story": "After the serpent king Kaliya had been driven from the Yamuna and sent away to the ocean, one question stayed with everyone who heard the tale. The king who was listening asked it aloud: how had Kaliya, a king among serpents, ever come to live in a village river at all, instead of reigning in the ocean where his kind belonged? For the answer explained the strangest part of what had happened: why so great a serpent had hidden in a quiet river until a village boy came and drove him out. And the sage who told the story answered him, and told of an old quarrel and an older curse.\n\nIn those days the serpents owed a share to Garuda. At every change of the moon they were to bring him his portion, and Garuda, the great golden eagle who carries the god Vishnu, came and took what was his. The serpents and the eagle had been enemies since the world was young; the tribute was the price of peace, the portion that kept the great bird from falling upon them all. But Kaliya was proud of his own poison, and drunk on the strength of it he withheld the tribute and gave nothing.\n\nWhen Garuda heard of it, he was furious. He fell upon Kaliya with the speed of a storm, and no serpent in the world could match him. Kaliya rose to meet him, all his heads raised, venom his only weapon, but the great eagle was not deterred. He struck with his left wing, the wing that shone like gold, and Kaliya, dazed and beaten, fled in terror.\n\nHe fled to a pool in the Yamuna, and there he found safety, a safety that was not of his own making. Long before, Garuda had come to that very spot wanting to eat a fish, and the sage Saubhari, who lived beside the pool, had seen the fish in their distress when their king was devoured. Out of compassion he had laid a curse: if ever Garuda entered that pool again, his life would end. So the great eagle kept away from that water, and Kaliya — alone among all the serpents, for only he knew the story — took refuge there, in the one place the eagle could not follow.\n\nAnd so the poison in the river had a deeper root than anyone in Vrindavan knew. The serpent in their water was not merely cruel; he was a fugitive who had once defied the mightiest bird in the world and fled to the only place on earth where that bird could not come. He had turned his fear into a kingdom, and the river had paid for it.",
+ "reflection": "The backstory quietly reverses what the villagers must have seen. Kaliya was not simply the monster in their water but a fugitive who had defied Garuda and fled to the one place the eagle could not enter. His tyranny was fear hardened into a kingdom, and the river paid the price.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Kaliya",
+  "Garuda",
+  "Saubhari"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "backstory",
+  "fear"
+ ],
+ "previous_story_id": "DKS_0076",
+ "next_story_id": "DKS_0078",
+ "next_story_tease": "The serpent was gone now; only the boy remained in the water, and the people waiting on the bank.",
+ "hero_scene": "Garuda, the golden eagle, striking the many-headed Kaliya with his shining left wing as the serpent rears to meet him, water and sky churning around them.",
+ "visual_elements": [
+  "Garuda the golden eagle",
+  "Kaliya rearing with many heads",
+  "the shining left wing",
+  "venom as a weapon",
+  "the Yamuna pool",
+  "the sage Saubhari's curse",
+  "flight and refuge",
+  "storm and fear"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.17.1-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:02:36Z",
+  "source_event_id": "evt_0074",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

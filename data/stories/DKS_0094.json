@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0094",
+ "title": "The Brahmanas Refuse Krishna's Request for Food",
+ "subtitle": null,
+ "story": "The cows had been grazing since morning, and by afternoon the boys were hungry. Krishna and his elder brother Balarama were pasturing the cattle not far from home, with the cowherd boys around them, and hunger came over them all alike. It was nothing dramatic — only the ordinary ache of boys who had been out in the fields since dawn, with the sun climbing and the evening meal still far off. The forest was still, the heat of the afternoon lay over everything, and the boys' thoughts kept straying home to the kitchens and to food.\n\nNow, nearby, a company of brahmanas — learned men, masters of the Vedas, the ancient hymns — had gathered to perform a sacrifice. The smoke of their fire rose above the trees, and the sound of their chanting reached the pasture where the boys sat. In those days a sacrifice meant hospitality; a man who could feed the gods at his fire should not find it hard to feed a few hungry boys. So the request Krishna made was not an unreasonable one. He knew the brahmanas were there, and he knew what they were doing, and he sent the boys to them. \"Go,\" he said, \"and ask them for food in my name.\"\n\nThe boys went, crossing the fields toward the smoke. They stood before the brahmanas with folded hands and spoke with all the respect they could summon. \"O gods of the earth, listen to us,\" they said. \"We come at Krishna's bidding. While pasturing the cows not far from here, Balarama and Krishna have grown hungry, and they ask for food.\"\n\nThe brahmanas heard the request and paid it no mind. They neither said yes nor said no; they simply did not heed it. Their whole attention was given to the machinery of the sacrifice — the proper place, the proper time, the offerings, the chanted mantras, the priests, the fires. Each detail had to be exactly right, and the work of keeping it right left no room for two herd-boys standing at the edge of the rite. They looked at the boys and saw only herd-boys; and behind the herd-boys, in the one who had sent them, they saw only a boy who herded cows.\n\nYet the one their whole rite was meant for stood a field away, hungry, asking through two boys for a little food. They had given their lives to the books that spoke of him, and when he came asking, they knew him least of all. The supreme Brahman — the one reality their scriptures pointed to — stood within their reach, hidden from them by their own learning. They did not recognize him.\n\nThe boys waited, and the silence stretched. They had come with a simple, courteous request, and they had received neither yes nor no — only the sound of mantras going on without them. There was no anger in them, only confusion. They had seen the smoke and heard the chanting and expected generosity; instead they had met a wall of rites that had no room for them. At last they turned and walked back across the fields, empty-handed, to where Krishna and Balarama sat with the cows.\n\nAnd the brahmanas returned to their fires, satisfied that the rites had been kept correct, and did not know what they had turned away. Their learning had kept the rite perfect. It had also kept them from the one the rite was for.",
+ "reflection": "The refusal is not hostile; it is distracted. The men are so certain of the forms of worship — the place, the time, the mantras, the fire — that they cannot see the one the worship points to, standing just outside and asking for a little food. Their learning becomes the wall that keeps them from what they study.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "brahmanas"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "pride",
+  "blindness"
+ ],
+ "previous_story_id": "DKS_0093",
+ "next_story_id": "DKS_0095",
+ "next_story_tease": "But the brahmanas' wives would prove quicker to answer than their husbands.",
+ "hero_scene": "The cowherd boys standing empty-handed before the brahmanas, who sit absorbed at their sacrificial fire and do not look up, while in the distance Krishna and Balarama wait with the grazing cows.",
+ "visual_elements": [
+  "cowherd boys with folded hands",
+  "brahmanas seated at the sacrificial fire",
+  "offerings and ritual vessels",
+  "smoke rising",
+  "cows grazing in the distance",
+  "Krishna and Balarama waiting",
+  "afternoon light",
+  "pride and blindness"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.23.1-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:02:47Z",
+  "source_event_id": "evt_0087",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

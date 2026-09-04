@@ -1,0 +1,32 @@
+# STORY DKS_0060 — Krishna Swallows the Wildfire and Saves the Herd
+
+## Index entry
+title: Krishna Swallows the Wildfire and Saves the Herd
+summary: Krishna bids the terrified cowherds close their eyes, drinks up the flames, and, when they open them, they stand safe at Bhandira.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, cowherds, cattle
+locations: Vrindavan, Bhandira
+themes: rescue, faith
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0081
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 19 | verses 9-13 | confidence 5
+  excerpt: Telling them not to fear and to shut their eyes, Krishna drinks the raging fire into his mouth, and the cowherds, opening their eyes, find themselves and their herds delivered at Bhandira. (rendered from Sanskrit, verse 9-13)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.19 (9-13)
+9. nūnaṃ tvad-bāndhavāḥ kṛṣṇa na cārhanty avasāditum /
+10. bhp_10.19.011/0 śrī-śuka uvāca
+11. tatheti mīlitākṣeṣu bhagavān agnim ulbaṇam /
+12. tataś ca te 'kṣīṇy unmīlya punar bhāṇḍīram āpitāḥ /
+13. kṛṣṇasya yoga-vīryaṃ tad yoga-māyānubhāvitam /
+
+## Pilot chain
+previous_story_id: DKS_0049 | next_story_id: DKS_0074
+previous title: Krishna Expands Into All the Calves and Boys
+next title: Krishna Dances on Kaliya's Heads

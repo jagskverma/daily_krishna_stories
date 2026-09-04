@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0149",
+ "title": "Krishna Visits Trivakra and Grants Her a Boon",
+ "subtitle": null,
+ "story": "Krishna had come to Mathura to end the rule of its tyrant, Kamsa — and he had done it, and the city was learning to breathe again. But of all the houses in Mathura, there was one he had not yet entered: the house of Trivakra, the serving woman whose bent back he had straightened on his first morning in the city. That morning she had gone home walking straight for the first time in her life. But though her body had been made straight, her heart had been bent toward him ever since; the texts say Krishna knew her longing, the love that burned in her and would not let her rest.\n\nSo one day he went to her, taking Uddhava, his close friend and adviser, with him. They walked through the streets of Mathura to the house of the woman who had once offered him perfume. Her home was rich, furnished with splendid things, arranged with care for the one she hoped would come. When she saw him approaching her door, she rose at once, flustered, the calm of her day scattered in a moment. Uddhava, honored for his goodness, touched the seat that was offered but sat down on the ground beside it, leaving the place of honor for Krishna.\n\nThen Trivakra prepared herself as one prepares for a festival. She bathed, anointed her skin with fragrant oils, dressed in fine silk and ornaments, wove garlands into her hair, and set out betel and sweet drinks and everything her house could offer. Then she took Krishna's hand, his hand adorned with bangles, and drew him close — shy at the nearness of him, trembling at what she hardly dared to hope.\n\nAnd then she embraced him, holding him with both arms as though she would not let him go. In that embrace her long torment ended. The verses say she had burned with love for so long that the ache had become her constant companion; and now, holding him at last, she let the fire burn out. She had obtained what the whole world calls hard to obtain — the lord of liberation himself, standing in her small house, letting her hold him.\n\nWhen she could speak, she asked only one thing. \"Stay with me, beloved, for a few days,\" she said. \"That is all I ask.\" She did not ask for wealth, or power, or a place in his court. She asked for his company, for a few days of his presence in the house she had kept ready for him.\n\nKrishna, who honors those who honor him, granted her the boon she wished. He stayed. And when at last he left her house and returned to his own dwelling, he had honored her in the way that mattered most to her — by giving her himself.",
+ "reflection": "Trivakra asks for nothing but a few days of Krishna's company, and that is the boon he grants. The story is striking because her longing is not rebuked or spiritualized away — it is met, gently and completely, as devotion that takes the form of love and is answered in kind.",
+ "tradition_note": "This is the later visit to Trivakra, described in Bhagavata 10.48; her first meeting with Krishna, when he straightened her back, is told in its own episode (10.42).",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Trivakra",
+  "Uddhava"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "compassion",
+  "grace",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0148",
+ "next_story_id": "DKS_0150",
+ "next_story_tease": "Years later, an old classmate from the gurukula would arrive at Dwaraka carrying memories of those student days.",
+ "hero_scene": "Trivakra, in silk and garlands, embracing Krishna with both arms in her richly furnished house in Mathura, while Uddhava sits on the ground nearby, her long-held longing dissolving into quiet joy.",
+ "visual_elements": [
+  "Trivakra in silk and ornaments",
+  "Krishna in her embrace",
+  "Uddhava seated on the ground",
+  "the richly furnished house",
+  "garlands, betel, perfume",
+  "a love that has found rest"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.48.1-10",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0161",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

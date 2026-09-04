@@ -1,0 +1,44 @@
+# STORY DKS_0020 — Nanda Celebrates the Birth of His Son
+
+## Index entry
+title: Nanda Celebrates the Birth of His Son
+summary: Nanda performs the birth rites with lavish gifts of cows and gold, and the whole of Gokula rejoices over the newborn child.
+life_stage: gokul | story_arc: krishna_reaches_gokul
+characters: Nanda, Yasoda, Rohini, cowherds
+locations: Gokula
+themes: celebration, generosity, joy
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0034
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 5 | verses 1-17 | confidence 5
+  excerpt: Nanda performs the birth ceremonies with thousands of adorned cows and heaps of gifts; the cowherd men and women, scented and adorned, pour into his home to bless the child. (rendered from Sanskrit, verse 1-17)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.5 (1-17)
+1. vācayitvā svastyayanaṃ jāta-karmātmajasya vai /
+2. dhenūnāṃ niyute prādād viprebhyaḥ samalaṅkṛte /
+3. kālena snāna-śaucābhyāṃ saṃskārais tapasejyayā /
+4. saumaṅgalya-giro viprāḥ sūta-māgadha-vandinaḥ /
+5. vrajaḥ sammṛṣṭa-saṃsikta- dvārājira-gṛhāntaraḥ /
+6. gāvo vṛṣā vatsatarā haridrā-taila-rūṣitāḥ /
+7. mahārha-vastrābharaṇa- kañcukoṣṇīṣa-bhūṣitāḥ /
+8. gopyaś cākarṇya muditā yaśodāyāḥ sutodbhavam /
+9. nava-kuṅkuma-kiñjalka- mukha-paṅkaja-bhūtayaḥ /
+10. gopyaḥ sumṛṣṭa-maṇi-kuṇḍala-niṣka-kaṇṭhyaś $ citrāmbarāḥ pathi śikhā-cyuta-mālya-varṣāḥ &amp;nandālayaṃ sa-valayā vrajatīr virejur % vyālola-kuṇḍala-payodhara-hāra-śobhāḥ
+11. tā āśiṣaḥ prayuñjānāś ciraṃ pāhīti bālake /
+12. avādyanta vicitrāṇi vāditrāṇi mahotsave /
+13. gopāḥ parasparaṃ hṛṣṭā dadhi-kṣīra-ghṛtāmbubhiḥ /
+14. nando mahā-manās tebhyo vāso 'laṅkāra-go-dhanam /
+15. tais taiḥ kāmair adīnātmā yathocitam apūjayat /
+16. rohiṇī ca mahā-bhāgā nanda-gopābhinanditā /
+17. tata ārabhya nandasya vrajaḥ sarva-samṛddhimān /
+
+## Corpus chain
+previous_story_id: DKS_0019 | next_story_id: DKS_0021
+previous title: Vasudeva Exchanges Krishna for Yashoda's Daughter
+next title: Nanda Visits Mathura and Meets Vasudeva

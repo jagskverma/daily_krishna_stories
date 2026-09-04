@@ -1,0 +1,104 @@
+# STORY DKS_0476 — Krishna Consoles the Grieving Yudhishthira
+
+## Index entry
+title: Krishna Consoles the Grieving Yudhishthira
+summary: When Yudhishthira is overwhelmed by grief at Ghatotkacha's death, Krishna urges him to rise and fight rather than sink into despondency.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Yudhishthira
+locations: Kurukshetra
+themes: consolation, duty, fortitude
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0470
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 7 | chapter/section 183 | verses  | confidence 4
+  excerpt: Beholding him so afflicted, Krishna said these words, 'O son of Kunti, let not such grief be thine. Such cheerlessness does not become thee, O chief of the Bharatas, as it does an ordinary person. Rise, O king, and fight. Bear the heavy burden, O lord! If cheerlessness overtakes thee, our victory becomes uncertain.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 7.183 ()
+“Dhritarashtra said, ‘I see, O sire, that this act of Karna and
+Duryodhana and Suvala’s son, Sakuni, and of thyself, in especial, hath
+been very much against the dictates of policy. Indeed, when you knew that
+dart could always slay one person in battle, and that it was incapable of
+being either borne or baffled by the very gods with Vasava at their head,
+why then, O Sanjaya, was it not hurled by Karna at Devaki’s son, or
+Phalguna, while he was engaged with this in battle before?’
+
+“Sanjaya said, ‘Returning from battle every day, O monarch, all of us, O
+foremost one of Kuru’s race, used to debate in the night and say unto
+Karna, “Tomorrow morning, O Karna, this dart should be hurled at either
+Kesava or Arjuna.” When, however, the morning came, O king, through
+destiny, both Karna and the other warriors forgot that resolution. I
+think destiny to be supreme, since Karna, with that dart in his hands,
+did not slay in battle either Partha or Devaki’s son, Krishna. Indeed,
+because his understanding was afflicted by destiny itself, it is for this
+that he did not, stupefied by the illusion of the gods, hurl that fatal
+dart of Vasava, though he had it in his hand, at Devaki’s son, Krishna
+for his destruction or at Partha endued with prowess like Indra’s, O
+lord!’
+
+“Dhritarashtra said, ‘Ye are destroyed by destiny, by your own
+understanding, and by Kesava. Vasava’s dart is lost, having effected the
+slaughter of Ghatotkacha who was as insignificant as straw. Karna, and my
+sons, as all the other kings, through his highly impolitic act, have
+already entered the abode of Yama. Tell me now how the battle once more
+raged between the Kurus and the Pandavas after the fall of Hidimva’s son.
+How did they that rushed against Drona, arrayed in order of battle and
+well-skilled in smiting, viz., the Srinjaya and the Panchalas, fight?
+How, indeed, did the Pandus and Srinjaya withstand the smiting Drona,
+when the latter proceeding against them, penetrated into their host,
+excited with wrath at the slaughter of Bhurisravas and Jayadratha,
+reckless of his very life, and resembling a yawning tiger or the
+Destroyer himself with wide open mouth? What also did they do in battle,
+O sire, viz., Drona’s son and Karna and Kripa and others headed by
+Duryodhana that protected the preceptor? Tell me, O Sanjaya, how my
+warriors in that battle covered with their shafts Dhananjaya and
+Vrikodara who were solicitous of slaying Bharadwaja’s son. How, indeed,
+did these excited with wrath at the death of the ruler of the Sindhus,
+and those at the death of Ghatotkacha, each side unable to brook their
+loss, fight that nocturnal battle?’
+
+“Sanjaya said, ‘Upon the slaughter, that night, O king, of the Rakshasa,
+Ghatotkacha, by Karna, thy troops, filled with joy, uttered loud shouts.
+In that dark hour of the night, they fell impetuously upon the Pandava
+troops and began to slay them. Seeing all this, king Yudhishthira became
+exceedingly cheerless, O chastiser of foes. The mighty-armed son of
+Pandu, then addressed Bhimasena and said, “O thou of mighty arms, resist
+the Dhritarashtra host. In consequence of the slaughter of Hidimva’s son,
+a great stupefaction overwhelms me.” Having ordered Bhimasena thus, he sat
+down on his car. With tearful face and sighing repeatedly, the king
+became exceedingly cheerless at the sight of Karna’s prowess. Beholding
+him so afflicted, Krishna said these words, “O son of Kunti, let not such
+grief be thine. Such cheerlessness does not become thee, O chief of the
+Bharatas, as it does an ordinary person. Rise, O king, and fight. Bear
+the heavy burden, O lord! If cheerlessness overtakes thee, our victory
+becomes uncertain.” Hearing these words of Krishna, Dharma’s son,
+Yudhishthira, wiping his eyes with his hands, replied unto Krishna,
+saying, “O thou of mighty arms, the excellent path of duty is not unknown
+to me. The dire consequences of a Brahmana’s slaughter are his that
+forgets the services he receives at other’s hands. Whilst we were living
+in the woods the high-souled son of Hidimva, although then a mere child
+did us many services, O Janardana! Learning that Partha, having white
+steeds, had departed for the acquisition of weapons, that great bowman
+(viz., Ghatotkacha), O Krishna, came to me at Kamyaka. He dwelt with us
+till Dhananjaya’s reappearance. Whilst proceeding over many inaccessible
+fastnesses, he himself carried on his back the tired princess of
+Panchala. The feats he achieved, O lord, show that he was skilled in all
+modes of warfare. Indeed, that high-souled one accomplished many
+difficult feats for my benefit. My affection for Ghatotkacha, that prince
+of the Rakshasas is twice that, O Janardana, which I naturally bear
+towards Sahadeva. That mighty-armed one was devoted to me. I was dear to
+him and he was dear to me. It is for this that, scorched by grief, O thou
+of Vrishni’s race, I have become so cheerless. Behold, O thou of
+Vrishni’s race, our troops afflicted and routed by the Kauravas. Behold,
+those mighty car-war
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0475 | next_story_id: DKS_0477
+previous title: Krishna Explains His Protection of Arjuna
+next title: Krishna Devises the Ashvatthama Stratagem

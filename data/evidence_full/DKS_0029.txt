@@ -1,0 +1,32 @@
+# STORY DKS_0029 — Yasoda Sees the Universe in the Nursing Child's Mouth
+
+## Index entry
+title: Yasoda Sees the Universe in the Nursing Child's Mouth
+summary: As Yasoda nurses the yawning child, she glimpses the whole cosmos within his open mouth and trembles in wonder.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Yasoda
+locations: Gokula
+themes: cosmic_vision, wonder
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0043
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 7 | verses 33-37 | confidence 5
+  excerpt: While Yasoda fondly looks at her child, he yawns and she beholds within his mouth the sky, the earth, the oceans, the sun and moon, and all beings, and she is struck with awe. (rendered from Sanskrit, verse 33-37)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.7 (33-37)
+33. ekadārbhakam ādāya svāṅkam āropya bhāminī /
+34. pīta-prāyasya jananī sutasya rucira-smitam /
+35. khaṃ rodasī jyotir-anīkam āśāḥ sūryendu-vahni-śvasanāmbudhīṃś ca /
+36. sā vīkṣya viśvaṃ sahasā rājan sañjāta-vepathuḥ /
+37. bhp_10.08.001/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0028 | next_story_id: DKS_0030
+previous title: Trinavarta Is Crushed by the Child's Weight
+next title: Garga Secretly Names Rama and Krishna

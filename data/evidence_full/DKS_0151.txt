@@ -1,0 +1,107 @@
+# STORY DKS_0151 — The Yadavas Counsel That Mathura Cannot Withstand Siege
+
+## Index entry
+title: The Yadavas Counsel That Mathura Cannot Withstand Siege
+summary: The Yadavas tell Krishna that Mathura lacks walls and provisions and cannot withstand Jarasandha's repeated sieges.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Krishna, Vikadru, Vasudeva, Yadavas
+locations: Mathura
+themes: counsel, vulnerability
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0168
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 94 | verses  | confidence 4
+  excerpt: 'This city has a limited supply of food and fuels. It is not protected by a fort... It will not therefore be able to stand attack for even one day.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.94 ()
+TITLE: THE SONS OF YADU AND THEIR CONQUESTS
+
+Vaishampayana said:—After a long time the king Yadu begat on the five
+daughters of the Nāga king five large armed royal sons, the scions of
+his family, namely Muchukunda, Padmavarna, Mādhava, Sārasa and Harita
+(1-2). Beholding those five sons like unto the five elements the king,
+of incomparable prowess, was delighted (3).
+
+Once on a time worked up with pride and strength the five brothers, like
+unto five pillars of earth, stood before their sire and said:—"O father,
+we have come of age and have been endued with great strength. Command us
+soon what we shall do according to your mandate" (4-5)?
+
+Hearing the words of his sons endued with the prowess of a tiger and
+marking their earnestness for work Yadu, the foremost of kings, was
+highly pleased and said (6):—"Let my son Muchukunda build up two
+mountainous cities around the mountains Vindhya and Rikshavan (7). Let
+my son Padmavarna build up in no time in the South a city on the
+mountain Sahya (8). Let my son Sarasa lay out a charming city in the
+province adorned with Champaka trees in the West on the mount Sahya (9).
+Let my son, the large-armed Harita protect the island of Dhumavarna, the
+king of serpents, situate in the ocean of yellow water (10). And
+installed in the office of heir-apparent, let my pious and large-armed
+son Mādhava, the eldest and foremost of all my sons, rule over my own
+kingdom (11)".
+
+Thereupon according to the mandate of their sire, those foremost of
+kings, duly installed with chowries and others, and having attained to
+regal prosperity, set out towards their respective provinces in search
+of the quarters where they would lay out their cities (12-13). Having
+selected the interior of the Vindhyā impassable with hills, situate on
+the bank of Nermuda, for laying out his city, the royal saint Muchukunda
+cleared that place, constructed a bridge on a level with Nermuda and
+laid out ditches full of fathomless water around the city (14–15). In
+the various wards of the city were constructed temples, carriage roads,
+shops, high ways and gardens (26). Within a very short time that
+foremost of kings Muchukunda adorned his city with flag-staffs and
+pennons and filled it with wealth, corn and kine. It became prosperous
+like (Amarāvati), the capital of Indra (17). That foremost of kings,
+powerful like the king of gods, thus named his city built up by his own
+power. Since this city is built under the protection of the mountain
+Rikshavān and abounds in rocks it will be celebrated by the name of
+Mahishmati (18-19). Thereupon between the mountains Vindhyā and
+Rikshavān he laid out a highly charming city beautiful like the city of
+gods, by name Purika consisting of hundreds of gardens, prosperous shops
+and courtyards (20–21). Because that city was laid out around the mount
+Rikshavān by the pious-souled king Muchakunda it was named Purika (22).
+Thus did the powerful king Muchukanda, the foremost of the pious, build
+two spacious cities worthy of being enjoyed by the gods and began to
+rule over them (23). The royal saint Padmavarna laid out, on the
+mountain Sahya on the bank of the river Venā, the province Padmāvata
+abounding in trees and creepers with a skill like that displayed by the
+celestial Architect Viswakarma. And his city was known by the name of
+Karavira. Knowing the small compass of his territories the king laid out
+one complete kingdom (24-26). In the well-known prosperous province of
+Vanavāsi abounding in trees of all seasons Sārasa built his highly
+charming city Krouncha consisting of many Champoka and Asoka trees and
+coppery colored earth (27–28). Harita began to govern the island of the
+ocean abounding in many jewels and beautiful women (29). In his kingdom
+the fishermen, called Mudgaras, used to range in the bed of the ocean
+and collect shells (30). People of other provinces used to gather heaps
+of corals and brilliant pearls grown in water. (31). Searching in small
+boats and collecting jewels born in water Nishādas used to gather them
+in big boats (32). People of that kingdom used to feed upon fish and
+meat. Taking all sorts of jewels the inhabitants of the jeweled island
+used to go to distant countries in boats and used to encompass the
+satisfaction of Harita only like unto the god of riches with articles
+acquired by merchandise (33-34). Thus originating from the Ikshwāku race
+and being divided into four by the sons of Yadu his family was split up
+into four branches (35).
+
+Having conferred in time upon Mādhava the foremost of the Yadu race his
+own kingdom, the Emperor Yadu cast off his earthly body and repaired to
+the city of the celestials (36). To Mādhava was born a powerful son by
+name Satwata endued with the quality of goodness and endowed with every
+sort of royal accomplishment (37). Sātwata’s son, the highly powerful
+Bhima also became a king. After his name his descendants are called
+Bhaima and those of Sātwata are known by the name of Satwatas (38).
+While this king was ruling Rāma also flo
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0150 | next_story_id: DKS_0152
+previous title: Memories of the Gurukula || Krishna and Sudama recall their student days under Sandipani, when they were sent to fetch firewood and, caught in a fierce storm, wandered lost until the guru found them at dawn.
+next title: Krishna Resolves to Abandon Mathura

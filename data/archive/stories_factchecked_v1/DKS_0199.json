@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0199",
+ "title": "The Vow at Ambika's Temple",
+ "subtitle": "Rukmini's silent prayer as her wedding dawns",
+ "story": "A single night lay between Rukmini and her wedding, and the man she had chosen had not come.\n\nHer mind, stolen away by Govinda, would not rest. She thought: only a night remains before my wedding, and I am a girl of little fortune. Will the faultless one find something blameworthy in me? The creator is not favorable to me, nor Maheshvara. Tears came as she prayed, with everything in her, that Krishna alone might be her husband.\n\nThen, at last, came the messenger. The same brahmana she had sent to Dwaraka returned to her, sent back now by Krishna himself, with a bright face and news that made her heart lift: he had come. The darling of the Yadus had reached Vidarbha. Krishna was here.\n\nNews travels in a wedding city. Bhishmaka heard that Krishna had arrived among the gathered kings, and he offered the madhuparka, the honeyed welcome kept for honored guests, with fresh garments, and had a splendid residence made ready for him. And the townspeople of Vidarbha, hearing that Krishna walked among them, said openly what everyone felt: \"Rukmini deserves to be his wife, and no other. What good deed did we do, that the maker of the three worlds should be pleased with us?\" Love bound the whole city; they spoke of nothing else.\n\nThen came the day of the family goddess's procession — the day Rukmini's own message had pointed to. Wrapped in a vow of silence, she went out on foot to see the lotus-petal feet of Bhavani, her mothers and her companions all around her. Thousands of women followed with offerings; singers sang and musicians played; and the city poured out to watch the bride go to the temple of the goddess.\n\nAt the shrine she washed her hands and her feet. The elderly brahmana women who knew the rites worshipped the goddess with water, perfume, unbroken rice, incense, fresh garments, garlands, and ornaments, and the married women of the household joined them in the worship. Then they gave Rukmini the remainder of the offerings and pronounced their blessings over her. And Rukmini, bowing before the goddess, prayed the one prayer she had carried in her heart across all those miles: may Krishna, the Lord, alone become my husband. Bless this.\n\nShe rose, laid aside her vow of silence, and came out of Ambika's temple. And the assembled heroes who saw her — slim-waisted, her face bright with earrings, her smile pure, her lips like bimba fruit, her teeth like jasmine buds — stood struck silent, struck with love, as if the goddess's own enchantment had stepped out into the daylight.\n\nOnly one man in all that crowd did not stare. Krishna had come, as she had asked him to. And the procession that was to have delivered her to Shishupala was about to deliver her to Krishna instead.",
+ "reflection": "Rukmini's prayer at the temple is both worship and the final move of her own plan: the procession she had described in her message is what brings her out of the inner apartments, into the open, where Krishna can reach her. The goddess is asked to bless what the princess has already resolved.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Rukmini",
+  "Krishna"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "anxiety",
+  "devotion",
+  "prayer"
+ ],
+ "previous_story_id": "DKS_0198",
+ "next_story_id": "DKS_0200",
+ "next_story_tease": "Beyond the temple door, the hour she had written to him about had come.",
+ "hero_scene": "Rukmini kneeling in silent prayer before the image of Ambika in the incense-filled shrine, her hands joined, her mothers and friends around her, the lamp of the goddess lighting her bowed head as the brahmana women chant blessings.",
+ "visual_elements": [
+  "Rukmini kneeling in silent prayer",
+  "the image of the goddess Ambika",
+  "incense and lamplight in the shrine",
+  "the brahmana women chanting blessings",
+  "Rukmini's mothers and companions around her",
+  "the offerings of flowers and unbroken rice",
+  "a mood of anxious devotion turning to peace"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.53.20-52",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:32Z",
+  "source_event_id": "evt_0241"
+ },
+ "editorial_status": "unreviewed"
+}

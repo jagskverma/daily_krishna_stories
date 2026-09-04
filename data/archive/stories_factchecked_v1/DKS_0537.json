@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0537",
+ "title": "Bhrigu Tests the Three Gods",
+ "subtitle": null,
+ "story": "Which of the three gods was greatest? The sages who gathered to debate it could not agree, and argument after argument came to nothing. It was, they thought, a fair test — for a god who could not bear a slight was, in the end, no greater than the man who offered it. At last they resolved to settle the matter not with words but with a test. They chose a tester, the sage Bhrigu, and sent him out with a single instruction: offer no bow, no hymn, no word of honor to any of the three, and watch what happened. A god's greatness, they reasoned, would show most clearly in how he bore an insult.\n\nBhrigu went first to Brahmaloka, the heaven of Brahma the creator — who happened to be his own father. He walked in and stood before the god and said nothing. No prostration, no praise, not a single syllable of respect. Brahma felt the anger rise in him, hot and gathering, ready to pour out. Then he looked at the man standing silent before him, his own son, and he held it down. He swallowed his anger and let the insult pass unanswered.\n\nNext Bhrigu climbed to Kailasa, the mountain home of Shiva. Again he offered nothing: no greeting, no honor, no sign that he stood before a god at all. Shiva's anger did not wait to be held. It rose at once, and his trident was already lifting to strike when the goddess, his consort, threw herself at his feet and spoke soft words to him, and slowly the storm in him went still.\n\nLast of all, Bhrigu came to Vaikuntha, the home of Vishnu. There he found the god lying at ease, the goddess of fortune resting against his chest. Bhrigu walked straight up to him and, without a word, drove his foot into that chest.\n\nWhat happened next is the whole point of the story. Vishnu rose at once from his couch — not to strike back, but to bow. He bent his head to the sage and asked his forgiveness. Let the touch of the sage's foot purify me, he said, and all who depend upon me. “Today,” he went on, “your foot has made me the true dwelling of Lakshmi, the goddess of fortune who rests upon this chest.”\n\nBhrigu stood silent. This was not the answer he had come prepared to receive, and it undid him. He had expected, at best, a god who could master his temper. He had found instead a god who seemed not to have one — who met a blow not with patience but with welcome, as though the foot that struck him had come bearing a gift.\n\nHe returned to the assembly of sages and told them what he had seen, and they listened in wonder, and the doubt they had carried fell away. In Vishnu, they saw now, dwelt all that a soul could want of a god — righteousness, and wisdom, and the freedom from desire, and a nature so pure that it could not be provoked. Greatness, Bhrigu told them, does not live in the power to punish an insult. It lives in the one who can take a blow and answer it with calm. Of the three, only Vishnu had met rage with stillness and a kick with a blessing; only Vishnu was the true abode of peace and of fearlessness.\n\nAnd so the question was answered — not by the one who raged, not by the one who merely mastered his rage, but by the one in whom no rage rose at all.",
+ "reflection": "The sages set out to measure power and instead measured restraint. Two gods burned at an insult; the third apologized to the foot that struck him — and that, Bhrigu reported back, is where greatness actually lives. The test was meant to find strength, and it found the thing that most looks like weakness: the man who does not hit back.",
+ "tradition_note": null,
+ "content_note": "Shiva raises his trident in anger, and Bhrigu strikes Vishnu's chest with his foot; no injury is shown.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "other",
+ "characters": [
+  "Bhrigu",
+  "Brahma",
+  "Shiva",
+  "Vishnu"
+ ],
+ "locations": [
+  "Brahmaloka",
+  "Kailasa",
+  "Vaikuntha"
+ ],
+ "themes": [
+  "supremacy",
+  "forbearance",
+  "test"
+ ],
+ "previous_story_id": "DKS_0530",
+ "next_story_id": null,
+ "next_story_tease": null,
+ "hero_scene": "Bhrigu driving his foot into Vishnu's chest as Vishnu reclines with the goddess Lakshmi, while Vishnu — unhurried, unangered — already begins to rise and bow.",
+ "visual_elements": [
+  "Bhrigu, the sage",
+  "Brahma restraining his anger",
+  "Shiva raising his trident",
+  "the goddess calming Shiva",
+  "Vishnu reclining with Lakshmi",
+  "Lakshmi, the goddess of fortune",
+  "the kick upon Vishnu's chest",
+  "Vishnu bowing to the sage",
+  "the assembly of sages",
+  "a mood of rising tension turning to calm"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.89.1-18",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:48Z",
+  "source_event_id": "evt_0524"
+ },
+ "editorial_status": "unreviewed"
+}

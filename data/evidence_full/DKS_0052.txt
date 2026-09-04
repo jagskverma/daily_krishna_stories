@@ -1,0 +1,34 @@
+# STORY DKS_0052 — The Boys Resume Their Meal Unaware of the Lost Year
+
+## Index entry
+title: The Boys Resume Their Meal Unaware of the Lost Year
+summary: Krishna returns the boys and calves as before, and, though a year had passed, to them it seemed but a moment, and they finish their picnic and go home.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, cowherd boys
+locations: Vrindavan
+themes: illusion, timelessness
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0064
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 14 | verses 41-47 | confidence 5
+  excerpt: Krishna brings the boys and calves back to the sandbank as though nothing had happened; to them the whole year seemed no more than half a moment, and they return, carrying the python's dried skin as a trophy. (rendered from Sanskrit, verse 41-47)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.14 (41-47)
+41. tato 'nujñāpya bhagavān sva-bhuvaṃ prāg avasthitān /
+42. ekasminn api yāte 'bde prāṇeśaṃ cāntarātmanaḥ /
+43. kiṃ kiṃ na vismarantīha māyā-mohita-cetasaḥ /
+44. ūcuś ca suhṛdaḥ kṛṣṇaṃ sv-āgataṃ te 'ti-raṃhasā /
+45. tato hasan hṛṣīkeśo 'bhyavahṛtya sahārbhakaiḥ /
+46. barha-prasūna-vana-dhātu-vicitritāṅgaḥ $ proddāma-veṇu-dala-śṛṅga-ravotsavāḍhyaḥ &amp;vatsān gṛṇann anuga-gīta-pavitra-kīrtir % gopī-dṛg-utsava-dṛśiḥ praviveśa goṣṭham
+47. adyānena mahā-vyālo yaśodā-nanda-sūnunā /
+
+## Corpus chain
+previous_story_id: DKS_0051 | next_story_id: DKS_0053
+previous title: Brahma Praises Krishna and Departs
+next title: The Boys Long for the Palm Grove's Fruit

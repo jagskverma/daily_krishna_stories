@@ -1,0 +1,107 @@
+# STORY DKS_0254 — Kottavi Again Intercedes; Krishna Vows to Cut Vana's Arms || When the naked goddess Kottavi again stands between them to honour her boon of protection to Vana, Krishna vows to cut off Vana's thousand arms, leaving only two, while sparing his life.
+
+## Index entry
+title: Kottavi Again Intercedes; Krishna Vows to Cut Vana's Arms || When the naked goddess Kottavi again stands between them to honour her boon of protection to Vana, Krishna vows to cut off Vana's thousand arms, leaving only two, while sparing his life.
+summary: When the naked goddess Kottavi again stands between them to honour her boon of protection to Vana, Krishna vows to cut off Vana's thousand arms, leaving only two, while sparing his life.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Kottavi (Lamva), Vana
+locations: Sonitpura battlefield
+themes: goddess's boon, vow, mercy
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0356
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 275 | verses  | confidence 4
+  excerpt: Lamvā... appeared naked before Vasudeva... said:—"...I conferred on him a boon saying that I would protect him"... Krishna... said:—"...I will forsooth cut off to-day his thousand arms... Your son will live even if Vāna has two arms"
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.275 ()
+TITLE: THE BATTLE BETWEEN VANA AND KRISHNA
+
+Beholding Vāna issue out and stand for battle Krishna too rode Garuda
+and went towards Wāna. Beholding the Yadu king Krishna, of incomparable
+energy, the rider of Garuda, approach and stand in the west Vāna was
+filled with anger and said to Vāsudeva:—"Wait! Wait! You will not escape
+from me to-day alive to Dwarakā and see your friends there. O Mādhava,
+you have been urged on by Death. Therefore vanquished by me in battle,
+you will, on the eve of your death, see the golden leaves of the trees.
+O Garudhwaja, being of eight arms how you will be able to fight with me
+who have a thousand arms? Slain with all your friends by me in the city
+of Shonita you will remember Dwārakā. You will see to-day my thousand
+arms, adorned with various weapons and ornaments, multiply into a
+million" (36-44).
+
+While Vāna was thus roaring his words as if travelled all over like the
+dreadful waves of an ocean raised by the wind. As if desirous of
+consuming the world the eyes of that highly powerful Asura, filled with
+anger, shone like two suns rising in the firmament. Hearing those proud
+words of Vāna Nārada so laughed aloud that as if the sky was sundered in
+twain. Seated on a Yoga seat that ascetic, filled with curiosity, moved
+about on all sides for seeing the battle (45-48).
+
+Krishna said:—"O Vāna, why are you roaring thus out of foolishness? The
+heroes do not vaunt thus. What is the use of vaunting? Come and fight
+with me in the battle field. O son of Diti, you have given vent to many
+unconnected words. If by words victory is accomplished in a battle, you
+would have been no doubt victorious. Come O Vāna; either defeat me or
+vanquished by me lie down on earth for good with your face down." Saying
+this Krishna struck Vāna with arrows cutting him to the quick. Thus
+mangled in that dreadful encounter by Krishna with arrows cutting to the
+very vitals Vāna, with great care, covered Krishna with burning arrows.
+With Parighas, Nisthringsas, clubs, Tomaras, Saktis, maces and Pattishas
+he completely covered Keshava. Proud Vāna, having a thousand arms,
+easily fought in the battle-field with two-armed Keshava. Although
+having eight-arms Keshava, the holder of conch-shell, discus and club,
+fought with thousand-armed Vāna in that battle. Then beholding Krishna’s
+superior training Bali’s son was greatly worked up with anger. He then
+discharged that celestial great weapon destructive of all enemies which
+Brahmā, by his ascetic powers, had formerly created for Hiranyakashipu.
+When that weapon was shot off all the quarters were enshrouded with
+darkness and thousands of dreadful omens were seen on all sides. When
+all the worlds were covered with darkness every thing was beyond the
+range of perception (49-59). The Dānavas applauded Wāna, saying "Well
+done! Well done!" and words of exclamations by the gods as "Alas!" were
+heard (90). A dreadful downpour of burning arrows was caused by the
+power and force of that weapon (61). When that weapon was discharged by
+Vāna and Keshava was being burnt, wind, storm or clouds did not move
+(62). When the divine slayer of Madhu took up Indra’s weapon like unto
+inevitable death in the battle-field all the worlds were shorn of
+darkness, the fire was extinguished and the Dānavas completely lost
+their hearts. Seeing the Dānava weapon counteracted as soon as Indra’s
+weapon was got ready the gods began to laugh and roar like lions
+(63–65).
+
+Beholding his weapon thus counteracted Diti’s son Vāna was beside
+himself with rage, said harsh words to Keshava who was on Garuda and
+covered him with maces and Pattiças. Keshava, the slayer of his enemies,
+however soon counteracted similingly his uplifted weapon. In that great
+battle with arrows, like unto thunderbolts, shot off his Srānga bow
+Keshava sundered Vāna’s car, with horses and standards, into pieces. The
+very next moment the highly powerful Keshava separated from Vāna’s
+person his highly lustrous crown, coat of mail, bow and shield. And
+smilingly he struck him on the breast with winged arrows. Cut to the
+very quick Vāna lost his consciousness and swooned away. Seeing Vāna
+thus struck and swoon away Nārada, who was sitting on the highest top of
+the palace, rose up with clapping and said "O great fortune! Great
+fortune, blessed is my life and birth since I have witnessed today this
+wonderful prowess of Dāmodara. O thou of large arms, O thou adored by
+the gods, do thou accomplish that for which thou hast incarnated
+thyself. Destroy soon Diti’s son Vāna." Having thus sung the glories of
+the Lord Krishna and emblazoned the battle-field with sharpened arrows
+he moved about in the battle-field (66–76).
+
+In that battle their standards, encountering each other, fought; so did
+the horses of the Devas and Dānavas. When Garuda and the peacock fought
+they struck each other with wings, beaks and talons. Thereupon leaping
+up in anger the highly powerful son of Vinatā speedily caught hold of
+the peacock’s head with his beaks and struck him wi
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0253 | next_story_id: DKS_0255
+previous title: Vana Vaunts and Fights Krishna || Vana boasts of his thousand arms, but Krishna answers and, with the Sarnga bow, sunders Vana's car, horses and standard, then strips him of crown, mail, bow and shield until he swoons.
+next title: Shiva Intercedes for Vana; Vana Dances and Wins Boons || Shiva intercedes for Vana's life, Krishna withdraws his discus, and the armless Vana, bidden by Nandi, dances before Shiva and receives boons, becoming the Pramatha chief Mahakala.

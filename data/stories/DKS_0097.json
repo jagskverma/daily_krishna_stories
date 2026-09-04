@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0097",
+ "title": "The Brahmanas Repent",
+ "subtitle": null,
+ "story": "In the forest near the cowherd village of Vrindavan, a company of brahmin priests had begun a great sacrifice. Everything was in its place: the right hour, the right offerings, the right verses chanted in the right order, and fires tended by men who knew every rule. They had given themselves to it completely — so completely that when a young cowherd came to them asking for food, a boy sent by his companion Krishna, who waited hungry in the forest with his friends, they waved him away. There were rules to follow. There was no time for a cowherd's errand.\n\nIt was their wives who went instead, carrying food through the woods to Krishna and his friends while their husbands stayed behind with the fire. Now the women came home, and the priests looked at them, and something in their faces stopped the men where they stood. Even the one wife whose husband had held her back by force had not truly been stopped: she had closed her eyes and gone to Krishna in her mind, meditating on him exactly as she had heard of him. And Krishna, for his part, had fed the cowherds with the very food the women carried.\n\nThen the full knowledge of it reached them, the way a slow truth reaches a man who has been busy elsewhere. The boy they had refused was Vishnu himself, standing in the forest in the shape of a cowherd — and they had turned him away for the sake of a ritual. What they said to one another was not a proud speech. \"Shame on our birth,\" they said, \"and on the three aims it taught us to chase. Shame on our vows. Shame on our great learning.\" For the power that deludes, they saw now, could bewilder even the wise — even the yogis. And look at these women: no sacred thread, no years of study at a teacher's feet, and yet they loved Krishna, the teacher of all the worlds, with a love that shamed everything the men had spent their lives acquiring.\n\nThen they saw what they had missed. The place of the sacrifice, the hour, the offerings, the verses, the priests, the fires — these were not separate things to be arranged. They were all Krishna himself. He was the one whom the goddess of fortune serves, turning from all others, longing for the touch of his feet; the one who needs nothing at all, and yet grants liberation to all who ask. \"Salutations to Krishna,\" they said, \"whose wisdom never falters. He is Vishnu himself, the lord of the lords of yoga, the first being of all — and it is his own power that keeps our minds deluded.\" They remembered their fault, the insult they had offered him, and they wanted, more than anything, to look upon his face.\n\nBut they did not go. They were afraid. Kamsa, the king of Mathura, ruled not far away, and his cruelty was known in every house. So the men who knew every verse of the ritual sat at home and longed for the boy they had turned away, praising him in words they had never once thought to speak beside their fire.",
+ "reflection": "The brahmanas' lament is really a confession that their ritual had become an end in itself — something performed without remembering whom it was for. The women, who knew none of the rules, had found the one the rules point to.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "brahmanas",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "repentance",
+  "humility"
+ ],
+ "previous_story_id": "DKS_0096",
+ "next_story_id": "DKS_0098",
+ "next_story_tease": null,
+ "hero_scene": "The brahmanas gathered in their home at night, their sacrificial fire burning low, as they sit bowed with their heads in their hands, faces lifted with regret toward the doorway through which their wives have just returned, their devotion to Krishna hanging unspoken in the air.",
+ "visual_elements": [
+  "brahmanas",
+  "sacrificial fire burning low",
+  "returning wives",
+  "regret and humility",
+  "night",
+  "ritual offerings and vessels",
+  "longing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.23.32-51",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:14:58Z",
+  "source_event_id": "evt_0090",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0070",
+ "title": "The Vow at the Poisoned Lake",
+ "subtitle": null,
+ "story": "One morning Krishna went into the forest alone. Not with Balarama, and not with the herd of boys who usually followed at his heels — only himself, dark as a rain-cloud, with a feather in his hair, garlands of new kadamba and arjuna buds around his neck, and a flute in his hand, walking where the cattle led him. The woods of Vrindavan that day seemed made for wandering. Peacocks called from the branches, and low thunder muttered among the hills, as if the season itself were leaning close to listen.\n\nHe had ranged here before, and the forest always answered him. Plantain groves stood thick and green, the ground was soft with new grass and studded with lotuses, and the air carried the scent of dark-blue lotus from the water. Fountains lay hidden among the trees, and the wind that came off the leaves fanned him as he walked. It was the kind of place, the old verses say, where a boy might sing to his cows and believe the whole earth was listening. Sometimes he would stop under the great Bhandiraka fig tree, tall enough to brush half the sky, its branches bowed with fruit, and let the other cowherd boys amuse him with their songs, and answer them on his flute.\n\nThen one day, while the cattle grazed and the sun climbed, he came down to the bank of the Yamuna. The river lay before him like a woman decked for a festival — lilies and lotuses on her surface, swans and cranes calling over the water, her landing-stairs smooth, her current strong and sweet, her many little lakes catching the light, and the water-fowl ranging over her in pairs. It should have been the sweetest water in the world.\n\nBut the river was not well. There, in a lake along her side, lived Kaliya, the serpent-king, and his venom had seeped into the water until it was no longer fit to drink. Nothing that drank from it could live. The birds had gone quiet over the water, and for all its beauty the river carried a hidden bitterness that could kill.\n\nKrishna stood at the edge and looked into the deep. He did not rage, and he did not turn away. Quietly, the way a boy decides to climb a tree for its fruit, he made up his mind. I should vanquish this king of serpents, he resolved. I shall climb the Kadamba tree, and jump into the lake, and vanquish Kaliya.\n\nIt was a small sentence for so great a deed, and he spoke it without raising his voice. But the resolve was set, and the water, as if it knew, seemed to darken under his gaze.",
+ "reflection": "The striking thing about the resolve is its quiet. Krishna does not rehearse a battle or boast of strength; he decides the way a boy decides to climb a tree, and the whole deliverance of the river hangs on that calm sentence.",
+ "tradition_note": "This moment of resolve is particular to the Harivamsha; the Bhagavata Purana moves more directly from the poisoning of the river to the leap.",
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Krishna",
+  "Kaliya"
+ ],
+ "locations": [
+  "Yamuna lake"
+ ],
+ "themes": [
+  "courage",
+  "resolve"
+ ],
+ "previous_story_id": "DKS_0069",
+ "next_story_id": "DKS_0071",
+ "next_story_tease": "But the poisoned water had already begun its silent work on the unsuspecting cowherds and their cattle.",
+ "hero_scene": "Krishna standing alone at the edge of the poisoned lake, flute lowered in his hand, gazing into the dark water as the great kadamba tree rises behind him.",
+ "visual_elements": [
+  "Krishna with a feather in his hair",
+  "flute",
+  "the dark poisoned lake",
+  "the kadamba tree",
+  "lotuses on the river",
+  "peacocks in the trees",
+  "cattle grazing nearby",
+  "calm resolve"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.66",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:16Z",
+  "source_event_id": "evt_0076"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

@@ -1,0 +1,34 @@
+# STORY DKS_0061 — Krishna Enjoys the Monsoon Pastures
+
+## Index entry
+title: Krishna Enjoys the Monsoon Pastures
+summary: Krishna and Balarama enter the rain-washed forest with the herd, and the boys share a simple meal of curd-rice with him on a rock.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Balarama, cowherd boys
+locations: Vrindavan
+themes: joy, nature, companionship
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0082
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 20 | verses 24-30 | confidence 5
+  excerpt: In the rains, Krishna and Balarama lead the cattle into the lush forest, where they picnic on curd and rice set out on a stone and rest among the contented cows. (rendered from Sanskrit, verse 24-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.20 (24-30)
+24. evaṃ vanaṃ tad varṣiṣṭhaṃ pakva-kharjura-jambumat /
+25. dhenavo manda-gāminya ūdho-bhāreṇa bhūyasā /
+26. vanaukasaḥ pramuditā vana-rājīr madhu-cyutaḥ /
+27. kvacid vanaspati-kroḍe guhāyāṃ cābhivarṣati /
+28. dadhy-odanaṃ samānītaṃ śilāyāṃ salilāntike /
+29. śādvalopari saṃviśya carvato mīlitekṣaṇān /
+30. prāvṛṭ-śriyaṃ ca tāṃ vīkṣya sarva-kāla-sukhāvahām /
+
+## Corpus chain
+previous_story_id: DKS_0060 | next_story_id: DKS_0062
+previous title: Krishna Swallows the Wildfire and Saves the Herd
+next title: The Cowherds Wonder at Krishna's Deeds

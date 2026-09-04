@@ -1,0 +1,139 @@
+# STORY DKS_0139 — Krishna and Balarama Slay the Wrestlers
+
+## Index entry
+title: Krishna and Balarama Slay the Wrestlers
+summary: Despite the women's protest, Krishna slays Chanura and Balarama slays Mushtika, Kuta, Shala and Tośala.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Balarama, Chanura, Mushtika
+locations: Mathura arena
+themes: wrestling, victory
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0142
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 44 | verses 1-27 | confidence 5
+  excerpt: The women protested the unequal match, but Krishna seized Chanura, whirled him and dashed him to the ground, killing him, while Balarama slew Mushtika, and Rama and Krishna slew Kuta, Shala and Tośala. (rendered from Sanskrit, verses 1-27)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 85 | verses  | confidence 4
+  excerpt: Wrestling with Chanura for a long time, Devaki's son... stole away his strength... struck him on the head with his fist... Thus with his eyes drawn out Chanura... lay in the arena.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 20 | verses  | confidence 4
+  excerpt: Having whirled Cháńúra round a hundred times... Krishńa dashed him on the ground with such violence as to smash his body into a hundred fragments... the mighty Baladeva... pummelled him there till he was dead.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.44 (1-27)
+1. hastābhyāṃ hastayor baddhvā padbhyām eva ca pādayoḥ /
+2. aratnī dve aratnibhyāṃ jānubhyāṃ caiva jānunī /
+3. paribhrāmaṇa-vikṣepa- parirambhāvapātanaiḥ /
+4. utthāpanair unnayanaiś cālanaiḥ sthāpanair api /
+5. tad balābalavad yuddhaṃ sametāḥ sarva-yoṣitaḥ /
+6. mahān ayaṃ batādharma eṣāṃ rāja-sabhā-sadām /
+7. kva vajra-sāra-sarvāṅgau mallau śailendra-sannibhau /
+8. dharma-vyatikramo hy asya samājasya dhruvaṃ bhavet /
+9. na sabhāṃ praviśet prājñaḥ sabhya-doṣān anusmaran /
+10. valgataḥ śatrum abhitaḥ kṛṣṇasya vadanāmbujam /
+11. kiṃ na paśyata rāmasya mukham ātāmra-locanam /
+12. puṇyā bata vraja-bhuvo yad ayaṃ nṛ-liṅga $ gūḍhaḥ purāṇa-puruṣo vana-citra-mālyaḥ &amp;gāḥ pālayan saha-balaḥ kvaṇayaṃś ca veṇuṃ % vikrīdayāñcati giritra-ramārcitāṅghriḥ
+13. gopyas tapaḥ kim acaran yad amuṣya rūpaṃ $ lāvaṇya-sāram asamordhvam ananya-siddham &gopyas tapaḥ kim acaran yad amuṣya rūpaṃ $ lāvaṇya-sāram asamordhvam ananya-siddham &dṛgbhiḥ pibanty anusavābhinavaṃ durāpam % ekānta-dhāma yaśasaḥ śrīya aiśvarasya
+14. yā dohane 'vahanane mathanopalepa preṅkheṅkhanārbha-ruditokṣaṇa-mārjanādau /
+15. prātar vrajād vrajata āviśataś ca sāyaṃ $ gobhiḥ samaṃ kvaṇayato 'sya niśamya veṇum &amp;nirgamya tūrṇam abalāḥ pathi bhūri-puṇyāḥ % paśyanti sa-smita-mukhaṃ sa-dayāvalokam
+16. evaṃ prabhāṣamāṇāsu strīṣu yogeśvaro hariḥ /
+17. sa-bhayāḥ strī-giraḥ śrutvā putra-sneha-śucāturau /
+18. tais tair niyuddha-vidhibhir vividhair acyutetarau /
+19. bhagavad-gātra-niṣpātair vajra-nīṣpeṣa-niṣṭhuraiḥ /
+20. sa śyena-vega utpatya muṣṭī-kṛtya karāv ubhau /
+21. nācalat tat-prahāreṇa mālāhata iva dvipaḥ /
+22. bhū-pṛṣṭhe pothayām āsa tarasā kṣīṇa jīvitam /
+23. tathaiva muṣṭikaḥ pūrvaṃ sva-muṣṭyābhihatena vai /
+24. pravepitaḥ sa rudhiram udvaman mukhato 'rditaḥ /
+25. tataḥ kūṭam anuprāptaṃ rāmaḥ praharatāṃ varaḥ /
+26. tarhy eva hi śalaḥ kṛṣṇa- prapadāhata-śīrṣakaḥ /
+27. cāṇūre muṣṭike kūṭe śale tośalake hate /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.85 ()
+TITLE: TRIAL OF ARMS
+
+Vaishampayana said:—Shaking the earth with the sound of the slapping of
+his arms Krishna, the lotus-eyed son of Devaki, entered the arena, with
+his elder brother before him. His raiment was being shaken by the wind,
+his body was wounded with the tusks of the elephant and his limbs were
+covered with must and blood; he was bounding like a lion and entered
+there quickly like a cloud for bringing about the destruction of Kansa.
+He was very careful to find out the defects and his beautiful arms were
+adorned with the tusks of the elephant. Beholding him thus enter with
+great force the face of Ugrasena’s son grew pale and he began to eye
+them in anger (1–4). With the tusks in his hand Keshava shone there like
+a mountain of one summit stricken with the image of the half-moon (5).
+While he ranged by leaps and bounds, that ocean-like arena shone there
+filled with the echoes of the crowd (6).
+
+Thereupon with his eyes reddened in anger the highly wrathful Kansa
+ordered the greatly powerful Chānura to fight with Krishna (7). He
+ordered the powerful wrestlers Andhra, Nikriti and Mushthika, resembling
+so many mountains, to engage with Balarāma (8). Chānura had already been
+ordered by Kansa to fight with Krishna carefully. And again commanded
+thus, he, with his eyes reddened with ire, went forward to fight like a
+cloud surcharged with water (9-10). Afterwards when the royal mandate
+"Be all silent" was announced on all sides and the entire crowd was
+hushed into silence the Yādavas, assembled together, said (11): "This
+trial at arms was first introduced by the Creator as one in which no
+weapons should be used, in which skill and strength are necessary, in
+which there should be judges and no cowards should take part (12). In it
+(the parties) should await the appointed hour and remove their toil with
+water. It is also laid down that wrestlers should besmear their body
+with cow-dung (13). In it one standing should fight with another such,
+one lying on the ground should engage with another such; in whatever
+condition one may be one should fight with him in that order; such the
+judges say (14). A boy, a youth, an old man, a strong man or a weak man,
+whoever he may be, they should be informed of the particulars of the
+trial waiting in their respective quarters (15). Persons, conversant
+with the modes of wrestling, say that one, conversant with this mode,
+should not display his strength or skill while his antagonist is
+defeated (16). Now Krishna and the wrestler Andhra will fight with each
+other in the arena. Krishna is a mere boy and Andhra is an elderly
+person. We should exercise our judgment in this matter (17)."
+
+Thereupon a great tumult arose in the midst of that assembly and
+Govinda, leaping up, said "I am a boy and though Andhra is of a huge
+body like a mountain I wish to fight with this wrestler of strong arms
+(18–19). Though I am a boy I will commit no transgression of the rules
+of fight and will not at a stain on the opinions of the wrestlers (20).
+Let all the rules, laid down by the cult of wrestlers regarding the use
+of cow-dung, water and other things for besmearing the body, be followed
+(21). One attains to success in the arena by self-control, fortitude,
+manliness, exercise, good conduct and strength; such is the opinion of
+exerts (22). Although I cherish no enmity this man is about to create
+this feeling in me. Vanquishing him I shall therefore please the world
+(23). This wrestler Chānura of huge proportion is born in the province
+of Karusha. Although he is a wrestler his deeds ought to be considered
+(24). This one, desirous of acquiring influence in the arena, has put a
+stigma on the ways of wrestlers by destroying many of them after their
+discomfiture (25). Success, of those fighting with weapons in a battle,
+consists in cutting off those (of this antagonist). So the success of a
+wrestler lies in throwing down his antagonist (26). By acquiring victory
+in battle one attains to eternal glory; and the slain depart to the land
+of the celestials (27). The slayer and the slain, both of them, achieve
+the same end in a battle; so it is called a life-terminating match and
+is spoken highly of by the pious (28). Besides this way of the wrestlers
+is beyond both strength and deed. Where is heaven for the dead and glory
+for the victorious²⁶⁶ (29)? By his folly a king, who is proud of his
+learning, for a display of his power, brings about the death of some
+wrestlers through his own men. (Herein both the agent and the engager)
+are visited by the sin of destruction (30)." No sooner had he said this
+than a highly terrible fight took place between them both like that of
+two elephants in the forest (31). They wrestled with each other in
+various ways, by mutually entwining, laying hold of, letting go the
+adversary, throwing on earth and taking up in the air (32). By mutually
+pulling to and casting back, stricking with fists, elbow, fore-arm and
+knees, interlacing the arms, kicking and striking blows as hard as
+st
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0138 | next_story_id: DKS_0140
+previous title: Chanura Challenges Krishna and Balarama
+next title: Krishna Slays Kamsa
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

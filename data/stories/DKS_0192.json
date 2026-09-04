@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0192",
+ "title": "A Swayamvara That Was Never Meant to Be",
+ "subtitle": null,
+ "story": "The king of Kundina had agreed to a swayamvara he did not want. Bhishmaka had let his son Rukmi send out the invitations — every throne in the land summoned to Kundina, where the princess Rukmini would choose a husband. Now the kings came by every road: chariots, elephants, horses and foot-soldiers poured into the city until the streets seemed to dance with armed men, and with every arrival Bhishmaka felt the affair slipping further out of his hands. He had hoped to give Rukmini to Krishna alone; his son had flung her choice open to every king who cared to come.\n\nSo Bhishmaka came to Krishna, seeking him out as a man seeks the one person who might set a disaster right. \"My son, out of a child's folly, wishes to give away his sister in a swayamvara,\" he said. \"I do not like it. I want my daughter to choose the one she sees, and no other. Forgive my son's bad conduct, I beg of you.\"\n\nKrishna's answer was not gentle. \"If your son is this arrogant while he is still a boy,\" he said, \"how arrogant will he be when he grows old? A king who speaks a falsehood, even before a single king, burns himself up in the end. Truthfulness is the first duty of a king; Brahma, the creator of the world, proclaimed it long ago. So how can your son utter a lie before all these kings gathered in your city?\"\n\nHis voice grew harder still. \"You say you knew nothing of this great gathering — yet kings bright as the sun and moon sit at your tables, and chariots, elephants, horses and foot-soldiers have danced through Kundina. How can you not know your son's work? Perhaps you thought my coming would not suit you, and offered no welcome to one you deemed unworthy. The law-givers say that whoever stands in the way of a maiden's choice wastes himself in hell — that is why I did not enter your assembly hall, nor accept your welcome. Kaishika, a king of this land who delights in guests, gave rest to my followers; and I, with Garuda beside me, live here as in the city of the gods.\"\n\nBhishmaka bowed low. \"Forgive me,\" he said. \"We are blind with ignorance — give us eyes to see. But now we have you, and under your shelter I am afraid of nothing.\"\n\nThen Krishna softened. \"The beauty of your daughter Rukmini has drawn me to this place,\" he said. \"I will not tell you to give her to me and to no one else. But hear what the gods decreed long ago, when they gathered on the summit of Mount Sumeru: 'Go down to the world of men with your husband. Be born in the house of Bhishmaka at Kundina, and be united with Krishna.' I tell you this plainly, king. Do whatever seems right to you, after due thought.\"\n\n\"But know this,\" he went on. \"Your daughter Rukmini is no ordinary woman. She is the goddess Lakshmi herself — fortune in human form — born among mortals at the word of Brahma. She must not be given away in a swayamvara where all the kings are assembled. Invite one bridegroom and give her to him with proper rites — that is the duty of a warrior king. You cannot give Lakshmi away in a public choice.\"\n\nHe paused, and when he spoke again there was something almost like a smile in his voice. \"To place an obstacle in the way of that swayamvara, Garuda has been sent here by the king of the gods. And I too have come — to witness this festival of kings, and to see your daughter, the beautiful lotus among women.\"\n\nBhishmaka heard it all in silence: that his daughter was not his to give away at all, that the gods had settled her fate on a mountain-top before she was born, that the ceremony his son had proclaimed across the land could never bind her. He had come to Krishna fearing a disaster; he left knowing that what he had feared was the will of the gods themselves.",
+ "reflection": "The revelation reframes the entire swayamvara: Rukmini is not a prize to be contested but a goddess whose destiny was fixed before her birth, and so no assembly of kings can undo it. Krishna's sternness with Bhishmaka — about falsehood, hospitality, and the law — clears the ground for the gentle truth he then delivers.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "mathura",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Bhishmaka",
+  "Rukmini",
+  "Rukmi",
+  "Garuda"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "divine-identity",
+  "marriage-destiny",
+  "forgiveness"
+ ],
+ "previous_story_id": "DKS_0191",
+ "next_story_id": "DKS_0193",
+ "next_story_tease": "Before he left Kundina, Krishna would show Bhishmaka what he truly was.",
+ "hero_scene": "Krishna, facing King Bhishmaka in the quiet of Kundina, one hand raised as he speaks the revelation — that Rukmini is the goddess Lakshmi, born to be united with Keshava — while Garuda waits behind him in the fading light.",
+ "visual_elements": [
+  "King Bhishmaka bowing low",
+  "Krishna speaking with raised hand",
+  "Garuda standing behind Krishna",
+  "the assembled kings glimpsed through the doorway",
+  "evening light in Kundina"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.108",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:11Z",
+  "source_event_id": "evt_0183",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

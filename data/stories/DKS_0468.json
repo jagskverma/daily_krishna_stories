@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0468",
+ "title": "This Is Your Victory, O Lord",
+ "subtitle": null,
+ "story": "Karna had just stripped Bhima of his chariot, and the taunts were still ringing in Bhima's ears. Standing on the bare ground with his bow in his hand, Bhima shouted across the din to Arjuna: Karna had called him a eunuch, a fool, a glutton, unskilled in weapons — and had done it in Arjuna's very sight. \"You know the vow I made together with you,\" he cried. \"Remember the words I spoke then. Do not let my vow, or yours, come to nothing. Do what will make my vow true.\"\n\nTo be made carless on that field was to be left standing alone, horses and driver gone, an easy mark for the next charge. And this was a day already heavy with vows. That morning Arjuna had sworn to slay Jayadratha — the king who had helped cut down his son Abhimanyu — before the sun set. That vow was spent: Jayadratha lay dead, and Vriddhakshatra, his father, had died with him. But now a second oath hung in the air.\n\nArjuna rode up to Karna, and his words came cold and exact. \"You fight falsely,\" he said, \"and then you applaud yourself for it. A hero meets one of two ends in battle, victory or defeat, and neither is certain even when Indra himself fights. When Satyaki made you carless, your senses left you and you stood at the very edge of death. Remembering the vow I had made to slay you, that hero let you go without taking your life. Truly righteous men, having vanquished a foe, never boast and never speak ill of anyone. Yes, you took Bhima's chariot — but your abuse of him was sinful. And since you have spoken so cruelly of him, and since you, with others, slew my son Abhimanyu when I was not there to protect him, you shall reap the fruit of it this very day. I will slay Vrishasena, your son, before your eyes, and every king who advances against me I will send to the world of the dead. Do now whatever you must do, for a great calamity is hanging over you.\"\n\nA loud uproar rose among the warriors who heard him. And at that fearful time, when confusion was everywhere, the thousand-rayed sun dimmed its light and went down behind the western hills.\n\nThen Krishna, stationed in the van of the battle, took Arjuna in his arms. \"By good fortune your great vow is accomplished,\" he said. \"By good fortune Vriddhakshatra is slain along with his son. Even the commander of the celestial armies, meeting this host of Dhritarashtra's, would lose his senses in battle — of that there is no doubt. Except you, I see no one in all the three worlds who could fight this force. Many royal warriors equal to you, or greater, gathered at Duryodhana's command; clad in armour, they could not come near you once you were roused to battle. Your energy and your might are equal to Rudra's, the Destroyer's own. No one else could have put forth such prowess as you, alone and unsupported, put forth today. And I shall applaud you again in the same words when Karna, evil-hearted, is slain along with his followers; I shall glorify you when that enemy of yours lies vanquished.\"\n\nArjuna answered with a humility the field had seldom seen in him. \"Through your grace,\" he said, \"this vow, which even the gods could accomplish only with difficulty, has been accomplished by me. It is no wonder that those who have you for their lord come out victorious. Through your grace Yudhishthira will obtain the whole earth. All of this is your power. This is your victory, my lord. All our fortune is your victory.\"\n\nThe two stood together in the van while the last light drained out of the sky — the warrior who had kept his word, and the friend who had driven him to it. The vow was spent, and the day was done. In the darkness gathering over the field, the war would go on.",
+ "reflection": "Arjuna's answer is the heart of the scene: at the peak of his powers, having done what even the gods found difficult, he gives the victory entirely to Krishna. The praise never reaches his head because he understands the deed as Krishna's — devotion carried by an act, not by adjectives.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Bhima",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "victory",
+  "grace",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0467",
+ "next_story_id": "DKS_0469",
+ "next_story_tease": "As the chariot bore them back across the field, Krishna turned Arjuna's gaze to what his shafts had left behind.",
+ "hero_scene": "At sunset on the battlefield, Krishna embraces Arjuna in the van of the army, one hand on his shoulder, as the last light drains behind the Asta hill and the banners stir in the dusk.",
+ "visual_elements": [
+  "Bhima standing carless on the open field, bow in hand, shouting to Arjuna",
+  "Arjuna confronting Karna between the two hosts",
+  "the car-warriors raising a tremendous uproar",
+  "the thousand-rayed sun going down behind the Asta hill",
+  "Krishna embracing Arjuna at the van of battle",
+  "the two standing together in the fading light"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.147",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:09Z",
+  "source_event_id": "evt_0462",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

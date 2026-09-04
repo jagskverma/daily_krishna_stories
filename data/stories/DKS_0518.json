@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0518",
+ "title": "The Ocean That Waits for Dwaraka",
+ "subtitle": "Narada recites Krishna's deeds, then foretells the sea's return",
+ "story": "Narada had a way of telling a man his own life back to him. The wandering sage, who roams from world to world and never stays anywhere long, stood in Dwaraka before his departure and recited Krishna’s deeds one by one, as if fate itself had taken dictation.\n\nThe list began on the earth and never ran out of names. The nooses of the demon Mura lay cut. Nisumva and Naraka lay slain, and the road to the city of Pragyotish stood clear of its terrors. The kings of the world had gone pale at the twang of Krishna’s bow and the sound of his conch, Panchajanya. Rukmi had been vanquished, ringed about by his chariot-warriors from the Deccan, and Rukmini had been carried away in a car that blazed like the sun and rumbled like a cloud. In Jaruthi, Ahdriti, Kratha and Shishupala had fallen; Dantavakra and Shatadhanwa, with all their soldiers; Shalwa, who made war from the flying city of Shoubha, struck down in his fury; and Dyumutsena, dashed from the sky by the discus. On the summit of Mahendra, Gopati and Talaketu — two followers of Ravana — vanished in the blink of an eye, and Hansa and Dimvaka after them. Varanasi had been burned. Maya had been killed with knotty arrows, and the son of Indrasena had been set free.\n\nThe other worlds had fared no better. Varuna, lord of the waters, had been defeated beneath the sea at Lohitakuta. The Parijata tree had been carried off from Indra’s own palace while the celestials looked on, forbidden to interfere. The kings of Pandya, Poundrya, Kalinga, Matsa and Banga had been swept away. Kaliya, the great serpent, had been sent from the river to the sea. Yama, king of the dead, had been forced to give back the dead son of Sandipani — Krishna’s own teacher — restored to him alive. Long ago, in the form of a dwarf, Krishna had taken the three worlds back from Bali. Even the courtiers of Kamsa — Peetha, Paithika and Asitoma — had been cut down, and the demons Jambha, Airavata and Virupa, who came against him while he wore the semblance of a man.\n\nNarada’s voice did not rise. That was the strange part. He spoke of Arjuna crowned with success at Kurukshetra; of Drona, Bhishma, Karna and Suyodhana defeated; of the daughter of the king of Suveera carried away to please his kinsman Vabhru — and it sounded less like praise than like the tally of everything the gods had asked of Krishna and received.\n\nThen he came to the end of the list — and to what came after it. Krishna had established virtue among mortals with his sacrifices and accomplished the great work of the gods; when that work was done, he would return to his own region. And then, said Narada, the ocean — which knew Krishna’s wish before he spoke it — would rise and devour Bhogavati, the beloved resort of the sages, and Dwaraka itself. The city of jewels and sacrificial grounds, with all its gardens, would sink into the abode of Varuna — this city that Krishna had built, which shone like the dwelling of the sun. “There is none among gods, demons or men,” said the sage, “and none will ever be — save the slayer of Madhu himself — who can live there once the sea has taken it.” And having set his laws in order among the Dasharhas, Vishnu would be joined again with Narayana, with Soma and with Surya, as fire returns to fire.\n\nThe prophecy fell into the sea-bright air of a city that was not yet drowned. Krishna heard the drowning of his city and the ending of his time spoken aloud, and he did not argue. Narada took his leave, and Dwaraka went on with its day — bright above a sea that was waiting.",
+ "reflection": "Narada's prophecy weighs heaviest not because it announces death but because it announces completion — Krishna's work is spoken of as finished, his city as already claimed by the sea. Krishna's silence is the story's real answer: he does not dispute the design that has been traced around him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "end_of_yadavas",
+ "characters": [
+  "Narada",
+  "Krishna"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "prophecy",
+  "foreshadowing",
+  "destiny"
+ ],
+ "previous_story_id": "DKS_0517",
+ "next_story_id": "DKS_0519",
+ "next_story_tease": "Not long after, a prank played on visiting sages would give the prophecy a shape.",
+ "hero_scene": "Narada stands at Dwaraka's edge in the evening light, one hand raised as he speaks, while Krishna listens with folded hands and the calm golden sea stretches out behind them, patient as a held breath.",
+ "visual_elements": [
+  "Narada standing before Krishna, reciting the list of his deeds",
+  "the golden city of Dwaraka with its gardens and sacrificial grounds",
+  "the calm sea stretching to the horizon, waiting",
+  "Krishna listening, hands folded, unarguing",
+  "the conch Panchajanya and the bow of Krishna among the recounted victories",
+  "Narada taking his leave as the sun sets over the water"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.249",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:18Z",
+  "source_event_id": "evt_0333",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

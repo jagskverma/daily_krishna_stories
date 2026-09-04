@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0535",
+ "title": "Vrikasura's Lethal Boon",
+ "subtitle": "The demon who asked Shiva for the power to kill with a touch",
+ "story": "On a road one day, the demon Vrikasura met the sage Narada. Vrikasura, the son of Shakuni, was the kind of being who had never once been told no. Narada, a wandering sage who knew the roads to every god, looked at him and offered a piece of advice. “Worship Girisha, the god of the mountain,” he said. “Do that, and you will succeed quickly.”\n\nThe demon took the advice the way fire takes dry grass. He went to Kedara, the mountain shrine of Shiva, and began a penance of terrible intensity. He stood without moving. He fasted until his body was a shadow. He burned in the fire of his own austerity — the sort of penance that makes the earth itself uneasy. When a demon practices self-denial, he is not seeking purity. He is seeking power.\n\nFor seven days he waited, and the god did not come. On the seventh day, out of that despair, Shiva rose before him — fire rising from fire, the most compassionate of the gods, moved by the sight of even a demon’s suffering. “Enough,” Shiva said. “Choose a boon from me. Whatever you wish, I will give it to you.”\n\nVrikasura had thought of nothing else for seven days. He knew exactly what he wanted. “Whoever’s head I touch,” he said, “let him die.”\n\nEven the patient god flinched. It was a gift of death held in one outstretched hand, and it would bring fear to every living being. Shiva’s face darkened, yet he granted it — reluctantly, the way a man gives a knife to a child because he has promised. A boon once offered cannot be taken back. A god’s word is a god’s word.\n\nVrikasura stood in the mountain light, flexing his hand, feeling the new power settle into his palm like a second skin. Then he decided to make sure the boon truly worked. He reached out and tried to place his hand on Shiva’s own head.\n\nShiva fled.\n\nThe destroyer of worlds ran. He ran trembling, seized with terror, pursued by the demon and by his own gift. Vrikasura came after him, hand outstretched, and Shiva ran across the earth to its farthest ends; when there was no more earth, he ran through the heavens. The gods watched them pass — Indra and the kings of the celestial realms — and sat in silence, because not one of them knew any remedy. There is no counterspell for a boon granted by Shiva himself.\n\nAt last Shiva reached the end of his flight: Vaikuntha, the home of Vishnu — the lord whom the old books also call Narayana — and the last shelter of those who have given up the world. There Vishnu sat waiting, blazing like a fire, wearing the sacred thread and deerskin of a wandering holy man. He was the destroyer of affliction, and he had seen Shiva’s distress long before Shiva reached his door.\n\nShiva, the refuge of the world, had found his own refuge. And behind him, still running, hand outstretched, came the demon whose touch meant death — into the presence of the one being in all the worlds who could do something about it.",
+ "reflection": "The most compassionate of gods grants the most terrible of boons, and then must run from his own gift: the story turns generosity inside out. Vrikasura asks for power over every head but his own, and the terror is that Shiva cannot break his word even to save himself. A knot tied that tightly can only be untied by someone from outside.",
+ "tradition_note": "The Bhagavata frames the episode with Narada's advice sending Vrikasura to worship Shiva; the same tale is told with variations in other Puranas. The sequel, Vishnu's rescue of Shiva, is told in the next episode.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "other",
+ "characters": [
+  "Vrikasura",
+  "Shiva",
+  "Narada",
+  "Vishnu"
+ ],
+ "locations": [
+  "Kedara",
+  "Vaikuntha"
+ ],
+ "themes": [
+  "boon",
+  "ingratitude",
+  "terror"
+ ],
+ "previous_story_id": "DKS_0534",
+ "next_story_id": "DKS_0536",
+ "next_story_tease": "But Vrikasura had chased Shiva to the one refuge his boon could not enter — the abode of Narayana.",
+ "hero_scene": "The mountain shrine of Kedara: the emaciated demon Vrikasura kneeling in penance as Shiva rises before him like fire from fire, one hand raised to grant the boon while the demon's eyes fix on him with a terrible intent.",
+ "visual_elements": [
+  "the mountain shrine of Kedara",
+  "the emaciated demon Vrikasura in penance",
+  "Shiva rising like fire from fire",
+  "the outstretched hand of the demon",
+  "a mood of menace and mounting dread"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.88.12-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:19:20Z",
+  "source_event_id": "evt_0522",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

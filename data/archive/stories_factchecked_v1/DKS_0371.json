@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0371",
+ "title": "Nuptial Gifts for Indraprastha",
+ "subtitle": "Krishna brings the Yadava host to honour Subhadra's new home.",
+ "story": "When the twelve years of his exile were complete, Arjuna came back to Khandavaprastha — and he did not come back alone. Beside him was Subhadra, the sister of Krishna, whom he had carried away from Dwaraka and married there. It was a homecoming with two edges: the city gained a prince returned, and the household gained a new bride.\n\nArjuna went first to the king. He approached Yudhishthira, then worshipped the brahmanas with respectful attention, and at last went in to Draupadi. She met him with the sharpness of a woman who had waited twelve years and heard where her husband had been. \"Why tarriest thou here, O son of Kunti?\" she said. \"Go where the daughter of the Satwata race is! A second tie always relaxeth the first one upon a faggot!\"\n\nIt was the old fear, put plainly: a new bond loosening the old one, the way a second rope loosens the first on a bundle of wood. Arjuna pacified her, and asked her forgiveness, again and again. And then Subhadra herself finished what his words had begun.\n\nShe came into the inner apartments dressed not as a queen but in the simple garb of a cowherd woman — Arjuna's own doing, a way of saying she came as a sister to the household, not a rival for its crown. She looked, the account says, handsomer in that dress. The celebrated Bhadra, of large and slightly red eyes, first worshipped Pritha — Kunti — and Kunti, from excess of affection, smelt the head of that faultless girl and pronounced infinite blessings upon her. Then Subhadra hastened to Draupadi, and worshipped her, and said: \"I am thy maid.\"\n\nDraupadi rose quickly and embraced her — the sister of Madhava — from pure affection, and blessed her: \"Let thy husband be without a foe!\"\n\n\"So be it!\" said Subhadra, with a delighted heart.\n\nFrom that time, the Pandavas began to live happily, and Kunti too became very happy. And when Krishna heard that Arjuna had reached Indraprastha with his sister — that the household had made its peace — he came thither himself, to make the marriage an alliance the whole world could see.\n\nHe came with Balarama and the heroes of the Vrishni and Andhaka tribes, with his brothers and his sons and many brave warriors, and a large army protected him on the road. Akrura came, the exceedingly liberal generalissimo of the brave Vrishni host; Uddhava of great renown; Satyaka, Kritavarman, Pradyumna, Gada, and many more of the Bhojas and the Andhakas. And they brought with them many nuptial presents, in the manner of a family celebrating a wedding it had not been able to attend.\n\nKing Yudhishthira, hearing that Madhava had arrived, sent the twins, Nakula and Sahadeva, out to receive him. And the Vrishni host entered Khandavaprastha in splendour. The city had dressed for the occasion: the streets were well-swept and watered, decked with floral wreaths and bunches, and sprinkled with sandalwood water that was fragrant and cooling. Flags and ensigns flew over the gates. Every part of the town filled with the sweet scent of the day.\n\nThen the gifts were given. Krishna gave to the Pandavas a thousand cars of gold, furnished with rows of bells; ten thousand cows; mares and mules; and damsels, presented as is fitting when a daughter of the house goes to a new family. It was generosity on the scale of Dwaraka itself — not the payment of a debt, but the celebration of a bond.\n\nThe Pandavas received their kinsman's gifts, and the household that had been uneasy for one bright afternoon settled into the happiness that would carry it for years. The city of Indraprastha stood fragrant and adorned, its streets full of Yadavas and Kurus mingling like one family. And at the heart of it all was the small, true thing the whole procession had come to honour: a bride who had said, \"I am thy maid,\" and a blessing that answered, \"Let thy husband be without a foe.\"",
+ "reflection": "Subhadra's answer to Draupadi — \"I am thy maid\" — dissolves the jealousy in a moment, and Draupadi's blessing follows at once: \"Let thy husband be without a foe.\" The household's peace is made not by Krishna's gifts but by the two women's grace; the great procession of cars and cows that follows only makes the alliance visible to the world.",
+ "tradition_note": "The nuptial gifts in this episode are for Subhadra's marriage and are distinct from the wedding presents Krishna earlier sent after Draupadi's wedding (Mahabharata 1.201). The Bhagavata Purana tells the Subhadra episode more briefly.",
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Arjuna",
+  "Yudhishthira",
+  "Subhadra",
+  "Draupadi",
+  "Kunti"
+ ],
+ "locations": [
+  "Indraprastha",
+  "Khandavaprastha",
+  "Dwaraka"
+ ],
+ "themes": [
+  "generosity",
+  "alliance",
+  "procession"
+ ],
+ "previous_story_id": "DKS_0370",
+ "next_story_id": "DKS_0372",
+ "next_story_tease": "Before long the new household would welcome a child — and Krishna would be there for the rites.",
+ "hero_scene": "Krishna's golden procession entering the flower-decked, sandalwood-scented streets of Khandavaprastha — a thousand gold cars with rows of bells, herds of cows, the Vrishni and Andhaka heroes around him, while Nakula and Sahadeva come forward to receive him at the gates.",
+ "visual_elements": [
+  "Krishna's procession of gold cars with rows of bells",
+  "herds of ten thousand cows",
+  "the Vrishni and Andhaka heroes around him",
+  "Nakula and Sahadeva coming forward to receive him",
+  "streets swept and watered, decked with floral wreaths",
+  "sandalwood water scenting the air",
+  "Subhadra in cowherd garb before Draupadi"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.223",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0386"
+ },
+ "editorial_status": "unreviewed"
+}

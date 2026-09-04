@@ -1,0 +1,85 @@
+# STORY DKS_0170 — Jarasandha Attacks and Besieges Mathura
+
+## Index entry
+title: Jarasandha Attacks and Besieges Mathura
+summary: Kamsa's widows report to Jarasandha, who vows to destroy the Yadavas and besieges Mathura with twenty-three armies.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Jarasandha, Krishna, Balarama, Asti, Prapti
+locations: Mathura
+themes: vengeance, war, siege
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0165
+variant_notes: VP 5.22 folds in the routing of Jarasandha across eighteen attacks; HV splits the march (1.89) and the siege (1.90).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 50 | verses 1-5 | confidence 5
+  excerpt: Kamsa's widows Asti and Prapti went to their father Jarasandha and told him of their widowhood; enraged, he resolved to make the earth Yadava-free and besieged Mathura from all sides with twenty-three akshauhinis. (rendered from Sanskrit, verses 1-5)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 89 | verses  | confidence 4
+  excerpt: hearing of Kansa's death from his two daughters... the powerful Jarasandha, in no time, set out with his army... to slay all the Yadus.
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 90 | verses  | confidence 4
+  excerpt: 'Let the armies of the kings united lay siege on all sides to this city.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 22 | verses  | confidence 4
+  excerpt: Eighteen times did the haughty prince of Magadhá renew his attack upon the Yádavas, headed by Krishńa; and was as often defeated and put to the rout by them, with very inferior numbers.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.50 (1-5)
+1. pitre magadha-rājāya jarāsandhāya duḥkhite /
+2. sa tad apriyam ākarṇya śokāmarṣa-yuto nṛpa /
+3. akṣauhiṇībhir viṃśatyā tisṛbhiś cāpi saṃvṛtaḥ /
+4. nirīkṣya tad-balaṃ kṛṣṇa udvelam iva sāgaram /
+5. cintayām āsa bhagavān hariḥ kāraṇa-mānuṣaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.89 ()
+TITLE: JARASANDHA PREPARES TO ATTACK MATHURA
+
+Vaishampayana said:—United with Rohini’s son Krishna spent some days
+happily in the city of Mathura filled with Yādavas (1). Gradually his
+person was embellished with the grace of youth and regal prosperity and
+he began to range all over Mathurā adorned with woods (2). After some
+days had elapsed in this way, Jarāsandha, the king of Rājagriha, heard
+of Kansa’s death from his two daughters (3). Hearing this the powerful
+Jarāsandha was worked up with anger. And in order to pay his debt to
+Kansa and to slay all the Yadus, the powerful Jarāsandha, in no time,
+set out with his army consisting of six divisions. O king, the king of
+Magadha had two very beautiful and youthful daughters by name Asti and
+Prāpti. The royal son of Varhadratha conferred them on Kansa (4–6).
+Having chained his father the son of Ahuka enjoyed in their company. You
+have heard many a time and oft how, depending on Jarāsandhā’s (help) and
+disregarding the Yadavas the lord of Surasena became king (7). In order
+to satisfy his duties by his kinsmen and to accomplish their objects
+Vasudeva was always carefully engaged in Ugrasena’s well-being. Kansa
+did not spare him even (8). When the vicious-souled Kansa was slain by
+Ramā and Krishna, Ugrasena, encircled by Bhojas, Vrishnis and Andhakas,
+became king (9).
+
+Asti and Prāpti, the wives of a hero, were the beloved daughters of king
+Jarāsandha. Therefore burning like fire in anger at their instigation
+and making every possible arrangement the king of Magadha started for
+Mathurā. All the highly energetic warrior kings who were defeated and
+subjugated by Jarāsandha’s prowess, all those who were his friends,
+relatives, kinsmen and allies, encircled by their own armies, followed
+Jarāsandha with a view to please him. Dantavakra the king of Karusha,
+the powerful king of Chedi, the king of Kalinga, the foremost of the
+powerful, Poundra, Sāngkriti, the king of Keshika, the king Bhishmaka,
+his son Rukshmi, the foremost of bowmen who used to challenge Vāsudeva
+and Arjuna in a fight, Venudāri, Shrutarvā, Krātha, Angshumān, the
+powerful kings of Anga, Vanga, the kings of Koshala, Kashi and Dashārna,
+the powerful king of Sumha, the lord of Vidha, the powerful king of
+Madra, the lord of Trigarta, the king of Shālwa endued with prowess, the
+highly powerful Darada, the energetic Bhagadatta the lord of Yavanas,
+Saivya the king of Shouvira, Pāndya the foremost of the strong, Suvala,
+the king of Gāndhāra, Mahāvala, Nagnajit, Gonarda, the king of Kāshmir,
+the king of Darada, the highly powerful Duryodhana and other sons of
+Dhritarāshtra—these and other highly powerful kings, mighty
+car-warriors, followed Jarāsandha, out of jealousy towards Janārddana.
+Entering the province of Shurasena, abounding in barley and fuels, they
+all, placing their respecting detachments before them, laid siege to
+Mathurā (10-22).
+
+## Corpus chain
+previous_story_id: DKS_0169 | next_story_id: DKS_0171
+previous title: Krishna Seizes Kalayavana's Host || Having destroyed Kalayavana by stratagem, Krishna captures his army of horses, elephants and cars, and delivers it to Ugrasena, freeing the Yadava race from fear of invasion.
+next title: A Divine Chariot and Weapons Descend for Krishna

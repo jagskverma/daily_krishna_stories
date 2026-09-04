@@ -1,0 +1,33 @@
+# STORY DKS_0183 — The Mace-Duel of Bhima and Jarasandha || Bhima and Jarasandha fight an indecisive mace-duel, exchanging blows that crush their clubs, then striking with iron-hard fists.
+
+## Index entry
+title: The Mace-Duel of Bhima and Jarasandha || Bhima and Jarasandha fight an indecisive mace-duel, exchanging blows that crush their clubs, then striking with iron-hard fists.
+summary: Bhima and Jarasandha fight an indecisive mace-duel, exchanging blows that crush their clubs, then striking with iron-hard fists.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Bhima, Jarasandha
+locations: outside Girivraja
+themes: combat, strength, endurance
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0263
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 72 | verses 33-38 | confidence 5
+  excerpt: Taking up their great maces, the two heroes clash outside the city, circling in intricate patterns like wrestlers. Their clubs shatter under the force of their blows, and enraged they strike each other with fists hard as iron, the sound like thunder, yet the fight of the equal champions remains indecisive. (rendered from Sanskrit, verse 33-38)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.72 (33-38)
+33. tataḥ samekhale vīrau saṃyuktāv itaretaram /
+34. maṇḍalāni vicitrāṇi savyaṃ dakṣiṇam eva ca /
+35. tataś caṭa-caṭā-śabdo vajra-niṣpesa-sannibhaḥ /
+36. te vai gade bhuja-javena nipātyamāne $ anyonyato 'ṃsa-kaṭi-pāda-karoru-jatrum &amp;cūrṇī-babhūvatur upetya yathārka-śākhe % saṃyudhyator dviradayor iva dīpta-manvyoḥ
+37. itthaṃ tayoḥ prahatayor gadayor nṛ-vīrau $ kruddhau sva-muṣṭibhir ayaḥ-sparaśair apiṣṭām &itthaṃ tayoḥ prahatayor gadayor nṛ-vīrau $ kruddhau sva-muṣṭibhir ayaḥ-sparaśair apiṣṭām &śabdas tayoḥ praharator ibhayor ivāsīn % nirghāta-vajra-paruṣas tala-tāḍanotthaḥ
+38. tayor evaṃ praharatoḥ sama-śikṣā-balaujasoḥ /
+
+## Corpus chain
+previous_story_id: DKS_0182 | next_story_id: DKS_0184
+previous title: Krishna Reveals Their Identities and Challenges Jarasandha
+next title: Krishna's Signal: Jarasandha Split in Two || Knowing Jarasandha's birth secret, Krishna signals by splitting a twig; Bhima tears Jarasandha in two and kills him.

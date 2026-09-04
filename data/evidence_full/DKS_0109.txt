@@ -1,0 +1,38 @@
+# STORY DKS_0109 — The Gopi's Lament to the Bee (Bhramara-gita)
+
+## Index entry
+title: The Gopi's Lament to the Bee (Bhramara-gita)
+summary: A gopi, seeing a honeybee, addresses it as Krishna's messenger and reproaches Krishna for abandoning the gopis.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Gopis, Krishna
+locations: Vrindavan
+themes: separation, devotion, grief
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0158
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 47 | verses 10-20 | confidence 5
+  excerpt: 'O bee, friend of the cheat, do not touch my feet... he who made us drink the nectar of his lips once now abandons us like flowers cast aside.' The gopis sing and weep, remembering Krishna's boyhood and youthful deeds. (rendered from Sanskrit, verses 10-20)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.47 (10-20)
+10. kācin madhukaraṃ dṛṣṭvā dhyāyantī kṛṣṇa-saṅgamam /
+11. bhp_10.47.012/0 gopy uvāca madhupa kitava-bandho mā spṛśaṅghriṃ sapatnyāḥ $ kuca-vilulita-mālā-kuṅkuma-śmaśrubhir naḥ & madhupa kitava-bandho mā spṛśaṅghriṃ sapatnyāḥ $ kuca-vilulita-mālā-kuṅkuma-śmaśrubhir naḥ & vahatu madhu-patis tan-māninīnāṃ prasādaṃ % yadu-sadasi viḍambyaṃ yasya dūtas tvam īdṛk
+12. sakṛd adhara-sudhāṃ svāṃ mohinīṃ pāyayitvā $ sumanasa iva sadyas tatyaje 'smān bhavādṛk & sakṛd adhara-sudhāṃ svāṃ mohinīṃ pāyayitvā $ sumanasa iva sadyas tatyaje 'smān bhavādṛk & paricarati kathaṃ tat-pāda-padmaṃ nu padmā % hy api bata hṛta-cetā hy uttamaḥ-śloka-jalpaiḥ
+13. kim iha bahu ṣaḍ-aṅghre gāyasi tvaṃ yadūnām $ adhipatim agṛhāṇām agrato naḥ purāṇam & kim iha bahu ṣaḍ-aṅghre gāyasi tvaṃ yadūnām $ adhipatim agṛhāṇām agrato naḥ purāṇam & vijaya-sakha-sakhīnāṃ gīyatāṃ tat-prasaṅgaḥ % kṣapita-kuca-rujas te kalpayantīṣṭam iṣṭāḥ
+14. divi bhuvi ca rasāyāṃ kāḥ striyas tad-durāpāḥ $ kapaṭa-rucira-hāsa-bhrū-vijṛmbhasya yāḥ syuḥ & divi bhuvi ca rasāyāṃ kāḥ striyas tad-durāpāḥ $ kapaṭa-rucira-hāsa-bhrū-vijṛmbhasya yāḥ syuḥ & caraṇa-raja upāste yasya bhūtir vayaṃ kā % api ca kṛpaṇa-pakṣe hy uttamaḥ-śloka-śabdaḥ
+15. visṛja śirasi pādaṃ vedmy ahaṃ cātu-kārair $ anunaya-viduṣas te 'bhyetya dautyair mukundāt & visṛja śirasi pādaṃ vedmy ahaṃ cātu-kārair $ anunaya-viduṣas te 'bhyetya dautyair mukundāt & sva-kṛta iha viṣṛṣṭāpatya-paty-anya-lokā % vyasṛjad akṛta-cetāḥ kiṃ nu sandheyam asmin
+16. mṛgayur iva kapīndraṃ vivyadhe lubdha-dharmā $ striyam akṛta virūpāṃ strī-jitaḥ kāma-yānām & mṛgayur iva kapīndraṃ vivyadhe lubdha-dharmā $ striyam akṛta virūpāṃ strī-jitaḥ kāma-yānām & balim api balim attvāveṣṭayad dhvāṅkṣa-vad yas % tad alam asita-sakhyair dustyajas tat-kathārthaḥ
+17. yad-anucarita-līlā-karṇa-pīyūṣa-vipruṭ- $ sakṛd-adana-vidhūta-dvandva-dharmā vinaṣṭāḥ & yad-anucarita-līlā-karṇa-pīyūṣa-vipruṭ- $ sakṛd-adana-vidhūta-dvandva-dharmā vinaṣṭāḥ & sapadi gṛha-kuṭumbaṃ dīnam utsṛjya dīnā % bahava iha vihaṅgā bhikṣu-caryāṃ caranti
+18. vayam ṛtam iva jihma-vyāhṛtaṃ śraddadhānāḥ $ kulika-rutam ivājñāḥ kṛṣṇa-vadhvo hariṇyaḥ & vayam ṛtam iva jihma-vyāhṛtaṃ śraddadhānāḥ $ kulika-rutam ivājñāḥ kṛṣṇa-vadhvo hariṇyaḥ & dadṛśur asakṛd etat tan-nakha-sparśa-tīvra % smara-ruja upamantrin bhaṇyatām anya-vārtā
+19. priya-sakha punar āgāḥ preyasā preṣitaḥ kiṃ $ varaya kim anurundhe mānanīyo 'si me 'ṅga & priya-sakha punar āgāḥ preyasā preṣitaḥ kiṃ $ varaya kim anurundhe mānanīyo 'si me 'ṅga & nayasi katham ihāsmān dustyaja-dvandva-pārśvaṃ % satatam urasi saumya śrīr vadhūḥ sākam āste
+20. api bata madhu-puryām ārya-putro 'dhunāste $ smarati sa pitṛ-gehān saumya bandhūṃś ca gopān & api bata madhu-puryām ārya-putro 'dhunāste $ smarati sa pitṛ-gehān saumya bandhūṃś ca gopān & kvacid api sa kathā naḥ kiṅkarīṇāṃ gṛṇīte % bhujam aguru-sugandhaṃ mūrdhny adhāsyat kadā nu
+
+## Corpus chain
+previous_story_id: DKS_0108 | next_story_id: DKS_0110
+previous title: Uddhava Arrives Bearing Krishna's Message
+next title: Uddhava Delivers Krishna's Message and the Gopis Reply

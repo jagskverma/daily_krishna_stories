@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0069",
+ "title": "The Thief in the Game",
+ "subtitle": null,
+ "story": "The boys of Vrindavan were deep in their favourite game on the hillside above the grazing herd, and one of them was not a boy.\n\nAll through the long afternoon some of the boys played keepers of the calves and some played thieves — stealing a calf away, being caught, and stealing again — in a game that only pretended at danger. It began in laughter, and it usually ended in a tangle of dust and shouting, with the calves bawling and the boys tumbling over one another. And into it, dressed like any cowherd boy, slipped something that did not pretend.\n\nHe was Vyoma, the son of the demon Maya, and himself a demon and a master of deception. He wore the face of one of the boys, and no one looked at him twice. He came and went among them as one of them, and one by one he began to lead the children away, the way a thief in the game led off a keeper he had caught — except that the boys he took did not come back. When he drew a child toward the mountain, the child went with him willingly, because it looked for all the world like the game they were all already playing. He carried each one to a cave in the mountain and sealed him inside it, until many of the stolen boys lay hidden in the dark while the game went on around the empty places where they had been. A boy would be there one moment, and the next he was not there at all, and the laughter continued as if nothing had changed.\n\nBut Krishna, the cowherd boy who played among them, saw it all, and what he saw stopped him mid-stride. He understood at once what the demon was doing, and he did not let the game go on a moment longer.\n\nThen Krishna put off the shape and size of a boy. He stood in his own form, vast and strong as a king among mountains, and turned on the deceiver. He seized Vyoma with both hands, threw him down upon the earth, and ended the demon there.\n\nAnd without pausing, he went to the mouth of the mountain cave, broke through the covering that sealed it, and brought the boys out, one after another — first one, then another, then the whole dim crowd of them — from the darkness and the fear they had been shut into, until the mountain had given back everyone it had taken.\n\nThe game was over. The thief who had hidden among them lay still on the hillside, and the boys who had been stolen stood blinking in the daylight, counted one by one and whole.",
+ "reflection": "The most striking thing is where the demon chose to hide: not at the edge of the village but inside the boys' own game, wearing a friend's face. The story does not dwell on the violence; it hurries past it to the cave and the bringing of the children out, as if the rescue, not the slaying, is the point.",
+ "tradition_note": null,
+ "content_note": "A demon disguised as a cowherd boy carries children off into a cave; the danger is real but ends in their rescue, and the slaying is brief.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Vyoma",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "rescue",
+  "demon-slaying"
+ ],
+ "previous_story_id": "DKS_0068",
+ "next_story_id": "DKS_0070",
+ "next_story_tease": "But the cowherds' greatest fear still waited, coiled in the waters of the Yamuna.",
+ "hero_scene": "Krishna standing huge as a mountain before the cave, breaking open its sealed mouth as the stolen cowherd boys come out into the light, the disguised demon cast down behind him.",
+ "visual_elements": [
+  "Krishna in vast form",
+  "cowherd boys",
+  "mountain cave",
+  "demon Vyoma in cowherd disguise",
+  "game of thieves and keepers",
+  "hillside pasture",
+  "sealed cave opening",
+  "rescue and relief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.37.24-32",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:07:44Z",
+  "source_event_id": "evt_0121",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

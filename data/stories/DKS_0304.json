@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0304",
+ "title": "The Sacrifice That Would Not Be Stopped",
+ "subtitle": "The demons of Shatpura demand a Brahmana's daughters — and Pradyumna answers with illusion.",
+ "story": "The demons came to the sacrifice with a list of demands: a share of the offerings, the right to drink the sacred Soma, the daughters of the man who was performing it, his finest jewels — and if any part was refused, the sacrifice would end.\n\nThe man who had vowed it was Brahmadatta, a learned priest of the school of the sage Yajnavalka, a scholar of the four Vedas, the ancient hymns, and the branches of learning that surround them. His rite would last a full year, and it was being held in the city of Shatpura, on the sacred bank of the river Avarta. The great sages had gathered to it — Vyasa, Yajnavalka himself, Jaimini, Devala, and many more — and so had Krishna's father Vasudeva, with Devaki, Krishna's mother, beside him, for Brahmadatta was an old friend and teacher of their house. Day after day Devaki moved among the beggars who came to the rite and gave them whatever they asked, as much as her husband's wealth allowed.\n\nThen Nikumbha and the other demons of Shatpura, proud of a boon granted them long ago, assembled at the sacrificial ground and delivered their terms. Brahmadatta refused them to their faces. \"No portion of the offerings has been laid down for you in the Vedas,\" he told them. \"How then can I let you drink Soma here? If you doubt my words, ask these great sages, learned in the scriptures and their commentaries. My daughters I shall give in marriage to proper bridegrooms, as the Vedas ordain. If you will come to terms, I will give you my entire store of jewels. But if you use force — know that the son of Devaki is my protector.\"\n\nThe demons did not believe him, and force is what they used. They scattered the offerings and vessels that had made the rite famous for its generous food and gifts, and they carried off his daughters.\n\nVasudeva, helpless before them, thought of Krishna — and of Balarama, his elder brother, and of Gada. The moment Krishna was thought of, he knew everything that had happened, and he said to Pradyumna: \"Proceed, my son, and save the maidens by your power of illusion. I myself will follow soon, with the Yadava army.\"\n\nPradyumna, ever obedient to his father, was in Shatpura within a moment. By his power of illusion he carried the maidens away, every one of them, and in their place he created counterfeit figures so like the originals that no eye could tell them apart. \"Be not afraid,\" he said to Devaki, who had feared the worst for the girls. The demons seized the false maidens, certain they had won, and entered their city well satisfied — while the true daughters of Brahmadatta were already far beyond their reach.\n\nAnd the sacrifice went on, celebrated according to the proper rites. The kings who had been invited began to arrive with their hosts and encamp near Shatpura: Jarasandha and Shishupala, the king of Chedi, Dantavakra, the five Pandava brothers, the sons of Dhritarashtra, the rulers of the Malava and Tangana lands, Rukmi, Shalya, Shakuni, and many another warrior king.\n\nThe sage Narada watched them come, and what he saw did not please him. \"All the warrior kings and all the Yadavas have assembled at this sacrifice,\" he thought. \"Surely this will lead to conflict. I shall try to bring it about.\" And he went to the house of Nikumbha.",
+ "reflection": "The rescue is almost gentle in its cunning: Pradyumna defeats the demons without fighting them, giving them shapes instead of a battle, so that a sacrifice is protected and no blood is spilled. But the story does not end in peace — Narada sees one great gathering and decides it must become a war, a reminder that peace at one table only raises the stakes at another.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Krishna",
+  "Nikumbha",
+  "Brahmadatta",
+  "Vasudeva",
+  "Devaki"
+ ],
+ "locations": [
+  "Shatpura"
+ ],
+ "themes": [
+  "rescue",
+  "illusion (maya)",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0303",
+ "next_story_id": "DKS_0305",
+ "next_story_tease": "Narada's whisper was already working among the camps — the kings were choosing the Asuras' side.",
+ "hero_scene": "At the sacrificial ground in Shatpura, the demons carry off laughing counterfeit maidens — figures of pure illusion — while the real daughters of Brahmadatta are already safe, and Pradyumna, unseen by the demons, says \"Be not afraid\" to Devaki.",
+ "visual_elements": [
+  "the demons carrying off illusory maidens into Shatpura",
+  "the real daughters of Brahmadatta hidden away by Pradyumna's magic",
+  "Pradyumna speaking softly to Devaki at the sacrificial ground",
+  "the sacrifice with its fire and gathered sages continuing undisturbed",
+  "Narada turning toward Nikumbha's house",
+  "illusion and protection"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.230",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:03Z",
+  "source_event_id": "evt_0307",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0500",
+ "title": "Arjuna Asks Krishna to Repeat the Gita",
+ "subtitle": "Krishna offers the Anugita in its place",
+ "story": "Everything Krishna had told him on the battlefield, Arjuna had forgotten.\n\nThe great war between the Pandavas and their cousins was over, and Arjuna had his kingdom back. He spent those days in pure joy, doing nothing but keeping company with Krishna in the palace at Hastinapura, in rooms that seemed a piece of heaven, surrounded by relatives and attendants. Yet one thing had begun to trouble him. One day, as the two friends wandered together through that beautiful house, Arjuna turned to Krishna. It was on the eve of battle, he said, that he had first understood how great Krishna was; on that same field he had also seen Krishna's form as the Lord of the universe. But everything Krishna had spoken to him then, out of affection, had slipped from his mind, which was so quick to wander. Again and again he had meant to ask — and now Krishna would soon be leaving for Dwaraka. Would Krishna tell him once more?\n\nKrishna embraced him before he answered. It grieved him, he said, to learn that Arjuna had let slip, out of carelessness, what had been given him. The recollection of that teaching would not come back to him now — he had spoken it while gathered into the deep stillness of yoga, not as men speak from memory, and he could not repeat it in detail. But it had been more than enough, if Arjuna could hold it, to know Brahman, the one reality behind the world. Then Krishna's voice softened into a promise: he would recite an old history upon the same matter, and if Arjuna listened with a heart already shaped by Krishna's teaching, he might yet attain the highest end.\n\nSo Krishna began the old history. Once, he said, a brahmana — a sage of the priestly order — had come to them from heaven, from the presence of Brahma the creator, whom the old books call the Grandsire of all beings, and they had honored him as was due. When they asked him about the path of liberation — asked, the brahmana observed, out of compassion for all creatures, and not for his own good — he agreed to speak, asking only that they listen with their whole attention.\n\nThe old history concerned a brahmana named Kasyapa, known above all others for knowing what duty requires. Kasyapa had heard of another brahmana who had sounded every depth of the teaching: he knew what the scriptures say of how beings leave this life and return to it, and he held the direct, inward knowledge that yoga gives; he was at home in every branch of learning; he knew the truth about pleasure and pain, and weighed merit against wrong; and he had seen with his own eyes the ends that creatures high and low reach by their deeds. He lived like a man already free — his penance complete, his calm unbroken, every sense his own — and he seemed to blaze with the light of Brahman itself. He could pass anywhere at will, and he could vanish from before the eyes of all. He wandered with invisible siddhas, beings perfected in yoga, and with heaven's musicians, talking with them in places far from the noise of men; and he was as unattached to everything as the wind.\n\nKasyapa, hearing such things of him, longed to see him. He made his way to the sage, and when he had seen those wonders for himself he fell at the sage's feet with his whole heart, and stayed to wait on the master with deep reverence.\n\nSo Krishna spoke in the palace at Hastinapura, with Arjuna before him — and the old history he had promised would unfold, in the days that followed, into the teaching known as the Anugita.",
+ "reflection": "Krishna's answer to forgotten truth is not a repetition but a story: he cannot summon back the words of the Gita, so he begins an old history, and the Anugita is born from that refusal. Arjuna's fickleness of mind becomes, in a strange way, the occasion for the teaching to be given again in a new form.",
+ "tradition_note": "The Anugita is the Mahabharata's own sequel to the Gita, and within the text Krishna explains that he cannot repeat the original discourse; the full old history unfolds through the chapters of the Anugita Parva that follow.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "teaching",
+  "forgetfulness",
+  "divine counsel"
+ ],
+ "previous_story_id": "DKS_0499",
+ "next_story_id": "DKS_0501",
+ "next_story_tease": "Before long, Krishna would speak his final teaching to a different disciple, at the foot of an ashvattha tree.",
+ "hero_scene": "In a palace chamber like a piece of heaven, Krishna embraces Arjuna and begins to speak, while Arjuna — who has just confessed that he forgot everything Krishna taught him on the battlefield — listens with bowed head.",
+ "visual_elements": [
+  "the radiant palace at Hastinapura, crowded with relatives and attendants",
+  "Krishna and Arjuna seated close together",
+  "Arjuna with head bowed, confessing his forgetfulness",
+  "Krishna's hand raised as he begins the old history",
+  "the imagined figure of Kasyapa falling at the sage's feet"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "14.16",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:13Z",
+  "source_event_id": "evt_0513",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0454",
+ "title": "Durga's Promise Before the Battle",
+ "subtitle": null,
+ "story": "The night before the battle, Krishna gave Arjuna an order that sounded less like war counsel than like ritual. \"Cleanse yourself, mighty-armed one,\" he said, \"and on the eve of this battle recite your hymn to Durga, so that the defeat of the foe may be assured.\"\n\nAt dawn the armies of the Pandavas and the Kauravas would meet on the field of Kurukshetra. For years the cousins had been pushed toward this plain — by insult, by exile, by a game of dice that should never have been played — and now there was nothing left to settle but the war itself. Yet on the last night, the charioteer's first command was not about formations or weapons. It was about a hymn.\n\nArjuna did not ask why. He stepped down from his car, and there in the quiet of the camp, with his hands joined, he recited the hymn as he had been taught. He praised the goddess in her many names: the leader of the yogins, she who is identical with Brahman; Kali of the black and tawny hue; Mahakali, who brings benefits to her devotees; the fierce giver of victory, who bears a banner of peacock plumes and holds spear, sword, and shield; the younger sister of the chief of cowherds, born in the race of the cowherd Nanda; she who is fond of buffalo's blood and dresses in yellow robes; she who devoured the Asuras with the face of a wolf; the slayer of Kaitabha; the mother of Skanda; she who dwells in inaccessible places and in the houses of her worshippers. He named her Swaha and Swadha, Saraswati and Savitri, the twilight and the day, the sleep of creatures and their beauty. He praised her as the Vedas and the Srutis, the highest virtue, propitious to Brahmanas engaged in sacrifice; as the science of Brahma among the sciences; as contentment and growth and light, she who supports the Sun and the Moon and makes them shine; she who dwells in inaccessible regions, in places of difficulty, in the abodes of her worshippers, and in the nether regions, always defeating the Danavas; she whom the Siddhas and the Charanas behold in contemplation. And with his inner soul cleansed, he prayed: \"Let victory always attend me through your grace on the field of battle.\"\n\nPerhaps it was that last line that was heard. For Durga, who is always graciously inclined toward mankind, understood the measure of Partha's devotion and appeared in the sky — and she spoke in the presence of Govinda himself. \"Within a short time you shall conquer your foes, O Pandava,\" the goddess said. \"You are invincible, O Pandava, for you have Narayana again to aid you. You cannot be defeated by your enemies — not even by the wielder of the thunderbolt himself.\"\n\nHaving said this, the boon-giving goddess disappeared as suddenly as she had come. Arjuna stood a moment holding the promise, then mounted his own excellent car. And Krishna and Arjuna, seated on the same chariot, blew their celestial conches, and the sound of them rolled out over the sleeping armies like the first note of the war that would begin at dawn.\n\nSanjaya, telling all this to the blind king Dhritarashtra, added that a man who recites this hymn at dawn has nothing to fear — not from Yakshas, Rakshasas, or Pisachas, not from snakes or any creature of fang and tooth, not even from kings. He is victorious in every dispute and freed from every bond, and he lives a hundred years in health and strength. But the Kauravas, Sanjaya said, entangled in the meshes of death, did not know that Nara and Narayana stood before them on a single chariot, and that the hour of their kingdom had already arrived. Dwaipayana and Narada, Kanwa and the sinless Rama had all tried to turn Dhritarashtra's son from this course, Sanjaya said, but the prince would not accept their words; there where righteousness is, there victory would be.",
+ "reflection": "Krishna's first preparation for the war is an act of worship, not a tactic: before Arjuna is taught to fight, he is sent to bow. And the goddess's promise — that the invincible one has Narayana to aid him — names what the hymn has accomplished: the charioteer and the goddess are already on Arjuna's side, and the battle is blessed before a single arrow is loosed.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Durga"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "devotion",
+  "divine blessing",
+  "war preparation"
+ ],
+ "previous_story_id": "DKS_0453",
+ "next_story_id": "DKS_0455",
+ "next_story_tease": "At dawn, Krishna would drive the chariot between the two armies.",
+ "hero_scene": "Durga appears in the night sky above the camp on the eve of battle, radiant and gracious, blessing Arjuna who stands with joined hands beside his chariot while Krishna watches from the car.",
+ "visual_elements": [
+  "Arjuna alighting from his chariot with joined hands on the night before battle",
+  "Durga appearing in the firmament, serene and radiant",
+  "Krishna seated on the chariot witnessing the goddess's promise",
+  "Arjuna mounting his car after the boon",
+  "Krishna and Arjuna blowing their celestial conches across the sleeping armies"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.23",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0451"
+ },
+ "editorial_status": "unreviewed"
+}

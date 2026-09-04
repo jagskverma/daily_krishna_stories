@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0332",
+ "title": "The Festival for Usha",
+ "subtitle": "The Vana campaign closes as the Yadu household welcomes a new daughter-in-law",
+ "story": "They had ridden out to war and were coming home with a bride.\n\nDwaraka had waited out the campaign in anxiety, and its relief poured out when the army returned: Aniruddha safe, the war over, and the girl he had been carried off for riding home beside him. Ahuka, the elder of the Yadu house, met Krishna with eyes wide with joy. Seeing him safely returned, he said, the whole family was rejoicing; now let a great festival be undertaken for Aniruddha's return and wedding. Usha, surrounded by her friends, was as happy as a bride could be, and the maidens of the palace were already celebrating on their own — some playing on musical instruments, some dancing, some singing, some chatting together, some bent over a game of chess, some a little light-headed with wine and wandering from one group to another. Ahuka added a practical note: the daughter of Kumbhanda — the minister Krishna had made king over Bana's conquered city — should be given to Shamba and become Usha's companion, and the remaining maidens given in turn to the other princes. A festival should take place both in Krishna's residence and in Aniruddha's. And he ended with words that settled the matter: \"Usha is encircled by her companions; take her into the palace. The noble daughter of Bana is a worthy daughter-in-law of our race. Welcome her with all dignity.\"\n\nSo it was done. The women of the household, performing the blessings the ritual code prescribed, conducted Usha to Aniruddha's house. When Krishna's mother Devaki saw Aniruddha again she shed tears of joy, and so did Revati, the wife of Balarama, and Rukmini, the princess of Vidarbha. The damsels blew on bugles and offered blessings as the bride was taken into the room, and Usha, sheltered among the Yadu chiefs, made her home in their palace and lived in great happiness.\n\nThe household had one more secret to let go. After a few days, Chitralekha — the heavenly maiden who had lived among them in the guise of a mortal woman, the one who had first brought Usha and Aniruddha together — took leave with the permission of Usha and her companions and departed for the world of the gods. The magic that had begun the romance withdrew, and what remained was ordinary family life.\n\nThe first of the Yadu ladies to make Usha her own was Mayavati, Pradyumna's wife, who invited the young daughter of Bana to her residence and welcomed her new daughter-in-law with costly jewels and dresses. Then, according to the custom of the family, all the ladies of the Yadu race in turn honored the new daughter-in-law.\n\nAnd so the long campaign that had begun with a prince stolen in the night ended with a household learning a new daughter-in-law's name. Krishna, encircled by the Yadavas and enjoying the highest prosperity, lived on in Dwaraka and governed the whole world. In the palace of Dwaraka, a girl from the demon city of Sonitpura was learning, day by day, to be at home.",
+ "reflection": "The war ends inside the household: the decisive ceremonies are performed by women, and the tears of joy belong to the mothers. An enemy king's daughter becomes the family's own not by decree alone but by being conducted, blessed, gifted and embraced.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Ahuka",
+  "Usha",
+  "Aniruddha",
+  "Devaki",
+  "Rukmini",
+  "Revati"
+ ],
+ "locations": [
+  "Dwarka"
+ ],
+ "themes": [
+  "reception",
+  "family",
+  "homecoming"
+ ],
+ "previous_story_id": "DKS_0331",
+ "next_story_id": "DKS_0333",
+ "next_story_tease": "But the house of Yadu had been built on an older night's exchange, when a prison in Mathura gave up one child and took another.",
+ "hero_scene": "The women of the Yadu household, garlanded and singing benedictions, conduct Usha surrounded by her companions toward Aniruddha's house as bugles blow, while Devaki, Revati and Rukmini watch with tears of joy.",
+ "visual_elements": [
+  "Ahuka greeting Krishna with eyes wide with joy",
+  "maidens playing instruments, dancing, singing and playing chess",
+  "the women conducting Usha to Aniruddha's house amid benedictions",
+  "Devaki, Revati and Rukmini weeping tears of joy",
+  "Chitralekha departing for the celestial region",
+  "Mayavati welcoming Usha with jewels and dresses"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.277",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:59:31Z",
+  "source_event_id": "evt_0361",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

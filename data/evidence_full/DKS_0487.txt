@@ -1,0 +1,56 @@
+# STORY DKS_0487 — Kunti's Farewell Hymn to Krishna
+
+## Index entry
+title: Kunti's Farewell Hymn to Krishna
+summary: As Krishna prepares to leave Hastinapura for Dwaraka, Queen Kunti offers a parting eulogy recalling how he saved her family from poison, fire, exile and weapons, and asks only that his remembrance ever bind her; Krishna smiles and grants her prayer.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, Kunti, Yudhishthira
+locations: Hastinapura
+themes: devotion, gratitude, farewell, protection
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0501
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 8 | verses 16-44 | confidence 5
+  excerpt: Freed from the brahma weapon, Kunti addressed Krishna as he turned to depart: 'I bow to you, the primal Person... You freed Devaki and me, with my sons, again and again from danger — from poison, from the great fire, from the cruel assembly, from the hardships of forest exile, from the weapons of great chariot-warriors.' And the Lord, whose every glory she had praised, smiled gently. (rendered fro
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.8 (16-44)
+16. brahmatejovinirmuktairātmajaiḥ saha kṛṣṇayā /
+17. bhp_01.08.018/0 kuntyuvāca
+18. māyājavanikācchannam ajñādhokṣajam avyayam /
+19. tathā paramahaṃsānāṃ munīnām amalātmanām /
+20. kṛṣṇāya vāsudevāya devakīnandanāya ca /
+21. namaḥ paṅkajanābhāya namaḥ paṅkajamāline /
+22. yathā hṛṣīkeśa khalena devakī kaṃsena ruddhāticiraṃ śucārpitā /
+23. viṣān mahāgneḥ puruṣādadarśanād asatsabhāyā vanavāsakṛcchrataḥ /
+24. vipadaḥ santu tāḥ śaśvat tatra tatra jagadguro /
+25. janmaiśvaryaśrutaśrībhiredhamānamadaḥ pumān /
+26. namo 'kiñcanavittāya nivṛttaguṇavṛttaye /
+27. manye tvāṃ kālam īśānam anādinidhanaṃ vibhum /
+28. na veda kaścidbhagavaṃścikīrṣitaṃ tavehamānasya nṛṇāṃ viḍambanam /
+29. janma karma ca viśvātmann ajasyākarturātmanaḥ /
+30. gopyādade tvayi kṛtāgasi dāma tāvad yā te daśāśrukalilāñjanasambhramākṣam /
+31. kecidāhurajaṃ jātaṃ puṇyaślokasya kīrtaye /
+32. apare vasudevasya devakyāṃ yācito 'bhyagāt /
+33. bhārāvatāraṇāyānye bhuvo nāva ivodadhau /
+34. bhave 'smin kliśyamānānām avidyākāmakarmabhiḥ /
+35. śṛṇvanti gāyanti gṛṇantyabhīkṣṇaśaḥ smaranti nandanti tavehitaṃ janāḥ /
+36. apyadya nastvaṃ svakṛtehita prabho jihāsasi svit suhṛdo 'nujīvinaḥ /
+37. ke vayaṃ nāmarūpābhyāṃ yadubhiḥ saha pāṇḍavāḥ /
+38. neyaṃ śobhiṣyate tatra yathedānīṃ gadādhara /
+39. ime janapadāḥ svṛddhāḥ supakvauṣadhivīrudhaḥ /
+40. atha viśveśa viśvātman viśvamūrte svakeṣu me /
+41. tvayi me 'nanyaviṣayā matirmadhupate 'sakṛt /
+42. śrīkṛṣṇa kṛṣṇasakha vṛṣṇyṛṣabhāvanidhrug rājanyavaṃśadahanānapavargavīrya /
+43. bhp_01.08.044/0 sūta uvāca
+44. tāṃ bāḍham ityupāmantrya praviśya gajasāhvayam /
+
+## Corpus chain
+previous_story_id: DKS_0486 | next_story_id: DKS_0488
+previous title: Balarama Tries to Halt the Mace-Duel
+next title: Krishna Departs Hastinapura for Dwaraka

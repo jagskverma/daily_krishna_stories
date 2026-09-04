@@ -1,0 +1,39 @@
+# STORY DKS_0102 — The Gopis Search the Forest
+
+## Index entry
+title: The Gopis Search the Forest
+summary: The gopis wander the forest questioning the trees and plants about the vanished Krishna.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: gopis
+locations: Vrindavan forest
+themes: search, longing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0113
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 30 | verses 1-12 | confidence 5
+  excerpt: When Krishna disappeared, the gopis searched for him like madwomen from wood to wood, questioning the trees and plants, 'Have you seen Nanda's son, who stole our hearts with his smiles?' (rendered from Sanskrit, verses 3-4)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.30 (1-12)
+1. gatyānurāga-smita-vibhramekṣitair mano-ramālāpa-vihāra-vibhramaiḥ /
+2. gati-smita-prekṣaṇa-bhāṣaṇādiṣu priyāḥ priyasya pratirūḍha-mūrtayaḥ /
+3. gāyantya uccair amum eva saṃhatā vicikyur unmattaka-vad vanād vanam /
+4. dṛṣṭo vaḥ kaccid aśvattha plakṣa nyagrodha no manaḥ /
+5. kaccit kurabakāśoka- nāga-punnāga-campakāḥ /
+6. kaccit tulasi kalyāṇi govinda-caraṇa-priye /
+7. mālaty adarśi vaḥ kaccin mallike jāti-yūthike /
+8. cūta-priyāla-panasāsana-kovidāra jambv-arka-bilva-bakulāmra-kadamba-nīpāḥ /
+9. kiṃ te kṛtaṃ kṣiti tapo bata keśavāṅghri- $ sparśotsavotpulakitāṅga-nahair vibhāsi &amp;apy aṅghri-sambhava urukrama-vikramād vā % āho varāha-vapuṣaḥ parirambhaṇena
+10. apy eṇa-patny upagataḥ priyayeha gātrais $ tanvan dṛśāṃ sakhi su-nirvṛtim acyuto vaḥ &apy eṇa-patny upagataḥ priyayeha gātrais $ tanvan dṛśāṃ sakhi su-nirvṛtim acyuto vaḥ &kāntāṅga-saṅga-kuca-kuṅkuma-rañjitāyāḥ % kunda-srajaḥ kula-pater iha vāti gandhaḥ
+11. bāhuṃ priyāṃsa upadhāya gṛhīta-padmo $ rāmānujas tulasikāli-kulair madāndhaiḥ &bāhuṃ priyāṃsa upadhāya gṛhīta-padmo $ rāmānujas tulasikāli-kulair madāndhaiḥ &anvīyamāna iha vas taravaḥ praṇāmaṃ % kiṃ vābhinandati caran praṇayāvalokaiḥ
+12. pṛcchatemā latā bāhūn apy āśliṣṭā vanaspateḥ /
+
+## Corpus chain
+previous_story_id: DKS_0101 | next_story_id: DKS_0103
+previous title: Krishna Relents and Sports with the Gopis
+next title: The Gopis Enact Krishna's Lilas

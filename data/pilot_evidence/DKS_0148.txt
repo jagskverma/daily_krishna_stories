@@ -1,0 +1,96 @@
+# STORY DKS_0148 — Krishna Retrieves Sandipani's Son
+
+## Index entry
+title: Krishna Retrieves Sandipani's Son
+summary: As teacher's fee, Krishna slays Panchajana, takes his conch, and brings Sandipani's dead son back from Yama's city.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Balarama, Sandipani, Yama
+locations: Prabhasa, Yama's city
+themes: guru-dakshina, resurrection
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0153
+variant_notes: VP 5.21 folds in the study; bpc1_039 is Uddhava's recollection.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 45 | verses 36-47 | confidence 5
+  excerpt: As his teacher's fee, Sandipani asked for his son, who had been lost in the ocean at Prabhasa; Krishna slew the demon Panchajana, took his conch-shell body, and going to Yama's city, blew the conch and brought back the boy. (rendered from Sanskrit, verses 36-46)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 1 | confidence 5
+  excerpt: Uddhava said: 'Having studied the whole Veda once through from Sandipani, he granted his guru the boon of his dead son, bringing him back from the belly of Pancajana.' (rendered from Sanskrit, verse 1)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 88 | verses  | confidence 4
+  excerpt: The conch, which Janarddana obtained after slaying Panchajana, is known amongst gods and men as Panchajanya... having vanquished the fearful son of Vivaswan... obtained the child son of his preceptor.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 21 | verses  | confidence 4
+  excerpt: having slain the vile Panchajana, he took the conch shell... The heroes also recovered the boy from the pains of death, and restored him in his former person to his father.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.45 (36-47)
+36. dvijas tayos taṃ mahimānam adbhutaṃ $ saṃlokṣya rājann ati-mānusīṃ matim &amp;sammantrya patnyā sa mahārṇave mṛtaṃ % bālaṃ prabhāse varayāṃ babhūva ha
+37. tethety athāruhya mahā-rathau rathaṃ $ prabhāsam āsādya duranta-vikramau &tethety athāruhya mahā-rathau rathaṃ $ prabhāsam āsādya duranta-vikramau &velām upavrajya niṣīdatuḥ kṣanaṃ % sindhur viditvārhanam āharat tayoḥ
+38. tam āha bhagavān āśu guru-putraḥ pradīyatām /
+39. bhp_10.45.040/0 śrī-samudra uvāca
+40. āste tenāhṛto nūnaṃ tac chrutvā satvaraṃ prabhuḥ /
+41. tad-aṅga-prabhavaṃ śaṅkham ādāya ratham āgamat /
+42. gatvā janārdanaḥ śaṅkhaṃ pradadhmau sa-halāyudhaḥ /
+43. tayoḥ saparyāṃ mahatīṃ cakre bhakty-upabṛṃhitām /
+44. bhp_10.45.045/0 śrī-bhagavān uvāca
+45. tatheti tenopānītaṃ guru-putraṃ yadūttamau /
+46. bhp_10.45.047/0 śrī-gurur uvāca
+47. gacchataṃ sva-gṛhaṃ vīrau kīrtir vām astu pāvanī /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (1)
+1. sāndīpaneḥ sakṛt proktaṃ brahmādhītya sa-vistaram /
+tasmai prādād varaṃ putraṃ mṛtaṃ pañca-janodarāt
+2. samāhutā bhīṣmaka-kanyayā ye śriyaḥ savarṇena bubhūṣayaiṣām /
+gāndharva-vṛttyā miṣatāṃ sva-bhāgaṃ jahre padaṃ mūrdhni dadhat suparṇaḥ
+3. kakudmino 'viddha-naso damitvā svayaṃvare nāgnajitīm uvāha /
+tad-bhagnamānān api gṛdhyato 'jñāñ jaghne 'kṣataḥ śastra-bhṛtaḥ sva-śastraiḥ
+4. priyaṃ prabhur grāmya iva priyāyā vidhitsur ārcchad dyutaruṃ yad-arthe /
+vajry ādravat taṃ sa-gaṇo ruṣāndhaḥ krīḍā-mṛgo nūnam ayaṃ vadhūnām
+5. sutaṃ mṛdhe khaṃ vapuṣā grasantaṃ dṛṣṭvā sunābhonmathitaṃ dharitryā /
+āmantritas tat-tanayāya śeṣaṃ dattvā tad-antaḥ-puram āviveśa
+6. tatrāhṛtās tā nara-deva-kanyāḥ kujena dṛṣṭvā harim ārta-bandhum /
+utthāya sadyo jagṛhuḥ praharṣa- vrīḍānurāga-prahitāvalokaiḥ
+7. āsāṃ muhūrta ekasmin nānāgāreṣu yoṣitām /
+sa-vidhaṃ jagṛhe pāṇīn anurūpaḥ sva-māyayā
+8. tāsv apatyāny ajanayad ātma-tulyāni sarvataḥ /
+ekaikasyāṃ daśa daśa prakṛter vibubhūṣayā
+9. kāla-māgadha-śālvādīn anīkai rundhataḥ puram /
+ajīghanat svayaṃ divyaṃ sva-puṃsāṃ teja ādiśat
+10. śambaraṃ dvividaṃ bāṇaṃ muraṃ balvalam eva ca /
+anyāṃś ca dantavakrādīn avadhīt kāṃś ca ghātayat
+11. atha te bhrātṛ-putrāṇāṃ pakṣayoḥ patitān nṛpān /
+cacāla bhūḥ kurukṣetraṃ yeṣām āpatatāṃ balaiḥ
+12. sa karṇa-duḥśāsana-saubalānāṃ kumantra-pākena hata-śriyāyuṣam /
+suyodhanaṃ sānucaraṃ śayānaṃ bhagnorum ūrvyāṃ na nananda paśyan
+13. kiyān bhuvo 'yaṃ kṣapitoru-bhāro yad droṇa-bhīṣmārjuna-bhīma-mūlaiḥ /
+aṣṭādaśākṣauhiṇiko mad-aṃśair āste balaṃ durviṣahaṃ yadūnām
+14. mitho yadaiṣāṃ bhavitā vivādo madhv-āmadātāmra-vilocanānām /
+naiṣāṃ vadhopāya iyān ato 'nyo mayy udyate 'ntardadhate svayaṃ sma
+15. evaṃ sañcintya bhagavān sva-rājye sthāpya dharmajam /
+nandayām āsa suhṛdaḥ sādhūnāṃ vartma darśayan
+16. uttarāyāṃ dhṛtaḥ pūror vaṃśaḥ sādhv-abhimanyunā /
+sa vai drauṇy-astra-sampluṣṭaḥ punar bhagavatā dhṛtaḥ
+17. ayājayad dharma-sutam aśvamedhais tribhir vibhuḥ /
+so 'pi kṣmām anujai rakṣan reme kṛṣṇam anuvrataḥ
+18. bhagavān api viśvātmā loka-veda-pathānugaḥ /
+kāmān siṣeve dvārvatyām asaktaḥ sāṅkhyam āsthitaḥ
+19. snigdha-smitāvalokena vācā pīyūṣa-kalpayā /
+caritreṇānavadyena śrī-niketena cātmanā
+20. imaṃ lokam amuṃ caiva ramayan sutarāṃ yadūn /
+reme kṣaṇadayā datta- kṣaṇa-strī-kṣaṇa-sauhṛdaḥ
+21. tasyaivaṃ ramamāṇasya saṃvatsara-gaṇān bahūn /
+gṛhamedheṣu yogeṣu virāgaḥ samajāyata
+22. daivādhīneṣu kāmeṣu daivādhīnaḥ svayaṃ pumān /
+ko viśrambheta yogena yogeśvaram anuvrataḥ
+23. puryāṃ kadācit krīḍadbhir yadu-bhoja-kumārakaiḥ /
+kopitā munayaḥ śepur bhagavan-mata-kovidāḥ
+24. tataḥ katipayair māsair vṛṣṇi-bhojāndhakādayaḥ /
+yay
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0140 | next_story_id: DKS_0189
+previous title: Krishna Slays Kamsa
+next title: Viswakarma Builds Dwaraka for Krishna

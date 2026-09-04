@@ -1,0 +1,101 @@
+# STORY DKS_0485 — Krishna Urges Arjuna to Slay the Distressed Karna
+
+## Index entry
+title: Krishna Urges Arjuna to Slay the Distressed Karna
+summary: When Arjuna hesitates to strike the stupefied Karna, Krishna urges him not to spare a fallen foe; Karna's chariot-wheel then sinks into the earth and he appeals to Arjuna's righteousness for a moment's respite.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Karna
+locations: Kurukshetra
+themes: duty, ruthlessness in war, dharma, vulnerability
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0479
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 8 | chapter/section 90 | verses  | confidence 4
+  excerpt: The younger brother of Indra then, with great excitement, addressed him, saying, 'Why, O son of Pandu, dost thou become so forgetful? They that are truly wise never spare their foes, however weak, even for a moment... Slay him, therefore, like Indra slaying the Asura Namuci.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 8.90 ()
+"Sanjaya said, 'Flying away in consequence of the falling of Arjuna's
+arrows, the broken divisions of the Kauravas, staying at a distance,
+continued to gaze at Arjuna's weapon swelling with energy and careering
+around with the effulgence of lightning. Then Karna, with showers of
+terrible shafts, baffled that weapon of Arjuna while it was still
+careering in the welkin and which Arjuna had shot with great vigour in
+that fierce encounter for the destruction of his foe. Indeed, that weapon
+(of Partha) which, swelling with energy, had been consuming the Kurus,
+the Suta's son now crushed with his shafts winged with gold. Bending then
+his own loud-sounding bow of irrefragable string, Karna shot showers of
+shafts. The Suta's son destroyed that burning weapon of Arjuna with his
+own foe-killing weapon of great power which he had obtained from Rama,
+and which resembled (in efficacy) an Atharvan rite. And he pierced Partha
+also with numerous keen shafts. The encounter then, O king, that took
+place between Arjuna and the son of Adhiratha, became a very dreadful
+one. They continued to strike each other with arrows like two fierce
+elephants striking each other with their tusks. All the points of the
+compass then became shrouded with weapons and the very sun became
+invisible. Indeed, Karna and Partha, with their arrowy downpours, made
+the welkin one vast expanse of arrows without any space between. All the
+Kauravas and the Somakas then beheld a wide-spread arrowy net. In that
+dense darkness caused by arrows, they were unable to see anything else.
+Those two foremost of men, both accomplished in weapons, as they
+incessantly aimed and shot innumerable arrows, O king, displayed diverse
+kinds of beautiful manoeuvres. While they were thus contending with each
+other in battle, sometimes the Suta's son prevailed over his rival and
+sometimes the diadem-decked Partha prevailed over his, in prowess and
+weapons and lightness of hands. Beholding that terrible and awful
+passage-at-arms between those two heroes each of whom was desirous of
+availing himself of the other's lapses, all the other warriors on the
+field of battle became filled with wonder. The beings in the welkin, O
+king, applauded Karna and Arjuna. Indeed, many of them at a time, filled
+with joy, cheerfully shouted, sometimes saying, "Excellent, O Karna!" and
+sometimes saying, "Excellent, O Arjuna!" During the progress of that
+fierce encounter, while the earth was being pressed deep with the weight
+of cars and the tread of steeds and elephants, the snake Aswasena, who
+was hostile to Arjuna, was passing his time in the nether region. Freed
+from the conflagration at Khandava, O king, he had, from anger,
+penetrated through the earth (for going to the subterranean region). That
+brave snake, recollecting the death of his mother and the enmity he on
+that account harboured against Arjuna, now rose from the lower region.
+Endued with the power of ascending the skies, he soared up with great
+speed upon beholding that fight between Karna and Arjuna. Thinking that
+that was the time for gratifying his animosity towards, as he thought,
+the wicked-souled Partha, he quickly entered into Karna's quiver, O king,
+in the form of an arrow. At that time a net of arrows was seen, shedding
+its bright arrows around. Karna and Partha made the welkin one dense mass
+of arrows by means of their arrowy downpours. Beholding that wide-spread
+expanse of arrows, all the Kauravas and the Somakas became filled with
+fear. In that thick and awful darkness caused by arrows they were unable
+to see anything else. Then those two tigers among men, those two foremost
+of all bowmen in the world, those two heroes, fatigued with their
+exertions in battle, looked at each other. Both of them were then fanned
+with excellent and waving fans made of young (palm) leaves and sprinkled
+with fragrant sandal-water by many Apsaras staying in the welkin. And
+Sakra and Surya, using their hands, gently brushed the faces of those two
+heroes. When at last Karna found that he could not prevail over Partha
+and was exceedingly scorched with the shafts of the former, that hero,
+his limbs very much mangled, set his heart upon that shaft of his which
+lay singly within a quiver. The Suta's son then fixed on his bow-string
+that foe-killing, exceedingly keen, snake-mouthed, blazing, and fierce
+shaft, which had been polished according to rule, and which he had long
+kept for the sake of Partha's destruction. Stretching his bow-string to
+his ear, Karna fixed that shaft of fierce energy and blazing splendour,
+that ever-worshipped weapon which lay within a golden quiver amid sandal
+dust, and aimed it at Partha. Indeed, he aimed that blazing arrow, born
+in Airavata's race, for cutting off Phalguna's head in battle. All the
+points of the compass and the welkin became ablaze and terrible meteors,
+and thunderbolts fell. When that snake of the form of an arrow was fixed
+on the bow-string, the Regents of the world, including Sakra, set up loud
+wails. The S
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0484 | next_story_id: DKS_0486
+previous title: Krishna Identifies the Snake Aswasena
+next title: Balarama Tries to Halt the Mace-Duel
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

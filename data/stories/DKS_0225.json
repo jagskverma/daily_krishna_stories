@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0225",
+ "title": "A Message Carried to Heaven",
+ "subtitle": null,
+ "story": "Narada was preparing to leave Dwaraka when Krishna, the lord of the city, stopped him with an errand to heaven. The sage who moved so freely between the worlds had come at just the right moment, for Krishna had made a promise to his queen Satyabhama — and the promise required the one thing no man could simply take: the Parijata tree itself, which grew only in Indra's paradise.\n\n\"Go to heaven,\" Krishna said, \"and speak with the courtiers of Indra's court. Remind the king of the gods of the love between us from the old days, which you know well — and tell him this is my request, not my command. The Parijata tree was created long ago by the great sage Kashyapa for the happiness of Aditi, mother of the gods. It is the finest of all trees; it grants religious merit and boundless fortune, and it was given once as a gift to the goddesses themselves when they fulfilled their vows. My wives have heard of it, and they wish to give it away in their turn, to earn the merit of generous deeds and to please me. Ask Indra, therefore, to send the tree down to Dwaraka. It will be restored to heaven once the ceremony of giving is over.\"\n\nHe paused, and added: \"Put all your skill into persuading the lord of the immortals to part with the tree. It will bring honor to your powers as an ambassador — and I know that everything you undertake is attended with success.\"\n\nNarada smiled. \"Very well,\" he said. \"I will speak to the lord of the gods as you ask. But I am certain he will never part with the Parijata.\" And then, because the sage had seen more of the worlds than anyone, he told Krishna the tree's long history.\n\n\"The gods and the demons won the Parijata when they churned the ocean with the great mountain Mandara, seeking the treasures of the deep. When the tree rose from the waters, the great god Shiva wanted to carry it away to his mountain Mandara. Indra went to him in person and entreated him: 'This is Sachi's pleasure tree; let it stay in her gardens.' Shiva granted the boon — 'So be it' — and did not take the tree to the mountain. That is how Indra saved the Parijata from Shiva's own hands, by calling it his queen's.\"\n\n\"Nor was that all. Later, to please his wife Uma, Shiva created on the slopes of Mandara a forest of Parijata trees a full four miles across — a wood lit by its own light, into which neither the rays of the sun nor the cool beams of the moon nor even the breath of the wind could enter, and where heat and cold came and went at the pleasure of the mountain's daughter. None could enter it but the god and the goddess, their followers, and myself. There the Parijatas rained gems and jewels at a mere thought, and Shiva's own attendants took their pleasure in the wood by their lord's leave.\"\n\n\"Once,\" Narada said, \"a mighty and dreadful demon named Andhaka, swollen with pride in a boon he had won, dared to force his way into that forest — and Shiva struck him down, though the demon was ten times stronger than the great demon Vritra and could not be slain by any created being. I tell you truly, Krishna: Indra, the thousand-eyed king of heaven, will never give you the Parijata, won at such cost. It grants queen Sachi every wish she makes, and it fulfils the desires of Indra himself.\"\n\nKrishna heard the sage out in silence. Then he gave his answer. \"If the lord of the immortals will not give up the tree at your request, I shall hurl my mace at his breast.\"\n\nAnd so the request, it turned out, carried a warning folded inside it. Narada set out for heaven bearing both — a brother's plea, spoken out of the old friendship between the two houses, and a warrior's threat, spoken in the same breath. Which one Indra would hear first was now the only question.",
+ "reflection": "Narada's long recollection shows how dearly the Parijata was won — the gods churned an ocean for it, and Shiva himself was talked out of taking it — so Indra's grip on the tree is old and possessive. Krishna's message is a masterpiece of two registers: he asks as a brother first, and warns as a warrior only at the edge, leaving heaven's king to choose which Krishna he will meet.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Narada",
+  "Indra"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "envoy",
+  "brotherhood",
+  "ultimatum"
+ ],
+ "previous_story_id": "DKS_0224",
+ "next_story_id": "DKS_0226",
+ "next_story_tease": "In heaven, Indra listened to the message with gathering anger — and answered it with a challenge.",
+ "hero_scene": "Narada, staff in hand, taking leave of Krishna in the lamplit courtyard of Dwaraka as the evening sky opens into the path to heaven; Krishna stands with one hand raised in farewell and the other resting on his great mace, the unspoken threat of it visible in the slanting light.",
+ "visual_elements": [
+  "Narada with his staff, preparing to depart",
+  "Krishna in the courtyard of Dwaraka, hand on his mace",
+  "the evening sky opening toward heaven",
+  "the imagined Parijata tree with its glowing blossoms",
+  "a message that is half plea, half warning",
+  "tension and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.125",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:03Z",
+  "source_event_id": "evt_0296",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

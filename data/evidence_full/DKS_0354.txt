@@ -1,0 +1,35 @@
+# STORY DKS_0354 — The Gorilla Dvivida Ravages the Land || The gorilla Dvivida, Narakasura's friend, wreaks havoc on the countryside in revenge, burning villages, drowning lands and defiling sages' hermitages.
+
+## Index entry
+title: The Gorilla Dvivida Ravages the Land || The gorilla Dvivida, Narakasura's friend, wreaks havoc on the countryside in revenge, burning villages, drowning lands and defiling sages' hermitages.
+summary: The gorilla Dvivida, Narakasura's friend, wreaks havoc on the countryside in revenge, burning villages, drowning lands and defiling sages' hermitages.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Dvivida, Balarama
+locations: Anarta
+themes: revenge, destruction, chaos
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0255
+variant_notes: Cross-ref: Dvivida-slaying cluster (bp10c_069/vp5_036_01).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 67 | verses 1-8 | confidence 5
+  excerpt: Dvivida, the mighty ape and friend of Narakasura, seeking vengeance, set fire to cities and villages, uprooted mountains, drowned the coastal lands, and defiled the sages' hermitages and sacred fires. (rendered from Sanskrit, verses 1-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.67 (1-8)
+1. bhp_10.67.002/0 śrī-śuka uvāca
+2. sakhyuḥ so 'pacitiṃ kurvan vānaro rāṣṭra-viplavam /
+3. kvacit sa śailān utpāṭya tair deśān samacūrṇayat /
+4. kvacit samudra-madhya-stho dorbhyām utkṣipya taj-jalam /
+5. āśramān ṛṣi-mukhyānāṃ kṛtvā bhagna-vanaspatīn /
+6. puruṣān yoṣito dṛptaḥ kṣmābhṛd-dronī-guhāsu saḥ /
+7. evaṃ deśān viprakurvan dūṣayaṃś ca kula-striyaḥ /
+8. tatrāpaśyad yadu-patiṃ rāmaṃ puṣkara-mālinam /
+
+## Corpus chain
+previous_story_id: DKS_0353 | next_story_id: DKS_0355
+previous title: Balarama Drags the Yamuna
+next title: Balarama Slays the Ape Dvivida

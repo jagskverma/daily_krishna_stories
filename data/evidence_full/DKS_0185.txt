@@ -1,0 +1,56 @@
+# STORY DKS_0185 — The Liberated Kings Behold Krishna || Twenty thousand eight hundred freed kings emerge from the mountain prison, behold Krishna's form, praise him, receive his teaching, and are sent home with honor.
+
+## Index entry
+title: The Liberated Kings Behold Krishna || Twenty thousand eight hundred freed kings emerge from the mountain prison, behold Krishna's form, praise him, receive his teaching, and are sent home with honor.
+summary: Twenty thousand eight hundred freed kings emerge from the mountain prison, behold Krishna's form, praise him, receive his teaching, and are sent home with honor.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, the twenty thousand kings, Sahadeva
+locations: Girivraja
+themes: liberation, devotion, gratitude
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0266
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 73 | verses 1-29 | confidence 5
+  excerpt: The released kings, emaciated and haggard, gaze upon Krishna's dark four-armed form and bow at his feet in gratitude. Krishna assures them their devotion to him will be firm, bids them rule their realms righteously, has them bathed, feasted and adorned, and sends them home with chariots and kind words. (rendered from Sanskrit, verse 1-29)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.73 (1-29)
+1. kṣut-kṣāmāḥ śuṣka-vadanāḥ saṃrodha-parikarśitāḥ /
+2. śrīvatsāṅkaṃ catur-bāhuṃ padma-garbhāruṇekṣaṇam /
+3. padma-hastaṃ gadā-śaṅkha rathāṅgair upalakṣitam /
+4. bhrājad-vara-maṇi-grīvaṃ nivītaṃ vana-mālayā /
+5. jighranta iva nāsābhyāṃ rambhanta iva bāhubhiḥ /
+6. kṛṣṇa-sandarśanāhlāda dhvasta-saṃrodhana-klamāḥ /
+7. bhp_10.73.008/0 rājāna ūcuḥ
+8. nainaṃ nāthānusūyāmo māgadhaṃ madhusūdana /
+9. rājyaiśvarya-madonnaddho na śreyo vindate nṛpaḥ /
+10. mṛga-tṛṣṇāṃ yathā bālā manyanta udakāśayam /
+11. vayaṃ purā śrī-mada-naṣṭa-dṛṣṭayo jigīṣayāsyā itaretara-spṛdhaḥ /
+12. ta eva kṛṣṇādya gabhīra-raṃhasā durante-vīryeṇa vicālitāḥ śriyaḥ /
+13. atho na rājyam mṛga-tṛṣṇi-rūpitaṃ dehena śaśvat patatā rujāṃ bhuvā /
+14. taṃ naḥ samādiśopāyaṃ yena te caraṇābjayoḥ /
+15. kṛṣṇāya vāsudevāya haraye paramātmane /
+16. bhp_10.73.017/0 śrī-śuka uvāca
+17. bhp_10.73.018/0 śrī-bhagavān uvāca
+18. diṣṭyā vyavasitaṃ bhūpā bhavanta ṛta-bhāṣiṇaḥ /
+19. haihayo nahuṣo veṇo rāvaṇo narako 'pare /
+20. bhavanta etad vijñāya dehādy utpādyam anta-vat /
+21. santanvantaḥ prajā-tantūn sukhaṃ duḥkhaṃ bhavābhavau /
+22. udāsīnāś ca dehādāv ātmārāmā dhṛta-vratāḥ /
+23. bhp_10.73.024/0 śrī-śuka uvāca
+24. saparyāṃ kārayām āsa sahadevena bhārata /
+25. bhojayitvā varānnena su-snātān samalaṅkṛtān /
+26. te pūjitā mukundena rājāno mṛṣṭa-kuṇḍalāḥ /
+27. rathān sad-aśvān āropya maṇi-kāñcana-bhūṣitān /
+28. ta evaṃ mocitāḥ kṛcchrāt kṛṣṇena su-mahātmanā /
+29. jagaduḥ prakṛtibhyas te mahā-puruṣa-ceṣṭitam /
+
+## Corpus chain
+previous_story_id: DKS_0184 | next_story_id: DKS_0186
+previous title: Krishna's Signal: Jarasandha Split in Two || Knowing Jarasandha's birth secret, Krishna signals by splitting a twig; Bhima tears Jarasandha in two and kills him.
+next title: Krishna Selects the Site of Dwaraka || The Yadavas reach the ocean shore, and Krishna, seeking a place to build, chooses the coppery tract near Mount Raivata where the Yadavas encamp.

@@ -1,0 +1,41 @@
+# STORY DKS_0083 — The Cowherds Worship Govardhana and Krishna Receives Offerings as the Hill
+
+## Index entry
+title: The Cowherds Worship Govardhana and Krishna Receives Offerings as the Hill
+summary: Nanda and the cowherds accept Krishna's words and perform the sacrifice to Govardhana hill.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Krishna, Nanda, cowherds
+locations: Vrindavan, Govardhana
+themes: ritual, community
+festival_tags: Govardhan Puja
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0094
+variant_notes: BP splits the worship (10.24) and Krishna's manifestation (10.24) into two beats; VP 5.10 combines them.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 24 | verses 30-33 | confidence 5
+  excerpt: Nanda and the cowherds accepted Krishna's words and performed everything as he had said: they gave offerings to the hill, the cows and the brahmins, and with their cattle made circumambulation of Govardhana. (rendered from Sanskrit, verses 30-32)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 24 | verses 34-37 | confidence 5
+  excerpt: Krishna, taking another form and declaring 'I am the hill,' ate the abundant offerings, and the people of Vraja, seeing the embodied hill, bowed to it, saying 'Behold, the hill has favored us.' (rendered from Sanskrit, verses 34-36)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 10 | verses  | confidence 4
+  excerpt: Upon the summit of Govarddhana, Krishńa presented himself, saying, "I am the mountain," and partook of much food presented by the Gopas.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.24 (30-33)
+30. bhp_10.24.031/0 śrī-śuka uvāca
+31. tathā ca vyadadhuḥ sarvaṃ yathāha madhusūdanaḥ /
+32. upahṛtya balīn samyag ādṛtā yavasaṃ gavām /
+33. anāṃsy anaḍud-yuktāni te cāruhya sv-alaṅkṛtāḥ /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.24 (34-37)
+34. kṛṣṇas tv anyatamaṃ rūpaṃ gopa-viśrambhaṇaṃ gataḥ /
+35. tasmai namo vraja-janaiḥ saha cakra ātmanātmane /
+36. eṣo 'vajānato martyān kāma-rūpī vanaukasaḥ /
+37. ity adri-go-dvija-makhaṃ vāsudeva-pracoditāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0082 | next_story_id: DKS_0084
+previous title: Krishna Argues for Worshipping Govardhana Hill
+next title: Indra Unleashes the Storm on Vrindavan

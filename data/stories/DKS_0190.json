@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0190",
+ "title": "News of Rukmini's Swayamvara",
+ "subtitle": "Spies bring word from Kundina, and Krishna sets out with the Yadava host.",
+ "story": "The news reached them at the house of Balarama, Krishna's elder brother, where all the leading Yadavas had gathered at Krishna's word.\n\nThe men who brought it were scouts who had been watching the movements of the kings, and what they carried would set every throne in the land in motion. Rukmi, prince of the Bhoja line, had summoned a great meeting of kings at the city of Kundina, and rulers from every province were already hurrying there. Word was passing from mouth to mouth: on the third day from then, Rukmini — Rukmi's sister, adorned with golden ornaments and said to be the fairest woman in the three worlds — would hold her swayamvara, the ceremony in which a princess chooses a husband from among the kings gathered to win her.\n\nThe scouts did not hide the scale of the gathering, and their words carried an edge of prophecy: that meeting of kings, they said, would be the ruin of those very kings. The rulers were coming on elephants, horses and chariots, proud as lions and tigers and spoiling for a quarrel with one another. Hundreds of their encampments would soon cover the plain before Kundina, and the kings who feared the Yadavas would sit there in safety, trusting in their numbers.\n\n\"Every king on earth is assembling,\" the scouts said. \"Why should we sit here alone and downcast? Let us take up our armies and set out for victory.\"\n\nThe words struck Krishna like a dart to the heart, and he did not linger. At the head of his army he set out at once, and the Yadavas mounted their chariots and followed him. Krishna shone at the head of that host, discus and mace uplifted; behind him streamed chariot after chariot, bright as the sun and ringing with bells.\n\nBut before he left, he gave counsel to Ugrasena, the old king. \"Wait here with my brother,\" he said. \"Once the city is emptied by our departure, those kings who fear us and yet make merry at Kundina may march against it at Jarasandha's bidding. The city must not be left unguarded.\"\n\nHearing this, the old king answered with a voice that trembled. \"If you go and leave us behind,\" he said, \"we shall not be able to live here happily, or anywhere else — like a woman without her husband. Under the shelter of your arms we do not fear even Indra and the gods, let alone the kings of the earth. Wherever you go, we shall follow you, for the sake of victory.\"\n\nAnd Krishna smiled. \"I will do whatever you wish,\" he said. \"Of that there is no doubt.\"\n\nSo the departure became a shared journey: the old king refusing to be left behind, and Krishna, who had meant to guard the city, yielding to the affection of his people. The army moved out of Mathura, banner after banner falling into line, until the whole strength of the Yadava clan was on the road — and the way to Kundina lay open before them, where Rukmini was waiting to choose.",
+ "reflection": "The verses say the news struck Krishna like a dart to the heart, and they do not explain why — the restraint is part of the art, as though something more than politics had been touched. The scene is doubled by Ugrasena's refusal to be left behind: the old king's devotion answers Krishna's care for the city, and a planned departure becomes a journey they take together.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Ugrasena",
+  "Rukmini",
+  "Rukmi"
+ ],
+ "locations": [
+  "Mathura",
+  "Kundina"
+ ],
+ "themes": [
+  "swayamvara",
+  "departure",
+  "counsel"
+ ],
+ "previous_story_id": "DKS_0189",
+ "next_story_id": "DKS_0191",
+ "next_story_tease": "Krishna reached Kundina as the sun was turning red, and the assembled kings saw who had come.",
+ "hero_scene": "Krishna setting out from Mathura at the head of the Yadava host, discus and mace uplifted, the army streaming behind him in sun-bright cars, while the aged king Ugrasena follows — refusing to be left behind.",
+ "visual_elements": [
+  "Krishna with uplifted discus and mace",
+  "the Yadava army on cars, elephants and horses",
+  "sun-bright cars echoing with bells",
+  "the old king Ugrasena refusing to stay behind",
+  "the gates of Mathura",
+  "the open road toward Kundina",
+  "a mood of resolve and departure"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.103",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:34Z",
+  "source_event_id": "evt_0177",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

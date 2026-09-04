@@ -1,0 +1,32 @@
+# STORY DKS_0043 — The Cowherds Settle in Vrindavan
+
+## Index entry
+title: The Cowherds Settle in Vrindavan
+summary: The cowherd community journeys with their herds and carts and settles in Vrindavan, forming their camp in a crescent of wagons.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Nanda, Yasoda, cowherds, Krishna, Balarama
+locations: Vrindavan
+themes: migration, new_home
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0054
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 11 | verses 31-35 | confidence 5
+  excerpt: With cattle before them and horns sounding, the cowherds travel to Vrindavan and pitch their camp there, delighted with the forest, the Govardhana hill and the banks of the Yamuna. (rendered from Sanskrit, verse 31-35)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.11 (31-35)
+31. godhanāni puraskṛtya śṛṅgāṇy āpūrya sarvataḥ /
+32. gopyo rūḍha-rathā nūtna- kuca-kuṅkuma-kāntayaḥ /
+33. tathā yaśodā-rohiṇyāv ekaṃ śakaṭam āsthite /
+34. vṛndāvanaṃ sampraviśya sarva-kāla-sukhāvaham /
+35. vṛndāvanaṃ govardhanaṃ yamunā-pulināni ca /
+
+## Corpus chain
+previous_story_id: DKS_0042 | next_story_id: DKS_0044
+previous title: Narada Curses Nalakuvara and Manigriva
+next title: Krishna Slays the Calf-Demon Vatsasura

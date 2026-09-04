@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0410",
+ "title": "Krishna Vows the Kuru Women Will Weep",
+ "subtitle": null,
+ "story": "For a long moment Krishna said nothing.\n\nIn the tent at Upaplavya nothing moved but Draupadi's tears. She stood before him, her unbound hair in her hands, and everyone present knew the story she had just told once more — the story she had carried since the dice game: how the Pandavas had asked for only five small villages, Avishthala, Vrikasthala, Makandi, Varanavata, and any fifth besides, and Duryodhana had refused even that.\n\nShe told again how Dussasana, Duryodhana's brother, had seized her by the hair and dragged her into the assembly of the Kurus — insulted before her own husbands, while she called to Krishna from the floor of that hall, save me, O save me — and how the freedom the old king finally granted her had ended, soon after, in exile.\n\nShe was a king's daughter, risen from the fire of the altar; the wife of five heroes; the mother of five warrior sons bound to Krishna as Abhimanyu was. And she had been treated like a slave in the court of the house she had married into.\n\nWhen Krishna spoke, his voice was gentle, but it carried the certainty of something settled long ago. \"Soon, Draupadi,\" he said, \"you will see the women of the Kuru house weeping as you weep now. Their husbands and their kinsmen will lie dead, and they will know the grief you know tonight.\"\n\nShe made as if to speak, and he raised his hand. \"The mountains of the Himalaya might shift from their place,\" he went on. \"The earth herself might split into a hundred fragments. But my words can never come to nothing. Dry your tears. I swear to you: soon you will see your husbands, with their enemies slain.\"\n\nIt was a strange comfort — to be promised weeping. But not her weeping alone. The women of the house that had wagered her like a stake in their game would sit with loosened hair in that same city and mourn their dead, and what had been done to her would be answered in the fate of the whole Kuru line.\n\nThose who heard him knew what kind of promise this was. Krishna did not swear lightly; when he spoke of mountains shifting and the earth splitting, he was not reaching for poetry. He was saying that the order of the world would break before his word would. And these men had seen his word hold before — in that very assembly hall, when her robes had streamed out endlessly and no hand could strip her. Then he had answered her cry with cloth; now he answered it with an oath.\n\nDraupadi's tears did not stop all at once, but something in her shoulders eased. She had been heard; the long waiting was over, and the answer was an oath. Whatever the mountains might do, and whatever became of the earth itself, what Krishna swore to her that night in Upaplavya would come to pass — and he had sworn it to her by name, as a friend swears to a friend: not to a queen, not to a grievance, but to the woman who had cried out to him from that hall. The promise was made; the rest was time.",
+ "reflection": "Krishna comforts Draupadi not by softening her grief but by taking it into his own vow: her weeping will be matched, measure for measure, by the women of the house that wronged her. The oath's power lies in its quiet finality — he does not argue with her demand for vengeance, he simply guarantees it, with the earth itself offered as the lesser thing that might break first.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "draupadi_honour",
+ "characters": [
+  "Krishna",
+  "Draupadi"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "vow",
+  "vengeance",
+  "prophecy"
+ ],
+ "previous_story_id": "DKS_0409",
+ "next_story_id": "DKS_0411",
+ "next_story_tease": "Yet before war came, the brothers would make one last appeal for peace — and charge Krishna to carry it.",
+ "hero_scene": "In the lamplit tent at Upaplavya, Krishna speaks gently to the weeping Draupadi, one hand raised as he swears his vow, while the Pandavas watch in silence and her tears fall unheeded.",
+ "visual_elements": [
+  "Draupadi weeping, unbound hair in her hands",
+  "Krishna speaking gently, hand raised in a vow",
+  "lamplight on the canvas walls of the tent",
+  "the Pandava brothers watching in silence",
+  "the quiet gravity of an oath being sworn"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.82",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0418",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

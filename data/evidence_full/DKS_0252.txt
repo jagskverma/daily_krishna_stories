@@ -1,0 +1,103 @@
+# STORY DKS_0252 — Kottavi Intervenes to Save Kartikeya || As Krishna raises his discus against Kartikeya, the naked goddess Kottavi, sent by Mahadeva, intervenes, and Krishna, unable to strike before her, puts away his discus.
+
+## Index entry
+title: Kottavi Intervenes to Save Kartikeya || As Krishna raises his discus against Kartikeya, the naked goddess Kottavi, sent by Mahadeva, intervenes, and Krishna, unable to strike before her, puts away his discus.
+summary: As Krishna raises his discus against Kartikeya, the naked goddess Kottavi, sent by Mahadeva, intervenes, and Krishna, unable to strike before her, puts away his discus.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Kottavi (Lamva), Kartikeya, Shiva
+locations: Sonitpura battlefield
+themes: divine intercession, mercy, goddess
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0354
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 274 | verses  | confidence 4
+  excerpt: the beautiful Kottavi, at the mandate of Mahādeva, came there naked for protecting Kumāra... Seeing the goddess stand before Kumāra the large-armed Krishna was baffled... put away his discus
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.274 ()
+TITLE: KARTIKEYA GOES TO THE BATTLE-FIELD
+
+Janamejaya said:—After the high-souled Krishna and Rudra had retired
+from the battle-field, how did the hair-stirring battle of the enemies
+continue (1)?
+
+Vaishampāyana said:—Stationed on the car brought by Kumbhānda, Guha
+(Kārtikeya) drove towards Krishna, Baladeva and Pradyumna and struck
+them with hundreds of dreadful and sharpened arrows. Bathed in blood
+those three gods, like unto three fires, fought with Kumara (2–4). After
+those heroes, expert in fighting, had struck Kumāra with three weapons
+given by Wind-God, Fire-God and Indra he, too, with three weapons,
+counteracted them and struck the Yadavas with three other weapons,
+namely Shaila, Vāruna and Sāvitri. They however, devoured, by virtue of
+their illusory powers, all the weapons shot by the great Kumāra, the
+holder of burning bow and shaft. Then the highly powerful Guha, burning
+in effulgence and biting his lips, took up the dreadful weapon
+Brahmashira like unto the Destroyer himself (5-8). When the highly
+dreadful weapon Brahmashira, endued with the effulgence of a thousand
+suns and destructive of the world, was discharged by Kumāra the
+creatures lost their consciousness through its warmth and fled away on
+all sides and the whole universe bewailed. Seeing it the powerful
+Keshava, the slayer of Keshi, took up his discus the destroyer and
+counteractor of all weapons. As in the rainy season the clouds cover the
+rays of the sun, so that discus, of the high-souled Keshava, clouded,
+with its lustre, that of Brahmashira weapon (9-12).
+
+When that Brahmashira weapon was shorn of its lustre, power and energy,
+Guha, with his eyes reddened in anger, was worked up like fire to which
+oblation of clarified butter is offered. He then took up a dreadful
+burning, golden Sakti of sure aim, destructive of enemies and creating
+terror in all creatures. He then discharged, in anger, that celestial
+burning Sakti set with bells, effulgent like a fire-brand and resembling
+the fire of dissolution (13–15). He then set up a powerful shout which
+struck terror unto his enemies. When that Sakti was discharged by the
+high-souled Guha, it went up into the sky, yawned and moved about with
+great force as if desirous of slaying Krishna. Beholding that burning
+Sakti the gods and their king were greatly depressed and said—"Perhaps
+Krishna will be consumed." However as soon as that great Sakti appeared
+before him in that great battle the highly powerful Mādhava shouted and
+as if remonstrating struck it down on the ground. When that great Sakti
+was struck down there arose from all sides exclamations "Well done! Well
+done!" And Vāsava together with the celestials sent up a leonine shout.
+When the gods were thus roaring the powerful Vāsudeva took up his discus
+for killing the Daityas (16–21).
+
+When Krishna, of incomparable energy, was about to discharge his discus,
+the beautiful Kottavi, at the mandate of Mahādeva, came there naked for
+protecting Kumāra. The eighth portion of the goddess, Lamvā, intervened
+between them like a beautiful golden Sakti. Seeing the goddess stand
+before Kumāra the large-armed Krishna was baffled and said:—"Oh fie on
+you? Fly away soon from this place; why do you throw obstacles in the
+way of certain destruction?" (22–25)
+
+Vaishampāyana said:—Hearing even those words of the mighty-armed Krishna
+Kottavi did not put on her cloth for protecting Kumāra (26).
+
+The Lord said:—"Take Guha with you and fly away soon from the
+battle-field. It will be well for us to-day, if you do this. Or else if
+I refrain from fighting he will fight with me" (27). Thereupon beholding
+that naked goddess in the battle-field the divine younger brother of
+Vasava the Lord Hari put away his discus. Hearing those words of the
+intelligent Mādhava, the god of gods, the goddess brought Guha before
+Hara. Then when the great danger took place and Guha was protected by
+the goddess, Vāna came to that place. When he saw Guha released from
+Krishna’s discus and retire from the battle-field he felt an inclination
+for fighting himself with Mādhava (28–31). Thereupon bewildered the
+ghosts, Yakshas and Vāna’s soldiers fled away on all sides. Of that
+broken army only Pramathas remained there. And with them the great Asura
+soon marched for the battle-field. As the wielder of thunderbolt
+proceeds in the company of the leading celestials so. Vāna went out with
+highly dreadful, powerful, energetic and great Daitya commanders.
+Thereupon chanting the destruction of his enemies his priests and other
+elderly persons, well read in Srutis, performed benedictory ceremonies,
+on behalf of the high-souled Vāna with _Mantras_, recitation and herbs
+(32–37).
+
+## Corpus chain
+previous_story_id: DKS_0251 | next_story_id: DKS_0253
+previous title: Shiva and Kartikeya Enter the Battle for Vana || As Vana's army flees, Shiva, eyes red with anger, ascends his lion-drawn car surrounded by his ghostly host, and Kartikeya joins him to protect Vana.
+next title: Vana Vaunts and Fights Krishna || Vana boasts of his thousand arms, but Krishna answers and, with the Sarnga bow, sunders Vana's car, horses and standard, then strips him of crown, mail, bow and shield until he swoons.

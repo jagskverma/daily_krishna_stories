@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0013",
+ "title": "Krishna Is Born at Midnight",
+ "subtitle": null,
+ "story": "At the stroke of midnight, the world outside the prison began to change, and almost no one noticed. The dark lay over Mathura like a held breath, and then, very quietly, it began to give way.\n\nIn Mathura the night had been heavy, but now, slowly, the ten directions grew calm. The sky cleared of its clouds, and the stars rose in their hosts, bright and close. The rivers, stirred and clouded all day, settled until their water ran clear as glass, and the ponds put on their lotus flowers like ornaments laid out for a guest. The seas, far off, took up a low, melodious murmur, as if they too were singing. A wind rose that was gentle and cool to the touch, and it carried a clean, sweet scent, so that anyone awake at that hour would have breathed it in and wondered what had changed. Even the fires that had gone cold in the hearths of the city began, some said, to burn again with a mild and gentle flame. And a soft light spread over the whole earth, as though moonlight had been poured across it. And the minds of good people everywhere grew suddenly at peace, as though a long and private worry had lifted from them without their knowing why.\n\nInside the prison, none of this could be seen. The cell was small and dark, and in it Devaki lay waiting. She and Vasudeva had been shut away by her brother Kamsa, who now ruled Mathura and who lived in terror of a prophecy: that Devaki's eighth child would be his death. One by one he had killed the children she had borne before this one, dashing them as soon as they came into the world, so that no child could grow into the doom that had been promised to him. Each birth in that room had ended the same way, and still the child came.\n\nThe tradition remembers the hour itself as sacred, the night called Jayanti, the most blessed of the year, and the moment within it the most fortunate. Men who kept the count of such things named the star of that hour Abhijit, and the moment itself Vijaya, the victorious. The child came into the cell quietly, without trumpets or attendants. He came as quietly as the full moon that rises over the east of the world. But outside, where no one was watching, the whole of nature seemed to know. The kinnaras and the gandharvas sang, the siddhas and the charanas praised what was happening, and the sages and the gods, unseen, let fall showers of flowers from the sky. Somewhere above, a celestial bugle sounded, though no hand had struck it.\n\nThe hymns were not heard in the streets of Mathura. The city slept, and the king slept, and the guards kept their watch at the prison doors, unaware that the hour they had been set to guard against had already come. The only witnesses to that joy were the two prisoners in the cell and the quiet elements of the world.\n\nNo one in Mathura heard the singing. But something had entered the world that the wind, the rivers, and the stars all seemed to recognize, and the night itself had turned gentle to receive it.",
+ "reflection": "The birth is told almost entirely through what the world did not see: a sky clearing, winds turning gentle, rivers settling. The wonder is not announced to the city but to the elements, and it is all the more moving for being unheard.",
+ "tradition_note": "The Vishnu Purana adds that when Vasudeva first looked upon the child he beheld a four-armed form holding the conch, discus and mace, and begged him to conceal it; that moment is told separately in this collection.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Krishna",
+  "Devaki",
+  "Vasudeva"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "birth",
+  "auspiciousness",
+  "divine_manifestation"
+ ],
+ "previous_story_id": "DKS_0003",
+ "next_story_id": "DKS_0018",
+ "next_story_tease": "But the night was not over: the river still lay between the child and safety.",
+ "hero_scene": "A newborn Krishna in the dark of the prison cell while, unseen beyond the walls, the night turns calm: stars brighten, rivers settle, and flowers drift down from the sky.",
+ "visual_elements": [
+  "the dark prison cell",
+  "newborn Krishna",
+  "Devaki and Vasudeva in shadow",
+  "a sky clearing to stars",
+  "calm rivers and lotus ponds",
+  "a gentle scented breeze",
+  "flowers falling unseen from the sky",
+  "mood of hushed, reverent wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.3.1-7",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.59",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.3",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:03:57Z",
+  "source_event_id": "evt_0024"
+ },
+ "editorial_status": "unreviewed"
+}

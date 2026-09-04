@@ -1,0 +1,56 @@
+# STORY DKS_0115 — The Gopis Grieve at Krishna's Departure
+
+## Index entry
+title: The Gopis Grieve at Krishna's Departure
+summary: When Nanda proclaims the journey to Mathura, the gopis lament that Akrura is taking Krishna away.
+life_stage: vrindavan | story_arc: akrura_and_departure
+characters: gopis, Akrura, Krishna
+locations: Vrindavan
+themes: grief, separation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0125
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 39 | verses 10-30 | confidence 5
+  excerpt: When Nanda proclaimed that they would go to Mathura, the gopis were stricken with grief, and they lamented, saying that Akrura, whose name means 'not cruel,' was cruel indeed to take Krishna away. (rendered from Sanskrit, verses 12-30)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 18 | verses  | confidence 4
+  excerpt: The Gopís, seeing them about to set forth, were much afflicted; they wept bitterly... 'Alas! alas! we see now only the dust of his chariot wheels! and now he is far away, for even that dust is no longer to be seen!'
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.39 (10-30)
+10. gopān samādiśat so 'pi gṛhyatāṃ sarva-go-rasaḥ /
+11. yāsyāmaḥ śvo madhu-purīṃ dāsyāmo nṛpate rasān /
+12. gopyas tās tad upaśrutya babhūvur vyathitā bhṛśam /
+13. kāścit tat-kṛta-hṛt-tāpa śvāsa-mlāna-mukha-śriyaḥ /
+14. anyāś ca tad-anudhyāna nivṛttāśeṣa-vṛttayaḥ /
+15. smarantyaś cāparāḥ śaurer anurāga-smiteritāḥ /
+16. gatiṃ su-lalitāṃ ceṣṭāṃ snigdha-hāsāvalokanam /
+17. cintayantyo mukundasya bhītā viraha-kātarāḥ /
+18. bhp_10.39.019/0 śrī-gopya ūcuḥ
+19. yas tvaṃ pradarśyāsita-kuntalāvṛtaṃ $ mukunda-vaktraṃ su-kapolam un-nasam &amp;śokāpanoda-smita-leśa-sundaraṃ % karoṣi pārokṣyam asādhu te kṛtam
+20. krūras tvam akrūra-samākhyayā sma naś $ cakṣur hi dattaṃ harase batājña-vat &krūras tvam akrūra-samākhyayā sma naś $ cakṣur hi dattaṃ harase batājña-vat &yenaika-deśe 'khila-sarga-sauṣṭhavaṃ % tvadīyam adrākṣma vayaṃ madhu-dviṣaḥ
+21. na nanda-sūnuḥ kṣaṇa-bhaṅga-sauhṛdaḥ $ samīkṣate naḥ sva-kṛtāturā bata &na nanda-sūnuḥ kṣaṇa-bhaṅga-sauhṛdaḥ $ samīkṣate naḥ sva-kṛtāturā bata &vihāya gehān sva-janān sutān patīṃs % tad-dāsyam addhopagatā nava-priyaḥ
+22. sukhaṃ prabhātā rajanīyam āśiṣaḥ satyā babhūvuḥ pura-yoṣitāṃ dhruvam /
+23. tāsāṃ mukundo madhu-mañju-bhāṣitair $ gṛhīta-cittaḥ para-vān manasvy api &amp;kathaṃ punar naḥ pratiyāsyate 'balā % grāmyāḥ salajja-smita-vibhramair bhraman
+24. adya dhruvaṃ tatra dṛśo bhaviṣyate dāśārha-bhojāndhaka-vṛṣṇi-sātvatām /
+25. maitad-vidhasyākaruṇasya nāma bhūd akrūra ity etad atīva dāruṇaḥ /
+26. anārdra-dhīr eṣa samāsthito rathaṃ tam anv amī ca tvarayanti durmadāḥ /
+27. nivārayāmaḥ samupetya mādhavaṃ kiṃ no 'kariṣyan kula-vṛddha-bāndhavāḥ /
+28. yasyānurāga-lalita-smita-valgu-mantra $ līlāvaloka-parirambhaṇa-rāsa-goṣṭhām &amp;nītāḥ sma naḥ kṣaṇam iva kṣaṇadā vinā taṃ % gopyaḥ kathaṃ nv atitarema tamo durantam
+29. yo 'hnaḥ kṣaye vrajam ananta-sakhaḥ parīto $ gopair viśan khura-rajaś-churitālaka-srak &yo 'hnaḥ kṣaye vrajam ananta-sakhaḥ parīto $ gopair viśan khura-rajaś-churitālaka-srak &veṇuṃ kvaṇan smita-katākṣa-nirīkṣaṇena % cittaṃ kṣiṇoty amum ṛte nu kathaṃ bhavema
+30. bhp_10.39.031/0 śrī-śuka uvāca
+
+### Vishnu Purana (Wilson 1840) 5.18 ()
+Grief of the Gopís on the departure of Krishńa and Balaráma with Akrúra: their leaving Gokula. Akrúra bathes in the Yamuná; beholds the divine forms of the two youths, and praises Vishńu.
+
+THUS meditating, the Yádava approached Govinda, and addressed him, and said, "I am Akrúra," and bowed his head down to the feet of Hari; but Krishńa laid upon him his hand, which was marked with the flag, the thunderbolt, and the lotus, and drew him towards him, and affectionately embraced him. Then Keśava and Ráma entered into conversation with him, and, having heard from him all that had occurred, were much pleased, and led him to their habitation: there they resumed their discourse, and gave him food to eat, and treated him with proper hospitality. Akrúra told them how their father Ánakadundubhi, the princess Devakí, and even his own father, Ugrasena, had been insulted by the iniquitous demon Kansa: he also related to them the purpose for which he had been dispatched. When he had told them all these things, the destroyer of Keśin said to him, "I was aware of all that you have told me, lord of liberal gifts: Ráma and I will go to-morrow to Mathurá along with you. The elders of the cowherds shall accompany us, bearing ample offerings. Rest here to-night, and dismiss all anxiety. Within three nights I will slay Kansa and his adherents."Having given orders accordingly to the cowherds, Akrúra, with Keśava and Ráma, retired to rest, and slept soundly in the dwelling of Nanda. The next morning was bright, and the youths prepared to depart for Mathurá with Akrúra. The Gopís, seeing them about to set forth, were much afflicted; they wept bitterly, their bracelets were loose upon their arms, and they thus communed together: "If Govinda depart for Mathurá, how will he return to Gokula? his ears will there be regaled with the melodious and polished conversation of the women of the city. Accustomed to the language of the graceful females of Mathurá, he will never again endure the rustic expressions of the Gopís. Hari, the pride of the station, is carried off, and a fatal blow is inflicted upon us by inexorable destiny, Expressive smiles, soft language, graceful airs, elegant gait, and significant glances, belong to the women of the city. Hari is of rustic breeding, and, captivated by their fascinations, what likelihood is there of his returning to the society of any one amongst us? Keśava, who has mounted the car to go to Mathurá, has been deceived by the cruel, vile, and desperate Akrúra. Does not the unfeeling traitor know the affection that we all here feel for our Hari, the joy of our eyes, that he is taking him away? Unkind that he is, Govinda is departing from us, along with Ráma: haste! let us stop him! Why talk of telling our seniors that we cannot bear his loss? What can they do for us, when we are consumed by the fires of separation? The Gopas, with Nanda at their head, are themselves preparing to depart; no one makes any attempt to detain Govinda. Bright is the morning that succeeds to this night for the women of Mathurá, for the bees of their eyes will feed upon the lotus face of Achyuta. Happy are they who may go hence without impediment, and behold, enraptured, Krishńa on his journey. A great festival will give pleasure to-day to the eyes of the inhabitants of Mathurá, when they see the person of Govinda. What a blissful vision will be seen by the happy women, of the city, whose brilliant eyes shall regard, unchecked, the countenance of Krishńa! Alas! the eyes of the Gopís have been deprived of sight by the relentless Brahmá, after he had shewn them this great treasure. In proportion as the affection of Hari for us decays, so do our limbs wither, and the bracelets slip from our arms: and now the cruel Akrúra urges on the horses: all conspire to treat unhappy females with unkindness. Alas! alas! we see now only the dust of his chariot wheels! and now he is far away, for even that dust is no longer to be seen!" Thus lamented by the women, Keśava and Ráma quitted the district of Vraja. Travelling in a car drawn by fleet horses, they arrived at noon at the banks of the Yamuná, when Akrúra requested them to halt a little, whilst he performed the usual daily ceremonial in the river. Accordingly the intelligent Akrúra bathed, and rinsed his mouth, and then entering the stream, he stood meditating upon the supreme being; but he beheld mentally Balabhadra, having a thousand hooded beads, a garland of Jasmine flowers, and large red eyes, attended by Vásuki, Rambha, and other mighty serpents, praised by the Gandharbas, decorated with wild flowers, wearing dark coloured garments, crowned with a chaplet of lotuses, ornamented with brilliant earrings, inebriate, and standing at the bottom of the river in the water. On his lap he also beheld, at his ease, Krishńa, of the complexion of a cloud, with full and coppery eyes, having an elegant form, and four hands, armed with the discus and other weapons, wearing yellow clothes, decorate
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0114 | next_story_id: DKS_0116
+previous title: Akrura Reveals Kamsa's Plan and Krishna Agrees to Go
+next title: Krishna Consoles the Gopis

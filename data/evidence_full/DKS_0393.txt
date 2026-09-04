@@ -1,0 +1,43 @@
+# STORY DKS_0393 — Narada Announces the Rajasuya
+
+## Index entry
+title: Narada Announces the Rajasuya
+summary: Narada arrives at the assembly and announces that Yudhishthira will perform the Rajasuya sacrifice, requesting Krishna's consent and presence.
+life_stage: pandava_period | story_arc: rajasuya_and_sisupala
+characters: Krishna, Narada, Yudhishthira, Uddhava
+locations: Dwaraka
+themes: friendship, royal sacrifice, divine messenger
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0377
+variant_notes: Narada's announcement precedes the request; cf. bp10d_007/mb_a2_010.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 70 | verses 31-46 | confidence 5
+  excerpt: The divine sage Narada, radiant with matted tawny locks, appears in the assembly and is honored by Krishna. He announces that Krishna's cousin Yudhishthira, desiring imperial sovereignty, will worship Krishna with the Rajasuya sacrifice, and that Krishna should consent. Krishna then playfully asks Uddhava for his counsel. (rendered from Sanskrit, verse 31-46)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.70 (31-46)
+31. bhp_10.70.032/0 śrī-śuka uvāca
+32. taṃ dṛṣṭvā bhagavān kṛṣṇaḥ sarva-lokeśvareśvaraḥ /
+33. sabhājayitvā vidhi-vat kṛtāsana-parigraham /
+34. api svid adya lokānāṃ trayāṇām akuto-bhayam /
+35. na hi te 'viditaṃ kiñcil lokeṣv īśvara-kartṛṣu /
+36. bhp_10.70.037/0 śrī-nārada uvāca
+37. tavehitaṃ ko 'rhati sādhu vedituṃ sva-māyayedaṃ sṛjato niyacchataḥ /
+38. jīvasya yaḥ saṃsarato vimokṣaṇaṃ na jānato 'nartha-vahāc charīrataḥ /
+39. athāpy āśrāvaye brahma nara-loka-viḍambanam /
+40. yakṣyati tvāṃ makhendreṇa rājasūyena pāṇḍavaḥ /
+41. tasmin deva kratu-vare bhavantaṃ vai surādayaḥ /
+42. śravaṇāt kīrtanād dhyānāt pūyante 'nte-vasāyinaḥ /
+43. yasyāmalaṃ divi yaśaḥ prathitaṃ rasāyāṃ $ bhūmau ca te bhuvana-maṅgala dig-vitānam &amp;mandākinīti divi bhogavatīti cādho % gaṅgeti ceha caraṇāmbu punāti viśvam
+44. bhp_10.70.045/0 śrī-śuka uvāca
+45. bhp_10.70.046/0 śrī-bhagavān uvāca
+46. ity upāmantrito bhartrā sarva-jñenāpi mugdha-vat /
+
+## Corpus chain
+previous_story_id: DKS_0392 | next_story_id: DKS_0394
+previous title: Krishna Grants Shishupala's Mother the Boon of a Hundred Offences
+next title: Yudhishthira Requests the Rajasuya and Krishna Approves

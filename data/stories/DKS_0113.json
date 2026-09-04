@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0113",
+ "title": "Akrura Arrives in Vrindavan and Beholds Krishna",
+ "subtitle": null,
+ "story": "The traveller who came to the cowherd village that evening was Akrura, a nobleman of Mathura, sent by its king, Kamsa, on an errand that concerned Krishna and Balarama. He reached Vrindavan at the hour when the day gives way to night — the sun's rays grown weak, the moon rising tawny in the crimson sky, the birds gone to their nests, and the cows come home lowing to be milked, their calves bound to the stakes, the milkmen calling the kine in by name and kindling the evening fires. It was at this hour that he came down from his chariot and walked in.\n\nAt the cow-pens, among the milking cows, he saw them, and he could not stay on his feet. There were two youths — brothers — one dark, one fair, both big-armed and garlanded, their feet marked with the flag, the thunderbolt, the goad, and the lotus. The dark one was Krishna, dark as the leaf of a full-blown lotus; the fair one was Balarama, white as jasmine. They stood at the milking place in the midst of the calves, at the meeting point of boyhood and youth, and their very radiance scattered the last of the evening's gloom. Akrura's face opened with delight.\n\nHe did not walk toward them; he fell. Jumping down from the chariot, overwhelmed with love, the hair on his body standing on end and his eyes brimming, he threw himself into the dust where the Lord's feet had been, crying out again and again over the blessed foot-dust that crowns the heads of all the protectors of the worlds. This, he knew, was the highest thing any embodied being could hold — to lie there in that dust, free at last of pretence and fear and grief. Within himself he praised the Lord again and again, remembering who this was — the lotus-eyed one who had once lain on a fig leaf at the end of all things, and who had once stepped over the three worlds as a dwarf.\n\nKrishna saw him coming and understood everything at once. He and Balarama came forward, and as Akrura lay prostrate at their feet, the two of them lifted him up and embraced him. They asked after his welfare, gave him a seat of honor, and offered him a cow, as a guest is offered. Balarama, who knew every courtesy, washed his tired feet from the road. The envoy of a cruel king was received as a brother come home.\n\nOnly when he had eaten and rested did the questions begin — and they came not from the youths but from Nanda, the cowherd chief who had raised Krishna. Nanda received the stranger as family, and then asked, gently, how the Yadavas fared — Krishna's own family in Mathura, living as they did under a king with no grace in him, the wretch who had killed his own sister's children while she wept. There was no anger in Nanda's voice, only the concern of one kinsman for others far away under a cruel roof.\n\nAnd so the man who had arrived as the agent of that very king was received, not as an envoy to be suspected, but as a friend to be fed and questioned with kindness. No one demanded his business. No one asked what message he carried, or pressed him to speak. The cowherds honored him, and he in turn honored Krishna, and for that one evening at least, the errand that hung over them all could wait.\n\nAkrura had expected to look upon Krishna from a distance, as a servant looks upon his lord. Instead he was pulled to his feet, embraced, and seated at the table as kin. The sight he had longed for became a welcome, and the welcome became the message he had really been sent to learn.",
+ "reflection": "The story turns on hospitality rather than drama. A man who came as the envoy of a tyrant is met with food, a seat of honor and a kinsman's question, before any errand is spoken. In that welcome the fear Akrura carried on the road dissolves — he is received not for what he represents but for who he is.",
+ "tradition_note": "The Vishnu Purana also describes this meeting, likening Krishna to the leaf of a full-blown lotus and Balarama to jasmine, a swan or the moon; the Harivamsha sets the arrival in a richly described evening in Vraja and adds the image of Krishna among the calves like a bull. The core event is the same across all three.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Akrura",
+  "Krishna",
+  "Balarama",
+  "Nanda"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "hospitality"
+ ],
+ "previous_story_id": "DKS_0112",
+ "next_story_id": "DKS_0114",
+ "next_story_tease": "But the errand could not wait forever, and before long Akrura would have to speak the truth of why Kamsa had really sent him.",
+ "hero_scene": "Akrura prostrate in the dust at the feet of Krishna and Balarama beside the milking cows of Vrindavan, the two youths — one dark, one fair, garlanded and radiant — leaning down to lift him up as Nanda and the cowherds watch.",
+ "visual_elements": [
+  "Akrura prostrate in the dust",
+  "Krishna, dark and radiant, among the cows",
+  "Balarama, fair as jasmine",
+  "garlands and feet marked with the lotus and other signs",
+  "milking cows and the cow-pens of Vrindavan",
+  "Nanda welcoming the guest",
+  "embrace, hospitality and warmth"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.38.23-42",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.80",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.17",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:05Z",
+  "source_event_id": "evt_0123",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

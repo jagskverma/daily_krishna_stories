@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0479",
+ "title": "The Field Seen From Krishna's Chariot",
+ "subtitle": "Krishna points out Karna's rampage and urges Arjuna forward",
+ "story": "From the chariot where the two of them stood, Krishna showed Arjuna the field as only he could see it. \"Yonder,\" he said, pointing, \"your brother Yudhishthira is being pursued by many mighty and great bowmen of the Dhartarashtras, all inspired with the desire of slaughtering him. The mighty Panchalas, difficult of defeat in battle, are proceeding after the high-souled king from desire of rescuing him.\"\n\nArjuna looked, and Krishna went on, reading the confusion of the battle like a text. Duryodhana himself, the king of the whole world, clad in mail and accompanied by a large car force, was pursuing the Pandava king, together with his brothers, the touch of whose weapons was as fatal as that of poisonous snakes. The Dhartarashtra elephants and horses and car-warriors and foot-soldiers were advancing to seize Yudhishthira like poor men after a precious gem. They had been checked for a moment by Satyaki and Bhima, stupefied like the Daityas that desired to take away the Amrita, made motionless by Sakra and Agni. But in consequence of the vastness of their numbers they were again proceeding towards the king, like a vast quantity of water in the season of rains rushing towards the ocean, uttering leonine roars, blowing their conchs, and shaking their bows.\n\n\"I regard Kunti's son Yudhishthira,\" Krishna said, \"thus brought under the influence of Duryodhana, to be already within the jaws of Death, or already poured as a libation on the sacrificial fire.\" The army of Dhritarashtra's son was arrayed and equipped duly; Sakra himself, coming within the range of its arrows, could scarcely escape. Who, in battle, could bear the impetuosity of the heroic Duryodhana, who shot showers of arrows with the greatest celerity and who, when angry, resembled the Destroyer himself? The force of Duryodhana's shafts, or Drona's son's, or Kripa's, or Karna's, would break down the very mountains.\n\nAnd then Krishna came to what he had been leading towards all along. That scorcher of foes, king Yudhishthira, had once been compelled by Karna to turn his back upon the field. The son of Radha was endued with great might and great lightness of hand; possessed of great skill, he was competent to afflict the eldest son of Pandu, especially when united with the mighty and brave son of Dhritarashtra. The king was exceedingly emaciated in consequence of his fasts; he was endued with Brahma-force, but the puissant one was not endued with much of Kshatriya-might. Assailed by Karna, the royal son of Pandu had been placed in a situation of great peril. \"I think, O Partha, that king Yudhishthira has fallen,\" Krishna said. \"Indeed, since that chastiser of foes, the wrathful Bhimasena, coolly heareth the leonine roars of the frequently shouting Dhartarashtras longing for victory and blowing their conchs, I think, O bull among men, that Pandu's son is dead.\"\n\nYonder, Krishna pointed, Karna was urging forward the mighty car-warriors of the Dhartarashtras towards the son of Pritha with the weapons called Sthunakarna, Indrasjaha and Pasupata, and with clubs and other weapons. The king's standard was no longer visible; it had probably been struck down by Karna with his shafts. In the very sight of the twins, of Satyaki and Shikhandi, of Dhrishtadyumna and Bhima and Satanika, of all the Panchalas and the Cedis, Karna was destroying the Pandava division with his arrows, like an elephant destroying an assemblage of lotuses. There, those car-warriors of Arjuna's army were flying away; those elephants, assailed by Karna, were flying in all directions, uttering cries of pain. The foremost standard of the Suta's son, bearing the device of the elephant's rope, moved all over the field, and there the son of Radha was rushing against Bhimasena, scattering hundreds of shafts as he proceeded and slaughtering the army, routing the Panchala car-warriors even as the Daityas had been routed by Sakra.\n\n\"Righteously setting thy heart on battle,\" Krishna said, \"advance against that leader of car-warriors.\"",
+ "reflection": "Krishna's words do not merely report the battle; they arrange it — first the pursued king, then the overwhelming numbers, then Karna's particular menace — until Arjuna can see with his charioteer's eyes that hesitation has become the only real enemy. The urgency is built entirely from what is visible on the field, not from exhortation.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Karna",
+  "Yudhishthira",
+  "Duryodhana",
+  "Bhima",
+  "Satyaki"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "war counsel",
+  "urgency",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0478",
+ "next_story_id": "DKS_0480",
+ "next_story_tease": "But before Arjuna could advance, the field rose up against him in the person of Drona's son.",
+ "hero_scene": "Krishna, standing in the chariot beside Arjuna, points across the battlefield towards the distant figure of king Yudhishthira, while on the far side Karna's standard bearing the elephant's rope moves over the field, scattering the Pandava division like an elephant destroying an assemblage of lotuses.",
+ "visual_elements": [
+  "Krishna pointing across the field from the chariot",
+  "Arjuna with Gandiva, following his gaze",
+  "king Yudhishthira pursued by Duryodhana and his brothers",
+  "the sea of Dhartarashtra warriors rushing like water to the ocean",
+  "Karna's standard with the device of the elephant's rope",
+  "routed car-warriors and elephants fleeing with cries",
+  "Satyaki and Bhima checking the pursuit"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.60",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:07Z",
+  "source_event_id": "evt_0473"
+ },
+ "editorial_status": "unreviewed"
+}

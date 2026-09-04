@@ -1,0 +1,77 @@
+{
+ "id": "DKS_0519",
+ "title": "The Prank That Cursed a Clan",
+ "subtitle": "Samba is dressed as a pregnant woman, and the sages answer with an iron mace",
+ "story": "The joke began with a boy dressed as a bride. In Dwaraka, the great city of the Yadava clan, Samba — Krishna’s son by his wife Jambavati — was wrapped in women’s clothes and adorned like a young wife. His companions led him through the streets, hands folded in mock modesty, toward the sages who had come among them.\n\nThe Yadu boys were young, giddy and reckless, and the sight of holy men at their devotions struck them as an opportunity for sport. They presented the veiled Samba to the sages with exaggerated reverence. “This dark-eyed one is with child,” they said. “Tell us, holy sirs — what will she give birth to?”\n\nThe sages were not deceived for an instant. They saw the dressed-up boy and the false pregnancy, and they understood the insult: the young men of the Yadava house were mocking their calling to their faces. Their anger fell like a hammer. “She will bear an iron mace,” they answered, “and that mace will destroy your clan.”\n\nThe laughter died before the words were done. The mace came forth from Samba’s belly then and there — iron, heavy and terrible — and the boys stood staring at what their joke had called into being. They had meant only to play; they had brought forth their own doom. “What have we done, ill-fated as we are?” they cried to one another. “What will people say of us now?”\n\nTerrified, they carried the mace to the assembly and laid it before the elders, their faces drained of color. Ugrasena, the Yadava king, looked at the iron bolt and understood what had happened in the city that day. He gave the order at once: the mace was ground to powder, and the powder was carried to the seashore and scattered into the waves, so that nothing of the curse would remain in the hands of the clan.\n\nBut one scrap of the iron — a single fragment among the dust — was swallowed by a fish in those same waters. The fish grew heavy and was caught by fishermen in their nets, and when it was cut open the iron passed into other hands, passed and was worked, until at last it lay shaped as an arrow in a hunter’s quiver, waiting for the day it would be needed.\n\nKrishna, when the news reached him, was not surprised. The sages had spoken knowing the mind of the Lord, and the anger of holy men had become the instrument of a design already made. He did not overturn the sentence, nor did he treat the mace’s coming as an accident. He summoned the Vrishnis to him, as a man gathers his household when a storm is coming — not to outrun it, but so that when it arrives, they will be found together.\n\nThe clan kept its city and its pride. The sea kept the secret of its iron dust. And somewhere the arrow waited in the hunter’s quiver, while in Dwaraka the boys who had laughed at the sages grew older, and the curse settled over the Yadava house like a long shadow.",
+ "reflection": "The curse answers a boy's prank with a clan's ruin, and the disproportion is the point: the sages punish not the joke but the arrogance behind it. Yet the sources add that they cursed knowing the mind of the Lord — so the wrath of holy men and the patience of Krishna were moving toward the same end, and the joke only opened the door that was already marked.",
+ "tradition_note": "The Vishnu Purana names the sages — Viswamitra, Kanwa and Narada, met at Pindaraka — and says the ground dust became rushes; the Mahabharata foretells the bolt's destruction of the Vrishnis and Andhakas. The Bhagavata Purana, followed here, has the last iron swallowed by a fish and later shaped into the hunter's arrow.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "end_of_yadavas",
+ "characters": [
+  "Krishna",
+  "Samba",
+  "the Yadu boys",
+  "the sages",
+  "Ugrasena"
+ ],
+ "locations": [
+  "Dwaraka",
+  "the seashore"
+ ],
+ "themes": [
+  "curse",
+  "fate",
+  "arrogance",
+  "the iron mace"
+ ],
+ "previous_story_id": "DKS_0518",
+ "next_story_id": "DKS_0520",
+ "next_story_tease": "For Krishna, the curse had never been a surprise — he had weighed the Yadavas' fate long before.",
+ "hero_scene": "In the dusty assembly ground of Dwaraka, the terrified Yadu boys set down the iron mace born from Samba's belly while the elders stare in silence and Krishna watches, unsurprised, at the edge of the crowd.",
+ "visual_elements": [
+  "the Yadu boys dressing the veiled Samba in women's clothes",
+  "the boys presenting Samba to the seated sages with mock reverence",
+  "the iron mace lying on the ground where Samba brought it forth",
+  "the terrified boys carrying the mace into the assembly of elders",
+  "Ugrasena's men grinding the mace to powder on the seashore",
+  "a fish swallowing the iron fragment in the sea",
+  "Krishna watching quietly at the edge of the assembly"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.1.13-23",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.3.23",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.37",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.1",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:18Z",
+  "source_event_id": "evt_0007",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

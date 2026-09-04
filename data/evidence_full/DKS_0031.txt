@@ -1,0 +1,38 @@
+# STORY DKS_0031 — Krishna and Rama's Childhood Pranks and Butter-Stealing
+
+## Index entry
+title: Krishna and Rama's Childhood Pranks and Butter-Stealing
+summary: The two boys crawl and toddle about Gokula, and Krishna steals butter and curds from the gopis' homes with playful tricks.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Balarama, gopis
+locations: Gokula
+themes: playfulness, mischief
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0045
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 8 | verses 20-30 | confidence 5
+  excerpt: The boys crawl through the mud of Gokula to the delight of all; Krishna, the gopis complain, lets loose the calves, steals curd and butter, and smashes pots when he cannot reach them. (rendered from Sanskrit, verse 20-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.8 (20-30)
+20. kālena vrajatālpena gokule rāma-keśavau /
+21. tāv aṅghri-yugmam anukṛṣya sarīsṛpantau $ ghoṣa-praghoṣa-ruciraṃ vraja-kardameṣu &amp;tan-nāda-hṛṣṭa-manasāv anusṛtya lokaṃ % mugdha-prabhītavad upeyatur anti mātroḥ
+22. tan-mātarau nija-sutau ghṛṇayā snuvantyau $ paṅkāṅga-rāga-rucirāv upagṛhya dorbhyām &tan-mātarau nija-sutau ghṛṇayā snuvantyau $ paṅkāṅga-rāga-rucirāv upagṛhya dorbhyām &dattvā stanaṃ prapibatoḥ sma mukhaṃ nirīkṣya % mugdha-smitālpa-daśanaṃ yayatuḥ pramodam
+23. yarhy aṅganā-darśanīya-kumāra-līlāv $ antar-vraje tad abalāḥ pragṛhīta-pucchaiḥ &yarhy aṅganā-darśanīya-kumāra-līlāv $ antar-vraje tad abalāḥ pragṛhīta-pucchaiḥ &vatsair itas tata ubhāv anukṛṣyamāṇau % prekṣantya ujjhita-gṛhā jahṛṣur hasantyaḥ
+24. śṛṅgy-agni-daṃṣṭry-asi-jala-dvija-kaṇṭakebhyaḥ $ krīḍā-parāv aticalau sva-sutau niṣeddhum &śṛṅgy-agni-daṃṣṭry-asi-jala-dvija-kaṇṭakebhyaḥ $ krīḍā-parāv aticalau sva-sutau niṣeddhum &gṛhyāṇi kartum api yatra na taj-jananyau % śekāta āpatur alaṃ manaso 'navasthām
+25. kālenālpena rājarṣe rāmaḥ kṛṣṇaś ca gokule /
+26. tatas tu bhagavān kṛṣṇo vayasyair vraja-bālakaiḥ /
+27. kṛṣṇasya gopyo ruciraṃ vīkṣya kaumāra-cāpalam /
+28. vatsān muñcan kvacid asamaye krośa-sañjāta-hāsaḥ $ steyaṃ svādv atty atha dadhi-payaḥ kalpitaiḥ steya-yogaiḥ &amp;markān bhokṣyan vibhajati sa cen nātti bhāṇḍaṃ bhinnatti % dravyālābhe sagṛha-kupito yāty upakrośya tokān
+29. hastāgrāhye racayati vidhiṃ pīṭhakolūkhalādyaiś $ chidraṃ hy antar-nihita-vayunaḥ śikya-bhāṇḍeṣu tad-vit &hastāgrāhye racayati vidhiṃ pīṭhakolūkhalādyaiś $ chidraṃ hy antar-nihita-vayunaḥ śikya-bhāṇḍeṣu tad-vit &dhvāntāgāre dhṛta-maṇi-gaṇaṃ svāṅgam artha-pradīpaṃ % kāle gopyo yarhi gṛha-kṛtyeṣu suvyagra-cittāḥ
+30. evaṃ dhārṣṭyāny uśati kurute mehanādīni vāstau $ steyopāyair viracita-kṛtiḥ supratīko yathāste &evaṃ dhārṣṭyāny uśati kurute mehanādīni vāstau $ steyopāyair viracita-kṛtiḥ supratīko yathāste &itthaṃ strībhiḥ sa-bhaya-nayana-śrī-mukhālokinībhir % vyākhyātārthā prahasita-mukhī na hy upālabdhum aicchat
+
+## Corpus chain
+previous_story_id: DKS_0030 | next_story_id: DKS_0032
+previous title: Garga Secretly Names Rama and Krishna
+next title: Krishna Eats Mud and Shows the Cosmos in His Mouth

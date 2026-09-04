@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0052",
+ "title": "The Year That Was a Moment",
+ "subtitle": null,
+ "story": "When Brahma, the four-faced creator, had been given leave and was gone, Krishna turned back to the sandbank, and the boys and their calves were there again, just as they had been, as though no hand had ever carried them away.\n\nHe set everything back as it had been. He did not announce it; there was no fanfare and no explanation. He simply returned what had been taken, and the world closed over the gap the way water closes over a stone.\n\nAnd this was the strangest part of the whole affair. A whole year had passed — a year in which the cows had grazed and the seasons had turned, the calves had grown, and the river had risen and fallen again; a year in which the mothers of Vrindavan had poured their love over children who, though they did not know it, had never truly been away. But the boys knew nothing of it. The year sat on them as lightly as a dream that vanishes the moment the eyes open. Their minds, the verses say, were covered by maya, the great illusion, and what they had lost, they could not remember losing — not the days spent hidden away, not the one who had hidden them, not the year itself. All of it was gone from them, as if it had never been.\n\n\"Welcome back!\" they cried when they saw Krishna, as if he had only just stepped away. \"You returned quickly!\" They did not ask where he had been, because as far as they knew he had never left them at all, and that certainty was its own quiet mercy.\n\nThe calves came wandering back to the boys as though they had only just strayed, and no one thought to wonder at it. Krishna smiled and sat down among them and ate, and they finished the meal they had left unfinished, as though the afternoon had never been broken off. Then they gathered up their things and started home, Krishna calling to the calves as he went, the calves following the sound of his voice. He was decked in peacock feathers and flowers and the bright earth-colours of the woods, his flute sounding as he walked, the boys singing his praises around him, and the eyes of the gopis, watching from the doorways, grew glad at the sight of them.\n\nAnd as they came into the village they had a story to tell — how that very day Krishna, the son of Yashoda and Nanda, had slain a great serpent. They carried its dried skin with them as proof, the way a hunter carries home the hide, and no one who saw it could doubt the tale.",
+ "reflection": "The tenderest detail is the return to the story the boys were telling before they vanished — the great serpent, slain 'that very day.' A year of their lives passed without them, and they pick up the thread exactly where they dropped it. Time, the story suggests, is not one thing for everyone, and what Krishna guards can be given back whole.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "illusion",
+  "timelessness"
+ ],
+ "previous_story_id": "DKS_0051",
+ "next_story_id": "DKS_0053",
+ "next_story_tease": "And soon the boys would set their hearts on a palm grove whose sweet fruit no one had ever dared to eat.",
+ "hero_scene": "The cowherd boys walking home at dusk with Krishna in their midst, decked in peacock feathers and flowers and playing his flute, the boys singing and carrying the dried skin of the great serpent as a trophy.",
+ "visual_elements": [
+  "Krishna with peacock-feather crown",
+  "cowherd boys",
+  "calves",
+  "flute",
+  "dried python skin carried as trophy",
+  "forest path",
+  "dusk",
+  "gopis watching from doorways",
+  "joy and wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.14.41-47",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:32Z",
+  "source_event_id": "evt_0064",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

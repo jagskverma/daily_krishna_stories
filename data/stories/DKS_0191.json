@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0191",
+ "title": "Krishna Summons Garuda at Bhishmaka's House",
+ "subtitle": "The king of birds appears at a thought, and the assembled kings learn who has come to the swayamvara.",
+ "story": "Krishna reached Kundina, the capital of Vidarbha, as the sun, low in the west, turned the colour of heated iron. Rukmini, princess of Vidarbha, was to choose a husband at her swayamvara — the ceremony in which a princess takes the hand of the king she chooses — and every king who hoped to win her had come. The plain before the city had become a sea of tents, with the smoke of a hundred camps rising into the evening air.\n\nFor a moment Krishna was moved by what the old teachings call a rajasika impulse — a restless stirring of pride, the wish to make the assembled kings understand who had arrived. It was not a mean wish, and it was not sinful; it was the desire to show his strength. And Krishna had a way of showing strength that no king in that arena could match.\n\nHe thought of Garuda, the king of birds, the great eagle who bore him through the sky. A thought was enough; no messenger was needed. The moment Garuda came into his mind, the eagle took a form that could be plainly seen and came to Krishna, beating wings strong enough to trouble the wind itself. And every man gathered there — kings, warriors, servants, all of them — trembled, bent low, and fell to the earth, writhing like serpents that had lost the power to rise.\n\nKrishna alone stood firm as a mountain, and he knew, before he saw, that the king of birds had arrived. Then he saw him: Garuda, garlanded and anointed with heavenly perfumes, shaking the ground with his wings; golden-feathered, bright as a mountain veined with ore; the weapons on his back lying face-downward, like serpents seeking the touch of their master's hand; dark serpents trailing from his talons. This was the bird who had once fetched the nectar of immortality from heaven, the dread of the serpent race and of the demons called Daityas, whose image stood on the flag above Krishna's chariot. Now he stood before his lord like a servant bringing a gift.\n\nKrishna welcomed him with pleasure. \"Welcome, foremost of birds,\" he said. \"We are going to the swayamvara — come with us. Hundreds of mighty kings have gathered there with their elephants, horses and chariots. We shall behold those high-souled ones.\"\n\nSo the chariot set out again, with Garuda flying beside it and the warriors of the Yadavas following, and when they reached the city, all the kings who had come for the swayamvara were filled with delight at the sight of them. Armed though they were, they hurried to make ready quarters for Krishna, as though the terror of the king of birds had already passed and left only wonder behind.\n\nBhishmaka himself, king of Kundina and father of Rukmini, rose from among the kings and came to welcome him. He brought water to wash Krishna's feet and rinse his mouth, offered the honour due to a guest, and gave him a place in his own city. And as Shiva is said to enter Kailasa, his mountain home, Krishna entered with his army the house that had been kept ready for him, and was honoured there with food and drink, with jewels and with affection, and he lived happily in the house of Bhishmaka.\n\nThe kings who had fallen before the king of birds — the same kings who now pressed forward, delighted, to make room for Krishna — had been shown, without a single word of threat, what stood beside him. The swayamvara had not yet begun, and already the assembly knew who had come to it.",
+ "reflection": "The verses are candid that this is display — a rajasika impulse, pride without sin. Krishna arrives at the swayamvara and announces himself with the king of birds, so that every king in the arena understands, before a word is spoken, who has come. And the scene ends in the quietest possible key: Bhishmaka washing Krishna's feet and honouring him, and Krishna at rest in the house prepared for him.",
+ "tradition_note": "The Harivamsha names Rukmini's father both Bhishmaka and Kaishika; this retelling follows the title of the episode and uses Bhishmaka throughout.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Garuda"
+ ],
+ "locations": [
+  "Kundina",
+  "Vidarbha"
+ ],
+ "themes": [
+  "divine-carrier",
+  "display-of-power",
+  "awe"
+ ],
+ "previous_story_id": "DKS_0190",
+ "next_story_id": "DKS_0192",
+ "next_story_tease": "But in Bhishmaka's house, Rukmini had her own counsel to give Krishna.",
+ "hero_scene": "Garuda appearing before Krishna among the encamped kings of the swayamvara — wings shaking the earth, golden feathers bright as a mountain of minerals, black serpents dragged in his talons — while warriors lie fallen and trembling on the ground and Krishna alone stands firm like a mountain.",
+ "visual_elements": [
+  "Garuda with golden feathers and celestial garlands",
+  "wings flapping, shaking the earth",
+  "warriors fallen and writhing like serpents",
+  "Krishna standing firm like a mountain",
+  "the arena full of kings' camps at Kundina",
+  "the red evening sun",
+  "a mood of awe and power"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.104",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:34Z",
+  "source_event_id": "evt_0178",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

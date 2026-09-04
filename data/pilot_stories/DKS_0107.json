@@ -1,0 +1,72 @@
+{
+ "id": "DKS_0107",
+ "title": "The Great Rasa Dance",
+ "subtitle": null,
+ "story": "The moon that rose over the Yamuna that autumn night was full and white, and the forest lay silver beneath it. The river moved quietly, and the air was mild — the kind of night that asks nothing of anyone. It was the season of clear nights, when the year turns and the moon hangs low and white. Krishna, the cowherd boy of Vrindavan, looked at the night and found it good for dancing. So, on the bank of the river, he began the rasa — the great circle dance of the autumn nights — and the gopis, the cowherd women of the village who loved him, gathered around him.\n\nHe did not dance alone at the centre of the circle. He became as many as the women themselves, so that between every two gopis stood a Krishna, and each one felt him near and no other beside her. In him they had found the one they loved beyond all others, and for those hours nothing else existed. The circle was bright with sound before it was bright with anything else — bangles and anklets and little bells keeping time in the dark.\n\nThey danced with their whole selves. Their feet found the beat and kept it; their arms swept and lifted; they bent at the waist, their garments swayed, and their earrings swung against their cheeks. Their faces glistened with the effort, their throats flushed as they sang aloud, and their hair came loose, the flowers slipping from it while no one stopped to notice. They sang of him as they danced, their voices rising over the water — songs that belonged to the season, full of the clear night and the turning year. One of them sang with him in a single blended voice, as though the same note came from two throats. Another, weary from the dance, leaned for a moment on his shoulder and did not fall. One, as she moved, kept only the tinkling of her anklets and her girdle for company — and still she sang. In the ring they shone like lightning moving within a circle of clouds.\n\nHigh above, the women of heaven leaned out to watch, and the sight bewildered them: a ring of mortal women on a riverbank, and at every turn a Krishna beside each of them. The watchers above rained flowers down on the dance. Petals fell on the water, on the grass, on the dark heads of the gopis as they circled, and the night filled with their fragrance.\n\nAs the night wore on, the gopis grew tired, and some of them, in the middle of their joy, put on a small show of pride — yet still they sang of his deeds, delighting in the touch of his hands. Where a face was hot from the dance, his hand was there; their weariness seemed to matter to him more than the dance itself. He led them down into the river to wash the heat of the dancing away. They went with him like cattle following their herdsman, and in the water they splashed him, laughing — and he let them.\n\nFrom the bright chariots above came more flowers, and with them the praise of those who watched. And Krishna, glad and at ease, took his rest among them.\n\nIn this way the moonlit nights of autumn passed, one after another. Krishna, who wanted for nothing, kept the company of the cowherd women under the moon, and they kept his. The dance ended as it had begun — not with a word, but with the moon high over the water.",
+ "reflection": "The multiplication is striking not as a display of power but as a form of attention: Krishna becomes many so that no gopi in the circle is left without him. What the sources linger on is not the miracle itself but the moonlight, the music, and the nearness.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Yamuna bank"
+ ],
+ "themes": [
+  "rasa dance",
+  "divine play"
+ ],
+ "previous_story_id": "DKS_0099",
+ "next_story_id": "DKS_0117",
+ "next_story_tease": null,
+ "hero_scene": "Krishna at the centre of a ring of gopis under a full autumn moon on the Yamuna bank, one form of him beside each woman, while flower petals drift down from the sky.",
+ "visual_elements": [
+  "Krishna",
+  "gopis",
+  "full moon",
+  "Yamuna riverbank",
+  "autumn night",
+  "falling flower petals",
+  "ring dance",
+  "serene, tender"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.33.1-24",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.33",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.75",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.13",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0117",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

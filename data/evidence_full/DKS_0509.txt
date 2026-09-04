@@ -1,0 +1,33 @@
+# STORY DKS_0509 — The Moth and the Bee
+
+## Index entry
+title: The Moth and the Bee
+summary: From the moth, which perishes in the flame, the avadhuta learns that desire for a woman's beauty destroys; from the bee he learns to take only the essence from many flowers without storing anything up.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the avadhuta, the moth, the bee
+locations: (teaching)
+themes: desire, non-hoarding, taking the essence
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0529
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 8 | verses 6-11 | confidence 5
+  excerpt: The avadhuta said: 'Bewitched by a woman's beauty, the uncontrolled man falls into blinding darkness like the moth into the flame. And the sage gathers the essence from great and small teachings, like the bee from flowers, but stores nothing for tomorrow.' (rendered from Sanskrit, verses 6-9)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.8 (6-11)
+6. dṛṣṭvā striyaṃ deva-māyāṃ tad-bhāvair ajitendriyaḥ /
+7. yoṣid-dhiraṇyābharaṇāmbarādi- dravyeṣu māyā-raciteṣu mūḍhaḥ /
+8. stokaṃ stokaṃ grased grāsaṃ deho varteta yāvatā /
+9. aṇubhyaś ca mahadbhyaś ca śāstrebhyaḥ kuśalo naraḥ /
+10. sāyantanaṃ śvastanaṃ vā na saṅgṛhṇīta bhikṣitam /
+11. sāyantanaṃ śvastanaṃ vā na saṅgṛhṇīta bhikṣukaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0508 | next_story_id: DKS_0510
+previous title: The Python's Contentment and the Ocean's Depth
+next title: The Elephant, the Honey-Gatherer, the Deer and the Fish

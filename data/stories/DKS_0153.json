@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0153",
+ "title": "The Hermit with the Axe",
+ "subtitle": null,
+ "story": "Krishna and his elder brother Balarama were far from Mathura, drawing the armies of King Jarasandha southward so that the city might be safe, when they came to the bank of the river Vena. A great fig tree stood there, and under it the two brothers found a sight that stopped them mid-stride. An old ascetic sat at the root of the tree milking a cow — a cow white as milk, her calf beside her, giving milk whenever anyone wished it. The man himself was white as a flame of fire, dressed in bark with matted locks, worn thin by the sacred fire-offerings he made day after day, and still as the ocean. Across his shoulder lay an axe.\n\nKrishna recognized him at once, though he had never set eyes on him: Rama, the son of Jamadagni, born in the line of Bhrigu — Parasurama, \"Rama with the axe,\" as the world called him — the one men knew as the destroyer of the Kshatriyas, the warrior kings. Everything that was said of this man ran through Krishna's greeting: how, remembering his slain father, he had gone out with this same axe and cut down the thousand arms of Kartavirya like a forest; how men still said the mud of the earth was dark with the blood of the warrior kings he had slain. And here sat the fiercest figure of an older age, in the shade of a fig tree, milking a cow.\n\nKrishna approached him with respect and addressed him in sweet words. Perhaps, he said, the great sage had heard of two Yadavas living on the bank of the Yamuna. \"We are those two.\" He told their story plainly: afraid of Kamsa, their father Vasudeva had placed them in Vraja, the cowherd country, from the very beginning of their birth, and there they had grown up without fear. When they came of age they entered Mathura and destroyed the haughty Kamsa in the assembly; they set his father Ugrasena back on the royal seat; and then, as before, they returned to the work of cowherd boys. And after all of that, Jarasandha had come against their city again and again, until the two of them had left Mathura to draw him away.\n\nThe old sage listened to the whole of it. This was a story he understood — he had lived it in his own terrible way: the kings of the earth coming against one man, and one man deciding how the kings would fall. And when Krishna fell silent, Parasurama gave his counsel. It was not the counsel of a hermit preaching peace; it was the counsel of a warrior who had spent his life choosing his ground. Get up onto that high summit, he told them. If you hold it as your fort and obstruct Jarasandha there, you will be able to conquer him. On the heights, where an enemy must climb to reach you, the host of kings would spend itself against stone and against two men who did not tire.\n\nSo it was settled: the stand would be made on mount Gomanta. The brothers received the counsel the way they had received every hard counsel on this road — weighing it, turning it, finding the sense of it. It answered the question that had traveled south with them: where, in the end, would the stand be made? Not behind Mathura's missing walls, not on the open road, but on the heights, where the mountain itself could serve as a fort.\n\nThey stayed a while with the sage on the bank of the Vena, and when they left, they turned their faces toward Gomanta. Behind them, the old man with the axe went back to his cow, and the river went on past the fig tree, carrying nothing of the war.",
+ "reflection": "The fiercest hermit in the tradition, who spent his life bringing down warrior kings with his axe, counsels Krishna not destruction but position — the choice of ground. It is an older age handing its wisdom to a new one: the enemy is not to be exterminated but out-thought.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Parasurama"
+ ],
+ "locations": [
+  "mount Sahya",
+  "Karavira",
+  "Gomanta",
+  "river Vena"
+ ],
+ "themes": [
+  "guidance",
+  "strategy"
+ ],
+ "previous_story_id": "DKS_0152",
+ "next_story_id": "DKS_0154",
+ "next_story_tease": "On the heights of Gomanta, the brothers would find the host of kings waiting — and the sky would open with weapons.",
+ "hero_scene": "The old sage Parasurama seated at the root of a great fig tree on the bank of the river Vena, axe across his shoulder, milking his white cow, while Krishna and Balarama approach with folded hands through the tall grass.",
+ "visual_elements": [
+  "Parasurama seated under the fig tree",
+  "the axe across his shoulder",
+  "the white cow with her calf",
+  "the river Vena",
+  "Krishna and Balarama approaching",
+  "the counsel naming mount Gomanta"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.95",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:24Z",
+  "source_event_id": "evt_0170",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0116",
+ "title": "Krishna Consoles the Gopis",
+ "subtitle": null,
+ "story": "When the sun rose over Vraja, the gopis were still weeping.\n\nThe night had given them nothing but grief. Krishna was going to Mathura, and the women of the cowherd village had wept through the dark hours, unable to sleep, unable to imagine the morning. They had sat where his voice had last reached them, calling his name into the dark, and the dark had given back only the sound of their own crying. Now the morning was here — the sun climbing over the trees of Vraja, the first light falling on the road to Mathura — and the thing they had dreaded began to happen.\n\nNanda and the cowherds set out behind the chariot with their carts, and the whole village stirred into motion toward Mathura. The gopis went too. They could not stay behind, and they could not bear to let him go; so they went on foot after the chariot that carried Krishna, their beloved. And something strange came over them as they walked: just to follow him a little longer, to keep the shape of him in their eyes, softened their grief into something that was almost gladness. Their tears had not quite stopped, but the road itself had become a kind of comfort — each step was a step beside him, and while the dust of his wheels still hung in the air ahead, he was not yet gone.\n\nFrom the chariot, Krishna saw them. He saw how his leaving had undone them, how they had poured themselves out along the road behind him, weeping and refusing to turn home. And the best of the Yadavas would not go without a word. He sent them a message to carry back to Vraja, a promise he asked them to keep. He would come back. I will return to you.\n\nThe words reached them along the road, his own voice carried back by his messengers, and they were not a consolation offered from a distance — they were something he was asking of them. He had not forgotten them; he was trusting them with a promise, and the trust itself was a kind of presence. The promise was to be carried home to Vraja and kept there, like a lamp kept burning in an empty house against the family's return.\n\nSo they followed for as long as they could. They followed while the banner of his chariot was still to be seen above the road, while the dust of its wheels still hung in the air behind him. They fixed their eyes on that banner and that dust, as though holding them in sight could hold him there. The road stretched away toward Mathura, and the little company of the village — the carts, the cowherds, the women on foot — moved along it the way a river moves. But the banner sank out of view, and the last of the dust settled back to earth, and Govinda did not turn around.\n\nThen hope went out of them, and they turned back toward Vraja. And as they walked, they sang of him — of the deeds he had done and the days they had shared — keeping his name alive on the empty road, until he should make good his word. The road that had carried him away from them carried their voices back the other way, and the singing did what weeping could not: it turned their faces homeward while their hearts stayed with him.",
+ "reflection": "The consolation here is not a speech but a promise, sent back along the road the gopis are refusing to leave. It is the smallest thing in the story, and the largest: one sentence, carried by messengers, that gives them the strength to turn around.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "consolation",
+  "promise",
+  "separation"
+ ],
+ "previous_story_id": "DKS_0115",
+ "next_story_id": "DKS_0117",
+ "next_story_tease": "But at the river Yamuna, Akrura would stop to bathe — and in its waters he would see something he never imagined.",
+ "hero_scene": "The gopis walking after Krishna's departing chariot on the road out of Vrindavan, their eyes fixed on the chariot's banner and the dust of its wheels, as the sun rises behind them.",
+ "visual_elements": [
+  "the gopis following on foot",
+  "Krishna's chariot ahead",
+  "the banner and wheel-dust on the road",
+  "cowherds and carts",
+  "sunrise over the road to Mathura",
+  "longing and fragile hope"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.39.31-36",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:25Z",
+  "source_event_id": "evt_0126"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 2,
+ "estimated_audio_minutes": 2
+}

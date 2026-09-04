@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0136",
+ "title": "Krishna Slays the Elephant Kuvalayapida",
+ "subtitle": null,
+ "story": "King Kamsa of Mathura had one fear that ruled all his plans: a prophecy said that Krishna — the child of his imprisoned sister, smuggled away as an infant and raised among the cowherds of Vrindavan — would end his reign. Now Krishna had come to the city, his elder brother Balarama with him, and Kamsa had turned his great festival of wrestling into a snare: the contests, the prizes, the galleries packed with citizens, all arranged so that the two he feared could be drawn in and finished. At the gate of the wrestling arena stood an elephant, and it had not wandered there on its own. Kamsa had given the order the day before: let Kuvalayapida, his war elephant, wait at the gate, where no one could enter without passing it.\n\nThe arena that morning was the pride of Mathura. It rose on octagonal pillars painted in many colours, hung with festoons of flowers and the banners of every guild, its pavilions bright with gold, its seats and cushioned couches laid out for thousands. At its head, above all the rest, stood Kamsa's own pavilion, shining like a mountain of snow. The king entered in white, great white fans waving on either side of him, and took his place on the throne while the citizens shouted his praises. The wrestlers came in after him, loose-garmented, and took the ground on three sides.\n\nThen Krishna and Balarama came up the road to the gate to the sound of trumpets and the slapping of wrestlers' arms. Krishna had tied back his garments and gathered his curling hair, the way a man settles himself before work. He looked at the elephant's keeper and told him, plainly, to stand aside and make way. The keeper, stung at being spoken to so, answered by goading the beast, and Kuvalayapida came forward, trunk folded, meaning to crush the two of them.\n\nKrishna did not flinch. As the elephant bore down he slipped beneath it, caught hold of its tail, and dragged the huge animal back the length of twenty-five bows as though it were a stray calf. The beast wheeled and turned, and Krishna moved with it — now between its tusks, now under its legs — troubling it the way the wind troubles the sea. He roared like a lion and slapped his arms, and let the elephant's trunk come against his chest. In its rage the animal could scarcely see him; it hunted him by smell and found only empty air.\n\nHe struck it and it went down; it rose again. Those who watched said he was playing — that there was something almost childlike in the way he sported with the animal Kamsa had meant to be his doom. Even as he dodged, he smiled, and said that Kamsa, trying to kill him through this elephant, was only hurrying himself toward the land of the dead.\n\nThen the elephant charged a second time, and this time Krishna was finished playing. He caught it as it came, pressed it down, and set his foot on it as a lion settles on its prey. With both hands he tore the tusks from its head and beat the beast with them. The elephant that had been Kamsa's surest weapon bellowed, and in its fury loosed a great flood of must, like a cloud pouring out the rain; then it lay still. Its keepers fell with it.\n\nWhen it was over, Krishna took up one of the tusks in his hand. Balarama stood beside him, and the cowherds who had come from Vrindavan closed in around the two brothers. Splashed with the elephant's blood and must, they walked into the arena through the gate that had been set to stop them.\n\nKamsa watched from his high seat as the two he had planned to kill came forward without hurry, carrying the proof of what had happened at the door. The crowd, which had come expecting an afternoon of sport, had already seen more than it had bargained for. The elephant lay broken at the entrance, and the two cowherd boys of Vrindavan were inside.",
+ "reflection": "The trap Kamsa built was turned against him before the wrestling even began. The elephant he set at the gate became the very weapon — the tusk — that Krishna carried into the arena. What was meant to end the story only showed everyone watching that it could not be ended so easily.",
+ "tradition_note": "The Vishnu Purana presents the elephant as slain by both brothers together, while the Bhagavata centres the deed on Krishna alone; this story follows the Bhagavata.",
+ "content_note": "Includes the death of the elephant and its keepers, told without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Kuvalayapida"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "elephant",
+  "victory"
+ ],
+ "previous_story_id": "DKS_0135",
+ "next_story_id": "DKS_0137",
+ "next_story_tease": "And when the two entered, the city would see them for what they were.",
+ "hero_scene": "Krishna, a boy, standing over the fallen elephant Kuvalayapida at the arena gate, one of its great tusks torn free and raised in his hand, Balarama and the cowherds behind him, the broken gate open onto the crowd.",
+ "visual_elements": [
+  "Krishna as a young boy",
+  "the fallen elephant Kuvalayapida",
+  "the arena gate of Mathura",
+  "a torn elephant tusk raised in Krishna's hand",
+  "Balarama and cowherd companions",
+  "the crowd in the galleries",
+  "blood and must on Krishna's limbs",
+  "awe in place of terror"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.43.1-15",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.84",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:18:26Z",
+  "source_event_id": "evt_0139",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

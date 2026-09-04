@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0125",
+ "title": "Ugrasena Welcomes Krishna Back",
+ "subtitle": null,
+ "story": "Before he left Vidarbha, Krishna told the assembled kings — the kings who had just crowned him emperor — plainly where he was going. I am going home to Mathura, he said, the city of my birth, where king Ugrasena rules.\n\nGaruda, the great eagle who flew at Krishna's side, then asked leave of him. There is a city at the foot of Mount Raivata, on the shore of the ocean, the great bird said — Kushasthali, once held by the rakshasas, the demon people, and now abandoned. It is rich with flowering trees and full of wild creatures. Let me fly west and see whether it is worthy of you. And with that he saluted Krishna and set off toward the setting sun.\n\nKrishna and his kinsmen, the Yadavas, entered Mathura. The news of his crowning had run ahead of him, and it had reached the old king before the man himself did. Ugrasena, the old king of Mathura, had heard how numberless kings had installed Krishna as emperor, how Indra had made peace with him through his envoy Chitrangada, how wealth had been shared out so that no one who came went away empty-handed. And the king of Mathura set about preparing a welcome fit for an emperor.\n\nHe made rich offerings at the temples of the gods who guarded the city. He hung the gates of Vasudeva's house with flags and pennons and garlands, and draped Kamsa's old hall of assembly in bright cloth. He anointed the doors of Krishna's sitting room with sweet paste and filled the highways with music and dancing. The whole city bloomed with flags, garlands of wild flowers, and jars of water; sandal water was sprinkled on the roads, lengths of cloth spread on the ground, and sweet incense burned in vessels on either side. The elderly women sang blessings, and the young women moved through their houses in restless expectation.\n\nThen the great conch Panchajanya sounded, and the whole of Mathura came streaming out — women, boys, elders, singers and praise-singers, and a huge army, with Balarama going before them. Ugrasena himself carried the arghya — the offering of honor — and the water for washing Krishna's feet. When the old king caught sight of Krishna — seated on a chariot bright with jewels, a garland of wild flowers on his breast — he stepped down from his own white chariot to walk the rest of the way on foot.\n\nIt would not be fitting for me to ride after this, Ugrasena said. You go on the chariot.\n\nBut Krishna would not take what the old king was offering. He declined the royal honor, and his words were gentle and final. O king of Mathura, he said, I have installed you and declared you lord of Mathura. I will not now make it otherwise. The empire the kings had given him, the consecration the gods had performed — none of it, he meant, undid what he had already done. So climb back onto your white chariot, he told the old man, and rule the city of Mathura happily, with your sons and grandsons.\n\nAnd to the king who had lost a son to Krishna's own hand, the conqueror spoke not of victory but of comfort. Kamsa had seized the throne and thrown his own father into prison; Krishna had freed Ugrasena and set him back upon it, and he would not now take the seat from him. The man who entered Mathura as an emperor left its crown exactly where he had placed it — on the head of the old king who had come out on foot to meet him.",
+ "reflection": "The story turns on a refusal. Krishna enters Mathura as an anointed emperor, welcomed with all the honors a king can offer — and he declines the very throne. The empire the kings and gods conferred is real, but it does not undo his earlier act: Ugrasena is lord of Mathura, and Krishna will not unmake that word. Power here is shown not by taking a crown but by refusing one he had every right to keep.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Ugrasena",
+  "Balarama",
+  "Vasudeva"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "humility",
+  "kingship",
+  "consolation"
+ ],
+ "previous_story_id": "DKS_0124",
+ "next_story_id": "DKS_0126",
+ "next_story_tease": "But even a king of Mathura had no hall fit for the gods, and Krishna would soon ask Indra for one.",
+ "hero_scene": "The elderly king Ugrasena stepping down from his white car to walk on foot toward Krishna, carrying the arghya and water for his feet, while the whole city of Mathura streams out behind him under flags and garlands.",
+ "visual_elements": [
+  "Ugrasena descending from his white car",
+  "the arghya and water for washing feet",
+  "the city of Mathura streaming out",
+  "flags, garlands and jars of water",
+  "incense burning in vessels",
+  "Krishna on a car bright with jewels",
+  "Balarama going before the crowd",
+  "the sound of the conch Panchajanya",
+  "welcome and humility"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.112",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:17Z",
+  "source_event_id": "evt_0189",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

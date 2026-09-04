@@ -1,0 +1,36 @@
+# STORY DKS_0267 — Krishna Shields Parikshit in Uttara's Womb
+
+## Index entry
+title: Krishna Shields Parikshit in Uttara's Womb
+summary: As Krishna departs Hastinapura, the terrified Uttara cries for protection from Ashvatthama's weapon; Krishna enters her womb by his yoga-maya and shields the unborn Parikshit with the Sudarshana disc, extinguishing the unerring Brahmashira.
+life_stage: kurukshetra | story_arc: dwaraka_royal_life
+characters: Krishna, Uttara, Parikshit, Ashvatthama
+locations: Hastinapura
+themes: divine protection, miracle, birth preservation
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0414
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 8 | verses 7-15 | confidence 5
+  excerpt: Uttara cries: 'Protect me, protect me, great yogin, Lord of gods, master of the world! May this blazing iron-tipped arrow burn me, but let my embryo not fall.' The Lord, loving to his devotees, understood that Drona's son's weapon was aimed to leave the Pandavas without heir; the Lord, indwelling soul of all beings, covered the womb of Virata's daughter with his own maya to preserve the Kuru line.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.8 (7-15)
+7. gantuṃ kṛtamatirbrahman dvārakāṃ ratham āsthitaḥ /
+8. bhp_01.08.009/0 uttarovāca
+9. abhidravati mām īśa śarastaptāyaso vibho /
+10. bhp_01.08.011/0 sūta uvāca
+11. tarhyevātha muniśreṣṭha pāṇḍavāḥ pañca sāyakān /
+12. vyasanaṃ vīkṣya tat teṣām ananyaviṣayātmanām /
+13. antaḥsthaḥ sarvabhūtānām ātmā yogeśvaro hariḥ /
+14. yadyapyastraṃ brahmaśirastvamoghaṃ cāpratikriyam /
+15. mā maṃsthā hyetadāścaryaṃ sarvāścaryamaye ñcyute /
+
+## Corpus chain
+previous_story_id: DKS_0266 | next_story_id: DKS_0268
+previous title: Krishna Marries the Sixteen Thousand Princesses
+next title: Krishna Slays King Shrigala with the Discus

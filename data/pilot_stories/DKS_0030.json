@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0030",
+ "title": "Garga Secretly Names Rama and Krishna",
+ "subtitle": null,
+ "story": "Most ceremonies are made to be witnessed, but a naming can be a dangerous thing — and when the family priest Garga came to Nanda's house in Gokula, he asked that the rites be done in secret.\n\nGarga had not come on his own. He had been sent by Vasudeva, the man from whose arms the child had been carried to Gokula as a newborn, to perform the rites that every child must receive. The reason for the secrecy lay a few days' journey away, in the city of Mathura, where a king named Kamsa was hunting for the children of Vasudeva's house. He would not have wanted a single one of them to live.\n\nNanda had not expected the old priest, and the sight of him at the door filled Nanda with joy. He rose at once, pressing his palms together. He washed Garga's feet, seated him with honor, and offered him the welcome due to a guest — and only then, with careful and courteous words, did he make his request. It was no small thing to ask a priest into one's home, and Nanda asked it as a man asks a great favor. Of all who know the things beyond the senses, he said, it is you who should perform these rites. For Garga could read the path of the stars across the sky, and he saw with a knowledge that did not come through the eyes.\n\nGarga answered him plainly, and in a low voice. Kamsa, he said, is a man of evil mind, and he knows of your friendship with Vasudeva. If a naming in Gokula were spoken of, word would travel, and questions would follow, and the child would be in danger. Let this be done quietly, with no one to see and no one to tell.\n\nSo it was. There, in that room, without the knowledge of the other cowherds, Garga performed the rites over the two boys of the house. To the elder boy — the son of Rohini, the household's other mother — he gave the name Rama, the boy who would also come to be called Balarama. And to Nanda's son he gave the name Krishna. The two names settled on the sleeping children as lightly as if they had been waiting for them all along.\n\nThen Garga spoke of what he could see, and his words fell soft in the quiet room. This child has not come into the world for the first time. In age after age he appears, and in each age his form takes a different color; he comes under many names, for his names and forms are beyond counting. And before this birth, Garga said, he was born of Vasudeva. The cowherds and all of Gokula will find their welfare in him: through him the good will be shielded from those who do them harm, and the wicked will be kept at bay. He will be the delight of the cowherds and of all Gokula, and the source of every good thing that comes to them. Those who set their hearts on him are fortunate indeed. And he is equal, Garga said at last, to Narayana himself in his qualities.\n\nWhen the rites were done, Garga left as quietly as he had come, and Nanda spoke to no one of what had been said in that room. The two names were given in secret, and for a while they were held in secret.\n\nYet the name Krishna, first spoken behind a shut door in Gokula, would one day be spoken in homes and temples across the world.",
+ "reflection": "Garga's secret naming holds the whole shape of Krishna's early life in miniature — the fear of Kamsa that forces concealment, and the quiet certainty that what is hidden now will not stay hidden.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Garga",
+  "Nanda",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "naming",
+  "prophecy",
+  "concealment"
+ ],
+ "previous_story_id": "DKS_0028",
+ "next_story_id": "DKS_0032",
+ "next_story_tease": null,
+ "hero_scene": "The sage Garga, seated in Nanda's dim home, performs the naming rites in secret, the two infants before him, as Nanda looks on with his palms pressed together.",
+ "visual_elements": [
+  "Garga the sage",
+  "Nanda with joined palms",
+  "the two infants",
+  "a dim, closed room in Gokula",
+  "ritual offerings",
+  "secrecy and reverence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.8.1-19",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.6",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:49Z",
+  "source_event_id": "evt_0043",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

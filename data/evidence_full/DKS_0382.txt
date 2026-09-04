@@ -1,0 +1,52 @@
+# STORY DKS_0382 — Krishna Sends Akrura to Hastinapura
+
+## Index entry
+title: Krishna Sends Akrura to Hastinapura
+summary: Krishna visits Akrura's home and dispatches him to Hastinapura to learn whether the Pandavas are treated justly.
+life_stage: mathura | story_arc: pandava_friendship
+characters: Krishna, Akrura, Balarama, Uddhava
+locations: Mathura, Hastinapura
+themes: duty, friendship, protection
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0162
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 48 | verses 11-35 | confidence 5
+  excerpt: Krishna told Akrura: 'Go to Gajasahvaya (Hastinapura) and learn how the Pandavas, brought there with their mother after their father's death, are faring; the blind king follows his wicked son.' (rendered from Sanskrit, verses 11-35)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.48 (11-35)
+11. akrūra-bhavanaṃ kṛṣṇaḥ saha-rāmoddhavaḥ prabhuḥ /
+12. sa tān nara-vara-śreṣṭhān ārād vīkṣya sva-bāndhavān /
+13. nanāma kṛṣṇaṃ rāmaṃ ca sa tair apy abhivāditaḥ /
+14. pādāvanejanīr āpo dhārayan śirasā nṛpa /
+15. arcitvā śirasānamya pādāv aṅka-gatau mṛjan /
+16. diṣṭyā pāpo hataḥ kaṃsaḥ sānugo vām idaṃ kulam /
+17. yuvāṃ pradhāna-puruṣau jagad-dhetū jagan-mayau /
+18. ātma-sṛṣṭam idaṃ viśvam anvāviśya sva-śaktibhiḥ /
+19. yathā hi bhūteṣu carācareṣu mahy-ādayo yoniṣu bhānti nānā /
+20. sṛjasy atho lumpasi pāsi viśvaṃ rajas-tamaḥ-sattva-guṇaiḥ sva-śaktibhiḥ /
+21. dehādy-upādher anirūpitatvād bhavo na sākṣān na bhidātmanaḥ syāt /
+22. tvayodito 'yaṃ jagato hitāya yadā yadā veda-pathaḥ purāṇaḥ /
+23. sa tvam prabho 'dya vasudeva-gṛhe 'vatīrṇaḥ $ svāṃśena bhāram apanetum ihāsi bhūmeḥ &amp;akṣauhiṇī-śata-vadhena suretarāṃśa- % rājñām amuṣya ca kulasya yaśo vitanvan
+24. adyeśa no vasatayaḥ khalu bhūri-bhāgā $ yaḥ sarva-deva-pitṛ-bhūta-nṛ-deva-mūrtiḥ &adyeśa no vasatayaḥ khalu bhūri-bhāgā $ yaḥ sarva-deva-pitṛ-bhūta-nṛ-deva-mūrtiḥ &yat-pāda-śauca-salilaṃ tri-jagat punāti % sa tvaṃ jagad-gurur adhokṣaja yāḥ praviṣṭaḥ
+25. kaḥ paṇḍitas tvad aparaṃ śaraṇaṃ samīyād $ bhakta-priyād ṛta-giraḥ suhṛdaḥ kṛta-jñāt &kaḥ paṇḍitas tvad aparaṃ śaraṇaṃ samīyād $ bhakta-priyād ṛta-giraḥ suhṛdaḥ kṛta-jñāt &sarvān dadāti suhṛdo bhajato 'bhikāmān % ātmānam apy upacayāpacayau na yasya
+26. diṣṭyā janārdana bhavān iha naḥ pratīto $ yogeśvarair api durāpa-gatiḥ sureśaiḥ &diṣṭyā janārdana bhavān iha naḥ pratīto $ yogeśvarair api durāpa-gatiḥ sureśaiḥ &chindhy āśu naḥ suta-kalatra-dhanāpta-geha- % dehādi-moha-raśanāṃ bhavadīya-māyām
+27. ity arcitaḥ saṃstutaś ca bhaktena bhagavān hariḥ /
+28. bhp_10.48.029/0 śrī-bhagavān uvāca
+29. bhavad-vidhā mahā-bhāgā niṣevyā arha-sattamāḥ /
+30. na hy am-mayāni tīrthāni na devā mṛc-chilā-mayāḥ /
+31. sa bhavān suhṛdāṃ vai naḥ śreyān śreyaś-cikīrṣayā /
+32. pitary uparate bālāḥ saha mātrā su-duḥkhitāḥ /
+33. teṣu rājāmbikā-putro bhrātṛ-putreṣu dīna-dhīḥ /
+34. gaccha jānīhi tad-vṛttam adhunā sādhv asādhu vā /
+35. ity akrūraṃ samādiśya bhagavān harir īśvaraḥ /
+
+## Corpus chain
+previous_story_id: DKS_0381 | next_story_id: DKS_0383
+previous title: Krishna Reassures the Pandavas and Departs
+next title: Kunti Confides Her Sorrow to Akrura

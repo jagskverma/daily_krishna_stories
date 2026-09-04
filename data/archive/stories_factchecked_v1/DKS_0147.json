@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0147",
+ "title": "Krishna and Balarama Study Under Sandipani",
+ "subtitle": null,
+ "story": "The two boys who had just emptied a palace of its tyrant were sent, of all things, to school. Vasudeva had watched his sons bring down Kamsa with their bare hands, but in the days that followed, the father's mind turned to something quieter: the rites that would make them twice-born, and the education owed to them as princes.\n\nHe summoned the brahmins of Mathura and had them perform the sacred-thread ceremony for Krishna and Balarama. The boys received the initiation, took up the vows, and became students in the proper order of the world. For the brahmins who officiated, Vasudeva gave a generous teacher's fee — cows adorned with golden necklaces, richly decorated, the very cattle he had mentally pledged at the ceremonies that followed the births of his two sons. The gift was no afterthought; it had been promised in his heart for years.\n\nThe old texts pause here to say something strange: the two who now stood before the brahmins were already the lords of all knowledge, all-knowing, the masters of the world itself. And yet they desired to live in a guru's house, like any boy learning his letters. So, having taken up the student's vows, they went to the teacher Sandipani, in the city of Avanti.\n\nAt the gurukula they asked for nothing special. They served as humbly as the poorest of Sandipani's students — fetching, running errands, living under the teacher's roof, keeping conduct so blameless that no master could find fault with them. Their patience and purity of heart pleased the brahmin teacher, who saw in these two extraordinary pupils only humility. So Sandipani taught them in earnest: the science of the bow with all its secret doctrines, the codes of duty and right conduct, the paths of justice and reasoning — everything he knew, he gave them.\n\nAnd the learning took. In sixty-four days and nights, the brothers mastered all the arts and sciences that Sandipani could teach. What took other students years, they absorbed in two months of days and nights — the texts are precise about the number, as if marking how the ordinary pace of learning was overturned entirely. The guru who had accepted them as ordinary boys found himself teaching students who were already the originators of every branch of knowledge, and who had attended his school simply because the form of the world required it.\n\nWhen the sixty-four days were done, Krishna and Balarama had completed their education. They stood before Sandipani as finished students, ready to take their leave of the guru's house and return to the duties of their city. The brothers had mastered the bow, the law, and the arts — but no student leaves a teacher without settling what is owed, and the teacher's fee had not yet been spoken of.",
+ "reflection": "The striking detail is that the two described as lords of all knowledge still went to school — the teachers of the world sitting at a mortal's feet, not to learn but to honor the form of learning itself. Sixty-four days to master every art suggests that for them, study was never about acquisition; it was about reverence for the teacher and the vows.",
+ "tradition_note": "The Vishnu Purana (5.21) combines this episode with the later recovery of Sandipani's son, whereas the Bhagavata keeps the study and the payment of the guru's fee separate; this story follows the Bhagavata.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Sandipani"
+ ],
+ "locations": [
+  "Avanti"
+ ],
+ "themes": [
+  "education",
+  "guru",
+  "discipleship"
+ ],
+ "previous_story_id": "DKS_0146",
+ "next_story_id": "DKS_0148",
+ "next_story_tease": "But no student leaves a guru without a fee — and Sandipani had a price that no gold could pay.",
+ "hero_scene": "Krishna and Balarama sitting cross-legged before the teacher Sandipani in the gurukula of Avanti, bows laid aside, the aged brahmin teaching while the two brothers listen with quiet, complete attention.",
+ "visual_elements": [
+  "Krishna and Balarama as students",
+  "the teacher Sandipani",
+  "the gurukula in Avanti",
+  "bows and weapons of learning",
+  "a palm-leaf manuscript",
+  "quiet morning light in the ashram"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.25-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0152"
+ },
+ "editorial_status": "unreviewed"
+}

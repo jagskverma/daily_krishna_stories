@@ -1,0 +1,35 @@
+# STORY DKS_0486 — Balarama Tries to Halt the Mace-Duel
+
+## Index entry
+title: Balarama Tries to Halt the Mace-Duel
+summary: Hearing that Bhima and Duryodhana are locked in their final mace-duel, Balarama goes to stop the slaughter but, unable to part the two, returns to Dwaraka.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Balarama, Bhima, Duryodhana, Yudhishthira
+locations: Kurukshetra
+themes: impartiality, war, futility
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0411
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 79 | verses 21-28 | confidence 5
+  excerpt: Hearing of the battle of the Kurus and Pandavas and the slaughter of the warrior kings, Balarama, deeming the earth's burden lifted, goes to the field where Bhima and Duryodhana are fighting with maces. He tells the equal champions that neither can win and to desist, but the two, bound by enmity and remembering mutual insults, do not heed his words, and Balarama, accepting it as destiny, returns t
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.79 (21-28)
+21. śrutvā dvijaiḥ kathyamānaṃ kuru-pāṇḍava-saṃyuge /
+22. sa bhīma-duryodhanayor gadābhyāṃ yudhyator mṛdhe /
+23. yudhiṣṭhiras tu taṃ dṛṣṭvā yamau kṛṣṇārjunāv api /
+24. gadā-pāṇī ubhau dṛṣṭvā saṃrabdhau vijayaiṣiṇau /
+25. yuvāṃ tulya-balau vīrau he rājan he vṛkodara /
+26. tasmād ekatarasyeha yuvayoḥ sama-vīryayoḥ /
+27. na tad-vākyaṃ jagṛhatur baddha-vairau nṛpārthavat /
+28. diṣṭaṃ tad anumanvāno rāmo dvāravatīṃ yayau /
+
+## Corpus chain
+previous_story_id: DKS_0485 | next_story_id: DKS_0487
+previous title: Krishna Urges Arjuna to Slay the Distressed Karna
+next title: Kunti's Farewell Hymn to Krishna

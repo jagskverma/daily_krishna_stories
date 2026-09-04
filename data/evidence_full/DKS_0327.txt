@@ -1,0 +1,192 @@
+# STORY DKS_0327 — Krishna, Balarama and Pradyumna Fly to Sonitpura on Garuda
+
+## Index entry
+title: Krishna, Balarama and Pradyumna Fly to Sonitpura on Garuda
+summary: To rescue Aniruddha from Bana, Krishna, Baladeva and Pradyumna fly out on Garuda, Krishna assuming eight arms and innumerable heads with his weapons.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Baladeva, Pradyumna, Garuda
+locations: toward Sonitpura
+themes: divine form, march to war, rescue
+festival_tags: 
+age_sensitivity: mild_violence | notes: Round-2 audit merge: HV 1.264 (eight-armed divine form) and 1.268 (Garuda flight after Narada's report) are the same departure beat for the Bana-war rescue of Aniruddha. | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0016
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 264 | verses  | confidence 4
+  excerpt: Desirous of killing Vāna the lotus-eyed Keshava assumed a form having eight arms... Janārddana... assumed innumerable heads. In his four right hands he had sword, discus, club and arrows
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 268 | verses  | confidence 4
+  excerpt: Govinda thought of Garuda in his mind: and he too, with folded hands, arrived before Krishna... Krishna... sat on his back. Thereupon... Halāyudha and Pradyumna... sat behind him
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.264 ()
+TITLE: KRISHNA GOES TO SONITPURA AND FIGHTS WITH RUDRA’S
+
+FOLLOWERS ON THE WAY.
+
+Vaishampāyana said:—At that time with the sound of conch-shells and
+bugles, the songs of bards and panegyrists by thousands and blessings of
+men exclaiming victory Janarddana appeared like the moon, sun and Sakra.
+O king, when Vinatā’s son flew up into the sky his, beauty, increased by
+Hari’s energy, became immense (1-3). Desirous of killing Vāna the
+lotus-eyed Keshava assumed a form having eight arms and resembling a
+mountain. At that time Janārddana, the holder of Shranga-bow, assumed
+innumerable heads. In his four right hands he had sword, discus, club
+and arrows and by his left four hands he held the leathern protector,
+the Srānga-bow, the thunder-bolt and conch-shell. Seated on Garudha’s
+back, Sanghkarshana, holding a thousand forms and white weapons,
+irrepressible unto all creatures like the mount Kailāsha with its
+summit, shone like the rising moon. With a view to display his prowess
+in battle the high-souled Pradyumna assumed a form like that of
+Sanatkumār (4–8). Thereupon shaking innumerable mountains and
+obstructing the course of the wind with the forcible flapping of his
+wings the powerful Vinatā’s son went on. Endued with the speed of the
+mind he crossed the most sacred route of the Siddhas and Chāranas. At
+that time Rāma said to Krishna, incomparable in battle:—"O Krishna, what
+wonder is this that we have all on a sudden been shorn of our
+effulgence? We have all a golden hue. What is the cause? Have we come to
+the side of the mount Sumeru?" (9–12) The Lord said:—"Methinks, O slayer
+of thy enemies, Vāna’s city is near at hand. To protect him, the fire,
+stationed in his city, is coming out blazing. O holder of plough-share,
+we have been possessed by the effulgence of the fire of oblation: this
+has changed our colour." Rāma replied:—"If by approaching the city of
+Vāna we have been shorn of the lustre of our body, do what you think
+proper afterwards" (13–15). The Lord said:—"O Vinatā’s son, do what you
+think proper. After you have found out a means I shall do what I think
+proper" (16).
+
+Vaishampāyana continued:—Hearing those words spoken by Vāsudeva the
+highly powerful Garuda, capable of assuming forms at will, assumed a
+thousand mouths (17). Afterwards the highly powerful son of Vinatā
+leaped up and went to the etherial Gangā. Then drinking profuse water,
+he began to shower it on the fire. The intelligent son of Vinatā having
+concerted this measure the fire was at once extinguished. Then seeing
+that fire extinguished with the water of the etherial Gangā, Suparna,
+filled with surprise, said:—"Oh! How powerful is this fire like that at
+the end of a cycle. It disfigured the color of even the intelligent
+Krishna." After extinguishing the fire the king of birds, Garuda, went
+on making a great sound with the flapping of his powerful wings. Seeing
+them the fires, the followers of Rudra, thought:—"Who are these three
+dreadful men of many forms who are riding Garuda? Why have they come
+here?" Those fires of the mountain thought in this way for some, but
+could not settle anything. They then began to fight with the three
+Yadus. A great noise arose when they engaged in fighting (18-26).
+
+Hearing their great uproar like that of roaring lions the intelligent
+Chief of the Fires Angirā sent a man to the scene of the action saying
+"Soon proceed where the battle is raging." Another Asura, fleet like the
+mind, was quickly despatched by Vanā saying "Go and see what is the
+matter." Saying "So be it" the man at once started and saw the fires
+fighting with Vāsudeva. He saw that the five principal fire-gods,
+Kalmāsha, Kusuma, Dahana, Shoshana and the highly powerful Tapana well
+known in the offering of Swāha and other minor fire-gods were all
+fighting with their respective armies. Pithara, Pataga, Swarna, Agādha
+and Vraja, these five presiding gods of Swadhā were also fighting; the
+two highly effulgent fire-gods, in charge of Jyotisthoma and Vasatkāra,
+were also fighting. Ascending a fiery car the great saint Angirā,
+uplifting his effulgent mace, was shining in that battle-field, in the
+midst of fire-gods. Then beholding Angira discharge his sharpened
+arrows, Krishna, filled with anger, smiled again and again and said:—"O
+ye fire-gods, wait patiently a few moments. The time of your destruction
+is drawing near. Within a moment, consumed by the energy of my weapons,
+you shall have to fly away on all sides." Thereupon in that great
+battle, as if to take Krishna’s life Angirā ran with a burning Trishula
+in his hand. Then cutting off his mace with crescent-shaped and
+sharpened arrows the intelligent Krishna, effulgent like Yama, the
+destroyer of all creatures, struck Angirā on the breast with a
+death-like-arrow. Thereat Angirā fell down bathed in blood and with his
+body mangled. Seeing it the four fire-gods, the sons of Brahmā along
+with others speedily fled away to Vāna’s city (27–40).
+
+Thereupon seeing Vāna’s city from a distance Nārada said "B
+[...]
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.268 ()
+TITLE: ANXIETY OF THE YADAVAS FOR ANIRUDDHA
+
+Vaishampāyana said:—When Ariruddha was taken away as captive, his
+beloved wives and their companions cried there in his absence, like so
+many ewes (1). "Alas! even under the protection of the Lord Krishna, we
+are weeping helplessly stricken with fear and grief (2). He, under the
+shade of whose arms, Adityas, Maruts and the gods headed by Indra, are
+living without any anxiety in the celestial region, has been visited by
+such a great calamity in this world. Alas! who has stolen away his
+heroic grandson Aniruddha 2 (3–4). Alas, that wicked-minded one, who has
+excited this unbearable fire of Vasudeva’s anger, has indeed no fear in
+this world (5). He is standing before the teeth of Death with his mouth
+wide open. Indeed such an enemy can stand before Vasudeva in battle.
+Committing such an ill turn by the Yadu king Keshava can even Sachi’s
+lord escape with his life? (6-7). Alas, our husband has been stolen away
+today or our lord has forsaken us and made us objects of pity. Oh I on
+account of the separation of our lord, we have been brought under
+control by death" (8).
+
+Exclaiming thus those beautiful women continually wept and shed profuse
+tears. Their eyes, full of tears, imitated the beauty of lotuses
+immersed in water in the rainy season (9–10). Their eyes appeared to
+have been bathed in blood. The cries of those women in the palace set up
+a noise like that of thousands of female ospreys crying in the sky
+(11-12).
+
+Hearing that unheard, of lamentation caused by fear the Yadu chiefs all
+on sudden leaped down from their respective houses. As the lions, when
+assailed, come out of their caves, so the Yadavas, coming out, said,
+their voice being choked with affection—"Krishna protects us all
+completely. Whence is then this fear? Why is such a noise heard in
+Aniruddha’s house? (13–15)." Thereupon the huge bugle of Krishna’s court
+was brought and sounded; and at that sound all the Yadavas assembled
+there. They asked one another "What is the matter?" And they answered
+one another as they had heard (16-17). Hearing it the eyes, reddened in
+anger, of the Yadavas dreadful in battle, were filled with tears; and
+they sighed there idly (18). Then beholding even Krishna the foremost of
+strikers sigh again and again and others sit silently Viprithu
+said:—(19). "O Krishna, you are the foremost of men; why are you then
+possessed by anxiety? The Yadavas, living under the protection of your
+arms, are ranging freely at large. Leaving the charge of success and
+defeat to you even the powerful Sakra is sleeping happily. See your
+kinsmen are sunk in unfathomable ocean of grief. O large-armed hero,
+save them. What is the cause of your anxiety? O Mādhava, why do you not
+speak any thing? You should not indulge in such idle thoughts." Thus
+addressed Vāsudeva, a clever speaker like Vrihaspati himself, sighed
+again and again for some time and then said:—"O Viprathu, I was
+anxiously thinking about this (20–25). Even thinking I have not been
+able to settle anything. Therefore I could not give you any reply
+although you asked me (26). Hear, O Yadavas, I will describe to you in
+truth, why I have been filled with anxiety. On account of the captivity
+of the heroic Aniruddha all the kings of the earth and my friends will
+consider me incapable. Formerly our king Ahuka was taken captive by
+Shālwa—but we brought him back after a dreadful fight. Rukshmini’s son
+Pradyumna was stolen away by Shamvara in his infancy. But he, having
+slain him in battle, has come back. But where has Aniruddha been exiled?
+O ye foremost of men, I do not recollect I had before experienced such
+sorrow and mental agony (27-31). I will in battle kill him with his own
+people who has put on my head this foot covered with ashes." After
+Krishna had said this Sātyaki observed:—"O Krishna, despatch spies all
+over for finding out Aniruddha. Let them search the earth with mountains
+and forests. Let open and secret emissaries be engaged in this work"
+(32-34).
+
+Vaishampāyana said:—Hearing the word of Keshava king Ahuka speedily
+ordered the messengers for finding out Aniruddha. Ordering them "Search
+out all the countries lying on and under the earth" the high-souled king
+Ahuka gave them sufficient horses and cars. (He said):—"Do you soon go
+on horse back and search the mountains Rikshavān and Raivataka covered
+with trees and creepers. Enter without any hesitation into the gardens
+and forests there and search every creek and corner. Riding on horses
+and elephants do you soon find out Aniruddha the enhancer of the joy of
+the Yadavas" (35–39).
+
+Thereupon the Commander-in-chief Anādhristhi said to the eternal Krishna
+of unwearied actions:—"O lord Krishna, from long I have been cherishing
+a desire of communicating something to thee. Hear, if thou dost like, I
+will communicate it at present. Asilomā, Puloma, Nisunda, Naraka,
+Soubha, Shalwa, Mainda, and Dwivida have all been slain by thee (40–42).
+When a highly dreadful encounter took place on account
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0326 | next_story_id: DKS_0328
+previous title: The Goddess Durga Releases Aniruddha from His Bonds || Imprisoned in Vana's city, Aniruddha hymns the goddess Katyayani, and Durga appears, cuts the serpent-nooses with her fingers, and consoles him, promising Krishna will sever Vana's thousand arms.
+next title: The Yadavas' Grief and Search for Aniruddha || Aniruddha's wives lament and the whole Yadava assembly falls into grief; Krishna broods over the disappearance, and messengers are sent out to search mountains, forests and every country in vain.

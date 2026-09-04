@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0437",
+ "title": "Kunti's Charge: The Duty of a Kshatriya",
+ "subtitle": null,
+ "story": "In the quiet of her abode in Hastinapura, the mother of the five Pandavas waited to hear how the world had answered her sons' plea for peace. Krishna came to her straight from the assembly of the Kurus, entered and worshipped her feet; and sitting before her, he laid the whole embassy before her, briefly, as one lays down a burden.\n\nBoth he and the Rishis who had sat with him had spoken words worthy of being accepted, words fraught with reason. Duryodhana had accepted none of them. \"As regards Duryodhana and his followers, their hour is come,\" Krishna said. Now, with her leave, he would speed to the Pandavas. What should he carry to them as her instructions?\n\nKunti answered as a mother of kings, and her answer was not soft. \"Say unto king Yudhishthira of virtuous soul these words,\" she began. \"Thy virtue, O son, is decreasing greatly. Do not act vainly, like a reader of the Vedas who catches their words but never their real meaning. Thy understanding, affected by the words of the Vedas alone, vieweth virtue only. Cast thy eyes on the duties of thy own order, as ordained by the Self-create. For all ruthless deeds and for the protection of the people, the Kshatriya was created from the arms of the Brahmana, and he is to depend upon the prowess of his own arms.\"\n\nThen she gave Krishna a story to carry, an instance heard by her from the aged. In days of yore, Vaisravana, filled with gratification, made a gift of the Earth to the royal sage Muchukunda. The sage would not accept it. \"I desire to enjoy that sovereignty which is won by the prowess of arms,\" he said. At this, Vaisravana was filled with wonder and delight; and Muchukunda, fully observing the duties of the Kshatriya order, ruled the earth, having conquered it by the prowess of his arms.\n\nThe king's place in the world, Kunti went on, is not a matter of comfort but of cause. A sixth part of the virtue practised by subjects well protected by their king is obtained by that king. The virtue a king practises confers godhead on him; if he perpetrates sin, he goes to hell. The penal code, properly applied, keeps the four orders at their own duties. And it is the king who creates the age: he who causes the Krita age to reign enjoys heaven exceedingly, and he who causes the Kali age to reign earns sin exceedingly and resides in hell for countless years. \"The king's sins affect the world,\" she said, \"and the world's sins affect him.\"\n\n\"Observe, therefore, those kingly duties that befit thy ancestry. That is not the conduct of a royal sage in which thou wishest to abide. He that is stained by weakness of heart, that adheres to compassion and is unsteady, never obtaineth the merit born of cherishing his subjects with love.\"\n\nThe understanding by which Yudhishthira was now acting, she said, was never wished for him by Pandu, or by herself, or by his grandsire. Sacrifice, gift, merit, bravery, subjects and children, greatness of soul, might, energy — these were what she had prayed for him, while well-wishing Brahmanas gratified the gods and the Pitris with Swaha and Swadha for his long life, wealth and children. \"The mother and the father, as also the gods, always desire for their children liberality and gift and study and sacrifice and sway over subjects. Whether all this be righteous or unrighteous, you are to practise it, in consequence of your very birth.\"\n\nAnd then her voice found its hardest edge, for she spoke of what her sons now were. Though born in a high race, they were destitute of the very means of support, afflicted with misery. Hungry men, approaching a brave and bountiful monarch, are gratified and live by his side. \"What virtue can be superior to this?\" A virtuous person, upon acquiring a kingdom, should make all persons his own — some by gift, some by force, some by sweet words. A Brahmana should adopt mendicancy; a Vaisya should earn wealth; a Sudra should serve the other three. \"Mendicancy, therefore, is forbidden to thee. Nor is agriculture suited to thee. Thou art a Kshatriya and therefore the protector of all in distress. Thou art to live by the prowess of thy arms. O thou of mighty arms, recover thy paternal share of the kingdom which thou hast lost, by conciliation or by war.\"\n\nKrishna received the words. They would be carried unaltered to the camp at Upaplavya, where the eldest Pandava, who had staked everything on peace, would hear his mother tell him that peace was a luxury he could no longer afford.",
+ "reflection": "Kunti's message never mentions revenge. She frames Yudhishthira's patience as a failure of kingship: the Kshatriya is created to protect, and a ruler who chooses compassion over his order's duty abandons the people who depend on him. The story of Muchukunda makes the same point in reverse — refusal of a gift becomes the highest kingly act, because sovereignty is only real when it is won.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti",
+  "Yudhishthira",
+  "Muchukunda"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "duty",
+  "kshatriya_dharma",
+  "exhortation"
+ ],
+ "previous_story_id": "DKS_0436",
+ "next_story_id": "DKS_0438",
+ "next_story_tease": "Kunti had not finished; she pressed one more tale into Krishna's keeping before he could leave.",
+ "hero_scene": "In Kunti's dim chamber in Hastinapura, the aged queen, one hand raised in emphasis, delivers her charge to Krishna, who sits at her feet — a mother sending her sons to war through the mouth of a god.",
+ "visual_elements": [
+  "Krishna worshipping Kunti's feet",
+  "Kunti speaking with a raised hand and grave face",
+  "the quiet dimness of her abode in Hastinapura",
+  "the image of Muchukunda refusing the gift of the earth",
+  "Krishna receiving the message he must carry to Upaplavya"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.132",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:58Z",
+  "source_event_id": "evt_0444"
+ },
+ "editorial_status": "unreviewed"
+}

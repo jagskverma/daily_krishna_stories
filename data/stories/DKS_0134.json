@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0134",
+ "title": "The King's Sleepless Night",
+ "subtitle": null,
+ "story": "Kamsa, the king of Mathura, had lived for years inside one fear: a voice from the sky at his sister Devaki's wedding had told him that her eighth child would end his reign. The children born to her in his prison he destroyed, one after another; but the eighth, born at last in that same cell, was smuggled out in the night and given to the cowherds of Vrindavan, where he grew up as Krishna, a young man now, with his elder brother Balarama at his side. The two had walked into Kamsa's own city, and the news reached him the way a stone drops into still water: the great bow was broken, and the men he had set to guard it were dead.\n\nHe had known they were coming; he had known it for years, and watched for them the way a man watches a door he is afraid will open. He had trusted in the weight of his city, the number of his soldiers, the long favour fortune had shown him. Now, in a single day, they had walked his streets as if the city belonged to them, and the great bow — the bow that was his, the pride of his festival and of his reign — lay in pieces on the floor of its hall.\n\nThat night Kamsa did not sleep. He lay in the dark of the palace, and the dark would not settle into rest. Fear kept him awake, and through the fear came omens, one after another, in his waking hours and in the little sleep he could snatch. The palace that had always been his fortress felt, for the first time, like a place with too many shadows and not enough walls. His servants slept, his guards kept their posts, and still he was alone with the dark in a way he had never been before. A man who had spent his life reading the signs of his enemies could read this night as well, and what it said was a verdict he could not turn away from. He turned restlessly, and the bed that had always held him seemed to press back against him.\n\nHe looked into a mirror and could not see his own head in it, though his face should have been there, plain as day. The glass was not cracked; the room was not dim. He turned, and turned back, and the figure that stared out at him simply had no head. He looked down at his shadow and saw a hole running through it, a rent in the very shape of him, as if his body had already begun to come apart at the edges. He strained to hear the sound of his own breathing, and heard nothing at all — as if the noise of life had gone out of him while he still stood.\n\nThen the dreams came, brief and terrible. In one he held a dead body in his arms and woke with the cold feel of it still upon him. In another he rode an ass through the long night — a mount for the dead and the disgraced — down a road that had no end. He woke sweating, the dream already fading and the dread of it not fading at all. And over everything settled a heaviness that no torch, no servant, no comfort in the whole palace could lift.\n\nBy morning he had seen his own death in every sign — in the glass, in his shadow, in the silence of his breath, in the dreams that would not leave him. They all said the same thing, and Kamsa was not a man who could misunderstand them. He understood them perfectly, and that was the worst of it.",
+ "reflection": "No sword is drawn against Kamsa in this passage, and that is the point: fear has already begun the work. The man who made a city afraid now finds the world turning its signs against him, and each omen is only the truth he has spent his reign refusing to see.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Kamsa"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "fear",
+  "omens"
+ ],
+ "previous_story_id": "DKS_0133",
+ "next_story_id": "DKS_0135",
+ "next_story_tease": "But dawn would bring not relief but resolve, and Kamsa would turn his fear into a plan.",
+ "hero_scene": "Kamsa lying awake in the dark of his palace chamber at night, staring into a mirror in which he cannot see his own head, while shadows and omens close in around him.",
+ "visual_elements": [
+  "Kamsa alone in a dark palace chamber",
+  "a mirror showing no head",
+  "a shadow with a hole through it",
+  "dreams of a corpse and an ass",
+  "a moonless, ominous night",
+  "a mood of dread"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.42.23-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:20Z",
+  "source_event_id": "evt_0137",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

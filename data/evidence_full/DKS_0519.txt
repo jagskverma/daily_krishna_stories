@@ -1,0 +1,103 @@
+# STORY DKS_0519 — The Sages Curse Samba and the Yadavas
+
+## Index entry
+title: The Sages Curse Samba and the Yadavas
+summary: Yadu boys dress Samba as a pregnant woman and ask the visiting sages what 'she' will bear; the angered sages curse that he will bring forth an iron mace to destroy the clan, and the mace appears, is ground and cast into the sea, and its remaining iron, swallowed by a fish, later becomes the hunter's arrow.
+life_stage: dwaraka | story_arc: end_of_yadavas
+characters: Krishna, Samba, the Yadu boys, the sages, Ugrasena
+locations: Dwaraka, the seashore
+themes: curse, fate, arrogance, the iron mace
+festival_tags: 
+age_sensitivity: all | notes: Same curse episode (BP 11.1, MB 16.1): youths disguise Samba as a pregnant woman; the sages curse him to bear the iron bolt.
+
+## Canonical event
+event_id: evt_0007
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 1 | verses 13-23 | confidence 5
+  excerpt: Disguising Samba as a woman, the boys asked the sages: 'This dark-eyed one is pregnant; what will she give birth to?' The angry sages answered: 'She will bear an iron mace, the destroyer of your clan.' Samba brought forth the mace; the Yadava king had it ground and cast into the sea, and a fish swallowed the last bit of iron, which in the hunter's hands became the arrow. (rendered from Sanskrit, v
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 23 | confidence 5
+  excerpt: Uddhava said: 'Once, in the city, the sages, angered by the Yadu and Bhoja boys at their play, pronounced a curse — knowing the mind of the Lord.' (rendered from Sanskrit, verse 23)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 37 | verses  | confidence 4
+  excerpt: they dressed and adorned Sumba, the son of Jámbavatí, as a damsel... The sages... said, "She will bring forth a club, that shall crush the whole of the Yádava race."
+- Mahabharata (Ganguli translation) | book/canto 16 | chapter/section 1 | verses  | confidence 4
+  excerpt: 'This heir of Vasudeva, by name Samva, will bring forth a fierce iron bolt for the destruction of the Vrishnis and the Andhakas... The blessed hero armed with the plough will enter the ocean, casting off his body, while a hunter of the name of Jara will pierce the high-souled Krishna while lying on the ground.' ... The slayer of Madhu, informed of what had taken place, summoned all the Vrishnis an
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.1 (13-23)
+13. te veṣayitvā strī-veṣaiḥ sāmbaṃ jāmbavatī-sutam /
+14. praṣṭuṃ vilajjatī sākṣāt prabrūtāmogha-darśanāḥ /
+15. evaṃ pralabdhā munayas tān ūcuḥ kupitā nṛpa /
+16. tac chrutvā te 'ti-santrastā vimucya sahasodaram /
+17. kiṃ kṛtaṃ manda-bhāgyair naḥ kiṃ vadiṣyanti no janāḥ /
+18. tac copanīya sadasi parimlāna-mukha-śriyaḥ /
+19. śrutvāmoghaṃ vipra-śāpaṃ dṛṣṭvā ca muṣalaṃ nṛpa /
+20. tac cūrṇayitvā muṣalaṃ yadu-rājaḥ sa āhukaḥ /
+21. kaścin matsyo 'grasīl lohaṃ cūrṇāni taralais tataḥ /
+22. matsyo gṛhīto matsya-ghnair jālenānyaiḥ sahārṇave /
+23. bhagavān jñāta-sarvārtha īśvaro 'pi tad-anyathā /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (23)
+1. sāndīpaneḥ sakṛt proktaṃ brahmādhītya sa-vistaram /
+tasmai prādād varaṃ putraṃ mṛtaṃ pañca-janodarāt
+2. samāhutā bhīṣmaka-kanyayā ye śriyaḥ savarṇena bubhūṣayaiṣām /
+gāndharva-vṛttyā miṣatāṃ sva-bhāgaṃ jahre padaṃ mūrdhni dadhat suparṇaḥ
+3. kakudmino 'viddha-naso damitvā svayaṃvare nāgnajitīm uvāha /
+tad-bhagnamānān api gṛdhyato 'jñāñ jaghne 'kṣataḥ śastra-bhṛtaḥ sva-śastraiḥ
+4. priyaṃ prabhur grāmya iva priyāyā vidhitsur ārcchad dyutaruṃ yad-arthe /
+vajry ādravat taṃ sa-gaṇo ruṣāndhaḥ krīḍā-mṛgo nūnam ayaṃ vadhūnām
+5. sutaṃ mṛdhe khaṃ vapuṣā grasantaṃ dṛṣṭvā sunābhonmathitaṃ dharitryā /
+āmantritas tat-tanayāya śeṣaṃ dattvā tad-antaḥ-puram āviveśa
+6. tatrāhṛtās tā nara-deva-kanyāḥ kujena dṛṣṭvā harim ārta-bandhum /
+utthāya sadyo jagṛhuḥ praharṣa- vrīḍānurāga-prahitāvalokaiḥ
+7. āsāṃ muhūrta ekasmin nānāgāreṣu yoṣitām /
+sa-vidhaṃ jagṛhe pāṇīn anurūpaḥ sva-māyayā
+8. tāsv apatyāny ajanayad ātma-tulyāni sarvataḥ /
+ekaikasyāṃ daśa daśa prakṛter vibubhūṣayā
+9. kāla-māgadha-śālvādīn anīkai rundhataḥ puram /
+ajīghanat svayaṃ divyaṃ sva-puṃsāṃ teja ādiśat
+10. śambaraṃ dvividaṃ bāṇaṃ muraṃ balvalam eva ca /
+anyāṃś ca dantavakrādīn avadhīt kāṃś ca ghātayat
+11. atha te bhrātṛ-putrāṇāṃ pakṣayoḥ patitān nṛpān /
+cacāla bhūḥ kurukṣetraṃ yeṣām āpatatāṃ balaiḥ
+12. sa karṇa-duḥśāsana-saubalānāṃ kumantra-pākena hata-śriyāyuṣam /
+suyodhanaṃ sānucaraṃ śayānaṃ bhagnorum ūrvyāṃ na nananda paśyan
+13. kiyān bhuvo 'yaṃ kṣapitoru-bhāro yad droṇa-bhīṣmārjuna-bhīma-mūlaiḥ /
+aṣṭādaśākṣauhiṇiko mad-aṃśair āste balaṃ durviṣahaṃ yadūnām
+14. mitho yadaiṣāṃ bhavitā vivādo madhv-āmadātāmra-vilocanānām /
+naiṣāṃ vadhopāya iyān ato 'nyo mayy udyate 'ntardadhate svayaṃ sma
+15. evaṃ sañcintya bhagavān sva-rājye sthāpya dharmajam /
+nandayām āsa suhṛdaḥ sādhūnāṃ vartma darśayan
+16. uttarāyāṃ dhṛtaḥ pūror vaṃśaḥ sādhv-abhimanyunā /
+sa vai drauṇy-astra-sampluṣṭaḥ punar bhagavatā dhṛtaḥ
+17. ayājayad dharma-sutam aśvamedhais tribhir vibhuḥ /
+so 'pi kṣmām anujai rakṣan reme kṛṣṇam anuvrataḥ
+18. bhagavān api viśvātmā loka-veda-pathānugaḥ /
+kāmān siṣeve dvārvatyām asaktaḥ sāṅkhyam āsthitaḥ
+19. snigdha-smitāvalokena vācā pīyūṣa-kalpayā /
+caritreṇānavadyena śrī-niketena cātmanā
+20. imaṃ lokam amuṃ caiva ramayan sutarāṃ yadūn /
+reme kṣaṇadayā datta- kṣaṇa-strī-kṣaṇa-sauhṛdaḥ
+21. tasyaivaṃ ramamāṇasya saṃvatsara-gaṇān bahūn /
+gṛhamedheṣu yogeṣu virāgaḥ samajāyata
+22. daivādhīneṣu kāmeṣu daivādhīnaḥ svayaṃ pumān /
+ko viśrambheta yogena yogeśvaram anuvrataḥ
+23. puryāṃ kadācit krīḍadbhir yadu-bhoja-kumārakaiḥ /
+kopitā munayaḥ śepur bhagavan-mata-kovidāḥ
+24. tataḥ katipayair māsair vṛṣṇi-bhojāndhakādayaḥ /
+yayuḥ prabhāsaṃ saṃhṛṣṭā rathair deva-vimohitāḥ
+25. tatra snātvā pit-n devān ṛṣīṃś caiva tad-ambhasā /
+tarpayitvātha viprebhyo gāvo bahu-guṇā daduḥ
+26. hiraṇyaṃ rajataṃ śayyāṃ vāsāṃsy ajina-kambalān /
+yānaṃ rathān ibhān kanyā dharāṃ vṛtti-karīm api
+27. annaṃ coru-rasaṃ tebhyo dattvā bhagavad-arpaṇam /
+go-viprārthāsavaḥ śūrāḥ praṇemur bhuvi mūrdhabhiḥ
+28. bhp_03.04.001/0 uddhava uvāca 
+atha te tad-anujñātā bhuktvā pītvā ca vāruṇīm /
+tayā vibhraṃśita-jñānā duruktair marma paspṛśuḥ
+
+## Corpus chain
+previous_story_id: DKS_0518 | next_story_id: DKS_0520
+previous title: Narada Prophesies the Ocean Will Swallow Dwarka || Before departing, Narada prophesies that Krishna, having fulfilled the gods' work, will let the ocean inundate Dwarka and Bhogavati, and will be united with Narayana.
+next title: Krishna Foresees the Yadavas' Self-Destruction || Uddhava recalls Krishna's deliberation that the Yadu warriors, themselves the remaining burden of the earth, could be destroyed in no other way than by their own quarrel, and that when he acted, they would destroy themselves.

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0065",
+ "title": "Shankhachuda Abducts the Gopis",
+ "subtitle": null,
+ "story": "One evening, when the day's work was done and the heat had gone out of the air, Krishna and Balarama went into the forest with the women of Vraja. It was the kind of evening the brothers loved best, when they could forget the sun and the cattle and the long day, and simply be together with the people who loved them. The first stars were coming out, the moon was climbing above the branches, and the two brothers began to sing, honouring the face of the coming night.\n\nIt was not an ordinary singing. The verses say the song was sweet and slow, and that it was auspicious to the mind and to the ear of every living thing — a sound that could reach into whatever heard it and settle there. The gopis listened, and the song worked on them the way strong wine works: they went still, their thoughts left them, and they forgot where they were and what they held in their hands. The women, bound to the brothers in deep affection, stood as if in a dream, and the forest itself seemed to lean in to listen.\n\nThe brothers went on singing, freely and as if intoxicated by the night itself, half-lost in the music. And while every eye was on them and every heart was open, the demon Shankhachuda saw his chance.\n\nShankhachuda was a servant of Kubera, the lord of treasure — a demon, strong and watchful, of the kind that had troubled Vrindavan before. He had come there for no good purpose. He had seen the women and the brothers, and he had waited at the edge of the gathering, hidden in the dark beyond the firelight, patient as a shadow, biding his time for the moment when their guard was down. Now, in the hush while the song held everyone still, he moved. He seized the women — the gopis whom Krishna and Balarama regarded as their own people — and carried them off into the night.\n\nThe spell broke at once. The gopis screamed, and their cry cut through the singing: \"Krishna! Rama!\"\n\nThe two brothers turned and saw their own people being carried away into the dark. They did not stop to reason, and they did not think of weapons or of consequences. The only thought was the women being carried away, and the only answer was to run. \"Do not fear!\" they cried, and the cry itself was a promise. They tore up the trunks of two sal trees, hefted them like clubs, and plunged after the demon — two lions leaping into the night after the one who had dared to lay hands on what was theirs.",
+ "reflection": "The demon strikes at the one moment the gopis are unguarded — not in weakness, but in absorption, their attention given over entirely to the song. The brothers' answer is immediate and instinctive: a shout of reassurance before any thought of battle, and then a pursuit that will not be turned aside.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Shankhachuda",
+  "Krishna",
+  "Balarama",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "abduction",
+  "pursuit"
+ ],
+ "previous_story_id": "DKS_0064",
+ "next_story_id": "DKS_0066",
+ "next_story_tease": "But the demon would not escape — and the jewel he wore was about to change hands.",
+ "hero_scene": "Krishna and Balarama tearing up sal-tree trunks and leaping into the moonlit forest after the demon Shankhachuda, who carries the screaming gopis away into the darkness, the interrupted song still hanging in the air.",
+ "visual_elements": [
+  "Krishna singing in the forest",
+  "Balarama",
+  "the gopis listening entranced",
+  "the demon Shankhachuda",
+  "the moon and stars",
+  "sal-tree trunks as clubs",
+  "night forest",
+  "sudden terror and pursuit"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.34.19-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:25Z",
+  "source_event_id": "evt_0107"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

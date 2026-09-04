@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0157",
+ "title": "A Warning for the Swayamvara",
+ "subtitle": null,
+ "story": "The golden assembly hall of Bhishmaka, king of Kundina, was crowded with kings, come for a swayamvara — the old ceremony in which a princess chooses her husband. Bhishmaka held it for his daughter Rukmini, and more than a few of the suitors had fought Krishna and his elder brother Balarama at Mount Gomanta, and been beaten; they had not forgotten.\n\nWhen Krishna arrived — the great eagle Garuda and the warriors of his own clan behind him — the brightness seemed to dim. The leading kings exchanged glances and fell silent, stricken by an unease none of them could quite name.\n\nThen Jarasandha of Magadha rose — the strongest of the kings, Krishna's declared enemy — and a hush settled over the hall.\n\nHe began quietly, with a warning dressed as counsel. \"This Krishna,\" he said, \"is the well-known son of Vasudeva, a man of great energy and prowess. He has not come to look on, but to win the maiden, and he will strain every power he has. Weigh your own strength and weakness, and act by the rules of statecraft.\"\n\nThen his voice changed, and the kings heard what he truly thought.\n\n\"You know well what those two sons of Vasudeva did on Mount Gomanta, and that was without Garuda's help. I cannot say what Krishna will do now that the finest chariot-warriors of his people stand behind him. But when Vishnu seats himself on Garuda and moves to win this maiden, even Indra and all the gods of heaven could not stand against him in the field.\"\n\nThen Jarasandha told the kings what this suitor had always been.\n\n\"When the whole world lay beneath a single ocean,\" he said, \"Vishnu took the form of a boar, raised the drowned earth from the deep, and killed the demon Hiranyaksha. Hiranyakashipu, who could die by nothing in the three worlds — not in sky, earth or sea, not by day or night, not by anything dry or wet — was slain by Vishnu's man-lion form. To Bali, mightiest of the demons, he came as a dwarf, bound him with the noose of a promise, and sent him down to the worlds below.\n\n\"At the turning of the ages he was born in secret as the axe-bearing Rama, son of Jamadagni and Renuka, and cut down the thousand-armed Kartavirya, who trusted in the pride of his kingdom. Later he was born as Rama of the Ikshvaku line, son of Dasharatha, and killed Ravana, the terror of the three worlds. In the war that began with Taraka he rode Garuda, eight-armed, and slew demon after demon grown bold on their boons; with his discus, bright as the sun, he killed Kalanemi, who terrified the gods.\"\n\nThe hall was very still. \"And nearer still,\" Jarasandha said, \"he lived as a boy among the cowherds of Vrindavan, no one knowing who he was. In the forest he slew the demons Dhenuka, Arishta and Pralamba. In his cowherd form, Devaki's son killed the demon-woman Putana, the horse-demon Keshi, the royal elephant Kuvalayapida, the wrestlers Chanura and Mushtika, and at last Kamsa himself, king of Mathura, with all his followers. All this he did in a boy's body.\"\n\n\"This is my sure understanding,\" Jarasandha said, \"and I came by it at Mathura. I hold Devaki's son to be the first cause of the gods, the slayer of demons, Narayana — the ancient being from whom the universe begins, Truth itself, creator of all that is and all that is not yet, unborn, unconquerable, eternal, lord of the three worlds. Can Garuda be the carrier of a mere man, even a king of kings? When he shows his power for the maiden, what man alive could stand before Garuda? I tell you plainly: Vishnu himself has come to this swayamvara, and a great calamity waits for you. Do what you think proper.\"\n\nHe sat down, and for a long moment no one moved. Then Sunitha rose and added his voice to the king of Magadha's, and the kings understood that the warning would not be argued away.\n\nOutside, the lamps of Kundina were being lit for a festival that suddenly felt smaller. The kings sat on, each alone with the name none of them had wanted to hear, and none could forget.",
+ "reflection": "It is Jarasandha, Krishna's declared enemy and the man who had bound the kings into war against him, who names Krishna plainly before the assembled princes: not a rival suitor but Vishnu himself. Hatred here produces a clarity the indifferent kings do not share; the enemy sees exactly whom he is fighting, even as he resolves to fight him anyway.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Jarasandha",
+  "Krishna",
+  "Sunitha",
+  "Bhishmaka"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "fear",
+  "counsel",
+  "recognition-of-divinity"
+ ],
+ "previous_story_id": "DKS_0156",
+ "next_story_id": "DKS_0158",
+ "next_story_tease": "But the kings did not answer with one voice, for Dantavakra would speak for peace and Salwa for war.",
+ "hero_scene": "In Bhishmaka's golden assembly hall at Kundina, Jarasandha stands among the seated kings, one hand raised, speaking with heavy certainty, while the assembled monarchs lean forward in alarm beneath the hall's lamps.",
+ "visual_elements": [
+  "the golden assembly hall at Kundina",
+  "the seated ring of kings",
+  "Jarasandha standing to address them",
+  "the kings stricken with anxiety",
+  "the lamps of the evening city beyond",
+  "fear and recognition"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.105",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0179",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5
+}

@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0065",
+ "title": "Shankhachuda Abducts the Gopis",
+ "subtitle": null,
+ "story": "One evening, when the day's work was done and the heat had gone out of the air, Krishna and Balarama went into the forest with the women of Vraja — the gopis, the cowherd women of the village. It was the kind of evening the two brothers loved best, when they could forget the cattle and the long day and simply be together with the people who loved them. They had walked out together, as they often did of an evening, to hear the night begin. The first stars were coming out, the moon was climbing above the branches, and the two brothers began to sing, honouring the face of the coming night.\n\nIt was not an ordinary singing. The verses say the song was sweet and slow, a blessing to the mind and to the ear of every living thing — a sound that could reach into whoever heard it and settle there. The gopis listened, and the song worked on them like a slow, deep calm: their thoughts went away, their hands forgot what they held, and they stood as if in a dream, devoted to the brothers as they were. The song did not hurry anyone; it only held them, and they were glad to be held. Even the forest seemed to lean in to listen.\n\nThe brothers went on singing, freely and half-lost in the music, as though the night itself had poured into their voices. And while every eye was on them and every heart was open, the demon Shankhachuda saw his chance.\n\nShankhachuda served Kubera, the lord of treasure, and he had come to the forest for no good purpose. He was a demon of the kind that had troubled Vrindavan before — strong, watchful, quick to see an opening. Hidden in the shadows at the edge of the glade, beyond the reach of the starlight, patient as a shadow, he had watched the singers and waited for the moment when no one was watching him. Now, in the hush the song had made, he moved. He seized the women and carried them off into the dark.\n\nThe spell broke at once. The gopis screamed, and their cry cut through the singing: \"Krishna! Rama!\"\n\nThe brothers turned and saw their own people being carried away into the darkness. They did not stop to reason, and they did not think of weapons or of danger to themselves; the only thought was the women, and the only answer was to run. \"Do not fear!\" they cried, and the cry itself was a promise. They tore up the trunks of two sal trees, swung them up like clubs, and plunged after the demon like two lions into the night.",
+ "reflection": "The demon strikes at the one moment the gopis are unguarded — not in weakness, but in absorption, their attention given over entirely to the song. The brothers' answer is immediate and instinctive: a shout of reassurance before any thought of battle, and then a pursuit that will not be turned aside.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Shankhachuda",
+  "Krishna",
+  "Balarama",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "abduction",
+  "pursuit"
+ ],
+ "previous_story_id": "DKS_0064",
+ "next_story_id": "DKS_0066",
+ "next_story_tease": "But the demon would not escape — and the jewel he wore was about to change hands.",
+ "hero_scene": "Krishna and Balarama tearing up sal-tree trunks and leaping into the moonlit forest after the demon Shankhachuda, who carries the screaming gopis away into the darkness, the interrupted song still hanging in the air.",
+ "visual_elements": [
+  "Krishna singing in the forest",
+  "Balarama",
+  "the gopis listening entranced",
+  "the demon Shankhachuda",
+  "the moon and stars",
+  "sal-tree trunks as clubs",
+  "night forest",
+  "sudden terror and pursuit"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.34.19-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:25Z",
+  "source_event_id": "evt_0107",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

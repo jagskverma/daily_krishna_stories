@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0379",
+ "title": "A Prayer Heard in Dwaraka",
+ "subtitle": "How Draupadi's prayer crossed the miles to Krishna's side",
+ "story": "Krishna lay asleep in Dwaraka, his city by the sea, with Rukmini, his wife, resting beside him. Far away, in the Kamyaka forest where the five Pandava brothers lived in exile with their wife, Draupadi, a heart was failing. And at that very moment ten thousand ascetics were walking toward the brothers' hermitage.\n\nAt their head came the sage Durvasa — a guest any household dreaded, famous for a temper that blazed up like fire and curses that never missed. He had chosen his moment with care, making certain that the Pandavas were resting at their ease and that Draupadi had finished her meal before he set out with his followers. Yudhishthira, the eldest brother, went forward to greet him with palms joined, offered him the finest seat, and gave the whole company a respectful welcome. \"Return quickly after your bath,\" he said, \"and the meal will be waiting.\" Durvasa, never troubling himself to wonder how such a feast would be provided, went down to the stream with all ten thousand disciples to bathe.\n\nBut Draupadi knew what her husband had promised, and her heart sank. The vessel that fed the Pandavas was a gift of the sun: it stayed full until she had finished her meal, and empty afterward. She had eaten long ago. There was no food in it now, and no way to fill it — and a guest like Durvasa could not be turned away with apologies.\n\nAfter much anxious thought she could see no way out. So she did what she had done in her darkest hour before: she prayed. Inwardly she called on Krishna — the son of Devaki, whose face was dark as the leaf of the blue lotus, whose eyes were red as the heart of a lily, who wore yellow robes and the bright Kaustubha gem at his breast. \"You who saved me once from Dussasana, when the whole court sat silent,\" she said in her heart, \"save me now from this.\"\n\nThe prayer was answered before it was finished. In Dwaraka, Krishna rose from Rukmini's bed — she slept on, unaware — and came to the forest. Draupadi bowed before him in joy and told him everything: the arrival of the sages, the empty vessel, her fear of Durvasa's wrath. And Krishna, who had crossed half the world at the thought of her trouble, said only: \"I am very hungry. Give me something to eat, and then go about your work.\"\n\nShe stared at him. \"The sun-given vessel stays full only until I have eaten from it,\" she said. \"I ate long ago. There is nothing in it now.\"\n\n\"This is no time for jokes,\" said Krishna. \"I am truly hungry. Bring me the vessel and show it to me.\"\n\nShe had it brought. He looked inside, and there, stuck to the rim, was a single grain of rice with a scrap of vegetable clinging to it. He took it and swallowed it. \"Let Hari, the soul of the universe, be pleased,\" he said, \"and let the god who receives the offerings at every sacrifice be satisfied with this.\"\n\nThen he turned to Bhima, the strong second brother, who stood nearby. \"Go quickly,\" he said, \"and invite the sages to dinner.\"\n\nBhima hurried to the nearest stream — clear, cool water — where Durvasa and his ten thousand had plunged in and were rubbing themselves after their bath. And there they stopped, one after another, staring at one another: their stomachs were full to the throat, though they had eaten nothing. \"We told the king to prepare our meal and came here for a bath,\" they said. \"How can we eat now? The feast has been prepared for nothing.\"\n\nDurvasa understood at last, and his face clouded. \"By making the king prepare a feast we cannot touch,\" he said, \"we have done Yudhishthira a great wrong.\"",
+ "reflection": "The hinge of the story is timing: the prayer is answered before it is finished, Krishna leaving Rukmini's side the instant the thought forms in the forest. And the miracle is almost comically small — not a feast conjured from the sky, but one leftover grain swallowed at the rim of an empty pot. His protection here is not spectacle; it is presence, arriving exactly when there was no other help.",
+ "tradition_note": "The sun-given vessel that fed the Pandavas until Draupadi had eaten is the same vessel the epic elsewhere calls the Akshaya-patra, and Durvasa's visit is one of several episodes that turn on its power.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Draupadi",
+  "Durvasa",
+  "Rukmini"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "devotion",
+  "protection",
+  "compassion"
+ ],
+ "previous_story_id": "DKS_0378",
+ "next_story_id": "DKS_0380",
+ "next_story_tease": "Now Durvasa and his disciples had to face the king whose feast their own bellies had already consumed.",
+ "hero_scene": "Krishna in yellow robes arriving at the forest hermitage at dusk, Draupadi bowing before him in joy, while in the distance the ascetics bathe in the stream — and behind them, unseen, the empty vessel with a single grain at its rim.",
+ "visual_elements": [
+  "Krishna in yellow robes arriving at the hermitage",
+  "Draupadi bowing before him in joy",
+  "the empty sun-given vessel with a single grain at its rim",
+  "Durvasa's disciples bathing in the distant stream",
+  "dusk settling over the Kamyaka forest"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.261",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:22Z",
+  "source_event_id": "evt_0408",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0100",
+ "title": "Krishna Tests the Gopis",
+ "subtitle": null,
+ "story": "When the cowherd women of Vrindavan, who had come to him through the night, finally reached Krishna that autumn night, he greeted them with a question that was not at all what they had come for. \"You are welcome,\" he said. \"What can I do for you? Is all well at home? Tell me why you have come.\"\n\nBefore they could answer, he went on. \"This night is fearsome,\" he said, \"and full of fierce creatures. It is not right for women to be here. Go back to the village. Your mothers and fathers, your sons and brothers and husbands, search for you and cannot find you. Do not bring such distress on your own family.\"\n\nHe gestured at the flowering trees silvered by the full moon and the Yamuna breeze moving in the leaves, as if to say: you have seen it, now go. \"Return without delay,\" he said. \"Serve your husbands. The calves are crying, and the little ones too; go milk the cows and feed them.\"\n\nAnd then he softened. \"Or,\" he said, \"if it is love for me that has bound your hearts and brought you here, that is only fitting — every living thing finds its joy in me. But hear me: the highest duty of a woman is to serve her husband faithfully, to do good to her own people, and to care for those who depend on her. A wife must not leave her husband — not even one who is ill-tempered, or unlucky, or old, or dull, or sick, or poor. A love outside marriage brings no heaven and no honor; it is trifling and painful and feared, and it disgraces a woman of good family. And love for me is born of hearing about me, and seeing me, and meditating on me, and speaking of me; it is not born of standing near me. So go back to your homes.\"\n\nThe women stood very still, their hopes broken, a grief they could not cross settling over them. Their faces turned down, their lips gone dry with sighing, they traced lines in the earth with their toes, wiping the tears that streaked the red powder on their chests, saying nothing.\n\nThen one of them found her voice, and the rest followed, their words choked with feeling. \"Do not speak such cruel words,\" they said. \"We have left behind every pleasure we had, and come to your feet. Accept us, your own devotees. Do not cast us off — the way the ancient Lord receives those who long for freedom.\"\n\n\"You, who understand duty, have told us that a woman's dharma is to serve her husband and her children and her people. Let it be so. But you are the dearest of all who live in bodies; you are our friend, our very self. Those who are wise give their love to you, who are forever dear — of what use to us are husbands and sons, who bring only sorrow? Be gracious, Lord. Do not cut down the hope we have carried for you so long.\"\n\nTheir voices gathered strength. \"Our minds have been carried away by you; they cannot go back into our houses. Our hands no longer do the work of the home, and our feet will not move from beneath your feet. How shall we go back to the village? What would we do there? Quench the fire that your smiling glance and your sweet songs have lit in our hearts — or we will be burned up by the pain of missing you, and reach your feet only through our meditation on you.\"\n\nAt last they asked for the one thing they had come for. \"What woman in the three worlds — in heaven, on the earth, or below it — hearing the song of your flute, could keep to the path of duty and not come running? Seeing your face with its smiling eyes and dark curls, your arms that grant fearlessness, your chest that is the home of fortune herself — we are your servants. Place your hand upon our heads. You are the one who takes away the fears of Vrindavan, the friend of the afflicted. Give us your service.\"",
+ "reflection": "Krishna's test is a strange kind of kindness: he argues against the gopis with every duty the world recognizes, so that the only answer they have left is the truth — that he is not one more claim among their duties, but the self to which all duties return.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "testing",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0099",
+ "next_story_id": "DKS_0101",
+ "next_story_tease": "And Krishna, who had argued against them with every duty in the world, would answer their plea with something far gentler.",
+ "hero_scene": "Krishna speaking to the gopis in a moonlit forest, his hand raised toward the flowering trees and the Yamuna beyond, while the gopis stand before him with downcast faces, one of them lifting a tear-streaked face to answer him.",
+ "visual_elements": [
+  "Krishna",
+  "gopis",
+  "full moon and flowering forest",
+  "Yamuna breeze",
+  "tears and downcast faces",
+  "pleading and devotion",
+  "night"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.29.17-41",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:14:58Z",
+  "source_event_id": "evt_0110",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,100 @@
+# STORY DKS_0445 — Krishna Returns to Upaplavya and Reports the Failure of the Peace Mission
+
+## Index entry
+title: Krishna Returns to Upaplavya and Reports the Failure of the Peace Mission
+summary: Krishna returns from Hastinapura and reports to the Pandavas that Duryodhana rejected his true and beneficial words in the assembly.
+life_stage: kurukshetra | story_arc: peace_mission
+characters: Krishna, Yudhishthira, Pandavas, Duryodhana
+locations: Upaplavya, Hastinapura
+themes: diplomacy, truth, failure
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0482
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 5 | chapter/section 147 | verses  | confidence 4
+  excerpt: Coming back to Upaplavya from Hastinapura, that chastiser of foes, Kesava, represented unto the Pandavas all that had happened... Vasudeva said, 'Having gone to Nagapura, I addressed Dhritarashtra's son in the assembly such words as were true, reasonable, and beneficial. That wicked minded fellow did not, however, accept them.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 5.147 ()
+Vaisampayana said, “Coming back to Upaplavya from Hastinapura, that
+chastiser of foes, Kesava, represented unto the Pandavas all that had
+happened, and conferring with them for a long space of time, and holding
+repeated consultations, Sauri went to his own quarters for rest. And
+dismissing all the kings, with Virata and others at their heads, the five
+brothers--the Pandavas--when the sun had set, said their evening prayers.
+And with hearts ever fixed on Krishna they began to think of him. And, at
+last, bringing Krishna of Dasarha’s race into their midst, they began to
+deliberate again about what they should do. And Yudhishthira said, ‘O
+thou of eyes like lotus-petals, it behoveth thee to tell us all that thou
+saidst unto Dhritarashtra’s son in the assembly (of the Kurus), having
+gone to Nagapura.’ Vasudeva said, ‘Having gone to Nagapura, I addressed
+Dhritarashtra’s son in the assembly such words as were true, reasonable,
+and beneficial. That wicked minded fellow did not, however, accept them.’
+
+“Yudhishthira said, ‘When Duryodhana desired to tread along the wrong
+path, what did the aged Kuru grandsire say, O Hrishikesa, unto that
+vindictive prince? What also did the highly-blessed preceptor--the son of
+Bharadwaja, say? And what did his parents Dhritarashtra and Gandhari say?
+What did our junior father Kshattri, who is the foremost of all persons
+conversant with virtue, and who is always afflicted with sorrow on
+account of ourselves whom he regards as his sons, say unto
+Dhritarashtra’s son? What also did all the kings who sat in that assembly
+say? O Janardana, say it all unto us, exactly as it happened. Thou hast
+already told us all the disagreeable words that the Kuru chiefs (Bhishma
+and Dhritarashtra) and others in that assembly of the Kurus said unto the
+wicked Duryodhana who is overwhelmed with lust and covetousness, and who
+regardeth himself wise. Those words, however, O Kesava, have flitted away
+from my memory. O Govinda, I desire to hear, O lord, all those words
+again. Act thou in such a way that the opportunity may not pass away.
+Thou, O Krishna, art our refuge, thou art our lord, thou art our guide!’
+
+“Vasudeva said, ‘Hear, O king, the words that were addressed to king
+Suyodhana in the midst of the assembly of the Kurus, and, O king of
+kings, bear them in thy mind. After my words were ended, Dhritarashtra’s
+son laughed aloud. Highly incensed at this, Bhishma then said, “Hear, O
+Duryodhana, what I say for (the preservation of) our race, and having
+heard it, O tiger among kings, do what is beneficial to thy own house. O
+sire, O king, my father Santanu, was widely known in the world. I was, at
+first, his only son. A desire sprung up in his heart as to how he might
+obtain a second son, for the wise say that an only son is no son,--Let
+not my race be extinct, may my fame be spread. Even this was his desire.
+Knowing this to have been his desire, I procured Kali to become my
+mother, having myself made a promise highly difficult to observe, for the
+sake of my father as also for the sake of our race. How, in consequence
+of that promise I could not be king and have drawn up my vital seed, are,
+of course, well-known to thee. (I do not grieve for that). Observing that
+vow of mine, behold, I am living in happiness and joy. In her, O king,
+was born my younger brother, that mighty-armed and handsome supporter of
+Kuru’s race, viz., Vichitravirya of virtuous soul. After my father’s
+ascension to heaven, I installed Vichitravirya as a ruler of the kingdom,
+that was mine, while I placed myself under him as a servant of his. O
+king of kings, I then brought him suitable wives, having vanquished many
+assembled monarchs. Thou hast heard of it often. Sometime after, I was
+engaged in a single combat with the (great) Rama. From fear of Rama, my
+brother fled, the more so as his subject deserted him. During this
+period, he became very much attached to his wives and accordingly had an
+attack of phthisis. Upon his death, there was anarchy in the kingdom and
+the chief of the gods poured not a drop of rain (on the realm). The
+subjects then, afflicted by fear of hunger, hastened to me and said, ‘Thy
+subjects are on the point of being exterminated. Be thou our king for the
+sake of our good. Dispel this drought. Blessed be thou, O perpetuator of
+Santanu’s race. Thy subjects are being greatly afflicted by severe and
+frightful maladies. Very few of them are still alive. It behoveth thee, O
+son of Ganga, to save them. Dispel these tortures. O hero, cherish thy
+subjects righteously. When thou art alive, let not the kingdom go to
+destruction.’ Hearing these words of theirs uttered in a weeping voice,
+my heart was undisturbed. Remembering the behaviour of good, I desired to
+maintain my vow. Then, O king, the citizens, my auspicious mother Kali
+herself, our servants, the priests and the preceptors (of our house), and
+many Brahmanas of great learning, all afflicted with great woe, solicited
+me to occupy the throne. And they said, ‘When thou a
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0444 | next_story_id: DKS_0446
+previous title: Karna Worships Krishna and Takes His Leave
+next title: Krishna Guides Arjuna Against Ashvatthama's Brahmastra

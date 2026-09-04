@@ -1,0 +1,29 @@
+# STORY DKS_0520 — Krishna Foresees the Yadavas' Self-Destruction || Uddhava recalls Krishna's deliberation that the Yadu warriors, themselves the remaining burden of the earth, could be destroyed in no other way than by their own quarrel, and that when he acted, they would destroy themselves.
+
+## Index entry
+title: Krishna Foresees the Yadavas' Self-Destruction || Uddhava recalls Krishna's deliberation that the Yadu warriors, themselves the remaining burden of the earth, could be destroyed in no other way than by their own quarrel, and that when he acted, they would destroy themselves.
+summary: Uddhava recalls Krishna's deliberation that the Yadu warriors, themselves the remaining burden of the earth, could be destroyed in no other way than by their own quarrel, and that when he acted, they would destroy themselves.
+life_stage: dwaraka | story_arc: end_of_yadavas
+characters: Krishna, the Yadavas
+locations: Dwaraka
+themes: fate, divine design, the removal of the burden
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0285
+variant_notes: Recall; cross-ref the Yadavas' self-destruction (vp5_037_03).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 13-14 | confidence 5
+  excerpt: Uddhava said: 'What burden of the earth remained, when Drona, Bhishma, Arjuna and Bhima were gone, but the unbearable host of the Yadavas? When they quarrel among themselves, eyes red with wine, there is no other way to destroy them; when I act, they will vanish of themselves.' (rendered from Sanskrit, verses 13-14)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (13-14)
+13. kiyān bhuvo 'yaṃ kṣapitoru-bhāro yad droṇa-bhīṣmārjuna-bhīma-mūlaiḥ /
+14. mitho yadaiṣāṃ bhavitā vivādo madhv-āmadātāmra-vilocanānām /
+
+## Corpus chain
+previous_story_id: DKS_0519 | next_story_id: DKS_0521
+previous title: The Sages Curse Samba and the Yadavas
+next title: Sesha Departs from Balarama

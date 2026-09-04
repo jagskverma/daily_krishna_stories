@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0452",
+ "title": "The Charioteer",
+ "subtitle": "Krishna Is Chosen as Arjuna's Guide and Driver of His Steeds",
+ "story": "How, O Kesava, could wicked Duryodhana say it? Recollecting the words that Vasudeva had spoken, Yudhishthira pressed Krishna once more, in the camp at Upaplavya, seeking guidance for what had now to be done. He reminded Krishna of all that he knew: the views of Duryodhana, of Karna, of Sakuni the son of Suvala; the views of the Pandavas themselves; the words of Vidura and of Bhishma; the words of wisdom spoken by Kunti. Overlooking all these, Yudhishthira said, tell us, after reflection, and without hesitation, what is for our good.\n\nAnd Krishna answered in a voice deep as that of the clouds or cymbals. In the Kuru court he had spoken words consistent with both virtue and profit, and they had found no response in Duryodhana, in whom deceit supplied the place of wisdom. That wretch of wicked understanding listened not in the least to the counsels of Bhishma or Vidura or Krishna himself; he transgressed everybody; he wished neither to earn virtue nor to win fame. Relying upon Karna, he regarded everything as already won. He had even ordered Krishna's incarceration, though he had not obtained the fruition of that wish, and neither Bhishma nor Drona had said anything on the subject, for all of them followed Duryodhana except Vidura. Sakuni, Karna, and Dussasana, all equally foolish, had given foolish and vindictive Duryodhana much improper advice regarding the Pandavas. In brief, Krishna said, that wicked-souled wight beareth no good will towards thee. Not even in all these kings together that form thy army is that measure of sinfulness and wickedness which resideth in Duryodhana alone. As regards ourselves, we do not desire to make peace with the Kauravas by abandoning our property. War, therefore, is that which should now take place.\n\nWhen he had finished, all the kings there present, without saying anything, looked at Yudhishthira's face. And Yudhishthira understood their intention and, with Bhima and Arjuna and the twins, gave the word: draw up the troops in battle array. The command passed through the army; a great uproar rose amongst the Pandava host, and all the soldiers were filled with joy.\n\nKing Yudhishthira the Just, however, beholding the impending slaughter of those that deserved not to be slain, began to sigh deeply. That for the sake of which I accepted an exile into the woods, and for which I suffered so much misery, that great calamity overtaketh us of a set purpose, he said. How shall we fight with those reverend superiors of ours whom we on no account can slay? What kind of victory shall we achieve by slaying our preceptors of venerable age?\n\nArjuna repeated to his elder brother all the words that Krishna had said. Thou hast certainly understood all the words spoken by Kunti and Vidura, that were repeated to thee by Devaki's son, he said. I know it for certain that neither Vidura nor Kunti would say anything that is sinful. Besides this, we cannot withdraw without engaging in battle. And Krishna said to Arjuna, it is even so.\n\nThat night the sons of Pandu made up their minds for war and passed the hours with their soldiers in great happiness. And when the army was drawn up and Arjuna took his place for the war that was coming, he did not stand alone: handsome Janardana, endued with great intelligence, the younger brother of Sankarshana, was chosen as the guide of Arjuna and the driver of his steeds. The counsellor of the war would now drive the chariot into it, and the friend who had carried the words of peace would stand closest to the man who had to fight.",
+ "reflection": "Yudhishthira gives the order for battle and grieves in the same breath, accepting the war even as he mourns what it will cost. And Arjuna answers that grief the only way he can: not by doubting the war, but by placing himself beside Krishna, trusting the words that came from Kunti and Vidura and were carried by Devaki's son.",
+ "tradition_note": null,
+ "content_note": "The acceptance of war and anticipation of battle; no combat depicted.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Upaplavya",
+  "Kurukshetra"
+ ],
+ "themes": [
+  "charioteer",
+  "friendship",
+  "war"
+ ],
+ "previous_story_id": "DKS_0451",
+ "next_story_id": "DKS_0453",
+ "next_story_tease": "But one man would not march with them — Balarama, who refused to raise his hand against either side.",
+ "hero_scene": "At dawn on the plain, Arjuna stands beside his war-chariot with the reins being settled in Krishna's hands; behind them the Pandava host stretches to the horizon, while Arjuna looks back once toward the grieving king who gave the order.",
+ "visual_elements": [
+  "Krishna taking the reins of Arjuna's chariot at dawn",
+  "Arjuna standing beside him, bow in hand",
+  "the Pandava army drawn up in battle array across Kurukshetra",
+  "Yudhishthira sighing as he gives the order",
+  "soldiers raising a great uproar of joy",
+  "first light over the plain"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.155",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0485"
+ },
+ "editorial_status": "unreviewed"
+}

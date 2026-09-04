@@ -1,0 +1,32 @@
+# STORY DKS_0091 — The Gopis Perform the Katyayani Vow
+
+## Index entry
+title: The Gopis Perform the Katyayani Vow
+summary: Through the first month of winter, the young gopis bathe in the Yamuna and worship the goddess Katyayani, praying that Krishna become their husband.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: gopis, Krishna, Katyayani
+locations: Yamuna river
+themes: devotion, longing, austerity
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0084
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 22 | verses 1-5 | confidence 5
+  excerpt: Through the first month of winter the gopis keep their vow, bathing before dawn in the Yamuna and worshipping an image of the goddess, with the single prayer that Nanda's son become their husband. (rendered from Sanskrit, verse 1-5)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.22 (1-5)
+1. āplutyāmbhasi kālindyā jalānte codite 'ruṇe /
+2. gandhair mālyaiḥ surabhibhir balibhir dhūpa-dīpakaiḥ /
+3. kātyāyani mahā-māye mahā-yoginy adhīśvari /
+4. evaṃ māsaṃ vrataṃ ceruḥ kumāryaḥ kṛṣṇa-cetasaḥ /
+5. ūṣasy utthāya gotraiḥ svair anyonyābaddha-bāhavaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0090 | next_story_id: DKS_0092
+previous title: The Gopis Praise Krishna's Flute
+next title: Krishna Steals the Gopis' Clothes

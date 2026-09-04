@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0380",
+ "title": "A Single Grain for Ten Thousand",
+ "subtitle": "How Krishna fed the sage Durvasa and his ten thousand disciples with one grain of rice.",
+ "story": "Ten thousand guests, and nothing to set before them.\n\nIt happened in the years the Pandavas spent in exile. One day the sage Durvasa arrived at their hermitage in the Kamyaka forest, and behind him came ten thousand disciples. He had not been expected, and there was no time to prepare. Ten thousand is not a number a household forgets; it is a number that empties a granary and breaks a cook's heart. Yudhishthira, the king without a kingdom, came forward with his mothers to receive him. He joined his palms, offered the sage an excellent seat, and spoke with perfect courtesy. Perform your ablutions in the river, he said, and return quickly, and the food will be ready.\n\nIt was a gracious invitation and a desperate one. There was no food to be had, and to send such a guest away unfed was unthinkable. A feast of any size was beyond them now; a feast for ten thousand was a thing to laugh or weep at. Draupadi, devoted to her husbands, had already finished the day's meal, and the cooking vessel was nearly bare. Durvasa, suspecting nothing of how the king would feed him and his host of followers, went down to the stream to bathe, and the ten thousand went with him.\n\nDraupadi was in agony. She turned the problem over and over and found no way to provide a feast for ten thousand men. At last she did the only thing left to her: she prayed. Inwardly she called on Krishna, the son of Devaki, whose power was inexhaustible, the lord of the Universe, the saviour of the afflicted and the refuge of the helpless. She called on him whose face was dark as the leaves of the blue lotus and whose eyes were red as the lily, who wore yellow robes and the bright Kaustubha gem at his breast. And she begged him to cherish her with his kindness.\n\nAnd Krishna came. He brought no carts of provisions and no army of cooks. He asked simply for whatever there was to eat, and Draupadi brought him the vessel. He looked into it, and there, sticking to its rim, was a single grain of rice and a scrap of vegetable. One grain — not even a mouthful. He swallowed it, and he spoke: 'May it please the god Hari, the soul of the Universe, and may the god who partakes at sacrifices be satisfied with this.'\n\nThat was all. A single grain, offered and accepted, and nothing more.\n\nDown at the river something strange happened. Durvasa and his ten thousand disciples had plunged into the water and were rubbing their bodies, when one by one they stopped and looked about them. Every one of them felt, suddenly and unmistakably, that his stomach was full — completely, comfortably full, as after a rich feast. There was nothing more to ask for and nothing more to want. A man who is already full cannot in courtesy sit down to a meal, and a guest who is already satisfied cannot ask for more. To return now and ask for a feast they could not eat would be absurd, almost a small shame. So the sage and his ten thousand disciples did not return to the hermitage at all. They went on their way, and the Pandavas' nearly empty vessel had been enough.\n\nQuietly, with no display, Krishna had met ten thousand hungers with a single grain of rice. Or, more truly, he had taken what little they had to give and made it more than enough. And the ten thousand, full and uncomprehending, went away none the wiser.",
+ "reflection": "The humor is quiet and exact — a sage with ten thousand disciples slipping away rather than admit he is already full. But the heart of it is the single grain: Krishna does not multiply abundance so much as accept what is offered with complete trust, and the scarcity simply stops being scarcity.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Draupadi",
+  "Durvasa",
+  "Yudhishthira",
+  "Bhimasena"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "miracle",
+  "protection",
+  "humility"
+ ],
+ "previous_story_id": "DKS_0370",
+ "next_story_id": "DKS_0386",
+ "next_story_tease": null,
+ "hero_scene": "Krishna holding up a single grain of rice found stuck to the rim of Draupadi's nearly empty vessel, while Draupadi watches, in the quiet of the forest hermitage.",
+ "visual_elements": [
+  "the Kamyaka forest hermitage",
+  "Draupadi's nearly empty vessel",
+  "a single grain of rice and a scrap of vegetable",
+  "Krishna holding the grain",
+  "Draupadi watching",
+  "Durvasa and ten thousand disciples at the river",
+  "the river in the forest"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.261",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:16:03Z",
+  "source_event_id": "evt_0409"
+ },
+ "editorial_status": "unreviewed"
+}

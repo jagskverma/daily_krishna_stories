@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0251",
+ "title": "The Lion-Drawn Car Enters Battle",
+ "subtitle": "Shiva and Kartikeya ride out to protect Vana",
+ "story": "Half of Vana's army was running, and the rest was burning.\n\nRiding together on the back of Garuda, Krishna, Balarama and Pradyumna — three heroes who blazed like three fires — swept down on the Danava host with a downpour of arrows. The fire kindled by Krishna's discus burned among them like the fire of the world's dissolution and consumed thousands; the survivors scattered, dropping their coats of mail, their swords, their daggers, their darts, their leathern protectors and their axes.\n\nVana galloped after his own soldiers, shouting them back. \"Born in the race of the Daityas, why do you, overwhelmed with fear and displaying your weakness, fly away from the battlefield? Think of your birth, and of the life you have lived with Hara, and then decide whether you should fly. I stand before you now.\" But the Danavas, beside themselves with fear, paid no heed and fled. Kumbhanda, Vana's powerful minister and friend, tried his own appeal: \"O leading Danavas, behold Shankara, Kartikeya and Vana himself in the field. Give up hope of your lives and fight.\" The words were still in the air when the last of them vanished. Of all that great army, only the Pramathas, Shiva's own attendants, stood firm and wished to fight again.\n\nThen Shiva's anger rose. Seeing his soldiers routed by Krishna, the great god's eyes reddened, and to protect Vana he mounted his lustrous car and prepared himself for fighting. Kartikeya too ascended a car that burned like fire. And Rudra's own chariot — drawn by lions, making a great sound, as if devouring the sky — came rolling onto the field like the full moon freed from clouds.\n\nIt was surrounded by ghosts. Some had the faces of lions, some of tigers, some of serpents, some of horses, camels, asses, peacocks, rams, cats, sheep. Some wore matted locks, some had their hair bound up, some went naked, some were dressed in bark or in the skins of lions and tigers; some had beautiful faces and were adorned with celestial weapons and flowers, while others were dwarfish and grim-visaged, their faces covered with blood, their teeth huge, their hunger for flesh never satisfied. They blew conch-shells and bugles as they came, and they stood encircling Shankara, the destroyer of great enemies, waiting at ease while the lion-drawn car bore the god of gods toward Hari.\n\nKrishna, seeing that car approach, rode Garuda into the battle. Hara, who always stood at the head of a fight, struck him in anger with hundreds of winged arrows; and Hari, irate, took up the excellent weapons given him by Indra and answered. The earth shook under the exchange, the elephants trembled and raised their heads, the mountains were covered with the water of streams and scattered their summits on all sides. The quarters, the sky and the earth were as if ablaze; fire-brands fell from every side, and dreadful jackals began their inauspicious cries. Indra himself sent down showers of blood and fire-brands over the rear of Vana's army, the wind blew high, and the luminous bodies and herbs, shorn of their lustre, flew about in the sky.\n\nBrahma, the Grandfather, knowing that Rudra, the destroyer of Asuras, had entered upon a battle, came there encircled by the celestials; the Apsaras, Gandharvas, Yakshas, Vidyadharas, Siddhas and Charanas stood in the sky to witness the encounter.\n\nThen Vishnu discharged Indra's weapon at Rudra. Burning, it flew straight at the car where the god stood — and the very next moment hundreds and thousands of arrows dropped before Hara's car in answer. Seeing it, and filled with anger, Hara discharged his dreadful fiery weapon in return, and it appeared indeed highly wonderful. Krishna and the three other heroes were entirely covered with arrows, and the sky above Sonitpura turned the colour of the end of the world.",
+ "reflection": "The moment Shiva enters, the war stops being a siege and becomes a confrontation between gods themselves. The ghosts with their animal faces and their conch-shells are a reminder that Shiva's power is not tidy — it is wild, old, and loyal — and Krishna rides out to meet it without hesitation while the whole sky gathers to watch.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Shiva",
+  "Kartikeya",
+  "Krishna",
+  "Vana"
+ ],
+ "locations": [
+  "Sonitpura"
+ ],
+ "themes": [
+  "divine intervention",
+  "ghostly host",
+  "protecting Vana"
+ ],
+ "previous_story_id": "DKS_0250",
+ "next_story_id": "DKS_0252",
+ "next_story_tease": "Yet before that duel could be decided, a strange figure would step between Krishna and his discus.",
+ "hero_scene": "Shiva's lion-drawn car rolls onto the Sonitpura battlefield like the full moon freed from clouds, ringed by a host of ghosts with the faces of lions, tigers, serpents and horses blowing conch-shells, while Krishna on Garuda rides to meet it.",
+ "visual_elements": [
+  "the lion-drawn car of Shiva",
+  "the ghostly host with animal faces",
+  "Krishna riding Garuda",
+  "the fleeing Danava army",
+  "the burning battlefield",
+  "Brahma and the celestials watching from the sky"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.272",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:47Z",
+  "source_event_id": "evt_0352"
+ },
+ "editorial_status": "unreviewed"
+}

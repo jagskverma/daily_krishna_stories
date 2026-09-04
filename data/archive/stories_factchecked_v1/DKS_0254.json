@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0254",
+ "title": "Kottavi Stands Between Krishna and Vana",
+ "subtitle": null,
+ "story": "The war had come to Sonitpura because Krishna's grandson Aniruddha had been taken from Dwaraka and bound with serpent-nooses in the palace of Vana, king of the thousand arms. Now the city had fallen, the young man was free, and the last of the fighting was being done out on the open field.\n\nHigh above it, the standards themselves were fighting. Garuda and the great peacock of Vana's banner clashed in the air, striking with wings, beaks and talons, until the eagle caught the peacock's head in his beak and flung it down. Beneath them, Vana had risen for the second time that day. His chariot lay in splinters, horses and standards shattered by arrows from Krishna's Sarnga bow; his crown, his coat of mail, his bow and his shield were scattered in the dust. He came on anyway, a thousand arms, and every one of them holding a weapon.\n\nKrishna faced him from Garuda's back. \"Wait, wait!\" Vana roared, and the anger in his eyes burned like two suns rising. \"You will not escape me alive to Dwaraka today. Being of eight arms, how will you fight me, who have a thousand? You will see my arms multiply into a million.\"\n\n\"Heroes do not vaunt,\" Krishna answered. \"If words could win battles, you would have won already. Come, Vana — either defeat me, or be vanquished and lie down on the earth for good.\"\n\nThe exchange that followed shook the field to its edges. Vana loosed the great weapon that Brahma had created by his ascetic power for Hiranyakashipu, and darkness covered all the quarters; burning arrows fell like a dreadful rain, and even wind and cloud held still. The Danavas applauded, and the gods cried out in alarm. Then Krishna took up Indra's weapon, and the darkness was shorn away, the fire went out, and the gods watching laughed like lions. Beyond reason now, Vana buried Krishna under maces and spears; and Krishna, smiling, struck him on the breast with winged arrows, and the thousand-armed king of Sonitpura lost consciousness and fell.\n\nNarada, watching from the palace roof, rose up clapping. \"Great fortune, great fortune!\" he cried. \"Blessed is my birth, for I have witnessed the prowess of Damodara today. Destroy Diti's son, Vana.\"\n\nThe discus was already in Krishna's hand when the goddess appeared. Kottavi — Lamva, she was also called — stepped between them unclothed, with nothing to protect her but the fierce dignity of an old promise. \"I gave this boy my word long ago,\" she said. \"I conferred on him a boon, saying that I would protect him. I will not see that boon broken now.\"\n\nKrishna looked at her, and the discus did not move. \"Then hear my vow, goddess. I will cut off Vana's thousand arms today, every one of them. Let them fall to the earth. Your son will live, even if Vana is left with only two arms.\"\n\nShe could not find fault with mercy that came shaped like that. And so it was done: the discus passed through the field of arms like light through a forest, and where it went, weapons fell and arms fell with them, until the king who had fought with a thousand hands stood at the end of it with two — alive, breathing, shorn of his terrible power but not of his life. The goddess's boon was honoured, and Krishna's vow was honoured too.\n\nThe field fell silent, watching Vana stare at his two empty hands. And high above, unseen by any, Shiva was watching the battlefield as well — and Shiva, too, had once promised Vana his protection.",
+ "reflection": "Krishna's mercy here is exact and strange: he takes away the thing that made Vana terrible, the thousand arms, and leaves the life. Kottavi's boon and Krishna's own vow meet in a single act of measured severity, and both promises are kept in the same stroke.",
+ "tradition_note": null,
+ "content_note": "Depicts a battle and the severing of Vana's thousand arms; described with restraint, not graphic.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Kottavi (Lamva)",
+  "Vana",
+  "Narada",
+  "Garuda"
+ ],
+ "locations": [
+  "Sonitpura battlefield"
+ ],
+ "themes": [
+  "goddess's boon",
+  "vow",
+  "mercy"
+ ],
+ "previous_story_id": "DKS_0253",
+ "next_story_id": "DKS_0255",
+ "next_story_tease": "But Shiva, too, had promised Vana his protection — and he was watching the field.",
+ "hero_scene": "The unclothed goddess Kottavi standing between Krishna on Garuda and the fallen Vana, her arms spread in protection while Krishna's discus hovers in the air, severed arms and weapons strewn across the battlefield behind them.",
+ "visual_elements": [
+  "Krishna on Garuda with raised discus",
+  "Kottavi unclothed, arms spread between the two",
+  "Vana with a thousand arms, fallen",
+  "severed arms and weapons on the field",
+  "Garuda and the peacock banner clashing in the sky",
+  "Narada clapping from the palace roof"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.275",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:30Z",
+  "source_event_id": "evt_0356"
+ },
+ "editorial_status": "unreviewed"
+}

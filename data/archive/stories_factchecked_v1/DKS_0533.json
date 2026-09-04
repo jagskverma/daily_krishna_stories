@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0533",
+ "title": "The Sea Swallows Dwaraka",
+ "subtitle": "After Krishna leaves, the ocean rises to claim the city",
+ "story": "Daruka rode into Dwaraka with the news, and the city understood before he finished speaking. He went straight to Vasudeva and Ugrasena and told them everything: the Yadavas had destroyed one another at Prabhasa, clan against clan, friend against friend, until almost none were left. And Krishna was gone. Balarama was gone.\n\nThe women of the royal house heard it too, and the grief that had been waiting for years finally had its way with them. Devaki, who had given up her first children to a tyrant's fear and had spent a lifetime loving her sons from a careful distance, gave up her life then. Rohini, Balarama's mother, gave up hers. Vasudeva, the father who had carried his newborn son through a stormy night to safety, looked at a world in which neither of his sons would ever come home, and he too let go of life — not in fire, but in the simple inability to go on breathing in a world without them.\n\nThe queens went a different way. With Rukmini at their head, they embraced the body of Hari, the Lord they had married, and walked into the funeral fire. The city that had been the joy of the world watched its mothers and its wives choose death over a life without him.\n\nArjuna arrived as he had been summoned, too late to save anyone and just in time to bury them. He who had been Krishna's dearest friend, the bowman of the Kurus, walked through the ruins of his brother's house and performed the last rites for the kinsmen whose families had been destroyed, one funeral after another, until the rites ran together. Then he gathered what was left of Dwaraka: the women, the children, the elders — everyone who had survived the slaughter — and prepared to lead them away.\n\nThat was when the sea rose.\n\nIt did not storm. It did not crash against the walls. It simply came, calmly and completely, the way water fills a footprint. The ocean, that home of sharks and alligators, flooded over Dwaraka with all its wealth, street by street, palace by palace, swallowing the golden city whole. Whatever ground the fleeing people passed, the ocean covered immediately behind them. The inhabitants walked faster and faster, looking back at the water following their heels, and the wonder of it struck even their grief: \"Wonderful is the course of fate,\" they said to one another, and pressed on.\n\nOnly one thing did the sea refuse to take. The Lord's own dwelling stood above the rising water and would not be washed away — the house where Krishna had lived, the temple that marked the place of his sports. The flood took the city and the wealth and the streets that had known his footsteps, and it left that one dwelling standing, as if the ocean itself knew better than to touch the home of the one who had made it.\n\nAnd as the people walked away from the drowning city, they saw two more things leave the earth: the Sudharman assembly hall and the Parijata tree, the two heavenly gifts Krishna had brought down to Dwaraka, rose from the water and returned to the heaven they had come from. On the same day that Hari departed from the earth, the seers said, the powerful dark-bodied Kali age descended upon it.\n\nArjuna led the survivors slowly, with tenderness and care, across the land until they reached Indraprastha, the city of the Pandavas. There, among the women and children and elders who had crossed half of India carrying their grief, he installed Vajra, the surviving heir of the Vrishnis, as king. An era had ended on the shore at Prabhasa, and another, smaller and quieter, began in Indraprastha.\n\nThe sea never gave Dwaraka back. But the dwelling of the Lord stood in the water, and the seers said it would stand forever — because Keshava still abides there, even today, in the place where he pursued his sports. Whoever visits that holy shrine, they said, is freed from all his sins. The city was gone; the Lord's presence was not.",
+ "reflection": "The city that had been the joy of the world became, in a single day, a memory under water — all but the one dwelling that had housed the Lord himself. The Bhagavata and the Vishnu Purana agree on that stubborn detail: the sea could take everything else, but not the house where Krishna had lived. Some things the flood cannot reach.",
+ "tradition_note": "The Bhagavata says Vasudeva, Devaki and Rohini gave up their lives out of grief at being separated from Krishna and Balarama; the Vishnu Purana has them, with Ugrasena, enter the flames, and adds that Arjuna found the bodies of Krishna and Balarama and performed the rites for them. The telling above follows the Bhagavata as its primary source, keeping the Vishnu Purana's closing image of the dwelling the sea could not wash away.",
+ "content_note": "Deaths by fire and by grief, and the drowning of a city; described with restraint, but the episode may warrant parental awareness for younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Arjuna",
+  "Rukmini",
+  "Devaki",
+  "Rohini",
+  "Vasudeva",
+  "Vajra",
+  "Daruka"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Indraprastha"
+ ],
+ "themes": [
+  "grief",
+  "the flood",
+  "the end of an era",
+  "succession"
+ ],
+ "previous_story_id": "DKS_0532",
+ "next_story_id": "DKS_0534",
+ "next_story_tease": "Yet one farewell had happened before the flood, and it had still to be told: the last time Krishna himself walked through Dwaraka.",
+ "hero_scene": "The golden city of Dwaraka half-submerged as the calm sea floods over streets and palaces, the people fleeing along the shoreline with Arjuna among them, while the Lord's own dwelling stands untouched above the water.",
+ "visual_elements": [
+  "the sea rising calmly over Dwaraka's streets and palaces",
+  "Arjuna leading women, children and elders away",
+  "the Lord's dwelling standing above the flood",
+  "the golden city half under water",
+  "a mood of grief and awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.31.14-24",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.38",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.7",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:19:20Z",
+  "source_event_id": "evt_0373"
+ },
+ "editorial_status": "unreviewed"
+}

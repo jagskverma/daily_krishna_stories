@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0036",
+ "title": "The Two Devotees Are Liberated from the Trees",
+ "subtitle": null,
+ "story": "The crash of the falling trees was still rolling across the fields of Gokula when the cowherds came running. What they found stopped them where they stood: Krishna, the crawling boy they all knew, sat between two uprooted arjuna trees, a rope still tied about his waist to the great wooden mortar. He had dragged the heavy mortar between the twin trunks and, with one pull, torn the trees up by the roots.\n\nAnd then something rose out of the fallen trees, and the cowherds drew back.\n\nTwo figures climbed up from between the roots, and they were not men of any village. Light seemed to cling to them; they shone like fire just kindled, and the whole clearing brightened around them. They were Nalakuvara and Manigriva, the two sons of Kubera, the lord of wealth. A sage's curse had held them inside those trunks for years beyond counting, and now it was over at last.\n\nThe two beings walked to the child and bowed their heads to the ground before him, their palms joined, and they spoke to him — not as men speak to a small boy, but as servants to their Lord.\n\nThey spoke his name as they bowed — Krishna, Krishna. They called him the great yogi, the first and highest of all persons, the one who was there before all things. They called him the one Lord who dwells within every living body, the self of every self, the great and subtle source of all that exists — whom nothing of this world, none of its changing qualities, can ever grasp or hold. To that Vasudeva, the maker of all, they offered their obeisance: obeisance to the supreme goodness, obeisance to the supreme blessing.\n\nAnd then they asked for the one thing they had waited so long to ask. Let our voices always be given to singing of your deeds, they said. Let our ears always hear of you. Let our hands always work in your service, our minds rest at your feet, our heads bow before the worlds where you dwell, and our eyes look upon those who are devoted to you. Grant us leave, Lord — we are your servants, and we are yours.\n\nKrishna heard them, and his answer was simple. \"You are both mine,\" he told them, \"and your hearts are fixed on me. Go now to your own home.\"\n\nThey bowed once more, and then they went — the two radiant beings rising and passing away toward the north, free at last.\n\nThe cowherds stood in the clearing a long while, staring from the uprooted trees to the child who sat calm among the roots. They had heard the crash of the falling trees, and they had seen what came out of them. They could not explain any of it. But they understood enough to be afraid, and enough to know that the child in their midst was not simply a child.",
+ "reflection": "The liberation is quiet on Krishna's side and vast on theirs: they do not ask for riches or revenge, only that their senses be turned forever toward him — and that, once granted, is enough to set them free.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Nalakuvara",
+  "Manigriva",
+  "Krishna"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "liberation",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0035",
+ "next_story_id": "DKS_0037",
+ "next_story_tease": null,
+ "hero_scene": "Two radiant, fire-bright figures bow with joined palms before a small crawling Krishna beside two uprooted arjuna trees, light spilling from their forms across a stunned clearing of cowherds.",
+ "visual_elements": [
+  "two radiant beings bathed in light",
+  "Krishna as a crawling child with a rope at his waist",
+  "two uprooted arjuna trees",
+  "wondering cowherds at the clearing's edge",
+  "joined palms in reverence",
+  "mood of awe and release"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.10.27-43",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:21:53+05:30",
+  "source_event_id": "evt_0051",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

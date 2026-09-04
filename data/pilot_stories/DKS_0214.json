@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0214",
+ "title": "Krishna Wrestles Jambavan for the Jewel",
+ "subtitle": null,
+ "story": "Krishna had once asked Satrajit, a noble of Dwaraka, for the Syamantaka jewel, and Satrajit had refused him. Not long after, Satrajit's brother Prasena rode out hunting with the jewel at his throat and did not come back; a lion had killed him, and the lion had been killed in turn by a bear, which carried the jewel off into the mountains. Because Krishna had wanted the jewel and been denied, the city whispered that he had murdered Prasena for it.\n\nKrishna did not answer the whispers with denials. He went out to find the truth. He traced Prasena's trail into the forest and found the man and his horse, slain by the lion. But the trail did not end at the bodies. He read the broken branches and the marks of hooves and followed them on through the trees, where the light grew thin and the birds fell silent, until the ground opened into the mouth of a vast, dark cave — the den of Jambavan, king of the bears. Krishna entered it alone, and there in the dimness he saw the Syamantaka itself, the bright, priceless jewel, lying where it had been tossed aside as a plaything for a child.\n\nA nurse keeping watch over the cave saw this strange man standing in the bear king's den and cried out in fear. At the sound, Jambavan came charging from the dark and threw himself upon Krishna, and the two began to fight, each resolved to win.\n\nIt was no brief contest. For twenty-eight days they wrestled, fist against fist, night and day, without rest. The cave shook with it, and neither of them would yield. There was no audience and no reprieve, only the two of them and the thunder of their blows, while outside the world went about its business unaware. Krishna's fists fell like thunderbolts, and slowly the old bear's arms and legs grew heavy and battered beneath them, until Jambavan could barely stand.\n\nAnd in his exhaustion, Jambavan suddenly understood who stood before him. \"I know you,\" he said. \"You are the life and strength of every living thing — the Lord who was before the makers of this world were made. It was your anger that once churned the ocean. You built the causeway to Lanka and set the city ablaze, and the demon kings fell before your arrows. I knew you in an older age, and I know you now.\"\n\nThe fight was over. Krishna laid his hand gently on the bear king and said, \"We have come to this cave for the jewel, king of the bears.\" And Jambavan, his anger gone, rose and gave Krishna the Syamantaka, and with it his own daughter, the maiden Jambavati, to be his wife.\n\nSo Krishna came out of the dark cave into the light of day, the jewel glowing in his hands, and turned toward Dwaraka. The truth went before him, and no one in the city could ever again say that the jewel had been taken by his hand.",
+ "reflection": "The story turns on a strange resolution: the accusation Krishna refuses to answer with denials he answers by walking into the dark and finding the truth. The fight itself becomes a kind of recognition — only when Jambavan is spent does he see who has been wrestling with him, and an enemy yields at once a vindication and a wife.",
+ "tradition_note": "The duration of the wrestling differs between sources: the Bhagavata gives twenty-eight days, the Harivamsha twenty-one. This telling follows the Bhagavata.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Krishna",
+  "Jambavan",
+  "Jambavati",
+  "Prasena"
+ ],
+ "locations": [
+  "Jambavan's cave"
+ ],
+ "themes": [
+  "honor",
+  "combat",
+  "recognition"
+ ],
+ "previous_story_id": "DKS_0200",
+ "next_story_id": "DKS_0262",
+ "next_story_tease": null,
+ "hero_scene": "In the dim mouth of a cave, Krishna and the towering bear-king Jambavan are locked together in a wrestling hold, while the bright Syamantaka jewel lies glowing on the cave floor behind them.",
+ "visual_elements": [
+  "Krishna",
+  "Jambavan the bear-king",
+  "the Syamantaka jewel",
+  "a dark cave",
+  "wrestling figures",
+  "the jewel glowing on the cave floor",
+  "exhaustion and recognition"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.56.16-31",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:07:13Z",
+  "source_event_id": "evt_0202",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

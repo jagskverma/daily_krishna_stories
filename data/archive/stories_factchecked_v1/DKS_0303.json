@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0303",
+ "title": "The Duel in the Sky",
+ "subtitle": "Over the garden of the gods, Pradyumna, son of Rukmini, faces Jayanta, son of Indra.",
+ "story": "High over the pleasure garden of the gods, two young warriors faced each other in the open air — and between them, on the back of the great bird Garuda, rested an uprooted tree that neither side was willing to give up.\n\nThe morning had begun quietly enough. Krishna rode out of Dwaraka under the pretext of a hunt, with Satyaki beside him, and left his charioteer Daruka behind with orders to wait, tending and grooming the horses, until he returned on that very car. Pradyumna, his son by Rukmini, followed on a chariot of his own, one swift enough to course over hills. Within the twinkle of an eye they had crossed the distance to Nandana, the pleasure park of the gods — and there, before the eyes of the celestial guardians, Krishna uprooted the Parijata tree and laid it across Garuda's back.\n\nThe account pauses over a strange detail: the tree itself, embodied, approached Krishna and prayed to him, and he consoled it. \"Do not fear, O tree,\" he told it. But the keepers of the garden had already run to Indra, and the king of heaven came out at once on his white elephant Airavata, with his son Jayanta following on a chariot.\n\n\"What is this going on?\" Indra called to Krishna, who had by then reached the eastern gate.\n\nKrishna, seated on the back of Garuda, saluted the king of heaven with his head. \"I am only taking away this excellent tree,\" he said, \"for a ceremonious observance.\"\n\n\"You shall not take away this tree without challenging me to fight,\" said Indra. \"Strike the first blow on me — hurl your mace Kaumodaki at me.\"\n\nSo the two of them fought, there in the sky over the gods' own garden: Krishna piercing Airavata with sharp arrows fierce as thunder, Indra cutting down Garuda's feathers with heavenly shafts, each severing the other's arrows as fast as they flew. The twang of Indra's bow and the twang of the Sharanga, they say, were enough to make the inhabitants of heaven swoon.\n\nAnd in the middle of it all, Jayanta made his move. He tried to pull the Parijata tree from Garuda's back, and Krishna, catching sight of him, called out: \"Pradyumna — prevent him.\"\n\nInstantly the son of Rukmini opposed him, firm as a wall. Jayanta, foremost of victorious persons, smiled from his chariot and sent sharp arrows into every part of Pradyumna's body. And Pradyumna — the one the old accounts call the god of love reborn, lotus-eyed — answered from his own chariot with arrows that moved like serpents. A fierce combat raged between the two of them, the son of Indra and the son of Krishna, the foremost wielders of weapons of their generation, using every offensive and defensive weapon they knew. The gods, the sages, the Siddhas and the Charanas, the wandering singers of the sky, all beheld that combat, struck with wonder.\n\nThen came the moment the account lingers on. A weapon of heavenly make struck Pradyumna's chariot, and the whole car burned down to ashes before the eyes of heaven. But the fire could not touch the son of Rukmini. When the flames fell away, he was still standing — in the open sky where his chariot had been, unharmed, as if the air itself held him up.\n\nAbove them, the duel of the fathers went on, bowstring against bowstring. But heaven was no longer watching only Krishna and Indra. It was watching the two sons — and the one who had lost his chariot and still had not fallen. The chariot was ash; the warrior was not.",
+ "reflection": "The weapon that burned Pradyumna's chariot could not touch him, and the account lets the detail stand without explanation: the duel tested what he was, not what he rode. All of heaven — gods, sages, and the wandering singers of the sky — stopped to watch a son hold his ground in the battle his father had begun.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Jayanta",
+  "Krishna",
+  "Indra"
+ ],
+ "locations": [
+  "sky over Nandana"
+ ],
+ "themes": [
+  "duel",
+  "divine weapons",
+  "invulnerability"
+ ],
+ "previous_story_id": "DKS_0302",
+ "next_story_id": "DKS_0304",
+ "next_story_tease": null,
+ "hero_scene": "Pradyumna standing unharmed in the open sky over Nandana as his chariot burns to ashes beneath him, facing Jayanta on his own chariot, while below, Garuda carries the uprooted Parijata tree and the duel of Krishna and Indra rages on.",
+ "visual_elements": [
+  "Pradyumna standing in open sky, his chariot reduced to ashes beneath him",
+  "Jayanta on his chariot loosing arrows",
+  "Garuda carrying the uprooted Parijata tree",
+  "Krishna and Indra dueling with bows, Airavata below",
+  "gods, sages, Siddhas and Charanas watching from the clouds",
+  "duel and invulnerability"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.220",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:03Z",
+  "source_event_id": "evt_0298"
+ },
+ "editorial_status": "unreviewed"
+}

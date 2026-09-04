@@ -1,0 +1,49 @@
+# STORY DKS_0281 — Krishna Slays Paundraka and the King of Kashi
+
+## Index entry
+title: Krishna Slays Paundraka and the King of Kashi
+summary: Krishna marches to Kashi, beheads the impostor Paundraka with his discus, and casts the head of the Kashi king into his own city.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Paundraka, King of Kashi
+locations: Kashi
+themes: battle, imposture, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: Paundraka's false claim (bp10c_065) is a distinct beat. | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0232
+variant_notes: Both: impostor Paundraka beheaded, Kashi king's head cast/shot into his own city.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 66 | verses 9-24 | confidence 5
+  excerpt: Krishna, seeing Paundraka arrayed in counterfeit divine dress, laughed, then with sharp arrows and his discus cut off Paundraka's head and the Kashi king's head, casting the latter into the city of Kashi. (rendered from Sanskrit, verses 9-24)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 34 | verses  | confidence 4
+  excerpt: he let fly the discus and the mace, by which Pauńd́raka was cut to pieces, and cast on the ground... the valiant king of Káśí... continued the conflict, till Śauri decapitated him with his arrows, shooting his head into the city of Káśí.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.66 (9-24)
+9. iti dūtas tam ākṣepaṃ svāmine sarvam āharat /
+10. pauṇḍrako 'pi tad-udyogam upalabhya mahā-rathaḥ /
+11. tasya kāśī-patir mitraṃ pārṣṇi-grāho 'nvayān nṛpa /
+12. śaṅkhāry-asi-gadā-śārṅga- śrīvatsādy-upalakṣitam /
+13. kauśeya-vāsasī pīte vasānaṃ garuḍa-dhvajam /
+14. dṛṣṭvā tam ātmanas tulyaṃ veṣaṃ kṛtrimam āsthitam /
+15. śulair gadābhiḥ parighaiḥ śakty-ṛṣṭi-prāsa-tomaraiḥ /
+16. kṛṣṇas tu tat pauṇḍraka-kāśirājayor $ balaṃ gaja-syandana-vāji-patti-mat &amp;gadāsi-cakreṣubhir ārdayad bhṛśaṃ % yathā yugānte huta-bhuk pṛthak prajāḥ
+17. āyodhanaṃ tad ratha-vāji-kuñjara- dvipat-kharoṣṭrair ariṇāvakhaṇḍitaiḥ /
+18. athāha pauṇḍrakaṃ śaurir bho bho pauṇḍraka yad bhavān /
+19. tyājayiṣye 'bhidhānaṃ me yat tvayājña mṛṣā dhṛtam /
+20. iti kṣiptvā śitair bāṇair virathī-kṛtya pauṇḍrakam /
+21. tathā kāśī-pateḥ kāyāc chira utkṛtya patribhiḥ /
+22. evaṃ matsariṇam hatvā pauṇḍrakaṃ sa-sakhaṃ hariḥ /
+23. sa nityaṃ bhagavad-dhyāna- pradhvastākhila-bandhanaḥ /
+24. śiraḥ patitam ālokya rāja-dvāre sa-kuṇḍalam /
+
+### Vishnu Purana (Wilson 1840) 5.34 ()
+Pauńd́raka, a Vásudeva, assumes the insignia and style of Krishńa, supported by the king of Káśí. Krishńa marches against, and destroys them. The son of the king sends a magical being against Krishńa: destroyed by his discus, which also sets Benares on fire, and consumes it and its inhabitants.MAITREYA.--Of a truth the divine Śauri, having assumed a mortal body, performed great achievements in his easy victories over Śakra and Śiva, and all their attendant divinities. I am now desirous to hear from you, illustrious sage, what other mighty exploit the humiliator of the prowess of the celestials performed.PARÁŚARA.--Hear, excellent Brahman, with reverent attention, an account of the burning of Varáńasí by Krishńa, in the course of his relieving the burdens of the earth.There was a Vásudeva who was called Pauńd́raka, and who, though not the Vásudeva, was flattered by ignorant people as the descended deity, until he fancied himself to be the Vásudeva who had come down upon earth. Losing all recollection of his real character, he assumed the emblems of Vishńu, and sent an ambassador to the magnanimous Krishńa with this message; "Relinquish, thou foolish fellow, the discus; lay aside all my insignia, my name, and the character of Vásudeva; and come and do me homage; and I will vouchsafe thee means of subsistence." At which Janárddana laughed, and replied, "Go, messenger, back to Pauńd́raka, and say to him from me, 'I will dispatch to thee my emblem the discus without fail. Thou wilt rightly apprehend my meaning, and consider what is to be done; for I shall come to thy city, bringing the discus with me, and shall undoubtedly consign it to thee. If thou wilt command me to come, I will immediately obey, and be with thee to-morrow; there shall be no delay: and, having sought thy asylum, I will so provide, O king, that I shall never more have any thing to dread from thee.'" So saying, he dismissed the, ambassador to report these words to his sovereign; and summoning Garud́a, mounted him, and set off for the city of Pauńd́raka.When the king of Káśí heard of the preparations of Keśava, he sent his army (to the aid of Pauńd́raka), himself bringing up the rear; and with the force of the king of Káśí, and his own troops, Pauńd́raka, the false Vásudeva, marched to meet Krishńa. Hari beheld him afar off, standing in his car, holding a discus, a club, a mace, a scimitar, and a lotus, in his hands; ornamented with a garland of flowers; bearing a bow; and having his standard made of gold: he had also the Srivatsa mark delineated on his breast; he was dressed in yellow garmen
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0277 | next_story_id: DKS_0289
+previous title: Krishna Liberates King Nriga from a Lizard's Body || The Yadu princes find a giant lizard in a well; Krishna pulls it out with his left hand, and it becomes the radiant King Nriga.
+next title: Krishna Eats Sudama's Flat Rice || Krishna asks for the gift and eats Sudama's handful of flat rice with delight, and Sudama, too ashamed to ask for anything, returns home empty-handed.

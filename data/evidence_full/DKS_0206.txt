@@ -1,0 +1,58 @@
+# STORY DKS_0206 — Krishna Consoles Rukmini || Krishna lifts Rukmini, reveals his jest, praises her devotion, and the two are reconciled in love.
+
+## Index entry
+title: Krishna Consoles Rukmini || Krishna lifts Rukmini, reveals his jest, praises her devotion, and the two are reconciled in love.
+summary: Krishna lifts Rukmini, reveals his jest, praises her devotion, and the two are reconciled in love.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Rukmini
+locations: Dvaraka
+themes: reconciliation, devotion, love
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0249
+variant_notes: BP-only; paired with jest beat (bp10c_048).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 60 | verses 28-58 | confidence 5
+  excerpt: Krishna, seeing her distress, raised her, wiped her tears and said 'I spoke in jest to hear your words'; Rukmini answered with loving devotion, and Krishna praised her faithfulness, and they enjoyed each other's company. (rendered from Sanskrit, verses 28-58)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.60 (28-58)
+28. bhp_10.60.029/0 śrī-bhagavān uvāca
+29. mukhaṃ ca prema-saṃrambha- sphuritādharam īkṣitum /
+30. ayaṃ hi paramo lābho gṛheṣu gṛha-medhinām /
+31. bhp_10.60.032/0 śrī-śuka uvāca
+32. babhāṣa ṛṣabhaṃ puṃsāṃ vīkṣantī bhagavan-mukham /
+33. bhp_10.60.034/0 śrī-rukmiṇy uvāca
+34. satyaṃ bhayād iva guṇebhya urukramāntaḥ $ śete samudra upalambhana-mātra ātmā &amp;nityaṃ kad-indriya-gaṇaiḥ kṛta-vigrahas tvaṃ % tvat-sevakair nṛpa-padaṃ vidhutaṃ tamo 'ndham
+35. tvat-pāda-padma-makaranda-juṣāṃ munīnāṃ $ vartmāsphuṭaṃ nr-paśubhir nanu durvibhāvyam &tvat-pāda-padma-makaranda-juṣāṃ munīnāṃ $ vartmāsphuṭaṃ nr-paśubhir nanu durvibhāvyam &yasmād alaukikam ivehitam īśvarasya % bhūmaṃs tavehitam atho anu ye bhavantam
+36. niṣkiñcano nanu bhavān na yato 'sti kiñcid $ yasmai baliṃ bali-bhujo 'pi haranty ajādyāḥ &niṣkiñcano nanu bhavān na yato 'sti kiñcid $ yasmai baliṃ bali-bhujo 'pi haranty ajādyāḥ &na tvā vidanty asu-tṛpo 'ntakam āḍhyatāndhāḥ % preṣṭho bhavān bali-bhujām api te 'pi tubhyam
+37. tvaṃ vai samasta-puruṣārtha-mayaḥ phalātmā $ yad-vāñchayā su-matayo visṛjanti kṛtsnam &tvaṃ vai samasta-puruṣārtha-mayaḥ phalātmā $ yad-vāñchayā su-matayo visṛjanti kṛtsnam &teṣāṃ vibho samucito bhavataḥ samājaḥ % puṃsaḥ striyāś ca ratayoḥ sukha-duḥkhinor na
+38. tvaṃ nyasta-daṇḍa-munibhir gaditānubhāva $ ātmātma-daś ca jagatām iti me vṛto 'si &tvaṃ nyasta-daṇḍa-munibhir gaditānubhāva $ ātmātma-daś ca jagatām iti me vṛto 'si &hitvā bhavad-bhruva udīrita-kāla-vega- % dhvastāśiṣo 'bja-bhava-nāka-patīn kuto 'nye
+39. jāḍyaṃ vacas tava gadāgraja yas tu bhūpān $ vidrāvya śārṅga-ninadena jahartha māṃ tvam &jāḍyaṃ vacas tava gadāgraja yas tu bhūpān $ vidrāvya śārṅga-ninadena jahartha māṃ tvam &siṃho yathā sva-balim īśa paśūn sva-bhāgaṃ % tebhyo bhayād yad udadhiṃ śaraṇaṃ prapannaḥ
+40. yad-vāñchayā nṛpa-śikhāmaṇayo 'nga-vainya- $ jāyanta-nāhuṣa-gayādaya aikya-patyam &yad-vāñchayā nṛpa-śikhāmaṇayo 'nga-vainya- $ jāyanta-nāhuṣa-gayādaya aikya-patyam &rājyaṃ visṛjya viviśur vanam ambujākṣa % sīdanti te 'nupadavīṃ ta ihāsthitāḥ kim
+41. kānyaṃ śrayeta tava pāda-saroja-gandham $ āghrāya san-mukharitaṃ janatāpavargam &kānyaṃ śrayeta tava pāda-saroja-gandham $ āghrāya san-mukharitaṃ janatāpavargam &lakṣmy-ālayaṃ tv avigaṇayya guṇālayasya % martyā sadoru-bhayam artha-viviita-dṛṣṭiḥ
+42. taṃ tvānurūpam abhajaṃ jagatām adhīśam $ ātmānam atra ca paratra ca kāma-pūram &taṃ tvānurūpam abhajaṃ jagatām adhīśam $ ātmānam atra ca paratra ca kāma-pūram &syān me tavāṅghrir araṇaṃ sṛtibhir bhramantyā % yo vai bhajantam upayāty anṛtāpavargaḥ
+43. tasyāḥ syur acyuta nṛpā bhavatopadiṣṭāḥ $ strīṇāṃ gṛheṣu khara-go-śva-viḍāla-bhṛtyāḥ &tasyāḥ syur acyuta nṛpā bhavatopadiṣṭāḥ $ strīṇāṃ gṛheṣu khara-go-śva-viḍāla-bhṛtyāḥ &yat-karṇa-mūlam an-karṣaṇa nopayāyād % yuṣmat-kathā mṛḍa-viriñca-sabhāsu gītā
+44. tvak-śmaśru-roma-nakha-keśa-pinaddham antar $ māṃsāsthi-rakta-kṛmi-viṭ-kapha-pitta-vātam &tvak-śmaśru-roma-nakha-keśa-pinaddham antar $ māṃsāsthi-rakta-kṛmi-viṭ-kapha-pitta-vātam &jīvac-chavaṃ bhajati kānta-matir vimūḍhā % yā te padābja-makarandam ajighratī strī
+45. astv ambujākṣa mama te caraṇānurāga $ ātman ratasya mayi cānatirikta-dṛṣṭeḥ &astv ambujākṣa mama te caraṇānurāga $ ātman ratasya mayi cānatirikta-dṛṣṭeḥ &yarhy asya vṛddhaya upātta-rajo-'ti-mātro % mām īkṣase tad u ha naḥ paramānukampā
+46. naivālīkam ahaṃ manye vacas te madhusūdana /
+47. vyūḍhāyāś cāpi puṃścalyā mano 'bhyeti navaṃ navam /
+48. bhp_10.60.049/0 śrī-bhagavān uvāca
+49. yān yān kāmayase kāmān mayy akāmāya bhāmini /
+50. upalabdhaṃ pati-prema pāti-vratyaṃ ca te 'naghe /
+51. ye māṃ bhajanti dāmpatye tapasā vrata-caryayā /
+52. māṃ prāpya māniny apavarga-sampadaṃ $ vāñchanti ye sampada eva tat-patim &amp;te manda-bhāgā niraye 'pi ye nṛṇāṃ % mātrātmakatvāt nirayaḥ su-saṅgamaḥ
+53. diṣṭyā gṛheśvary asakṛn mayi tvayā kṛtānuvṛttir bhava-mocanī khalaiḥ /
+54. na tvādṛśīm praṇayinīṃ gṛhiṇīṃ gṛheṣu $ paśyāmi mānini yayā sva-vivāha-kāle &amp;prāptān nṛpān na vigaṇayya raho-haro me % prasthāpito dvija upaśruta-sat-kathasya
+55. bhrātur virūpa-karaṇaṃ yudhi nirjitasya $ prodvāha-parvaṇi ca tad-vadham akṣa-goṣṭhyām &bhrātur virūpa-karaṇaṃ yudhi nirjitasya $ prodvāha-parvaṇi ca tad-vadham akṣa-goṣṭhyām &duḥkhaṃ samuttham asaho 'smad-ayoga-bhītyā % naivābravīḥ kim api tena vayaṃ jitās te
+56. dūtas tvayātma-labhane su-vivikta-mantraḥ $ prasthāpito mayi cirāyati śūnyam etat &dūtas tvayātma-labhane su-vivikta-mantraḥ $ prasthāpito mayi cirāyati śūnyam etat &matvā jihāsa idaṃ aṅgam ananya-yogyaṃ % tiṣṭheta tat tvayi vayaṃ pratinandayāmaḥ
+57. bhp_10.60.058/0 śrī-śuka uvāca
+58. tathānyāsām api vibhur gṛhesu gṛhavān iva /
+
+## Corpus chain
+previous_story_id: DKS_0205 | next_story_id: DKS_0207
+previous title: Krishna Jests with Rukmini || Krishna playfully tells Rukmini she chose a poor, unworthy husband; she faints in grief, thinking he means to abandon her.
+next title: Balarama Slays Rukmi at the Dice Game

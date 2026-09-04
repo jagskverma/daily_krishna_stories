@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0081",
+ "title": "Nanda Explains the Indra Worship",
+ "subtitle": null,
+ "story": "Earlier that day, Krishna had asked the elders of Vrindavan what the great sacrifice was for, whom it belonged to, and why it was done at all. Now Nanda looked at his son and answered him simply, because the answer was simple — and it had been true for as long as anyone in the village could remember. Around them the work of the ceremony still went on: the fires laid, the offerings being made ready.\n\n\"Indra is the lord of the clouds,\" he said, and he spoke the god's name with the ease of a man who had never had cause to doubt it. Indra, he told the boy, was the king of the gods and the giver of rain. The clouds that gathered over the land went where he sent them, and the rain that fell from them was what kept every living thing alive. Grass drank it and grew; the cows grazed on the grass and gave their milk; and where the rain failed, there was no grass and no milk and nothing for anyone.\n\nSo the cowherds worshipped him, Nanda said. He and all the other men of the world took the things that Indra's rain had ripened — the grain, the milk, the fruit of the season — and offered them back to him in the sacrifice. It was not a gift from their own store, as if they had something the god lacked. It was a returning of what his showers had produced, an acknowledgment that everything in the bowl and on the plate came down, in the end, from the sky. And on what remained after the offering, he said, the people lived — fed by it, and glad, and seeking the good things a life is meant to hold.\n\nThis was no small or casual thing, he went on. It was dharma — the duty handed down from the fathers, and from their fathers before them, passed from one generation to the next without a break. A man might abandon it, of course, out of desire, or hatred, or fear, or simple greed. But the one who set aside this inherited duty, for whatever reason, did not come to anything good. The sacrifice was not a matter of taste; it was the way the village had always ordered its life, and the way it survived.\n\nNanda did not preach. He simply explained, the way an elder explains to a child why the fields are sown in one season and the herds brought home in another. It was an answer as old as the rains themselves, and he gave it without pride, because it had never occurred to him that there could be any other answer.\n\nAnd having given it, he waited to see what the boy would make of it.",
+ "reflection": "Nanda's answer is not wrong; it is only inherited. He explains the sacrifice the way a farmer explains the seasons, as something settled and given, and that very settledness is the confidence Krishna is about to disturb.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Nanda",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "tradition",
+  "rain",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0080",
+ "next_story_id": "DKS_0082",
+ "next_story_tease": "But the boy had an answer of his own, and it would point the village's worship somewhere Nanda had not expected.",
+ "hero_scene": "Nanda, an elder cowherd, speaking gently to the boy Krishna and gesturing toward the rain clouds as he explains that Indra, lord of the clouds, nourishes all beings with his showers.",
+ "visual_elements": [
+  "Nanda explaining with open hands",
+  "young Krishna listening",
+  "rain clouds over the fields",
+  "cattle grazing on pasture",
+  "milk and grain offerings",
+  "Vrindavan",
+  "warmth and patience"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.24.7-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:06:08Z",
+  "source_event_id": "evt_0092",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

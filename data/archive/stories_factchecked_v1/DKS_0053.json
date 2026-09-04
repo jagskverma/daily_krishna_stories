@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0053",
+ "title": "The Fruit No One Had Ever Eaten",
+ "subtitle": null,
+ "story": "The cowherd boys had been out since morning, moving with their herds through the woods around Vrindavan, and the afternoon had settled into the slow, warm rhythm they knew well — the calves grazing, the boys at their games in the shade, the sun high and steady. It was an ordinary day, and it would have stayed an ordinary day, but for the wind. When it turned, it carried a scent they knew at once, and it stopped them in the middle of their play. The calves went on grazing, but the boys stood still, lifting their heads like animals catching a trail. Sweet, heavy, faint as a half-remembered dream, the smell drifted from the edge of the forest, from a place they all knew and none of them entered.\n\nA little way off stood the palm grove, the talavana. In every season its trees let fall fruit so ripe and fragrant that the smell of it perfumed the air for a long way around. The verses say the fruit kept falling, and lay fallen, in such abundance that no one could have gathered it all — it never stopped coming. Yet it lay where it fell, season after season, untouched. The ground beneath the palms was littered with it, soft and over-ripe, and no hand had ever gathered a single piece. No one in Vrindavan had ever tasted it.\n\nThe reason was not hard to find. The grove belonged to a demon named Dhenuka, who had taken the form of a donkey, and his kin were there with him, as fierce as he was. He was immensely strong, and he had made men his food, and so people were afraid of him and kept their distance. Even the grown men, who grazed their herds across every other corner of the forest, gave that grove a wide berth, and no one would walk past it alone. The fruit ripened and dropped and rotted on the ground, and the boys looked at it only from far off, while the fragrance drifted over them and tormented them.\n\nThat day the torment grew too much to bear. The smell came again, sweet and insistent, and the boys could not turn away from it. They came to Krishna and Balarama and spoke all at once, their words tumbling over one another. \"Rama! Rama, mighty-armed! Krishna, destroyer of the wicked!\" they cried. They told them of the grove, of the fruit that fell and fell and was never eaten, and of the fierce donkey who guarded it and had made men his food. Their minds, the verses say, were greedy with the fragrance. \"Give us that fruit,\" they begged.\n\nKrishna heard his friends out, and heard the longing in their voices. He did not need to be persuaded, and he did not stop to weigh the danger. What the verses say of him is simple: hearing his friends' words, he wished only to do what would please them. So the two brothers set out for the palm grove, the boys following close behind, and the sweet smell of the forbidden fruit growing stronger with every step they took toward it.\n",
+ "reflection": "The boys do not try to take the fruit themselves; they know exactly where strength and protection lie, and they ask for what they want with a trust so complete it is almost childlike. The fragrance stands in for every desire that is lovely and safe-looking but guarded by something no one has dared to face.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "Dhenuka"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "desire",
+  "obstacle"
+ ],
+ "previous_story_id": "DKS_0052",
+ "next_story_id": "DKS_0054",
+ "next_story_tease": "But the guardian of the grove would not give up its fruit so easily.",
+ "hero_scene": "The cowherd boys clustered around Krishna and Balarama at the edge of the palm grove, pointing toward palms heavy with ripe fruit, the sweet fragrance hanging in the warm air as the brothers set out toward the forbidden trees.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "palm grove heavy with ripe fruit",
+  "fallen fruit scattered on the ground",
+  "Dhenuka the donkey-demon unseen at the grove's heart",
+  "warm afternoon",
+  "longing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.15.20-26",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:15Z",
+  "source_event_id": "evt_0065"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

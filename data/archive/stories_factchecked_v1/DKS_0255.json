@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0255",
+ "title": "Shiva Intercedes; Vana Dances for Boons",
+ "subtitle": null,
+ "story": "The last of Vana's thousand arms had fallen on the field of Sonitpura, and the king of the Daityas stood with only two hands left to him — weaponless, breathless, waiting for the stroke that would end him. Krishna's discus was still circling in the air, bright as a second sun over the ruined field, and every soldier on that field knew what came next. The Yadavas were ready to see the war finished. The Danavas had already turned away. It was then that Shiva spoke.\n\n\"I have promised this king my protection,\" said the great god, coming forward through the dust and the smoke, Nandi the bull at his side. \"Long ago I gave Vana my word that I would shield him. He has worshipped me, and I have not forgotten it, and I will not see my promise broken. Desist, Krishna. Let him live.\"\n\nKrishna looked at the god who had watched the whole war from the heights. The vow he had sworn to Kottavi was already fulfilled — the thousand arms were gone, and only two remained. The life itself was another matter, and a word from Shiva was not a small thing. \"I withdraw my discus,\" he said. \"At your request, Vana will live.\"\n\nThe discus returned to his hand, and the light of it went out of the air. A murmur ran through both armies — wonder from the Yadavas, and from the Danavas a hope they had not dared to feel. Vana stood where his chariot had been shattered, looking at his two empty hands as if he had never seen them before. He had entered this battle with a thousand weapons and the arrogance of a king who thought himself beyond defeat. He was leaving it with nothing but his life, and even that was a gift.\n\nThen Nandi, Shiva's great bull, came close to him. \"Dance,\" Nandi said. \"Dance before the lord.\"\n\nAnd the two-armed king of Sonitpura danced. He danced on the field where he had fought, turning slowly at first, then with a strange gathering grace, his body moving through gestures his hands could no longer make, as if the dance remembered the thousand arms that had once made it. There was nothing comic in it. The armies watched in silence; the gods watching from above grew still; and Shiva watched, and was pleased.\n\n\"I am pleased with you, Vana,\" said the great god. \"Ask a boon of me.\"\n\nWhat Vana asked, the sources do not set down in full — only that the god who had saved his life was pleased, and granted what was asked, and that the king who had entered the battle with a thousand arms left it as Mahakala, chief of the Pramathas, the chosen attendant of Shiva himself. He had come to the field as an enemy of the Yadavas, and he went from it in the company of Rudra, bound not to a throne but to the service of the god. Where he had once measured his power in arms and weapons, he now measured it in the favour of the one who had spared him.\n\nBehind him, the war for Sonitpura was over, and the field fell quiet in the strange calm that follows an ending. The two armies slowly gathered their dead and their wounded, and the dust settled on the thousand arms that lay like a felled forest between them. Of the king who had raised them, nothing was left but a dancer, and a devotee, and a name that would be spoken with respect in the courts of heaven.",
+ "reflection": "The armless king dancing before Shiva is the heart of the episode: stripped of everything he had fought with, Vana finds favour in the one thing left to him, devotion. What the battlefield could never give him — a place of honour — the dance does.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Shiva",
+  "Krishna",
+  "Vana",
+  "Nandi"
+ ],
+ "locations": [
+  "Sonitpura battlefield"
+ ],
+ "themes": [
+  "intercession",
+  "mercy",
+  "dance of devotion"
+ ],
+ "previous_story_id": "DKS_0254",
+ "next_story_id": "DKS_0256",
+ "next_story_tease": "But the day's work was not done: Vana's celestial cows still grazed in Varuna's keeping, and Krishna meant to have them.",
+ "hero_scene": "The two-armed Vana dancing before Shiva on the battlefield, his body mid-gesture, Shiva watching with pleasure beside Nandi the bull, while Krishna's discus rests in his hand and the armies look on in silence.",
+ "visual_elements": [
+  "Vana dancing on the battlefield",
+  "Shiva watching, pleased",
+  "Nandi the bull beside Shiva",
+  "Krishna with withdrawn discus",
+  "the silent armies of Yadavas and Daityas",
+  "dust and smoke of the ended battle"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.275",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:30Z",
+  "source_event_id": "evt_0357"
+ },
+ "editorial_status": "unreviewed"
+}

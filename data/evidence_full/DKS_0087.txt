@@ -1,0 +1,34 @@
+# STORY DKS_0087 — Krishna Restores the Hill and the Cowherds Rejoice
+
+## Index entry
+title: Krishna Restores the Hill and the Cowherds Rejoice
+summary: Krishna sets the hill back in place; Nanda, Yashoda and Balarama embrace him and the gods rain flowers.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Krishna, Nanda, Yashoda, Balarama
+locations: Govardhana, Vrindavan
+themes: joy, restoration
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0099
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 25 | verses 26-32 | confidence 5
+  excerpt: When the storm ceased the cowherds came out with their goods, and Krishna set the hill back in its place as before; Nanda, Yashoda, Rohini and Balarama embraced him, the gods rained flowers, and the gopis sang of his deeds. (rendered from Sanskrit, verses 26-32)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.25 (26-32)
+26. tatas te niryayur gopāḥ svaṃ svam ādāya go-dhanam /
+27. bhagavān api taṃ śailaṃ sva-sthāne pūrva-vat prabhuḥ /
+28. taṃ prema-vegān nirbhṛtā vrajaukaso $ yathā samīyuḥ parirambhaṇādibhiḥ &amp;gopyaś ca sa-sneham apūjayan mudā % dadhy-akṣatādbhir yuyujuḥ sad-āśiṣaḥ
+29. yaśodā rohiṇī nando rāmaś ca balināṃ varaḥ /
+30. divi deva-gaṇāḥ siddhāḥ sādhyā gandharva-cāraṇāḥ /
+31. śaṅkha-dundubhayo nedur divi deva-pracoditāḥ /
+32. tato 'nuraktaiḥ paśupaiḥ pariśrito rājan sva-goṣṭhaṃ sa-balo 'vrajad dhariḥ /
+
+## Corpus chain
+previous_story_id: DKS_0086 | next_story_id: DKS_0088
+previous title: Seven Days Beneath Govardhana
+next title: Indra Surrenders and Begs Forgiveness

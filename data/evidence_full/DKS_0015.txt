@@ -1,0 +1,35 @@
+# STORY DKS_0015 — Kamsa Comes to Slay the Newborn Girl
+
+## Index entry
+title: Kamsa Comes to Slay the Newborn Girl
+summary: Awakened by the guards, Kamsa rushes to the prison and snatches the newborn girl from Devaki, who pleads for her life.
+life_stage: birth | story_arc: birth_of_krishna
+characters: Kamsa, Devaki
+locations: Mathura
+themes: cruelty, mother's_plea
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0029
+variant_notes: See also 'yogamaya_warn' (the dashing that follows).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 4 | verses 1-6 | confidence 5
+  excerpt: Hearing of the birth, Kamsa hastens to the lying-in room; the grieving Devaki begs him to spare the infant girl, but he tears the child from her hands. (rendered from Sanskrit, verse 1-6)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.4 (1-6)
+1. te tu tūrṇam upavrajya devakyā garbha-janma tat /
+2. sa talpāt tūrṇam utthāya kālo 'yam iti vihvalaḥ /
+3. tam āha bhrātaraṃ devī kṛpaṇā karuṇaṃ satī /
+4. bahavo hiṃsitā bhrātaḥ śiśavaḥ pāvakopamāḥ /
+5. nanv ahaṃ te hy avarajā dīnā hata-sutā prabho /
+6. bhp_10.04.007/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0017 | next_story_id: DKS_0019
+previous title: Nanda Brings the Infants Home to Gokula
+next title: Vasudeva Exchanges Krishna for Yashoda's Daughter
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

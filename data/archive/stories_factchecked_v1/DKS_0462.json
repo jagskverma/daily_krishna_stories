@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0462",
+ "title": "The Offer to Karna",
+ "subtitle": null,
+ "story": "Of all the men on that field, the one Krishna sought out was the one who could still change the war.\n\nThe Gita had been spoken and Arjuna's doubts had fallen away. When the son of Pandu took up his arrows and Gandiva once more, the mighty car-warriors of the Pandava host raised a tremendous shout. The Pandavas and the Somakas blew their sea-born conches, drums and cow-horns sounded together, and the uproar was very loud. The gods themselves came to watch, with the Gandharvas and the Pitris, the hosts of Siddhas and Charanas, and the blessed Rishis in a body with Indra of the hundred sacrifices at their head, all gathered to witness the great slaughter that was to come.\n\nThen, before the armies met, the king of the Pandavas did a strange thing. Yudhishthira the Just put off his coat of mail, cast aside his weapon, descended from his car, and walked on foot, with joined hands and restrained speech, toward the hostile host, facing east. His brothers followed him, alarmed. What is this act of yours, Arjuna called after him, that you abandon your brothers and walk on foot toward the foe? Where will you go without your armor, Bhima demanded, leaving your brothers behind? Nakula and Sahadeva too pleaded with him. But Yudhishthira said nothing and kept walking.\n\nKrishna smiled and explained what the others could not see. His object is known to me, he said. He has gone to pay his respects to his elders, Bhishma and Drona and Kripa and Shalya. It is heard in the histories of old that he who honors his preceptors and his revered kinsmen before battle is sure to obtain victory.\n\nAmong the Kaurava ranks a loud uproar rose. The warriors of Dhritarashtra's son jeered and waved their garments, calling Yudhishthira an infamous wretch of his race, a king come in terror to seek Bhishma's shelter, and they censured him and his brothers and Kesava alike. Yudhishthira walked through the shower of insults as though through rain, penetrated the array bristling with arrows, and stood before the grandsire. Seizing Bhishma's feet with both hands, he said, I salute you, O invincible one. With you we will do battle. Grant us your permission, and give us your blessing.\n\nBhishma's answer silenced the jeering ranks. If you had not come to me thus, he said, I would have cursed you for bringing about your own defeat. I am gratified with you, my son. Do battle, and obtain victory. Ask also whatever boon you desire.\n\nAnd then, when that courtesy was done, Krishna went to Radha's son on the field of battle. For the sake of the Pandavas he said to Karna, I have heard it said, O Karna, that out of hatred of Bhishma you will not fight. Come to our side, son of Radha, and stay with us as long as Bhishma is not slain.\n\nIt was a strange offer, made in the open field between two armies: the finest warrior of the enemy, invited across, and spared the one fight that burned in him. Karna heard it to the end. Then he gave his answer, and there was no hesitation in it. I will not do anything that is disagreeable to Dhritarashtra's son, he said. However the war goes, whatever Bhishma thinks of me, Duryodhana is my friend and my king, and I will not be disloyal to him.\n\nKrishna had come for the sake of the Pandavas, and he returned to them with the answer he had carried out with him: some loyalties are not bought, even with justice, even with the throne. The offer was made, and refused, and the war would be fought with Karna on the side he had chosen. The conches had sounded, the gods had gathered, and there was nothing left to do but begin.",
+ "reflection": "Krishna's offer to Karna is war strategy in its purest form, but Karna's refusal is something rarer: a loyalty that no grievance could bend. He knows Bhishma despises him and that the Pandava cause is just, and still he will not do anything disagreeable to the man who stood by him when no one else would. Some bonds are chosen before they are reasoned about, and Karna honors his to the end.",
+ "tradition_note": "This is the second offer Krishna makes to Karna; an earlier and fuller offer before the war is told elsewhere in the Mahabharata, when Karna's reasons for refusing are given at greater length.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Karna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "loyalty",
+  "war strategy",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0461",
+ "next_story_id": "DKS_0463",
+ "next_story_tease": "The war began, and by evening Bhishma's arrows would bring Yudhishthira to the edge of despair.",
+ "hero_scene": "On the open field between the two armies, Krishna stands before Karna making his offer with an open hand, while Karna, tall and unbending in his armor, refuses with folded arms as the conches of both armies sound in the distance.",
+ "visual_elements": [
+  "Krishna and Karna facing each other between the two armies",
+  "Karna in full armor, refusing with quiet firmness",
+  "the two hosts drawn up in the background, banners and conches",
+  "Yudhishthira bowing at Bhishma's feet in the earlier scene",
+  "the jeering Kaurava ranks waving their garments"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.43",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:10Z",
+  "source_event_id": "evt_0459"
+ },
+ "editorial_status": "unreviewed"
+}

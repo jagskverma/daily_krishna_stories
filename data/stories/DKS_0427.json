@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0427",
+ "title": "Krishna's Plea Before the Assembly",
+ "subtitle": null,
+ "story": "The last of the kings had taken his seat, and silence settled over the great hall of the Kurus at Hastinapura. Into that silence Krishna rose to speak. He had come as an envoy of peace from the five Pandavas — his cousins, and the nephews of the blind king Dhritarashtra — to settle the quarrel between the two branches of one family before it became a war. Every king in the hall leaned forward to hear him.\n\nThough he spoke to Dhritarashtra, he meant the whole assembly to hear. \"I have come so that peace may be established between the Kurus and the Pandavas, without the slaughter of heroes,\" Krishna said. \"I have no other words to offer, O king. Everything worth knowing in this world, you already know.\"\n\nThen he reminded the blind king what his family was supposed to be. The Kuru line, he said, had long stood first among royal houses for its learning and its conduct: joy in another's happiness, grief at another's misery, eagerness to relieve distress, harm done to none, sincerity, forgiveness, truth — these had always prevailed among the Kurus. \"What a pity it would be if anyone of such a race did wrong,\" Krishna said, \"and a greater pity still if that man were you. You should be the first to restrain the Kurus when they deal deceitfully with strangers, or with their own kin.\"\n\nThen he came to the point, and the hall heard the name it had been waiting for. \"Your wicked sons, led by Duryodhana, have cast off virtue and profit, set aside all morality, and, maddened by greed, are doing their worst to their own nearest kin,\" he said. \"The danger that threatens everyone has its origin in the conduct of the Kurus. If you grow indifferent to it, it will end in a slaughter that touches all. But if you are willing, you may still allay it — peace is not hard to reach.\"\n\nPeace, Krishna said, rested on two men alone: the king, and himself. \"Set your sons right, O king, and I will set the Pandavas right,\" he said. \"Whatever you command, your sons and their followers should obey. If they live in obedience to you, that is the best they can do. Let the sons of Pandu be your allies. Protected by them, Indra himself, at the head of the gods of heaven, could not vanquish you — how then could any earthly king withstand you?\"\n\nThen he drew the king a picture of a world that need not burn. He named the warriors who would face each other across a battlefield — on one side Bhishma, Drona, Kripa, Karna, Ashwatthama, Vikarna, Somadatta, Vahlika, the chief of the Sindhus, the king of the Kalingas, and Sudakshina of the Kamvojas; on the other, Yudhishthira, Bhimasena, Arjuna, the twins Nakula and Sahadeva, Satyaki, and Yuyutsu. What man of sound mind, Krishna asked, would choose to fight such a host? But make both houses your own, he said, and the sovereignty of the world would be yours, with every ruler on earth seeking your alliance. Protected by sons, grandsons, fathers, brothers, and friends, the king would live out his days in happiness.\n\n\"In battle, great king, nothing is to be seen but destruction,\" Krishna said. \"If the Pandavas are slaughtered, or if your own mighty sons fall, tell me what happiness will be left to you. All of them are brave and skilled in arms, and all of them long for battle. Save them from the danger that threatens them. When the war is over, you will not behold all the Kurus, nor all the Pandavas. You will see the heroes of both sides thinned and weakened, warriors struck down by warriors, until the kings gathered here, hot with wrath, have destroyed one another.\"\n\nWhen Krishna finished, the hall was stiller than it had been at his first word. He had laid before the blind king the whole arithmetic of war — every warrior counted, every alliance weighed, every happiness that might survive the slaughter set against the one that would not. The choice, plainly, was Dhritarashtra's to make.",
+ "reflection": "Krishna's plea is built on a single repeated question: in the ruin of both houses, what happiness would remain to the king? He offers Dhritarashtra sovereignty won by alliance instead of battle, and leaves the choice entirely in his hands — the peace mission succeeds or fails on whether the blind king can see what has been put before him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Dhritarashtra",
+  "Duryodhana",
+  "Yudhishthira",
+  "Arjuna",
+  "Bhimasena",
+  "Nakula",
+  "Sahadeva",
+  "Bhishma",
+  "Drona",
+  "Karna"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "peace",
+  "justice",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0426",
+ "next_story_id": "DKS_0428",
+ "next_story_tease": "Into that silence, the sage Parashurama rose to tell the assembly a story from the age of the world.",
+ "hero_scene": "In the great Kuru assembly at Hastinapura, Krishna stands and addresses the blind king Dhritarashtra, his voice carrying to every corner of the hall, while the assembled kings of the earth sit motionless in perfect silence, the last light of evening falling across the court.",
+ "visual_elements": [
+  "Krishna standing in the center of the Kuru assembly, speaking",
+  "Dhritarashtra seated in the midst of the Kurus, listening",
+  "the assembled kings of the earth seated in silence",
+  "Bhishma, Drona, and the Kuru elders among the listeners",
+  "the grave, hushed atmosphere of the court as Krishna finishes"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.095",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0434",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

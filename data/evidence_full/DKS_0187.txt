@@ -1,0 +1,109 @@
+# STORY DKS_0187 — Krishna Enriches Dwaraka || Krishna bids the treasure-guard Sankha shower wealth on every household and sends Vayu to fetch the celestial assembly-hall Sudharma from heaven.
+
+## Index entry
+title: Krishna Enriches Dwaraka || Krishna bids the treasure-guard Sankha shower wealth on every household and sends Vayu to fetch the celestial assembly-hall Sudharma from heaven.
+summary: Krishna bids the treasure-guard Sankha shower wealth on every household and sends Vayu to fetch the celestial assembly-hall Sudharma from heaven.
+life_stage: dwaraka | story_arc: dwaraka_founded
+characters: Krishna, Sankha, Vayu, Ugrasena
+locations: Dwaraka
+themes: prosperity, benevolence, celestial-gift
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0290
+variant_notes: Cross-ref: founding cluster; enrichment beat.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 115 | verses  | confidence 4
+  excerpt: Krishna ... felt a desire of gratifying his own people, who were poor, with profuse riches. ... Sankha ... ordered them to shower heaps of wealth in every house of Dwāravati. ... 'beg of them the assembly Hall Sudharmā and bring it to Dwarkā.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.115 ()
+TITLE: THE LAYING OUT OF DWARKA
+
+Vaishampayana said:—Thereupon when the sun rose in the clear morning,
+Hrishikesha, the descendant of Yadu, having performed his morning
+ablution and sat for some time at the outskirt of the forest, began to
+survey it for finding out a site where he would build a fortress. The
+principal members of the Yudu race followed him (1–2). Thereafter in an
+auspicious day under the auspices of the planet Rohini he offered
+immense presents to the Brāhmanas and made them perform benedictory
+rites. He then commenced the work of the building of the fort. Thus when
+the construction of the fort was taken in hand, like unto Indra
+addressing the gods, the lotus-eyed slayer of Keshi, the foremost of
+creators, said to the Yadavas (3–4). "O ye Yādavas, behold the site that
+I have selected like unto the very abode of the gods. I have also
+selected the name under which it will be celebrated on earth (5). I am
+laying out courtyards, promenades, well-levelled roads and inner
+appartments, all those marks, for which this city of mine will be
+celebrated on earth by the name of Dwāravati like unto Indra’s Amarāvti
+(6-7). Taking Ugrasena before you and putting impediments in the ways of
+your enemies do you enjoy here shorn of anxiety like the celestials (8).
+Let all of you take lands for building houses; let gardens and crossings
+of four roads be laid out and let a survey of roads and walls be taken
+(9). Let artizans, expert in building houses and masons be sent round
+the country."
+
+Thus accosted the Yādavas gladly selected sites for building their own
+houses. O king, some of the Yadavas engaged in measuring their own lands
+with ropes and some of them began to worship the tutelary deity by
+adorning the Brahmanas on that auspicious day.
+
+Thereupon the high-minded Govinda said to the masons:—"Do ye build for
+me a temple for my tutelary deity, well laid out with courtyards and
+roads" (10-14). Having said "So be it" to the mighty-armed Krishna, the
+masons collected all the materials for building the fort and began to
+lay out the gate and the boundary line. Temples, in proper places, were
+built for Brahmā, the god of sacrifices, Indra, the presiding deities of
+fire and water and other gods. They then constructed the four gates of
+the temples (namely Shudrāksha, Aindra, Bhallāta and Pushpadantāka.)
+Thus when the houses of the high-souled Yadavas were constructed,
+Mādhava thought of laying out the city very soon. Thereupon there arose
+by accident a pure intellect in his mind conducive to the well-being of
+the Yadavas and of the city, by which, he could soon lay out the city.
+(He thought) that Prajāpati’s son, the powerful Viswakarmā, the foremost
+of architects, would construct the city. Thereupon, seated in a solitary
+place with his face directed towards the celestial region Krishna
+thought of Viswakarmā, in his mind, so that he might come there (15–21).
+In the meantime the highly intelligent celestial architect, Viswakarma,
+the foremost of gods, came there and stood before Krishna (22).
+
+Viswakarma said:—"O Vishnu of firm vows, despatched speedily by the king
+of gods, this thy servant has arrived here; what command am I to carry
+out (23)? O god, thou art adorable unto me as the grand-father (Brahmā)
+and the three-eyed deity (Siva). O lord, there is no difference amongst
+the three (24). O thou of large arms, do thou gladly issue command to me
+as thou dost order the three worlds (25)."
+
+Hearing the humble words of Viswakarma, Keshava, the foremost of Yudus
+and the slayer of Kansa, replied, in incomparable words (26):—"O
+foremost of gods, you were also present there and listened to our
+counsels held in private for the behoof of gods. You are now to build a
+house for me here (27). O you of firm vows, do you build a city here for
+manifesting my own self and decorate it with houses befitting my power
+(28). You are an expert, O you of great intellect; what shall I tell you
+more. Build for me such a city that it may be celebrated on earth like
+Amarāvati; you are to build here such a house for me as I have in the
+celestial region so that the mortals may see the beauty of my city and
+of the Yadu race (29–30)."
+
+Thus accosted the intelligent Viswakarmā said to Krishna of unwearied
+actions, the destroyer of the enemies of the celestials (31). "O lord, I
+shall do all that thou hast ordered. But thy city will not sufficiently
+accommodate such a number of men. So very extensive should be thy city
+that even the four oceans, in their full forms, may range here (32–33).
+O foremost of Purusas, if the ocean, of his own accord, gives a little
+more room then thy city may turn highly extensive (34)."
+
+Krishna, the foremost of orators, had already settled this. Therefore
+thus spoken to by the celestial architect he said to the ocean, the lord
+of rivers (37):—"O ocean, if you have any respect for me, then withdraw
+thy form in the water extending over twelve yojanas (36). If you give
+room, this city, abounding in wealth and enjoyments, 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0186 | next_story_id: DKS_0188
+previous title: Krishna Selects the Site of Dwaraka || The Yadavas reach the ocean shore, and Krishna, seeking a place to build, chooses the coppery tract near Mount Raivata where the Yadavas encamp.
+next title: Vishwakarma Adorns Dwarka for Krishna || At Indra's request, the celestial architect Vishwakarma beautifies Dwarka after Amaravati, building golden palaces for each of Krishna's queens, and Krishna enters the adorned city.

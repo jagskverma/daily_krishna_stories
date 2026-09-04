@@ -1,0 +1,18 @@
+{
+  "work": "Harivamsha (M.N. Dutt English translation)",
+  "translator": "Manmatha Nath Dutt",
+  "edition": "Project Gutenberg eBook #61937 ('A Prose English Translation of Harivamsha')",
+  "publication_year": 1897,
+  "download_url": "https://www.gutenberg.org/cache/epub/61937/pg61937.txt",
+  "download_date": "2026-09-01",
+  "format": "UTF-8 plain text",
+  "copyright_status": "public domain",
+  "license_notes": "Project Gutenberg License (freely redistributable); translation PD",
+  "sha256": "839d1c8e329c3aa9e64d2864f88acf6cd2838d61b1ead5c4aa5ecad1a891f4d6",
+  "files": [
+    "harivamsa/harivamsa_dutt_gutenberg61937.txt"
+  ],
+  "role": "CANONICAL English source for Harivamsa; part 1 = Harivamsa+Vishnu Parva continuous chapters I-CCLXXXIII (179 parsed), part 2 = Bhavishya Parva (47)",
+  "quality": "clean",
+  "confidence": 5
+}

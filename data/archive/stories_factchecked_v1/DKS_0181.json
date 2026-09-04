@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0181",
+ "title": "Three Brahmanas at the King's Door",
+ "subtitle": "Krishna, Bhima and Arjuna come to Girivraja in disguise to ask alms of Jarasandha.",
+ "story": "Three brahmanas came to the gate of Girivraja at the hour of hospitality, when a householder's door was open to any guest, and asked to see the king. They wore the marks of their calling, carried themselves like men of peace, and asked only for alms — the oldest, simplest request a traveler can make. But the king they had come to see was Jarasandha, lord of Magadha, and the three brahmanas were not brahmanas at all.\n\nThey were Krishna, Bhima, and Arjuna. Jarasandha was the one king who stood between them and the Rajasuya, and they had already learned what every army in the world had learned: he could not be beaten in open battle. His strength and his hosts were too great for any force to carry his walls. But a duel — single combat, one man against one man — was a different matter, and it was for that that the three had set out, disguised as wandering brahmanas, on a plan Krishna had argued and Yudhishthira had finally accepted.\n\nThe road had been long. From the country of the Kurus they had crossed Kuru-jangala, passed the lake of lotuses and the hills of Kalakuta, forded the Gandaki and the Sarayu, walked through the eastern lands and past Mithila, and crossed the Ganges and the Sone before the hills of Goratha rose ahead of them. There, at last, they saw the city of Magadha standing on its height, filled with cattle and grain and water — the seat of the man they had come to meet.\n\nAt the hour of hospitality they presented themselves at his house, and Jarasandha received them as he received every suppliant. He was a king famed for his giving, the sort of generosity that becomes a story in its own right — a man of whom it was said he would part with anything a guest asked of him, even his own head. The three made their request in the proper form. Know that guests have come to you, they said, suppliants from far away. Grant us what we desire, and may it be well with you.\n\nJarasandha looked at them as they stood before him, and something in the looking changed. He was no fool. He studied their voices, their bearing, the marks on their forearms — the scars a bowstring leaves on a man who has spent his life drawing one. These were no brahmanas, he understood. These were royal men wearing a brahmana's guise.\n\nHe did not turn them away. Instead he thought of Bali, the great king who had given the earth itself to Vishnu when the god came to him as a dwarf brahmana asking for a step of ground, and who had lost his kingdom and kept his fame. A Kshatriya's life is brief, Jarasandha reflected; the body falls like a thing discarded. What is a king's life worth if it is not spent winning fame that outlives him — and what fame is greater than a gift given to brahmanas? He had heard how such men as Harishchandra and Rantideva, and even a hunter and a pigeon in the old tales, had won eternal honor with perishable bodies by giving.\n\nSo when he spoke, his answer was large. Ask, he told them. Choose whatever you desire, and I will give it — I would give you my very head.\n\nThe three brahmanas heard the words of the king of Magadha, and if any of them felt the weight of being offered everything by a man who did not know what they meant to ask, they did not show it. The boon had not yet been named. Jarasandha stood at his own door, generous as his fame promised, and waited to hear what three strangers who were no strangers would demand of him.",
+ "reflection": "The story gives Jarasandha his due: he recognizes the three men by voice and by the bowstring scars on their arms, and still offers them whatever they ask. His famous generosity is not a mask — it is the very quality the disguise relies on, and the tale lets him see through one deception while standing openly inside the other.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Girivraja (Magadha)"
+ ],
+ "themes": [
+  "disguise",
+  "strategy",
+  "hospitality"
+ ],
+ "previous_story_id": "DKS_0180",
+ "next_story_id": "DKS_0182",
+ "next_story_tease": "The masks would not stay on much longer.",
+ "hero_scene": "Three brahmanas in ochre cloth stand at the doorway of Girivraja in the evening light, asking alms of the tall king who receives them at his own threshold, the hill city of Magadha rising behind them.",
+ "visual_elements": [
+  "Krishna, Bhima and Arjuna in brahmana disguise",
+  "Jarasandha at his door",
+  "the hill city of Magadha",
+  "the hour of hospitality",
+  "the road through rivers and hills behind them",
+  "bowstring scars on the travelers' forearms"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.72.14-26",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:20Z",
+  "source_event_id": "evt_0010"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0348",
+ "title": "No Yadu Flees the Field",
+ "subtitle": null,
+ "story": "Shalva's army was everywhere and nowhere at once. It wheeled across the field on the ground, in the sky, on mountain peaks, in the water — now a single host, now a hundred, one form and many forms at the same time, appearing and vanishing so that the eye could not say what was real and what was only a shape of the air. Shalva, an old enemy of the house of Yadu, had come against Dwaraka again with sorcery and numbers, and his illusions had done more for him than his swords.\n\nPradyumna, Krishna's son, rode out to meet him, and in a single moment he dispelled the demon's illusions with his divine weapons, reading the false shapes in the air as easily as a man reads a familiar road. Then he set to work on the host behind them. Twenty-five iron-headed arrows with golden shafts he drove into Shalva himself; he struck the king again with a hundred more; and then, one arrow apiece, he began to clear his soldiers from the field. It was a wonderful deed, the text says, and both armies stopped to watch it — the warriors of Shalva and the warriors of the Yadavas alike, all of them arrested by the sight of the young hero's hands at work.\n\nBut the field was not one-sided. Shalva's arrows, hot as fire and sun and unapproachable as serpent poison, fell in floods upon the Vrishni heroes, and Pradyumna's own side was hard pressed even as he cut his way through the demon ranks. The battle raged as battles do when both sides believe they are winning, and the dust of the field rose over a struggle that had no clear shape at all — only noise, and heat, and the endless coming on of Shalva's men.\n\nThen Dyuman, Shalva's minister, found his moment. He had himself been wounded and pressed hard by Pradyumna earlier in the fight; now, gathering himself, he seized a mace and struck the young warrior full on the chest. Pradyumna's armor gave way, the breath went out of him, and before he could fall his charioteer wheeled the horses about and carried the senseless hero away from the field.\n\nWhen Pradyumna came to himself, the roar of the fight had fallen behind him. He understood at once what had happened, and his first words were not of his wound. \"No one born in the line of the Yadus,\" he said to his charioteer, \"is ever heard of as one who fled the field. What shall I say when I come before my two fathers, Rama and Keshava? My brothers' wives will laugh when they tell of this.\" The charioteer answered quietly: \"Knowing this, I carried you from the battle.\"\n\nThe reins were still in the charioteer's hands. Somewhere behind them the battle still rang, and Pradyumna, steadying himself on the rail of the chariot, looked back toward it.",
+ "reflection": "Pradyumna's first words on waking are not of his wound but of his name: what will be seen, what will be said, how his fathers and his brothers' wives will speak of it. The honor here is a witnessed honor — a warrior is what the field and the household say he is — and the mace that felled him troubles him less than the thought of being carried away from the fight.",
+ "tradition_note": null,
+ "content_note": "Battle violence: Pradyumna is struck senseless by a mace blow; described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Dyuman",
+  "Shalva"
+ ],
+ "locations": [
+  "Dwaraka battlefield"
+ ],
+ "themes": [
+  "valor",
+  "honor",
+  "combat"
+ ],
+ "previous_story_id": "DKS_0347",
+ "next_story_id": "DKS_0349",
+ "next_story_tease": "The line of Yadu would come to be measured not only by its warriors, but by the generations that followed them.",
+ "hero_scene": "On the field before Dwaraka, Pradyumna sways senseless in his chariot, struck full on the chest by Dyuman's mace, as the charioteer wheels the horses away from the raging battle.",
+ "visual_elements": [
+  "Shalva's host appearing and vanishing — on the ground, in the sky, on mountain peaks, in the water",
+  "Pradyumna loosing golden-shafted iron-headed arrows into the demon army",
+  "both armies halted, watching the young hero's deed",
+  "Dyuman's mace striking Pradyumna's chest",
+  "the charioteer carrying the senseless warrior from the field"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.76.17-32",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:52Z",
+  "source_event_id": "evt_0269"
+ },
+ "editorial_status": "unreviewed"
+}

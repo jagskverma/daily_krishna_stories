@@ -1,0 +1,115 @@
+# STORY DKS_0232 — Krishna Brings the Parijata to Satyabhama in Dvaraka
+
+## Index entry
+title: Krishna Brings the Parijata to Satyabhama in Dvaraka
+summary: Aditi grants Krishna the Parijata for Satyabhama's rite on condition of its return; Krishna plants it at Raivataka and carries it into Dwarka, where Satyabhama receives it joyfully.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Aditi, Satyabhama, Satyaki, Pradyumna
+locations: Dwarka, Raivataka mountain
+themes: gift, marital devotion, wonder
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0214
+variant_notes: Harivamsha: Aditi grants it on condition of return; VP: planted in Satyabhama's garden.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 222 | verses  | confidence 4
+  excerpt: Aditi... said to Hari:—"O Upendra! take this Pārijāta, go to Dwarkā and perform the auspicious festival so longed for by your wife... you are to bring back this tree"... taking that best of trees Pārijāta he entered into Satyabhāmā's palace
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 31 | verses  | confidence 4
+  excerpt: Then alighting from Garud́a, he proceeded with Satyabhámá to her garden, and there planted the great Párijáta tree, the smell of which perfumed the earth for three furlongs, and an approach to which enabled every one to recollect the events of a prior existence.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.222 ()
+TITLE: INDRA FIGHTS WITH KRISHNA
+
+Vaishampāyana said:—Having saluted then the Lord of Vilwa and water,
+Krishna, the high-minded slayer of Madhu, went away on his own car; and
+seated thereon he invited the king of gods accompanied by the celestials
+near Pushkara (1-2).
+
+Thereupon the effulgent Sakra, the granter of all desires unto the pious
+and Jayanta got upon cars drawn by most excellent horses (3). O
+descendant of Kurus, then under the influence of destiny there took
+place an encounter between those two celestials mounted on their cars on
+account of the Pārijāta. With straight-coursing arrows Vishnu, the
+represser of enemies’ army, struck the soldiers of the king of gods.
+Although capable however, O lord, Indra did not strike Upendra in battle
+nor the latter the former (4–6). O king, with ten sharpened arrows
+Janārddana struck each of the horses of the king of gods: Vāsava too,
+the foremost of the celestials, with dreadful shafts shot off the bow,
+covered Shaiyya and other horses (7-8). With a thousand of arrows
+Krishna covered the elephant (of Indra) and the highly powerful slayer
+of Bali covered Garuda too (9). O descendant of Bharata, while in this
+way, seated on their cars the high-souled Nārāyana, dreadful unto his
+enemies and the king of gods fought with each another, the earth shook
+like a boat sunk in water and the quarters were fully enshrouded with
+lustre (10-11). Mountains shook, hundreds of trees were uprooted and
+pious mortals fell down on earth (12). O king, hundreds of hurricane
+blew there. And while that battle raged on, the course of the rivers was
+changed in an opposite direction, the wind blew wild, fire-brands, shorn
+of lustre, fell down and creatures repeatedly lost their consciousness
+at the rattle of the car-wheels. What more, O king, fire was lighted
+even in the water and planets fought with planets in the sky (13–15).
+And hundreds of stars fell down on earth from the sky. Elephants of the
+quarters and those ranging on earth began to quiver (16). The welkin was
+covered with cranes emitting loud cries, pouring down dreadful blood and
+ash-coloured like asses (17). O foremost of kings, beholding those two
+heroic gods engaged in fighting with each other the earth, heaven and
+sky as if disappeared from view (18). At that time for the behoof of the
+world the ascetics began to recite Mantras and the Brāhmanas speedily
+engaged in carrying on meditations (19).
+
+Thereupon the highly powerful Brahmā said to Kashyapa:—"O you of firms
+vows, go with your wife Aditi and prevent your two sons" (20). Saying
+"So be it" to the lotus-sprung deity the ascetic speedily went out on
+his car to that foremost of men (21). Beholding Kashyapa with Aditi in
+the battle-field those two heroic and highly powerful slayers of their
+enemies, ever engaged in the welfare of all beings and well-read in the
+tenets of religions, got down from their cars, and leaving off their
+arms, saluted the feet of their parents (22–23). Then holding them both
+by the hands Aditi said:—"Born of the same parents you are trying to
+slay each other as if you are not brothers. Let pass what has happened.
+If you think that you should obey the words of your mother and those of
+your patriarchal father, then lay down your arms and hear what I say."
+Saying "So be it" those two highly powerful celestials, conversing with
+each other, went to the bank of the river Jānhavi (24–27).
+
+Sakra said:—"O Krishna, thou art the Lord Creator of the universe and I
+have been placed by thee in my kingdom. Having thyself established me
+here why dost thou disregard me? O thou of lotus eyes, having accepted
+me as thy elder brother why dost thou wish to destroy me?" (28–29)
+
+O king, having bathed in the water of the river Jānhavi they both
+returned to the high-souled Kashyapa of firm vows and Aditi (30). The
+ascetics designate that place as the union ground of dear ones where
+those two lotus-eyed brothers were united with their parents (31). O
+descendant of Kurus, after Krishna had promised safety unto Indra in the
+very presence of the pious celestials who were assembled there, they
+all, shining in their respective beautiful forms, repaired to the
+celestial region on their own cars (32–33). O king, seated on one car
+Kashyapa, Aditi, Indra and Upendra set out for the celestial region
+(34), O descendant of Kuru, after those pious gods had come to Sakra,
+endued with all qualities and taken their seats, Sachi, ever fond of
+virtue, adored the high souled Kashyapa along with his wife, ever
+engaged in the well-being of all creatures (35-36). Thereupon after the
+night had elapsed Aditi, conversant with the principles of religion,
+said to Hari ever encompassing good unto creatures (37). "O Upendra!
+take this Pārijāta, go to Dwarkā and perform the auspicious festival so
+longed for by your wife. But, O foremost of men, when that ceremony will
+be over, you are to bring back this tree and place it as before in the
+garden of Nandana" (38–39).
+
+Hearing this Krishna said to the il
+[...]
+
+### Vishnu Purana (Wilson 1840) 5.31 ()
+Krishńa, with Indra's consent, takes the Párijáta tree to Dwáraká; marries the princesses rescued from Naraka.
+
+KEŚAVA, being thus eulogized by the king of the gods, smiled, and spake gravely to him in reply. "Thou art Indra," said he, "the king of the celestials: we are but mortals, O lord of the world: thou must pardon therefore the offence that I have committed. Let this Párijáta tree be taken to its appropriate situation. I removed it in compliance with the words of Satyá. Receive back also this your thunderbolt, cast at me; for this is your proper weapon, the destroyer of your foes." Indra answered and said, "Thou beguilest us, O lord, in calling thyself a mortal; but we know thee to be the lord, although not endowed with subtlety of discernment. Thou art that thou art, engaged in the active preservation of the earth; thou extractest the thorns implanted in her bosom, destroyer of the demon race. Let this Párijáta tree be transferred to Dwáraká, and it shall remain upon earth as long as thou abidest in the world of mortals." Hari, having assented to the proposal of Indra, returned to earth, hymned by attendant sages, saints, and quiristers of heaven.When Krishńa arrived over Dwáraká, he blew his shell, and delighted all the inhabitants with the sound. Then alighting from Garud́a, he proceeded with Satyabhámá to her garden, and there planted the great Párijáta tree, the smell of which perfumed the earth for three furlongs, and an approach to which enabled every one to recollect the events of a prior existence; so that, on beholding their faces in that tree, all the Yádavas contemplated themselves in their (original) celestial forms. Then Krishńa took possession of the wealth, elephants, horses, and women, which he had recovered from Naraka, and which had been brought to Dwáraká by the servants of the demon; and at an auspicious season he espoused all the maidens whom Naraka had carried off from their friends; at one and the same moment he received the hands of all of them, according to the ritual, in separate mansions. Sixteen thousand and one hundred was the number of the maidens, and into so many different forms did the foe of Madhu multiply himself; so that every one of the damsels thought that he had wedded her in his single person; and the creator of the world, Hari, the assumer of universal shape, abode severally in the dwelling of each of these his wives.
+
+## Corpus chain
+previous_story_id: DKS_0231 | next_story_id: DKS_0233
+previous title: Shiva Reveals the Danava Stronghold of Satpura || Shiva tells Krishna of the Danavas hidden in the Satpura stronghold beneath the mountain — invincible to the gods by Brahma's boon — and Krishna is enshrined on the Parijatra mountain.
+next title: Kashyapa and Aditi Reconcile Krishna and Indra || Sent by Brahma, the parents Kashyapa and Aditi halt the battle, and the two 'brothers' lay down their arms, bathe in the Jahnvi, and are reconciled.

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0046",
+ "title": "Aghasura Becomes a Giant Python",
+ "subtitle": null,
+ "story": "There is a kind of grief that only wants to make more grief, and Aghasura had it. He was the younger brother of Putana and of Bakasura — the first of them had come to the cradle long ago and been destroyed, and the second had come to the pasture not many days since and been torn apart — and the loss of them sat in him like a splinter. The old verses say that Kamsa put him up to the deed. But they also say he needed little urging. He wanted revenge, and he knew exactly where to find it.\n\nHe did not go down to the village in his own shape. He grew. He stretched his body out and out until he was a python a yojana long and as thick as a hill, and he lay down across the path the boys took each day to the pasture, and he opened his mouth.\n\nIt was no ordinary mouth. His lower lip rested on the earth and his upper lip touched the clouds. The space between them was a cave, dark and deep, and his teeth rose like the peaks of a mountain range, so that the whole monstrous thing looked less like a living creature than like a piece of the country itself — a gorge, a cavern, a ridge of stone — lying open in the afternoon light.\n\nThat was his trick, and it worked. The boys came down the path with their calves and stopped short at the sight of it, and not one of them was afraid, because not one of them saw a snake. They saw a marvel.\n\n\"Look,\" they said to one another, \"a mountain has lain down in the forest.\" And they argued over it the way children argue over a wonder. Was it a cave cut into the rock, or a cloud that had come down to rest, its edge reddened by the sun? The verses remember the whole happy, foolish debate — how they measured the thing with their eyes and gave it a hundred wrong names, how they stepped closer to peer into the deep shadows of it — while the creature they were praising lay silent and waiting. They even said, in their play, that if it tried to swallow them it would die as Baka had died. And they said it laughing, because they did not believe for a moment that it was alive at all.\n\nOnly Krishna knew. He heard their guesses, and he knew in the same instant what the thing was, and whose brother it was, and what it meant to do to him and to Balarama. And he made up his mind, there on the path, that the mouth which had opened to swallow his friends would not close on them.",
+ "reflection": "The horror of Aghasura lies in how well his disguise works: the boys praise the very mouth that would eat them. Deception here is not a lie told but a truth too strange to be believed, and only Krishna sees through the loveliness to the danger beneath.",
+ "tradition_note": null,
+ "content_note": "A demon takes the form of a vast python and lies in wait to swallow the boys; the danger is described, but no one is harmed in this episode.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Aghasura",
+  "Krishna",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "deception",
+  "danger"
+ ],
+ "previous_story_id": "DKS_0045",
+ "next_story_id": "DKS_0047",
+ "next_story_tease": "Krishna had recognized the demon — and he was about to step into its open mouth.",
+ "hero_scene": "The cowherd boys and their calves stopped on the forest path, gazing up at Aghasura's enormous python form — mouth open like a cave, teeth like mountain peaks, lower lip on the earth and upper lip in the clouds — mistaking it for a marvel of the forest.",
+ "visual_elements": [
+  "Aghasura as a giant python",
+  "Krishna",
+  "cowherd boys",
+  "calves",
+  "forest path",
+  "open cave-like mouth",
+  "mountain-peak teeth",
+  "sun-reddened light",
+  "deceptive beauty and hidden danger"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.12.12-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:01Z",
+  "source_event_id": "evt_0058"
+ },
+ "editorial_status": "unreviewed"
+}

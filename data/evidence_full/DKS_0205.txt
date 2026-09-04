@@ -1,0 +1,54 @@
+# STORY DKS_0205 — Krishna Jests with Rukmini || Krishna playfully tells Rukmini she chose a poor, unworthy husband; she faints in grief, thinking he means to abandon her.
+
+## Index entry
+title: Krishna Jests with Rukmini || Krishna playfully tells Rukmini she chose a poor, unworthy husband; she faints in grief, thinking he means to abandon her.
+summary: Krishna playfully tells Rukmini she chose a poor, unworthy husband; she faints in grief, thinking he means to abandon her.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Rukmini
+locations: Dvaraka
+themes: playfulness, love, anguish
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0248
+variant_notes: BP-only; paired with consolation beat (bp10c_049).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 60 | verses 1-27 | confidence 5
+  excerpt: Krishna jestingly told Rukmini she had foolishly chosen a penniless husband when great kings sought her, and should choose a worthy kshatriya instead; believing him in earnest, Rukmini fainted, her fan falling from her hand. (rendered from Sanskrit, verses 1-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.60 (1-27)
+1. yas tv etal līlayā viśvaṃ sṛjaty atty avatīśvaraḥ /
+2. tasmin antar-gṛhe bhrājan- muktā-dāma-vilambinā /
+3. mallikā-dāmabhiḥ puṣpair dvirepha-kula-nādite /
+4. pārijāta-vanāmoda- vāyunodyāna-śālinā /
+5. payaḥ-phena-nibhe śubhre paryaṅke kaśipūttame /
+6. vāla-vyajanam ādāya ratna-daṇḍaṃ sakhī-karāt /
+7. sopācyutaṃ kvaṇayatī maṇi-nūpurābhyāṃ $ reje 'ṅgulīya-valaya-vyajanāgra-hastā &amp;vastrānta-gūḍha-kuca-kuṅkuma-śoṇa-hāra- % bhāsā nitamba-dhṛtayā ca parārdhya-kāñcyā
+8. tāṃ rūpiṇīṃ śrīyam ananya-gatiṃ nirīkṣya $ yā līlayā dhṛta-tanor anurūpa-rūpā &tāṃ rūpiṇīṃ śrīyam ananya-gatiṃ nirīkṣya $ yā līlayā dhṛta-tanor anurūpa-rūpā &prītaḥ smayann alaka-kuṇḍala-niṣka-kaṇṭha- % vaktrollasat-smita-sudhāṃ harir ābabhāṣe
+9. bhp_10.60.010/0 śrī-bhagavān uvāca
+10. tān prāptān arthino hitvā caidyādīn smara-durmadān /
+11. rājabhyo bibhyataḥ su-bhru samudraṃ śaraṇaṃ gatān /
+12. aspaṣṭa-vartmanām puṃsām aloka-patham īyuṣām /
+13. niṣkiñcanā vayaṃ śaśvan niṣkiñcana-jana-priyāḥ /
+14. yayor ātma-samaṃ vittaṃ janmaiśvaryākṛtir bhavaḥ /
+15. vaidarbhy etad avijñāya tvayādīrgha-samīkṣayā /
+16. athātmano 'nurūpaṃ vai bhajasva kṣatriyarṣabham /
+17. caidya-śālva-jarāsandha dantavakrādayo nṛpāḥ /
+18. teṣāṃ vīrya-madāndhānāṃ dṛptānāṃ smaya-nuttaye /
+19. udāsīnā vayaṃ nūnaṃ na stry-apatyārtha-kāmukāḥ /
+20. bhp_10.60.021/0 śrī-śuka uvāca
+21. iti trilokeśa-pates tadātmanaḥ priyasya devy aśruta-pūrvam apriyam /
+22. padā su-jātena nakhāruṇa-śrīyā bhuvaṃ likhanty aśrubhir añjanāsitaiḥ /
+23. tasyāḥ su-duḥkha-bhaya-śoka-vinaṣṭa-buddher $ hastāc chlathad-valayato vyajanaṃ papāta &amp;dehaś ca viklava-dhiyaḥ sahasaiva muhyan % rambheva vāyu-vihato pravikīrya keśān
+24. tad dṛṣṭvā bhagavān kṛṣṇaḥ priyāyāḥ prema-bandhanam /
+25. paryaṅkād avaruhyāśu tām utthāpya catur-bhujaḥ /
+26. pramṛjyāśru-kale netre stanau copahatau śucā /
+27. sāntvayām āsa sāntva-jñaḥ kṛpayā kṛpaṇāṃ prabhuḥ /
+
+## Corpus chain
+previous_story_id: DKS_0204 | next_story_id: DKS_0206
+previous title: Krishna Abducts Mitravinda and Wins Satya || Krishna carries off Mitravinda of Avanti from her svayamvara and wins Satya of Kosala by taming seven fierce bulls.
+next title: Krishna Consoles Rukmini || Krishna lifts Rukmini, reveals his jest, praises her devotion, and the two are reconciled in love.

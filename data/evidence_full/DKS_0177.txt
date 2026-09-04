@@ -1,0 +1,38 @@
+# STORY DKS_0177 — The Captive Kings Appeal to Krishna || A royal messenger arrives in Krishna's assembly and reports that Jarasandha has imprisoned twenty thousand defeated kings in Girivraja, who beg Krishna for release.
+
+## Index entry
+title: The Captive Kings Appeal to Krishna || A royal messenger arrives in Krishna's assembly and reports that Jarasandha has imprisoned twenty thousand defeated kings in Girivraja, who beg Krishna for release.
+summary: A royal messenger arrives in Krishna's assembly and reports that Jarasandha has imprisoned twenty thousand defeated kings in Girivraja, who beg Krishna for release.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Jarasandha, the captive kings, royal messenger
+locations: Dwaraka, Girivraja (Magadha)
+themes: oppression, refuge, liberation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0260
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 70 | verses 20-30 | confidence 5
+  excerpt: A man of extraordinary appearance is admitted before Krishna and, with joined palms, tells how Jarasandha has forcibly imprisoned the kings who refused to submit to his conquest, twenty thousand of them in Girivraja. The captive kings declare they have taken refuge in Krishna from the terror of worldly existence. (rendered from Sanskrit, verse 20-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.70 (20-30)
+20. tatrāhur brāhmaṇāḥ kecid āsīnā brahma-vādinaḥ /
+21. tatraikaḥ puruṣo rājann āgato 'pūrva-darśanaḥ /
+22. sa namaskṛtya kṛṣṇāya pareśāya kṛtāñjaliḥ /
+23. ye ca dig-vijaye tasya sannatiṃ na yayur nṛpāḥ /
+24. bhp_10.70.025/0 rājāna ūcuḥ
+25. loko vikarma-nirataḥ kuśale pramattaḥ $ karmaṇy ayaṃ tvad-udite bhavad-arcane sve &amp;yas tāvad asya balavān iha jīvitāśāṃ % sadyaś chinatty animiṣāya namo 'stu tasmai
+26. loke bhavāñ jagad-inaḥ kalayāvatīrṇaḥ $ sad-rakṣaṇāya khala-nigrahaṇāya cānyaḥ &loke bhavāñ jagad-inaḥ kalayāvatīrṇaḥ $ sad-rakṣaṇāya khala-nigrahaṇāya cānyaḥ &kaścit tvadīyam atiyāti nideśam īśa % kiṃ vā janaḥ sva-kṛtam ṛcchati tan na vidmaḥ
+27. svapnāyitaṃ nṛpa-sukhaṃ para-tantram īśa $ śaśvad-bhayena mṛtakena dhuraṃ vahāmaḥ &svapnāyitaṃ nṛpa-sukhaṃ para-tantram īśa $ śaśvad-bhayena mṛtakena dhuraṃ vahāmaḥ &hitvā tad ātmani sukhaṃ tvad-anīha-labhyaṃ % kliśyāmahe 'ti-kṛpaṇās tava māyayeha
+28. tan no bhavān praṇata-śoka-harāṅghri-yugmo $ baddhān viyuṅkṣva magadhāhvaya-karma-pāśāt &tan no bhavān praṇata-śoka-harāṅghri-yugmo $ baddhān viyuṅkṣva magadhāhvaya-karma-pāśāt &yo bhū-bhujo 'yuta-mataṅgaja-vīryam eko % bibhrad rurodha bhavane mṛga-rāḍ ivāvīḥ
+29. yo vai tvayā dvi-nava-kṛtva udātta-cakra $ bhagno mṛdhe khalu bhavantam ananta-vīryam &yo vai tvayā dvi-nava-kṛtva udātta-cakra $ bhagno mṛdhe khalu bhavantam ananta-vīryam &jitvā nṛ-loka-nirataṃ sakṛd ūḍha-darpo % yuṣmat-prajā rujati no 'jita tad vidhehi
+30. bhp_10.70.031/0 dūta uvāca
+
+## Corpus chain
+previous_story_id: DKS_0176 | next_story_id: DKS_0178
+previous title: Krishna and Balarama Elude Jarasandha || Krishna and Balarama feign flight from Jarasandha, escape to Dvaraka over the sea, and Jarasandha falsely believes them burned.
+next title: Uddhava's Counsel to Slay Jarasandha || Uddhava advises Krishna that the Rajasuya requires conquering the directions, and that Jarasandha — who can only be killed by Bhima in single combat — must first be destroyed.

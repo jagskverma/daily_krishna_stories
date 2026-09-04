@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0164",
+ "title": "Krishna Proposes Slaying Jarasandha as Prelude to the Rajasuya",
+ "subtitle": null,
+ "story": "There was one obstacle left between Yudhishthira and the Rajasuya, and it could not be conquered in battle.\n\nIn the assembly, Krishna stated it plainly. Both Hansa and Dimvaka had fallen; Kamsa, with all his followers, had been slain. The time had come for the destruction of Jarasandha. But Jarasandha was incapable of being vanquished in battle even by all the celestials and the Asuras fighting together. They thought, however, that he could be vanquished in a personal struggle with bare arms.\n\nThen Krishna divided the work in a single sentence: in him was policy, in Bhima was strength, and in Arjuna was triumph. Therefore, as a prelude to performing the Rajasuya, they would certainly achieve the destruction of the ruler of Magadha. When the three of them approached that monarch in secret, he would without doubt engage in an encounter with one of them; and from fear of disgrace, from covetousness, and from pride of strength, he would certainly summon Bhima to the encounter. Like death himself, who slays a person however swollen with pride, the long-armed and mighty Bhimasena would effect the destruction of the king. \"If thou knowest my heart, if thou hast any faith in me,\" Krishna said, \"then make over to me, as a pledge, Bhima and Arjuna without loss of time.\"\n\nYudhishthira, beholding both Bhima and Arjuna standing with cheerful faces, answered. \"O Achyuta, slayer of all enemies, say not so. Thou art the lord of the Pandavas. We are dependent on thee. What thou sayest, O Govinda, is consistent with wise counsels.\" The one who stayed under Krishna's command, he said, could already regard Jarasandha as slain, the monarchs confined by him already set free, the Rajasuya already accomplished. Then Yudhishthira spoke of leadership itself: troops, when properly led, always do excellent service; a force without a leader has been called inert by the wise; the wise conduct water into low places, and even fishermen drain tanks through holes. For the successful accomplishment of one's purposes, one should ever place Krishna in the van — that foremost of persons whose strength consists in wisdom and policy, and who possesses a knowledge of both method and means. Let Arjuna follow Krishna, and let Bhima follow Arjuna; policy, good fortune, and might would bring success in a matter requiring valour.\n\nThus addressed, the trio — Krishna, Arjuna, and Bhima, all possessed of great energy — set out for Magadha attired in the garb of Snataka Brahmanas, their resplendent bodies blessed by the agreeable speeches of friends and relatives. Inflamed with wrath at the sad lot of their relative kings, those bodies, already like the sun, the moon, and the fire, became much more blazing. And the people, beholding Krishna and Arjuna — both never before vanquished in battle — with Bhima in the van, all ready to achieve the same task, regarded Jarasandha as already slain.\n\nTheir road ran long. They passed from the country of the Kurus through Kuru-jangala and arrived at the charming lake of lotuses; they crossed the hills of Kalakuta, the rivers Gandaki and Sadanira, and the Sarkaravarta; they crossed the delightful Sarayu and saw the country of Eastern Kosala; passing over that country they went to Mithila, crossed the Mala and Charamanwati, and then the Ganges and the Sone, going on toward the east. At last they arrived at Magadha, in the heart of the country of Kushamva. Reaching the hills of Goratha, they saw the city of Magadha, always filled with kine and wealth and water, and handsome with its innumerable dwellings.\n\nFrom the hillside they looked down on the stronghold of the man they had come to meet — with nothing but their bare arms. Three Brahmanas stood at the edge of the enemy's country, and the great enterprise lay spread below them.",
+ "reflection": "Krishna's plan rested on reading Jarasandha's character: a king certain that no weapon can harm him will still step down to meet bare arms, summoned by his own pride. Policy, strength, and triumph each had a man assigned to it, as if the victory were already divided into its parts before the journey even began.",
+ "tradition_note": "The Bhagavata Purana (10.71) presents this same plan as Uddhava's counsel to Krishna rather than Krishna's own proposal; the Mahabharata version, followed here, attributes it to Krishna himself.",
+ "content_note": null,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna",
+  "Jarasandha",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Magadha"
+ ],
+ "themes": [
+  "strategy",
+  "counsel",
+  "valour"
+ ],
+ "previous_story_id": "DKS_0163",
+ "next_story_id": "DKS_0165",
+ "next_story_tease": "In Girivraja, the three disguised Brahmanas would announce themselves in a way no one expected.",
+ "hero_scene": "Krishna, Bhima, and Arjuna in the simple garb of Snataka Brahmanas standing on the hills of Goratha, looking down across the wide, cattle-rich plains at the great walled city of Magadha in the distance.",
+ "visual_elements": [
+  "Krishna, Bhima, and Arjuna as disguised Brahmanas",
+  "the hills of Goratha",
+  "the distant walled city of Magadha",
+  "rivers and country crossed on the long journey",
+  "determination and strategy",
+  "the Rajasuya as the distant prize"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:01Z",
+  "source_event_id": "evt_0391"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5
+}

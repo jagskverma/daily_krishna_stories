@@ -1,0 +1,102 @@
+# STORY DKS_0461 — Arjuna Resolves to Fight
+
+## Index entry
+title: Arjuna Resolves to Fight
+summary: His delusion dispelled, Arjuna declares he will do Krishna's bidding and returns to battle.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Arjuna, Krishna
+locations: Kurukshetra
+themes: resolve, duty, return to battle
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0458
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 6 | chapter/section 42 | verses  | confidence 4
+  excerpt: Arjuna said, 'My delusion hath been destroyed, and the recollection (of what I am) hath been gained by me, O Undeteriorating one, through thy favour. I am now firm. My doubts have been dispelled. I will do thy bidding.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 6.42 ()
+[(Bhagavad Gita, Chapter XVIII)]
+
+“Arjuna said, ‘Of renunciation, O thou of mighty arms, I desire to know
+the true nature, and also of abandonment, O lord of the senses
+distinctly, O slayer of Kesi.’[293]
+
+“The Holy One said, ‘The rejection of the works with desire is known by
+the learned as renunciation. The abandonment of the fruit of all work,
+the discerning call abandonment. Some wise men say that work (itself)
+should be abandoned as evil; others (say) that the works of sacrifice,
+gifts, and penance, should not be abandoned. As to that abandonment,
+listen to my decision, O best of the sons of Bharata, for abandonment, O
+tiger among men, hath been declared to be of three kinds. The works of
+sacrifice, gifts, and penance should not be abandoned. They should,
+indeed, be done. Sacrifice, gift, and penance, are the purifications of
+the wise. But even those works should be done, abandoning attachment and
+fruit. This, O son of Pritha, is my excellent and decided opinion. The
+renunciation of an act prescribed (in the scriptures) is not proper. Its
+abandonment (is) from delusion, (and) is (therefore,) declared to be of
+the quality of darkness.[294] (Regarding it) as (a source of) sorrow,
+when work is abandoned from (fear of) bodily pain, one making such an
+abandonment which is of the quality of passion never obtaineth the fruit
+of abandonment. (Regarding it) as one that should be done, when[295] work
+that is prescribed (in the scriptures) is done, O Arjuna, abandoning
+attachment and fruit also, that abandonment is deemed to be of the
+quality of goodness. Possessed of intelligence and with doubts dispelled,
+an abandoner that is endowed with the quality of goodness hath no
+aversion for an unpleasant action and no attachment to pleasant
+(ones).[296] Since actions cannot be absolutely abandoned by an embodied
+person, (therefore) he who abandons the fruit of actions is truly said to
+be an abandoner. Evil, good and mixed-action hath (this) three-fold fruit
+hereafter for those that do not abandon. But there is none whatever for
+the renouncer.[297] Listen from me, O thou of mighty arms, to those five
+causes for the completion of all actions, declared in the Sankhya
+treating of the annihilation of actions.[298] (They are) substratum,
+agent, the diverse kinds of organs, the diverse efforts severally, and
+with them the deities as the fifth.[299] With body, speech, or mind,
+whatever work, just or the reverse, a man undertakes, these five are its
+causes. That being so, he that, owing to an unrefined understanding,
+beholdeth his own self as solely the agent, he, dull in mind, beholdeth
+not. He that hath no feeling of egoism, whose mind is not sullied, he,
+even killing all these people, killeth not, nor is fettered (by
+action).[300]--Knowledge, the object of knowledge, and the knower, form
+the three-fold impulse of action. Instrument, action, and the agent, form
+the three-fold complement of action.[301] Knowledge, action, and agent,
+are declared in the enumeration of qualities to be three-fold, according
+to the difference of qualities. Listen to those also duly.[302] That by
+which One Eternal Essence is viewed in all things, undivided in the
+divided, know that to be knowledge having the quality of goodness. That
+knowledge which discerneth all things as diverse essences of different
+kinds in consequence of their separateness, know that that knowledge hath
+the quality of passion. But that which is attached to (each) single
+object as if it were the whole, which is without reason, without truth,
+and mean, that knowledge hath been said to be of the quality of darkness.
+The action which is prescribed (by the scriptures), (done) without
+attachment, performed without desires and aversion, by one who longeth
+not for (its) fruit, is said to be of the quality of goodness. But that
+action which is done by one seeking objects of desire, or by one filled
+with egoism, and which is attended with great trouble, is said to be of
+the quality of passion. That action which is undertaken from delusion,
+without regard to consequences, loss, injury (to others), and (one’s own)
+power also, is said to be of the quality of passion. The agent who is
+free from attachment, who never speaketh of himself, who is endued with
+constancy and energy, and is unmoved by success and defeat, is said to be
+of the quality of goodness. The agent who is full of affections, who
+wisheth for the fruit of actions, who is covetous, endued with cruelty,
+and impure, and who feeleth joy and sorrow, is declared to be of the
+quality of passion.[303] The agent who is void of application, without
+discernment, obstinate, deceitful, malicious, slothful, desponding, and
+procrastinating, is said to be of the quality of darkness.[304] Hear now,
+O Dhananjaya, the three-fold division of intellect and constancy,
+according to their qualities, which I am about to declare exhaustively
+and distinctly. The intellect which knoweth action and inaction, what
+ought to be done and what ought not to b
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0460 | next_story_id: DKS_0462
+previous title: Krishna Returns to His Gentle Form
+next title: Krishna's Overture to Karna

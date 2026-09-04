@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0042",
+ "title": "Narada Curses Nalakuvara and Manigriva",
+ "subtitle": null,
+ "story": "The two young men could not have chosen a worse moment to be proud.\n\nNalakuvara and Manigriva were the sons of Kubera, the lord of wealth, whose home was on Mount Kailasa, and they had never known a day of want. One day, drunk on the celestial wine called varuni, their eyes rolling with intoxication, they wandered down to the Ganga and into the water, where lotus groves grew thick along the bank. There they sported in the river with the celestial women, careless of everything but their own pleasure.\n\nIt happened that the divine sage Narada was passing that way. The women saw him first, and shame swept through them. Naked as they were, and dreading what a curse from such a sage could do, they drew their garments close and made themselves decent in an instant. But the two brothers, blinded by wine and by the pride of their riches, did not cover themselves. They saw the sage and did not bow. They stood where they were, as if their wealth made them untouchable.\n\nNarada looked at them, and what he felt was not anger but a kind of grief. He began to speak.\n\nThe body, he said, that these two were so proud of — people call it divine, but in the end it is worms, and filth, and ashes. It comes from a father and a mother, common as any, and it returns to the unmanifest from which it arose. For a man whose eyes are blinded by the pride of riches, poverty is the best medicine, the sharpest eye-salve. A poor man is free of the stiff neck of ego; his body is lean with hunger, and he does not stand on his dignity. It is to the poor that the sages, who look on all beings with an equal eye, are drawn. And it is in that company that a man learns to want only the feet of Krishna.\n\nThen Narada turned his words upon the two before him. These two, he said, are the sons of the world's protector, and yet they are sunk in darkness. Therefore let them stand as trees — rooted, motionless, unable to move a single step. But he did not wish them lost forever. It would not be for all time, he said. After a hundred years of the gods, they would come into the very presence of Krishna himself, and at his touch their long stillness would end and they would be set free.\n\nSo it fell out as the sage said. The two proud young men became twin arjuna trees, and their curse was also their cure — a long rooted silence in which the pride that had blinded them could slowly drain away, until the day a child came near them in a courtyard in Gokula.",
+ "reflection": "Narada's curse is framed not as revenge but as treatment. Pride, in his telling, is a kind of blindness, and poverty its sharpest cure; the sentence of tree-ness is softened by the promise of Krishna's touch, so that the punishment is turned toward release before it is even carried out.",
+ "tradition_note": null,
+ "content_note": "The episode involves intoxication and references to unclothed figures; it is told with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Narada",
+  "Nalakuvara",
+  "Manigriva"
+ ],
+ "locations": [
+  "Kailasa",
+  "Ganga"
+ ],
+ "themes": [
+  "curse",
+  "pride",
+  "forgiveness"
+ ],
+ "previous_story_id": "DKS_0041",
+ "next_story_id": "DKS_0043",
+ "next_story_tease": null,
+ "hero_scene": "Narada standing on the bank of the Ganga, speaking his curse over two intoxicated young men in the water among lotus groves, while the celestial women draw their garments close in shame.",
+ "visual_elements": [
+  "Narada",
+  "Nalakuvara",
+  "Manigriva",
+  "the Ganga river",
+  "lotus groves",
+  "celestial women",
+  "two arjuna trees taking shape",
+  "Mount Kailasa",
+  "awe and shame"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.10.1-22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:54:24Z",
+  "source_event_id": "evt_0521"
+ },
+ "editorial_status": "unreviewed"
+}

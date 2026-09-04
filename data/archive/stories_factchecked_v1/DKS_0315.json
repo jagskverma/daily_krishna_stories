@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0315",
+ "title": "The Secret Mayavati Kept",
+ "subtitle": null,
+ "story": "The boy who was called Shamvara's son had believed it all his life: that he was a prince of the demon city, and that the beautiful woman who raised him was his mother. Both were lies, and the night he learned the truth, the lying ended in fire.\n\nThe truth had begun on the seventh night of his life, far away in Dwaraka. He had been born Pradyumna, the son of Krishna and Rukmini; but the ancient Kama, the god of desire, had taken this birth for one purpose — to bring down the demon Shamvara. And the demon, as if urged on by death itself, crept into the lying-in room at the dark hour, lifted the week-old infant from the bed, and carried him across the night to his own city. Krishna, who follows the workings of celestial Maya, knew what had happened, and he did not strike the demon down. The theft was allowed; the child was part of a design larger than his mother's grief.\n\nMayavati had no children of her own, and Shamvara gave the stolen baby to his wife as though he were her son. She looked at the infant, and her hair stood on end; she gazed at him again and again with joy, and as she looked she remembered. In a life before this one he had been her husband — Kama, burnt to ashes long ago by the trident-bearing god in his sorrow for Sati. Now he had come again, into her arms, in another birth. \"Being his wife,\" she thought, \"and knowing him as my husband, how can I give him milk and call him my son?\"\n\nShe could not bring herself to do it. She handed the baby to a nurse, and through the nurse's care the child grew up believing Mayavati was his mother. As the years passed she taught him every form of illusion, all the arts of Maya, until the stolen boy became a young man of striking beauty, expert in every weapon, quick to read the hidden intentions of the people around him.\n\nThen Mayavati, who had carried her secret through all those years, came to him dressed as a beautiful woman and tempted him with her gestures. Pradyumna drew back, shocked. \"What is this?\" he asked. \"Why do you cast off a mother's feeling and behave in this perverse way? Women's minds flicker like lightning. Am I not your son? Tell me the secret of what you are doing.\"\n\nIn a solitary place she told him everything. \"You are not my son, and Shamvara is not your father. You are the son of Vasudeva and Rukmini, a prince of the Vrishnis. On your seventh night, when you were a helpless baby in the lying-in chamber, my husband stole you away. Your mother mourns you like a cow separated from her calf, and your father — mightier than Indra, the banner of Garuda on his flag — does not even know you are alive. I seek you as my lover, for I did not give birth to you, and my heart fails at your beauty.\"\n\nPradyumna had mastered every form of illusion, and the anger that rose in him now was like a weapon drawn. He spoke the demon's name aloud. \"Shall I cower here, afraid of the wretch who stole the infant son of Keshava? I will do what makes him angry. I will break his standard and call him out; and when he comes to meet me I will kill him in battle and return to Dwaraka.\"\n\nIn one breath Mayavati's confession had given him back his name, his parents and his purpose. The boy who had believed himself a demon's son stood up a Vrishni prince — and the first thing he meant to break was the emblem of the power that had stolen him.",
+ "reflection": "What lingers is the silence between them: Mayavati has known who Pradyumna is since the night he was placed in her arms, and has carried that knowledge for years while raising him as her own. The love she finally declares is not a mother's confusion but a wife's memory — a devotion that waited an entire lifetime without once being spoken.",
+ "tradition_note": null,
+ "content_note": "Contains a woman's romantic pursuit of the young man she raised; the episode is handled with restraint and without explicit detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Mayavati",
+  "Shamvara",
+  "Rukmini",
+  "Vasudeva",
+  "Krishna",
+  "Kama"
+ ],
+ "locations": [
+  "Shamvara's city",
+  "Dwaraka"
+ ],
+ "themes": [
+  "revealed identity",
+  "former wife",
+  "longing"
+ ],
+ "previous_story_id": "DKS_0314",
+ "next_story_id": "DKS_0316",
+ "next_story_tease": "The first step of that resolve was a jeweled lion standard above the demon's gate.",
+ "hero_scene": "Pradyumna, a young warrior in the demon king's palace, stands frozen in a moonlit hall while Mayavati — beautiful, sorrowful, her hand raised — tells him he is not her son; the glittering towers of Shamvara's city visible beyond the window.",
+ "visual_elements": [
+  "Pradyumna in the demon palace, shocked and drawing back",
+  "Mayavati confessing, half in shadow, longing on her face",
+  "the stolen infant in the lying-in room of Dwaraka",
+  "the jeweled halls of Shamvara's city at night",
+  "revelation and longing"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.251",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:28Z",
+  "source_event_id": "evt_0334"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0297",
+ "title": "Arjuna's Failed Vow",
+ "subtitle": "Arjuna vows to protect the brahmana's next child, but though he rings the delivery room with arrows, the newborn vanishes into the sky and the brahmana rebukes him.",
+ "story": "Arjuna made a vow, and the vow carried fire in it: if he could not protect the brahmana's next child, he would walk into the flames himself.\n\nThe brahmana of Dwaraka had already lost three sons — each born, each dead the moment it touched the ground, each laid at the palace gate with an accusation against the king. Arjuna had heard the lament and asked the question no one else dared: where is the protector? Now he answered his own question. He stood before the grieving father, with the city watching, and gave his word. \"I will protect your children, blessed one. And if I fail — if even one more child is taken — I will enter the fire.\"\n\nThe brahmana shook his head. \"How can you do what is difficult even for the lords of the world?\"\n\n\"Do not look down on my strength, brahmana,\" said Arjuna. \"It is the strength that pleased Tryambaka himself.\"\n\nShiva. The brahmana heard the name and took heart. A man whose prowess had pleased the great god could surely keep one newborn safe. He was reassured, and Arjuna's word stood before the city.\n\nWhen the time of the birth drew near, Arjuna went to the brahmana's house, and the street outside filled with people who had come to see the famous bowman keep his promise. He touched pure water and bowed to Maheshvara. Then he built. Around the room where the child would be born he raised a cage of arrows — arrow against arrow, every shaft joined to the next with every weapon in his art, a ring of steel points and feathers so dense that neither wind nor bird nor hand could pass. Nothing in the three worlds, he believed, could enter that room; nothing could leave it. He built it slowly, deliberately, so that every man watching would see how carefully it was made — each shaft placed by hand, each joint tested — until the cage stood complete and the room within it lay in shadow. He took his place at the door and waited, and the crowd outside held its breath with him.\n\nThe child was born. It cried — once, twice — and then, before Arjuna's eyes, it was gone. The newborn was lifted bodily into the sky, through the cage of arrows as if the arrows were water, and vanished upward, until there was nothing left but the empty room and the perfect circle of his useless work. Outside, the crowd had heard the cry, and then the silence, and the silence was the worst part of it.\n\nThe brahmana came in, and in the presence of Krishna he did not hold his tongue. \"Neither Pradyumna, nor Aniruddha, nor Balarama, nor Keshava himself could save that child,\" he said. \"Fie on Arjuna, the false speaker. Fie on the bow of the self-praiser.\"\n\nArjuna stood among his arrows and said nothing. The greatest bowman of his age had no answer. The vow of fire hung over him — he had promised the flames if he failed, and he had failed before the whole city. His great bow, the bow that had pleased Shiva himself, hung at his side like a thing he no longer recognized. The people who had come to watch filed away without speaking; someone would remember for years the sight of the world's greatest archer standing inside his own fortress of arrows with nothing left to guard. And Krishna, who had watched it all in silence, was already thinking of the road, because somewhere beyond the reach of any arrow, the children of Dwaraka were waiting to be brought home.",
+ "reflection": "Arjuna's failure is total precisely because his confidence rested on his own strength: a bow that had pleased Shiva could not keep one newborn. The episode strips pride bare — the brahmana curses the bow itself, not just the man — and the work that follows is begun in humility, not in boasts.",
+ "tradition_note": null,
+ "content_note": "Continues the earlier deaths of the brahmana's infants, and the vanished child is taken from the delivery room; handled with restraint, but may be sensitive for younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Arjuna",
+  "Krishna",
+  "the brahmana"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "pride",
+  "failure",
+  "humility"
+ ],
+ "previous_story_id": "DKS_0296",
+ "next_story_id": "DKS_0298",
+ "next_story_tease": "But Arjuna would not let the failure stand: with Krishna beside him, he prepared to follow the vanished child beyond the reach of any arrow.",
+ "hero_scene": "Arjuna standing with his great bow in the brahmana's delivery room, ringed by the dense cage of arrows he had built, staring at the empty place where the newborn had vanished a moment before, while the brahmana points and cries out his rebuke in the presence of Krishna.",
+ "visual_elements": [
+  "Arjuna standing inside his cage of arrows",
+  "the empty space where the newborn vanished",
+  "the brahmana pointing and rebuking him",
+  "Krishna watching in silence",
+  "the delivery room ringed with shafts",
+  "the street outside crowded with onlookers",
+  "humiliation and stunned silence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.89.28-40",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:16Z",
+  "source_event_id": "evt_0281"
+ },
+ "editorial_status": "unreviewed"
+}

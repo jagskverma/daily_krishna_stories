@@ -1,0 +1,129 @@
+# STORY DKS_0352 — Balarama Revisits Vraja
+
+## Index entry
+title: Balarama Revisits Vraja
+summary: Balarama returns to Nanda's Gokula, consoles the pining gopis with Krishna's message, and stays two months in their company.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, Gopis, Nanda, Yashoda
+locations: Gokula
+themes: reunion, separation, comfort
+festival_tags: 
+age_sensitivity: all | notes: Same visit (HV 1.102, BP 10.65): Balarama returns to Nanda's village and the gopis. | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0004
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 65 | verses 1-17 | confidence 5
+  excerpt: Balarama went to Nanda's Gokula, was embraced by the gopas and gopis, and consoled the gopis, who asked after Krishna, with Krishna's heart-felt messages; he stayed two months, sporting with them in the Yamuna groves. (rendered from Sanskrit, verses 1-17)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 102 | verses  | confidence 4
+  excerpt: After some days had thus elapsed, Rāma, recollecting his friendship with Gopas, alone went to Vraja with Krishna's consent. ... 'We had been reared by you and spent our boyhood in sporting here. We took our meals in your houses and tended the kine.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 24 | verses  | confidence 4
+  excerpt: Baladeva... being desirous of seeing his kinsmen, went to Nanda's cow-pens, and there again conversed with the herdsmen and their females... Ráma consoled them by communicating to them agreeable, modest, affectionate, and gentle messages from Krishńa.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.65 (1-17)
+1. pariṣvaktaś cirotkaṇṭhair gopair gopībhir eva ca /
+2. ciraṃ naḥ pāhi dāśārha sānujo jagad-īśvaraḥ /
+3. gopa-vṛddhāṃś ca vidhi-vad yaviṣṭhair abhivanditaḥ /
+4. samupetyātha gopālān hāsya-hasta-grahādibhiḥ /
+5. pṛṣṭāś cānāmayaṃ sveṣu prema-gadgadayā girā /
+6. kaccin no bāndhavā rāma sarve kuśalam āsate /
+7. diṣṭyā kaṃso hataḥ pāpo diṣṭyā muktāḥ suhṛj-janāḥ /
+8. gopyo hasantyaḥ papracchū rāma-sandarśanādṛtāḥ /
+9. kaccit smarati vā bandhūn pitaraṃ mātaraṃ ca saḥ /
+10. mātaraṃ pitaraṃ bhrātṝn patīn putrān svasṝn api /
+11. tā naḥ sadyaḥ parityajya gataḥ sañchinna-sauhṛdaḥ /
+12. kathaṃ nu gṛhṇanty anavasthitātmano $ vacaḥ kṛta-ghnasya budhāḥ pura-striyaḥ &amp;gṛhṇanti vai citra-kathasya sundara- % smitāvalokocchvasita-smarāturāḥ
+13. kiṃ nas tat-kathayā gopyaḥ kathāḥ kathayatāparāḥ /
+14. iti prahasitaṃ śaurer jalpitaṃ cāru-vīkṣitam /
+15. saṅkarṣaṇas tāḥ kṛṣṇasya sandeśair hṛdayaṃ-gamaiḥ /
+16. dvau māsau tatra cāvātsīn madhuṃ mādhavaṃ eva ca /
+17. pūrṇa-candra-kalā-mṛṣṭe kaumudī-gandha-vāyunā /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.102 ()
+TITLE: BALADEVA VISITS VRAJA
+
+Vaishampayana said:—After some days had thus elapsed, Rāma, recollecting
+his friendship with Gopas, alone went to Vraja with Krishna’s consent
+(1). Clad in a beautifully wild attire and quickly entering into Vraja
+Krishna’s elder brother, the slayer of his enemies, saw first his
+charming and extensive forest that had been enjoyed by him before and
+the well-scented tanks (2-3). Thereupon delighting the Gopas with his
+sweet behaviour according to age and previous conduct he held various
+charming conversations with the milk-women (4-5).
+
+Thereupon the elderly milk-men said to Rāma, the foremost of sporters,
+who had just returned from a foreign land in sweet words (6). "Welcome
+to thee, O thou of large arms, O descendant of Yadu. We have been
+pleased with seeing thee to-day (7). O hero, thou art dreadful unto
+enemies and celebrated in the three worlds. We have been pleased for thy
+return to Vraja (8). O hero, O descendant of Yadu, we deserve protection
+from thee or (it may be) that creatures cherish attachment for their
+native place (9). O thou of a pure countenance, no sooner we desired for
+thy arrival than thou hadst come and seen us. Forsooth we have been
+rendered worthy of the honor of gods (10). By thy good luck and by thy
+own greatness the wrestlers and Kansa were slain and Ugrasena has been
+installed as a king (11). We have heard of thy encounter, in the ocean,
+with Timi-like Panchajana, of his destruction and thy battle with
+Jarāsandha and other Kshatriyas on Gomanta (12). We have also heard of
+Darada’s death, Jarāsandha’s defeat and of the descension of weapons in
+that great battle (13). O hero, we have also heard, that slaying the
+king Shrigāla in the charming city of Karavira thou didst place his son
+on the throne and console the subjects (14). Thy entrance into the city
+of Mathura is worthy of being narrated even by the gods. By it the earth
+has been established and all the kings have been brought to subjection
+(15). With thy arrival here, we have been, along with our friends,
+pleased, delighted and favoured as before" (16).
+
+Rāma then replied to all the Gopas stationed around him saying:—"You are
+our better friends than even the Yādavas (17). We had been reared by you
+and spent our boyhood in sporting here (18). We took our meals in your
+houses and tended the kine. You all are our firm friends" (19). When
+Halāyudha gave vent to these words in the midst of Gopas, marks of joy
+were visible on the faces of their women (20).
+
+Thereupon repairing to the forest, the highly powerful Rāma, conversant
+with the knowledge of spirit, began to sport there with Gopa women (21).
+Then the milk-men, conversant with the knowledge of time and place,
+brought Vāruni wine to him. Rāma, of the hue of a pale cloud, drank that
+wine in the forest along with his friends. Thereafter the cow-herds
+brought to him diverse beautiful forest fruits, flowers, meat, sweet
+juice and full blown lotuses and lilies just collected. As the mount
+Mandara is adorned by the Kailāga hill so Rāma shone, with Kundalas
+hanging from his cars, with diadem placed a little askance, with locks
+and head and breast besmeared with sandal and decked with garlands of
+wild flowers. Clad in an apparel dark-blue like a cloud his white person
+appeared like the moon enshrouded by darkness. The plough-share,
+attached to his hands like the hood of a serpent and the burning mace
+fixed to his finger, increased his beauty the more. Thus with his eyes
+rolling in intoxication, Rāma, the foremost of the strong, began to
+enjoy there like the moon in an autumnal night (22-29).
+
+Thereupon Rāma said to Yamunā:—"O great river, going to the ocean, I
+wish to marry you by bathing in your water; come to me therefore in your
+bodily form (30)." Out of her womanish habit and ignorance Yamunā
+disregarded his words as being the out-come of drunkenness and did not
+come to him (31). Thereat filled with anger and maddened with
+drunkenness the powerful Rāma took up his plough share and sat with his
+head looking down in order to drag her (32). The garland of flowers,
+that fell down on earth, began to pour, through the leaves, clear water
+(33). There upon bending down the head of his plough-share Rāma began to
+drag the bank of the great river like unto a wife following her
+inclination (34). At that time the currents of the river were upset and
+all the fishes and the acquatic animals grew bewildered. And Yamunā too
+followed the course of the plough-share (35). Dragged with force by Rāma
+the powerful river Yamunā, going to the ocean, like unto a drunk woman
+going astray in a high-road and over whelmed with fear, began to follow
+the way pointed out by the plough-share. She had the bank for her hip,
+dark-blue lotuses for her lips, the foams driven by the water for her
+girdle, the grave currents for her moving limbs, the bewildered fishes
+for her ornaments, the white geese for glances, the rising Kāsa flowers
+for her silken raiment, the trees grown on her back for
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0351 | next_story_id: DKS_0353
+previous title: Krishna Defeats the Besieging Kings and Demons || Uddhava recalls how Krishna destroyed the hosts of Kala, Magadha (Jarasandha) and Shalva that besieged Dwaraka, and slew Shambara, Dvivida, Bana, Mura, Balvala, Dantavakra and others.
+next title: Balarama Drags the Yamuna

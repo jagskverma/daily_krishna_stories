@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0122",
+ "title": "Krishna Returns to Mathura",
+ "subtitle": null,
+ "story": "Krishna and Balarama were coming home to Mathura, the city where they had been born but had never truly lived. They had grown up far away, among the cowherds of Vraja; the tyrant Kamsa had summoned them to the city to destroy them, and instead Krishna had destroyed him. Now the brothers were returning in peace, and word of them had run on ahead faster than their horses could carry it. By the time the walls of Mathura came into view, the whole city had risen to meet them.\n\nFor five nights they had traveled the road in the company of Damaghosha, a companion of their own people, keeping to the ways of an ordinary traveler. Now the road ended in welcome.\n\nUgrasena came out first, at the head of the Yadavas — Ugrasena, the old king of Mathura, father of Kamsa himself. Behind him came the traders and the ministers, the boys and the old men, until it seemed no one had been left indoors. They had dressed the city as for a festival. At every crossing of the four streets they had hung garlands and raised flags; the trumpets sounded the note of joy, and praise-singers went through the lanes singing the deeds of the two brothers. The whole of Mathura, it is said, looked as delighted and as beautiful as on the day of Indra's festival. Along the highways the singers called out: the two brothers have arrived at their own city — go out and rejoice.\n\nAnd their coming seemed to change the very air of the place. Where Krishna and Balarama passed, no one in Mathura was poor, no one went about in soiled clothes, no one lay helpless in the road. The cows and the horses and the elephants grew glad, the birds began to sing glad notes, and men and women felt a quiet happiness they could not name. The winds that blew from the ten directions were clean of dust, and even the images of the gods in the temples seemed to brighten at their approach. People said that all the signs of the golden age had appeared in Mathura with their coming.\n\nThen, seated on a chariot drawn by fine horses, at an auspicious moment, the brothers entered the city. The Yadavas followed them as the gods follow Indra, and the two, their faces full of gladness, passed like the sun and the moon entering a mountain into the house of their father, Vasudeva. There they set aside their weapons of their own accord, and the burden of all they had carried fell away.\n\nBefore anything else, they bowed to their father's feet. Then they showed proper honor to king Ugrasena and to all the leading Yadavas gathered there. And the elders welcomed them in return with a warmth that asked nothing of them, and the brothers, light-hearted at last, went in to their mother's apartments. In the days that followed they stayed close to Ugrasena, and they lived in Mathura happily, at peace among their own people.",
+ "reflection": "The homecoming is told almost entirely through what the city does and feels — the garlands, the clean winds, the auspicious birds — as if Mathura itself were a body returning to health. Krishna and Balarama are welcomed not with a victory parade but with a father's feet to bow to and a mother waiting inside, and that is where the long journey finally ends.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Ugrasena",
+  "Vasudeva",
+  "Damaghosha"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "return",
+  "homage",
+  "joy"
+ ],
+ "previous_story_id": "DKS_0121",
+ "next_story_id": "DKS_0123",
+ "next_story_tease": null,
+ "hero_scene": "Rama and Krishna riding a chariot drawn by fine horses through the garlanded, flag-hung streets of Mathura, with Ugrasena and the Yadavas following them as the gods follow Indra, the whole city come out to greet them.",
+ "visual_elements": [
+  "Rama and Krishna on a chariot drawn by fine horses",
+  "Ugrasena leading the Yadavas",
+  "garlands and flags at every crossing",
+  "the rejoicing crowds of Mathura",
+  "the house of Vasudeva",
+  "a mood of homecoming and joy"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.101",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:13:00Z",
+  "source_event_id": "evt_0176",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,100 @@
+# STORY DKS_0464 — Krishna Drives Arjuna's Chariot Against Bhishma
+
+## Index entry
+title: Krishna Drives Arjuna's Chariot Against Bhishma
+summary: At Arjuna's bidding, Krishna drives the chariot straight toward Bhishma; in the ensuing duel Bhishma strikes Krishna himself between the breasts with three arrows.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Bhishma
+locations: Kurukshetra
+themes: charioteer, battle, courage
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0488
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 6 | chapter/section 52 | verses  | confidence 4
+  excerpt: Unto him Vasudeva then said, 'Be careful, O Dhananjaya, for I will soon take thee, O hero, towards the grandsire's car.' Having said this, O king, Saurin took that car... before the car of Bhishma... Then, O king, Bhishma, that foremost of smiters, struck Vasudeva between his two breasts with three arrows.
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 6.52 ()
+Dhritarashtra said, “When mine and the hostile hosts were thus formed
+into battle array, how did the foremost of smiters begin to strike?”
+
+Sanjaya said, “When all the divisions were thus arrayed, the combatants
+waited, each cased in mail, and with their beautiful standards all
+upraised. And beholding the (Kuru) host that resembled the limitless
+ocean, thy son Duryodhana, O king, stationed within it, said unto all the
+combatants on thy side, ‘Cased in mail (as ye are), begin ye the fight’.
+The combatants then, entertaining cruel intentions, and abandoning their
+very lives, all rushed against the Pandavas, with standards upraised. The
+battle that took place then was fierce and made the hair stand on end.
+And the cars and elephants all got mixed together. And shafts with
+beautiful feathers, and endued with great energy and sharp points, shot
+by car-warriors fell upon elephants and horses. And when the battle began
+in this way, the venerable Kuru grandsire, the mighty-armed Bhishma of
+terrible prowess, cased in mail, taking up his bow, and approaching them,
+showered an arrowy downpour on the heroic son of Subhadra, and the mighty
+car-warrior Arjuna, and the ruler of the Kekayas and Virata, and
+Dhrishtadyumna of Prishata’s race, as also upon the Chedi and the Matsya
+warriors. And that mighty array (of the Pandavas) wavered at the onset of
+that hero. And terrific was the encounter that took place between all the
+combatants. And horse-men and car-warriors and foremost of steeds fell
+fast. And the car-divisions of the Pandavas began to fly away. Then that
+tiger among men, Arjuna, beholding that mighty car-warrior Bhishma,
+angrily said unto him of Vrishni’s race, ‘Proceed to the place where the
+grandsire is. O thou of Vrishni’s race, it is evident that this Bhishma,
+with wrath excited, will annihilate for Duryodhana’s benefit my host. And
+this Drona, and Kripa and Salya and Vikarna, O Janardana, united with
+Dhritarashtra’s sons headed by Duryodhana, and protected by this firm
+bowman, will slaughter the Panchalas. Even I, therefore, shall slay
+Bhishma for the sake of my troops, O Janardana.’ Unto him Vasudeva then
+said, ‘Be careful, O Dhananjaya, for I will soon take thee, O hero,
+towards the grandsire’s car.’ Having said this, O king, Saurin took that
+car, which was celebrated over the world, before the car of Bhishma. With
+numerous banners all waving, with steeds looking handsome like a flight
+of (white) cranes, with standard upraised on which was the ape roaring
+fiercely, upon his large car of solar effulgence and whose rattle
+resembled roar of the clouds, slaughtering the Kaurava divisions and the
+Surasenas also, the son of Pandu, that enhancer of the joys of friends
+speedily came to the encounter. Him (thus) rushing impetuously like an
+infuriate elephant and (thus) frightening in a battle brave combatants
+and felling them with his shafts, Bhishma the son of Santanu, protected
+by the warriors headed by Saindhava and by the combatants of the East and
+the Sauviras and the Kekayas, encountered with great impetuosity. Who
+else save the Kuru grandsire and those car-warriors, viz., Drona and
+Vikartana’s son (Karna), are capable of advancing in battle against the
+bearer of the bow called Gandiva? Then, O great king, Bhishma, the
+grandsire of the Kauravas, struck Arjuna with seventy-seven arrows and
+Drona (struck him) with five and twenty, and Kripa with fifty, and
+Duryodhana with four and sixty, and Salya with nine arrows; and Drona’s
+son, that tiger among men, with sixty, and Vikarna with three arrows; and
+Saindhava with nine and Sakuni with five. And Artayani O king, pierced
+Pandu’s son with three broad-headed arrows. And (though) pierced on all
+sides by them with sharp arrows, that great bowman,[361] that
+mighty-armed (warrior), wavered not like a mountain that is pierced (with
+arrows). Thereupon he, the diadem-decked, of immeasurable soul, O bull of
+Bharata’s race, in return pierced Bhishma with five and twenty, and Kripa
+with nine arrows, and Drona with sixty, O tiger among men, and Vikarna
+with three arrows; and Artayani with three arrows, and the king
+(Duryodhana) also with five. And then Satyaki, and Virata and
+Dhrishtadyumna of Prishata’s race, and the sons of Draupadi, and
+Abhimanyu, all surrounded him, (proceeding to his support). Then the
+prince of the Panchalas, supported by the Somakas, advanced towards the
+great bowman Drona who was engaged in seeking the welfare of Ganga’s son.
+Then Bhishma, that foremost of car-warriors, speedily pierced the son of
+Pandu with eighty sharp arrows, upon which the combatants on thy side
+were much gratified. Hearing the shouts of those lions among
+car-warriors, Dhananjaya, endued with great prowess, then cheerfully
+entered into the midst of those lions among car-warriors and sported with
+his bow, O king, (successively) aiming at those mighty car-warriors. Then
+that ruler of men, king Duryodhana, said unto Bhishma, beholding his own
+troops (thus) afflicted in battle by the 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0463 | next_story_id: DKS_0465
+previous title: Krishna Consoles Yudhishthira After the First Day's Battle
+next title: Arjuna Restrains Krishna, Who Relents and Returns to the Chariot

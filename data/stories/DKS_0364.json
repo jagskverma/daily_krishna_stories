@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0364",
+ "title": "Krishna Stills the Angry Kings",
+ "subtitle": null,
+ "story": "\"Slay him!\" The cry rose from the kings of the earth as one voice. King Drupada of Panchala had risen to give his daughter, the princess Draupadi, to the unknown young brahmin who had strung the great bow and shot the mark — in truth Arjuna, a Pandava prince in disguise, though no king in the hall knew it. The kings he had invited and feasted felt the insult like a wound. \"He passes us by and treats the assembled monarchs as straw!\" they shouted. \"He would bestow his daughter on a brahmin! The svayamvara — the choosing of a royal bride — belongs to the warrior class, and a brahmin has no claim on a warrior princess. Let us slay him, and his son with him!\" They seized their weapons and rushed at the king of Panchala, who went pale with fear and took shelter among the brahmins.\n\nThe brahmins were not afraid. They shook their deerskins and coconut-shell pots, shouting back, \"Fear not — we will fight!\" Arjuna, in his brahmin's robes, smiled at them and raised a hand. \"Stand aside and watch,\" he said. \"With arrow after arrow I will check these angry kings, as a charm checks a snake.\" Then he took up the great bow he had won and stood immovable as a mountain, Bhima at his side.\n\nKarna came first — the finest archer among the kings, known to the world as a charioteer's son but in truth the child of the sun god. He flung himself at Jishnu — the poets' name for Arjuna — with all his fire, while Salya, king of Madra, charged Bhima. Arjuna drew his bow and pierced Karna with sharp arrows until he fainted. When Karna came to himself he fought with greater care than before, and the two raged at each other until, wrapped in each other's showers of arrows, they vanished from the watching crowd. Only heroes could read the words they flung — \"Behold the strength of my arms!\" — \"Mark how I have countered that feat!\" Then Karna paused and called across the field. \"Foremost of brahmins,\" he said, \"I am pleased by the strength of your arms. Are you the science of weapons made flesh — or Rama, best of brahmin warriors? Are you Indra himself, or Vishnu in a brahmin's form, come to fight me?\"\n\n\"Karna,\" Arjuna answered, \"I am none of these. I am only a brahmin, and the foremost of all warriors who carry weapons. By my teacher's grace I am master of the Brahma weapon and of the Paurandara — the great weapons of Brahma and Indra. I have come to vanquish you; wait, then, a little.\" And Karna, reflecting that a brahmin's sacred power is ever invincible, drew back from the fight.\n\nOn the other side of the field, Salya and Bhima had locked together like two elephants in rut, striking with fists and knees, throwing each other down and hauling each other up, until the lists rang with the crash of their bodies, two masses of granite meeting. Then Bhima lifted the king of Madra in his arms and hurled him down — yet set him down so gently that Salya was hardly hurt. Strength and mercy in one feat, and all who saw it wondered. The monarchs drew back, alarmed, crowding about the two brahmins. \"These bulls among brahmins are wonderful warriors!\" they murmured. \"Who could fight Karna except Rama, or Drona the great teacher of arms, or Kiriti the son of Pandu — and who could face Duryodhana except Krishna, the son of Devaki?\"\n\nThen Krishna himself rose. He had watched Bhima's feat, and what he had suspected from the first stood confirmed: these two were the sons of Kunti — his own cousins, whom the world believed dead. Gently, addressing the assembled monarchs, he said one thing: \"This maiden has been justly won.\" And the monarchs, accomplished in battle, desisted from the fight. The storm over the amphitheatre broke apart; the kings lowered their weapons; and the unknown brahmin walked out with the daughter of Drupada beside him — while Krishna and Balarama watched from the crowd, their silence full of joy.",
+ "reflection": "The duel proves what the brothers are; only Krishna's word settles what they are not — a threat. Strength wins the field with bows and an uprooted tree, but the peace is won with a single sentence spoken gently at the right moment, and the monarchs accept it. There is a kind of power that consists in knowing when not to fight.",
+ "tradition_note": null,
+ "content_note": "Battle violence, described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna",
+  "Drupada",
+  "Karna",
+  "Salya"
+ ],
+ "locations": [
+  "Panchala",
+  "Drupada's amphitheatre"
+ ],
+ "themes": [
+  "conciliation",
+  "protection",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0363",
+ "next_story_id": "DKS_0365",
+ "next_story_tease": "That evening the five brothers carried their bride back to the potter's house — but someone had already guessed who they were.",
+ "hero_scene": "Krishna stands at the centre of the amphitheatre floor, one hand raised in calm appeal, while behind him Bhima holds an uprooted tree and Arjuna stands with his great bow; the furious kings of the earth lower their weapons around them, dust still settling from the duels.",
+ "visual_elements": [
+  "Krishna standing with raised hand before the assembled monarchs",
+  "Bhima with the uprooted tree, Salya thrown gently at his feet",
+  "Arjuna and Karna veiled in their showers of arrows",
+  "the Brahmins shaking deer-skins and water-pots, crying defiance",
+  "the monarchs lowering their weapons and drawing back"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.192",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:58Z",
+  "source_event_id": "evt_0382",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

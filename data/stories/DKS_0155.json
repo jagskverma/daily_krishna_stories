@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0155",
+ "title": "The King of Chedi Offers Friendship",
+ "subtitle": null,
+ "story": "The plan had worked: Krishna and Balarama had drawn Jarasandha and the kings who followed him away from Mathura, deep into the south, and on mount Gomanta the two brothers had turned and made their stand. When the last chariot of the routed army had vanished beyond the plain, the foot of the mountain fell quiet. For days the kings had pressed the mountain with their archers and elephants and great war-cars, and for days two men had held it. Now the field lay strewn with broken axles and abandoned standards, and the soldiers who remained stood far off, watching the two brothers walk down from the slopes with nothing in their hands but the weapons that had dropped out of the sky.\n\nJarasandha himself had fled. The king of Magadha — who had bound the kings into this siege and sworn to see the two cowherd boys dead — had ridden away with the rest when the battle turned. It was he who had rallied the faltering warriors with bitter words, shame on men who fled from a cowherd fighting on foot, and for a while his fury had held the line. But no rally could outlast what they had seen that morning: the four weapons blazing down from the sky like flames, the plough-share and the mace in Balarama's hands, the sun-bright discus and the club in Krishna's, and the war-cars of the kings breaking up beneath them. So the alliance that had besieged Gomanta scattered, and the mountain stood.\n\nThen, out of the silence, a single chariot rolled forward across the field, unhurried, banners high, and stopped at a courteous distance. From it stepped the king of Chedi, a man of years, remembered by the Yadavas as kin, for his house was bound to theirs by marriage. He walked to where Krishna and Balarama stood, and before the watching remnants of two armies he remembered that kinship aloud.\n\nLong before this war, he said, our families were one. This war was never mine by choice. I came where the kings came, and I have seen what your arms can do. I want no more of it. Let us go together, my army and my followers and I, to the city of Karavira. Let the road know us as allies.\n\nIt was a strange offer to make in the wreckage of a battle, and perhaps only a man who had been on the losing side could have made it with such simplicity. Krishna accepted him at once, with the ease of a man who had never truly counted him an enemy at heart. Balarama, who that very morning had dragged kings from their chariots with his plough-share, stood by without objection, and the king of Chedi — the fear of the field gone out of his eyes — looked almost young again.\n\nThey set out the same day, the small army of the Chedi king and the two brothers riding together where they had lately fought. The country people who had hidden during the siege came to the roadside as the column passed, women and children and old men, and the word ran ahead of them: the war is over, and the king of Chedi rides with Krishna. It was, the soldiers muttered to one another, the strangest peace they had ever seen concluded — no plunder and no tribute, only a kinsman's word given and accepted. Dust rose behind the chariots, and Karavira lay somewhere beyond the horizon, a city that knew nothing yet of what was coming toward it, or of the kindness that had turned a routed king into a friend.",
+ "reflection": "The king of Chedi had come to Gomanta as part of the siege, but he was the first to remember, once the fighting was over, that his house and the Yadavas were family. The war had not created the enmity; it had only hidden the kinship, and the moment the king chose to recall it, the enmity had nothing left to stand on.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "King of Chedi (Damaghosha)",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Gomanta",
+  "Karavira"
+ ],
+ "themes": [
+  "alliance",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0154",
+ "next_story_id": "DKS_0156",
+ "next_story_tease": "But at Karavira, the king Shrigala had heard how the armies had fared at Gomanta, and he meant to meet Krishna himself.",
+ "hero_scene": "On the battlefield plain at the foot of Mount Gomanta, the king of Chedi steps down from his chariot and offers his hand to Krishna in friendship, his army and banners gathered behind him, while Balarama stands at Krishna's side and broken war-chariots litter the field.",
+ "visual_elements": [
+  "Mount Gomanta",
+  "the battlefield strewn with broken chariots and abandoned standards",
+  "Krishna and Balarama",
+  "the king of Chedi stepping down from his chariot",
+  "the Chedi army and banners",
+  "the open road toward Karavira",
+  "relief and friendship after war"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.99",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0173",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5
+}

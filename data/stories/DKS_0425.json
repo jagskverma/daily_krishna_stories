@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0425",
+ "title": "The Merit of Striving for Peace",
+ "subtitle": null,
+ "story": "The city of Hastinapura slept, and the lamps in Vidura's house burned low. Krishna and Vidura — the blind king's brother, the wisest man in the Kuru court — still sat talking. Krishna had come to plead for peace between Dhritarashtra's sons and his cousins the Pandavas, and Vidura had just told him plainly what waited: Duryodhana's wickedness, and the enmity of every warrior king who had chosen his side.\n\nKrishna listened to it all without surprise. Then he answered, and his answer was not a defence of his plan but a statement of why he had come at all.\n\n\"Everything you have said is true, Vidura,\" he said. \"You have spoken to me as a father and mother speak, and your words are worthy of you — consistent with virtue, with good sense, and with truth. But hear the reason for my coming. I know well the wickedness of Dhritarashtra's son, and the enmity of the kings who stand with him — and still I have come. Great is the merit of him who frees the whole earth from the meshes of death: this earth, with its elephants, its chariots and its horses, already overshadowed by a dreadful calamity.\"\n\nHe spoke of merit as a man speaks of something he has weighed. If a man strives with all his might to do a good deed and fails, Krishna said, the merit of the striving is still his. And if a man only plans an evil deed in his heart but never does it, the evil can never touch him. The scales of the world are not read by outcomes alone.\n\n\"I will strive sincerely, Vidura, to bring about peace between the Kurus and the Srinjayas — between Dhritarashtra's sons and the Pandavas with the allies who would fight beside them — who are about to slaughter one another. That calamity hangs over them all because of the Kurus' own conduct; it is the doing of Duryodhana and Karna, and the other kings only follow where those two lead. The wise call a man a wretch who will not lift a hand to save a friend sinking in misfortune. Striving with all his might — even seizing his friend by the hair, if he must — one should hold him back from a wrongful act. He who does so wins praise, not blame.\"\n\nSo Krishna had come: not because he expected the court to listen, but because when kinsmen fall out, a true friend speaks between them. If Duryodhana judged him wrongly, he would still have his own conscience. He had come so that no one could ever say that Krishna, though able to help, had made no attempt to stop the two houses from destroying one another; and having striven for peace, he would stand free of blame before all the kings.\n\n\"If the foolish Duryodhana will not accept my words, he will only be inviting his own fate,\" Krishna went on. \"But if I can bring peace to the Kurus without sacrificing the interests of the Pandavas, my conduct will be highly meritorious, and the Kauravas themselves will be saved from the meshes of death. If Dhritarashtra's sons reflect coolly on what I shall say — words full of wisdom and consistent with righteousness — then peace will be made, and they will honour me as its author.\"\n\nThen, with the calm of a man who had settled a long argument in his own heart, he added what Vidura was meant to carry back into the night. \"But if they seek to injure me, know this: all the kings of the earth united are no match for me — like a herd of deer before an enraged lion.\"\n\nThere was nothing more to say. The lamps flickered, the city slept on, and Krishna lay down for the night. Whatever the morning brought, he would meet it having done the one thing within his power: he had come, and he would speak.\n\nVidura stayed wakeful long after, weighing the man who had come to plead for peace and, in the same breath, had told him he could not be harmed if the plea was refused. Between those two truths lay everything that was about to happen to the world.",
+ "reflection": "Krishna's answer to Vidura turns the peace mission into a matter of conscience: merit belongs to the striving itself, not to the outcome. He does not come to the Kurus expecting to be heard — he comes so that the attempt is made, and so that no one, least of all himself, can later say it was not.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Vidura's abode"
+ ],
+ "themes": [
+  "resolve",
+  "duty",
+  "peace"
+ ],
+ "previous_story_id": "DKS_0424",
+ "next_story_id": "DKS_0426",
+ "next_story_tease": "At dawn, Krishna would ride out into the streets of Hastinapura toward the Kuru assembly.",
+ "hero_scene": "In the lamplight of Vidura's house in Hastinapura, Krishna sits across from Vidura in the small hours of the night, one hand raised as he explains why he has come to a court he knows will not listen, while the sleeping city lies beyond the shuttered windows.",
+ "visual_elements": [
+  "Krishna and Vidura seated facing each other by lamplight",
+  "the low-burning lamps of Vidura's house at night",
+  "Krishna speaking calmly, one hand raised in emphasis",
+  "the sleeping city of Hastinapura beyond the windows",
+  "Krishna lying down on his soft bed as the talk ends"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.093",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0432",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

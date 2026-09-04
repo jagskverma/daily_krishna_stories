@@ -1,0 +1,43 @@
+# STORY DKS_0093 — Krishna Returns the Clothes and Blesses the Gopis
+
+## Index entry
+title: Krishna Returns the Clothes and Blesses the Gopis
+summary: The shivering gopis come from the water, and Krishna, pleased with their sincerity, returns their clothes and promises their wish will be fulfilled.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Yamuna river
+themes: grace, devotion, promise
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0086
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 22 | verses 12-27 | confidence 5
+  excerpt: Coming from the water with hands pressed together, the gopis receive back their garments, and Krishna tells them he has understood their vow, and that their longing for him shall bear its fruit in the coming nights. (rendered from Sanskrit, verse 12-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.22 (12-27)
+12. evaṃ bruvati govinde narmaṇākṣipta-cetasaḥ /
+13. mānayaṃ bhoḥ kṛthās tvāṃ tu nanda-gopa-sutaṃ priyam /
+14. śyāmasundara te dāsyaḥ karavāma tavoditam /
+15. bhp_10.22.016/0 śrī-bhagavān uvāca
+16. tato jalāśayāt sarvā dārikāḥ śīta-vepitāḥ /
+17. bhagavān āhatā vīkṣya śuddha -bhāva-prasāditaḥ /
+18. yūyaṃ vivastrā yad apo dhṛta-vratā vyagāhataitat tad u deva-helanam /
+19. ity acyutenābhihitaṃ vrajābalā matvā vivastrāplavanaṃ vrata-cyutim /
+20. tās tathāvanatā dṛṣṭvā bhagavān devakī-sutaḥ /
+21. dṛḍhaṃ pralabdhās trapayā ca hāpitāḥ $ prastobhitāḥ krīḍana-vac ca kāritāḥ &amp;vastrāṇi caivāpahṛtāny athāpy amuṃ % tā nābhyasūyan priya-saṅga-nirvṛtāḥ
+22. paridhāya sva-vāsāṃsi preṣṭha-saṅgama-sajjitāḥ /
+23. tāsāṃ vijñāya bhagavān sva-pāda-sparśa-kāmyayā /
+24. saṅkalpo viditaḥ sādhvyo bhavatīnāṃ mad-arcanam /
+25. na mayy āveśita-dhiyāṃ kāmaḥ kāmāya kalpate /
+26. yātābalā vrajaṃ siddhā mayemā raṃsyathā kṣapāḥ /
+27. bhp_10.22.028/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0092 | next_story_id: DKS_0094
+previous title: Krishna Steals the Gopis' Clothes
+next title: The Brahmanas Refuse Krishna's Request for Food

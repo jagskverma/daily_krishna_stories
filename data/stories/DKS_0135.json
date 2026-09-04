@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0135",
+ "title": "The Arena at Dawn",
+ "subtitle": null,
+ "story": "King Kamsa of Mathura had planned this day for years. A prophecy said that Krishna — the nephew smuggled out of his prison as a baby and raised among the cowherds of Vrindavan — would end his reign. Now Krishna had come at last to the city with his elder brother Balarama, and in a single day the great bow was broken and the men set to guard it were dead. When the night at last ended and the sun rose up out of the waters, Kamsa gave his order: let the wrestling begin.\n\nHe had spent the dark hours with his omens and his dreams, turning them over and over the way a man turns a key in a lock that will not open. But morning had come, and with it he set about turning his dread into a plan. The wrestling festival was to be the great public show of his reign, the day when all of Mathura gathered to watch the king's wrestlers prove their strength. Now it would serve a second purpose, one he kept to himself behind his steady face. He gave the word for everything to be made ready, and the order went out through the palace and into the streets, and the city answered.\n\nAll through the city the arena was made ready. Men smoothed the earth of the wrestling ground and raised the banners; drums and kettledrums began to sound, the noise rolling out over the houses until there was no corner of Mathura that did not know the festival had begun. Ropes were drawn around the wrestling ground, and the morning sun climbed slowly over the stands. The sound was meant to be joyful, and it was, in the bright early air — and yet it carried an edge to anyone who knew the king and what his festivals had come to mean.\n\nThe people came. Citizens and country folk poured in, priests and warriors at their head, and took their places around the arena until the stands were full and the ground was ringed with faces, the whole city turned out in its best. Their voices rose and fell in a low, expectant murmur, like the sea. Kamsa himself climbed to the royal dais, his ministers around him, and sat looking out over the crowd he had gathered — the crowd that would watch whatever he had arranged for them to watch, and cheer at whatever he told them was worth cheering.\n\nThe wrestlers entered and took their places: Chanura and Mushtika, the strongest of the king's fighters, and with them Kuta, Shala, and Toshala — practiced, dangerous men, their oiled bodies shining in the morning light, each waiting for the signal to fight. They moved through the arena with the easy confidence of men who had never been beaten, and the crowd murmured its approval as they passed.\n\nAnd then, summoned by the king, the cowherds arrived — Nanda, who had raised Krishna from a baby, at their head, with the other men of Vrindavan, come to the city as guests bearing their offerings. They were country men in a king's city, and they looked it, and yet they carried themselves with the quiet dignity of invited guests, their gifts held before them. There were greetings and gifts, and the festival settled into its appointed order, and no one yet spoke of what it was really for.\n\nThe stage was set. The drums beat on. And Kamsa, at the centre of it all, watched the gate.",
+ "reflection": "The story moves from the intimacy of Kamsa's fear out into the great public theatre of the arena — a king turning private dread into spectacle. Everything is told in the language of preparation and display, and the effect is ominous: every drum and banner is being readied for a confrontation no one will announce.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Kamsa",
+  "Chanura",
+  "Mushtika",
+  "Nanda"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "festival",
+  "plot"
+ ],
+ "previous_story_id": "DKS_0134",
+ "next_story_id": "DKS_0136",
+ "next_story_tease": "But the brothers had not yet reached the arena, and between them and its gate stood a creature no wrestler could match.",
+ "hero_scene": "The wrestling arena at dawn, drums sounding and banners flying, with Kamsa seated on the royal dais as the wrestlers Chanura and Mushtika take their places and Nanda's cowherds arrive bearing offerings.",
+ "visual_elements": [
+  "the wrestling arena at dawn",
+  "drums and kettledrums",
+  "banners over the stands",
+  "Kamsa on the royal dais with his ministers",
+  "wrestlers taking their places",
+  "Nanda and the cowherds bearing offerings",
+  "a mood of gathering tension"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.42.31-37",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:20Z",
+  "source_event_id": "evt_0138",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

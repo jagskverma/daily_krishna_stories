@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0536",
+ "title": "The Boon That Tested Its Own Giver",
+ "subtitle": null,
+ "story": "The demon Vrikasura, son of Shakuni, stood at the gate of Vaikuntha, the home of Vishnu, and bellowed for the god hiding inside. A little while before, he had won a terrible gift from Shiva: whoever’s head he touched would die. He had meant to test that gift on Shiva’s own head, and Shiva had fled before him — across the earth, through the heavens, and at last through this very gate, into the one refuge that never turns away anyone who comes pursued.\n\nInside, no terror waited for him. A young brahmachari came out to meet him — a wandering student, staff in hand, a deerskin over his shoulder — glowing like low fire, his face mild and open, as though fear had never touched it. He greeted Vrikasura by name and asked why a victor like him looked so spent, and where he was rushing.\n\nThe young man was Vishnu himself, the lord of the house Vrikasura had come to, though the demon had no way of knowing it.\n\nVrikasura, worn out and vain, told him everything: the penance, the boon, and how he meant to test its truth on Shiva’s own head. The young man listened, and a kindly doubt creased his brow.\n\n“Forgive me,” he said, “but that cannot be. I have heard that the great god Shiva is compassionate — but even compassion has its limits. Such a power, given to a demon, over life itself? No. You have been deceived, or you deceive yourself.”\n\nThe demon swore it was true. The young man shook his head, still gentle. “Then you have nothing to fear from proving it,” he said. “Place your hand on your own head. If you live, the tale was always a tale. If you do not — well, then the boon was real after all.”\n\nIt was said so smoothly, so kindly, that the words seemed to take the breath out of the demon’s rage. He had chased a god across the world wanting to prove his power, and here at last was a listener who doubted it. He forgot Shiva. He forgot everything but the insult of being disbelieved. He raised his hand and brought it down on his own head. The skull split, and Vrikasura fell where he stood — dead in that instant, struck down by the very power he had meant for another.\n\nFor a moment Vaikuntha was still. Then flowers rained down from every direction, released by the gods who had watched, helpless, from the edges of the sky. Shiva, freed at last, stepped out of hiding and stood before the young man. “O Lord,” he said, “what creature that has wronged the great has ever survived? This one offended against a god, and his own gift destroyed him. He was never killed by you. He was killed by what he carried.”\n\nVishnu received the praise the way he received everything — quietly, without claiming it. The terror that had emptied the heavens was over. Before long, Shiva set out for his own mountain, and Vaikuntha grew quiet again beneath the fallen flowers.",
+ "reflection": "Vishnu wins without lifting a weapon, by letting the asura's own boon answer for him. There is an exactness to the justice: the power Vrikasura meant to aim at a god had been aimed at himself from the moment he received it, and the gentlest of disguises carried the heaviest of truths.",
+ "tradition_note": null,
+ "content_note": "A demon dies when his own hand splits his skull; the moment is described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "other",
+ "story_arc": "other",
+ "characters": [
+  "Vishnu",
+  "Vrikasura",
+  "Shiva"
+ ],
+ "locations": [
+  "Vaikuntha"
+ ],
+ "themes": [
+  "divine cunning",
+  "protection",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0535",
+ "next_story_id": "DKS_0537",
+ "next_story_tease": "The question that had opened the tale still stood, and the sages would soon put the three great gods themselves to the test.",
+ "hero_scene": "A radiant young brahmachari with staff and deerskin standing calmly before the towering asura Vrikasura, whose hand is raised to his own head, while flowers fall from a sky full of watching gods and the freed Shiva looks on.",
+ "visual_elements": [
+  "the young brahmachari Vishnu, staff and deerskin, glowing like low fire",
+  "the towering, exhausted asura Vrikasura raising his hand to his own head",
+  "flowers raining from the sky",
+  "the freed Shiva stepping out from refuge",
+  "the still gardens of Vaikuntha",
+  "a mood of quiet cunning and exact justice"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.88.28-38",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:18:26Z",
+  "source_event_id": "evt_0523",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

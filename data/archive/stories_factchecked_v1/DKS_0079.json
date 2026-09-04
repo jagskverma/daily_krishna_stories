@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0079",
+ "title": "Krishna Questions the Indra Sacrifice",
+ "subtitle": null,
+ "story": "When the cowherds of Vraja threw themselves into the work of a great sacrifice, the one person in the village who least needed an explanation came forward to ask for one.\n\nKrishna had come in from the forest and found the elders gathered, his father Nanda at their head, deep in the bustle of a ceremony, the air loud with preparation. He did not stand apart and instruct them, though nothing about the rite was hidden from him. Instead he came before the elders and bowed low, the way a boy comes to his father when he wants to be taught, and he asked.\n\n\"Tell me, father,\" he said, \"what is this ceremony you have undertaken? What is its fruit, and for whom is it meant, and by what means is it to be accomplished?\"\n\nFour questions, each one sharper than the last. He did not ask what the ceremony was called, or how it was done, or when it had begun. He asked what it was for, what it would produce, who would receive it, and how the whole thing was to be brought about. It was the question of someone who wanted not the shape of a rite but its heart.\n\nHis eagerness, the verses say, was real and large; he asked as one who truly wished to hear the answer, not as one who already possessed it. And the text is careful to mark what a strange thing this was. Here was the Lord who knows all things, the Self of every being, the one who sees everything, and he stood among the elders of his own village with his head lowered, asking them to teach him as a son asks his father.\n\nThe question carried a second edge, and he let it show. People, he said, perform their rites whether they understand them or not. A man who goes through the motions without knowing and a man who acts with understanding are not, in the end, doing the same thing. So before anything else he wanted to know what the elders had settled upon, and why.\n\nIt was the kind of question a village had not stopped to ask in a very long time. The sacrifice had come down from the elders' fathers and their fathers before them, season after season, and no one had needed to be told its name or its reason. The doing of it was reason enough, until a boy stood among them and asked, gently, what all of it was for.\n\nThe elders had no cause to refuse him. And so the question hung in the air over Vraja, simple, unsettling, and not nearly as easy to answer as it first appeared.",
+ "reflection": "The striking thing is the posture: the one who knows everything comes to be taught, and his question does its work not by declaring an answer but by asking the elders to look at what they have always done without ever having to say why.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Krishna",
+  "Nanda"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "ritual",
+  "questioning",
+  "humility"
+ ],
+ "previous_story_id": "DKS_0078",
+ "next_story_id": "DKS_0080",
+ "next_story_tease": "But far above Vraja, the god to whom that sacrifice had always belonged was about to hear that it had been taken from him.",
+ "hero_scene": "Young Krishna standing with bowed head before Nanda and the gathered elders of Vraja, asking about the great sacrifice being prepared while the village bustles with offerings around them.",
+ "visual_elements": [
+  "Krishna with head bowed in respect",
+  "Nanda and the elders of Vraja",
+  "preparations for a great sacrifice",
+  "offerings being gathered",
+  "village of Vraja",
+  "daytime",
+  "curiosity and humility"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.24.1-6",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:06:08Z",
+  "source_event_id": "evt_0091"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

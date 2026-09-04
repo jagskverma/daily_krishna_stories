@@ -1,0 +1,33 @@
+{
+  "work": "Mahabharata (Kisari Mohan Ganguli English translation, all 18 parvas)",
+  "translator": "Kisari Mohan Ganguli (published by Pratap Chandra Roy)",
+  "edition": "1883-1896; Project Gutenberg volumes (Books 1-7, 12-15: ebooks 15474-15477) + KMGanguli text files (Books 8-11, 16-18) — all derived from the sacred-texts.com proofed scans",
+  "publication_year": 1896,
+  "download_url": "https://www.gutenberg.org/ebooks/15474 (and github.com/rahulnyk/mahabharata text/KMGanguli for books 8-11,16-18)",
+  "download_date": "2026-09-01",
+  "format": "UTF-8 plain text, per-parva sections",
+  "copyright_status": "public domain",
+  "license_notes": "Ganguli translation PD (1883-1896); Gutenberg license; KMGanguli repo has no explicit license but contains the same PD translation text",
+  "sha256": "6936769ca526bc5486335940958f43d036414d2fd29dcc17259610fa95b66b75",
+  "files": [
+    "mahabharata/pg15474.txt",
+    "mahabharata/pg15475.txt",
+    "mahabharata/pg15476.txt",
+    "mahabharata/pg15477.txt",
+    "mahabharata/kmg_book08.txt",
+    "mahabharata/kmg_book09.txt",
+    "mahabharata/kmg_book10.txt",
+    "mahabharata/kmg_book11.txt",
+    "mahabharata/kmg_book16.txt",
+    "mahabharata/kmg_book17.txt",
+    "mahabharata/kmg_book18.txt",
+    "mahabharata/pg7864.txt",
+    "mahabharata/pg7965.txt",
+    "mahabharata/pg11894.txt",
+    "mahabharata/pg12058.txt",
+    "mahabharata/pg12333.txt"
+  ],
+  "role": "CANONICAL English source for Mahabharata Krishna narrative (Adi/Sabha/Vana/Udyoga/Bhishma/Drona/Karna/Stri/Mausala etc.)",
+  "quality": "clean (pg7864/pg7965/pg11894/pg12058/pg12333 are duplicate earlier uploads of the same text; kept as raw artifacts)",
+  "confidence": 5
+}

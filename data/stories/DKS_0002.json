@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0002",
+ "title": "A Voice Over the Milk Ocean",
+ "subtitle": null,
+ "story": "The earth had come to Brahma weeping, a tired cow before the maker of the worlds, crushed by the weight of demon kings who had stolen the thrones of the land. Brahma knew that her burden could not be lifted by his will alone. So he gathered the gods around him, took the earth with them, and set out for the one place even the gods turn to when the world is in trouble.\n\nIt is called the ocean of milk. Its waters are said to lie white as milk and endlessly calm, and there, resting on the coils of the great serpent Ananta, is Vishnu, the protector whom the gods themselves address when no other help remains. Brahma came to that shore with the host of the gods beside him, and together they laid the earth's suffering before Vishnu, asking him to remember her, the one who fed them all and now could not rise beneath her burden.\n\nThe answer came not from any face or form but from the sky. In the deep stillness of his meditation, Brahma heard a voice, clear and certain, rolling across the water, and what it said he repeated to the waiting gods.\n\nThe earth's burden, the voice declared, had not been forgotten, and it would not be carried forever. The Lord himself would descend into the world. He would come not to a palace of the gods but to the house of a single man named Vasudeva, and there, in that ordinary household, he would take birth among the Yadus, the family into which Vasudeva was born.\n\nNor were the gods to stand apart and watch. Each was to send a part of himself down to earth, to be born among the Yadus, so that when the Lord came his helpers would already be at his side, hidden among the people of the earth. With him would come Ananta, the thousand-headed serpent who upholds the world, born as his elder brother. And with him would come the Lord's own divine power, the mysterious force that veils and reveals, the charm by which the whole world is held, to walk beside him through the work that lay ahead. Not one of the gods was to stay behind; it was to be a descent shared.\n\nThe voice fell silent. The earth's fever, it had made plain, was nothing new; it had been known, and answered, long before she came weeping to that shore. On the milk ocean the gods understood that the long deliverance had begun, not with armies or thunder, but with a promise spoken once, meant to be kept in a household that did not yet know it had been chosen. And they understood, too, that the earth's plea had been granted not for anything they had said, but because the Lord had already resolved to come.",
+ "reflection": "The answer to the earth's tears is not a plan drawn up on the spot but a voice heard in stillness, as if the whole descent of the Lord had been decided long before the question was ever asked.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Brahma",
+  "Vishnu",
+  "gods",
+  "Earth"
+ ],
+ "locations": [
+  "Milk Ocean"
+ ],
+ "themes": [
+  "divine_will",
+  "deliverance",
+  "cosmic_order"
+ ],
+ "previous_story_id": "DKS_0001",
+ "next_story_id": "DKS_0003",
+ "next_story_tease": "And long before that promise could be kept, a warning would ring out over a wedding chariot in Mathura.",
+ "hero_scene": "Brahma and the host of gods gathered on the luminous shore of the milk ocean, while a bodiless voice speaks from the sky, declaring that the Lord will be born in the house of Vasudeva.",
+ "visual_elements": [
+  "the milk ocean, calm and white",
+  "Brahma leading the gods",
+  "the earth carried along with them",
+  "a bodiless voice from the sky",
+  "Ananta the thousand-headed serpent",
+  "gods receiving their portions",
+  "a mood of quiet awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.1.18-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:56:29Z",
+  "source_event_id": "evt_0520",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

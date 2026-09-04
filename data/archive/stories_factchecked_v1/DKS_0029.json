@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0029",
+ "title": "The Universe in Her Son's Mouth",
+ "subtitle": null,
+ "story": "There is no hour more ordinary in a mother's day than the hour she feeds her child. It was in just such an hour, the child on her lap and nearly done with his milk, his drinking slowing, that Yasoda saw what no one had prepared her to see.\n\nShe was looking down at him the way mothers do, at the small face with its lovely, contented smile. And the child yawned.\n\nIt was only a yawn, the kind every tired infant makes. But as his mouth opened, Yasoda looked into it, and instead of the pink of a child's gums she saw the sky. The wide sky, and the earth spread out beneath it, and the heavens beyond, and the hosts of stars turning in their courses, and the directions, and the sun and the moon and fire and wind and the great oceans, and every living thing. The whole universe, moving and unmoving, arranged inside the open mouth of the child she was nursing.\n\nShe saw all of it, suddenly and at once, and she trembled. Her limbs shook, and her breath caught in her throat, and she trembled the way a leaf trembles in a strong wind, for she understood, in that instant, that the small mouth before her opened onto everything.\n\nIt lasted only as long as a yawn lasts. But in that small space of time, Yasoda saw more than the sages spend whole lifetimes seeking, and it was offered to her without a word, in the open mouth of the child she was feeding, for no reason but that she was his mother and happened to be looking.\n\nWhat must that have been like? A mother bending over her baby, and in the space where his small mouth opened, the turning of the worlds. A woman who has churned butter and mended cloth and sung her baby to sleep, suddenly given the whole of creation to look at. The child who could not yet speak a word held the sky and the sea and all that lives, and he offered no explanation and asked for none. He only yawned, and let her look, and then, as quickly as it had opened, the moment passed, and he was only a child again, warm and drowsy against her, his mouth once more too small to kiss without bending down.\n\nThe source does not say how long she sat there afterward, or what she said when the trembling stopped. It says only that she saw, and that she shook. Perhaps that is enough. Some things are too large to be spoken of, and are carried instead, silently, in the heart of a woman who once looked into her own child's face and saw everything.",
+ "reflection": "The vision is given to a mother in the most domestic of moments, while she is nursing, and it is not sought or asked for. The infinite does not interrupt her love; it shows itself through the very child she is holding.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yasoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "cosmic_vision",
+  "wonder"
+ ],
+ "previous_story_id": "DKS_0028",
+ "next_story_id": "DKS_0030",
+ "next_story_tease": null,
+ "hero_scene": "Yasoda, the child on her lap, stares into his yawning mouth and sees the whole universe within it, the sky and oceans and sun and moon and stars, while she trembles.",
+ "visual_elements": [
+  "Yasoda with the infant on her lap",
+  "the child's yawning mouth",
+  "the sky, earth, oceans, sun, moon and stars within it",
+  "Yasoda trembling in awe",
+  "a warm domestic interior",
+  "mood of hushed cosmic wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.7.33-37",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:22:55+05:30",
+  "source_event_id": "evt_0043"
+ },
+ "editorial_status": "unreviewed"
+}

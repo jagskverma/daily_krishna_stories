@@ -1,0 +1,38 @@
+# STORY DKS_0504 — Uddhava Begs Krishna Not to Leave Him Behind
+
+## Index entry
+title: Uddhava Begs Krishna Not to Leave Him Behind
+summary: Seeing the fearful omens in Dwaraka and Krishna's intention to depart, Uddhava falls at his feet and pleads that he cannot bear to be separated even for a moment and begs to be taken along; Krishna, granting his wish, begins to instruct him.
+life_stage: later_life | story_arc: uddhava_and_teachings
+characters: Krishna, Uddhava
+locations: Dwaraka
+themes: devotion, separation, guru-disciple, teaching
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0506
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 6 | verses 39-49 | confidence 5
+  excerpt: Uddhava said: 'Lord, even for half a moment I cannot bear to leave your lotus feet; carry me also to your abode.' Krishna, addressed by his devoted servant, answered: 'What you have said is exactly my own intent; Brahma, Shiva and the world-guardians long for my return to heaven.' (rendered from Sanskrit, verses 41-42, 49-50)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.6 (39-49)
+39. tan nirīkṣyoddhavo rājan śrutvā bhagavatoditam /
+40. vivikta upasaṅgamya jagatām īśvareśvaram /
+41. bhp_11.06.042/0 śrī-uddhava uvāca
+42. nāhaṃ tavāṅghri-kamalaṃ kṣaṇārdham api keśava /
+43. tava vikrīḍitaṃ kṛṣṇa nṛnāṃ parama-maṅgalam /
+44. śayyāsanāṭana-sthāna- snāna-krīḍāśanādiṣu /
+45. tvayopabhukta-srag-gandha- vāso-'laṅkāra-carcitāḥ /
+46. vāta-vasanā ya ṛṣayaḥ śramaṇā ūrdhra-manthinaḥ /
+47. vayaṃ tv iha mahā-yogin bhramantaḥ karma-vartmasu /
+48. smarantaḥ kīrtayantas te kṛtāni gaditāni ca /
+49. bhp_11.06.050/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0503 | next_story_id: DKS_0505
+previous title: Uddhava Arrives in Vrindavan and Nanda Longs for Krishna
+next title: Yadu Meets the Wandering Avadhuta

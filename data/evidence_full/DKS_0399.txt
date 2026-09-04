@@ -1,0 +1,34 @@
+# STORY DKS_0399 — The Rajasuya Completed
+
+## Index entry
+title: The Rajasuya Completed
+summary: Krishna completes the Rajasuya for Yudhishthira, gives the priests their fees, stays some months, and departs; only Duryodhana cannot bear the Pandavas' splendor.
+life_stage: pandava_period | story_arc: rajasuya_and_sisupala
+characters: Krishna, Yudhishthira, Duryodhana
+locations: Indraprastha
+themes: sacrifice, envy, completion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0379
+variant_notes: Rajasuya conclusion; cf. bp10d_015.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 74 | verses 46-52 | confidence 5
+  excerpt: Krishna, lord of the lords of yoga, completes the sacrifice, bestows ample fees on the priests, and after some months takes leave of the reluctant Yudhishthira and returns to his own city. All the assembled guests depart praising Krishna and the sacrifice, except the wicked Duryodhana, who could not endure the Pandavas' prosperity. (rendered from Sanskrit, verse 46-52)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.74 (46-52)
+46. ṛtvigbhyaḥ sa-sadasyebhyo dakṣināṃ vipulām adāt /
+47. sādhayitvā kratuḥ rājñaḥ kṛṣṇo yogeśvareśvaraḥ /
+48. tato 'nujñāpya rājānam anicchantam apīśvaraḥ /
+49. varṇitaṃ tad upākhyānaṃ mayā te bahu-vistaram /
+50. rājasūyāvabhṛthyena snāto rājā yudhiṣṭhiraḥ /
+51. rājñā sabhājitāḥ sarve sura-mānava-khecarāḥ /
+52. duryodhanam ṛte pāpaṃ kaliṃ kuru-kulāmayam /
+
+## Corpus chain
+previous_story_id: DKS_0398 | next_story_id: DKS_0400
+previous title: Krishna Slays Shishupala
+next title: Duryodhana's Humiliation in Maya's Hall

@@ -1,0 +1,104 @@
+# STORY DKS_0374 — Agni, in Brahman Disguise, Seeks Krishna and Arjuna's Help to Burn Khandava
+
+## Index entry
+title: Agni, in Brahman Disguise, Seeks Krishna and Arjuna's Help to Burn Khandava
+summary: The Brahmana reveals himself as Agni and asks Krishna and Arjuna to shield him from Indra's rains so he can consume the Khandava forest.
+life_stage: pandava_period | story_arc: pandava_friendship
+characters: Krishna, Arjuna, Agni, Indra, Takshaka
+locations: Khandava forest, the banks of the Yamuna
+themes: divine request, helping, mission
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0389
+variant_notes: Second beat of the Khandava episode; cf. mb_a1_012, bp10c_038.
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 1 | chapter/section 225 | verses  | confidence 4
+  excerpt: Then that Brahmana addressed Arjuna and Vasudeva of the Satwata race, saying, 'Ye who are now staying so near unto Khandava are the two foremost of heroes on earth. I am a voracious Brahmana that always eateth much. ... I solicit you to gratify me by giving me sufficient food.' ... The illustrious Brahmana, thus replied to, said ... 'I do not desire to eat ordinary food. Know that I am Agni! ... T
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 1.225 ()
+(Khandava-daha Parva continued)
+
+“Vaisampayana said, ‘Then that Brahmana addressed Arjuna and Vasudeva of
+the Satwata race, saying, ‘Ye who are now staying so near unto Khandava
+are the two foremost of heroes on earth. I am a voracious Brahmana that
+always eateth much. O thou of the Vrishni race, and O Partha, I solicit
+you to gratify me by giving me sufficient food.’ Thus addressed by the
+Brahmana, Krishna and the son of Pandu answered him, saying, ‘O, tell us
+what kind of food will gratify thee so that we may endeavour to give it
+thee.’ The illustrious Brahmana, thus replied to, said unto those heroes
+who were enquiring after the kind of food he sought, ‘I do not desire to
+eat ordinary food. Know that I am Agni! Give me that food which suiteth
+me. This forest of Khandava is always protected by Indra. And as it is
+protected by the illustrious one, I always fail to consume it. In that
+forest dwelleth, with his followers and family, a Naga, called Takshaka,
+who is the friend of Indra. It is for him that the wielder of the
+thunderbolt protecteth this forest. Many other creatures also are thus
+protected here for the sake of Takshaka. Desiring to consume the forest I
+succeed not in my attempts in consequence of Indra’s prowess. Beholding
+me blazing forth, he always poureth upon me water from the clouds.
+Therefore, I succeed not in consuming the forest of Khandava, although I
+desire very much to do so. I have now come to you--you who are both
+skilled in weapons! If you help me I will surely consume this forest: for
+even this is the food that is desired by me! As ye are conversant with
+excellent weapons, I pray you to prevent those showers from descending
+and any of the creatures from escaping, when I begin to consume this
+forest!’
+
+“Janamejaya said, ‘Why did the illustrious Agni desire to consume the
+forest of Khandava that was filled with various living creatures and
+protected by the chief of the celestials? When Agni consumed in wrath the
+forest of Khandava, it is evident there was a grave cause. I desire, O
+Brahmana, to hear all this in detail from thee. Tell me, O sage, how the
+Khandava forest was consumed in days of yore.’
+
+“Vaisampayana said, ‘O chief of men, I will narrate to you the story of
+the conflagration of Khandava as told by Rishis in the Purana. It hath
+been heard, O king, in the Purana that there was a celebrated king of the
+name of Swetaki who was endued with strength and prowess and who was
+equal unto Indra himself. No one on earth has equalled him in sacrifices,
+charity, and intelligence. Swetaki performed the five great sacrifices
+and many others, at all of which the presents unto Brahmanas were large.
+The heart of that monarch, O king, was always set upon sacrifices,
+religious rites, and gifts of all kinds. And king Swetaki of great
+intelligence, assisted by his Ritwiks performed sacrifices for many long
+years, till those sacrificial priests with eyes afflicted by the
+continued smoke and becoming very weak, left that monarch, wishing never
+more to assist at his sacrifices. The king, however, repeatedly asked
+those Ritwiks to come to him. But they came not to his sacrifice in
+consequence of the painful state of their eyes. The king, therefore,
+invited at the command of his own Ritwiks, others like unto them, and
+completed the sacrifice that he had begun. After some days had elapsed,
+king Swetaki desired to perform another sacrifice which should extend for
+a hundred years. But the illustrious monarch obtained not any priest to
+assist him in it. The celebrated king then, with his friends and
+relatives, casting off all sloth, repeatedly courted his priests with
+great persistence, by bowing down unto them, by conciliatory speeches,
+and by gifts of wealth. All of them, however, refused to accomplish the
+purpose which that king of immeasurable energy had in view. Then that
+royal sage, getting angry, addressed those Brahmanas sitting in their
+asylums, and said, ‘If, ye Brahmanas, I were a fallen person, or, if, I
+were wanting in homage and service to you, I should then deserve to be
+abandoned without scruple by you and by other Brahmanas at the same time.
+But as I am neither degraded nor wanting in homage to you, it behoveth
+you not to obstruct the performance by me of my sacrifice or to abandon
+me thus, ye foremost of Brahmanas, without adequate reason. I seek, ye
+Brahmanas, your protection! It behoveth you to be propitious unto me.
+But, ye foremost of Brahmanas, if you abandon me from enmity alone or any
+improper motive, I shall go unto other priests for their assistance in
+this sacrifice of mine, and conciliating them by sweet words and gifts, I
+shall represent unto them the business I have on hand, so that they may
+accomplish it.’ Having said this, the monarch became silent. And, O
+chastiser of foes, when those priests well knew that they could not
+assist at the king’s sacrifice, they pretended to be angry, and
+addressing that best of monarchs said, ‘O best of kings, thy sacrifices
+are incessan
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0373 | next_story_id: DKS_0375
+previous title: Krishna and Arjuna Sport on the Yamuna and Receive a Mysterious Brahmana
+next title: Krishna Vows the Earth Shall Drink the Blood of the Pandavas' Foes

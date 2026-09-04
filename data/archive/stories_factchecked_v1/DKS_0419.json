@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0419",
+ "title": "Vidura Exposes the Plan to Bribe Krishna",
+ "subtitle": null,
+ "story": "When Dhritarashtra began to speak of the lavish gifts he would heap upon Krishna, Vidura could hold his peace no longer. The blind king, anxious to please the visitor the whole court called the lord of the three worlds, planned to shower him with wealth; and most of the assembly took this for wisdom. Vidura heard it, and answered with the one thing no one else in that room would say — the truth.\n\n\"O monarch, best of men,\" he said, \"you are respected by the three worlds and loved and regarded by everybody. Venerable in years, what you say at this age can never be against the dictates of the scriptures or the conclusions of well-directed reason, for your mind is ever calm. Your subjects are well-assured that, like characters on stone, like light in the sun, like billows in the ocean, virtue resides in you permanently. Every one is honoured and made happy by your numerous virtues. Strive, therefore, with your friends and kinsmen to retain those virtues. Adopt sincerity of behaviour. Do not, from folly, cause the wholesale destruction of your sons, your grandsons, your friends, your kinsmen, and all that are dear to you.\"\n\nThen he came to the point. \"It is much that you wish to give to Kesava as your guest. Know, however, that Kesava deserves all this and much more — aye, the whole earth itself. But I truly swear by my own soul that you do not wish to give him all this either from motives of virtue or for the sake of doing what is agreeable to him. O giver of great wealth, all this betrays only deception, falsehood, and insincerity.\"\n\nThe words fell on the court like a stone into still water. Vidura went on, unsparing. \"By your external acts, O king, I know your secret purpose. The five Pandavas desire only five villages. You do not wish to give them even that; you are therefore unwilling to make peace. You seek to make the mighty-armed hero of Vrishni's race your own by means of your wealth — and in this way you seek to separate Kesava from the Pandavas. But I tell you that you are unable, by wealth or attention or worship, to separate Krishna from Dhananjaya. I know the magnanimity of Krishna; I know the firm devotion of Arjuna towards him; I know that Dhananjaya, who is Kesava's very life, is incapable of being given up by him.\"\n\nAnd then he told the king what Krishna would actually accept. \"Save only a vessel of water, save only the washing of his feet, save only the usual enquiries after the welfare of those he will see — Janardana will not accept any other hospitality, nor set his eyes on any other thing. Offer him, O king, the hospitality that is most agreeable to that illustrious one deserving of every respect, for there is no respect that may not be offered to Janardana. Give unto Kesava that object in expectation of which, from desire of benefiting both parties, he comes to the Kurus. Kesava desires peace between you and Duryodhana on one side and the Pandavas on the other. Follow his counsels, O monarch. You are their father, O king, and the Pandavas are your sons. You are old and they are children to you in years. Behave as a father towards them, who are disposed to pay you filial regard.\"\n\nVidura had named the plan and the heart beneath it in the same breath. The gifts were not generosity but a strategy to prise Krishna loose from the Pandavas; the peace Krishna had come to offer was real; and the guest who had crossed half the country to save the house of Kuru could not be bought at any price. The question that hung in the air of the Kuru hall was whether anyone there was willing to hear it.",
+ "reflection": "Vidura's service is to name what everyone else politely ignored: the king's gifts are not generosity but an attempt to separate Krishna from the Pandavas. His certainty rests on character, not suspicion — he knows Krishna's magnanimity and Arjuna's devotion, so he knows no price exists that could come between them.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Dhritarashtra"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "discernment",
+  "loyalty",
+  "deception"
+ ],
+ "previous_story_id": "DKS_0418",
+ "next_story_id": "DKS_0420",
+ "next_story_tease": "But Duryodhana had already formed a resolution of his own — to imprison the ambassador who was coming to make peace.",
+ "hero_scene": "Vidura stands before the seated Dhritarashtra in the Kuru hall, one hand raised as he names the king's secret purpose, while the counsellors fall silent around them.",
+ "visual_elements": [
+  "Vidura addressing Dhritarashtra in the Kuru hall",
+  "Dhritarashtra seated on the throne, listening",
+  "the counsellors falling silent around them",
+  "the royal hall of Hastinapura",
+  "Krishna's anticipated arrival as ambassador",
+  "solemn, unmasking mood"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.87",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0426"
+ },
+ "editorial_status": "unreviewed"
+}

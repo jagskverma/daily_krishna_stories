@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0370",
+ "title": "Krishna Counsels Arjuna to Abduct Subhadra",
+ "subtitle": null,
+ "story": "The festival on Raivataka had everything a festival should have, and more of it than anyone could take in at once.\n\nThe mountain near Dwaraka belonged to Krishna's family, the Yadavas, and both branches of the clan — the Vrishnis and the Andhakas — had gathered there to make merry. Musicians struck up, dancers danced, singers sang, and the young men of the clan, bright with ornaments, rode about in cars decked with gold. Mansions set with gems and gay artificial trees rose around the hill, and citizens came by the hundreds and thousands, some on foot, some in fine chariots, with their wives and followers. Balarama, Krishna's elder brother, roamed the ground in high spirits, his wife Revati beside him and musicians trailing after. Pradyumna and Samba, Krishna's young sons, went about garlanded with bright flowers, as carefree as young gods. King Ugrasena, the old ruler of the Yadavas, moved through it all with his queens and his train, and the heroes of both clans — Satyaki, Uddhava, Akrura, and a hundred more — each with his own following, crowded the hill until it rang. It was a festival loud enough to forget yourself in, and no one thought of anything but the day.\n\nThrough it all two friends walked together, seeing everything: Krishna, and Arjuna — the Pandava prince who was spending his years of wandering as Krishna's guest in Dwaraka. As they strolled they came upon a young woman in the midst of her maids: Subhadra, daughter of Vasudeva and so Krishna's own sister, decked in every ornament and lovely to look upon.\n\nArjuna stopped in mid-stride. The great archer, who had faced a hundred dangers without flinching, stood fixed as a post, and could not look away. Love had taken him — the poets would say the god of love himself had loosed his arrow — and it showed all over his face. The drums and the singing went on around them, but Arjuna no longer heard them. The whole bright festival had narrowed to a single figure.\n\nKrishna noticed at once, because Krishna noticed everything. He looked at his friend, struck dumb mid-step, and smiled.\n\n\"How is this?\" he asked. \"Can the heart of a man who roams the forests be troubled by the god of love? This is my sister, Arjuna — my father's favourite daughter. Tell me if your heart is set on her, and I shall speak to my father myself.\"\n\nArjuna answered as an honest man in love must. She was Vasudeva's daughter and Krishna's sister, he said, and with so much beauty, whom could she not fascinate? What heart would not be stirred?\n\nAnd so, warm and unhurried, Krishna turned matchmaker. There was an old and honoured way among the Kshatriyas, the warrior class, he reminded his friend: a suitor of proven courage might carry off his bride, and the marriage, once made, was accepted by all. Waiting for a choosing-ceremony was uncertain — who could say what a girl might decide when the time came? \"Therefore, Arjuna, carry away my beautiful sister,\" Krishna said. \"For who knows what she may do at a self-choice?\"\n\nIt was counsel given with a smile, between friends, and it settled everything. There was nothing solemn about it; Krishna made the bold sound as simple as breathing.\n\nSubhadra, meanwhile, knew nothing of the two men who had stopped to look at her, or of the plan already taking shape behind Krishna's easy manner. She stood among her maids at the bright centre of the festival, and the day went on around her, untouched.",
+ "reflection": "The comedy sits beside the warmth: the mightiest archer of his age stopped still by a glance, and Krishna too fond of him to leave him stranded there. Friendship here looks like a knowing smile and an offer to manage everything — and a nudge toward a bolder path than waiting.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Subhadra"
+ ],
+ "locations": [
+  "Raivataka",
+  "Dwaraka"
+ ],
+ "themes": [
+  "love",
+  "strategy",
+  "alliance"
+ ],
+ "previous_story_id": "DKS_0298",
+ "next_story_id": "DKS_0380",
+ "next_story_tease": null,
+ "hero_scene": "Arjuna stopped in the middle of the Raivataka festival, gazing at Subhadra decked in ornaments among her maids, while Krishna stands beside him watching with a knowing smile.",
+ "visual_elements": [
+  "Raivataka mountain festival",
+  "garlanded young men in gold-decked cars",
+  "dancers, musicians and singers",
+  "Balarama with Revati",
+  "Pradyumna and Samba garlanded with flowers",
+  "Ugrasena with his thousand wives",
+  "Subhadra in ornaments amid her maids",
+  "Arjuna transfixed",
+  "Krishna smiling"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.221",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:16:03Z",
+  "source_event_id": "evt_0385",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

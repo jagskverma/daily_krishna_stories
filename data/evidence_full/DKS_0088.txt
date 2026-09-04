@@ -1,0 +1,43 @@
+# STORY DKS_0088 — Indra Surrenders and Begs Forgiveness
+
+## Index entry
+title: Indra Surrenders and Begs Forgiveness
+summary: Ashamed Indra approaches Krishna, touches his feet, and asks forgiveness for his pride.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Indra, Krishna
+locations: Vrindavan
+themes: surrender, forgiveness
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0101
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 27 | verses 1-16 | confidence 5
+  excerpt: Indra, ashamed, approached Krishna in seclusion, touched his feet with his crown, and said: 'I, intoxicated by my sovereignty, have offended you, not knowing your power; forgive me, Lord, and may such evil intention never arise in me again.' (rendered from Sanskrit, verses 1-15)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.27 (1-16)
+1. vivikta upasaṅgamya vrīḍītaḥ kṛta-helanaḥ /
+2. dṛṣṭa-śrutānubhāvo 'sya kṛṣṇasyāmita-tejasaḥ /
+3. bhp_10.27.004/0 indra uvāca
+4. kuto nu tad-dhetava īśa tat-kṛtā lobhādayo ye 'budha-linga-bhāvāḥ /
+5. pitā gurus tvaṃ jagatām adhīśo duratyayaḥ kāla upātta-daṇḍaḥ /
+6. ye mad-vidhājñā jagad-īśa-māninas tvāṃ vīkṣya kāle 'bhayam āśu tan-madam /
+7. sa tvaṃ mamaiśvarya-mada-plutasya kṛtāgasas te 'viduṣaḥ prabhāvam /
+8. tavāvatāro 'yam adhokṣajeha bhuvo bharāṇām uru-bhāra-janmanām /
+9. namas tubhyaṃ bhagavate puruṣāya mahātmane /
+10. svacchandopātta-dehāya viśuddha-jñāna-mūrtaye /
+11. mayedaṃ bhagavan goṣṭha- nāśāyāsāra-vāyubhiḥ /
+12. tvayeśānugṛhīto 'smi dhvasta-stambho vṛthodyamaḥ /
+13. bhp_10.27.014/0 śrī-śuka uvāca
+14. bhp_10.27.015/0 śrī-bhagavān uvāca
+15. mām aiśvarya-śrī-madāndho daṇḍa pāṇiṃ na paśyati /
+16. gamyatāṃ śakra bhadraṃ vaḥ kriyatāṃ me 'nuśāsanam /
+
+## Corpus chain
+previous_story_id: DKS_0087 | next_story_id: DKS_0089
+previous title: Krishna Restores the Hill and the Cowherds Rejoice
+next title: Indra Installs Krishna as Govinda

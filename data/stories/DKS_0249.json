@@ -1,0 +1,57 @@
+{
+  "id": "DKS_0249",
+  "title": "Fever Driven Out by Fever",
+  "subtitle": null,
+  "story": "In the great battle outside Sonitpura, the city of the thousand-armed demon king Vana, Krishna had faced the strangest of all Vana's defenders: Jvara, the demon of fever, whom the god Shiva had made and sent to fight. Krishna had caught the demon in his arms and ground him down until he hung limp. Certain that he was finished, he threw Jvara to the earth.\n\nHe was wrong — and the mistake cost him more than any blow of the battle had. Released from that crushing grip, the fever-demon of unspent strength did not leave the field. He slipped into Krishna's own body.\n\nPossessed by fever, Krishna's movements slowed. The man who had taken enemy cities had to steady himself again and again with one hand on the ground. Sleep pressed upon him, his steps faltered, his hair stood on end, and he sighed and yawned without ceasing. The fighter who had just crushed a demon in his arms was brought low by the demon's last trick — and it was a long time before he regained his natural state.\n\nThen, knowing what was in him, Krishna did what no one else could have done. From his own strength he called forth a fever of his own: a second Jvara, dreadful to every creature, made for one purpose — the destruction of the first.\n\nThe fever he had made seized the first Jvara by force, dragged him out of Krishna's body, and set him before his maker. So the fever that had entered Krishna was driven out by fever itself.\n\nKrishna struck the demon down to the ground and was about to tear him to pieces. Bewildered, Jvara cried out: \"Krishna, it is for you to protect me!\"\n\nAnd as Krishna's hand hung raised, a voice without a body spoke from the sky: \"Do not kill this Jvara. He is worthy of being protected by you.\"\n\nKrishna heard, and let the fever-demon go. Jvara prostrated himself, his head bowed at Krishna's feet. \"Grant me this one boon,\" he said. \"Let me alone be the fever in this world, and let no other fever flourish beside me.\"\n\n\"It is proper to grant a boon to one who prays for it,\" Krishna said, \"and you have asked for my protection. So be it, Jvara. As before, you will be the only fever — and the one I created will dissolve back into me.\"\n\nThe fever Krishna had made — the cure that had driven out the sickness — dissolved into its source and vanished, as everything made from him returns to him. Then Krishna told the demon how he would move through the world from that day on, and gave him one promise more: any person who greets Krishna with respect and reads this account of the great battle with attention will be freed from fever.\n\n\"So be it,\" said Jvara, delighted. He saluted Krishna and took himself from the field, and this time the burning did not follow him home.",
+  "reflection": "The episode turns on a strange symmetry: fever is driven out by fever, the cure created from the same energy as the disease and then dissolved back into its source. And even the demon who had possessed him, once he asked for protection, was spared: in Krishna's world, even fever is answered when it prays.",
+  "tradition_note": null,
+  "content_note": null,
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 4,
+  "life_stage": "dwaraka",
+  "story_arc": "narakasura_and_gods",
+  "characters": [
+    "Krishna",
+    "Jvara"
+  ],
+  "locations": [
+    "Sonitpura battlefield"
+  ],
+  "themes": [
+    "possession",
+    "counter-creation",
+    "expulsion"
+  ],
+  "previous_story_id": "DKS_0248",
+  "next_story_id": "DKS_0250",
+  "next_story_tease": "But Jvara was not done: before he left the field, the spared demon would receive the terms of his rule over every living thing.",
+  "hero_scene": "Krishna, pale and weakened, steadying himself with one hand on the ground while the fever enters him; beside him the dreadful counter-Jvara he has created seizes the first Jvara and drags him from Krishna's body.",
+  "visual_elements": [
+    "Krishna slackened and possessed by fever, touching the ground for support",
+    "the dreadful counter-Jvara created from Krishna's own energy",
+    "the created fever seizing the first Jvara by force",
+    "the expulsion of Jvara from Krishna's body",
+    "the invisible voice speaking from the sky",
+    "Jvara prostrating himself at Krishna's feet",
+    "a mood of hidden struggle turning to mercy"
+  ],
+  "sources": [
+    {
+      "work": "Harivamsha",
+      "reference": "1.271",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:43:07Z",
+    "source_event_id": "evt_0350",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "major"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

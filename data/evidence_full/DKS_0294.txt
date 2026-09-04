@@ -1,0 +1,33 @@
+# STORY DKS_0294 — The Six Sons Restored to Devaki
+
+## Index entry
+title: The Six Sons Restored to Devaki
+summary: Krishna and Balarama bring the six sons back from Sutala; Devaki nurses them with her milk, and, released from the curse, they bow and ascend to the gods' abode.
+life_stage: later_life | story_arc: dwaraka_royal_life
+characters: Krishna, Balarama, Devaki, the six sons
+locations: Dwaraka
+themes: restoration, mother's love, release from curse
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0498
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 85 | verses 51-56 | confidence 5
+  excerpt: Taking the six sons, Krishna and Balarama return to Dwaraka and give them to their mother, and Devaki, her breasts flowing with milk, nurses and embraces them. Having drunk her milk, they bow to Krishna, Devaki, Vasudeva and Balarama, and before the eyes of all beings ascend to the abode of the gods. (rendered from Sanskrit, verse 51-56)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.85 (51-56)
+51. ity uktvā tān samādāya indrasenena pūjitau /
+52. tān dṛṣṭvā bālakān devī putra-sneha-snuta-stanī /
+53. apāyayat stanaṃ prītā suta-sparśa-parisnutam /
+54. pītvāmṛtaṃ payas tasyāḥ pīta-śeṣaṃ gadā-bhṛtaḥ /
+55. te namaskṛtya govindaṃ devakīṃ pitaraṃ balam /
+56. taṃ dṛṣṭvā devakī devī mṛtāgamana-nirgamam /
+
+## Corpus chain
+previous_story_id: DKS_0293 | next_story_id: DKS_0295
+previous title: Krishna and Balarama Visit Bali in Sutala
+next title: Krishna Visits Shrutadeva and Bahulashva

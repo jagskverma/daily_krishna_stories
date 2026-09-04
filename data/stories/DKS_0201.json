@@ -1,0 +1,68 @@
+{
+  "id": "DKS_0201",
+  "title": "Spared for Rukmini's Sake",
+  "subtitle": null,
+  "story": "The road to Dwaraka stretched ahead, and behind it hung a wall of dust. Rukmini sat close beside Krishna in the chariot — the same Rukmini he had carried off that day from Kundina, where her family had meant to give her to Shishupala, king of Chedi. She did not need to turn around to know who rode at the head of that pursuit. She knew her brother's temper, and she knew what he had sworn before he left Kundina.\n\nThe kings who had gathered in Kundina for the wedding had not accepted their loss. They had come to win her, and now she was gone, carried off in a stranger's chariot, and their pride would not let the matter end there. The whole assembly took the road after Krishna — the allies of Jarasandha, his old enemy; the kings of the Deccan; the princes of every house that had hoped to claim the princess of Vidarbha.\n\nKrishna's warriors — Balarama, his elder brother, and Gada, with the best of the Vrishni heroes, the warriors of Krishna's own clan — wheeled about to meet them, and the battle was short. Standards came down, chariots broke apart, and one after another the pursuing kings fell back and scattered across the plain, leaving it littered with broken wheels and fallen banners. Shishupala of Chedi rode up burning with rage, and Krishna met his fury with calm words, telling him to put aside his grief. \"I have been defeated by you seventeen times in battle,\" Shishupala answered, \"and I have never grieved, and never rejoiced.\" It was the answer of a man who had learned to lose, and with it the heart went out of the pursuit.\n\nBut one man had not come to win a bride. Rukmi, Rukmini's brother, had sworn before his father Bhishmaka and before all the gathered kings that he would not re-enter Kundina until he had slain Krishna and brought his sister back. When he saw the allied army fall back, he did not fall back with it. He came on alone, his chariot cutting through the rout, straight at Krishna's banner.\n\nThe chase ended where the chariots met, and what followed showed what one bowman could do. Every weapon Rukmi raised, Krishna shattered: the bow broke in his hand, and the heavy mace, the spear, the javelin, the shield — arrow after arrow found each in turn and split it. Krishna's shafts brought down the horses and wrecked the chariot, and Rukmi leapt from the wreckage, sword in hand, to finish the fight at close quarters. His sword and his shield went the way of the rest, cut to splinters, and the prince of Vidarbha stood weaponless in the open field.\n\nKrishna moved to end it, and Rukmini cried out. She slipped from the chariot and threw herself at his feet, shaking with fear, and begged for her brother's life. \"He is my only brother,\" she pleaded. \"Spare him for my sake.\"\n\nThe plea stopped his hand. Krishna spared Rukmi — but he did not send him home untouched. He bound the defeated prince, shaved his head and his beard, and marked his face, so that the man who had sworn to return to Kundina in triumph carried a shame no court could miss. Then he lifted Rukmini up, held her, and comforted her, and promised her her brother's life and safety.\n\nRukmi lay senseless on the field, and his own men carried him away. But he could not go home. His oath was broken, and he would not show his face in the city he had sworn to enter in triumph. He built a new city in Vidarbha, Bhojakata by name, and ruled the southern districts from it, while his father Bhishmaka remained in Kundina. The vow he had made to shame Krishna had become the sentence that kept him from his own house.\n\nBalarama and the Vrishni army, having scattered Jarasandha and the rest, turned for Dwaraka. And Krishna, who had spared the brother and kept the sister, set his face toward the city as well — toward a wedding that the whole of Dwaraka was already preparing to celebrate.",
+  "reflection": "Rukmini's plea is the hinge of the scene: the brother who tried to destroy her happiness is saved by her, and Krishna's mercy is not softness — he spares the life but leaves a mark of the humiliation, so the victory is complete and the life is kept at once. The greater irony lands on Rukmi himself: the oath he swore to shame Krishna becomes the sentence that exiles him from his own home.",
+  "tradition_note": "The Harivamsha places the duel near the river Narmada, with Rukmi struck unconscious and later carried off the field; the Bhagavata and Vishnu Purana have him pursue Krishna and be spared at Rukmini's entreaty, the Bhagavata adding the shaving and disfigurement.",
+  "content_note": "Contains a battle scene and the humiliation of the defeated Rukmi (his head and beard shaved, his face disfigured), told without graphic detail.",
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 4,
+  "life_stage": "dwaraka",
+  "story_arc": "rukmini_and_marriages",
+  "characters": [
+    "Krishna",
+    "Rukmi",
+    "Rukmini",
+    "Balarama"
+  ],
+  "locations": [
+    "Kundina"
+  ],
+  "themes": [
+    "battle",
+    "mercy",
+    "family"
+  ],
+  "previous_story_id": "DKS_0200",
+  "next_story_id": "DKS_0202",
+  "next_story_tease": "In Dwaraka, a wedding was waiting that the whole city would celebrate.",
+  "hero_scene": "Rukmini kneeling at Krishna's feet on the open battlefield, her hands clasped in supplication, while her disarmed brother Rukmi stands weaponless before them and the routed kings flee far in the background.",
+  "visual_elements": [
+    "Rukmini kneeling in supplication",
+    "Krishna lowering his bow",
+    "Rukmi disarmed and weaponless",
+    "shattered chariot and broken weapons on the field",
+    "routed kings in the distance",
+    "mercy and family"
+  ],
+  "sources": [
+    {
+      "work": "Bhagavata Purana",
+      "reference": "10.54.1-35",
+      "role": "primary"
+    },
+    {
+      "work": "Harivamsha",
+      "reference": "1.116",
+      "role": "additional"
+    },
+    {
+      "work": "Vishnu Purana",
+      "reference": "5.26",
+      "role": "additional"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:35:00Z",
+    "source_event_id": "evt_0196",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "minor"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0156",
+ "title": "The Heir of Karavira",
+ "subtitle": null,
+ "story": "The news of mount Gomanta had traveled faster than any army: Krishna and his brother Balarama had broken the siege of the kings, and the king of Chedi had made peace and ridden south at their side. When the column reached the city of Karavira, the gates opened before it had even arrived — and the city's king came out to meet it as a storm comes out of a clear sky.\n\nKing Shrigala drove out on a chariot that shone like the car of a king of heaven: quick horses, golden axles, quivers that never ran empty. Men said the earth itself sank a little beneath his wheels. He had heard how the great siege had ended on mount Gomanta, and the report had not frightened him. It had offended him. In the middle of the open field, with his army ranked behind him, he reined in before Krishna and called out.\n\n\"I have heard of your work against the foolish kings at Gomanta, who had no leader,\" he said. \"I am the emperor of the world. You are alone, and I am with my army, so I should not fight you with all these men. Come, I will fight you alone, and one of us will meet his death in a fair fight. If you are slain, I shall be the only Vasudeva in the world. And if I am slain, you shall be the only one.\"\n\nVasudeva was the name Krishna bore, after his father — and Shrigala meant to be the only man who carried it. Krishna heard him out without changing expression. \"Strike me as you wish,\" he said.\n\nShrigala's answer was a net of arrows. He showered Krishna with shafts and maces and weapons covered with flame, and Krishna stood where he was, motionless, like a mountain taking rain. Only when the assault had spent itself did his wrath rise. Then he lifted the discus that had come to him at Gomanta and hurled it. It struck the king of Karavira in the breast and returned to Krishna's hand as a hawk returns to the wrist. Shrigala — who an hour before had been the emperor of the world — fell from his chariot like a mountain struck by a thunderbolt, and lay where he had fallen.\n\nHis army broke. Some fled, some entered the city weeping, and some would not leave their fallen king and stood bewailing him where he lay. And Krishna, raising the hand that bore the discus, spoke to them all in a voice like the rumbling of clouds: \"Do not fear! Do not fear.\"\n\nIt took a moment for the words to mean anything. Then the people of Karavira, looking from their slain king to the man who had slain him and yet told them not to fear, began to weep — the ministers and the citizens, and the queens who came out of the city with their sons, striking their breasts and crying over the king who would not rise again.\n\nAmong them came the queen Padmavati, and with her the boy prince Shakradeva, Shrigala's son. She did not come to curse. She came to the victor of the field and pleaded for her son.\n\nAnd Krishna, looking at the boy who had lost everything in one afternoon, said: \"This son of Shrigala is as my own. I declare safety to you all.\"\n\nThen, in the sight of the weeping city, the victor did what no conqueror in that land was expected to do. He lifted the prince onto the throne of Karavira — the throne his father had been so sure of keeping — sprinkled him with sacred water, and declared him king of the city that an hour before had been his enemy's.\n\nThe young king sat very straight on the great seat, his mother's hand on his shoulder, and the people of Karavira, who had come out prepared only to mourn, found themselves staring at a boy who was now their king and at the man who had given him the crown. Whatever they had feared from the fall of Shrigala, it was not this.",
+ "reflection": "Shrigala had staked everything on the idea that one of the two men must cease to exist: if Krishna fell, Shrigala would be the only Vasudeva; if Shrigala fell, Krishna would be. Krishna answered the wager not by wiping out the loser's line but by adopting it — making the slain king's son his own, placing him on the throne, so that neither Vasudeva was destroyed and the boy inherited his father's crown instead of his father's war.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Shrigala",
+  "Shakradeva",
+  "Padmavati"
+ ],
+ "locations": [
+  "Karavira"
+ ],
+ "themes": [
+  "mercy",
+  "restoration"
+ ],
+ "previous_story_id": "DKS_0155",
+ "next_story_id": "DKS_0157",
+ "next_story_tease": "Far away at Kundina, the kings were gathering for the swayamvara, and Jarasandha had a warning for them all.",
+ "hero_scene": "Krishna sprinkling celestial water over the young prince Shakradeva, seated on the great throne of Karavira, while the queen Padmavati watches with her hand on her son's shoulder and the grieving citizens of the city look on.",
+ "visual_elements": [
+  "the throne hall of Karavira",
+  "Prince Shakradeva seated on the throne",
+  "Krishna anointing him with celestial water",
+  "Queen Padmavati at her son's side",
+  "the grieving citizens and ministers",
+  "the fallen king remembered in mourning",
+  "restoration after war"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.100",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0175",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5
+}

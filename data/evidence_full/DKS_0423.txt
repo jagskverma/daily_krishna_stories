@@ -1,0 +1,101 @@
+# STORY DKS_0423 — Krishna Refuses Duryodhana's Hospitality
+
+## Index entry
+title: Krishna Refuses Duryodhana's Hospitality
+summary: Duryodhana invites Krishna to eat at his house, but Krishna refuses, saying envoys eat only after their mission succeeds and that he will accept food from Vidura alone.
+life_stage: kurukshetra | story_arc: peace_mission
+characters: Krishna, Duryodhana, Karna, Vidura
+locations: Hastinapura
+themes: integrity, refusal, hospitality
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0430
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 5 | chapter/section 091 | verses  | confidence 4
+  excerpt: The high-souled Govinda... replied... saying, 'Envoys, O king, eat and accept worship only after the success of their missions...' ... 'Defiled by wickedness, all this food, therefore, deserveth not to be eaten by me. The food supplied by Vidura alone, should, I think, be eaten by me.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 5.091 ()
+Vaisampayana said, “With Pritha’s leave and having walked round her, the
+chastiser of foes, Govinda, also called Sauri, went to Duryodhana’s
+palace that was furnished with great wealth, adorned with beautiful
+seats, and was like unto the abode of Purandara himself. Unobstructed by
+the orderlies-in-waiting, that hero of great fame crossed three spacious
+yards in succession and then entered that mansion looking like a mass of
+clouds, high as the summit of a hill, and blazing forth in splendour. And
+he there beheld Dhritarashtra’s son of mighty arms seated on his throne
+in the midst of a thousand kings and surrounded by all the Kurus. And he
+also beheld there Dussasana and Karna and Sakuni, the son of Suvala,
+seated on their respective seats by the side of Duryodhana. And on that
+scion of Dasarha’s race entering the court, Dhritarashtra’s son of great
+fame rose up from his seat with his counsellors for honouring the slayer
+of Madhu. And Kesava then greeted Dhritarashtra’s sons and all his
+counsellors as also all the kings that were present there, according to
+their respective ages. And Achyuta of Vrishni’s race then took his seat
+on a beautiful seat made of gold and overlaid with carpet embroidered
+with gold. And the Kuru king then offered unto Janardana a cow, and honey
+and curds and water, and placed at his service palaces and mansions and
+the whole kingdom. And then the Kauravas, with all the kings there
+present, worshipped Govinda on his seat and resembling the sun himself in
+splendour. The worship being over, king Duryodhana invited him of
+Vrishni’s race--that foremost of victors--to eat at his house. Kesava,
+however did not accept the invitation. The Kuru king Duryodhana seated in
+the midst of the Kurus, in a gentle voice but with deception lurking
+behind his words, eyeing Karna, and addressing Kesava, then said, ‘Why, O
+Janardana, dost thou not accept the diverse kinds of viands and drinks,
+robes and beds that have all been prepared and kept ready for thee? Thou
+hast granted aid to both sides; thou art engaged in the good of both
+parties. Thou art again the foremost of Dhritarashtra’s relations and
+much loved by him. Thou, O Govinda, also knowest fully, and all things in
+details, both religion and profit. I, therefore, desire to hear, O bearer
+of the discus and the mace, what the true reason is of this thy refusal.’”
+
+Vaisampayana continued, “The high-souled Govinda, of eyes like lotus
+leaves, then raising his mighty (right) arm, and in a voice deep as that
+of the clouds, replied unto the king in excellent words fraught with
+reasons,--words that were clear, distinct, correctly pronounced, and
+without a single letter dropped, saying, ‘Envoys, O king, eat and accept
+worship only after the success of their missions. Therefore, O Bharata,
+after my mission becomes successful, thou mayest entertain me and my
+attendants.’ Thus answered, Dhritarashtra’s son again said unto
+Janardana, ‘It behoveth thee not, O Kesava, to behave towards us in this
+way. Whether thou becomest successful, or unsuccessful, we are
+endeavouring to please thee, O slayer of Madhu, because of thy
+relationship with us. It seems, however, that all our efforts, O thou of
+Dasarha’s race, are fruitless. Nor do we see the reason, O slayer of
+Madhu, in consequence of which, O foremost of men, thou acceptest not the
+worship offered by us from love and friendship. With thee, O Govinda, we
+have no hostility, no war. Therefore, on reflection, it will seem to thee
+that words such as these scarcely become thee.’”
+
+Vaisampayana continued, “Thus addressed by the king, Janardana of
+Dasarha’s race, casting his eyes on Dhritarashtra’s son and all his
+counsellors, replied, saying, ‘Not from desire, nor from wrath, nor from
+malice, nor for gain, nor for the sake of argument, nor from temptation,
+would I abandon virtue. One taketh another’s food when one is in
+distress. At present, however, O king, thou hast not inspired love in me
+by any act of thine, nor have I myself been plunged into distress.
+Without any reason, O king, thou hatest, from the moment of their birth,
+thy dear and gentle brothers,--the Pandavas--endued with every virtue.
+This unreasonable hatred of thine for the sons of Pritha ill becometh
+thee. The sons of Pandu are all devoted to virtue. Who, indeed, can do
+them the least injury? He that hateth them, hateth me; he that loveth
+them, loveth me. Know that the virtuous Pandavas and my own self have but
+a common soul. He, who, following the impulses of lust and wrath, and
+from darkness of soul, hateth and seeketh to injure one that is possessed
+of every good quality, is regarded as the vilest of men. That wrathful
+wretch of every good quality, is regarded as the vilest of men. That
+wrathful wretch of uncontrolled soul, who, from ignorance and avarice
+hateth his kinsmen endued with every auspicious quality, can never enjoy
+his prosperity long. He, on the other hand, who, by good offices, winneth
+over persons endued with good qualities, even if he
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0422 | next_story_id: DKS_0424
+previous title: Krishna Comforts the Grieving Kunti
+next title: Vidura Warns Krishna of Duryodhana's Wickedness

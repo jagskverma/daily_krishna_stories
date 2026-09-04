@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0378",
+ "title": "Had I Been at Dwaraka",
+ "subtitle": null,
+ "story": "\"If I had been present at Dwaraka,\" Krishna told Yudhishthira, \"this evil would not have befallen thee.\"\n\nThe words came out of him like a confession, there in the Kamyaka forest where the exiled Pandavas sat with their allies around them. Everyone in that circle knew the story: how Yudhishthira had been drawn into a gambling match at Hastinapura, how the dice had been loaded, how he had staked and lost his wealth, his brothers, himself, and at last the queen herself — and how the Pandavas had been sent into exile for thirteen years. And everyone knew, too, that Krishna had not been there to stop it. He had been away from the Anarta country, the region of his own city Dwaraka, engaged against the forces of Salwa.\n\n\"Coming unto the gambling-match even if uninvited by the son of Amvika, or by Duryodhana, or by the other Kauravas,\" he went on, \"I would have prevented the game from taking place, by showing its many evils — summoning to my aid Bhishma and Drona and Kripa, and Vahlika.\"\n\nHe laid out for Yudhishthira exactly what he would have done, as if the scene still played out behind his eyes. He would have stood before Dhritarashtra and told him plainly that his sons should have nothing to do with dice. He would have shown the evils through which the son of Virasena had formerly been deprived of his kingdom; he would have described how a man once engaged in the game continues to play, from the mere desire of victory, until ruin takes him — how through dice men in a single day lose their possessions, fall into distress, are deprived of their untasted wealth, and exchange harsh words with those they love. \"Women, dice, hunting and drinking,\" he said, \"to which people become addicted in consequence of temptation, have been regarded as the four evils that deprive a man of prosperity. Those versed in the Shastras hold that evils attend upon all these.\"\n\nAnd he did not stop at counsel. If Dhritarashtra had accepted his words, he said, the welfare of the Kurus and virtue itself would both have been secured. But if the old king had rejected his gentle counsel, offered like medicine, Krishna would have compelled him by force. And if the men who waited at his court — professing to be his friends but in reality his foes — had supported him in the folly, Krishna would have slain them all, along with those gamblers, there in the hall itself.\n\n\"O Kauravya,\" he said, and his voice was rough with grief, \"it is owing to my absence from the Anarta country at that time that thou hast fallen into such distress begot of dice.\"\n\nThen he told Yudhishthira how he had learned of the calamity: on arriving at Dwaraka he had heard it all from Yuyudhana, and with his heart sore and agitated by grief he had come at speed, wishing only to see his friend. \"Alas! O bull of the Bharata race,\" he said, \"ye have all fallen into dire distress. I see thee with thy brothers plunged in misfortune.\"\n\nIt was strange, the Pandavas thought, to hear the man who had just sworn that the earth would drink their enemies' blood speak now like a man shouldering blame. He did not console them with assurances; he grieved with them, and he grieved for his own absence — for the single moment when his friends had needed him and he had been elsewhere, fighting his own war at Saubha, and the dice had fallen without him there to catch them. But the lament, for all its grief, was also a promise in disguise: whatever game came next, he would not be absent from it.",
+ "reflection": "Krishna's lament is both grief and claim. He names the four evils — women, dice, hunting, drinking — as the root of the ruin, but he also insists that his own presence would have changed everything, by counsel or by force. It is a friend's confession of where power truly lies: not in being everywhere, but in the one moment a friend is absent and disaster slips in.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "regret",
+  "loyalty",
+  "explanation"
+ ],
+ "previous_story_id": "DKS_0377",
+ "next_story_id": "DKS_0379",
+ "next_story_tease": "And the forest would soon test that friendship again, when a furious sage and ten thousand disciples arrived without warning.",
+ "hero_scene": "Krishna leaning toward Yudhishthira in the forest assembly, one hand pressed to his chest as he laments his absence from the dice game, while the exiled king listens with bowed head among his brothers and allies.",
+ "visual_elements": [
+  "Krishna leaning toward Yudhishthira, hand on his chest",
+  "the exiled king listening with bowed head",
+  "the circle of brothers and allies around them",
+  "the Kamyaka forest hermitage setting",
+  "grief and resolve on the faces of the assembly"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.13",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:22Z",
+  "source_event_id": "evt_0405"
+ },
+ "editorial_status": "unreviewed"
+}

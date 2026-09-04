@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0019",
+ "title": "A Child Left in the Night",
+ "subtitle": "Vasudeva swaps Krishna for Yashoda's newborn daughter",
+ "story": "Two children had come into the world that night, in two households far apart. In the prison of Mathura, Devaki had borne a son. Among the cowherds of Vraja, Yashoda had borne a daughter. Before the night was over, the two children would change places, and neither of the two mothers would ever know it.\n\nVasudeva came to the cowherd settlement carrying his newborn son, the child born to him only hours before in a locked cell, wrapped against the dark. The settlement lay still and quiet, and as he moved among the homes he found the cowherds sunk in sleep, no one awake to see him pass, no lamp lit in any window. He came at last to the house of Yashoda, the wife of Nanda, and stepped inside, where the household lay lost to the world and the only sound was the soft breathing of sleep.\n\nThere, in the stillness, he did the thing the whole night's journey had been for. He laid his son in Yashoda's bed and set him down beside a sleeping mother. Then he took up the girl-child who lay there, the daughter born to Yashoda in that same night, and lifted her into his arms in his son's place. The exchange was made in silence: one child left behind, another taken up, while the house slept on and knew nothing of what had passed through it. No one stirred, and the substitution left no mark by which it could ever be undone.\n\nHe carried the girl out into the dark and made his way back through the sleeping settlement, past the houses and the cattle yards, to the city and the prison and its locked rooms. There he laid the child down beside Devaki, on her bed, in the very place where his own son had lain a few hours before. Then, quietly, he took up again the chains that held him, so that nothing would seem to have changed, and the night would close over the whole thing as if it had never been.\n\nAnd in the cowherd settlement, Yashoda woke with no knowledge of what had happened. She did not realize what had been born to her that night. The child sleeping in her bed was not the one she had borne, and she would never be told. To her, simply and completely, the child would be her son.\n\nSo the exchange was complete, and no one had seen it. It was the one kindness the night allowed: that neither mother would wake to a loss she could name. The son of Vasudeva and Devaki would grow up calling Yashoda mother, while the city, the prison, and the fear that had driven his father through the dark lay far behind him.",
+ "reflection": "The force of the scene is in what no one knows: Yashoda does not realize what has been born to her, and the exchange succeeds precisely because it leaves no trace. The concealment that keeps the child safe is also, for the two mothers, a lifelong unknowing.",
+ "tradition_note": "The Harivamsha identifies Yashoda's daughter as the goddess of sleep, born of a portion of Vishnu's energy; the Bhagavata narrates only the exchange itself.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "birth",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Vasudeva",
+  "Krishna",
+  "Yashoda"
+ ],
+ "locations": [
+  "Gokula",
+  "Mathura"
+ ],
+ "themes": [
+  "exchange",
+  "concealment",
+  "destiny"
+ ],
+ "previous_story_id": "DKS_0015",
+ "next_story_id": "DKS_0020",
+ "next_story_tease": "By morning, the cowherd settlement would throw itself into celebration of the child who had arrived in the night.",
+ "hero_scene": "Vasudeva in the dim light of Yashoda's sleeping house, setting his newborn son down in her bed and lifting her daughter into his arms, the two children exchanged in silence while the household sleeps on.",
+ "visual_elements": [
+  "Vasudeva moving through the sleeping cowherd settlement at night",
+  "the newborn son laid in Yashoda's bed",
+  "the girl-child lifted into his arms",
+  "the return to the prison and Devaki's bed",
+  "the chains taken up again",
+  "mood of hushed secrecy and concealment"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.3.50-52",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.59",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:51:59Z",
+  "source_event_id": "evt_0028"
+ },
+ "editorial_status": "unreviewed"
+}

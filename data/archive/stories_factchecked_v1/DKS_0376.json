@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0376",
+ "title": "Nara and Narayana",
+ "subtitle": "Arjuna soothes Krishna's wrath with the tale of his own ancient deeds",
+ "story": "Krishna heard what had been done to the Pandavas, and the anger that rose in him frightened his own kinsmen. By the time the riders reached the Kamyaka forest, that anger had grown into something terrible — a heat that seemed ready to burn the world down around the wrongs that had been done to it.\n\nThe Pandavas had lost their kingdom at dice and were living in the great forest in affliction. Their friends came to them in grief and in wrath: the Bhojas, the Vrishnis and the Andhakas, the consanguineous relatives of Panchala, Dhrishtaketu the king of Chedi, and the Kaikeya brothers, their hearts fired with anger against the sons of Dhritarashtra. \"What should we do?\" they asked one another, and they sat down in a wide circle around Yudhishthira the just, with Vasudeva at their head.\n\nRespectfully saluting the foremost of the Kurus, Krishna spoke, and his voice was heavy with mourning. \"The earth shall drink the blood of Duryodhana and Karna, of Dussasana and the wicked Sakuni,\" he said. \"Slaying these in battle and defeating their followers along with their royal allies, we shall install Yudhishthira the just on the throne. The wicked deserve to be slain. Verily, this is eternal morality.\"\n\nBut the vow did not cool his blood. On account of the wrongs of Pritha's sons, Janardana had fallen into such a passion that he seemed bent upon consuming all created things; those nearest him could feel it, like standing close to a fire. Then Arjuna exerted himself to pacify him.\n\nBeholding Kesava angry, Arjuna began to recite the feats achieved in his former lives by that soul of all things — immeasurable, eternal, of infinite energy, the lord of the Prajapatis themselves, the supreme ruler of the worlds, Vishnu of profound wisdom. He spoke of the ten thousand years Krishna had wandered on the Gandhamadana mountains as a muni whose home was wherever evening fell; of the eleven thousand years lived on water alone by the lake of Pushkara; of the hundred years on the high hills of Vadari, standing on one leg with arms upraised, living upon air; of the twelve-year sacrifice kept on the banks of the Saraswati until his body, stripped of its upper garment, looked like a bundle of veins; of the thousand celestial years stood on one leg on the plains of Prabhasa. He spoke of the slaying of Naraka, offspring of the Earth, and of the first horse-sacrifice that followed it; of the Daityas and Danavas destroyed in battle until the sovereignty of the universe was placed in Indra's hands; of the three steps by which, even as a child, Krishna had filled heaven, the firmament and the earth; of the sinful Asuras slain by the hundred in each of his thousand incarnations.\n\n\"All asceticism rests in thee,\" Arjuna said, \"and thou art the embodiment of all sacrifices — the cause of creation and its course, the mover of all minds, the beginning and end of all things. Thou art mine and I am thine, and all that is mine is thine also. O thou irrepressible one, thou art Nara and I am Narayana.\"\n\nKrishna answered him. The fire in his eyes sank, and the wrath that had seemed ready to consume creation gathered itself back into the shape of a man sitting among friends. He did not unsay the vow — the earth would still drink the blood of Duryodhana and Karna, and Yudhishthira would still be crowned — but he spoke of it now without fury, as a thing already accomplished. And those who had watched the storm pass looked at Arjuna with wonder. He had not argued with Krishna, nor pleaded with him. He had simply told Krishna who Krishna was — and it had been enough.",
+ "reflection": "Arjuna does not argue Krishna out of his anger; he reminds him of his own identity. The catalogue of ancient feats — penances of ten thousand years, three steps that filled the three worlds — is a way of saying that the power now blazing in wrath has always existed and has always been used with purpose. And the claim goes deeper than comfort: if the two friends are Nara and Narayana, one soul in two bodies, then an injury to Arjuna is literally an injury to Krishna, which is why the vow follows so naturally.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "friendship",
+  "calming",
+  "divine identity"
+ ],
+ "previous_story_id": "DKS_0375",
+ "next_story_id": "DKS_0377",
+ "next_story_tease": "But the day's work was not done: Draupadi still wept, and Krishna had yet to speak to her.",
+ "hero_scene": "In a forest clearing ringed by seated kings and warriors, the angry Krishna half-rises from his place while Arjuna, one hand raised in calm, recites his friend's ancient deeds — the air between them seeming to burn and cool at once, and the faces of the gathered Yadavas lit by the dying light.",
+ "visual_elements": [
+  "the wide circle of seated kinsmen and allies in the forest clearing",
+  "Krishna's blazing, wrathful expression",
+  "Arjuna speaking with one hand raised",
+  "the vow spoken over the assembly",
+  "evening settling over the Kamyaka forest"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:22Z",
+  "source_event_id": "evt_0403"
+ },
+ "editorial_status": "unreviewed"
+}

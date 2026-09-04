@@ -1,0 +1,46 @@
+# STORY DKS_0286 — Krishna's Dawn Worship in Dwaraka || Krishna rises in the brahma-muhurta, performs his ablutions, worships the Lord within, gives daily gifts of cows and wealth to brahmanas, and blesses his people.
+
+## Index entry
+title: Krishna's Dawn Worship in Dwaraka || Krishna rises in the brahma-muhurta, performs his ablutions, worships the Lord within, gives daily gifts of cows and wealth to brahmanas, and blesses his people.
+summary: Krishna rises in the brahma-muhurta, performs his ablutions, worships the Lord within, gives daily gifts of cows and wealth to brahmanas, and blesses his people.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Rukmini, Uddhava, Satyaki
+locations: Dwaraka, Sudharma hall
+themes: daily worship, charity, kingship
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0259
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 70 | verses 1-19 | confidence 5
+  excerpt: Waking with Rukmini at his side, Krishna bathes, meditates on the self-effulgent Brahman, performs the sandhya rites, and each day gives herds of milk-giving cows with golden horns to brahmanas. He then adorns himself, mounts his chariot, and enters the Sudharma assembly hall surrounded by the Yadus. (rendered from Sanskrit, verse 1-19)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.70 (1-19)
+1. vayāṃsy aroruvan kṛṣṇaṃ bodhayantīva vandinaḥ /
+2. muhūrtaṃ taṃ tu vaidarbhī nāmṛṣyad ati-śobhanam /
+3. brāhme muhūrta utthāya vāry upaspṛśya mādhavaḥ /
+4. ekaṃ svayaṃ-jyotir ananyam avyayaṃ sva-saṃsthayā nitya-nirasta-kalmaṣam /
+5. athāpluto 'mbhasy amale yathā-vidhi $ kriyā-kalāpaṃ paridhāya vāsasī &amp;cakāra sandhyopagamādi sattamo % hutānalo brahma jajāpa vāg-yataḥ
+6. upasthāyārkam udyantaṃ tarpayitvātmanaḥ kalāḥ /
+7. dhenūnāṃ rukma-śṛṅgīnāṃ sādhvīnāṃ mauktika-srajām /
+8. dadau rūpya-khurāgrāṇāṃ kṣaumājina-tilaiḥ saha /
+9. go-vipra-devatā-vṛddha- gurūn bhūtāni sarvaśaḥ /
+10. ātmānaṃ bhūṣayām āsa nara-loka-vibhūṣaṇam /
+11. avekṣyājyaṃ tathādarśaṃ go-vṛṣa-dvija-devatāḥ /
+12. saṃvibhajyāgrato viprān srak-tāmbūlānulepanaiḥ /
+13. tāvat sūta upānīya syandanaṃ paramādbhutam /
+14. gṛhītvā pāṇinā pāṇī sārathes tam athāruhat /
+15. īkṣito 'ntaḥ-pura-strīṇāṃ sa-vrīḍa-prema-vīkṣitaiḥ /
+16. sudharmākhyāṃ sabhāṃ sarvair vṛṣṇibhiḥ parivāritaḥ /
+17. tatropavistaḥ paramāsane vibhur babhau sva-bhāsā kakubho 'vabhāsayan /
+18. tatropamantriṇo rājan nānā-hāsya-rasair vibhum /
+19. mṛdaṅga-vīṇā-muraja- veṇu-tāla-dara-svanaiḥ /
+
+## Corpus chain
+previous_story_id: DKS_0285 | next_story_id: DKS_0287
+previous title: Narada Marvels at Krishna's Yoga-Maya and Departs || Narada praises Krishna's unfathomable yoga-maya, and Krishna bids him wander singing his glories throughout the worlds.
+next title: Sudama's Poverty and Journey || Sudama's wife urges the destitute brahmana to seek his boyhood friend Krishna, and he sets out for Dwaraka with a humble gift of flat rice.

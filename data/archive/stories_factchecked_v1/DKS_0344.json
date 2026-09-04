@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0344",
+ "title": "A Duel of Divine Weapons Above Shonitapura",
+ "subtitle": null,
+ "story": "The news reached Dwaraka the way such news always travels fastest — by a messenger no one had sent. Narada the sage, who seemed to be everywhere at once, told the Yadavas that Aniruddha had been taken, bound in serpent-nooses in the city of Shonitapura, a prisoner of its king. Within days the house of Yadu moved.\n\nPradyumna, the captive's father, marched at the head of the army, and with him came Satyaki, Gada and Samba, and twelve full hosts of warriors besides. They ringed Shonitapura and began to break it down — parks trampled, ramparts cracked, towers and gateways falling under the assault. It was a war the city had not asked for, and its king had not expected to face.\n\nBut Bana had an ally no army could outflank. Bana was a devotee of Shiva, and for his sake the great god himself took the field, with his son Skanda beside him and his strange hosts around him. The ghosts and goblins of Shiva's train — the pramathas, the guhyakas, the shapes that feast in the dark — poured out of the air to hold the walls. The battle that followed was like nothing mortal men had seen: dreadful, hair-raising, wonderful. The demon commanders Kumbhanda and Kupakarna hurled themselves at Balarama, and the earth shook with their meeting.\n\nThen Krishna entered the fight. Riding Garuda, the king of birds, he swept over the demon army, and his arrows fell like fire running through dry grass; the discus blazed in his hand, and behind him Balarama's plough and Pradyumna's bow finished what he began. The Danavas broke. Bana himself rode among them shouting them back to their duty — born in the race of the Daityas, would they run? — but the fear of Krishna's fire was stronger than any king's voice, and only the wild pramathas held their ground.\n\nThat was when Shiva's eyes reddened with anger. To protect Bana, his devotee, the lord of destruction mounted his great car — drawn by lions, ringed by his howling ghosts, some with the faces of tigers and serpents and horses, some blowing conches, some dressed in bark with matted locks. The sky itself seemed to swallow the light as the car rolled toward the field. Krishna, seeing him come, did not retreat. He rode Garuda straight at the god of gods.\n\nWhat followed was a duel of celestial weapons such as the watching heavens had rarely seen. Shiva loosed from his trident the greatest of his astras — the Brahma weapon, the weapon of the wind, the weapon of fire, the dread Pashupata itself. Each time Krishna met it with its match: Brahma answered Brahma, the wind-weapon was answered by the weapon of the mountain, and every arrow that Shiva buried him under was repaid with a storm of his own. Then the exchange deepened. Vishnu's weapon, given him by Indra, flew burning at Rudra's car; Shiva answered with a fiery weapon that covered the three Yadava heroes with arrows; and Krishna took up the Varuna weapon, and the water of it quenched the fire as it had never been quenched. Last of all came the Vaishnava weapon, and when it flashed, the bhutas and yakshas and asuras who had stood with Shiva fled in every direction.\n\nAbove the field, the gods and sages watched — Brahma himself had come with the celestials, and the sky was crowded with witnesses: Apsaras, Gandharvas, Siddhas, Charanas. The earth had been scorched, the mountains shaken, the quarters set ablaze. Yet Shiva still stood on his lion-drawn car, and Krishna still faced him, and neither had yielded. The duel was not over. It would take, of all things, a yawn to end it.",
+ "reflection": "The duel of weapons is a lesson in proportion: Shiva fights for a devotee, Krishna fights for a grandson, and the heavens watch two lords of power meet. Neither god yields, yet the exchange stays strangely contained — weapon answered with weapon, fire with water — as if the universe itself is trying to keep the quarrel from consuming it.",
+ "tradition_note": null,
+ "content_note": "Battle violence, described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Pradyumna",
+  "Shiva",
+  "Skanda",
+  "Bana"
+ ],
+ "locations": [
+  "Shonitapura"
+ ],
+ "themes": [
+  "war",
+  "divine combat",
+  "loyalty"
+ ],
+ "previous_story_id": "DKS_0343",
+ "next_story_id": "DKS_0345",
+ "next_story_tease": "But the duel was not over — the next stroke would come not from an arrow, but from a yawn.",
+ "hero_scene": "Above the burning battlefield of Shonitapura, Shiva's lion-drawn car, ringed by his howling ghostly hosts, faces Krishna mounted on Garuda; between them a sheet of water from the Varuna weapon rises to quench a blazing fiery weapon while the watching celestials crowd the sky.",
+ "visual_elements": [
+  "the Yadava armies ringing Shonitapura, breaking down gates and towers",
+  "Shiva's lion-drawn car surrounded by his ghostly hosts with strange faces",
+  "Krishna on Garuda facing the god of gods above the field",
+  "the fiery weapon blazing against the water of the Varuna weapon",
+  "the sky crowded with watching gods, sages and celestial singers"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.63.1-12",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.272",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:00Z",
+  "source_event_id": "evt_0226"
+ },
+ "editorial_status": "unreviewed"
+}

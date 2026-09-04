@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0301",
+ "title": "The Yadavas Resolve to Abandon Mathura for Dwaraka",
+ "subtitle": "A clan walks out of its old city on a day it chose itself",
+ "story": "No enemy threw the Yadavas out of Mathura. They left of their own counsel, on a day they chose themselves, carrying the city with them in the shape of a decision.\n\nThe decision had been forming for years. Jarasandha, the emperor of Magadha, had come against Mathura with his armies and been beaten back, but he could not be slain — the gods had made him deathless to his enemies — and his soldiers were so many that the Yadavas could not have destroyed them even in a hundred years of war. Now word came that Kalayavana, a foreign king of terrible strength, was marching on the city with an akshouhini of soldiers, and his messenger had already come to the houses of the Vrishnis and the Andhakas. The clans gathered, made Krishna their president, and held their conference in fear.\n\nKrishna spoke to the Yadus in assembly. This city of Mathura, he said, is the abode of the Yadavas. We were born here, and we grew up in Vraja. Our griefs have vanished and our enemies have been defeated — but now our hostilities with the kings have begun, and the war with Jarasandha. Our infantry and our animals are beyond counting, and we have jewels and friends in plenty. Yet for all that prosperity, Mathura is small, and an enemy can enter it easily. If a crore of princes and soldiers live crowded together here, dissension will spring up among them. It seems to me better, O leading Yadavas, that we should live elsewhere. If you wish it, we shall lay out a new city. Tell me it is well before this assembly, and I shall carry it out at the proper time.\n\nThe Yadavas answered with one voice: do what you deem proper for the good of all of us.\n\nEven then the leaving might have waited, but for the news that Jarasandha and Kalayavana were advancing together with an army too vast to count. The elders consulted among themselves and saw no end to it — a hundred years of war could not finish that host. Then Krishna said: today is an auspicious day. We shall go out of Mathura this very day, with our army and our followers.\n\nThey went out that same day, headed by Vasudeva. The city poured after them — wives, children, chariots, elephants — and the noise of the march was like the waves of the ocean. They left with their wealth, their kinsmen, their friends, their golden chariots and their infuriated elephants and their horses trotting under gold-decked harness, and they set their faces to the west. Vasudeva and the other elders rode in front, guiding the long columns like men who had always known the way.\n\nThey marched until they reached the bank of the sea. The shore was variegated with creepers, rich in coconut trees, covered with ketaki and palmyra and vines, and the Yadavas were as delighted as if they had arrived at the celestial region. Krishna went searching for the ground where he would lay out a city, and he found an extensive tract on the ocean's edge: coppery soil mixed with gravel, good ground for beasts of burden, marked with every favorable sign of a city, as if the Goddess of Prosperity herself presided over it. The sea breeze fanned it, and the ocean watered it. Near it rose Mount Raivata, shining like Mandara, where Drona had lived for many years and where king Ekalavya had once made his home, and the sporting ground that already bore the name Dwaravati.\n\nThere Krishna chose his site, and the Yadava commanders pitched their tents for the night. Standing on the new ground, the foremost of the Yadavas — Gada's younger brother, the leader of them all — thought in his mind of the names he would give to the houses of the city that would rise here, and rested, shorn of anxiety.\n\nThe Yadavas had secured Dwaravati, and they lived there happily with their friends, as the gods live in their own city. The city of gates — Dwaraka — had begun.",
+ "reflection": "The retreat from Mathura is unusual because it is decided without shame: Krishna does not pretend that staying would be braver, or that a king must hold his walls to the last. He weighs what the city can no longer offer — room, safety, unity — and simply chooses elsewhere. In this story wisdom looks less like heroism than like knowing when a place has been outgrown.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Kalayavana",
+  "Jarasandha",
+  "Vasudeva",
+  "the Vrishnis",
+  "the Andhakas"
+ ],
+ "locations": [
+  "Mathura",
+  "Kushasthali",
+  "Dwaraka"
+ ],
+ "themes": [
+  "fear",
+  "counsel",
+  "migration"
+ ],
+ "previous_story_id": "DKS_0300",
+ "next_story_id": "DKS_0302",
+ "next_story_tease": "Years later, in the city built on that seaside ground, a swayamvara would be held that would join Krishna's own house to the court of Vidarbha.",
+ "hero_scene": "The long column of the Yadavas leaving Mathura — golden chariots, elephants with gilded harness, laden carts, women and children among the soldiers — winding westward along the ocean road, with Vasudeva riding at its head and the gates of the old city closing behind them.",
+ "visual_elements": [
+  "the Yadavas' column leaving Mathura, headed by Vasudeva",
+  "golden chariots, elephants and gold-decked horses",
+  "the shore rich with coconut trees, ketaki and vines",
+  "Krishna surveying the coppery tract of land by the ocean",
+  "Mount Raivata shining near the chosen site",
+  "the tents of the Yadava commanders pitched for the night",
+  "the old city of Mathura receding behind the march"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.113",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0014"
+ },
+ "editorial_status": "unreviewed"
+}

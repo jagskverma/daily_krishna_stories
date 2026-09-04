@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0278",
+ "title": "Nriga's Story of the Disputed Cow",
+ "subtitle": "How a king famed for giving fell into a lizard's body",
+ "story": "The being who stood before Krishna had been a lizard until moments ago — a lizard the size of a hill, at the bottom of a dry well, drawn out at last by Krishna's left hand and transformed by his touch into a king of molten-gold splendour. The Yadu princes still stared. The people of Dwaraka pressed close. And Krishna asked the question everyone wanted answered: how had a being so evidently blessed come to spend his years at the bottom of a well?\n\nThe king bowed. \"What is unknown to you, lord,\" he said, \"you who are the witness of every being's heart? But if you wish the world to know, I will tell it. I am Nriga, of the line of Ikshvaku.\"\n\nAnd Nriga told his story.\n\nHe had been a king famed above all kings for one thing: giving cows. As many cows as there are sands on the earth, as stars in the sky — so many had he given. Milch cows and young cows, gentle cows of fine colour and form, tawny cows with horns tipped in gold — he had given them to brahmanas of good conduct, to men who kept their vows, to households bowed down by want. And not cows alone: land and gold, houses and horses, elephants and maidens with their servants, sesame and silver and beds. His wealth had flowed outward his whole life, and the fame of it had travelled ahead of him into every kingdom.\n\nThen, one day, the accident. A cow belonging to a leading brahmana of his realm strayed from its owner's herd and mingled with the royal cattle. In the great round of giving — one cow among thousands — it was led out and given to another brahmana.\n\n\"Its owner saw it as it was led away,\" Nriga said, \"and he cried out: 'That cow is mine!' The brahmana who had received it cried out as well, that it was his by gift. Both stood before me, each seeking his own right, and both claimed the cow.\"\n\nNriga understood at once what had happened. He offered each brahmana recompense — whatever he had won by righteous toil — and begged them both to forgive a servant who had not known what he gave.\n\n\"Neither would accept,\" Nriga said. \"The owner would not take another cow, or gold, or land, in place of his own. 'I will not accept it, king,' he said, and he walked away. The other would not give back the gift. The two could not be reconciled, and I could not undo what my own hand had done.\"\n\nThe story might have ended there, in a dispute no court could settle. It did not. In that very moment, Nriga said, Yama's messengers came for him. They took him from his palace to the court of Yama, lord of the dead, and Yama — who weighs every life — gave the king of givers a choice.\n\n\"You carry both merit and fault from this life,\" Yama said. \"Your giving was vast; your error is real. Which will you taste first — the good or the bad?\"\n\nNriga answered without hesitation. \"Let me taste the bad first.\"\n\nWhy? He did not argue it. Perhaps because the merit of a life of giving could wait; because a king who had wronged two brahmanas, even unknowingly, would rather pay than postpone; because he trusted that what he had given with both hands would keep its own appointment. Whatever his reason, he chose the bad — and the bad took the shape of a lizard.\n\n\"I fell from my palace into this body,\" Nriga said, \"and the dry well became my kingdom. Year after year I lay at the bottom of it — a king who had given away thousands of cows, unable to give anything at all, not even a prayer, in a lizard's throat. The merit waited. All those years, the merit waited.\"\n\nHe fell silent. The Yadu princes looked at the radiant king and tried to see the lizard in him. Krishna listened without moving.\n\n\"And now,\" Nriga said at last, \"you have touched me. And I think — I hope — the waiting is over.\"",
+ "reflection": "Nriga is no villain: a famously generous king, undone by an accident that no compensation could repair. His choice to suffer the bad first is the quiet heroism of the tale — he would rather taste his error than postpone it, trusting that the merit of a life of giving would keep its own appointment.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Nriga",
+  "Krishna",
+  "Brahmanas",
+  "Yama"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "charity",
+  "curse",
+  "error"
+ ],
+ "previous_story_id": "DKS_0277",
+ "next_story_id": "DKS_0279",
+ "next_story_tease": "His story told, Nriga bowed at Krishna's feet — and the ending the lizard-years had delayed was already descending from the sky.",
+ "hero_scene": "Two brahmanas face each other over a tawny cow with golden-tipped horns in the courtyard of King Nriga's palace — one claiming it as his own, one claiming it as his gift — while the stricken king stands between them, his hands open in appeal.",
+ "visual_elements": [
+  "two brahmanas disputing over a tawny cow with golden horns",
+  "King Nriga between them, appealing with open hands",
+  "the royal cattle herd in the background",
+  "Yama's messengers at the palace",
+  "the dry well with the giant lizard",
+  "Krishna and the Yadu princes listening"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.64.9-23",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:43Z",
+  "source_event_id": "evt_0252"
+ },
+ "editorial_status": "unreviewed"
+}

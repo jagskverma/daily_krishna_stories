@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0034",
+ "title": "Yashoda Binds Krishna to the Mortar",
+ "subtitle": null,
+ "story": "Yashoda had spent the morning chasing her small son. He had broken her butter pot while her back was turned, and she had run after him with a stick, meaning to teach him a lesson — but the moment she caught him and saw the fear on his small face, the stick dropped from her fingers and lay in the dust. She could not strike him. Her anger was a brief, hot thing, and it always died the moment it met his eyes.\n\nBut Krishna had done wrong, and something had to be done. So she put the stick aside and reached instead for a rope. She would tie him up — a gentler punishment, she told herself — and then she could finish her work in peace.\n\nShe took the rope and wound it around his waist. It came up short. However she pulled, the rope ended a little short of the knot, short by two fingers' width, no more. She frowned and joined another length of rope to the first. Still two fingers short. She joined a third, then a fourth, fetching coil after coil from the store of her own house, tying rope to rope, and still the gap would not close. All the rope in the house, joined end to end, could not make a loop that would hold him.\n\nShe worked on, and the morning grew warm. The sweat stood on her face and along her arms; the hair she had braided at dawn came loose, and the garland slipped from it and hung crooked. Still she tied, and still the rope fell short by those same two fingers.\n\nAnd then, at last, Krishna looked at his mother. He looked at her wet face, her loosened hair, her hands worn raw from tying ropes for his sake alone, and something in him softened. He was not a child whom any rope could hold. No one in all the worlds could reach him or bind him — not the greatest of the gods, not the mightiest of beings. And yet here was his mother, wearing herself out over a length of rope, for no other reason than that she was his mother and he was her son.\n\nSo he let it happen. Of his own accord, moved by nothing but her striving and her love, he stood still and let the rope close around his waist at last. Yashoda bound him to the great wooden mortar, the heavy block on which the household pounded its grain, and this time the knot held.\n\nShe wiped her face, satisfied, and turned back to her work. And the child sat bound to the mortar, as quiet as if he had chosen it — because, in the end, he had.",
+ "reflection": "The wonder is not that Krishna could not be bound, but that he chose to be — that the effort of a mother's love accomplished what the strength of the whole world could not.",
+ "tradition_note": "The Harivamsha and Vishnu Purana fold this rope-binding into the later uprooting of the twin trees; the Bhagavata gives it as a separate episode.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yashoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "surrender",
+  "mother's_love"
+ ],
+ "previous_story_id": "DKS_0033",
+ "next_story_id": "DKS_0035",
+ "next_story_tease": "Bound at last to the mortar, the child would soon drag it out toward the two great trees at the forest's edge.",
+ "hero_scene": "Young Yashoda, her hair loosened and her face damp with effort, ties one rope to another around the waist of a small Krishna who stands still and willing beside a great wooden mortar, coils of rope at her feet.",
+ "visual_elements": [
+  "Yashoda perspiring, her braid loosened",
+  "coils of rope joined end to end",
+  "small Krishna standing still and willing",
+  "the great wooden mortar",
+  "a cowherd courtyard",
+  "mood of tender surrender"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.9.11-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:21:53+05:30",
+  "source_event_id": "evt_0048",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

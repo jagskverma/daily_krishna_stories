@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0443",
+ "title": "Karna's Prophecy of the Coming War as a Sacrifice",
+ "subtitle": null,
+ "story": "The refusal had been spoken, and still Karna did not step toward his chariot. Krishna had offered him the world, and he had declined it for the sake of the people who had raised him and the friend who had stood by him. But there was one more thing he wanted Krishna to know, and he said so plainly first: the words had been spoken for his good, and the Pandavas, obedient to Krishna, would do all that Krishna had said. Then he turned to what was coming.\n\nDuryodhana, he said, was preparing a great sacrifice, a sacrifice of arms. And he described it the way a priest describes a rite already fixed on the calendar, with certainty and with composure.\n\nKrishna himself would stand in that rite as the Upadrashtri, the witness who oversees the ceremony, and the office of Adhyaryu, the priest who chants the hymns, would be his as well. The ape-bannered Arjuna, accoutred in mail, would be the Hotri, the chief priest who pours the oblation. Gandiva, his great bow, would be the sacrificial ladle, and the prowess of the warriors the clarified butter consumed in the fire. The celestial weapons Arjuna would release, the Aindra, the Pasupata, the Brahma, the Sthunakarna, would be the mantras of that sacrifice. Abhimanyu, resembling his father or perhaps excelling him in prowess, would be the chief Vedic hymn chanted as the rite proceeded. And when mighty Bhima struck Duryodhana down, the sacrifice of Dhritarashtra's son would be concluded.\n\nHe did not ask for the war to be stopped. He had already chosen his place in it, and he knew, naming the parts of the rite, exactly what his own part would cost. What he asked was only this: that Krishna conceal the discourse, for therein lay their benefit. If Yudhishthira ever learned the truth of his birth, the king would never accept the kingdom. And he asked one thing more, a request that from any other man would have sounded like a challenge and from Karna sounded like a prayer: \"Bring Kunti's son before me for battle.\"\n\nThe phrase hung in the air, and its weight had changed in the last hour. Kunti's son. All his life Karna had used those words of Arjuna, the rival who had everything that had been denied to him. Now he had just learned that he himself was Kunti's son, the firstborn, older than the man he was asking to meet. He did not take the revelation back. He did not trade it for the kingdom. He simply folded it into his request: bring Kunti's son before me, and let the two of us meet in the rite we have both been appointed to.\n\nKrishna listened to the whole prophecy without interrupting. A war that would cover the earth with bloody mire, a rite in which every hero had a priestly office, a sacrifice that would end only when Bhima closed it, Karna had looked at the coming catastrophe and found in it a shape, and the shape gave him composure. He was not asking Krishna to save him. He was asking Krishna to witness.\n\nHe had spoken of the war to come, of his own place in it, and of the secrecy that would keep Yudhishthira from a kingdom he could not in conscience accept, and he had done it all in the calm voice of a man settling his accounts before a long journey. When he had finished, the evening lay quiet around them. The prophecy hung in the air like smoke from an altar already lit, and the two men stood on the road in silence, each knowing exactly what the other would do when the rite began.",
+ "reflection": "Karna's image of the coming war as a sacrifice gives the catastrophe a shape and, with it, a kind of composure: every hero has a priestly office, Krishna himself will stand as witness, and the rite ends only when Bhima closes it. He describes the war not as something to escape but as a ceremony already fixed, in which he has already accepted his part.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Karna",
+  "Krishna",
+  "Arjuna",
+  "Bhima",
+  "Duryodhana"
+ ],
+ "locations": [
+  "on the road, near Hastinapura"
+ ],
+ "themes": [
+  "war",
+  "prophecy",
+  "sacrifice"
+ ],
+ "previous_story_id": "DKS_0442",
+ "next_story_id": "DKS_0444",
+ "next_story_tease": "And before they parted, Karna told Krishna of the omens he had seen.",
+ "hero_scene": "Karna stands before Krishna on the open road, one hand raised as he describes the coming war as a sacrifice, his voice calm and certain, while Krishna listens in silence and the first stars appear over the plain.",
+ "visual_elements": [
+  "Karna standing before Krishna on the open road, hand raised",
+  "Karna describing the war as a sacrifice with priestly offices",
+  "Krishna listening in silence without interrupting",
+  "the first stars appearing over the plain",
+  "the two men facing each other as the evening deepens"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.141",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:06:11Z",
+  "source_event_id": "evt_0450"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,181 @@
+# STORY DKS_0008 — Vishnu Resolves to Incarnate to Relieve the Earth
+
+## Index entry
+title: Vishnu Resolves to Incarnate to Relieve the Earth
+summary: Narada tells Vishnu that the gods' incarnations alone cannot destroy the demons reborn as kings, and urges him to descend himself.
+life_stage: birth | story_arc: birth_of_krishna
+characters: Narada, Vishnu, gods
+locations: Sumeru, celestial region
+themes: divine counsel, earth's burden
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0020
+variant_notes: VP: Earth petitions at Meru and Vishnu plucks black/white hairs; HV: Narada urges Vishnu, Brahma foretells the birth.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 54 | verses  | confidence 4
+  excerpt: 'O Narayana, useless have been the incarnations of the gods for the destruction of the kings... Methinks their work cannot be accomplished without Narayana's Yoga.'
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 54 | verses  | confidence 3
+  excerpt: Going to the region of men and assuming a human form I shall bring about the destruction of all those mighty demons headed by Kansa... Being born as a milkman with them he will live there happily.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 1 | verses  | confidence 4
+  excerpt: the supreme lord plucked off two hairs, one white and one black, and said to the gods, "These my hairs shall descend upon earth, and shall relieve her of the burden of her distress... This my (black) hair shall be impersonated in the eighth conception of the wife of Vasudeva, Devakí... and shall slay Kansa, who is the demon Kálanemi."
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.54 ()
+TITLE: THE BIRTH OF THE DAITYAS
+
+Vaishampayana said:—After Nārāyana, on his being successful, had
+repaired to a house on the earth becoming his position, after the gods
+had incarnated their portions in the race of Bharata, after the portions
+of Dharma, Indra, Pavana, the celestial physicians the two Aswinis, and
+the sun had descended on earth, after the priest, of the gods, had come
+down on earth, in a portion of his, after the eighth portion of Vasus
+had come down on earth, after the portion of Death, Kali had been on
+earth, after the portion of Sukra, Varuna, Sankara, Mitra, Kuvera,
+Gandharvas, Uragas and Yakshas had come down earth Nārada came out of a
+portion of Nārāyana’s energy¹⁸⁰ (1-6). He was effulgent like fire, had
+eyes like the rising sun and had huge and all-spreading matted locks. He
+wore a raiment white like the rays of the moon and was adorned with
+golden ornaments (7). He carried a big _Vina_¹⁸¹ like a female companion
+always confined in room, had an antelope skin thrown on his body and a
+sacred thread made of gold. With a staff and _Kamandalu_¹⁸² in his hands
+he appeared like second Sakra (8). That great sage always used to pick
+up quarrels, was learned, well-read in _Gandharva-Veda_¹⁸³ and was
+capable of deciphering the secret cause of dissensions in this world.
+That Brāhmana used to create enemies of his own accord and was like the
+second Kali himself. That great Muni was the first speaker in the land
+of gods and Gandharvas, was the chanter of the four Vedas and was the
+reciter of the first Rik. That immortal sage Nārada, ever ranging in the
+region of Brahmā, with a depressed heart said to Vishnu in the midst of
+the assembled gods. "O Nārāyana, useless have been the incarnations of
+the gods for the destruction of the kings (9-13). O lord of the
+celestial region, thyself existing here, this dissension of the kings
+will be productive of no fruit. Methinks their work cannot be
+accomplished without Nārāyana’s Yoga (14). O god of gods, thou art wise
+and observant of the true essence of things. It has not been proper for
+thee to institute such a work for the earth (15). Thou art the vision of
+the eyes and the lord of the powerful. Thou art the foremost of the
+Yogins and the refuge of all (16). Beholding the incarnation of the gods
+on earth why didst not thou send, first of all, a portion of thy energy
+to relieve the earth of her burden? (17). Making thee their help, and
+being identical with and guided by thee all the gods will swim on this
+earth from one action to another (18). I have therefore hastened to the
+presence of these assembled gods to send thee, O Vishnu; hear the reason
+thereof (19). O Nārāyana, hear of the movements of those Daityas who,
+amongst many that had been slain by thee in the war of which Tārakā was
+the root, have gone to the face of the earth (20). There is a delightful
+city on the face of the earth by name Mathurā. It is situate on the bank
+of Yamunā and abounds in many prosperous, villages. There was a great
+Dānava, irrepressible in battle, by name Madhu. He was highly powerful
+and a terror to all creatures (21–22). There was a vast and dreadful
+forest by name Madhu abounding in huge trees where he used to live
+formerly (23). The great Dānava Lavana was Madhu’s son. He was gifted
+with profuse strength and was a terror to all creatures (24). Sporting
+there for many years, that Dānava, elated with pride, terrorized all the
+gods and others (26). When the pious son of Dasharatha, Rāma, a terror
+to the Rākshasas, was ruling in Ayodhya, that Dānava, eulogised by all
+the Daityas, repaired to a dreadful forest. Lavana despatched to Rāma, a
+harsh-speeched emissary. He said ’O Rāma, I am living near your
+territory. The Dānava Lavana is your enemy. The kings do not wish to
+have a powerful enemy (26–28). A king, who seeks the well-being of his
+subjects, observes his royal duties and wishes to multiply his
+territories and riches, should always defeat his enemies (29). That
+king, desirous of pleasing his subjects, who has his hairs wet with the
+water of installation,¹⁸⁴ should first of all conquer his senses, for
+mastery over senses is the sure victory (30), The king, who wishes to
+keep his position always intact and strong, should instruct his men in
+moral laws for there is no other preceptor like him to the people (31).
+If when placed in the midst of dangers and vices, an intelligent king
+strengthens himself by his army he is not to entertain any fear of his
+enemies (32). All men are killed by their senses, the powerful enemies
+born with them. An impatient king is slain by the false notion of good
+done to them by their enemies (33). On account of your wife, you have,
+out of foolish attachment, killed Rāvana with his army. I do not
+consider that sinful action of yours as great and becoming (34). Living
+in a forest and observing a vow you have killed a mean Rakshasa. Such a
+conduct is not seen in the pious (35). Virtue, begotten of forbearance,
+takes the pious to an auspicious and ri
+[...]
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.54 ()
+TITLE: THE BIRTH OF THE DAITYAS
+
+Vaishampayana said:—After Nārāyana, on his being successful, had
+repaired to a house on the earth becoming his position, after the gods
+had incarnated their portions in the race of Bharata, after the portions
+of Dharma, Indra, Pavana, the celestial physicians the two Aswinis, and
+the sun had descended on earth, after the priest, of the gods, had come
+down on earth, in a portion of his, after the eighth portion of Vasus
+had come down on earth, after the portion of Death, Kali had been on
+earth, after the portion of Sukra, Varuna, Sankara, Mitra, Kuvera,
+Gandharvas, Uragas and Yakshas had come down earth Nārada came out of a
+portion of Nārāyana’s energy¹⁸⁰ (1-6). He was effulgent like fire, had
+eyes like the rising sun and had huge and all-spreading matted locks. He
+wore a raiment white like the rays of the moon and was adorned with
+golden ornaments (7). He carried a big _Vina_¹⁸¹ like a female companion
+always confined in room, had an antelope skin thrown on his body and a
+sacred thread made of gold. With a staff and _Kamandalu_¹⁸² in his hands
+he appeared like second Sakra (8). That great sage always used to pick
+up quarrels, was learned, well-read in _Gandharva-Veda_¹⁸³ and was
+capable of deciphering the secret cause of dissensions in this world.
+That Brāhmana used to create enemies of his own accord and was like the
+second Kali himself. That great Muni was the first speaker in the land
+of gods and Gandharvas, was the chanter of the four Vedas and was the
+reciter of the first Rik. That immortal sage Nārada, ever ranging in the
+region of Brahmā, with a depressed heart said to Vishnu in the midst of
+the assembled gods. "O Nārāyana, useless have been the incarnations of
+the gods for the destruction of the kings (9-13). O lord of the
+celestial region, thyself existing here, this dissension of the kings
+will be productive of no fruit. Methinks their work cannot be
+accomplished without Nārāyana’s Yoga (14). O god of gods, thou art wise
+and observant of the true essence of things. It has not been proper for
+thee to institute such a work for the earth (15). Thou art the vision of
+the eyes and the lord of the powerful. Thou art the foremost of the
+Yogins and the refuge of all (16). Beholding the incarnation of the gods
+on earth why didst not thou send, first of all, a portion of thy energy
+to relieve the earth of her burden? (17). Making thee their help, and
+being identical with and guided by thee all the gods will swim on this
+earth from one action to another (18). I have therefore hastened to the
+presence of these assembled gods to send thee, O Vishnu; hear the reason
+thereof (19). O Nārāyana, hear of the movements of those Daityas who,
+amongst many that had been slain by thee in the war of which Tārakā was
+the root, have gone to the face of the earth (20). There is a delightful
+city on the face of the earth by name Mathurā. It is situate on the bank
+of Yamunā and abounds in many prosperous, villages. There was a great
+Dānava, irrepressible in battle, by name Madhu. He was highly powerful
+and a terror to all creatures (21–22). There was a vast and dreadful
+forest by name Madhu abounding in huge trees where he used to live
+formerly (23). The great Dānava Lavana was Madhu’s son. He was gifted
+with profuse strength and was a terror to all creatures (24). Sporting
+there for many years, that Dānava, elated with pride, terrorized all the
+gods and others (26). When the pious son of Dasharatha, Rāma, a terror
+to the Rākshasas, was ruling in Ayodhya, that Dānava, eulogised by all
+the Daityas, repaired to a dreadful forest. Lavana despatched to Rāma, a
+harsh-speeched emissary. He said ’O Rāma, I am living near your
+territory. The Dānava Lavana is your enemy. The kings do not wish to
+have a powerful enemy (26–28). A king, who seeks the well-being of his
+subjects, observes his royal duties and wishes to multiply his
+territories and riches, should always defeat his enemies (29). That
+king, desirous of pleasing his subjects, who has his hairs wet with the
+water of installation,¹⁸⁴ should first of all conquer his senses, for
+mastery over senses is the sure victory (30), The king, who wishes to
+keep his position always intact and strong, should instruct his men in
+moral laws for there is no other preceptor like him to the people (31).
+If when placed in the midst of dangers and vices, an intelligent king
+strengthens himself by his army he is not to entertain any fear of his
+enemies (32). All men are killed by their senses, the powerful enemies
+born with them. An impatient king is slain by the false notion of good
+done to them by their enemies (33). On account of your wife, you have,
+out of foolish attachment, killed Rāvana with his army. I do not
+consider that sinful action of yours as great and becoming (34). Living
+in a forest and observing a vow you have killed a mean Rakshasa. Such a
+conduct is not seen in the pious (35). Virtue, begotten of forbearance,
+takes the pious to an auspicious and ri
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0007 | next_story_id: DKS_0009
+previous title: Kamsa Orders the Slaughter of Children and the Pious
+next title: Devaki's Seventh Embryo Is Transferred to Rohini (Balarama Born)

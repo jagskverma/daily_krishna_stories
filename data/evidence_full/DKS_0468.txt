@@ -1,0 +1,101 @@
+# STORY DKS_0468 — Krishna Embraces and Praises Arjuna After the Vow
+
+## Index entry
+title: Krishna Embraces and Praises Arjuna After the Vow
+summary: When Arjuna's vow against Jayadratha is fulfilled, Krishna embraces him, and Arjuna credits the victory entirely to Krishna's grace.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna
+locations: Kurukshetra
+themes: victory, grace, gratitude
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0462
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 7 | chapter/section 147 | verses  | confidence 4
+  excerpt: At that frightful time when confusion was everywhere... Hrishikesa, stationed in the van of battle embracing Arjuna who had accomplished his vow, told him these words, 'By good luck, O Jishnu, thy great vow hath been accomplished...' Unto him Arjuna replied, 'Through thy grace, O Madhava, this vow that even the gods could with difficulty accomplish, hath been accomplished by me... This is thy vict
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 7.147 ()
+“Dhritarashtra said, ‘When such was the condition of battle, between those
+heroes of their side and mine, what did Bhima then do? Tell me all, O
+Sanjaya!’
+
+“Sanjaya said, ‘After Bhimasena had been made carless, that hero,
+afflicted with the wordy darts of Karna and filled with rage, addressed
+Phalguna and said, “In thy very sight, O Dhananjaya, Karna hath
+repeatedly said to me, ‘Eunuch, fool, glutton, unskilled in weapons, do
+not fight, child, unable to bear the burden of battle!’ He that would
+tell me so would be slain by me. Karna hath told me those words, O
+Bharata! O mighty-armed one, thou knowest the vow which I have made
+jointly with thee. Remember the words that were then spoken by me. O
+foremost of men, act in such a way that that vow of mine, O son of Kunti,
+as also thy own vow, may not be falsified. O Dhananjaya, do that by which
+that vow of mine may be made true.” Hearing these words of Bhima, Arjuna
+of immeasurable prowess, getting near Karna in that battle, told him, “O
+Karna, thou art of false fight. O son of a Suta, thou applaudest thy own
+self. Of wicked understanding, listen now to what I tell thee. Heroes
+meet with either of these two things in battle, viz., victory or defeat.
+Both of these are uncertain, O son of Radha! The case is not otherwise
+when Indra himself is engaged in battle. Made carless by Yuyudhana, with
+thy senses no longer under thy control, thou wert almost at the point of
+death. Remembering, however, that I had vowed to slay thee, that hero
+dismissed thee without taking thy life. It is true thou hadst succeeded
+in depriving Bhimasena of his car. Thy abuse, however, O son of Radha, of
+that hero was sinful. Those bulls among men that are truly righteous and
+brave, having vanquished a foe, never boast, nor speak ill of anybody.
+Thy knowledge, however, is little. It is for this, O son of a Suta, that
+thou indulged in such speeches. Then again the abusive epithets thou
+didst apply to the battling Bhimasena, endued with great prowess and
+heroism and devoted to the practices of the righteous, were not
+consistent with truth. In the very sight of all the troops, of Kesava, as
+also of myself, thou wert many a time made carless by Bhimasena in
+battle. That son of Pandu, however, did not call thee a single harsh
+word. Since, however, thou hast addressed Vrikodara in many harsh
+speeches, and since thou with others hast slain the son of Subhadra out
+of my sight, therefore, this very day obtain the fruit of those offences
+of thine. It was for thy own destruction, O wicked wight, that thou didst
+then cut off Abhimanyu’s bow; for that, O thou of little understanding,
+thou shalt be slain by me, with all thy followers, forces, and animals.
+Accomplish now all those acts which thou shouldst do, for a great
+calamity is impending over thee. I will slay Vrishasena in thy very sight
+in battle. All those other kings, again, that will fully advance against
+me, I will despatch unto Yama’s abode. I say this truly, laying my hand
+on my weapon. A fool as thou art, without wisdom and full of vanity, I
+say that beholding thee lying on the field of battle the wicked
+Duryodhana will indulge in bitter lamentations.” After Arjuna had vowed
+the slaughter of Karna’s son, a loud and tremendous uproar arose amongst
+the car-warriors. At that frightful time when confusion was everywhere,
+the thousand-rayed sun, dimming his rays, entered the Asta hill. Then, O
+king, Hrishikesa, stationed in the van of battle embracing Arjuna who had
+accomplished his vow, told him these words, “By good luck, O Jishnu, thy
+great vow hath been accomplished. By good luck, that Vriddhakshatra hath
+been slain along with his son. The celestial generalissimo himself, O
+Bharata, encountering the Dhartarashtra force, would, in battle, O
+Jishnu, lose his senses. There is no doubt of this. Except thee, O tiger
+among men, I do not even in thought see the person in the three worlds
+that could fight with this host. Many royal warriors endued with great
+prowess, equal to thee or superior have been united together at
+Duryodhana’s command. Clad in mail, they could not approach thee,
+encountering thy angry self in battle. Thy energy and might are equal to
+that of Rudra or the Destroyer himself. None else is capable of putting
+forth such prowess in battle as thou, O scorcher of foes, alone and
+unsupported, didst today put forth. Thus shall I applaud thee again after
+Karna of wicked soul has been slain along with his followers. Thus shall
+I glorify thee when that foe of thine shall have been vanquished and
+slain.” Unto him Arjuna replied, “Through thy grace, O Madhava, this vow
+that even the gods could with difficulty accomplish, hath been
+accomplished by me. Their victory is not at all a matter of wonder that
+have thee, O Kesava, for their lord. Through thy grace, Yudhishthira will
+obtain the whole earth. All this is due to thy power, O thou of Vrishni’s
+race! This is thy victory, O lord! Our prosperity is thy victory, O lord!
+Our prosperity is thy ca
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0467 | next_story_id: DKS_0469
+previous title: Krishna Lends His Car to Satyaki
+next title: Krishna Shows Arjuna the Slain Battlefield

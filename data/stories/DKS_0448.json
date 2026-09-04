@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0448",
+ "title": "Bhishma's Passing in Krishna's Presence",
+ "subtitle": null,
+ "story": "Bhishma, the grandsire of the Kuru house, lay on his bed of arrows and would not die until the sky gave him his hour.\n\nHe had fallen in the war between the Pandavas and their cousins — the war he had foreseen and would not turn from — and through the last of the fighting he held his life in his own hands, waiting for the sun to enter its northern course — the auspicious turn of the year on which, men said, those who give up the body pass to what does not pass away. The war ended. The field fell silent. The survivors came and sat by him, and still he waited, and taught, and watched the sky.\n\nThen Krishna came to the field, and the sight of him walking toward the bed of arrows undid something in the old warrior that the arrows had never touched. \"See,\" Bhishma said to the kings around him, \"how the Lord bends down to those who love him without reserve. Krishna himself has come to me as I give up my life. May he be my refuge.\" And he asked one thing only: \"Let my mind rest on him in love and my voice keep his name — and may he, the God of gods, wait beside me until I give up this body.\"\n\nSo Krishna stood before him, and Bhishma, with the Pandavas and the gathered sages looking on, gave what remained of his strength to the teaching he had carried all his life: the duties of charity and of kings, the duties of those who seek release, and the four great aims of a human life — duty, gain, love, and freedom — each in its place, each with its road, given to each listener for his own rank and stage of life. He spoke of dharma — right living — the way a man speaks who is about to leave it behind; and while he spoke, the hour he had waited for came and stood at his shoulder.\n\nThen Bhishma gathered in his speech and let the words go. He fixed his unblinking gaze upon the four-armed form of Krishna standing before him in yellow robes, and his last prayer went up like a flame finding the sky: \"May my love rest on Krishna.\" And the praise poured out of him, the long remembrance of a lifetime of watching.\n\nHe remembered Krishna, dark as the tamala tree, its leaves almost black, his garments bright as the sun, driving the chariot through the dust of the battlefield with his hair loosened and sweat on his face. He remembered how, at the height of the war, Krishna had placed the chariot between the two armies; how, hearing his friend's plea, he had set aside his own word and leapt down from the chariot — Krishna, who had sworn he would not fight — striding out to make true the vow of the old warrior who had pressed him to it, his armor shattered by sharp arrows, bathed in blood, glorious to behold. He remembered the great assembly at Yudhishthira's Rajasuya, the sacrifice that crowns a king, crowded with sages and kings, where the Lord had moved among them with his gentle smile and his loving glance. And at the end of the remembering: \"Him, the unborn, who dwells in the heart of every living being — on him let my love rest.\"\n\nThe gaze did not waver. With pure concentration, his mind freed from attachment and fixed on the first of beings, his sins burned away by that one sight, the weariness of a hundred wounds fell from him as a garment falls — gone at the very look of the Lord.\n\nAnd when the sages around him knew that Bhishma was merging into the formless Brahman, the eternal beyond every name and shape, the drums sounded — played by gods and men together, a roll of thunder over the field. The rites for the departed were performed, and he who had waited so long for his hour passed from the field, his mind in Krishna and Krishna's name on his lips, into the silence from which no one returns.",
+ "reflection": "Bhishma's death completes his life's discipline: the man who spent his strength in waiting spends his last hour in praise, and the gaze he fixes on Krishna does what no art could — the weariness of the war falls from him by that sight alone. He does not cling to life; he looks at the Lord, and the looking is the release.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Bhishma",
+  "Yudhishthira",
+  "the Pandavas"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "devotion",
+  "death",
+  "liberation",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0447",
+ "next_story_id": "DKS_0449",
+ "next_story_tease": "That field would be remembered for the trembling of the earth beneath the gathered armies.",
+ "hero_scene": "On the field of Kurukshetra, Bhishma lies on a bed of arrows, his unblinking gaze fixed on the four-armed Krishna standing before him in yellow robes, while the Pandavas and sages watch and drums sound overhead.",
+ "visual_elements": [
+  "Bhishma on his bed of arrows watching the sky",
+  "Krishna walking toward the bed of arrows",
+  "Bhishma discoursing on dharma with the Pandavas and sages around him",
+  "the four-armed Krishna in yellow robes before the dying warrior",
+  "Bhishma's memory of Krishna on the battlefield, armor shattered and bathed in blood",
+  "the drums sounding over the field as Bhishma passes"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.9.21-45",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:00Z",
+  "source_event_id": "evt_0415",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

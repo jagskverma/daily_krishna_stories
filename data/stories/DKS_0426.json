@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0426",
+ "title": "Krishna Enters the Kuru Assembly",
+ "subtitle": null,
+ "story": "Before the sun was fully up, the sound of conches and cymbals drifted into Vidura's house, where Krishna had spent the night in talk. A band of singers and bards with sweet voices had gathered at the door to wake him with music; and Hastinapura, which had slept through the darkest hours, stirred with the first news that the messenger of peace was awake.\n\nKrishna rose and performed the rites of morning — the cleansing bath, his prayers, offerings of melted butter poured on the sacred fire. He dressed and began his worship of the rising sun; and while he was still at his devotions, Duryodhana and Sakuni, the uncle who had cheated the Pandavas at dice, came to him.\n\n\"The king is seated in his court,\" they said, \"with all the Kurus led by Bhishma, and with all the kings of the earth. They are all asking for you, as the gods in heaven ask for their king Indra.\"\n\nKrishna greeted them both courteously; and when the sun had climbed a little higher, he summoned a number of learned priests and made them presents of gold, robes, cows and horses. Then his charioteer Daruka came and saluted him, and soon returned with his master's chariot — a great shining car hung with rows of tinkling bells, drawn by swift horses, its wheels rumbling like distant thunder.\n\nKrishna walked around the sacred fire and the band of priests, put on the jewel called Kaustubha, and mounted the chariot, surrounded by the Kurus and guarded by his own Vrishni kinsmen. Vidura followed in his own chariot; Duryodhana and Sakuni shared one; and Satyaki and Kritavarman, the boldest warriors of Krishna's clan, rode behind with the rest, on chariots, on horses and on elephants.\n\nThey came out onto a broad street that had been swept and watered for the occasion. Cymbals clashed, conches were blown, and every other instrument poured out its music. Young warriors, the pride of Krishna's line, surrounded the chariot; thousands of soldiers in bright dress, bearing swords, lances and axes, marched before it; five hundred elephants followed, and chariots beyond counting. All the citizens of Hastinapura, young and old, men and women, had come into the streets to see him; terraces and balconies were crowded with ladies, and every window held a face. Honoured by the Kurus, answering the greetings of all as each deserved, Krishna moved slowly down the street, his eyes on everyone.\n\nAt last he reached the Kuru court, and his attendants blew their conches and trumpets until the sky rang with the sound. The whole assembly of kings trembled with delight at the thought of seeing him; and when they heard the rumble of his chariot, like the roll of rain-heavy clouds, the kings rose, their joy so deep that the hair of their bodies stood on end.\n\nAt the gate Krishna alighted from his chariot and entered the great hall — bright with gold, high as a bank of summer cloud. He walked in with Vidura on one side and Satyaki on the other, and beside him even the splendour of the hall seemed to dim. The kings made way for him; the sages who had come to the assembly were given their seats; and Krishna, the guest the whole city had poured into the streets to see, took his place in the midst of the court.\n\nThere he sat, the calm centre of a hall that had dressed itself in all its glory to receive him — a glory that seemed, in that moment, borrowed from his presence rather than lent to it.",
+ "reflection": "The procession into the Kuru court is honor laid on like cloth of gold, and Krishna accepts all of it — the music, the crowds, the trembling delight of the kings — without once bending toward its vanity. He is the guest the whole city turned out to see, yet the calm at the center of that splendour belongs to a man who has come on other business entirely.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Satyaki",
+  "Dhritarashtra",
+  "Bhishma",
+  "Duryodhana",
+  "Sakuni",
+  "Daruka"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "assembly",
+  "honour",
+  "divinity"
+ ],
+ "previous_story_id": "DKS_0425",
+ "next_story_id": "DKS_0427",
+ "next_story_tease": "Once the assembly had settled into silence, Krishna rose to make his plea for peace.",
+ "hero_scene": "At the gate of the Kuru court in Hastinapura, Krishna, wearing the Kaustubha gem, alights from his blazing car and enters the cloud-like hall arm-in-arm with Vidura and Satyaki on either side, his radiance overshadowing the splendour of all the assembled Kurus.",
+ "visual_elements": [
+  "Krishna in his blazing car with tinkling bells, drawn by excellent steeds",
+  "the swept and watered street of Hastinapura lined with crowds",
+  "citizens and ladies thronging terraces and balconies",
+  "five hundred elephants and chariots by thousands following the procession",
+  "Krishna alighting at the gate of the Kuru court, entering arm-in-arm with Vidura and Satyaki",
+  "the assembly of kings with hair standing erect with delight"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.094",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0433",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

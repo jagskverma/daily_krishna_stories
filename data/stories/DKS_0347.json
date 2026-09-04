@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0347",
+ "title": "The Chariot That Brought the Prince Home",
+ "subtitle": null,
+ "story": "The war for Aniruddha ended the way few wars end: not with the enemy destroyed, but with the enemy bowing low.\n\nAniruddha, Krishna's grandson and the son of Pradyumna, had been carried off by magic to the demon city of Shonitapura. The princess Usha loved him, and her father, the thousand-armed Bana, had bound the young prince with serpent-nooses and held him a close prisoner, out of the sight of the world. Krishna, Balarama and Pradyumna had marched on the city with the whole Yadava host behind them. Shiva himself came to Bana's aid that day, and the field shook under the meeting of their weapons before Krishna's discus severed Bana's thousand arms, one after another, until the demon king stood armless before his conqueror. Yet Krishna spared him — Shiva had pleaded for his devotee — and Bana, even in defeat, bowed low to the man who had spared him.\n\nThrough the long campaign Krishna had pressed the sage Narada again and again for word of the boy. \"My heart is full of love for him,\" he would say. \"I want to see Aniruddha with my own eyes, today.\" Now, at last, he would.\n\nWhen the fighting was done, the same Bana came forward a second time. Granted fearlessness, he touched his head to Krishna's feet. He did not rage over what he had lost, and he did not scheme to win it back. Instead the lord of the demons placed Aniruddha and his bride Usha on a chariot, gave them an escort drawn from his own army, and sent them home with the Yadavas. The war that had begun with a prince stolen by night ended with the enemy himself sending the prince home in daylight, an army of his own choosing at the couple's back.\n\nThe road back to Dwaraka was a procession. All the while Aniruddha had been gone, the city had been full of anxious talk: a son of the house spirited away without a trace, and no one certain whether he still lived. Now word ran ahead of the returning host, and Dwaraka prepared as for a festival. Banners hung from the walls, arches were raised across the crossings, and the streets and squares were swept and sprinkled clean for the homecoming.\n\nKrishna entered his own capital to the blare of conches and the roll of drums. Citizens, friends and priests pressed together along the road, calling out their joy, while at the heart of the procession rode Aniruddha with Usha beside him — the prince the city had feared lost, and the bride who had come back with him. Whatever the war had cost, it ended with two young people riding together through the arches of Dwaraka.\n\nLong after the procession had passed, the sound of the conches carried out over the water, telling the sea itself that the house of Yadu had gotten its prince back.",
+ "reflection": "The war that began with a prince stolen ends with the enemy himself sending the prince home — release granted rather than seized. Bana, stripped of his thousand arms, chooses grace over rage, and the story's triumph is not a city taken but two young people riding together through its gates.",
+ "tradition_note": "The Harivamsha tells the release differently: the serpent bonds fall from Aniruddha at the sight of Garuda, and Krishna celebrates the wedding at Shonitapura, granting Bana's kingdom to the minister Kumbhanda, before the return to Dwaraka.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Bana",
+  "Aniruddha",
+  "Usha"
+ ],
+ "locations": [
+  "Shonitapura",
+  "Dwaraka"
+ ],
+ "themes": [
+  "release",
+  "union",
+  "triumph"
+ ],
+ "previous_story_id": "DKS_0346",
+ "next_story_id": "DKS_0348",
+ "next_story_tease": "But Dwaraka's joy would not go untested — before long, Shalva's sorcery would put Pradyumna to the proof on his own field.",
+ "hero_scene": "At the gate of Dwaraka, a chariot carries Aniruddha and his bride Usha through crowds of cheering citizens while Krishna follows amid the blare of conches and drums, banners and arches lining the swept streets.",
+ "visual_elements": [
+  "Bana bowing low before Krishna, his severed arms bound in cloth",
+  "the chariot bearing Aniruddha and Usha, escorted by an army of Bana's own choosing",
+  "conches and drums sounding as Krishna enters Dwaraka",
+  "banners and arches raised along the swept and sprinkled streets",
+  "citizens, friends and priests crowding the roadside to greet the returning host"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.63.49-52",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.276",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:52Z",
+  "source_event_id": "evt_0228",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

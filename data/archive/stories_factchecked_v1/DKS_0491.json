@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0491",
+ "title": "The Pilgrimage to Samanta-panchaka",
+ "subtitle": null,
+ "story": "When the sun went dark over Dwaraka in the middle of the day, the Yadavas did not read it as a bad omen. A solar eclipse is a summons, not a warning: a day when the pious go down to the sacred waters, bathe away the dust of their years, and give cows and gifts to the worthy. Every family in the city knew the day's arithmetic — the dark sun above, the sacred water ahead, and the merit to be won by those who came with open hands.\n\nThe road led to Samanta-panchaka, the field of the Kurus where the warrior Rama, best of weapon-bearers, had once made lakes of the kings' blood. It was a field the blessed Rama himself had hallowed with his great sacrifice — Rama, untouched by any deed's stain — and the water there was counted among the holiest in the land. Krishna went, and Balarama, and Vasudeva, and Akrura, and the chief men of the Yadava houses, and behind them half the city. The road filled with chariots that gleamed like the dwellings of the gods, drawn by swift horses and hung with garlands of gold, so that the whole procession shone as it crossed the plain beneath the darkened sky. It seemed that all the people of the land were on the road as well, streaming toward the same field, each pilgrim hoping to leave a lifetime of sins behind in the sacred water.\n\nAt the tirtha they bathed in Rama's five pools, fasting with their minds gathered close, and then, as the rite required, bathed a second time. They gave cows and gifts and performed what the day demanded. And only then did the field show them what the eclipse had truly gathered.\n\nKings had come from every quarter — from Kamboja and Kaikaya, from Madra and Kunti, from Anarta and Kerala — and with them, kinsmen and friends the Yadavas had not seen in years. Men who had been parted by wars and reigns and the long business of kingdoms fell on one another's necks. Their faces opened like lotuses in the joy of meeting, and tears ran down unchecked. The women of the two houses embraced as well, arm crossing arm, the red kumkuma of festival dress marking each other's shoulders, tears of love bright in their eyes. The youngest bowed to the eldest and were blessed in return, and the elders gave the blessings with both hands, as if they could not let go.\n\nBy evening the field had turned into something rarer than a festival: a reunion of half the world's families. Tents had gone up everywhere; the plain had become a city of its own. Old quarrels were forgotten at the sight of a familiar face. News was exchanged at every campfire; children born since the last meeting were shown to relatives who wept over them; men who had last met on a battlefield found they could laugh together. The eclipse that had darkened the sky at noon had become the excuse for a homecoming no one had dared to arrange.\n\nAnd then, toward the end of the day, a new dust rose on the road — not the fine dust of chariots but the slower, thicker dust of ox-carts and walking herds. A caravan of cowherds came up out of the haze, men in the rough cloth of the countryside, and a stir ran through the Vrishni camp. For among all the kings and kinsmen the field had gathered, these were the faces from the oldest years of Krishna's life: Nanda, and Yashoda, and the cowherds of Gokula.\n\nThe pilgrimage had saved its best gift for last.",
+ "reflection": "The eclipse gathers what the years have scattered: a day that begins in darkness becomes the occasion for half the world's families to find one another again. Krishna travels to the tirtha like everyone else, and the story's weight falls not on anything he does but on the reunion that his presence draws together.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Vasudeva",
+  "the Yadavas"
+ ],
+ "locations": [
+  "Samanta-panchaka (Kurukshetra)"
+ ],
+ "themes": [
+  "pilgrimage",
+  "reunion",
+  "eclipse"
+ ],
+ "previous_story_id": "DKS_0490",
+ "next_story_id": "DKS_0492",
+ "next_story_tease": "Nanda and Yashoda had come to Samanta-panchaka — and the Vrishnis rushed to meet them as if life itself had returned.",
+ "hero_scene": "Under the eclipsed sun, a long procession of golden chariots crosses the plain toward the five pools of Samanta-panchaka, where kings from many realms and long-separated kinsmen embrace one another with tears of joy.",
+ "visual_elements": [
+  "the darkened sun of the solar eclipse",
+  "gleaming chariots hung with garlands of gold",
+  "the five sacred pools of Samanta-panchaka",
+  "kings of many realms embracing with tears of joy",
+  "women of the two houses embracing, kumkuma marking their shoulders",
+  "younger pilgrims bowing to the elders",
+  "the cowherds' caravan arriving in a haze of dust"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.82.1-15",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:49Z",
+  "source_event_id": "evt_0491"
+ },
+ "editorial_status": "unreviewed"
+}

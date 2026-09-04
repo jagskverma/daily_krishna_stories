@@ -1,0 +1,118 @@
+# STORY DKS_0264 — Krishna Frees the Sixteen Thousand Captive Maidens
+
+## Index entry
+title: Krishna Frees the Sixteen Thousand Captive Maidens
+summary: Krishna enters Narakasura's palace and frees the 16,100 captive princesses, who all choose him as their husband.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Princesses
+locations: Pragjyotisha
+themes: liberation, compassion, devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0210
+variant_notes: Both: sixteen thousand maidens choose Krishna as husband.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 59 | verses 31-36 | confidence 5
+  excerpt: In Narakasura's palace Krishna saw the 16,100 royal princesses the demon had seized; seeing him, they all mentally chose him as their husband, and Krishna sent them to Dvaraka with vast treasures and sixty-four white elephants. (rendered from Sanskrit, verses 31-36)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 121 | verses  | confidence 4
+  excerpt: Having arrived at the Treasury of Naraka, Janārdana saw there, diamonds, pearls, corals, sapphires, emeralds ... Taking himself the Varuni umbrella capable of showering gold, he rode Garuda ... Having thus welcome[d] those lotus eyed damsels ... took them all to Dwāraka.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.59 (31-36)
+31. bhp_10.59.032/0 śrī-śuka uvāca
+32. tatra rājanya-kanyānāṃ ṣaṭ-sahasrādhikāyutam /
+33. tam praviṣṭaṃ striyo vīkṣya nara-varyaṃ vimohitāḥ /
+34. bhūyāt patir ayaṃ mahyaṃ dhātā tad anumodatām /
+35. tāḥ prāhiṇod dvāravatīṃ su-mṛṣṭa-virajo-'mbarāḥ /
+36. airāvata-kulebhāṃś ca catur-dantāṃs tarasvinaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.121 ()
+TITLE: KRISHNA VISIT WITH ADITI
+
+Vaishampāyana said:—Having slain Bhumi’s son Naraka powerful like
+Vāsava, Vishnu, the younger brother of Indra began to search his house
+(1). Having arrived at the Treasury of Naraka, Janārddana saw there,
+diamonds, pearls, corals, sapphires, emeralds, and various other jems,
+gold, heaps of jewels and other precious articles, a highly costly bed
+shining like the moon, a lion-shaped throne effulgent like burning fire,
+and a huge and beautiful umbrella of the hue of the clouds of the rainy
+season, of the lustre of the moon and with a golden standard. O
+Janamejaya, I have heard that there was also the golden fountain of
+hundreds and thousands of streams, which he had brought from Varuna;
+what more, we had never seen or heard of even in the palaces of Kuvera,
+Yama and Indra, the collection of jewels that was in Naraka’s treasury.
+Bhumi’s son Naraka, Nisunda and Hayagriva being slain, the surving
+warders of his Treasury took to Keshava those costly jems and the
+damsels of the seraglio, considering them as worthy of him (2-10).
+
+The Daityas said:—O Janārddana, all these various jems and riches, these
+goods made of corals, these beautiful flags set with golden threads,
+these twenty thousand grim-visaged elephants carrying bows, _Tomaras_
+and other weapons such-like forty-thousand she-elephants, and eight lacs
+of horses of most excellent breed have been brought to thee. And we will
+take to the houses of the Andhakas and Vrishnis as many kine as thou
+shalt desire to have. O Lord, we will despatch to the houses of the
+Yādavas, bed-steads of fine workmanship, seals, beautiful birds, sandal
+and Aguru woods and other jems both in mountains or collected from the
+three worlds that are in Naraka’s palace. There are now in Naraka’s
+houses all the riches and jems that were formerly in the possession of
+the gods, Gandharvas and Pannagas (11-17).
+
+Vaishampāyana said:—Having accepted all those jewels and examined them,
+Hrishikesha, the slayer of Madhu, sent them all speedily to Dwāravati
+through the Danavas (18). Taking himself the Varuni umbrella capable of
+showering gold, he rode Garuda that foremost of birds, the very
+personification of a cloud, and set out for the foremost of mountains
+Mani (19–20). Janārddana saw there on the mount Mani, gates, summits of
+sapphire decorated with flags and doors. At that time adorned with rows
+of palaces painted in golden colours, the entire mount Mani shone like a
+cloud adorned with lightings. Madhusudana saw there the pure,
+gold-coloured and plump-hipped daughters of the Gandharvas and leading
+Asuras whom Naraka had carried away by force and confined there.
+Although deprived of all sorts of enjoyments, still residing there as if
+in the city of the celestials, they lived happily like celestial
+damsels. And nobody, on account of Naraka’s powers, could take them away
+(21-26.)
+
+In order to behold the large-armed Krishna, the foremost of Yadus, the
+damsels, controlling their senses, emaciated on account of the
+observance of vows and fastings, clad in silken raiments and with one
+braid of hairs approached Janarddana with folded hands and stood
+encircling him. They fearlessly surrounded Krishna because they had
+learnt of the death of the great Asuras Naraka, Mura, Hayagriva and
+Nisunda. The elderly Mānavas who were their guards, although more aged,
+bowed to Krishna, the descendant of Yadu, with folded hands. Beholding
+the moon-like countenance of the large-armed Krishna, those beautiful
+damsels were all worked up with desire and wished to select him as their
+husband. And they accordingly with joyous hearts said:—(27–32). "What
+the celestial saint Nārada, knowing the hearts of all creatures, and the
+Wind-god had said to us before, is all true. They said that the
+Universal Lord Nārāyana, the holder of conch, discus and club, slaying
+Bhumi’s son Naraka, would in no time become our husband. We behold now
+our beloved lord, the slayer of his enemies of whom we have been hearing
+for ever. Oh! we have been blessed to-day by seeing this high-souled
+deity" (33–35).
+
+Thereupon having delightedly welcomed those lotus eyed damsels Vāsav’s
+younger brother consoled them all. Having welcomed those ladies duly the
+lotus-eyed Keshava, the slayer of Madhu took them all to Dwāraka in a
+car protected by servants (36–37). Then there arose a great tumult of
+the Rākshas quick-coursing like air, while carrying the vehicle.
+Uprooting the most charming and brilliant summit of that best of
+mountains, Vishnu the foremost of the strong rode that best of birds
+Garuda. It was like the clear sun and the moon, had gates made of jewels
+and gold, abounded in birds, deer, various animals and elephants, was
+beautified with trees and filled with monkeys. It had spacious rocks,
+boars, buffaloes and antelopes. Its table-land was filled with springs
+and it had various sorts of trees. Many beasts and peacocks were roving
+there and it was wonderful above all comprehension (38–43). Garuda the
+king of birds 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0263 | next_story_id: DKS_0265
+previous title: Bhumi Returns Aditi's Earrings || The earth-goddess Bhumi restores Aditi's earrings and Varuna's umbrella and prays for the protection of Naraka's son Bhagadatta.
+next title: Krishna Uproots the Parijata Tree from Indra's Heaven

@@ -1,0 +1,65 @@
+# STORY DKS_0014 — Krishna Reveals His Divine Form and Recalls Past Births
+
+## Index entry
+title: Krishna Reveals His Divine Form and Recalls Past Births
+summary: The infant reveals a four-armed form bearing conch and discus; Vasudeva and Devaki praise him, and he recalls his earlier births to them before resuming an ordinary infant form.
+life_stage: birth | story_arc: birth_of_krishna
+characters: Krishna, Vasudeva, Devaki
+locations: Mathura
+themes: theophany, devotion, remembrance
+festival_tags: Janmashtami
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0026
+variant_notes: See also 'birth' (VP 5.3 folds this in).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 3 | verses 8-45 | confidence 5
+  excerpt: The newborn shows himself four-armed, holding conch, discus, mace and lotus, adored by his parents; he reminds them of their past births and their long austerities, then becomes an ordinary infant again. (rendered from Sanskrit, verse 8-45)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.3 (8-45)
+8. tam adbhutaṃ bālakam ambujekṣaṇaṃ catur-bhujaṃ śaṅkha-gadādy-udāyudham /
+9. mahārha-vaidūrya-kirīṭa-kuṇḍala- tviṣā pariṣvakta-sahasra-kuntalam /
+10. sa vismayotphulla-vilocano hariṃ sutaṃ vilokyānakadundubhis tadā /
+11. athainam astaud avadhārya pūruṣaṃ paraṃ natāṅgaḥ kṛta-dhīḥ kṛtāñjaliḥ /
+12. bhp_10.03.013/0 śrī-vasudeva uvāca
+13. sa eva svaprakṛtyedaṃ sṛṣṭvāgre tri-guṇātmakam /
+14. yatheme 'vikṛtā bhāvās tathā te vikṛtaiḥ saha /
+15. sannipatya samutpādya dṛśyante 'nugatā iva /
+16. evaṃ bhavān buddhy-anumeya-lakṣaṇair grāhyair guṇaiḥ sann api tad-guṇāgrahaḥ /
+17. ya ātmano dṛśya-guṇeṣu sann iti vyavasyate sva-vyatirekato 'budhaḥ /
+18. tvatto 'sya janma-sthiti-saṃyamān vibho $ vadanty anīhād aguṇād avikriyāt &amp;tvayīśvare brahmaṇi no virudhyate % tvad-āśrayatvād upacaryate guṇaiḥ
+19. sa tvaṃ tri-loka-sthitaye sva-māyayā $ bibharṣi śuklaṃ khalu varṇam ātmanaḥ &sa tvaṃ tri-loka-sthitaye sva-māyayā $ bibharṣi śuklaṃ khalu varṇam ātmanaḥ &sargāya raktaṃ rajasopabṛṃhitaṃ % kṛṣṇaṃ ca varṇaṃ tamasā janātyaye
+20. tvam asya lokasya vibho rirakṣiṣur gṛhe 'vatīrṇo 'si mamākhileśvara /
+21. ayaṃ tv asabhyas tava janma nau gṛhe $ śrutvāgrajāṃs te nyavadhīt sureśvara &amp;sa te 'vatāraṃ puruṣaiḥ samarpitaṃ % śrutvādhunaivābhisaraty udāyudhaḥ
+22. bhp_10.03.023/0 śrī-śuka uvāca
+23. bhp_10.03.024/0 śrī-devaky uvāca rūpaṃ yat tat prāhur avyaktam ādyaṃ $ brahma jyotir nirguṇaṃ nirvikāram & rūpaṃ yat tat prāhur avyaktam ādyaṃ $ brahma jyotir nirguṇaṃ nirvikāram & sattā-mātraṃ nirviśeṣaṃ nirīhaṃ % sa tvaṃ sākṣād viṣṇur adhyātma-dīpaḥ
+24. naṣṭe loke dvi-parārdhāvasāne mahā-bhūteṣv ādi-bhūtaṃ gateṣu /
+25. yo 'yaṃ kālas tasya te 'vyakta-bandho $ ceṣṭām āhuś ceṣṭate yena viśvam &amp;nimeṣādir vatsarānto mahīyāṃs % taṃ tveśānaṃ kṣema-dhāma prapadye
+26. martyo mṛtyu-vyāla-bhītaḥ palāyan lokān sarvān nirbhayaṃ nādhyagacchat /
+27. sa tvaṃ ghorād ugrasenātmajān nas trāhi trastān bhṛtya-vitrāsa-hāsi /
+28. janma te mayy asau pāpo mā vidyān madhusūdana /
+29. upasaṃhara viśvātmann ado rūpam alaukikam /
+30. viśvaṃ yad etat sva-tanau niśānte yathāvakāśaṃ puruṣaḥ paro bhavān /
+31. bhp_10.03.032/0 śrī-bhagavān uvāca
+32. yuvāṃ vai brahmaṇādiṣṭau prajā-sarge yadā tataḥ /
+33. varṣa-vātātapa-hima- gharma-kāla-guṇān anu /
+34. śīrṇa-parṇānilāhārāv upaśāntena cetasā /
+35. evaṃ vāṃ tapyatos tīvraṃ tapaḥ parama-duṣkaram /
+36. tadā vāṃ parituṣṭo 'ham amunā vapuṣānaghe /
+37. prādurāsaṃ varada-rāḍ yuvayoḥ kāma-ditsayā /
+38. ajuṣṭa-grāmya-viṣayāv anapatyau ca dam-patī /
+39. gate mayi yuvāṃ labdhvā varaṃ mat-sadṛśaṃ sutam /
+40. adṛṣṭvānyatamaṃ loke śīlaudārya-guṇaiḥ samam /
+41. tayor vāṃ punar evāham adityām āsa kaśyapāt /
+42. tṛtīye 'smin bhave 'haṃ vai tenaiva vapuṣātha vām /
+43. etad vāṃ darśitaṃ rūpaṃ prāg-janma-smaraṇāya me /
+44. yuvāṃ māṃ putra-bhāvena brahma-bhāvena cāsakṛt /
+45. bhp_10.03.046/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0013 | next_story_id: DKS_0018
+previous title: Krishna Is Born at Midnight in the Prison
+next title: Vasudeva Carries Krishna Out of Prison Across the Yamuna

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0121",
+ "title": "Garuda Restores Vishnu's Stolen Crown",
+ "subtitle": null,
+ "story": "On the summit of Gomanta the two brothers were alone, and then a shadow passed over them — vast and swift, and not the shadow of any cloud.\n\nKrishna and Balarama had been ranging through the flowering forests on the mountain's crown, garlands of wild flowers on their chests, watching the sun and the moon rise and set over the world below. They were far from Mathura, in the high country, and everything around them lay still. Then Garuda came.\n\nGaruda, the great eagle, the foremost of birds, was on his way home from a battlefield. His body still bore the marks of the weapons he had fought against, and he wore the celestial garlands of one who fights on the side of the gods. He came swiftly, and on his lap he carried something that blazed with light.\n\nLong ago, it is said, when the Lord Vishnu lay asleep in the abode of Varuna, in the ocean of milk, a thief had crept up on him. It was Virochana's son, the daitya, and he took on a celestial form like that of the king of the gods, and while the god slept he stole away the crown from his head and carried it off like a stolen planet. For that crown Garuda fought a dreadful battle with the daityas in the midst of the ocean, and he won it back. But when he had secured it and looked for Vishnu, Vishnu was not there; and so the great bird, the crown resting on his lap, was passing over the face of the earth on his way to the celestial regions.\n\nIt was then that he came upon the mountain and saw his master. Vishnu was there in a human form — no diadem on his head, no ornament upon him — walking the earth as Krishna. Garuda knew him at once, and he understood why his path had been bent this way. So the foremost of birds threw the crown down from the sky onto Krishna's head, and it settled there as though it had never been absent, as though it had been fitted to that head from the very beginning. Once placed, the diadem shone upon Krishna's brow like the midday sun blazing on the summit of Mount Sumeru.\n\nKrishna's face brightened with pleasure. He turned to his brother. While the preparations for battle are being made on this mountain, he said, I think the work of the gods is near its fulfilment. When I fell asleep in the ocean, Virochana's son, wearing the form of the king of the gods, stole away my crown and carried it off like a planet. Now Garuda has brought it back.\n\nHe did not treat the crown as a mere ornament restored. He read it as a sign. I am certain that Jarasandha is near, he said, for the tops of the chariots are already in sight. Look — there shine the moon-white umbrellas and the ordered armies of the kings who have come seeking victory, moving toward us like cranes across the sky. And he spoke of the emperor Jarasandha as a guest arriving in good time, the first guest in battle, a touchstone against which their strength would be tested.",
+ "reflection": "The crown is not a piece of lost property so much as a confirmation. Garuda does not merely return what was taken; he returns it at the very moment Krishna needs to know who he is and what is coming. The restored diadem is read not as ornament but as omen — the work of the gods is near, and the enemy is already in sight.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Garuda",
+  "Balarama"
+ ],
+ "locations": [
+  "Gomanta"
+ ],
+ "themes": [
+  "divine insignia",
+  "restoration"
+ ],
+ "previous_story_id": "DKS_0120",
+ "next_story_id": "DKS_0122",
+ "next_story_tease": null,
+ "hero_scene": "Garuda, the great eagle bearing wounds of battle, hovering above the summit of Gomanta as he lets Vishnu's blazing crown fall from the sky onto the head of Krishna, where it settles like the midday sun on Mount Sumeru.",
+ "visual_elements": [
+  "Garuda the great eagle in the sky",
+  "the blazing crown descending",
+  "Krishna receiving it on his head",
+  "Balarama beside him",
+  "the flowering summit of Gomanta",
+  "the distant approach of armies",
+  "a mood of divine restoration"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.97",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:13:00Z",
+  "source_event_id": "evt_0171"
+ },
+ "editorial_status": "unreviewed"
+}

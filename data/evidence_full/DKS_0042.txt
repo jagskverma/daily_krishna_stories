@@ -1,0 +1,49 @@
+# STORY DKS_0042 — Narada Curses Nalakuvara and Manigriva
+
+## Index entry
+title: Narada Curses Nalakuvara and Manigriva
+summary: Drunk and naked in a river with celestial women, Kubera's sons insult Narada, who curses them to become twin arjuna trees until Krishna's touch frees them.
+life_stage: other | story_arc: vrindavan_childhood
+characters: Narada, Nalakuvara, Manigriva
+locations: Kailasa, Ganga river
+themes: curse, pride, forgiveness
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0521
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 10 | verses 1-22 | confidence 5
+  excerpt: Intoxicated with wine, the two sons of Kubera sport naked with women in the Ganga; the sage Narada, to cure their pride, curses them to stand as twin arjuna trees, promising release at the touch of Vasudeva. (rendered from Sanskrit, verse 1-22)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.10 (1-22)
+1. bhp_10.10.002/0 śrī-śuka uvāca
+2. vāruṇīṃ madirāṃ pītvā madāghūrṇita-locanau /
+3. antaḥ praviśya gaṅgāyām ambhoja-vana-rājini /
+4. yadṛcchayā ca devarṣir bhagavāṃs tatra kaurava /
+5. taṃ dṛṣṭvā vrīḍitā devyo vivastrāḥ śāpa-śaṅkitāḥ /
+6. tau dṛṣṭvā madirā-mattau śrī-madāndhau surātmajau /
+7. bhp_10.10.008/0 śrī-nārada uvāca
+8. hanyante paśavo yatra nirdayair ajitātmabhiḥ /
+9. deva-saṃjñitam apy ante kṛmi-viḍ-bhasma-saṃjñitam /
+10. dehaḥ kim anna-dātuḥ svaṃ niṣektur mātur eva ca /
+11. evaṃ sādhāraṇaṃ deham avyakta-prabhavāpyayam /
+12. asataḥ śrī-madāndhasya dāridryaṃ param añjanam /
+13. yathā kaṇṭaka-viddhāṅgo jantor necchati tāṃ vyathām /
+14. daridro nirahaṃ-stambho muktaḥ sarva-madair iha /
+15. nityaṃ kṣut-kṣāma-dehasya daridrasyānna-kāṅkṣiṇaḥ /
+16. daridrasyaiva yujyante sādhavaḥ sama-darśinaḥ /
+17. sādhūnāṃ sama-cittānāṃ mukunda-caraṇaiṣiṇām /
+18. tad ahaṃ mattayor mādhvyā vāruṇyā śrī-madāndhayoḥ /
+19. yad imau loka-pālasya putrau bhūtvā tamaḥ-plutau /
+20. ato 'rhataḥ sthāvaratāṃ syātāṃ naivaṃ yathā punaḥ /
+21. vāsudevasya sānnidhyaṃ labdhvā divya-śarac-chate /
+22. bhp_10.10.023/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0041 | next_story_id: DKS_0043
+previous title: Krishna Notices the Twin Arjuna Trees
+next title: The Cowherds Settle in Vrindavan

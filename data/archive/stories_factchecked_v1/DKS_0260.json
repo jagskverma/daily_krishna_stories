@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0260",
+ "title": "The Walls of Pragjyotisha",
+ "subtitle": null,
+ "story": "When a king's treasury is robbed, the court hears of it quickly; when the treasury is heaven's, the whole world hears. The demon Narakasura had done what no enemy of the gods had dared in an age: he had broken into the hoard of heaven and carried it off. The umbrella of Varuna, the earrings of Aditi, the mother of the gods, and the jewel mountain Amara — all of it was gone, locked away in his stronghold of Pragjyotisha, and the gods, for all their armies, had not been able to take back a single piece. So Indra, king of the gods, came to Krishna with his complaint — robbed, angry, and burning with the insult of it.\n\nKrishna did not summon an army. He took Satyabhama with him, mounted Garuda, and went to Pragjyotisha himself — two riders on the great bird, crossing the leagues to the demon's city in the time it takes a bird to beat its wings. Beneath them the world unrolled: rivers and forests, the roofs of Dwaraka falling away behind, and then the mountains of the north rising ahead — and behind those mountains, ringed and bristling, the demon's city.\n\nPragjyotisha did not look like a city that could be entered. The demon had ringed it with every defense that craft could devise. Mountains walled it round, ancient and impassable, their passes guarded. Fortresses rose within them, bristling with weapons, watchful and armed. Belts of fire and belts of water girdled every approach, so that an army would burn before it could swim and drown before it could march. And over all of it hung the snares of Mura — the invisible nooses of the demon guardian, which had closed on every force ever sent against the city and held it fast, so that nothing that came near Pragjyotisha ever came back out. From his citadel at the heart of it all, Narakasura watched his city and called it unconquerable; every weapon, every element, had been bent to prove it.\n\nNone of it held. Krishna broke the mountains with his mace, and stone that had stood since before memory came down in rubble. The weapon-forts he took with arrows, one shaft to a fortress, their walls and their pride falling together. The fire and the water he cut with his discus, shearing through flame and flood as a blade shears through cloth. And the snares of Mura, the hidden nooses, he severed with his sword, until nothing hung in the air around the city but the smoke of its own broken defenses.\n\nAnd before all of it, as he came, he had blown the conch Panchajanya. The sound of it broke the great engines of the city — the war machines the demon's craftsmen had built to hurl death at any approach — and it broke the hearts of the proud men who served them. The blast rolled over Pragjyotisha like the thunder that ends an age, terrible as the lightning of the world's destruction, and the defenders felt their courage fall out of them where they stood.\n\nBy the time Krishna and Satyabhama reached the inner walls, the outer city lay open behind them: mountains in rubble, engines silent, fires drowned, waters parted, snares cut and trailing. The fortress that had made Pragjyotisha untouchable was gone, and nothing stood between the two riders and the citadel.\n\nBut the city had one defender left. Deep in the waters that girdled the citadel, something had heard the conch — and it was rising.",
+ "reflection": "The defenses of Pragjyotisha — mountains, engines, fire, water, snares — fall each to a single ordinary instrument: a mace, arrows, a discus, a sword. The point is not that Krishna is strong, but that the demon had fortified against armies, and what came to his walls was not an army. Every layer of the fortress was built to answer a force it could not recognize.",
+ "tradition_note": null,
+ "content_note": "Contains a siege sequence in which the fortress defenses of Pragjyotisha are destroyed; violence is implied rather than depicted.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Satyabhama",
+  "Narakasura",
+  "Mura",
+  "Indra",
+  "Garuda"
+ ],
+ "locations": [
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "war",
+  "divine aid",
+  "siege"
+ ],
+ "previous_story_id": "DKS_0259",
+ "next_story_id": "DKS_0261",
+ "next_story_tease": "Mura, the five-headed demon of the waters, was rising to meet him.",
+ "hero_scene": "Krishna and Satyabhama on Garuda before the broken defenses of Pragjyotisha — shattered mountains, silenced engines, parted fire and water — with the conch's echo still rolling over the city.",
+ "visual_elements": [
+  "Indra complaining before Krishna",
+  "Krishna and Satyabhama riding Garuda toward Pragjyotisha",
+  "the ring of mountains around the demon's city",
+  "the weapon-forts, belts of fire and water, and the snares of Mura",
+  "the mace breaking the mountains and the discus cutting through fire and flood",
+  "the citadel ahead as the last defender stirs"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.1-5",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:45Z",
+  "source_event_id": "evt_0245"
+ },
+ "editorial_status": "unreviewed"
+}

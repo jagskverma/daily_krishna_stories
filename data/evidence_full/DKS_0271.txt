@@ -1,0 +1,103 @@
+# STORY DKS_0271 — Krishna, Arjuna and Pradyumna Pursue the Abductor || Krishna, Arjuna and Pradyumna overtake Nikumbha on Garuda; careful not to wound the maiden, they pierce him with cane-like arrows as he flees across the earth, and Pradyumna recovers Bhanumati.
+
+## Index entry
+title: Krishna, Arjuna and Pradyumna Pursue the Abductor || Krishna, Arjuna and Pradyumna overtake Nikumbha on Garuda; careful not to wound the maiden, they pierce him with cane-like arrows as he flees across the earth, and Pradyumna recovers Bhanumati.
+summary: Krishna, Arjuna and Pradyumna overtake Nikumbha on Garuda; careful not to wound the maiden, they pierce him with cane-like arrows as he flees across the earth, and Pradyumna recovers Bhanumati.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Arjuna, Pradyumna, Nikumbha, Bhanumati
+locations: on the way, mount Gokarna, river Chela Ganga
+themes: pursuit, rescue, precision
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0316
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 237 | verses  | confidence 4
+  excerpt: Pārtha, Krishna and Kāma... did not strike the maiden but wounded the Danavas with their cane-like arrows... Pradyumna... got hold of the maiden Bhānumati. And Krishna, and Arjuna began to assail the Asura greatly with arrows
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.237 ()
+TITLE: NIKUMBHA CARRIES AWAY BHANUMATI
+
+Vaishampāyana said:—While the virtuous Yadavas were thus sporting the
+highly wicked and unapproachable Dānava, Nikumbha, the enemy of the
+gods, desirous of bringing on his self-destruction, finding a loop-hole,
+stole away the beautiful daughter of Bhānu by name Bhānumati (1–2). O
+hero, formerly, the daughter of his brother Vajranābhā, by name
+Prabhāvati, had been taken away by Pradyumna and Vajranābha had been
+killed. Remembering this former enmity and keeping himself aside that
+one, proficient in illusions, played upon the women of the Yādavas and
+stole away Bhānumati (3–4). Although the garden, attached to the female
+appartment of Bhānu, was unapproachable, still at that time there were
+no guards for the Yadavas were busy with their sports. Taking advantage
+of this weak moment the wretched Dānava carried away the maiden (5). O
+thou the victor of armies, while that weeping maiden was being carried
+away there arose all on a sudden a great tumult in the female appartment
+(6). Hearing lamentations in the female appartment of Bhānu, the heroes,
+Vasudeva and Ahuka issued out, filled with wrath. And not seeing the
+offender before them, they, in that dress, went where the highly
+powerful Krishna was (7-8). Hearing of that great insult, Janārddana,
+the slayer of his enemies, rode, together with Pārtha, Garuda the enemy
+of the serpents (9). Having commanded the hero having the emblem of a
+Makara on his flag to follow him on his car he asked Kashyapa’s son
+Garuda to proceed (10). O king, before Nikumbha, unconquerable in
+battle, could reach the city of Vajra, Pārtha and Krishna, the slayers
+of their enemies, overtook him in the way (11). Beholding them the
+highly powerful Pradyumna, the foremost of those conversant with
+illusions, divided himself into three portions (12). On the other hand,
+Nikumbha, like unto an immortal, smilingly fought with them all with
+heavy clubs (13). Holding the maiden Bhānumati by his left hand, the
+great Asura Nikumbha repeatedly hurled the club with his right hand.
+Although thus assailed, Keshava, Kāma (Pradyumna) and Arjuna, none,
+could strike him ruthlessly lest they might wound the maiden (14-15). O
+king, although capable of slaying that irrepressible enemy they began to
+sigh piteously out of their excessive compassion for the maiden (16). As
+when a serpent gets round a camel, a man, well up in the use of arms,
+strikes the serpent leaving the camel to itself, so Pārtha, the foremost
+of archers, began to strike the Daitya with his arrows (17). In
+pursuance of the rules of art, their training and reasoning, Pārtha,
+Kāma and Krishna did not strike the maiden but wounded the Danavas with
+their cane-like arrows (18). Thereupon resorting to his illusory powers
+Nikumbha so disappeared with the maiden from that place that nobody
+could know it: Krishna, Kāma and Dhananjaya however immediately pursued
+him: he, however, went on assuming the semblance of a yellow vulture
+(19-20). Thereupon saving the maiden, the heroic Dhananjaya assailed him
+again with cane-like arrows piercing his very vitals (21). Thus pursued
+by those heroes that great Asura, the slayer of his enemies, travelled
+all over the earth consisting of seven insular continents and dropped
+down with the maiden at last on the bank of the river Chela Gangā
+flowing on the summit of the mount Gokarna (22–23). None amongst the
+gods, Asuras or great ascetics could cross that mountain protected by
+the energy of Mahadeva (24). Finding this weak point of Nikumbha, the
+Bhaima chief Pradyumna, invincible in battle and quick coursing, got
+hold of the maiden Bhānumati. And Krishna, and Arjuna began to assail
+the Asura greatly with arrows. Then leaving the northern range of the
+mount Gokarna, Nikumbha fled to the southern range. Both the Krishnas
+however, riding on Garuda, pursued him (25–26). Gradually the great
+Asura entered into Shatpura, the abode of his kinsmen and those two
+heroes spent the night at the mouth of the cave. With Krishna’s
+permission the heroic son of Rukshmini delightedly took Bhaima’s
+daughter to the city of Dwārakā. And keeping her there he returned to
+Shatpura, full of Dānavas and beheld the two Krishnas of dreadful
+prowess at the mouth of the cave (27-29). Thus occupying the entrance of
+the city of Shatpura the highly powerful Krishna and Arjuna, desirous of
+slaying Nikumbha, waited there with Pradyumna (30).
+
+Thereupon desirous of fighting the highly powerful Nikumbha came out of
+the cave, O king, no sooner he came out of the cave than Dhananjaya,
+with arrows shot off his Gandiva bow, obstructed the thorough-fair. In
+spite of it Nikumbha, the foremost of the powerful, came out, took up
+his club covered with thorns and struck Pārtha on his head (31–33). Thus
+assailed with that club Pritha’s son vomitted blood and lost his
+consciousness. The Asura, master of illusions, smilingly struck the
+heroic son of Rukshmini, the foremost of those conversant with
+illusions, who was waiting with hi
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0270 | next_story_id: DKS_0272
+previous title: Nikumbha Carries Away Bhanumati || While the Yadavas are absorbed in ocean sport, the Danava Nikumbha, avenging Pradyumna's earlier abduction of Prabhavati, steals Bhānu's daughter Bhanumati from her unguarded garden.
+next title: Narada Reveals Bhanumati's Fate; She Weds Sahadeva || Narada explains that Bhanumati's abduction was the working of a Durvasa curse softened by the sages; Bhānu then gives her in marriage to Sahadeva.

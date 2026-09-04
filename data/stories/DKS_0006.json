@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0006",
+ "title": "The Demon Ministers' Counsel",
+ "subtitle": null,
+ "story": "A voice at his sister's wedding had warned Kamsa that Devaki's eighth child would one day take his life, and the warning had never let him go. Fear drove him to throw his sister and her husband, Vasudeva, into a prison cell, and every child born to Devaki there had been taken from her and destroyed, one after another. Still the fear would not loosen its grip. All through the night it lay on his chest like a stone, and when the darkness at last began to thin, he did what a frightened king does: he reached for counsel. He summoned his ministers to the palace in Mathura, and they came to him before dawn.\n\nThe men who gathered around him were no ordinary courtiers. They were enemies of the gods, demons who had crept into his court and who fed, as such creatures do, on fear. Their hatred of heaven was older than his own, and it made them, of all his counsellors, the most eager to see the earth stripped of everything holy. They watched their king pace the torchlit hall, listened while he poured out the dread he could no longer contain, and when he had finished, they gave him their answer.\n\nDo not fear the gods on the field of battle, they told him. When your arrows rain down on them from every side, what do they do? They turn and run. They cast away their weapons, forget the arts of war they once knew, and stand with their hands folded, wretched and pleading, their chariots lost and their courage gone. Some weep; some beg. Men who are brave only while there is peace, who boast loudly and melt at the first clash, what is there in such creatures to dread?\n\nAnd yet, the ministers went on, do not think them harmless. A sickness that is ignored while it is still small can never be cured once it has taken root in the body and spread through the limbs. The gods are the same. Leave them in peace, and they will gather their strength in secret and return, stronger than they were before. The enemy you think you have already beaten will rise again from the very places you never think to look.\n\nBecause the gods have a root, and the root is Vishnu. Wherever the right way of living holds, wherever men hold fast to the truth, there Vishnu dwells. The gods do not draw their life from swords or armies or walls. They draw it from what is holy: from the brahmana priests, who study the sacred books and teach of God; from the cows; from the Vedas, the ancient hymns; from those who live hard, simple lives of penance; from honesty, from self-restraint, from a calm mind.\n\nThe demons' enemy does not stand in the open where an arrow might reach him. He hides in these things, in the quiet heart of every good and simple life, and while a single one of them remains, the gods remain.\n\nSo cut the root, O king. Slay the newborn in every city and every village. Root out the priests, the cows, the sacred hymns, every act of penance and every honest word. Starve the gods of everything they live on, and the enemy you fear will have nothing left to stand on.\n\nKamsa listened, and the counsel sank into him like cold water into dry ground. He had spent the night afraid of one child, of one prophecy; now the fear had a shape, and a plan to match it. In that torchlit room, spoken into his fear by the enemies of the gods, the decision was made. The torches guttered, and no one in that hall spoke the word mercy.",
+ "reflection": "The ministers' counsel is chilling because buried inside it is one true observation: the gods cannot be beaten by arms, only by destroying the dharma in which they dwell. Their remedy is fear made policy, the logic of a man who would burn the whole field to kill one weed.",
+ "tradition_note": null,
+ "content_note": "Kamsa's ministers urge the slaughter of infants and of the holy; the violence is counselled, not shown.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Kamsa",
+  "demon ministers"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "evil_counsel",
+  "persecution"
+ ],
+ "previous_story_id": "DKS_0005",
+ "next_story_id": "DKS_0007",
+ "next_story_tease": "And Kamsa, having heard them, did not delay in carrying the counsel out.",
+ "hero_scene": "Kamsa on his throne in the torchlit hall at night while his demon ministers lean in around him, urging him to slay every infant and to root out the brahmanas, the cows and the rites in which the gods keep their life.",
+ "visual_elements": [
+  "Kamsa pacing the torchlit hall",
+  "the demon ministers leaning in",
+  "the council chamber at night",
+  "Mathura beyond the palace",
+  "images of gods fleeing, weapons cast down",
+  "brahmanas, cows and fire rites",
+  "mood of dark, calculating menace"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.4.28-41",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:39Z",
+  "source_event_id": "evt_0032",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

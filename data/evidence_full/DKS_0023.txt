@@ -1,0 +1,32 @@
+# STORY DKS_0023 — Putana Enters Gokula Disguised as a Woman
+
+## Index entry
+title: Putana Enters Gokula Disguised as a Woman
+summary: Kamsa's agent Putana, a demoness who kills infants, disguises herself as a beautiful woman and enters Nanda's village.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Putana, Kamsa
+locations: Gokula
+themes: deception, danger
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0037
+variant_notes: See also 'putana_kill'.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 6 | verses 1-5 | confidence 5
+  excerpt: Putana, sent by Kamsa and wandering among villages killing infants, flies into Gokula and by her magic takes the form of a lovely woman. (rendered from Sanskrit, verse 1-5)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.6 (1-5)
+1. kaṃsena prahitā ghorā pūtanā bāla-ghātinī /
+2. na yatra śravaṇādīni rakṣo-ghnāni sva-karmasu /
+3. sā khe-cary ekadotpatya pūtanā nanda-gokulam /
+4. tāṃ keśa-bandha-vyatiṣakta-mallikāṃ $ bṛhan-nitamba-stana-kṛcchra-madhyamām &amp;suvāsasaṃ kalpita-karṇa-bhūṣaṇa- % tviṣollasat-kuntala-maṇḍitānanām
+5. valgu-smitāpāṅga-visarga-vīkṣitair $ mano harantīṃ vanitāṃ vrajaukasām &valgu-smitāpāṅga-visarga-vīkṣitair $ mano harantīṃ vanitāṃ vrajaukasām &amaṃsatāmbhoja-kareṇa rūpiṇīṃ % gopyaḥ śriyaṃ draṣṭum ivāgatāṃ patim
+
+## Corpus chain
+previous_story_id: DKS_0022 | next_story_id: DKS_0024
+previous title: Vasudeva Warns Nanda of Danger in Gokula
+next title: Krishna Drains the Demoness Putana's Life

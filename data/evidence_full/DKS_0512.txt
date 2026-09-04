@@ -1,0 +1,39 @@
+# STORY DKS_0512 — The Osprey, the Child, the Maiden and the Arrow-Maker
+
+## Index entry
+title: The Osprey, the Child, the Maiden and the Arrow-Maker
+summary: The avadhuta learns from the osprey (letting go of prey seized by stronger birds), the child (freedom from care), the maiden (solitude — she broke her bangles one by one to stop their clinking), and the arrow-maker (one-pointed concentration).
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the avadhuta, the osprey, the child, the maiden, the arrow-maker
+locations: (teaching)
+themes: renunciation, solitude, concentration, innocence
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0532
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 9 | verses 1-12 | confidence 5
+  excerpt: The avadhuta said: 'A maiden, alone, husking grain, heard her bangles clink and broke them one by one until only one remained, and it was silent — so the sage should dwell alone. And like the arrow-maker so absorbed in straightening his shaft that he did not see the king pass by, the mind should be fixed on one point.' (rendered from Sanskrit, verses 4-12)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.9 (1-12)
+1. sāmiṣaṃ kuraraṃ jaghnur balino 'nye nirāmiṣāḥ /
+2. na me mānāpamānau sto na cintā geha-putriṇām /
+3. dvāv eva cintayā muktau paramānanda āplutau /
+4. kvacit kumārī tv ātmānaṃ vṛṇānān gṛham āgatān /
+5. teṣām abhyavahārārthaṃ śālīn rahasi pārthiva /
+6. sā taj jugupsitaṃ matvā mahatī vṛīḍitā tataḥ /
+7. ubhayor apy abhūd ghoṣo hy avaghnantyāḥ sva-śaṅkhayoḥ /
+8. anvaśikṣam imaṃ tasyā upadeśam arindama /
+9. vāse bahūnāṃ kalaho bhaved vārtā dvayor api /
+10. mana ekatra saṃyuñjyāj jita-śvāso jitāsanaḥ /
+11. yasmin mano labdha-padaṃ yad etac chanaiḥ śanair muñcati karma-reṇūn /
+12. tadaivam ātmany avaruddha-citto na veda kiñcid bahir antaraṃ vā /
+
+## Corpus chain
+previous_story_id: DKS_0511 | next_story_id: DKS_0513
+previous title: Pingala the Courtesan's Renunciation
+next title: The Serpent, the Spider and the Wasp

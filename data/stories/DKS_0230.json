@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0230",
+ "title": "A Boon Won in the Night",
+ "subtitle": null,
+ "story": "The truce at nightfall was Krishna's doing.\n\nAll day, over the Parijata — the wish-giving tree of heaven, uprooted from Indra's own garden — the king of the gods had fought from the back of his elephant Airavata, and Garuda, the great bird who carried Krishna, had met him with beak and claw until the great beast swayed, bleeding, in the sky. Now the sun had gone down behind the Parijatra mountain, the battle had begun again, and Krishna, looking across at the wounded elephant, raised his hand.\n\n“Airavata is sorely wounded,” he called to Indra, “and night grows apace. Let us refrain from fighting now. Do as you wish tomorrow morning.”\n\nThe king of the gods saw the sense in it and agreed.\n\nThe mountain on which they camped had made itself small when Krishna came, sinking into the earth until it was no bigger than a stone for grinding sandal — a bow of reverence from a peak that knew whose weight it carried. Indra raised a shelter of stones for the night near the sacred lake of Pushkara, and there Brahma came to him, and the sage Kashyapa with his wife Aditi, and the hosts of heaven: the Sadhyas and the Vasus, the Ashwin twins, the Adityas and the Rudras. Krishna stayed on the far side of the mountain with his son Pradyumna and the warrior Satyaki, and behind them, resting on Garuda's back, stood the great Parijata itself, its blossoms pale in the failing light.\n\nBefore the night settled, Krishna turned to the mountain under him. It had bowed itself for his sake, and he would not let such reverence pass unmarked. “You shall be called Sanapada,” he said, “and you shall be auspicious and holy as the Himalaya. Abound in gems; outshine Meru itself. I shall be glad to see you, always, full of precious stones.”\n\nThen, saluting Shiva — the god whose emblem is the bull — Krishna thought of the Ganga. At his thought the great river, whose source lies at the feet of Vishnu, came flowing up the mountain to him. He worshipped her, bathed in her water, and then, taking up that sacred water and leaves of the bilva tree, he made his offering and invited Rudra, lord of all lords, to be present.\n\nShiva came, with the goddess Uma at his side and his followers around him, appearing on the surface of the Ganga's water and on the bilva leaves themselves. Krishna worshipped him with flowers of the Parijata, the very tree that the long day's battle had been about — and then, in a voice that carried across the dark water, he began the god's praise.\n\n“You are Rudra,” he said, “who binds every being in the web of the world and sets it free again, and who makes yourself known through the sound that fills the universe when life begins. You are self-manifest and without beginning. You are Pasupati, lord of all creatures — of those who hold to life and of those who have renounced it. You are the performer of all acts, and no master of the universe stands above you; the learned call you the God of gods, the giver of life and the contentment of all the great masters. Because all that is visible is born from you, they name you Bhava — self-created, creator of all creators — and because the defeated gods and demons themselves crowned you, you are Maheswara, the maker of the universe. I place myself wholly in your protection. Crown me with fame — me, who am devoted to your devotees and beloved of your beloved.”\n\nThe night held still. When the hymn was done, the god of gods looked on Krishna and spoke.\n\n“O best of gods, you shall obtain the things you desire. You shall carry away the Parijata tree. And you shall be invincible.”\n\nThen Shiva and Uma faded back into the night from which they had come, and Krishna was left on the moonlit bank with the water moving at his feet. The tree still rested on Garuda's back — and now he knew it would go home with him.",
+ "reflection": "Krishna spends the pause in the fighting not in readiness but in worship, saluting the god whose devotee he declares himself to be. The boon he wins is quietly telling: he asks that the Parijata be carried away and that he remain invincible — as though the night's devotion, not the day's arrows, were the real weapon in the quarrel.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Shiva",
+  "Uma",
+  "Ganga",
+  "Indra",
+  "Satyaki",
+  "Pradyumna"
+ ],
+ "locations": [
+  "Parijatra mountain",
+  "Ganga"
+ ],
+ "themes": [
+  "devotion",
+  "hymn",
+  "boon"
+ ],
+ "previous_story_id": "DKS_0229",
+ "next_story_id": "DKS_0231",
+ "next_story_tease": "But Shiva had not finished speaking: before the night was over he would tell Krishna what lay hidden beneath the mountain.",
+ "hero_scene": "By night on the Parijatra mountain, Krishna stands at the edge of the Ganga with water and bilva leaves in his offered hands, as Shiva and Uma appear radiant upon the dark water, the moonlit Parijata tree blooming on Garuda's back behind him.",
+ "visual_elements": [
+  "Krishna offering Ganga water and bilva leaves at night",
+  "Shiva and Uma appearing radiant on the dark water",
+  "the moonlit Parijata tree resting on Garuda's back",
+  "Parijatra mountain and the Ganga by night",
+  "Satyaki and Pradyumna keeping watch",
+  "reverence and boon"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.221",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:00Z",
+  "source_event_id": "evt_0301",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

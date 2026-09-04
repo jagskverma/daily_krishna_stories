@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0392",
+ "title": "Krishna Grants Shishupala's Mother the Boon of a Hundred Offences",
+ "subtitle": null,
+ "story": "In the city of Chedi a son was born to the king and queen, and they called him Shishupala. He was the child who would one day rage in the great hall at Indraprastha — but on the day he was born, his parents saw only a baby with three eyes and four arms, who screamed and brayed like an ass the moment he drew breath. The sound struck such fear into his father, his mother, and all their kin that they resolved to abandon him.\n\nThen a voice without a body spoke out of the air, to the king and queen and their ministers and priests, whose hearts were frozen with dread. \"This son of yours will be fortunate and strong,\" the voice said. \"You need have no fear of him. Raise the child and do not worry: he will not die young, and the one who is to kill him has already been born.\"\n\nThe mother, torn between love and fear, bowed and asked the invisible voice: \"Tell me who will be the slayer of my son.\" And the voice answered: \"When this child is set upon a man's lap, his extra arms will fall to the ground like a pair of five-headed snakes, and the third eye on his forehead will disappear. That man will be his slayer.\"\n\nWord of the three-eyed, four-armed child spread over the earth, and kings came from every kingdom to Chedi to see him. The king set the baby on the lap of one monarch after another, honoring each guest as he deserved; and though the child passed through the laps of a thousand kings, the promised sign never came.\n\nAt last the wonder reached Dwaraka, the city of the Yadavas, and Krishna set out to see it with his elder brother Balarama. Their father's sister was queen of Chedi — a daughter of the Yadava house — and it was she they had come to visit. The brothers greeted the court in the order of its rank, asked after everyone's welfare, and were welcomed with honor. Then the queen, with great joy, herself lifted the child and placed him on Krishna's lap.\n\nThe instant the boy touched Krishna's lap, his extra arms fell away, and the third eye faded from his forehead. The queen saw the sign, and her joy turned to alarm as she begged Krishna for a boon. \"Mighty-armed Krishna,\" she said, \"I am afraid. Grant me a boon, for you are the one who takes away the fear of all who come to you.\"\n\n\"Fear nothing, good lady,\" said Krishna. \"You have nothing to fear from me. What boon shall I give you? What shall I do, aunt? Whether I am able or not, I will do your bidding.\"\n\n\"Pardon the offences of my son,\" said the queen. \"For my sake, Krishna — that is the boon I ask.\"\n\n\"Aunt,\" said Krishna, \"even when he deserves to be slain, I will pardon a hundred offences of his. Do not grieve.\"\n\nThat was the promise — and now, in the hall at Indraprastha, Bhishma told the tale to the sons of Pandu, while the man the promise protected stood raging before them, daring them to battle, swollen with pride in the very pardon that had spared him all his life. The hundred pardons had been spent, one by one, through the years, in slights and mockeries and open insults. And the count, as Bhishma did not need to say, was nearly spent.",
+ "reflection": "A mother's plea converts an omen of death into a hundred pardons, and the child's own body marks his slayer the moment Krishna touches him. The boon does not erase the sign; it only postpones it — and the hundred offences, counted out over a lifetime, are what make the final reckoning possible.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Shishupala",
+  "Shishupala's mother (Srutasrava)",
+  "Bhishma",
+  "Balarama"
+ ],
+ "locations": [
+  "Chedi",
+  "Indraprastha"
+ ],
+ "themes": [
+  "boon",
+  "forbearance",
+  "mother's-love"
+ ],
+ "previous_story_id": "DKS_0391",
+ "next_story_id": "DKS_0393",
+ "next_story_tease": "The hundred pardons were nearly spent — and the sacrifice that had gathered them all to Indraprastha had first been announced, long before, in Dwaraka.",
+ "hero_scene": "In the palace of Chedi, the queen sets the three-eyed, four-armed child upon Krishna's lap — the child's superfluous arms falling away like snakes and the third eye fading, as the mother watches in alarm and hope.",
+ "visual_elements": [
+  "the newborn with three eyes and four hands",
+  "the incorporeal voice speaking to the frightened court",
+  "the child passed from lap to lap among a thousand kings",
+  "Balarama and Krishna arriving at Chedi",
+  "the queen placing the child on Krishna's lap as the arms fall away",
+  "Krishna promising the queen a hundred pardons"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:54Z",
+  "source_event_id": "evt_0399",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

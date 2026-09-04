@@ -1,0 +1,108 @@
+# STORY DKS_0298 — Krishna and Arjuna Journey to Recover the Brahmana's Sons
+
+## Index entry
+title: Krishna and Arjuna Journey to Recover the Brahmana's Sons
+summary: Krishna, to save the despairing Arjuna, mounts his divine chariot and carries him beyond the darkness to Vaikuntha, where they behold the Supreme Lord upon the serpent Ananta.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Arjuna, the Supreme Lord (Maha-Vishnu)
+locations: beyond the darkness, Vaikuntha
+themes: divine journey, vision, mystery
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0220
+variant_notes: BP: divine chariot beyond the darkness to Vaikuntha; Harivamsha: across the ocean and the seven cosmic mountains.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 89 | verses 41-56 | confidence 5
+  excerpt: Restraining Arjuna from entering the fire, Krishna mounts his divine chariot and drives westward across the seven continents and seas, beyond the mountain Lokaloka into the great darkness, where he sends his blazing discus to cleave the gloom. Passing through, they behold the Supreme Lord, radiant like a mountain of light, reclining upon the thousand-headed serpent Ananta, and both Krishna and Arj
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 260 | verses  | confidence 4
+  excerpt: the ocean again said to Janārddana:—"...I will dry up the path in which your car... will proceed"... we proceeded through that lustrous red water as if we were on land... the mountains... said:—"What are we to do?"... "You are to give me passage"
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.89 (41-56)
+41. evaṃ śapati viprarṣau vidyām āsthāya phālgunaḥ /
+42. viprāpatyam acakṣāṇas tata aindrīm agāt purīm /
+43. rasātalaṃ nāka-pṛṣṭhaṃ dhiṣṇyāny anyāny udāyudhaḥ /
+44. darśaye dvija-sūnūṃs te māvajñātmānam ātmanā /
+45. iti sambhāṣya bhagavān arjunena saheśvaraḥ /
+46. sapta dvīpān sa-sindhūṃś ca sapta sapta girīn atha /
+47. tatrāśvāḥ śaibya-sugrīva- meghapuṣpa-balāhakāḥ /
+48. tān dṛṣṭvā bhagavān kṛṣṇo mahā-yogeśvareśvaraḥ /
+49. tamaḥ su-ghoraṃ gahanaṃ kṛtaṃ mahad $ vidārayad bhūri-tareṇa rociṣā &amp;mano-javaṃ nirviviśe sudarśanaṃ % guṇa-cyuto rāma-śaro yathā camūḥ
+50. dvāreṇa cakrānupathena tat tamaḥ paraṃ paraṃ jyotir ananta-pāram /
+51. tataḥ praviṣṭaḥ salilaṃ nabhasvatā balīyasaijad-bṛhad-ūrmi-bhūṣaṇam /
+52. tasmin mahā-bhogam anantam adbhutaṃ $ sahasra-mūrdhanya-phaṇā-maṇi-dyubhiḥ &amp;vibhrājamānaṃ dvi-guṇekṣaṇolbaṇaṃ % sitācalābhaṃ śiti-kaṇṭha-jihvam
+53. dadarśa tad-bhoga-sukhāsanaṃ vibhuṃ $ mahānubhāvaṃ puruṣottamottamam &dadarśa tad-bhoga-sukhāsanaṃ vibhuṃ $ mahānubhāvaṃ puruṣottamottamam &sāndrāmbudābhaṃ su-piśaṅga-vāsasaṃ % prasanna-vaktraṃ rucirāyatekṣaṇam
+54. mahā-maṇi-vrāta-kirīṭa-kuṇḍala $ prabhā-parikṣipta-sahasra-kuntalam &mahā-maṇi-vrāta-kirīṭa-kuṇḍala $ prabhā-parikṣipta-sahasra-kuntalam &pralamba-cārv-aṣṭa-bhujaṃ sa-kaustubhaṃ % śrīvatsa-lakṣmaṃ vana-mālayāvṛtam
+55. mahā-maṇi-vrāta-kirīṭa-kuṇḍala $ prabhā-parikṣipta-sahasra-kuntalam &mahā-maṇi-vrāta-kirīṭa-kuṇḍala $ prabhā-parikṣipta-sahasra-kuntalam &pralamba-cārv-aṣṭa-bhujaṃ sa-kaustubhaṃ % śrīvatsa-lakṣmaṃ vana-mālayāvṛtam
+56. vavanda ātmānam anantam acyuto jiṣṇuś ca tad-darśana-jāta-sādhvasaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.260 ()
+TITLE: KRISHNA RESCUES THE BRAHMANA’S SONS
+
+Arjuna said:—Thereupon crossing the mountains, rivers and forests we saw
+the ocean the abode of Makara. Thereat the ocean, in his true form, with
+folded hands and carrying _Argya_, appeared before Janārddana and said
+"What am I to do?" (1–2) Having accepted the adoration from the ocean
+Janārddana said:—"O Lord of rivers, I wish you to afford passage for my
+car" (3). Thereupon Samudra, with folded hands, said to
+Garudadhwaja:—"Be pleased O Lord! do not act thus, or else others will
+do so (4). O Janārddana, thou didst formerly place me in this
+unfathomable expanse. I shall have to follow the way thou wilt institute
+(5). If thou dost do so, other kings, elated with the pride of their
+strength, will cross me by this way. Therefore O Govinda, do whatever
+thou dost think proper (6)." Vāsudeva said: "For my sake and for this
+Brāhmana, follow my words. Save me no one else will be able to assail
+you" (7). Thereupon, in fear of a curse the ocean again said to
+Janārddana:—"Let it be so. O Krishna, O slayer of Keshi, I will dry up
+the path in which your car, adorned with flags, will proceed with its
+charioteer" (8–9). Vasudeva said:—"O ocean, I had conferred upon you the
+boon formerly that you would never be dried up, lest the people might
+form an idea of the collection of your gems. You are to stop the
+agitation of your water to that extent only that may admit me with my
+car. In that case no man will be able to estimate the collection of your
+jems" (10-11). Hearing it the ocean said "So be it"; and we proceeded
+through that lustrous red water as if we were on land (12). Within a
+moment we crossed the ocean, Uttarakuru and Gandhamādana. Thereupon
+Jayanta, Vaijayanta, Neela, Rajata, Mahāmeru, Kailasha and Indrakuta,
+these seven mountains, assuming various wonderful forms, appeared before
+Keshava and saluting Govinda said:—"What are we to do?" Welcoming them
+all duly Hrishikesha, the slayer of Madhu, said to the mountains who
+stood before him with bending heads "You are to give me passage."
+Hearing the words of Krishna and accepting them the mountains gave him
+the passage and disappeared. O foremost of Bharata’s race, beholding
+this work I was filled with great surprise. However as the sun passes
+through clouds so our car careered on unobstructed. And that best of
+cars, crossing the seven insular continents, oceans and seven rivers as
+well as Lokaloka, entered another region (13–20).
+
+While proceeding thus at a certain place I found the horses carrying the
+car with great difficulty. Touching it with my hands I perceived that
+the darkness was owing to thick mud. It gradually assumed the form of a
+mountain. Seeing it, Govinda dispelled that darkness and mud with his
+discus and the sky and the passage of the car became visible (21–23).
+When the sky became visible and we came beyond the pale of darkness my
+fear was removed and I thought that I was alive. A few moments after I
+saw in the sky a bundle of effulgence, of the shape of a man, extending
+over all the worlds (24–25). Then Rishikesha entered into that bundle of
+effulgence and that best of Brāhmanas and myself waited on the car.
+Within a moment the powerful Krishna returned with the four sons of the
+Brāhmana and gave those three boys who had been stolen before and the
+new born baby into the hands of the Brāhmana (26–28). O emperor,
+regaining his sons the Brāhmana was highly pleased and I too was filled
+with great joy and surprise (29). O foremost of the Bharatas, afterwards
+we, with the Brāhmana’s sons, came out in the same way as we had gone
+there. O foremost of kings, arriving at Dwārakā within a moment we saw
+that even the first part of the day was not complete. At that I was
+again filled with surprise. There upon the highly illustrious Krishna
+fed that Brāhmana with his sons and satisfying him with riches sent him
+away to his own house (29-32).
+
+## Corpus chain
+previous_story_id: DKS_0297 | next_story_id: DKS_0299
+previous title: Arjuna's Failed Vow || Arjuna boasts that he will protect the brahmana's next child, but though he fences the delivery-room with arrows, the newborn vanishes, and the brahmana rebukes him.
+next title: The Brahmana's Sons Are Restored
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

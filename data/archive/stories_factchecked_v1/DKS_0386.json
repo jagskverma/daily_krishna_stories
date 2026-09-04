@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0386",
+ "title": "Krishna Grants the Khadava Forest to Agni",
+ "subtitle": null,
+ "story": "There came a time when Agni, the god of fire, set his desire on the Khadava forest. It was an ancient woodland, thick and deep, older than memory, and he wished to consume it — to feed on it as fire feeds, until nothing was left but ash. Agni is not a god who begs, and he is not a god who is refused. And the strange thing was this: the forest was not torn from him or taken by force. It was given, freely, by the two men who stood at its edge. And the giving of it would change the fortunes of the Pandavas forever.\n\nKrishna was dwelling then among the Pandavas, not as a guest but as a friend and kinsman, wishing only to do them good. When the moment came, it was Krishna who stood beside Arjuna, and who took up the reins of Arjuna's chariot with his own hands, to serve as his charioteer. It was a small thing to watch, a friend taking the reins; but it placed Krishna exactly where the moment needed him.\n\nFor this task Arjuna would need a steady hand. To give a forest to fire meant to let the fire have its way — to watch the great woodland, tree by tree, turn to flame, the smoke rising in a black column over the land, the heat rolling out across the plain until it pressed against the face. There is no sound quite like a forest burning in earnest: the crack of sap, the hiss of green wood surrendering, the long sigh of a trunk giving way. And so it happened. With Krishna holding the reins and Arjuna at the bow, the Khadava forest was given over to Agni. The god of fire fell upon it and consumed it, until the ancient trees were gone and only ash remained, glowing faintly where the forest had stood.\n\nKrishna asked for nothing in all of this. He did not fight for his own sake, and he claimed no share of what was given. He simply held the reins, so that his friend could give the forest to the god who asked for it. The whole deed was an act of friendship — between Krishna and the Pandavas, and between Arjuna and the fire.\n\nAgni was pleased, and a pleased god does not leave empty-handed those who served him. To Arjuna he gave the great bow called Gandiva, a weapon whose name would be spoken with awe for generations. He gave him white horses, swift and gleaming, and a chariot that no enemy could stop. And he gave him quivers that would never run empty — however many arrows Arjuna drew, there would always be another waiting at his fingertips. Each gift was a piece of what the Pandavas would become.\n\nOut of the burning itself came one more gift. Maya, the master builder, had been caught in the forest as the fire swept through it, and his life was spared. In gratitude he would raise for the Pandavas their great assembly hall — a hall so beautiful that those who entered it could not say whether it had been built by human hands or by something finer.\n\nIt was a strange bargain: an ancient forest gone in a season, and in its place the beginnings of a kingdom's strength. So the forest's destruction became the Pandavas' founding. From the ash came the bow and the horses, the unstoppable chariot and the endless quivers, and a hall that kings would come to envy. The fire had taken much; but what it left behind would arm and shelter a dynasty.",
+ "reflection": "The Khadava forest is one of those episodes where destruction and founding turn out to be the same thing. Agni consumed an ancient woodland, and from the ash the Pandavas received the weapons and the hall on which their power would rest — while Krishna's whole part was simply to hold the reins.",
+ "tradition_note": "The Bhagavata Purana condenses this episode to a few verses; the Mahabharata tells the burning of the Khadava forest at far greater length.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Agni",
+  "Maya"
+ ],
+ "locations": [
+  "Khadava forest"
+ ],
+ "themes": [
+  "alliance",
+  "fire",
+  "divine gifts"
+ ],
+ "previous_story_id": "DKS_0380",
+ "next_story_id": "DKS_0396",
+ "next_story_tease": "The hall Maya built for the Pandavas would soon host the great Rajasuya sacrifice.",
+ "hero_scene": "Agni in his fiery form sweeping across the Khadava forest, the ancient trees turning to flame and black smoke, while Krishna at the reins and Arjuna with his bow stand before the burning woodland.",
+ "visual_elements": [
+  "Agni as fire consuming the forest",
+  "trees turning to flame and black smoke",
+  "Krishna holding the chariot reins",
+  "Arjuna with his bow",
+  "the Gandiva bow",
+  "white horses and the invincible chariot",
+  "the endless quivers",
+  "Maya the master builder emerging from the fire",
+  "the great assembly hall",
+  "ash and smoke over the plain"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.58.23-26",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:30Z",
+  "source_event_id": "evt_0376"
+ },
+ "editorial_status": "unreviewed"
+}

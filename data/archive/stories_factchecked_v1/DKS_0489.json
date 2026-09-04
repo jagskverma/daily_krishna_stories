@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0489",
+ "title": "Dwaraka Welcomes Krishna Home",
+ "subtitle": "A conch brings the whole city running",
+ "story": "The city of Dwaraka heard its lord returning before it saw him.\n\nKrishna was still some way out, crossing into his own prosperous land of Anarta, when he lifted his conch and blew. The white-bellied shell, reddened by his lips, sent out a sound that carried ahead of him like light — a sound that, as the verses say, removes the fear of the world. And Dwaraka, hearing it, rose and ran to meet him.\n\nThe citizens poured through the gates, their faces blooming with joy, their voices choked with delight. \"We bow to your lotus feet, lord,\" they cried, \"feet worshipped by Brahma and Shiva and the kings of the gods. Be our welfare — for you alone are our mother, our friend, our husband, our father. When you went away to the Kurus, or to the Madhus, to see your friends, how could we live? How could we bear it, with your glance far off — the glance that dries up every sorrow?\" So the people spoke, and Krishna, who is tender to his devotees, heard them all. And the joy ran through the city like a tide, from the swept avenues to the humblest doorway with its pot of curds.\n\nThe city had been made ready for him as for a festival. Arches of welcome stood raised at the gates and along the roads; the great avenues had been swept clean, the lanes and markets and squares freshened; at every door were set pots of curds and unbroken rice, fruits and sugarcane. And out of the gates came his own people to meet him: his father Vasudeva, great-hearted; Akrura; Ugrasena, the king he had restored; and Balarama, the wondrous Rama, his brother — with Pradyumna and Charudeshna and Samba, Jambavati's son, riding behind them. The foremost elephant led the procession, and the brahmins chanted auspicious blessings; courtesans by the hundred rode out in their vehicles, eager for his sight; actors and dancers, bards and panegyrists filled the road with song.\n\nKrishna moved among them and did not hurry past. He bowed to the elders and to the brahmins with their wives; he took the hands of his relatives, returned embrace for embrace, smile for smile, glance for glance — the whole long welcome answered in kind. The noble women of Dwaraka watched from the terraces along the royal road: the sight of him was the drinking vessel of their eyes, and his chest, they said, the very home of fortune. He passed beneath the white umbrella and the waving fans, showered with flowers from the balconies all the way to his father's house.\n\nThere his mothers were waiting — the wives of Vasudeva, Devaki at their head. He bowed to them, and they lifted him onto their laps and held him like a child again, their eyes wet with the tears of love. For a long moment the courtyard held only the sound of their weeping.\n\nOnly then did he enter his own palace, the house that fulfilled every desire. His wives, who had watched the road for his return all the months he was gone, saw their husband come home and their minds broke into festival; with their children about them, with their eyes and their very hearts, they embraced their lord. And the verses close the scene with a quiet marvel: even to those who lived beside him, who saw him in the next room and alone, his two feet were always new.\n\nDwaraka had him back. The sea-girt city, which had been decked and swept and kept awake while he was away, settled into the long happiness of his presence.",
+ "reflection": "The citizens' words — 'you alone are our mother, our friend, our husband, our father' — are striking because they come from an entire city, not from a single devotee; a whole people measures its safety by one presence. And the closing marvel, that his feet were always new even to those who lived beside him, says something quiet about devotion: nearness does not exhaust wonder.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Vasudeva",
+  "Balarama",
+  "Ugrasena",
+  "Devaki",
+  "the citizens of Dwaraka"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "homecoming",
+  "joy",
+  "family",
+  "welcome"
+ ],
+ "previous_story_id": "DKS_0488",
+ "next_story_id": "DKS_0490",
+ "next_story_tease": "But the wheel of time was turning, and the years of peace were numbered.",
+ "hero_scene": "Krishna sounding his conch at the approach to Dwaraka, the white sea-girt city rising ahead of him, while citizens stream through the decorated gates with garlands, pots of curds and flowers to welcome him home.",
+ "visual_elements": [
+  "Krishna",
+  "conch",
+  "Dwaraka",
+  "sea",
+  "decorated city gates",
+  "garlands",
+  "offerings of curds and fruit",
+  "crowds",
+  "joyful faces"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.11.1-33",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:13:00Z",
+  "source_event_id": "evt_0503"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

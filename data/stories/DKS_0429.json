@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0429",
+ "title": "Krishna's Appeal to Duryodhana",
+ "subtitle": null,
+ "story": "Of all the doors Krishna knocked on during his peace mission to Hastinapura, the hardest was Duryodhana's. Bhishma, the grandsire of both houses, had listened to him. Drona, who had taught all the princes to fight, had listened. The wise Vidura, the blind king's own brother, had never needed persuading. Even Dhritarashtra himself found everything Krishna said true, reasonable, and good for the world — except that it asked of him a resolve he did not possess.\n\n\"I am not my own master,\" the king confessed. \"Duryodhana never does what pleases me. He pays no heed to the words of Gandhari, his mother, or of wise Vidura, or of friends like Bhishma, all of whom wish him well. Counsel that stubborn, senseless prince yourself, Krishna. If you do, you will have done the noble thing a friend should do.\"\n\nSo Krishna — who understood what was right, and also what was practical — went and stood before the angry prince in the crowded assembly, and spoke to him in sweet words, meant for Duryodhana's own good and for the good of all who followed him.\n\n\"You are born into a race famous for its wisdom,\" he began. \"Act righteously, as I will show you. You have learning and good conduct; you are adorned with every fine quality. It is only the wicked-souled, the cruel, and the shameless who act in the way that seems good to you. The righteous keep their hearts steady on virtue and good sense; the unrighteous turn perverse. The path you keep to is that perverse path. To persist in it is sinful and terrible, and it leads to death itself — and all for nothing, for you cannot even hold to it for long.\"\n\nHe did not scold. He reasoned, the way a man reasons with a kinsman whose ruin he can already see. If Duryodhana turned back from what promised only sorrow, he would escape the sinful, disreputable deeds of his brothers, his followers, and his counsellors. \"Make peace with the sons of Pandu,\" Krishna urged. \"They are wise and brave, tireless in effort and deep in learning, and every one of them has his soul under his own control. Such a peace would please your father; it would please the grandsire Bhishma, Drona, the noble Kripa, Somadatta, wise Vahlika, Ashwatthama, Vikarna, Sanjaya, Vivinsati, and many another of your kinsmen and friends. The whole world would prosper by it.\"\n\nThen the sweet words grew heavier, and the whole assembly heard what a friend was willing to say. \"You are modest, of noble birth, learned, and kind of heart. Obey your father and your mother. Good sons always hold their fathers' commands to be for their good, and when calamity comes upon a man, he remembers what his father told him. Peace with the Pandavas commends itself to your father. Let it commend itself to you and your counsellors as well. The man who listens to his friends and then does not act is consumed at last by his own neglect, like a man who swallows the poisonous fruit called Kimpaka. He who keeps putting off good counsel until it is too late is left to repent. But he who hears wisdom and accepts it at once, setting aside his own opinion, wins happiness all his days.\"\n\nHe ended where he had begun, on kinship. \"He who rejects the words of well-meaning friends is soon brought low by his enemies. Turning from the righteous, he follows the wicked, and makes his own friends weep for him. He abandons wise counsellors for foolish ones, and falls into great distress. The companion of sinners, who behaves falsely and never heeds good friends, who honors strangers but hates his own kin — he is soon cast off by the Earth. You have quarrelled with your own kin, and you seek shelter with the sinful, the incapable, and the foolish. What other man on earth would do such a thing?\"\n\nKrishna fell silent. Around the two of them the court of the Kurus held its breath: the guest who had spoken like a friend, and the prince who had been asked, at last, to choose.",
+ "reflection": "Krishna's appeal never leaves the ground of kinship and self-interest: he argues for peace as the path of wisdom, obedience, and survival, not as surrender. The tragedy of the scene is that the strongest argument in the hall is addressed to a man who has already decided, and everyone present knows it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Dhritarashtra"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "counsel",
+  "peace",
+  "kinship"
+ ],
+ "previous_story_id": "DKS_0428",
+ "next_story_id": "DKS_0430",
+ "next_story_tease": "But Duryodhana was already shaping his answer, and it would fit on the point of a needle.",
+ "hero_scene": "In the crowded Kuru assembly, Krishna stands close before the seated Duryodhana, one hand raised in earnest counsel, while Dhritarashtra watches from his throne and the court falls silent around them.",
+ "visual_elements": [
+  "Krishna standing before Duryodhana in the Kuru assembly, hand raised in counsel",
+  "Duryodhana seated, ever-wrathful, listening",
+  "Dhritarashtra on his throne, watching helplessly",
+  "the gathered Kurus — Bhishma, Drona, Vidura — listening in silence",
+  "the mood of a last attempt at peace"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.124",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:11Z",
+  "source_event_id": "evt_0436",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

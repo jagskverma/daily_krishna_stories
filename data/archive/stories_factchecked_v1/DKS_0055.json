@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0055",
+ "title": "The Grove Opened to Everyone",
+ "subtitle": null,
+ "story": "The grove did not stay quiet for long. Dhenuka's kin, the other demons who had shared his form and his appetite, heard what had happened, and they came rushing to avenge him. They came not one or two but in a body, the whole fierce kindred of Dhenuka, their hooves drumming on the earth as they poured through the palms. They must have seen the fruit scattered over the ground and the great tree still trembling, and still they came, rage pressing them forward where fear had kept everyone else away for so long. They had guarded this grove as fiercely as their fallen kinsman, and they meant to keep it.\n\nThey came all at once, charging at Krishna and Balarama from every side. The brothers did not retreat, and they did not prepare for a long fight. The verses say they moved as if at play, without effort or hurry, and flung the charging donkeys lifeless among the palm trees, one after another, until the last of them lay still. There was no battle to it, only a clearing away, the way a hand sweeps fallen leaves from a path — and the demons, who had been terror itself to everyone who lived nearby, were no more than leaves before it.\n\nWhen it was over, the grove lay strewn with the lifeless bodies of the demons, and the ground, already deep in the fruit Balarama had shaken down, was thick with both. What had been a place of fear was only a quiet grove again, silent but for the wind moving through the palms. The terror that had hung over it for so long was gone, and in its place there was only the smell of ripe fruit and the shade of the trees.\n\nThe gods and the wise, the verses say, heard of the great deed and rejoiced at it. And below, in the grove itself, something simpler and longer-lasting began. The people, their fear gone, came in and ate the palm fruit at last — the fruit that had fallen year after year, untouched and uneaten, now gathered and tasted freely, by anyone who wished it, children and elders alike. The cattle, too, grazed where they had never before dared to venture, cropping the new grass in the shade of the palms, and the grove that had once been spoken of only in warnings became a place people walked through without a second thought.\n\nThere was no guardian left to keep anyone out, and so the grove, for the first time, belonged to everybody. Krishna, the verses close, stood among them with his eyes like lotus petals, and the sound of his name and his deeds went out into the world as something auspicious to hear.\n",
+ "reflection": "The abundance was always there, falling to the ground season after season; what had kept it out of reach was not scarcity but fear. Once the fear is gone, nothing else changes and everything changes — the same fruit, the same grove, now open to everyone.",
+ "tradition_note": null,
+ "content_note": "Several demons are flung lifeless among the palms; the violence is brief and not described in detail.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "deliverance",
+  "abundance"
+ ],
+ "previous_story_id": "DKS_0054",
+ "next_story_id": "DKS_0056",
+ "next_story_tease": null,
+ "hero_scene": "Krishna and Balarama moving lightly through the palm grove as the demons of Dhenuka's kin are flung lifeless among the trees, the ground deep in fallen fruit and the grove gone quiet under the wind.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "charging donkey-demons",
+  "palm trees",
+  "fallen fruit covering the ground",
+  "the gods rejoicing above",
+  "villagers eating the fruit",
+  "cattle grazing freely",
+  "release from fear"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.15.35-40",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:15Z",
+  "source_event_id": "evt_0067"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

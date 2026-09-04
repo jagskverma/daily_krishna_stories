@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0106",
+ "title": "Krishna Teaches About Love",
+ "subtitle": null,
+ "story": "On the moonlit sandbank of the Yamuna, the cowherd women of Vrindavan sat close around Krishna, the boy of their village. They had given up everything for him — home, family, the quiet duties the world expected of them — and a little while before, when he had vanished from them and then returned, the question they had carried for so long rose at last to their lips. They wanted to understand the way he loved them in return. Why, they asked, does he love those who love him, and yet seem to hold something back — to give, and then to vanish?\n\nHe did not answer with a lesson. He answered with the way love truly behaves.\n\nSome people, he said, serve those who do not serve them back — the way a father and mother serve a child, not because the child can ever repay them, but out of compassion. The parents keep no account of what the child owes. They give because the giving is its own reason, and that is one kind of love: whole and complete, asking nothing in return. And there are others, he went on, who do not serve back at all, even when they are served with everything. So how could anyone expect love from such people, when even a gift freely given wins nothing from them?\n\nBut he, he told them, was like neither. When people served him, he did not simply return the favor, the way one trader settles accounts with another, weighing what was given against what is owed. That kind of repayment would end the matter — and he did not want anything to end. What he gave back, he gave in order to draw them further in: to deepen the very love that had reached for him, so that it would not stop, so that its roots would go down and hold.\n\nThen he turned the question around and set it before them. You, he said, have cast aside the world and its claims — even the duties the sacred books lay down — all for my sake, and still you follow me. There is no repaying that. Even if he lived as long as the gods themselves, he told them, he could not repay what they had done for him. So there would be no settling of accounts, no balancing of the ledger — not ever.\n\nAnd then he gave them the heart of it: their own goodness would return to them of itself. The love they had given was not an investment to be recovered with interest. It had already done its work, and its reward was simply itself. Their love was already theirs — the way a flame is already warm, without needing to be warmed in return.\n\nSo he answered their question by taking it away. They had asked how he would repay their love, and he told them there was no question of repayment — because what they had given could not be repaid, and did not need to be. It had already come home.",
+ "reflection": "Krishna refuses the arithmetic of love. He will not settle accounts with the gopis the way a trader settles a debt, because that would end the matter; instead he deepens the devotion they have already offered. Their love, he tells them, is its own reward — it has already returned to them.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "love",
+  "teaching"
+ ],
+ "previous_story_id": "DKS_0105",
+ "next_story_id": "DKS_0107",
+ "next_story_tease": "That night, under the same autumn moon, the answer would be danced rather than spoken.",
+ "hero_scene": "Krishna seated among the gopis on the moonlit sandbank of the Yamuna, speaking gently of love, the gopis gathered close and listening, their faces turned up to him in the full autumn moonlight.",
+ "visual_elements": [
+  "Krishna seated among the gopis",
+  "moonlit Yamuna sandbank",
+  "full autumn moon",
+  "gopis listening, faces upturned",
+  "calm night water",
+  "intimate teaching moment"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.32.15-21",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:47Z",
+  "source_event_id": "evt_0117",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_audio_minutes": 3,
+ "estimated_read_minutes": 3
+}

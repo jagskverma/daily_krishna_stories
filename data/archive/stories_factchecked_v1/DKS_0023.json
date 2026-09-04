@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0023",
+ "title": "The Lovely Stranger",
+ "subtitle": "Putana enters Gokula in disguise",
+ "story": "Kamsa, the king of Mathura, had not forgotten the child he feared. The prophecy had told him that Devaki's child would one day take his life, and he had spent years trying to keep that child from ever drawing breath. He had tried cages and guards and the edge of a sword, and still the danger he dreaded lived somewhere beyond his reach, hidden among villages he had never thought to search. So he sent something worse. He sent Putana.\n\nPutana was a demoness whose trade was children. She moved from village to village, and wherever she went, infants died — quietly, at night, with no wound and no warning. She was drawn to the very places where no protective hymn was chanted, no rite spoken against such as her, and she went through them the way a famine goes through a field. She had no mark, and she left none; a village knew her only when it counted its sleeping children in the morning. The villages that knew her name whispered it; the villages that did not, learned it too late.\n\nKamsa sent her out, and she went where the work took her, flying through the air from one settlement to the next, a thing that traveled the open sky. Then, one day, she rose into the air and turned toward Nanda's Gokula.\n\nShe did not descend as herself. By her magic she took the form of a lovely woman — hair bound with fresh jasmine, waist slender, hips full, dressed in fine cloth, her ears bright with ornaments, her face framed in shining curls. She smiled as she walked, and her sidelong glances were warm. There was nothing in her that warned of harm. Her smile was gentle, her glance full of grace, and every woman who looked on her felt her own heart lighten. She looked like prosperity itself come down to walk among them.\n\nThe cowherd women of Gokula saw her and were charmed. She stole their hearts with those smiles and glances, and they took her for the goddess of fortune come to look upon her lord. Who would question such a one? Who would think to search for harm behind a face like that? They drew her in among themselves, delighted, and showed her no suspicion at all. They saw only grace, and they gave her their trust as freely as they gave her their welcome. No one asked her name, and no one turned her away.\n\nShe moved among them freely, her smile as soft as the rest of her was deadly, and the women of Gokula welcomed her as an honored guest.\n\nAnd somewhere in that village, a child slept — the child Kamsa had sent her to find.",
+ "reflection": "Putana is terrifying precisely because she arrives as a blessing. The cowherd women see a goddess of fortune; the reader sees what they cannot. Deception, the story suggests, wears the most trusted face.",
+ "tradition_note": null,
+ "content_note": "A demoness who kills infants enters the village; her violence is implied, not shown.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Putana",
+  "Kamsa"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "deception",
+  "danger"
+ ],
+ "previous_story_id": "DKS_0022",
+ "next_story_id": "DKS_0024",
+ "next_story_tease": "And she was about to find the child she had come for.",
+ "hero_scene": "A lovely woman with jasmine in her hair and fine ornaments enters the cowherd village of Gokula, smiling, while the cowherd women pause and gaze at her, charmed, mistaking her for the goddess of fortune.",
+ "visual_elements": [
+  "Putana in the form of a beautiful woman",
+  "jasmine flowers in her hair",
+  "fine clothes and ornaments",
+  "cowherd women gazing, charmed",
+  "Gokula village",
+  "mood of enchantment hiding danger"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.6.1-5",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:20:31+05:30",
+  "source_event_id": "evt_0037"
+ },
+ "editorial_status": "unreviewed"
+}

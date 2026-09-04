@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0350",
+ "title": "Balarama Marries Revati",
+ "subtitle": null,
+ "story": "The sea was asked to make room, and a city rose where the water had been.\n\nKrishna had chosen the ground himself, walking the edge of the forest at sunrise after his morning ablutions, with the elders of the Yadu house following behind him. He had found his site, settled on its name, and laid out courtyards, promenades, well-levelled roads and inner quarters. \"All these marks,\" he told the Yadavas, \"are why this city of mine will be celebrated on earth as Dwaravati, like Indra's Amaravati. Take lands for your houses; let gardens and crossings be laid out; let the survey of roads and walls be taken, and send for masons and artisans.\"\n\nThe Yadavas set about it that very day, some measuring their plots with ropes, others honoring the tutelary deity with gifts to the brahmins, while the masons gathered timber and stone and began to raise the gate and the boundary line. Then Krishna called on Vishwakarma, the celestial architect, and the foremost of the gods came and stood before him. \"You are adorable to me as grandfather Brahma and as the three-eyed Shiva,\" Vishwakarma said; \"there is no difference among the three. Command me as you command the three worlds.\" And Krishna commanded: \"Build me such a city that it may be celebrated on earth like Amaravati, so that mortals may see the beauty of this city and of the Yadu race.\"\n\nVishwakarma agreed, with one condition of his own. The city as planned would not hold the numbers of the Yadu house, he said; it must be so vast that even the four oceans might range within it — and for that, the ocean would have to give ground. So Krishna turned to the sea, the lord of rivers, and asked it plainly: if it had any respect for him, let it withdraw twelve yojanas and give the city room.\n\nThe city rose by the shore. Temples were built for Brahma, for Indra, for the gods of fire and water; four great gates — Shudraksha, Aindra, Bhallata and Pushpadantaka — were set in the walls; and the houses of the high-souled Yadavas went up street by street. Dwaraka stood at last, the image of Amaravati on mortal ground.\n\nAnd a few days after the founding, the old text adds, almost in passing: with Rishabha's consent, Balarama married Revati, the good-natured daughter of King Revata.\n\nThe sentence is small, but it is the sentence the city had been waiting for. The walls and gates and temples were the frame; the marriage was the life that moved in. Balarama, Krishna's elder brother, the strong arm of the house, bound the Yadus by kinship to the line of Revata, and the new city, barely days old, had its first great household taking root within it.\n\nSo Dwaraka began: the sea pushed back, the walls raised, and the elder brother married. The old account gives the founding pages and gives the wedding a single line — as if a home is only complete when someone begins a life inside it.",
+ "reflection": "The old account gives the founding of Dwaraka pages and gives Balarama's wedding a single line, as if a home is only complete when family life begins inside it. Walls and gates protect a city, but the marriage — kinship, continuity — is what makes it a place to live in.",
+ "tradition_note": "The Vishnu Purana places the wedding after Balarama's two months of roaming in Vraja, calls Revati the daughter of King Raivata, and adds that she bore him two sons, Nishatha and Ulmuka.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Revati",
+  "Krishna"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "marriage"
+ ],
+ "previous_story_id": "DKS_0349",
+ "next_story_id": "DKS_0351",
+ "next_story_tease": "But Dwaraka's peace would not last — before long, the kings and demons of the region, Jarasandha and Shalva among them, would surround the new city with their armies.",
+ "hero_scene": "In the newly raised city of Dwaraka, Balarama and Revati stand together in a courtyard as the Yadava elders gather around, the fresh walls, gates and temple towers of Vishwakarma's city rising behind them by the sea.",
+ "visual_elements": [
+  "Krishna surveying the coastal site at sunrise with the Yadu elders",
+  "Yadavas measuring their plots with ropes while masons raise the gate and boundary line",
+  "Vishwakarma, the celestial architect, standing before Krishna",
+  "temples and the four gates of Dwaraka rising by the shore",
+  "Balarama and Revati in the new city's courtyard, the clan gathered around"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.115",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.25",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:52Z",
+  "source_event_id": "evt_0229"
+ },
+ "editorial_status": "unreviewed"
+}

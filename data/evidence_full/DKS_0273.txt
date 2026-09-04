@@ -1,0 +1,99 @@
+# STORY DKS_0273 — Krishna Shatters the Rock-Shower with Indra's Thunderbolt || Buried under torrents of rocks hurled by Salwa's Danavas, Krishna wields Indra's thunderbolt and destroys the entire mass of crags, then resumes the fight.
+
+## Index entry
+title: Krishna Shatters the Rock-Shower with Indra's Thunderbolt || Buried under torrents of rocks hurled by Salwa's Danavas, Krishna wields Indra's thunderbolt and destroys the entire mass of crags, then resumes the fight.
+summary: Buried under torrents of rocks hurled by Salwa's Danavas, Krishna wields Indra's thunderbolt and destroys the entire mass of crags, then resumes the fight.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Salwa, Daruka
+locations: Saubha (aerial city)
+themes: strength, divine-weapon, perseverance
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0362
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 3 | chapter/section 22 | verses  | confidence 4
+  excerpt: torrents of rocks falling upon me covered me up, and I began to grow like an ant-hill ... And then wielding the thunderbolt, that favourite (weapon) of Indra, capable of riving stones, I destroyed that entire mass of crags!
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 3.22 ()
+“Vasudeva continued, ‘Then O thou foremost of the Bharata race, taking up
+my beautiful bow, I began to cut off with my arrows the heads of the
+enemies of the celestials, from off that car of costly metals! And I
+began to discharge from the Sharanga many well-looking arrows of the
+forms of snakes, capable of going at a great height and possessing
+intense energy. And, O perpetuator of the Kuru race, I could not then see
+the car of costly metals, for it had vanished, through illusion! I was
+then filled with wonder! That host of Danvas then, O Bharata, of
+frightful visages and hair, set up a loud howl while I was waiting for
+it. In that fierce battle. I then, with the object of destroying them,
+fixed on my bow-string the weapon capable of piercing the foes if but his
+sound was inaudible. Upon this, their shouts ceased. But those Danavas
+that had sent up that shout were all slain by those shafts of mine
+blazing as the Sun himself, and capable of striking at the perception of
+sound alone. And after the shout had ceased at one place, O mighty king,
+another yell proceeded from another quarter. Thitherto also I sent my
+shafts. In this way, O Bharata, the Asuras began to send up yells in all
+the ten quarters above and across. These were all slain by me, viz.,
+those that were in the skies and that were invisible, with arrows of
+diverse forms, and celestial weapons inspired with mantras. Then, O hero,
+that car of precious metals capable of going anywhere at will,
+bewildering my eyes, reappeared at Pragjyotisha! And then the destroying
+Danavas of fierce forms suddenly drowned me with a mighty shower of
+rocks. And, O thou foremost of monarchs, torrents of rocks falling upon
+me covered me up, and I began to grow like an ant-hill (with its summits
+and peaks)! And covered along with my horses and charioteer and
+flagstaffs, with crags on all sides, I disappeared from sight altogether.
+Then those foremost of heroes of the Vrishni race who were of my army
+were, struck with panic, and all on a sudden began to fly in all
+directions. And beholding me in that plight, O king, the heaven, the
+firmament, and the earth were filled with exclamation of Oh! and Alas!
+And then, O monarch, my friends filled with sorrow and grief began to
+weep and wail with heavy hearts! And delight filled the hearts of the
+enemies. And O thou who never waverest, I heard of this after I had
+defeated the foe! And then wielding the thunderbolt, that favourite
+(weapon) of Indra, capable of riving stones, I destroyed that entire mass
+of crags! But my steeds, afflicted with the weight of the stones and
+almost on the point of death began to tremble. And beholding me, all my
+friends rejoiced again even as men rejoice on seeing the sun rise in the
+sky, dispersing the clouds. And seeing my horses almost in their last
+gasp for breath, afflicted with that load of stones, my charioteer said
+unto me in words suitable to the occasion, ‘O thou of the Vrishni race,
+behold Salwa the owner of the car of precious metals sitting (yonder). Do
+not disregard him! Do thou exert thyself! Do thou abandon thy mildness
+and consideration for Salwa. Slay Salwa, O thou of mighty arms! O Kesava,
+do not let him live! O hero, O thou destroyer of those that are not thy
+friends (enemies), an enemy should be slain with every exertion! Even a
+weak enemy who is under the feet of a man endued with strength, should
+not be disregarded by the latter: that (shall I say) of one that dareth
+us to the fight? Therefore, O thou tiger among men, putting forth every
+exertion, slay him, O lord, O thou foremost of the Vrishni race! Do thou
+not delay again! This one is not capable of being vanquished by milder
+measures. And he cannot in my opinion be thy friend who is fighting thee
+and who devastated Dwaraka!’ O Kaunteya, hearing such words of my
+charioteer, and knowing that what he said was true, I directed my
+attention to the fight (afresh), with the view of slaying Salwa and
+destroying the car of costly metals! And, O hero, saying unto Daruka,
+‘Stay a moment’ I fixed on my bow-string my favourite weapon of fire,
+blazing and of celestial origin, of irresistible force, and incapable of
+being baffled, bursting with energy, capable of penetrating into
+everything, and of great splendour! And saying, ‘Destroy the car of
+precious metals together with all those enemies that are in it.’ I
+launched with the might of my arms and in wrath with mantras, the great
+powerful discus Sudarsana which reduceth to ashes in battle Yakshas and
+Rakshasas and Danavas and kings born in impure tribes, sharp-edged like
+the razor, and without stain, like unto Yama the destroyer, and
+incomparable, and which killeth enemies. And rising into the sky, it
+seemed like a second sun of exceeding effulgence at the end of the Yuga.
+And approaching the town of Saubha whose splendour had disappeared, the
+discus went right through it, even as a saw divideth a tall tree. And cut
+in twain by the energy of the Sudarsana it fell like the city of Tripur
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0272 | next_story_id: DKS_0274
+previous title: Narada Reveals Bhanumati's Fate; She Weds Sahadeva || Narada explains that Bhanumati's abduction was the working of a Durvasa curse softened by the sages; Bhānu then gives her in marriage to Sahadeva.
+next title: Krishna Seizes His Discus and Charges Bhishma

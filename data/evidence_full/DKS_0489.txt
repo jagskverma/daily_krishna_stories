@@ -1,0 +1,60 @@
+# STORY DKS_0489 — Krishna's Homecoming to Dwaraka
+
+## Index entry
+title: Krishna's Homecoming to Dwaraka
+summary: Krishna reaches his own prosperous realm of Anarta, sounds his conch, and is welcomed by the joyful citizens, his father Vasudeva, Balarama, Ugrasena and his queens, who receive him with offerings and embrace.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, Vasudeva, Balarama, Ugrasena, Devaki, the citizens of Dwaraka
+locations: Dwaraka
+themes: homecoming, joy, family, welcome
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0503
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 11 | verses 1-33 | confidence 5
+  excerpt: Approaching his own prosperous land of Anarta, Krishna blew his conch to dispel his people's sorrow; hearing it, the citizens rushed to see their lord. Vasudeva, Akrura, Ugrasena and the wondrous Rama, with Pradyumna and others, came forth on chariots to meet him; entering his father's house, Krishna bowed to his seven mothers led by Devaki, who lifted him to their laps and bathed him with tears o
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.11 (1-33)
+1. sa uccakāśe dhavalodaro daro 'pyurukramasyādharaśoṇaśoṇimā /
+2. tam upaśrutya ninadaṃ jagadbhayabhayāvaham /
+3. tatropanītabalayo raverdīpam ivādṛtāḥ /
+4. prītyutphullamukhāḥ procurharṣagadgadayā girā /
+5. natāḥ sma te nātha sadāṅghripaṅkajaṃ viriñcavairiñcyasurendravanditam /
+6. bhavāya nastvaṃ bhava viśvabhāvana tvam eva mātātha suhṛtpatiḥ pitā /
+7. aho sanāthā bhavatā sma yadvayaṃ traiviṣṭapānām api dūradarśanam /
+8. yarhyambujākṣāpasasāra bho bhavān kurūn madhūn vātha suhṛddidṛkṣayā /
+9. kathaṃ vayaṃ nātha ciroṣite tvayi prasannadṛṣṭyākhilatāpaśoṣaṇam /
+10. iti codīritā vācaḥ prajānāṃ bhaktavatsalaḥ /
+11. madhubhojadaśārhārhakukurāndhakavṛṣṇibhiḥ /
+12. sarvartusarvavibhavapuṇyavṛkṣalatāśramaiḥ /
+13. gopuradvāramārgeṣu kṛtakautukatoraṇām /
+14. sammārjitamahāmārga rathyāpaṇakacatvarām /
+15. dvāri dvāri gṛhāṇāṃ ca dadhyakṣataphalekṣubhiḥ /
+16. niśamya preṣṭham āyāntaṃ vasudevo mahāmanāḥ /
+17. pradyumnaścārudeṣṇaśca sāmbo jāmbavatīsutaḥ /
+18. vāraṇendraṃ puraskṛtya brāhmaṇaiḥ sasumaṅgalaiḥ /
+19. vāramukhyāśca śataśo yānaistaddarśanotsukāḥ /
+20. naṭanartakagandharvāḥ sūtamāgadhavandinaḥ /
+21. bhagavāṃstatra bandhūnāṃ paurāṇām anuvartinām /
+22. prahvābhivādanāśleṣakarasparśasmitekṣaṇaiḥ /
+23. svayaṃ ca gurubhirvipraiḥ sadāraiḥ sthavirairapi /
+24. rājamārgaṃ gate kṛṣṇe dvārakāyāḥ kulastriyaḥ /
+25. nityaṃ nirīkṣamāṇānāṃ yadapi dvārakaukasām /
+26. śriyo nivāso yasyoraḥ pānapātraṃ mukhaṃ dṛśām /
+27. sitātapatravyajanairupaskṛtaḥ prasūnavarṣairabhivarṣitaḥ pathi /
+28. praviṣṭastu gṛhaṃ pitroḥ pariṣvaktaḥ svamātṛbhiḥ /
+29. tāḥ putram aṅkam āropya snehasnutapayodharāḥ /
+30. athāviśat svabhavanaṃ sarvakāmam anuttamam /
+31. patnyaḥ patiṃ proṣya gṛhānupāgataṃ vilokya sañjātamanomahotsavāḥ /
+32. tam ātmajairdṛṣṭibhirantarātmanā durantabhāvāḥ parirebhire patim /
+33. yadyapyasau pārśvagato rahogatas tathāpi tasyāṅghriyugaṃ navaṃ navam /
+
+## Corpus chain
+previous_story_id: DKS_0488 | next_story_id: DKS_0490
+previous title: Krishna Departs Hastinapura for Dwaraka
+next title: Vyasa Consoles Arjuna and Parikshit Is Enthroned

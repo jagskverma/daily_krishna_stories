@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0495",
+ "title": "Sixteen Thousand Wives, One Beloved",
+ "subtitle": null,
+ "story": "On the edge of Dwaraka, in lakes ringed with blossoming groves, the water itself seemed to be laughing. And in the water was Krishna.\n\nThe city had settled back into pleasure after the long years of exile and war: elephants wandered the scented streets, gardens hung heavy with flowers, and music never quite stopped. In the middle of all this abundance, the city's single most beloved man was at play. He had sixteen thousand wives, queens of every great household of Dwaraka, and he was the one beloved of them all. That morning they were in the lakes, and Krishna with them.\n\nThe water sports began the way such things always begin: someone splashed, someone shrieked, and in a moment everyone was in the game. The queens surrounded him in a ring, their fine clothes clinging, their wet hair loosened and strung with flowers, and tried to douse him; he answered in kind, laughing, until the spray rose like rain. He stood among them as an elephant-lord stands among his cows, towering and playful at once, letting himself be caught and then slipping away. Musicians played on the bank — drums, flutes, small cymbals — and the dancers moved with the beat.\n\nTo each of the sixteen thousand, the sport felt like a secret. Every woman there was certain of one thing: he is sporting only with me. Each looked at his smile and believed she alone held it. Strange to say, there was no jealousy among them, for their minds and eyes were fixed on one man, and where the heart is wholly given, there is no room left for envy.\n\nSome of the queens cried out in mock terror and clung to him: \"O Hari, I am being drowned — save me!\" Others rowed small boats shaped like herons and serpents and sea-monsters across the bright water, and some swam on their own strength, and some with water jars, all of them trying to please him. The water itself seemed to enter the game, standing at the knee of one, the thigh of another, the breast of a third, so that each was met exactly as she came. His garland was streaked with saffron, his hair fell loose about his face, and he gave himself to each game as though it were the only one.\n\nThen, as the afternoon cooled, the play changed. The queens, still in the water, began to sing — songs of longing, strange for women who had been laughing with their lord only moments before, as though he were far away. One sang to the osprey crying over the lake: you call all night and cannot sleep — has love pierced you too, as it has pierced us? Another sang to the shelduck parted from her mate: you weep in the dark, and we weep, for we too have given ourselves wholly to his feet. They sang to the thin moon: are you, too, wasting away from remembering him? They sang to the southern breeze: what have we done that you bring us his memory and nothing else? They sang to the clouds, heavy with rain: you, like us, are bound to the lord of the Yadavas by love, and you spill your tears remembering him. And they sang to a swan as to a messenger: Welcome, swan; drink the water, and tell us of Shauri. Is the Unconquered One well? Does he, whose friendship moves so quickly, remember us? For a woman, the songs ended again and again, there is no refuge but him.\n\nThe drums and flutes answered from the bank, and Krishna listened. He was the water they stood in, the breeze they sang to, the one they called to; in his presence they sang of his absence, and their longing was itself the closest embrace. The old scripture says that by such love — constant, single-hearted, poured out in song — those queens attained the supreme state, for the heart that gives everything receives everything.\n\nEvening came down over the lakes, and the queens rose from the water, their wet clothes and loosened hair and smiling faces bright as lotuses. The game ended where it had begun: in laughter, in water, in the middle of Dwaraka, where the lord of sixteen thousand hearts was, that day and every day, the single beloved of them all.",
+ "reflection": "The strangest, most moving thing in this story is that the songs of longing are sung by women who are not separated from Krishna at all — the absence is imagined, and imagining it lets their love pour itself out completely. The story's quiet miracle is that each of the sixteen thousand is given the whole of Krishna, and none of them is diminished.",
+ "tradition_note": "The Harivamsha sets the same sport in the ocean, whose waters Krishna frees from salt, and adds that the water rose only to the height each woman wished; this account follows the Bhagavata Purana, which places the play in the lakes of Dwaraka.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "the sixteen thousand queens"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "divine play",
+  "love",
+  "beauty"
+ ],
+ "previous_story_id": "DKS_0494",
+ "next_story_id": "DKS_0496",
+ "next_story_tease": "Krishna's watchfulness would be tested again soon — on the banks of the Ganga, where a grieving king was coming to meet the Pandavas.",
+ "hero_scene": "In a lake ringed with flowering trees on the edge of Dwaraka, Krishna stands at the centre of a ring of sixteen thousand queens, laughing as they splash him; wet-haired and garlanded, some cling to him crying out in mock terror, others row small boats shaped like herons and sea-monsters, and the spray rises like rain in the golden afternoon light.",
+ "visual_elements": [
+  "a lake ringed with blossoming groves at the edge of Dwaraka",
+  "Krishna at the centre of a ring of queens, laughing and splashing",
+  "wet-haired queens in clinging clothes, garlands and loose flowers",
+  "small boats shaped like herons, serpents and sea-monsters",
+  "musicians and dancers on the bank",
+  "spray rising like rain in golden light"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.90.1-24",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.235",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:15:06Z",
+  "source_event_id": "evt_0012"
+ },
+ "editorial_status": "unreviewed"
+}

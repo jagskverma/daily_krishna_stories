@@ -1,0 +1,59 @@
+# STORY DKS_0355 — Balarama Slays the Ape Dvivida
+
+## Index entry
+title: Balarama Slays the Ape Dvivida
+summary: The ape Dvivida insults Balarama and his women; Balarama fells him with his mace, freeing the land of the menace.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, Dvivida
+locations: Raivataka hill
+themes: combat, monster-slaying, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: The preceding ravages (bp10c_068) are a distinct beat. | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0215
+variant_notes: BP: Balarama fells him with his mace; VP: a single blow of the fist.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 67 | verses 9-27 | confidence 5
+  excerpt: Dvivida, seeing Balarama sporting on Raivataka, mocked him and his women; Balarama, enraged, struck him with his mace, and the ape, after hurling trees and rocks in vain, was felled, vomiting blood, as gods rained flowers. (rendered from Sanskrit, verses 9-27)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 36 | verses  | confidence 4
+  excerpt: the monkey Dwivida came there, and stealing the ploughshare and the club of Baladeva, grinned at and mocked him... Bala replied with a blow of his fist upon the forehead of Dwivida, which felled him, vomiting blood, and lifeless, to the earth.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.67 (9-27)
+9. gāyantaṃ vāruṇīṃ pītvā mada-vihvala-locanam /
+10. duṣṭaḥ śākhā-mṛgaḥ śākhām ārūḍhaḥ kampayan drumān /
+11. tasya dhārṣṭyaṃ kaper vīkṣya taruṇyo jāti-cāpalāḥ /
+12. tā helayām āsa kapir bhrū-kṣepair sammukhādibhiḥ /
+13. taṃ grāvṇā prāharat kruddho balaḥ praharatāṃ varaḥ /
+14. gṛhītvā helayām āsa dhūrtas taṃ kopayan hasan /
+15. kadarthī-kṛtya balavān vipracakre madoddhataḥ /
+16. kruddho muṣalam ādatta halaṃ cāri-jighāṃsayā /
+17. abhyetya tarasā tena balaṃ mūrdhany atāḍayat /
+18. pratijagrāha balavān sunandenāhanac ca tam /
+19. girir yathā gairikayā prahāraṃ nānucintayan /
+20. tenāhanat su-saṅkruddhas taṃ balaḥ śatadhācchinat /
+21. evaṃ yudhyan bhagavatā bhagne bhagne punaḥ punaḥ /
+22. tato 'muñcac chilā-varṣaṃ balasyopary amarṣitaḥ /
+23. sa bāhū tāla-saṅkāśau muṣṭī-kṛtya kapīśvaraḥ /
+24. yādavendro 'pi taṃ dorbhyāṃ tyaktvā muṣala-lāṅgale /
+25. cakampe tena patatā sa-ṭaṅkaḥ sa-vanaspatiḥ /
+26. jaya-śabdo namaḥ-śabdaḥ sādhu sādhv iti cāmbare /
+27. evaṃ nihatya dvividaṃ jagad-vyatikarāvaham /
+
+### Vishnu Purana (Wilson 1840) 5.36 ()
+The Asura Dwivida, in the form of an ape, destroyed by Balaráma.
+
+HEAR also, Maitreya, another exploit performed by the mighty Balaráma. The great Asura, the foe of the friends of the gods, Naraka, had a friend of exceeding prowess in the monkey named Dwivida, who was animated by implacable hostility against the deities, and vowed to revenge on the whole of them the destruction of Naraka by Krishńa, at the instigation of the king of the celestials, by preventing sacrifices, and effecting the annihilation of the mortal sphere. Blinded by ignorance, he accordingly interrupted all religious rites, subverted all righteous observances, and occasioned the death of living beings: he set fire to the forests, to villages, and to towns: sometimes he overwhelmed cities and hamlets with falling rocks; or lifting up mountains in the waters, he cast them into the ocean: then taking his place amidst the deep, he agitated the waves, until the foaming sea rose above its confines, and swept away the villages and cities situated upon its shores. Dwivida also, who could assume what shape he would, enlarged his bulk to an immense size, and rolling and tumbling and trampling amidst the corn fields, he crushed and spoiled the harvests. The whole world, disordered by this iniquitous monkey, was deprived of sacred study and religious rites, and was greatly afflicted.On one occasion Halá.yudha was drinking in the groves of Raivata, along with the illustrious Revatí and other beautiful females; and the distinguished Yadu, in whose praises songs were sung, and who was preeminent amidst graceful and sportive women, resembled Kuvera, the god of riches, in his palace. Whilst thus engaged, the monkey Dwivida came there, and stealing the ploughshare and the club of Baladeva, grinned at and mocked him, and laughed at the women, and threw over and broke the cups filled with wine. Balaráma, becoming angry at this, threatened the monkey; but the latter disregarded his menaces, and made a chattering noise: on which Bala, starting up, seized his club in wrath and the monkey laid hold of a large rock, which he burled at the hero. Bala casting his club at it, as it neared him, broke it into a thousand fragments, which, together with the club, fell upon the ground. Beholding the club prostrate, the monkey sprang over it, and struck the Yádava violently on the breast with his paws. Bala replied with a blow of his fist upon the forehead of Dwivida, which felled him, vomiting blood, and lifeless, to the earth. The crest of the mountain on which he fell was splintered into a hundred pieces by the weight of his body, as if the thunderer had shivered it with his thunderbolt. The gods threw down a shower of flowers upon Ráma, and approached him, and praised him for the glorious feat he had performed. "Well has the world been freed," said they, "by thy prowess, O hero, of this vile ape, who was the ally of the enemy of the gods." Then they and their attendant spirits returned well pleased to heaven. Many such inimitable deeds were wrought by the illustrious Baladeva, the impersonation of Śesha, the supporter of the earth.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0354 | next_story_id: DKS_0356
+previous title: The Gorilla Dvivida Ravages the Land || The gorilla Dvivida, Narakasura's friend, wreaks havoc on the countryside in revenge, burning villages, drowning lands and defiling sages' hermitages.
+next title: Balarama Seeks Samba's Release and Is Insulted || Balarama goes to Hastinapura as peacemaker, but the Kauravas, drunk on pride, mock the Yadavas and refuse to release Samba.

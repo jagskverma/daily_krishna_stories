@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0507",
+ "title": "The Pigeon and the Hunter's Net",
+ "subtitle": null,
+ "story": "The avadhuta — a wandering brahmin, a renunciate who had left home and name behind — once told King Yadu how he had come by his teachers. The eighth of them, he said, was a pigeon.\n\nA pigeon built his nest in a forest tree and lived there with his mate. They shared one perch and one nest; where one went, the other went too, and what one wanted, the other gave without being asked. They were, in the way of birds, a single household, and the tree was their home. It was a small life, and a complete one.\n\nIn time the hen laid eggs, and when the chicks hatched, the two birds loved them with a tenderness that filled the nest with soft feathers and low, contented cooing. They fed them from first light and kept them warm through the night; the nest was their whole world, and their world was warm. The chicks grew, their feathers coming in soft as silk, their clumsy antics the parents' whole delight; watching them, the two birds felt that no harm could ever reach this tree or this nest. Everything they owned was in it: their young, their days, their reason for flying out and flying back.\n\nOne day the two flew out together to gather food. While they were gone, a hunter came through the forest, saw the young birds alone in the nest, and spread his net over them.\n\nThe hen came home first. She saw her chicks struggling in the mesh, and love moved faster in her than fear. She did not stop to think of herself, did not try to pull them free; she flew into the net and settled down among her young, wanting only to be with them.\n\nThen the pigeon came home and saw them all — his mate and his children caught in the hunter's cords. \"Alas,\" he cried, \"what has my foolish heart brought down on us? My home is destroyed, my wife and children are trapped — what use is my life now?\" He could not bear to be the only one left free, to sit in an empty nest while everyone he loved was taken. So he too flew into the net, and the hunter, finding them all gathered there, carried them away.\n\nThe nest stood empty in the tree. Its soft lining stirred once in the wind, then was still.\n\n\"This is why the pigeon is numbered among my teachers,\" the avadhuta said. \"Love without any distance left that nest empty. A man who clings to home and family as that bird did — bound to them, never at peace — comes in the end to ruin. Human birth is the one door that opens on freedom, and he shut it on himself.\"",
+ "reflection": "The tale is offered as a warning, but it does not condemn love — it shows love without distance, a tenderness so total that it cannot let the lost stay lost. The pigeon is not wicked; he simply cannot bear to be the one left outside the net. What undoes him is not the hunter's cruelty but the completeness of his devotion.",
+ "tradition_note": null,
+ "content_note": "The pigeon and his family are caught in a hunter's net and do not survive.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the pigeon",
+  "the pigeon's mate",
+  "the chicks",
+  "the hunter"
+ ],
+ "locations": [
+  "a forest tree"
+ ],
+ "themes": [
+  "attachment",
+  "grief",
+  "the snare of home",
+  "cautionary tale"
+ ],
+ "previous_story_id": "DKS_0498",
+ "next_story_id": "DKS_0511",
+ "next_story_tease": null,
+ "hero_scene": "The pigeon flying deliberately into the hunter's net to join his mate and chicks, who are tangled in the mesh below, while the empty nest waits in the tree above.",
+ "visual_elements": [
+  "the pigeon",
+  "the pigeon's mate",
+  "the chicks in the nest",
+  "soft feathers and cooing",
+  "the hunter's net",
+  "the hunter",
+  "the forest tree",
+  "the empty nest",
+  "a mood of tender love turning to grief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.7.51-73",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:48Z",
+  "source_event_id": "evt_0527",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

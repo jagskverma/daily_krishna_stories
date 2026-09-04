@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0466",
+ "title": "Let Karna Pass",
+ "subtitle": "Krishna holds Arjuna back from the son of Radha",
+ "story": "Jayadratha, the king of the Sindhus, had just been slain by Arjuna's arrows, and the field turned on him again at once.\n\nKripa, one of the teachers who had trained Arjuna in arms, flew into a rage at the fall of the Sindhu king and buried Arjuna under a dense shower of arrows, while Drona's son, Ashwatthama, charged at him from the other side. The two great warriors poured their keen shafts at Arjuna from opposite directions, and he, struck again and again, felt real pain. But he had no wish to kill his teacher Kripa, and no wish to kill the son of Drona either. So he fought like a teacher in arms himself: he turned their weapons aside with his own, and sent back arrows that flew gently, meant to wound and sting but not to kill. Their sheer number was enough. Kripa's strength failed; he fainted where he stood on his chariot, and his driver, certain he was dead, bore him away from the fight. Ashwatthama, seeing this, fled in fear.\n\nArjuna watched his old teacher carried off, and grief came over him like a sickness. With a tearful face he remembered how the wise Vidura, when the child Duryodhana — the wretch who would destroy his own family — was born, had warned the blind king Dhritarashtra: \"Let this child be put to death at once, for because of him a great calamity will fall upon the foremost of the Kurus.\" That prophecy had come true. Here lay his own teacher, struck down in a war that Duryodhana had made. \"Shame on the ways of warriors,\" Arjuna said. \"Shame on my strength. Who else would fight a brahmin who is also his teacher? Kripa is a sage's son, my teacher, and the dear friend of Drona. Though I did not wish it, I have crushed him with my shafts. Men who honour their teachers are said to reach heaven; men who strike their teachers are said to go to hell. While I studied arms at his feet he told me, 'Never strike your teacher.' That command I have broken today. Shame on me, Krishna, for I have struck even him.\"\n\nWhile Arjuna was still grieving, Karna — the greatest champion of the Kaurava host and the one warrior who could stand against Arjuna — saw the king of the Sindhus dead and came rushing at him. Seeing Karna come, the two Panchala princes and Satyaki, Krishna's kinsman and the Pandavas' friend, hurried to meet him. And Arjuna, watching Karna advance, smiled and said to Krishna: \"There he comes, against Satyaki's chariot. He cannot bear that Bhurisravas, a champion of his own side, was slain in the day's fighting. Drive my horses to where Karna is. Do not let him make Satyaki follow the same road as Bhurisravas.\"\n\nBut Krishna held him back with careful words. \"The mighty-armed Satyaki is a match for Karna on his own,\" he said. \"How much more so with the two sons of Drupada beside him! For now, Arjuna, it is not for you to fight Karna. He carries the blazing dart that Indra, king of the gods, gave him, bright as a falling meteor — and he has saved it, through every battle, for you.\"\n\nThe words fell like a hand on a bowstring. Satyaki was enough; the dart was the reason. Karna had carried that weapon across the whole war, spending nothing, saving it for the one enemy he meant to destroy. And Krishna, who knew what was kept and what was coming, would not let Arjuna walk into it that day.\n\nSo the chariot did not move, and Karna swept past toward Satyaki and the Panchalas — and the blazing dart stayed unspent, kept, as it had always been kept, for the man it was meant for.",
+ "reflection": "Krishna's counsel is pure foresight: he does not doubt Satyaki's courage, only the weapon Karna carries. He lets the fight happen on terms that cost the Pandavas nothing — and keeps Arjuna's life out of the reach of a dart that was never meant to miss.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Karna",
+  "Satyaki"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "war strategy",
+  "foresight",
+  "restraint"
+ ],
+ "previous_story_id": "DKS_0465",
+ "next_story_id": "DKS_0467",
+ "next_story_tease": "But Krishna had already seen what Satyaki would need.",
+ "hero_scene": "On the field, Arjuna's chariot stands still while Krishna, one hand raised, counsels him to hold back, and in the distance Karna's chariot sweeps past toward Satyaki and the two Panchala princes.",
+ "visual_elements": [
+  "Arjuna lamenting on his car over the swooned Kripa being borne away",
+  "Karna rushing toward Arjuna, and Satyaki with the two Panchala princes rushing to meet him",
+  "Arjuna asking Krishna to drive him toward Karna",
+  "Krishna's raised hand holding Arjuna back",
+  "the chariot standing still as Karna sweeps past",
+  "the blazing dart of Indra, carried unspent by Karna"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.146",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:22:00Z",
+  "source_event_id": "evt_0460",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

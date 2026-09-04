@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0056",
+ "title": "Krishna Swallows the Forest Fire",
+ "subtitle": null,
+ "story": "Night had settled over Vraja, and the settlement slept. The cattle lay still in the dark, the cowherds and their families had given themselves to rest after the long day's grazing, and the forest stood quiet around them all, breathing its cool breath over the roofs and the sleeping herds. It was the deep, trusting sleep of people who had never had reason to fear the night, and the forest had always been their shelter. Nothing in that stillness warned of what was coming.\n\nThen, from the dry heart of the woods, a fire rose. A blazing forest fire, feeding on the parched grass and the undergrowth, and it did not stay where it was born. It came toward Vraja from every side at once, a wall of flame closing in on the sleeping settlement, until there was no direction left to turn that was not burning. Wherever a frightened eye looked, there was the glow of it, and the crackle of it filled the night like a voice, and the heat arrived before the flames like a warning that came too late. The dry grass and the undergrowth went up as if the forest had been waiting to burn, and the smoke rose thick and black against the dark sky.\n\nThe people woke to heat and light and smoke. They were scorched where they lay, and terror seized them, and there was no path out, for the fire pressed in from every side. They did the only thing they knew to do. They cried out, all of them together, into the roaring dark: \"Krishna! Krishna! O greatly fortunate one! O Rama of boundless power! We are your own people, your friends — save us from this terrible fire, this fire that no one can cross, this fire like the one that will end all things!\"\n\nThe verses say the Lord of the world looked on the distress of his own people. He did not rebuke them for their fear, and he did not send them away. He simply took the fire into himself and drank it up, the whole of it, the flames that had closed around Vraja on every side, until nothing was left burning in the night but the memory of the heat. What had been a wall of destruction was gone, as if it had never risen. The people, who a moment before had stood helpless before the flames, now saw only darkness and the unchanged shapes of their own homes.\n\nThe village stood whole. The dark came back over the trees, cool and still, and the people found themselves alive in it, in the silence after the roar, breathing air that no longer stung, wrapped in a night that no longer burned.\n",
+ "reflection": "The villagers are shown in their ordinary fear, calling out like people who have nowhere else to turn, and the answer they receive is not a lesson but a rescue. Divine power here is not spectacle; it is the simple act of making a place safe again for the people who sleep in it.",
+ "tradition_note": null,
+ "content_note": "A forest fire threatens the sleeping settlement; the danger is real but no one is harmed.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "cowherds"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "rescue",
+  "divine_power"
+ ],
+ "previous_story_id": "DKS_0055",
+ "next_story_id": "DKS_0057",
+ "next_story_tease": null,
+ "hero_scene": "A wall of forest fire closing in on the sleeping settlement of Vraja at night, the terrified villagers crying out to Krishna as the flames rise around them.",
+ "visual_elements": [
+  "Krishna",
+  "cowherds and their families",
+  "cattle",
+  "blazing forest fire",
+  "sleeping settlement of Vraja",
+  "night sky lit by flames",
+  "smoke",
+  "terror turning to safety"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.17.20-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:15Z",
+  "source_event_id": "evt_0077"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

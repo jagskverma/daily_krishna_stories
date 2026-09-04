@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0478",
+ "title": "The Untruth That Was Nearly True",
+ "subtitle": "Krishna urges Yudhishthira to speak the lie that would stop Drona",
+ "story": "Drona came on like a fire racing through dry straw, and no one could stand before him. Teacher to both armies, he had been enraged by the fall of Bhurishravas and Jayadratha, two great champions of the Kaurava side, and now he turned his full fury on the Panchalas and the Srinjayas, the Pandavas' allies. His shafts and darts cut them down as they charged. Again and again the finest warriors of the Pandava army rushed at him; again and again they fell, until the field grew crowded with the fallen and the ground turned dark beneath the horses' feet. Fear entered the hearts of the five Pandava brothers, and their hope of victory drained away. No one dared even look at him in battle, and Arjuna — the one man who was his match — would not fight his own teacher, for he honoured the ways of right conduct.\n\nSeeing the brothers afflicted and afraid, Krishna, who had their welfare at heart, spoke. This greatest of bowmen, he said, could never be conquered by force — not even by the gods, with Indra at their head. But when he lays aside his weapons, even mortal men can slay him. \"Cast aside the path of strict virtue for once, sons of Pandu,\" Krishna said, \"and find some way to win, so that Drona does not slaughter us all. When his son Ashvatthama falls, he will stop fighting, I think. Let some man go and tell him that Ashvatthama has been slain.\"\n\nTo Yudhishthira — the eldest, called the son of Dharma for his justice, whose whole life had been the keeping of his word — Krishna said it even more plainly. \"If Drona fights on in rage for even half a day, I tell you truly, your army will be annihilated. Save us from Drona. In such a strait as this, falsehood is better than truth.\"\n\nArjuna would not approve of the plan. Others approved. But Yudhishthira accepted it only with the greatest difficulty.\n\nThen Bhima, the mighty-armed, took up his mace and slew a war-elephant of their own army — a huge, terrible, foe-crushing beast named Ashvatthama, belonging to Indravarman, chief of the Malavas. The beast was built for the front of a charge, and its fall shook the ground. Then Bhima approached Drona in the midst of the battle and, with some bashfulness, began to shout aloud: \"Ashvatthama has been slain!\" Keeping the true fact within his own mind, he spoke the untrue words across the field.\n\nHearing them, Drona felt his limbs go weak, as sand dissolves in water. But he remembered the prowess of his son and soon came to regard the news as false; recovering himself, he took comfort, knowing that no foe could stand against Ashvatthama. Then, filled with rage, he rushed at Dhrishtadyumna, the young prince of Panchala, and buried him under a thousand sharp arrows. Twenty thousand Panchala chariot-warriors in turn covered Drona with their shafts, until he vanished from sight in a storm of arrows. Drona scattered their arrows, invoked the Brahma weapon, a celestial weapon of immense power, and stood blazing like a smokeless fire. He struck down the Panchala warriors where they stood, and the great ones of that army fell like trees torn up by a storm. Twenty thousand Panchala chariot-warriors were slain that day; a warrior named Vasudana was cut down by a single broad-headed arrow; and with them fell five hundred soldiers of the Matsya country, six thousand elephants, and ten thousand horses.\n\nThe lie that was meant to end him had only fed his fury. Drona stood on the field as if he meant to wipe out the warrior class itself, and the great seers — Viswamitra, Jamadagni, Bharadwaja, Gautama, Vasishtha, Kasyapa, and Atri — gathered to look upon him. Even they could not turn the great teacher from his course.",
+ "reflection": "The half-truth is told with almost unbearable care: Bhima keeps the true fact within his mind, Yudhishthira accepts the plan only with great difficulty, and Arjuna refuses it outright. What the episode makes visible is the cost of the lie — Drona's doubt lasts only a moment, and the deception that was meant to disarm him releases instead his full, terrible power.",
+ "tradition_note": null,
+ "content_note": "Depicts the heavy carnage of Drona's onslaught (described with restraint) and the moral cost of the Ashvatthama deception; may warrant parental awareness for younger children.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Drona",
+  "Bhima",
+  "Arjuna",
+  "Ashvatthama"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "falsehood for a just end",
+  "moral dilemma",
+  "necessity"
+ ],
+ "previous_story_id": "DKS_0477",
+ "next_story_id": "DKS_0479",
+ "next_story_tease": "Krishna's stratagem had not ended Drona's fury, and on the other side of the field Karna was already tearing the Pandava divisions apart.",
+ "hero_scene": "Before the towering, blazing figure of Drona on his golden car, Bhima calls out with downcast, bashful face the words 'Ashvatthama is slain,' while behind him the huge slain elephant lies on the miry field and Krishna watches from the Pandava chariot.",
+ "visual_elements": [
+  "Drona blazing like a smokeless fire on his golden car",
+  "Bhima exclaiming with bashfulness, keeping the true fact within his mind",
+  "the huge slain elephant named Ashvatthama lying on the field",
+  "Krishna watching from the Pandava chariot",
+  "the earth miry with the fallen Panchalas",
+  "the Rishis gathered at the edge of the field"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.191",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:07Z",
+  "source_event_id": "evt_0472",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

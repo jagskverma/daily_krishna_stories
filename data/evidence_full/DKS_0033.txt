@@ -1,0 +1,39 @@
+# STORY DKS_0033 — Krishna Breaks the Butter Pot
+
+## Index entry
+title: Krishna Breaks the Butter Pot
+summary: While Yasoda churns, the hungry child climbs onto her lap; when she leaves, he breaks the churn-pot, steals the butter and feeds it to the monkeys, then flees as she chases him.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Yasoda
+locations: Gokula
+themes: mischief, mother's_chase
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0047
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 9 | verses 1-10 | confidence 5
+  excerpt: Interrupted in her churning to nurse the child, Yasoda returns to find the pot shattered and Krishna, with the stolen butter, feeding it to a monkey; he darts away and she pursues him with a stick. (rendered from Sanskrit, verse 1-10)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.9 (1-10)
+1. yāni yānīha gītāni tad-bāla-caritāni ca /
+2. kṣaumaṃ vāsaḥ pṛthu-kaṭi-taṭe bibhratī sūtra-naddhaṃ $ putra-sneha-snuta-kuca-yugaṃ jāta-kampaṃ ca subhrūḥ &amp;rajjv-ākarṣa-śrama-bhuja-calat-kaṅkaṇau kuṇḍale ca % svinnaṃ vaktraṃ kabara-vigalan-mālatī nirmamantha
+3. tāṃ stanya-kāma āsādya mathnantīṃ jananīṃ hariḥ /
+4. tam aṅkam ārūḍham apāyayat stanaṃ sneha-snutaṃ sa-smitam īkṣatī mukham /
+5. sañjāta-kopaḥ sphuritāruṇādharaṃ sandaśya dadbhir dadhi-mantha-bhājanam /
+6. uttārya gopī suśṛtaṃ payaḥ punaḥ praviśya saṃdṛśya ca dadhy-amatrakam /
+7. ulūkhalāṅghrer upari vyavasthitaṃ markāya kāmaṃ dadataṃ śici sthitam /
+8. tām ātta-yaṣṭiṃ prasamīkṣya satvaras $ tato 'varuhyāpasasāra bhītavat &amp;gopy anvadhāvan na yam āpa yogināṃ % kṣamaṃ praveṣṭuṃ tapaseritaṃ manaḥ
+9. anvañcamānā jananī bṛhac-calac- chroṇī-bharākrānta-gatiḥ sumadhyamā /
+10. kṛtāgasaṃ taṃ prarudantam akṣiṇī kaṣantam añjan-maṣiṇī sva-pāṇinā /
+
+## Corpus chain
+previous_story_id: DKS_0032 | next_story_id: DKS_0034
+previous title: Krishna Eats Mud and Shows the Cosmos in His Mouth
+next title: Yasoda Binds Krishna to the Mortar
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0424",
+ "title": "Vidura's Warning in the Night",
+ "subtitle": null,
+ "story": "At nightfall Krishna ate at the house of Vidura, as he had promised in Duryodhana's hall. Vidura was the blind king's younger brother, and the one man in that palace whom the exiled Pandavas could call a true friend. When the meal was over and the house had grown quiet, the meaning of Krishna's choice came clear, and the man who had welcomed him with joy now spoke with dread. Krishna had come to Hastinapura to plead for his cousins, and Vidura meant to tell him, before he went to the court, exactly what waited there.\n\n\"Your coming here was not well judged, Krishna,\" Vidura said. \"Dhritarashtra's son obeys neither the laws of kingship nor the laws of goodness. He is wicked and quick to anger; he craves honour while he insults others; he turns from the counsel of the aged. He thinks himself wise, but he is a fool — a slave to his desires, ungrateful, suspicious of his truest friends, in love with what he knows to be wrong. Were you yourself to point out his true good, he would cast it aside out of pride and rage. He believes that Bhishma, Drona and Kripa, that Karna, Drona's son and king Jayadratha can win him anything he wants — and so he has never once set his heart on peace.\"\n\nKrishna listened, and Vidura went on. Duryodhana and his brothers, with Karna at their head, truly believed that the Pandavas could not even look upon Bhishma and Drona, let alone fight them. The short-sighted prince, with his great army assembled, already counted his purpose achieved; he had decided that Karna alone could defeat his enemies. So he would never make peace. Krishna might desire peace and brotherhood between the two houses, but Dhritarashtra's sons had resolved to give the Pandavas nothing that was theirs. \"Among men so resolved,\" Vidura said, \"your words will be wasted — like a song sung to the deaf.\"\n\nNor did Vidura think Krishna should enter that assembly at all. The Kauravas had gathered a mighty force and feared no one; they truly believed that Indra at the head of all the gods could not overcome them. Duryodhana sat in the midst of his elephants, his chariots and his heroes and counted the whole earth already his; what he held, he would never give back. \"Alas,\" Vidura said, \"for Duryodhana's sake the destruction of the earth is at hand.\" All the kings of the earth had chosen their side and were eager to fight the Pandavas; many were old enemies of Krishna, and all, fearing him, had bound themselves to Karna and the sons of Dhritarashtra. They had their suspicions of Krishna himself. \"It does not seem right to me,\" Vidura said, \"that you should walk into the midst of them.\"\n\nThe night was still. Krishna had heard every word — the long tale of Duryodhana's faults, the certainty of war, the plea that he turn back. He did not argue with any of it. Vidura knew this court as no one else did, and Krishna had not come to Hastinapura to be persuaded out of listening.",
+ "reflection": "Vidura's warning is a portrait of a man already overtaken by fate: every vice he names is a reason Duryodhana cannot be persuaded, and every reason is also a prophecy of war. Krishna listens without argument, because the value of the warning is not that it changes his purpose, but that it is true.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Duryodhana"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Vidura's abode"
+ ],
+ "themes": [
+  "warning",
+  "discernment",
+  "foresight"
+ ],
+ "previous_story_id": "DKS_0423",
+ "next_story_id": "DKS_0425",
+ "next_story_tease": "But Krishna would answer Vidura's warning with a resolve of his own.",
+ "hero_scene": "Late at night in Vidura's quiet house, the lamp burning low, Vidura leans forward with a grave face as he warns Krishna, who sits in calm stillness listening to every word.",
+ "visual_elements": [
+  "Vidura's quiet house at night with a low-burning lamp",
+  "Vidura leaning forward, grave-faced, warning Krishna",
+  "Krishna seated in stillness, listening",
+  "the shadowed room and the late hour",
+  "the sense of war gathering beyond the house"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.92",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0431",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

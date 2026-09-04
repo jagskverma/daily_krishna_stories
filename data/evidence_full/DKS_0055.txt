@@ -1,0 +1,33 @@
+# STORY DKS_0055 — Krishna and Balarama Clear the Grove of Dhenuka's Kin
+
+## Index entry
+title: Krishna and Balarama Clear the Grove of Dhenuka's Kin
+summary: As Dhenuka's kin charge to avenge him, Krishna and Balarama slay them all, and men and beasts freely enjoy the grove.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Balarama
+locations: Vrindavan
+themes: deliverance, abundance
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0067
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 15 | verses 35-40 | confidence 5
+  excerpt: Dhenuka's kindred rush upon the brothers and are flung lifeless among the palms, until the grove lies strewn with their bodies and the people and cattle freely enjoy its fruit and grass. (rendered from Sanskrit, verse 35-40)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.15 (35-40)
+35. tataḥ kṛṣṇaṃ ca rāmaṃ ca jñātayo dhenukasya ye /
+36. tāṃs tān āpatataḥ kṛṣṇo rāmaś ca nṛpa līlayā /
+37. phala-prakara-saṅkīrṇaṃ daitya-dehair gatāsubhiḥ /
+38. tayos tat su-mahat karma niśamya vibudhādayaḥ /
+39. atha tāla-phalāny ādan manuṣyā gata-sādhvasāḥ /
+40. kṛṣṇaḥ kamala-patrākṣaḥ puṇya-śravaṇa-kīrtanaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0054 | next_story_id: DKS_0056
+previous title: Balarama Slays the Ass-Demon Dhenuka
+next title: Krishna Swallows the Forest Fire at Night

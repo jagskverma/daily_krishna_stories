@@ -1,0 +1,68 @@
+{
+ "id": "DKS_0352",
+ "title": "When Balarama Came Home to Vraja",
+ "subtitle": null,
+ "story": "For the first time in years, Balarama took the road to Vraja alone, and he went with his younger brother Krishna's blessing. Vraja was the cowherd country where the two brothers had grown up — before Mathura, before Dwaraka, the golden city by the sea where they now lived.\n\nThe village had not forgotten them, and the news that Balarama was coming ran ahead of him like fire in dry grass. By the time he reached the cow-pens, the gopas and gopis of Vraja — the cowherds and the milkmaids — had gathered, and they came at him all at once: the old cowherds pressing forward to embrace him, the women laughing and weeping at the same time, hands reaching for his arms as if they could not quite believe the sight.\n\nThe elders who had watched him grow up spoke first. Welcome, they said, you whom we raised among us. We have heard of your deeds — how you met the great fish Panchajana in the ocean and destroyed it; how you fought Jarasandha and the kings with him at Gomanta; how you entered Mathura, and the earth itself was steadied by it. Every tale that had reached the village, they laid before him like offerings.\n\nBalarama answered them with something better than a list of victories. \"You are dearer to us than our own kin,\" he told the cowherds. \"We were reared in your houses. We took our meals with you and tended the cattle beside you. We spent our boyhood sporting on these very grounds. Whatever we are, we became here, among you. You are our firm friends.\"\n\nThen the gopis came forward, and all their questions were of one person. Does Krishna remember his father Nanda, who raised him? they asked. Does he remember his mother Yashoda, who held him as a child? Does he remember his friends, the boys he played with, the women who sang for him? Their voices were half teasing and half raw. He left us so suddenly, they said, cutting the thread of friendship as if it had never been woven. How do the wise ladies of Dwaraka trust the words of one so quick to charm and so quick to leave? And yet even as they spoke they could not bear to hear of anything else — when one of them tried to turn the talk to other things, the rest cried out: what other stories can we hear, when our hearts are still with him?\n\nBalarama listened to it all, and then he gave them what they truly wanted. He carried Krishna's messages in his own heart, all the way from Dwaraka — and the words he spoke for his brother went straight to the gopis' hearts. The village learned that Krishna remembered everything: the father who had raised him, the mother who had loved him, the friends of his boyhood, the nights of song by the Yamuna. He had not forgotten; the distance was not of his choosing; the love was kept, as surely as they had kept it.\n\nAnd then Balarama stayed. For two months he remained in Vraja, through the spring months of Madhu and Madhava. He sported with the gopis in the groves of the Yamuna; the days passed in play and song, and the nights in the light of the full moon, with the wind carrying the scent of flowers through the trees. Vraja had its prince back, and the women who had pined for Krishna learned that his brother carried his heart in his words. When at last the time came to leave, there was not a house in the village that did not stand at its door to watch him go.",
+ "reflection": "The gopis' question — does Krishna remember us? — is answered not with assurances but with messages carried in a brother's heart, and with two months of staying. Balarama's visit heals the wound of the departure not by explaining it but by showing that the love survived the distance.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Gopis",
+  "Nanda",
+  "Yashoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "reunion",
+  "separation",
+  "comfort"
+ ],
+ "previous_story_id": "DKS_0351",
+ "next_story_id": "DKS_0353",
+ "next_story_tease": "But one night in those two months, Balarama would summon the Yamuna herself — and the river would learn what it cost to refuse him.",
+ "hero_scene": "In the cow-pens of Gokula: Balarama surrounded by the gopas and gopis of Vraja, the old cowherds embracing him while the women press forward with questions about Krishna, the spring groves of the Yamuna bright behind them.",
+ "visual_elements": [
+  "Balarama arriving alone on the road to Vraja",
+  "the gopas and gopis rushing out to embrace him",
+  "the elders welcoming him with tales of his deeds",
+  "the gopis asking whether Krishna remembers his father, mother and friends",
+  "Balarama speaking Krishna's messages, the women's faces brightening",
+  "two months of spring: full moon nights over the Yamuna groves"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.65.1-17",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.102",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.24",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:39Z",
+  "source_event_id": "evt_0004",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

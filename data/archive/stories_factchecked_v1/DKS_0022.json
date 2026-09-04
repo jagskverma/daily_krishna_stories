@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0022",
+ "title": "Vasudeva's Warning",
+ "subtitle": null,
+ "story": "Vasudeva would not let his guest sit as a stranger. He honored Nanda, seated him comfortably, and asked after his health with a warmth that went far beyond politeness. The two men were not brothers by blood, but they spoke as men who had carried the same secret for so long that it had bound them closer than blood ever could.\n\n\"It is fortunate, brother,\" Vasudeva said, \"that you, who for so many years had no child, now have a son. The wheel of this world turns strangely, and a man cannot always keep the company of those he loves in one place. The friendship of dear ones does not stay fixed in a single spot, for each of us is carried along by his own strange fortune. It is a mercy, then, that a child has come to your house at last, to be the joy of your later years.\"\n\nHe asked then after the settlement — whether the cattle were free of disease, whether the water and the grass were plentiful — and Nanda answered that the herds were healthy and the pastures green. And more softly still, Vasudeva asked after his own sons, the two boys being raised in Nanda's care in Vraja, and after the mother who was with them. A man's true wealth, he said, is not his goods but his friends, and through friends every aim a man holds in life is fulfilled. So he leaned forward and asked after the boys the way a father asks, not the way a guest does.\n\nNanda assured him they were well. He spoke with the calm of a man who trusts in what he cannot see, and he added, as if to steady them both, that the affairs of men are ruled by forces no one can fully foresee, and that even a king's cruelty is only the working of some unseen fate.\n\nBut his calm could not reach the unease that had been building in Vasudeva. The older man's thoughts had already passed from greeting to something harder to say, and at last he said it.\n\n\"Do not linger in Mathura,\" he told him. \"Great disturbances are rising in Gokula. Evil omens are gathering there, and they will not wait for your return. Go back quickly, while the road is still open to you.\"\n\nThere was no anger in the words, only the urgency of a man who saw a shadow others did not. Nanda heard it and did not argue. He did not stay to finish what a longer visit might have held. He gathered his men, hitched their carts, and set out at once for Gokula, carrying with him a warning he could not fully understand and a fear he could not yet name.",
+ "reflection": "Vasudeva's warning is remarkable because he asks after the boys' welfare before he speaks of the danger. His first thought is not the threat but the children, and his warning comes wrapped in affection rather than alarm.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Vasudeva",
+  "Nanda"
+ ],
+ "locations": [
+  "Mathura",
+  "Gokula"
+ ],
+ "themes": [
+  "forewarning",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0021",
+ "next_story_id": "DKS_0023",
+ "next_story_tease": "The danger Vasudeva feared was already drawing near Gokula.",
+ "hero_scene": "Seated close together indoors, Vasudeva leans toward Nanda with urgent concern, one hand raised in warning, while Nanda listens gravely; beyond them, hitched carts and cattle wait for the hurried return to Gokula.",
+ "visual_elements": [
+  "Vasudeva speaking in warning",
+  "Nanda listening gravely",
+  "seated conversation indoors",
+  "cattle and carts ready for the road",
+  "mood of quiet foreboding"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.5.21-32",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:20:31+05:30",
+  "source_event_id": "evt_0036"
+ },
+ "editorial_status": "unreviewed"
+}

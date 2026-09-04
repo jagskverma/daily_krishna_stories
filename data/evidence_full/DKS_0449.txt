@@ -1,0 +1,29 @@
+# STORY DKS_0449 — The Kurukshetra War
+
+## Index entry
+title: The Kurukshetra War
+summary: Uddhava recalls how the earth shook at Kurukshetra as the armies of the warring cousins gathered, and how Duryodhana lay at the last with his thigh broken, the burden of the earth lifted by Krishna's design.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Duryodhana, the Pandavas, the Kauravas
+locations: Kurukshetra
+themes: war, the fall of Duryodhana, the lifting of the earth's burden
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0416
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 11-12 | confidence 5
+  excerpt: Uddhava said: 'The earth trembled at Kurukshetra beneath the armies of the kings who fell on either side; and Suyodhana, with his followers, lying with his thigh broken, he did not rejoice to see.' (rendered from Sanskrit, verses 11-12)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (11-12)
+11. atha te bhrātṛ-putrāṇāṃ pakṣayoḥ patitān nṛpān /
+12. sa karṇa-duḥśāsana-saubalānāṃ kumantra-pākena hata-śriyāyuṣam /
+
+## Corpus chain
+previous_story_id: DKS_0448 | next_story_id: DKS_0450
+previous title: Bhishma's Passing in Krishna's Presence
+next title: Krishna Names Dhrishtadyumna Commander of the Pandava Army

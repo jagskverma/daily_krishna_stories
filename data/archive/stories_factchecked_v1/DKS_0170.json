@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0170",
+ "title": "Twenty-Three Armies Against Mathura",
+ "subtitle": null,
+ "story": "The two widows came to their father's court the way grief comes: slowly, and with everything already known. Asti and Prapti, the daughters of Jarasandha, had been given in marriage to Kamsa of Mathura; now they stood before the king of Magadha and told him of their widowhood. Jarasandha heard the unwelcome news, and grief and anger rose in him together.\n\nHe had owed Kamsa a debt. The dead king had been his son-in-law and his ally — the son of Ahuka who, chaining his own father, had ruled Mathura with Jarasandha's backing, depending on his help and disregarding the Yadavas. He had been the one man who held the Yadava race in check while Jarasandha gathered the world's kings into his prisons. Now the debt was unpaid, and the Yadavas had killed the man with whom he had shared it; and when the vicious-souled Kamsa was slain by Rama and Krishna, Ugrasena, encircled by the Bhojas, Vrishnis and Andhakas, had become king in his place. Jarasandha resolved to make the earth free of Yadavas — to wipe the whole race of the Yadus away in a single campaign. Burning like fire in anger, and making every possible arrangement, the king of Magadha started for Mathura in no time at all.\n\nAnd the kings he had conquered came with him — out of jealousy toward Janardana, or out of fear of Jarasandha, or simply because he had beaten them and they had nowhere else to stand. All the highly energetic warrior kings who had been defeated and subjugated by his prowess, and all who were his friends, relatives, kinsmen and allies, followed him with their own armies, each encircled by his own forces and eager to please him. Dantavakra of Karusha, the powerful king of Chedi, the king of Kalinga, Bhishmaka and his son Rukmi, the kings of Anga and Vanga, of Koshala and Kashi and Dasharna, Bhagadatta the lord of the Yavanas, Suvala of Gandhara, Duryodhana and the other sons of Dhritarashtra — king after king, mighty car-warriors every one, followed him, each encamping in his own order. They entered the province of Shurasena, a country of barley and fuel, and the command went out: let the armies of the kings united lay siege on all sides to this city.\n\nTwenty-three akshauhinis ringed Mathura — armies measured not in men alone but in chariots, elephants and horses, so many that the horizon turned to dust and metal, and the ground under the city's walls seemed to shake with the weight of them. From the walls, Krishna looked at that host as it settled around them like a sea risen over its banks, an ocean driven past its shore.\n\nAnd the blessed Hari, who had taken a human body as his means of working in the world, thought long and carefully. The old scriptures call him kāraṇa-mānuṣaḥ — the one whose humanity is an instrument, chosen for this work. He did not turn the siege away with a gesture, or wish the army gone. He looked at it the way a man looks at a problem he means to solve, weighing the twenty-three armies, and the kings behind them, and the city, and the people inside it.\n\nAround the walls, the fires of the besieging host burned through the night, ringing Mathura like a second horizon. The siege had begun, and the first night of it belonged to the besiegers. And in the city, Krishna was still thinking — because he had come to this world to act in human ways, and a human king, seeing such an army, must first decide what he is willing to do.",
+ "reflection": "Krishna meets the greatest army ever raised against him not with a miracle but with deliberation. The old phrase kāraṇa-mānuṣaḥ — one whose humanity is his instrument — is the point: he refuses to solve the siege by sheer divinity, choosing instead to think, plan, and act as a man among men.",
+ "tradition_note": "The Vishnu Purana compresses this whole conflict into one line — Jarasandha attacked eighteen times and was routed each time — while the Harivamsha narrates the march and the siege separately and gives the invading force six divisions. This story follows the Bhagavata Purana's number of twenty-three akshauhinis.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Jarasandha",
+  "Krishna",
+  "Balarama",
+  "Asti",
+  "Prapti"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "vengeance",
+  "war",
+  "siege"
+ ],
+ "previous_story_id": "DKS_0169",
+ "next_story_id": "DKS_0171",
+ "next_story_tease": "And as Krishna thought, a divine chariot with celestial weapons was descending from the sky toward Mathura.",
+ "hero_scene": "Krishna on the walls of Mathura gazing out at Jarasandha's encircling army of twenty-three akshauhinis, spread across the plain like a risen sea, its campfires already burning against the dusk.",
+ "visual_elements": [
+  "Mathura's walls at dusk",
+  "Jarasandha's encircling army of twenty-three akshauhinis",
+  "the fires of the besiegers' camp",
+  "Krishna deep in thought",
+  "Asti and Prapti at Jarasandha's court",
+  "the weight of the siege"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.50.1-5",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.89",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.22",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:04Z",
+  "source_event_id": "evt_0165"
+ },
+ "editorial_status": "unreviewed"
+}

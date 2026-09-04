@@ -1,0 +1,117 @@
+# STORY DKS_0072 — Krishna Leaps into Kaliya's Poisoned Pool
+
+## Index entry
+title: Krishna Leaps into Kaliya's Poisoned Pool
+summary: Seeing the Yamuna polluted by the serpent Kaliya's venom, Krishna climbs a kadamba tree and plunges into the deep poisoned pool to subdue him.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Krishna, Kaliya
+locations: Yamuna river
+themes: purification, courage
+festival_tags: Naga Panchami
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0069
+variant_notes: VP 5.7 also includes the biting and the despair of the watchers.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 16 | verses 3-5 | confidence 5
+  excerpt: Determined to cleanse the Yamuna of Kaliya's poison, Krishna climbs a tall kadamba tree, slaps his arms, and dives into the serpent's deep and venomous pool. (rendered from Sanskrit, verse 3-5)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 67 | verses  | confidence 4
+  excerpt: Climbing up to the top of the tree and emitting a leonine roar the cloud-hued and lotus-eyed Krishna jumped headlong down into the lake.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 7 | verses  | confidence 4
+  excerpt: he bound his clothes tightly about him, and jumped boldly into the lake of the serpent-king... Coiling themselves around Krishńa, they all bit him with teeth from which fiery poison was emitted.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.16 (3-5)
+3. bhp_10.16.004/0 śrī-śuka uvāca
+4. vipruṣmatā viṣadormi- mārutenābhimarśitāḥ /
+5. taṃ caṇḍa-vega-viṣa-vīryam avekṣya tena $ duṣṭāṃ nadīṃ ca khala-saṃyamanāvatāraḥ &amp;kṛṣṇaḥ kadambam adhiruhya tato 'ti-tuṅgam % āsphoṭya gāḍha-raśano nyapatad viṣode
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.67 ()
+TITLE: KRISHNA SUBDUES KALYA
+
+Vaishampayana said:—Thinking thus Krishna repaired to the bank of the
+river. Tying his cloth firmly he, with delight, got upon the Kadamba
+tree (1). Climbing up to the top of the tree and emitting a leonine roar
+the cloud-hued and lotus-eyed Krishna jumped headlong down into the lake
+(2). That lake, of the river Yamunā, was agitated by his fall. And the
+water thereof overflowed (on all sides) like scattering clouds (3). The
+huge abode of the serpent (Kālya) was shaken by that sound. And the
+serpents, with their eyes reddened with anger, rose up from the water
+(4). Thereupon was seen the king of serpents Kālya endued with the hue
+of clouds, having eyes reddened with ire, five hoods, a fiery
+countenance and tongue and effulgent like the flames of fire (5–6). The
+entire lake was covered with his hood burning like fire and five huge
+and dreadful faces were seen above (the water) (7). When that king of
+serpents was burning in his energy and anger the water there appeared as
+if boiling and the river Yamunā, stricken with fear, flew in her
+opposite course (8). Beholding Krishna coming to the lake and sporting
+like a boy he had powerful winds issue out of his mouth filled with the
+fire of anger (9). Scintiliations of fire, accompanied by smoke, came
+out from the mouth of that king of serpents. All the huge trees, which
+were grown on the bank near him, were in no time consumed by the fire of
+anger discharged by that king of serpents, resembling the very
+incarnation of the end of a Yuga.²¹² Thereupon his son Dāra and his
+servants, the other leading serpents of incomparable energy, came there
+vomitting the dreadful fire of venom accompanied by smokes (10-12).
+Thereupon they made Krishna enter into a circle of their hoods. Having
+his hands and feet made incapable of putting forth any exertion he stood
+there motionless like a mountain (13). The leading serpents began to
+sprinkle Krishna with water vitiated by their teeth. The powerful
+Krishna however did not die (14). In the meantime the cow-herd boys,
+filled with fear, returned weeping to Vraja and with suppressed voice
+said (15):
+
+"Out of foolishness Krishna is drowned in the lake Kālya. The king of
+serpents is devouring him. Do ye all come without delay (16). Do ye
+speedily go and communicate to Nanda and his followers that Krishna is
+being dragged into the lake by the serpent" (17).
+
+Hearing those words like unto the fall of a thunderbolt the milk-man
+Nanda was greatly distressed with sorrow and speedily went to that most
+excellent lake (18). All the inhabitants of Vraja, accompanied by the
+youthful Sangkarshana, boys, old men and young ladies, arrived at the
+watery abode of that king of serpents (19). Having reached the the bank
+of that lake all the milkmen, headed by Nanda, stricken with shame,
+surprise and sorrow, began to bewail with their eyes full of tears. Some
+cried, exclaiming "Oh, son!" while others said "Alas! woe to us!"
+(20–21). Whereas others, assailed greatly by fear, cried "Alas! We are
+all slain!" The women, crying aloud, said to Yashodā "Alas! We are all
+killed. Behold your son brought under the control of the king of
+serpents. He is trembling there as if churned, like ambrosia, by the
+hood of the serpent (22–23). Forsooth, your heart is made of stone,
+since it is not breaking assunder even beholding your son in this plight
+(24). See, the milkman Nanda, filled with grief, is standing on the bank
+of the lake like one unconscious, fixing his look on the face of his son
+(25). Following Yashodā we shall rather enter into this lake, the abode
+of the serpents. And still we will not return to Vraja without Dāmodara
+(26). Without Krishna Vraja shall never appear beautiful like the day
+shorn of the sun, or the night shorn of the moon or the cow divorced
+from the bull. Separated from Krishna we shall not go there like a cow
+without her calf" (27).
+
+Hearing the lamentations of the male and female inhabitants of Vraja,
+and of Nanda and the cries of Yashodā, Sangkarshana, who though of one
+mind, one body and one intelligence, was still a separate person, said
+in anger to Krishna (28–29):—"O Krishna, O thou of large-arms, O thou
+who dost enhance the delight of the milkmen, do thou soon destroy this
+venomous serpent-king (30). O my brother, O my lord, all these our
+relations have human understandings and so they are bewailing for thee
+considering thee a human being" (31).
+
+Hearing those wise words of Rohini’s son, Krishna sportively raised up
+his arms and rose up snapping the fetters of the serpents (32). And
+placing his feet on the hoods of the serpent-king that were above the
+water he got hold of his bead with his hands (33). Then rising up, by
+force, on his middle head, Krishna, who was adorned with a beautiful
+Angada, began to dance there (34). Thus grinded by Krishna the hoods of
+that serpent-king became pale and blood came out therefrom. (Kālya) then
+with dreadful accents said to him (35). "O Krishna of a beautiful
+countenance,
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0071 | next_story_id: DKS_0073
+previous title: Krishna Revives the Cowherds from Poisoned Water
+next title: Kaliya Coils Around Krishna and Vraja Despairs

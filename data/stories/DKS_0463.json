@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0463",
+ "title": "The Name of Bhishma's Slayer",
+ "subtitle": null,
+ "story": "At Kurukshetra, where the five Pandava brothers and their cousins the Kauravas had brought their long quarrel to war, the first day of fighting had gone badly for the Pandavas. Bhishma, the grandsire of the whole Kuru family and the greatest bowman of his age, fought for the Kauravas, and his arrows had swept through the Pandava ranks like a storm. When the armies drew apart at evening, Duryodhana, the eldest Kaurava, was delighted with the day.\n\nKing Yudhishthira, the eldest of the Pandavas, came to Krishna with all his brothers and all the kings of his side, and his grief was plain on his face. He had watched his army burning all day, and he could not see how it would end.\n\n\"Look at Bhishma,\" he said. \"He consumes my troops like fire eating dry grass. He licks up my army like a flame fed with clarified butter. My soldiers fly before him, pierced and stricken, and I cannot blame them. Yama himself might be overcome in battle, or Indra with his thunderbolt, Varuna with his noose, Kuvera with his mace, but Bhishma cannot be overcome. I am sinking in a fathomless ocean, and there is no boat to carry me.\"\n\nHis voice grew heavier as he went on. \"Out of the weakness of my understanding I will retire into the woods,\" he said, \"rather than give these lords of the earth over to Death in the form of Bhishma. My brothers gave up their kingdom and their happiness out of love for me, their eldest, and now they are pierced with arrows for my sake. For the rest of my days I will practise the hardest austerities. I will not let my friends be slain for me.\"\n\nThen he looked at his own camp and found it wanting. Arjuna, he said, had stood through the battle like an indifferent watcher. Only Bhima had truly fought, remembering the duty of a warrior, achieving the hardest feats with his mace among foot soldiers and horsemen, chariots and elephants, and even Bhima could not destroy the enemy host in a fair fight in a hundred years. Bhishma and Drona, their celestial weapons never resting, were consuming the warrior nations of the earth. \"Tell me, Krishna, what is to be done,\" he said. \"Look for the great bowman who can give Bhishma his end, as rain clouds quench a forest fire. Through your grace we may yet win back our kingdom and be happy with our kinsmen.\"\n\nThen the king fell silent, his mind turned inward, and for a long while no one spoke.\n\nKrishna answered the grief before he answered the argument. \"Do not grieve,\" he said. \"Your brothers are heroes, bowmen renowned across the world. I am working for your good, and so are Satyaki, and Virata and Drupada, both honoured kings of ripe years, and Dhrishtadyumna of Prishata's line. All these monarchs with their troops are devoted to you and look for your favour. Your commander, Dhrishtadyumna, desires only your welfare. And this Sikhandin, a prince of the Panchala host, is the one appointed to be the slayer of Bhishma.\"\n\nThe name fell into the silence like a stone into still water. Krishna did not say how, or when, or by what means; he said only that it was so. And Yudhishthira, who an hour before had been ready to trade his crown for a hermit's bowl, felt the despair in his chest begin to loosen. If Bhishma had a slayer, then the war had an end, and the end was not the ruin he had watched all day.\n\nIn that same assembly, with Krishna listening, the king turned to his commander. \"Dhrishtadyumna,\" he said, \"mark these words that I say to you. My words must not be set aside. With Krishna's approval you have been the commander of our forces.\"\n\nAn hour before, he had been speaking of the woods. Now he was giving orders for the war. The despair had not vanished, but it had found its limit, and the king who had been sinking had been handed a boat.",
+ "reflection": "Yudhishthira's despair is the particular weight of leadership: he watches his brothers and allies burn for his sake and cannot bear to spend them. Krishna does not argue him out of his grief; he hands him a single fact, that Bhishma's fall has a name, and the fact is enough. Knowing that the end is already appointed, and that it will come through Sikhandin, is what lets the king sleep and stand again.",
+ "tradition_note": null,
+ "content_note": "Depicts the aftermath of a day of battle, with descriptions of an army being devastated by arrows; intense but not graphic.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Bhishma",
+  "Sikhandin"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "consolation",
+  "counsel",
+  "destiny"
+ ],
+ "previous_story_id": "DKS_0462",
+ "next_story_id": "DKS_0464",
+ "next_story_tease": "The next morning, Krishna would drive Arjuna's chariot straight at Bhishma.",
+ "hero_scene": "At nightfall on the field of Kurukshetra, Krishna stands before the grieving Yudhishthira, surrounded by his brothers, and speaks the name Sikhandin, the destined slayer of Bhishma, as the king's despair begins to lift.",
+ "visual_elements": [
+  "Yudhishthira bowed with grief, his brothers gathered around",
+  "Krishna speaking with quiet assurance before the king",
+  "the battlefield at dusk, the troops withdrawn",
+  "Bhishma in the distance, a figure of terrible power",
+  "the king's face changing as he hears the name Sikhandin",
+  "Yudhishthira turning to address Dhrishtadyumna"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.50",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:10Z",
+  "source_event_id": "evt_0487",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

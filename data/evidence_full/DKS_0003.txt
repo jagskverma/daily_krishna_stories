@@ -1,0 +1,110 @@
+# STORY DKS_0003 — The Doom Prophecy Warns Kamsa of Devaki's Eighth Child
+
+## Index entry
+title: The Doom Prophecy Warns Kamsa of Devaki's Eighth Child
+summary: At Vasudeva's wedding procession, Kamsa drives the chariot and hears a bodiless voice declare that Devaki's eighth child will slay him.
+life_stage: birth | story_arc: prophecy_of_kamsa
+characters: Kamsa, Vasudeva, Devaki
+locations: Mathura
+themes: prophecy, fate, fear
+festival_tags: Janmashtami
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0017
+variant_notes: BP/VP: a bodiless heavenly voice warns at the wedding; HV: Narada delivers the warning. VP 5.1 also folds in the pacification beat.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 1 | verses 28-33 | confidence 5
+  excerpt: As Kamsa drives the chariot bearing the newly-wed Vasudeva and Devaki, a bodiless voice warns him: the eighth child of the woman he escorts will be his death. (rendered from Sanskrit, verse 28-33)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 56 | verses  | confidence 4
+  excerpt: The child, of the eighth conception of your youngest sister Devaki who lives in Mathura, will be your death.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 1 | verses  | confidence 4
+  excerpt: As they were going along, a voice in the sky, sounding aloud and deep as thunder, addressed Kansa, and said, "Fool that you are, the eighth child of the damsel whom you are driving in the car shall take away your life!" On hearing this, Kansa drew his sword, and was about to put Devakí to death; but Vasudeva interposed.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.1 (28-33)
+28. tasyāṃ tu karhicic chaurir vasudevaḥ kṛtodvahaḥ /
+29. ugrasena-sutaḥ kaṃsaḥ svasuḥ priya-cikīrṣayā /
+30. catuḥ-śataṃ pāribarhaṃ gajānāṃ hema-mālinām /
+31. dāsīnāṃ sukumārīṇāṃ dve śate samalaṅkṛte /
+32. śaṅkha-tūrya-mṛdaṅgāś ca nedur dundubhayaḥ samam /
+33. pathi pragrahiṇaṃ kaṃsam ābhāṣyāhāśarīra-vāk /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.56 ()
+TITLE: KANSA IS INFORMED OF HIS DEATH BY NARADA
+
+Vaishampayana said:—Being informed of the descension of Vishnu and of
+the portions of other gods, the celestial saint Nārada repaired to the
+city of Mathurā to communicate the future death of Kansa (1). Coming
+down from the celestial region and arriving at the garden of Mathurā,
+that foremost of Munis sent a messenger to Kansa, the son of Ugrasena
+(2). He communicated the arrival of the Muni at the garden. Hearing of
+the arrival of Nārada, that Asura, having lotus-like eyes, speedily went
+out of his city. He saw there his guest, the praiseworthy Brāhmana saint
+Nārada, shorn of all sins, powerful like the sun and effulgent like
+fire. Having bowed unto him and worshipped him duly he brought for him a
+golden seat shining like fire. That Muni, the friend of Sakra, sat on
+that seat (3–6).
+
+He then said to the highly wrathful son of Ugrasena:—O hero, you have
+duly worshipped me with works laid down in the scriptures. Hear now and
+accept what I say. O my son, ranging in Nandana and Chaitraratha
+gardens, in Brahmā and other celestial regions I arrived at the great
+mount Sumeru, the friend of the sun (7–9). The gods also followed me.
+Having bathed in the holy water of all the sacred rivers I saw the
+celestial Gangā of three courses and streams, who dissipates all sins as
+soon as she is recollected. Thereupon having bathed, in order, at all
+those sacred shrines I saw Brahmā’s palace, resorted to by the Brāhmana
+saints and filled with the music of the gods, Gandharvas and Apsaras
+(10-12).
+
+Once on a time the Grand-Father held a meeting of the gods on the summit
+of the mount Sumeru. I, too, taking up my Vinā, set to tune, came to
+that meeting of Brahmā and saw that the Grand-Father and the gods,
+adorned with white turbans and diverse jewels, and seated on celestial
+seats, were holding counsels (13–14). O great king, I heard there that
+they, with their followers, were concerting dreadful measures for your
+destruction (15). The child, of the eighth conception of your youngest
+sister Devaki who lives in Mathurā, will be your death (16). O hero, it
+has been ascertained that your death will proceed from that self-born
+(Vishnu) who is the stay of heaven, is the great mystery of the gods and
+is identical with all (17), O Kansa, to meet with death at the hands of
+that god of Gods, as has been settled upon, is a matter of glory to you.
+Therefore remember him now. Try to destroy the conception of Devaki and
+enjoy all your wealth and articles of pleasure. I love you very much and
+therefore I have come here and described to you what took place on the
+summit of the mount Sumeru. I; now leave you. May you fare well (17–20).
+
+Vaishampāyana said:—After Nārada had said this and gone away Kansa,
+meditating on his words, began to laugh aloud with his lips open, and
+smilingly said to his servants who were before him. "Truly the gods make
+fun with Narada and he has no knowledge of things (21–22). Even when I
+am seated on my throne, asleep, mad or intoxicated, the gods headed by
+Vāsava cannot terrify me the least (23). Who is there in the land of men
+who can dare make me angry? I can even agitate the earth with these two
+my huge arms (24). From to-day I shall greatly oppress men, beasts,
+birds and all other creatures who follow the gods (25). Do ye issue this
+command to Keshi, in the shape of a horse, Pralamva, Dhenuka, Aristha,
+in the form of a bull, Putanā, Kaliya and other demons (26). Assuming
+diverse forms do ye range all over the world and destroy them whom you
+will find against me (27). Nārada has said that our fear proceeds from
+conception and therefore you should always be informed of the movements
+of all those who have been conceived by women (28). When I am your
+master you need not be afraid of any accidental calamity. Therefore
+freed of all anxiety do ye enjoy objects of pleasure of your own accord
+(29). Narada is greatly fond of quarrels and is intent on creating
+dissensions. In order to set one against another that Brāhmana, with a
+restive mind, travels in all the worlds, creates dissensions even
+amongst men of highly quiet temparament and works out enmity amongst
+kings by various means" (30–31).
+
+Having vauntingly said this Kansa entered his own palace but his heart
+was burning with the fire of anger (32).
+
+## Corpus chain
+previous_story_id: DKS_0002 | next_story_id: DKS_0004
+previous title: Vishnu Promises to Descend into the House of Vasudeva
+next title: Vasudeva Pacifies Kamsa and Promises to Surrender His Sons
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

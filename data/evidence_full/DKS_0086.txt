@@ -1,0 +1,33 @@
+# STORY DKS_0086 — Seven Days Beneath Govardhana
+
+## Index entry
+title: Seven Days Beneath Govardhana
+summary: The cowherds shelter beneath the hill for seven days while Krishna holds it, until Indra relents.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Krishna, cowherds, cattle
+locations: Govardhana
+themes: refuge, endurance
+festival_tags: Govardhan Puja
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0098
+variant_notes: Folded into 'govardhana_lift' in HV/VP.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 25 | verses 20-25 | confidence 5
+  excerpt: Krishna told the cowherds to enter the hollow beneath the hill with their cattle without fear, and he held the mountain for seven days without moving from his place; Indra, astonished, checked his clouds. (rendered from Sanskrit, verses 19-23)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.25 (20-25)
+20. na trāsa iha vaḥ kāryo mad-dhastādri-nipātanāt /
+21. tathā nirviviśur gartaṃ kṛṣṇāśvāsita-mānasaḥ /
+22. kṣut-tṛḍ-vyathāṃ sukhāpekṣāṃ hitvā tair vraja-vāsibhiḥ /
+23. kṛṣṇa-yogānubhāvaṃ taṃ niśamyendro 'ti-vismitaḥ /
+24. khaṃ vyabhram uditādityaṃ vāta-varṣaṃ ca dāruṇam /
+25. niryāta tyajata trāsaṃ gopāḥ sa-strī-dhanārbhakāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0085 | next_story_id: DKS_0087
+previous title: Krishna Lifts Govardhana Hill
+next title: Krishna Restores the Hill and the Cowherds Rejoice

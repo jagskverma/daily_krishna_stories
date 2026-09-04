@@ -1,0 +1,35 @@
+# STORY DKS_0064 — Krishna Reveals His Supreme Abode
+
+## Index entry
+title: Krishna Reveals His Supreme Abode
+summary: Krishna shows the cowherds his own abode beyond darkness, the eternal Brahman-light.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, cowherds
+locations: Vrindavan
+themes: revelation, liberation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0105
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 28 | verses 9-16 | confidence 5
+  excerpt: Nanda told his kinsmen of the wondrous honor shown by the lord of the waters; and Krishna, wishing to grant his people's desire, revealed to the cowherds his own abode beyond darkness, the eternal light of Brahman. (rendered from Sanskrit, verses 9-15)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.28 (9-16)
+9. nandas tv atīndriyaṃ dṛṣṭvā loka-pāla-mahodayam /
+10. te cautsukya-dhiyo rājan matvā gopās tam īśvaram /
+11. iti svānāṃ sa bhagavān vijñāyākhila-dṛk svayam /
+12. jano vai loka etasminn avidyā-kāma-karmabhiḥ /
+13. iti sañcintya bhagavān mahā-kāruṇiko hariḥ /
+14. satyaṃ jñānam anantaṃ yad brahma-jyotiḥ sanātanam /
+15. te tu brahma-hradam nītā magnāḥ kṛṣṇena coddhṛtāḥ /
+16. nandādayas tu taṃ dṛṣṭvā paramānanda-nivṛtāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0063 | next_story_id: DKS_0065
+previous title: Nanda Is Seized by Varuna and Rescued
+next title: Shankhachuda Abducts the Gopis

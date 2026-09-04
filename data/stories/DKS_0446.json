@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0446",
+ "title": "The Weapon Only Krishna Could Name",
+ "subtitle": null,
+ "story": "The war was over — the long war between the five Pandava brothers and their cousins the Kauravas — and that was when the killing happened.\n\nIn the dark hours after the armies had stopped fighting, one warrior of the beaten side slipped into the sleeping camp of the Pandavas: Ashvatthama, son of Drona, the master of weapons who had trained the princes of both houses to fight. Ashvatthama moved through the tents meaning to do what would please his master, whose cause had just been lost in the war, and he came at last to the tent where the sons of Draupadi lay asleep — Draupadi, wife of the Pandava brothers. He killed them where they lay. When the camp woke, Draupadi heard of the death of her sons and grieved as a mother grieves.\n\nKrishna went to her and comforted her. \"I will wipe away this sorrow of yours, good lady,\" he said, \"with the head of that unworthy son of a brahmin, the assailant who struck without warning.\" In that age a brahmin belonged to the priestly class, the teachers and keepers of sacred learning. A promise, once spoken, is a thing that must be carried out.\n\nArjuna took up the pursuit at once, Krishna himself driving his chariot. The chase ran long across the darkening plain, and the horses were failing, their strength spent, when Arjuna saw the man he hunted stop at last and turn to face him, far off. Ashvatthama was not the kind of man to be cornered without recourse. He was Drona's son, schooled in the secret science of weapons, and he had one weapon left that no arrow could answer. He released it.\n\nThe night came apart. A terrible fire blazed up in every direction at once — not a flame to be aimed at or dodged, but a burning that filled the sky from horizon to horizon, so that the whole field stood in glare. In that light Arjuna saw himself for what he was: a man without refuge, his horses spent, his weapons useless against a fire that no steel could stop.\n\nHe did not reach for another arrow. He turned to the friend beside him, as a man turns in his last extremity, and his cry went up out of the burning: \"Krishna, Krishna! You alone are the rescue of those being burned!\" And in the terror of that moment he said what his heart had always known: that Krishna was the first of beings, the Lord himself, above the nature he had made; that the whole living world went about deluded by his power of illusion; and that this coming of his into the world was for the lifting of the earth's burden. \"What is this,\" he cried, \"and where does it come from? God of gods, I do not know.\"\n\nKrishna answered calmly, as though the sky were not on fire. \"Know this to be the brahma weapon of Drona's son,\" he said. \"It is one of the great weapons of Brahma, the creator. He does not know how to recall it. Only an astra can quell an astra — only one divine weapon can turn aside another.\"\n\nSo Arjuna, touching water as the rite requires, discharged his own weapon to meet it. The two fires met in the middle of the field, wrapped in a storm of arrows, and their meeting was more terrible than either alone. Together they blazed so fiercely that the three worlds stood in peril — the creatures of the earth and the dwellers of heaven alike threatened by that burning, the very order of the worlds about to be consumed.\n\nAnd then, at Krishna's word, Arjuna withdrew both weapons — his own and the one that had been loosed against him. The two fires sank, the glare drained out of the sky, and the field was night again, quiet in the way a place is quiet after lightning.\n\nArjuna stood a long while in the dark, trembling from a terror he would not forget. In the camp behind him a mother still wept, and a promise still waited to be kept.",
+ "reflection": "In the glare of a weapon no arrow could answer, Arjuna's fear turns naturally into worship: he does not ask for a technique but for refuge, and names Krishna the rescue of those being burned. And the rescue comes as Krishna's rescues often do — not by abolishing the crisis but by giving one clear instruction, and then the strength to draw back a fire no one else could recall.",
+ "tradition_note": null,
+ "content_note": "References Ashvatthama's night killing of Draupadi's sleeping sons and the blazing of divine weapons; the violence is recalled without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Ashvatthama",
+  "Draupadi"
+ ],
+ "locations": [
+  "Kurukshetra",
+  "the battlefield"
+ ],
+ "themes": [
+  "divine protection",
+  "war",
+  "devotion",
+  "crisis"
+ ],
+ "previous_story_id": "DKS_0445",
+ "next_story_id": "DKS_0447",
+ "next_story_tease": "But the camp had not yet delivered its judgment on Ashvatthama.",
+ "hero_scene": "Arjuna's chariot stands on a field of white glare as two blazing weapons meet in the sky above it, while Krishna, calm at the reins, raises one hand; behind them the dark camp waits.",
+ "visual_elements": [
+  "Ashvatthama stealing through the sleeping camp at night",
+  "Draupadi weeping while Krishna comforts her",
+  "the terrible blaze filling the sky in every direction",
+  "Arjuna crying out to Krishna in the glare",
+  "the two weapons meeting in a storm of arrows",
+  "Krishna's raised hand as the fires sink"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.7.12-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:00Z",
+  "source_event_id": "evt_0412",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

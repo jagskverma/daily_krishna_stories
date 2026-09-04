@@ -1,0 +1,105 @@
+# STORY DKS_0152 — Krishna Resolves to Abandon Mathura
+
+## Index entry
+title: Krishna Resolves to Abandon Mathura
+summary: Krishna decides to leave Mathura with Balarama and head south, to draw Jarasandha away and protect the city.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Krishna, Balarama
+locations: Mathura
+themes: strategy, sacrifice
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0169
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 95 | verses  | confidence 4
+  excerpt: 'Therefore although I am capable, I shall, at this very moment, fly away with the worshipful Baladeva for saving my life like one incapable.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.95 ()
+TITLE: KRISHNA MEETS WITH PARASURAMA
+
+Vaishampayana said:—Hearing the words of Vikadru the highly illustrious
+Vasudeva, with a delighted mind, said:—"O Krishna, what the intelligent
+Vikadru, the foremost of royal speakers, and conversant with the meaning
+of royal counsels has said, is true and well meaning. He has related
+royal duties and truths conducive to the well-being of the universe. Do
+what that foremost of Yadus has said (1-3)".
+
+Hearing the words of his father and of the high-souled Vikadru, Krishna,
+the foremost of men, gave vent to the following reasonable words (4). "I
+have listened to what you have said, surveying (the course of) the
+Providence according to reason, order, logic and scriptures (5). Hear
+the reply that I give and accept it after hearing. The king should
+behave according to order and moral laws (6). A king daily meditates on
+peace, quarrel, conveyance, seats, dissension-making and help (7). A
+learned king should not place himself before a powerful enemy, but
+rather should fly away. And in proper time and according to his strength
+he should engage in fight (8). Therefore although I am capable, I shall,
+at this very moment, fly away with the worshipful Baladeva for saving my
+life like one incapable (9). Ascending the mount Sahya beautiful like
+myself along with my reverend elder brother, I shall enter into Deccan
+and we shall behold the charming cities of Karavira and Krounch and the
+foremost of mountains Gomanta (10-11). Hearing of this our departure
+that Emperor, elated with success, will not enter into this city but
+rather will pursue us in pride. And repairing to the forest of Sahya
+with his followers he will endeavour to arrest us (12-13). Therefore
+this our departure is conducive to the well-being of the race of Yadu.
+By this, the Province, the city and the citizens will fare well (14).
+When an enemy flies away from his kingdom, the kings, desirous of
+achieving victory while in another kingdom, do not desist from fighting
+without killing the enemies (15)".
+
+After this conversation, the heroic Krishna and Sangkarshana, although
+capable, set out for the south without experiencing the least anxiety in
+mind (19). Assuming forms at will they began to travel in hundreds of
+southern kingdoms (17). Thereupon getting upon the charming mountain of
+Sahya and experiencing joy they reached the road leading to the south
+(18). Going by that road they, within a short time, reached the city of
+Karavira, presided over by the members of their own family and adorned
+with the mount Sahya. They saw there a huge fig tree on the bank of the
+river Venā (19–20). They saw there the eternal great ascetic Rāma, the
+descendant of Bhrigu who is never exhausted and like the sun on the
+mount Mandara milching his sacrificial cow with her calf ever giving
+milk whenever desired and white as the milky Arani tree near the mount
+Mahendra. He was seated at the foot of that tree, had his axe on his
+shoulder, wore bark and matted locks, was white as the flames of fire,
+effulgent like the sun, the destroyer of the Kshatriyas, motionless like
+the ocean, was preserving the three sacred fires, was emaciated with the
+performance of three oblations a day and was like the very preceptor of
+gods (21-26).
+
+Thereupon Krishna, the foremost of speakers and conversant with the
+history of men, addressed that foremost of Rishis, in sweet words saying
+(27):—"O Reverend Sir, I have known thee as the foremost of Rishis,
+Rāma, the son of Jamadagni born in the race of Bhrigu, and the destroyer
+of the Kshatriyas (28). O descendant of Bhrigu, having agitated the
+ocean with the velocity of thy shafts thou hast laid out a city by name
+Surpāra, two thousand cubits in breadth and one thousand in length. Thou
+hast laid out a great province in the prosperous groves of the Sahya
+mountain situated on the bank of the great ocean. Remembering the
+destruction of thy sire thou didst, with thy axe, chop off the thousand
+arms of Kārtavirya resembling a forest. Even now the Earth has her mud
+covered with the cool blood of the Kshatryas who were killed by thy axe
+and were shorn of effulgence. O son of Renukā, the axe remains here in
+the same way in which thou didst hold it in battle on earth out of anger
+against the Kshatryas. O Vipra, we wish to hear from thee some thing. Do
+thou reply to it without any hesitation of mind. O foremost of Munis,
+perhaps thou mightest have heard of two Yādavas living on the bank of
+the Yamunā. We are those two Yadavas living in Mathurā. From the very
+commencement of our birth, our father Vasuveda, the foremost of Yadus
+and ever observant of vows, afraid of Kansa, placed us in Vraja. There
+we grew up without any fear (29–37). As soon as we came of age we
+entered into Mathurā and powerfully destroyed the haughty Kansa in the
+assembly (38). Thereupon placing his father Ugrasena in his royal office
+we again, as before, engaged in the work of cow-herd boys (39). O thou
+of firm vows, thereafter when Jarāsandha laid seige to our c
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0151 | next_story_id: DKS_0153
+previous title: The Yadavas Counsel That Mathura Cannot Withstand Siege
+next title: Krishna Meets Parasurama, Who Counsels Gomanta

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0513",
+ "title": "The Serpent, the Spider and the Wasp",
+ "subtitle": null,
+ "story": "The serpent owns nothing — not even the hole it lives in. It does not dig; it enters a burrow another creature has abandoned, lies there without care, and moves on when the time comes, as homeless as it arrived. The burrow was never its own, and so nothing could be taken from it. It asked nothing of the earth, and the earth asked nothing of it. The avadhuta, the wandering brahmin who took the world for his guru, watched the serpent and made its way his own: he would wander alone, he said, and live in no house that he had built.\n\nHe had learned this from the serpent: building a house brings only sorrow. There is the labor of raising the walls, the worry of keeping them, the grief of leaving them — and all of it for a body that will not last. The sorrow of a house, he used to say, begins at the first brick and ends, if it ever ends, long after the walls have fallen. A man who knows the body is impermanent does not build as though he would live forever. A borrowed hole in the earth, used and left, is enough; the serpent had taught him that.\n\nThe spider taught him the deeper thing. From its own heart the spider sends out the thread; it spins from itself, the whole web drawn out of its own body and played into the air, and when it wishes it draws the thread back into itself again. It does not cling to the web; the web belongs to it, and when it withdraws the thread, nothing of the web remains. What the spider holds, it holds by its own power; nothing outside it supports the web. So it is, said the avadhuta, with the one Lord, Narayana, who alone is: the world is spun out of him by his own power, sustained by him, and in time drawn back into him, the way the web returns to the spider. Creation, preservation, dissolution — one thread, one spinner. The web is vast and beautiful, but the spider is not lost in it; it stays at the center, and the center is with the Lord always.\n\nThe wasp taught him about the mind. The wasp takes a living creature and seals it into the mud of a wall, and the creature, helpless in the dark, thinks of nothing but its captor — it broods on the wasp, its shape and its power, until it becomes like what it contemplates, and in time it is a wasp itself. So it is with the mind, said the avadhuta: it becomes what it dwells upon. A mind that dwells on the world becomes worldly; a mind that dwells on the Lord becomes like the Lord. There is no escaping that law; the only choice is what to meditate on. He would say that most men are exactly what they have been thinking of — and that they rarely choose what that is.\n\nThis was the avadhuta's last and deepest teaching, and he said it turned all his wanderings into a single practice: keep the mind fixed on the one Lord, as the wasp's captive was fixed on the wasp, and in time you become what you contemplate. He had counted twenty-four teachers in all — earth and wind and water, the pigeon and the python, the moth and the bee, the elephant and the deer, the maiden and the arrow-maker — and with the serpent, the spider, and the wasp the count was complete. And all of them, he said, had pointed to the same place: past the creatures, to the one who spins them out and draws them back. It was a strange end to a list that had begun with the earth underfoot.",
+ "reflection": "The wasp's captive becomes what it dwells upon, and for the avadhuta that was the heart of all his wandering: the mind given to the one Lord becomes like him, just as the world spun from the spider's heart returns to it. The last of his teachers turned his eyes from the creatures to their source.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the avadhuta",
+  "the serpent",
+  "the spider",
+  "the wasp"
+ ],
+ "locations": [
+  "a forest road"
+ ],
+ "themes": [
+  "homelessness",
+  "creation and withdrawal",
+  "meditation"
+ ],
+ "previous_story_id": "DKS_0512",
+ "next_story_id": "DKS_0514",
+ "next_story_tease": "The avadhuta's list of twenty-four teachers ended with the wasp, and Krishna had one more teaching for Uddhava — the story of a swan and the four Kumaras.",
+ "hero_scene": "In the first light of morning a spider sits at the center of its web and draws the thread back into itself, while the wandering teacher watches below, seeing in the drawn thread the world returning to its source.",
+ "visual_elements": [
+  "the serpent entering an abandoned burrow",
+  "a spider spinning thread from its own body and drawing it back",
+  "the web glowing in the first light of morning",
+  "the wasp sealing a captive into the mud of a wall",
+  "the wandering teacher watching, motionless",
+  "a mood of stillness and contemplation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.9.13-22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:24Z",
+  "source_event_id": "evt_0533"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

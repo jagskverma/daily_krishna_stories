@@ -1,0 +1,39 @@
+# STORY DKS_0096 — The Wives Refuse to Return and Krishna Welcomes Them
+
+## Index entry
+title: The Wives Refuse to Return and Krishna Welcomes Them
+summary: The brahmana wives, granted Krishna's sight, refuse to return to their homes, and Krishna, pleased with their devotion, assures them of his grace and sends them back with their minds fixed on him.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: brahmana wives, Krishna
+locations: Vrindavan
+themes: devotion, surrender
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0089
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 23 | verses 20-31 | confidence 5
+  excerpt: Falling at Krishna's feet, the wives declare they have no refuge but him and will not return; Krishna welcomes them and, teaching that he is won by remembrance rather than by nearness, sends them home with hearts fixed on him. (rendered from Sanskrit, verse 20-31)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.23 (20-31)
+20. yamunopavane 'śoka nava-pallava-maṇḍite /
+21. śyāmaṃ hiraṇya-paridhiṃ vanamālya-barha- $ dhātu-pravāla-naṭa-veṣam anavratāṃse &amp;vinyasta-hastam itareṇa dhunānam abjaṃ % karṇotpalālaka-kapola-mukhābja-hāsam
+22. prāyaḥ-śruta-priyatamodaya-karṇa-pūrair $ yasmin nimagna-manasas tam athākṣi-randraiḥ &prāyaḥ-śruta-priyatamodaya-karṇa-pūrair $ yasmin nimagna-manasas tam athākṣi-randraiḥ &antaḥ praveśya su-ciraṃ parirabhya tāpaṃ % prājñaṃ yathābhimatayo vijahur narendra
+23. tās tathā tyakta-sarvāśāḥ prāptā ātma-didṛkṣayā /
+24. svāgataṃ vo mahā-bhāgā āsyatāṃ karavāma kim /
+25. nanv addhā mayi kurvanti kuśalāḥ svārtha-darśinaḥ /
+26. prāṇa-buddhi-manaḥ-svātma dārāpatya-dhanādayaḥ /
+27. tad yāta deva-yajanaṃ patayo vo dvijātayaḥ /
+28. bhp_10.23.029/0 śrī-patnya ūcuḥ maivaṃ vibho 'rhati bhavān gadituṃ nr-śaṃsaṃ $ satyaṃ kuruṣva nigamaṃ tava pada-mūlam & maivaṃ vibho 'rhati bhavān gadituṃ nr-śaṃsaṃ $ satyaṃ kuruṣva nigamaṃ tava pada-mūlam & prāptā vayaṃ tulasi-dāma padāvasṛṣṭaṃ % keśair nivoḍhum atilaṅghya samasta-bandhūn
+29. gṛhṇanti no na patayaḥ pitarau sutā vā $ na bhrātṛ-bandhu-suhṛdaḥ kuta eva cānye & gṛhṇanti no na patayaḥ pitarau sutā vā $ na bhrātṛ-bandhu-suhṛdaḥ kuta eva cānye & tasmād bhavat-prapadayoḥ patitātmanāṃ no % nānyā bhaved gatir arindama tad vidhehi
+30. bhp_10.23.031/0 śrī-bhagavān uvāca
+31. na prītaye 'nurāgāya hy aṅga-saṅgo nṛṇām iha /
+
+## Corpus chain
+previous_story_id: DKS_0095 | next_story_id: DKS_0097
+previous title: The Brahmanas' Wives Bring Food to Krishna
+next title: The Brahmanas Repent and Praise Krishna

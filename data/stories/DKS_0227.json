@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0227",
+ "title": "Battle at Heaven's Eastern Gate",
+ "subtitle": "Indra challenges Krishna for the Parijata tree",
+ "story": "Krishna, the lord of Dwaraka, came to heaven the way daylight comes to a garden — openly, and before the eyes of everyone. Indra had refused to part with the Parijata tree, the heavenly tree Krishna had promised his queen Satyabhama, and so Krishna had come to take it himself.\n\nHe had left Dwaraka that morning under the pretext of a hunt, riding out to the Raivataka mountain with Satyaki, his friend and fellow warrior. There he handed his chariot to his charioteer, Daruka, told him to wait and groom the horses, and promised to re-enter the city on that very car by evening. Then, with Satyaki beside him, he mounted the great bird Garuda, king of all birds, and his son Pradyumna followed behind in a chariot swift enough to course over the hills. In the space of a breath, Krishna stood in the Nandana forest, the pleasure park of the gods, where hosts of celestial warriors kept watch with weapons in hand and the finest trees of heaven grew in long, ordered avenues.\n\nHe did not linger. Before the guards could gather themselves, Krishna tore the Parijata tree from the earth and set it on Garuda's back. And then a strange thing happened: the tree seemed to awaken, and to bow before the one who had taken it, as a living thing bows in homage. \"Do not fear,\" Krishna said to it gently. When he was sure it was firmly placed, he circled the stronghold of the gods once, the great tree riding behind him on the king of birds, its branches still heavy with blossom.\n\nThe keepers of the garden did not wait to see more. They ran to Indra with the news, and the sound of their running reached the king's court before their words did: the finest tree in heaven was being carried away.\n\nIndra came out mounted on Airavata, his great elephant, with his son Jayanta following on a chariot, and found Krishna at the eastern gate of heaven. \"Krishna,\" the king of the gods called out, \"what is this?\"\n\nKrishna, seated on Garuda, bowed his head in salute to his elder. \"I am only taking away this excellent tree,\" he said, \"for a ceremony your sister-in-law Satyabhama wishes to hold.\"\n\nBut Indra had given his answer to Narada, and he would not soften it now. \"You should not take away this tree without challenging me to fight,\" he said. \"Strike the first blow at me, Krishna — keep your promise, and hurl your mace at me.\"\n\nSo the brothers began. Krishna loosed arrows fierce as thunder at the great elephant; Indra loosed arrows of heavenly make at Garuda and cut Krishna's shafts from the air as they flew. Krishna, smiling, cut off Indra's in turn, and the two lords of earth and sky stood in the open sky severing each other's arrows, bowstring answering bowstring. At the twang of Sharanga, Krishna's own bow, and the thunder of Indra's together, the dwellers of heaven themselves swooned away.\n\nWhile the duel raged, Jayanta slipped toward Garuda and tried to pull the Parijata from the bird's back. \"Stop him,\" Krishna said to Pradyumna, and at once his son turned and barred the way. The two young warriors faced each other from their chariots — Jayanta piercing Pradyumna with sharp arrows, Pradyumna answering shaft for shaft — until a fierce combat blazed between the son of Indra and the son of Krishna, as though the quarrel of the fathers had passed whole into the hands of the sons. The gods and the sages, the perfected Siddhas and the singing Charanas, all looked on, struck with wonder at what they saw.\n\nAnd then, from the host of heaven, a new champion began to advance — a messenger of the gods named Pravara, of great strength, making straight for the tree on Garuda's back. Krishna marked him and spoke one quiet word to Satyaki. \"Oppose him, even from where you stand.\" And Satyaki, who had never refused his lord anything, moved to meet the champion of heaven.",
+ "reflection": "The battle begins with courtesies — Krishna salutes his elder before trading arrows with him — and what follows is a family quarrel fought with divine weapons, watched by all of heaven. The courtesy makes the rupture more striking: neither brother wants to begin the enmity, and neither will step back.",
+ "tradition_note": "The Vishnu Purana tells this episode differently: there, Krishna disarms the gods with his discus and spares Indra, while the Harivamsha has Indra ride out on Airavata and demand a formal battle. This story follows the Harivamsha.",
+ "content_note": "An archery battle between Krishna and Indra and their sons; described without gore.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Indra",
+  "Jayanta",
+  "Satyaki",
+  "Pradyumna",
+  "Garuda"
+ ],
+ "locations": [
+  "Nandana forest",
+  "eastern gate of heaven"
+ ],
+ "themes": [
+  "confrontation",
+  "pride",
+  "battle"
+ ],
+ "previous_story_id": "DKS_0226",
+ "next_story_id": "DKS_0228",
+ "next_story_tease": "But the gods had one more champion — a warrior whom no weapon could slay.",
+ "hero_scene": "At the eastern gate of heaven, Krishna stands on Garuda's back with the uprooted Parijata tree balanced behind him, facing Indra mounted on the great elephant Airavata, while arrows flash between them through the golden light of the celestial city.",
+ "visual_elements": [
+  "Krishna on Garuda's back",
+  "the uprooted Parijata tree",
+  "Indra mounted on Airavata",
+  "Jayanta on his chariot",
+  "the eastern gate of heaven",
+  "arrows crossing in mid-air",
+  "mood of wonder and tension"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.220",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.30",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T23:13:00+0530",
+  "source_event_id": "evt_0213",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0020",
+ "title": "The Day Gokula Rejoiced",
+ "subtitle": null,
+ "story": "The child had been born in the night, and by the time the sun was high the whole settlement knew it. Nanda's house in Gokula had begun to fill, and the rejoicing showed no sign of slowing.\n\nNanda did everything the occasion asked of him, and more. For his newborn son he had the auspicious benedictions recited, and he performed the birth-rite in the proper way, with the bathing and the purification the ceremony required. At the proper time the priests and the bards recited their verses of blessing, sutas and magadhas and vandins each adding their voice, and their words of good omen hung over the house along with the sound of music from outside. To the priests he gave a great number of cows, all of them adorned, and he gave with an open hand, as if no gift were too large for the child who had come into his house.\n\nThe settlement rose to meet the occasion. All of Vraja was swept and sprinkled, the doorways and the courtyards and the inner rooms of the houses washed clean and made ready. The cattle were led out smeared with turmeric and oil, the cows and the bulls and the young calves, their hides golden with it, and decked with cloth and ornaments as if they, too, had been invited to the festival.\n\nThe cowherd women came in a bright procession. They had heard that a son had been born to Yashoda, and their faces glowed with fresh kumkum, the red of it bright on their cheeks. They came with polished jeweled earrings and necklaces, in garments of many colors, garlands slipping from their hair, their bangles sounding as they walked, all of them bound for Nanda's house to bless the child. \"May he live long,\" they said as they leaned over him, and the blessing passed from lip to lip around the room, one woman taking it up where the last had left off.\n\nMusic sounded through the settlement, all manner of instruments at once, for this was a great festival and no one meant to be quiet about it. The cowherds, full of joy, sprinkled one another with curd and milk and ghee and water, and the laughter carried between the houses and down the lanes.\n\nNanda, generous-hearted, gave to everyone who came: clothes and ornaments and cattle, honoring each one as was fitting, with a spirit that did not shrink from the giving. He congratulated the blessed Rohini, and there was no one in the settlement that day who went away empty-handed.\n\nIt was said afterward that from that day Nanda's Vraja was rich in every way. But the true wealth of the day was simpler than cows or gold: a house full of people who had come with nothing to offer but their joy, and a child asleep through all of it, not yet knowing the celebration that had gathered around his name.",
+ "reflection": "The celebration is measured not in what Nanda gives away but in what the village brings freely: turmeric, music, blessings, and the splash of curd and milk. Wealth, the story suggests, begins as shared joy before it ever becomes herds or gold.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Nanda",
+  "Yashoda",
+  "Rohini",
+  "cowherds"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "celebration",
+  "generosity",
+  "joy"
+ ],
+ "previous_story_id": "DKS_0019",
+ "next_story_id": "DKS_0021",
+ "next_story_tease": "But Nanda's joy would soon carry him back to Mathura, where an old debt of friendship awaited.",
+ "hero_scene": "Adorned cowherd women in bright garments and jeweled earrings streaming into Nanda's swept and flower-strewn house, reaching out to bless the newborn, while music sounds and clouds of turmeric rise from the decorated cattle outside.",
+ "visual_elements": [
+  "Nanda's house swept and decorated",
+  "cows, bulls, and calves smeared with turmeric and oil",
+  "cowherd women in bright garments and jewels",
+  "the newborn child receiving blessings",
+  "music and the splash of curd, milk, and ghee",
+  "mood of communal joy and generosity"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.5.1-17",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:51:59Z",
+  "source_event_id": "evt_0034"
+ },
+ "editorial_status": "unreviewed"
+}

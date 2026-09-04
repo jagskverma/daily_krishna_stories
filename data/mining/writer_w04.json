@@ -1,0 +1,102 @@
+[
+ {
+  "group_id": "g031",
+  "stories": [
+   "DKS_0142",
+   "DKS_0143",
+   "DKS_0144",
+   "DKS_0145"
+  ],
+  "context": "Group g031: write pilot-quality stories for DKS_0142, DKS_0143, DKS_0144, DKS_0145. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g032",
+  "stories": [
+   "DKS_0146",
+   "DKS_0147",
+   "DKS_0149",
+   "DKS_0150"
+  ],
+  "context": "Group g032: write pilot-quality stories for DKS_0146, DKS_0147, DKS_0149, DKS_0150. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g033",
+  "stories": [
+   "DKS_0151",
+   "DKS_0152",
+   "DKS_0153",
+   "DKS_0154"
+  ],
+  "context": "Group g033: write pilot-quality stories for DKS_0151, DKS_0152, DKS_0153, DKS_0154. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g034",
+  "stories": [
+   "DKS_0155",
+   "DKS_0156",
+   "DKS_0157",
+   "DKS_0158"
+  ],
+  "context": "Group g034: write pilot-quality stories for DKS_0155, DKS_0156, DKS_0157, DKS_0158. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g035",
+  "stories": [
+   "DKS_0159",
+   "DKS_0160",
+   "DKS_0161",
+   "DKS_0162"
+  ],
+  "context": "Group g035: write pilot-quality stories for DKS_0159, DKS_0160, DKS_0161, DKS_0162. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g036",
+  "stories": [
+   "DKS_0163",
+   "DKS_0164",
+   "DKS_0165",
+   "DKS_0166"
+  ],
+  "context": "Group g036: write pilot-quality stories for DKS_0163, DKS_0164, DKS_0165, DKS_0166. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g037",
+  "stories": [
+   "DKS_0167",
+   "DKS_0168",
+   "DKS_0169",
+   "DKS_0170"
+  ],
+  "context": "Group g037: write pilot-quality stories for DKS_0167, DKS_0168, DKS_0169, DKS_0170. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g038",
+  "stories": [
+   "DKS_0171",
+   "DKS_0172",
+   "DKS_0173",
+   "DKS_0174"
+  ],
+  "context": "Group g038: write pilot-quality stories for DKS_0171, DKS_0172, DKS_0173, DKS_0174. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g039",
+  "stories": [
+   "DKS_0175",
+   "DKS_0176",
+   "DKS_0177",
+   "DKS_0178"
+  ],
+  "context": "Group g039: write pilot-quality stories for DKS_0175, DKS_0176, DKS_0177, DKS_0178. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g040",
+  "stories": [
+   "DKS_0179",
+   "DKS_0180",
+   "DKS_0181",
+   "DKS_0182"
+  ],
+  "context": "Group g040: write pilot-quality stories for DKS_0179, DKS_0180, DKS_0181, DKS_0182. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ }
+]

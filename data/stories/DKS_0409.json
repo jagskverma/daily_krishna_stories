@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0409",
+ "title": "Draupadi Demands Vengeance",
+ "subtitle": null,
+ "story": "The five Pandava brothers — Yudhishthira, Bhima, Arjuna, and the twins Nakula and Sahadeva — had lost their kingdom to their cousin Duryodhana on a throw of loaded dice. Camped at Upaplavya with their allies, they waited on the edge of war to win it back. That evening, as so often in those last days, the talk turned to peace. Yudhishthira, the eldest, had just spoken for it; Sahadeva and the great warrior Satyaki, of Krishna's own clan, had warmly approved; even Bhima, whose answer to most wrongs was his mace, had declared for peace. Then Draupadi, wife of the five brothers, rose, and the counsel of peace fell silent.\n\nHer hair hung loose about her shoulders, as it had since the dice game, and she held the long tresses in her hands as she spoke, as though she could not put them down. Her eyes, black and large as lotus leaves, were wet with tears. She spoke directly to Krishna, their cousin and friend, and the whole gathering heard her out.\n\n\"You know,\" she said, \"by what deceit Duryodhana and his counsellors robbed the Pandavas of their happiness. You know the words we sent in secret to Hastinapura by Sanjaya, the king's messenger: that we asked for only five villages — Avishthala, Vrikasthala, Makandi, Varanavata, and any fifth besides. Yudhishthira, who wants nothing but peace, asked for that much — and Duryodhana would not grant even that.\"\n\nShe went on, and her voice grew firm. If Duryodhana would take peace only at the price of the kingdom, Krishna need not ride to Hastinapura at all: the Pandavas, with their allies at their side, could stand against the Kuru host. Men who could not be won by words or gifts had to be met with severity, and the law of a warrior's order allowed it: strike down the grasping and the covetous — only a brahmin, priest and teacher of every order, being spared — for there was as much sin in sparing one who deserved death as in killing one who did not. \"Let the punishment fall, then, and let Krishna deal it, with the Pandavas and their allies behind him. Such a deed would honour my husbands, add to your glory, and be a joy to the whole race of warriors.\"\n\n\"Is there any woman on earth like me?\" she asked. \"I am the daughter of king Drupada, who rose from the altar fire. I am the sister of Dhrishtadyumna, your dear friend. I married into the Kuru house — daughter-in-law of Pandu, wife of his five sons, mother of five boys bound to you as Arjuna's son Abhimanyu is. Being all this, I was seized by the hair, dragged into the assembly, and insulted before the very eyes of my husbands — in your own lifetime, Krishna. The Pandavas were alive, and the Panchalas of my father's house, and the Vrishnis, your own kin — yet I was handled like a slave before that whole gathering.\"\n\nThe hall of that terrible day seemed to fill the tent as she spoke — how her husbands had sat silent, and how in that silence she had called to him in her heart, \"Save me, O save me!\" — and how the old king Dhritarashtra had then offered her a boon. She had asked only that the Pandavas be made free men with their chariots and weapons; they were freed, only to be sent into the woods. \"In honour I am the daughter-in-law of Bhishma, the grandsire of the Kurus, and of Dhritarashtra, their king,\" she said, \"and even so I was made a slave. Rescue me, lotus-eyed Krishna — and with me my husbands and my kinsmen — from this grief.\"\n\n\"Shame on Arjuna's bowmanship,\" she said, her voice breaking, \"and shame on Bhima's might — when Duryodhana still lives! If I deserve any favour at your hands, if you have any compassion for me, let your anger fall upon the sons of Dhritarashtra.\"\n\nShe wept as she finished, tears running down her face. Then she walked to Krishna, heavy and slow as a cow elephant, and stood before him, waiting for his answer. The camp was very still.",
+ "reflection": "Draupadi's appeal rests her entire case on who she is — daughter of the altar, sister of a dear friend, daughter-in-law of two houses, mother of five — and yet none of that standing protected her in the assembly. Her grief is not only for the insult but for the silence of the men who loved her, which is why she does not ask them to avenge her; she asks Krishna, the one she called to in her heart.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "draupadi_honour",
+ "characters": [
+  "Krishna",
+  "Draupadi",
+  "Bhima",
+  "Arjuna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "grief",
+  "vengeance",
+  "honour"
+ ],
+ "previous_story_id": "DKS_0408",
+ "next_story_id": "DKS_0410",
+ "next_story_tease": "But Krishna's answer, when it came, would be a vow.",
+ "hero_scene": "In the torchlit council tent at Upaplavya, Draupadi stands weeping before Krishna, her long black hair loose and clutched in her hands, while the five Pandava brothers sit silent around them and the night presses against the canvas.",
+ "visual_elements": [
+  "Draupadi standing with dishevelled hair clutched in her hands",
+  "tears on her face, eyes black and large as lotus leaves",
+  "Krishna seated, listening without expression",
+  "the five Pandava brothers seated silent in a circle",
+  "torchlight and night canvas of the camp tent"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.82",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0417",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

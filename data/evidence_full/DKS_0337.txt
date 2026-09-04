@@ -1,0 +1,49 @@
+# STORY DKS_0337 — Pradyumna Slays Shambara
+
+## Index entry
+title: Pradyumna Slays Shambara
+summary: Armed with the great science of countering illusion, Pradyumna challenges and beheads the demon Shambara.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Pradyumna, Shambara, Mayavati
+locations: Shambara's palace
+themes: battle, illusion, vengeance
+festival_tags: 
+age_sensitivity: all | notes: Harivamsha expands the duel into many beats (hv_b2_043-047). | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0199
+variant_notes: BP: 'great science of countering illusion'; VP: slays the enchanter with his own eighth illusion.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 55 | verses 15-23 | confidence 5
+  excerpt: Mayavati gave Pradyumna the Maha-vidya that destroys all illusion; Pradyumna challenged Shambara, countered his hundred forms of maya, and with his sharp sword cut off the demon's head. (rendered from Sanskrit, verses 15-23)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 27 | verses  | confidence 4
+  excerpt: Seven times he foiled the delusions of the enchanter, and making himself master of the eighth, turned it against Sambara, and killed him... he proceeded to his father's house, where he alighted, along with Máyávatí, in the inner apartments.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.55 (15-23)
+15. prabhāṣyaivaṃ dadau vidyāṃ pradyumnāya mahātmane /
+16. sa ca śambaram abhyetya saṃyugāya samāhvayat /
+17. so 'dhikṣipto durvācobhiḥ padāhata ivoragaḥ /
+18. gadām āvidhya tarasā pradyumnāya mahātmane /
+19. tām āpatantīṃ bhagavān pradyumno gadayā gadām /
+20. sa ca māyāṃ samāśritya daiteyīṃ maya-darśitam /
+21. bādhyamāno 'stra-varṣeṇa raukmiṇeyo mahā-rathaḥ /
+22. tato gauhyaka-gāndharva- paiśācoraga-rākṣasīḥ /
+23. niśātam asim udyamya sa-kirīṭaṃ sa-kuṇḍalam /
+
+### Vishnu Purana (Wilson 1840) 5.27 ()
+Pradyumna stolen by Sambara; thrown into the sea, and swallowed by a fish; found by Máyádeví: he kills Sambara, marries Máyádeví, and returns with her to Dwáraká. Joy of Rukminí and Krishńa.
+
+MAITREYA.--How, Muni, happened it that the hero Pradyumna was carried away by Sambara? and in what manner was the mighty Sambara killed by Pradyumna?PARÁŚARA.--When Pradyumna was but six days old, he was stolen from the lying-in chamber by Sambara, terrible as death; for the demon foreknew that Pradyumna, if he lived, would be his destroyer. Taking away the boy, Sambara cast him into the ocean, swarming with monsters, into a whirlpool of roaring waves, the haunt of the huge creatures of the deep. A large fish swallowed the child, but he died not, and was born anew from its belly for that fish, with others, was caught by the fishermen, and delivered by them to the great Asura Sambara. His wife Máyádeví, the mistress of his household, superintended the operations of the cooks, and saw, when the fish was cut open, a beautiful child, looking like a new shoot of the blighted tree of love. Whilst wondering who this should be, and how he could have got into the belly of the fish, Nárada came to satisfy her curiosity, and said to the graceful dame, "This is the son of him by whom the whole world is created and destroyed, the son of Vishńu, who was stolen by Sambara from the lying-in chamber, and tossed by him into the sea, where he was swallowed by the fish. He is now in thy power; do thou, beautiful woman, tenderly rear this jewel of mankind." Thus counselled by Nárada, Máyádeví took charge of the boy, and carefully reared him from childhood, being fascinated by the beauty of his person. Her affection became still more impassioned when he was decorated with the bloom of adolescence. The gracefully-moving Máyávatí then, fixing her heart and eyes upon the high-minded Pradyumna, gave him, whom she regarded as herself, all her magic (and illusive) powers.Observing these marks of passionate affection, the son of Krishńa said to the lotus-eyed Máyádeví, "Why do you indulge in feelings so unbecoming the character of a mother?" To which she replied, "Thou art not a son of mine; thou art the son of Vishńu, whom Kálá Sambara carried away, and threw into the sea: thou vast swallowed by a fish, but wast rescued by me from its belly. Thy fond mother, O beloved, is still weeping for thee." When the valiant Pradyumna heard this, he was filled with wrath, and defied Sambara to battle. In the conflict that ensued, the son of Mádhava slew the whole host of Sambara. Seven times he foiled the delusions of the enchanter, and making himself master of the eighth, turned it against Sambara, and killed him. By the same faculty he ascended into the air, and proceeded to his father's house, where he alighted, along with Máyávatí, in the inner apartments. When the women beheld Pradyumna, they thought it was Krishńa himself. Rukminí, her eyes dimmed with tears, spoke tenderly to him, and said, "Happy is she who has a son like this, in the bloom of youth. Such would be the age of my son Pradyumna, if he was alive. Who is the fortunate mother adorned by thee? and yet from thy appearance, and from the affection I feel for thee, thou art assuredly the son of Hari."At this moment Krishńa, accompanied by Nárada, arrived; and the latter said to the delighted Rukminí, "This is thine own son, who has come hither after killing Sambara, by whom, when an infant, he was stolen from the lying-in chamber. This is the virtuous Máyávatí, his wife, and not the wife of Sambara. Hear the reason. When Manmatha, the deity of love, had perished, the goddess of beauty, desirous to secure his revival, assumed a delusive form, and by her charms fascinated the demon Sambara, and exhibited herself to him in various illusory enjoyments. This thy son is the descended Káma; and this is the goddess Ratí, his wife. There is no occasion for any uncertainty: this is thy daughter-in-law." Then Rukminí was glad, and Keśava also; the whole city resounded with exclamations of joy, and all the people of Dwáraká were surprised at Rukminí's recovering a son who had so long been lost.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0336 | next_story_id: DKS_0338
+previous title: Mayavati (Rati) Rescues and Raises Pradyumna || A fish swallows the infant; a cook finds him, and Mayavati, who is Rati, recognizes Kama reborn and raises him as her own.
+next title: Pradyumna Returns to Dvaraka and Is Recognized

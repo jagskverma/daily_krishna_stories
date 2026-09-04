@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0338",
+ "title": "The Lost Son Returns to Dvaraka",
+ "subtitle": null,
+ "story": "The young man descended from the sky into the inner palace of Dvaraka, and the celestials themselves escorted him, showering him with flowers and praising him as he flew. He landed in the innermost courtyard with a woman at his side, and the queens of Krishna looked up and fell silent.\n\nHe was dark as a rain cloud, wrapped in yellow silk, his face like a lotus, dark curls falling at his temples. Every woman in the palace felt the same catch in her heart, because the young man was the very image of their lord. He moved among them with a young man's bashfulness, and they drank in the sight of him with their eyes. The women studied him covertly — the way he moved, the curve of his brow — and found the resemblance uncanny.\n\nRukmini looked at him long, with sidelong glances, and the questions rose in her one after another. Who is this jewel among men? Whose lotus-eyed son is this? My own child was lost — taken from the lying-in room, never seen again. How has this one come to resemble the bearer of the Sharnga bow so exactly? Surely — surely — it must be the child I carried in my womb.\n\nShe spoke aloud, half to herself, the way a mother speaks of a lost child. Blessed is the woman whose son is such a beautiful boy, she said — a boy resembling Kama himself, just entering the first stage of youth. Had death not carried my baby away, my Pradyumna would have been of this age by now. And yet look at him — the marks of the Vrishni line are on him; his face and his hair are the face and hair of Narayana.\n\nKrishna, who knew everything, said nothing. He let the moment ripen, watching his wife circle the truth.\n\nAnd then Narada came, as he so often did when a tale needed telling. He told the whole story: the theft from the lying-in room, the casting into the sea, the fish, the demon's kitchen, the woman who had raised the boy, and the slaying of Shambara. The queens heard it with wonder, and the palace filled with cries of astonishment and joy.\n\nThen Devaki and Vasudeva came, and Krishna and Balarama, and the women of the palace crowded around the young man and his wife. Pradyumna saluted his mother and Govinda, and bowed to Balarama; and Krishna raised his eldest son, drew him into his arms, and smelt his head — the old, wordless blessing of a father. Rukmini embraced her son, the son she had mourned like an osprey over an empty nest. And Krishna presented the young woman to her. \"Know her as Rati, the beloved of Kama,\" he said. \"She is the wife of your son; she has been our eldest daughter-in-law in all but name. She raised him, and she has brought him home.\" Rukmini raised her daughter-in-law, placed her on her lap like a daughter, and embraced her.\n\nThe news spread through Dvaraka like light. The lost Pradyumna — the boy the sea had taken — had returned, and the city celebrated him as one returned from the dead. From the queen's apartments to the market lanes, his name was on every tongue.\n\nRukmini took her son and her daughter-in-law by the hand and led them to her own rooms, where the lamps were lit and the welcome was long. The sea had taken a newborn and given back a man. The boy who had been stolen in the dark had walked back into the light of his father's house, and the house held him close.",
+ "reflection": "Rukmini recognizes her son before anyone tells her who he is — she reads him in his likeness to Krishna, the way love reads a face it has been mourning for years. The joy of the ending is that the boy the sea took is given back not to a city that remembers him, but to a mother who never stopped seeing him.",
+ "tradition_note": "The Harivamsha gives Rukmini a prophetic dream of mango leaves and a pearl garland before she recognizes her son by the marks of the Vrishni line; the Bhagavata Purana has her recognize him by his likeness to Krishna, with Narada revealing the tale.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Rukmini",
+  "Mayavati",
+  "Devaki"
+ ],
+ "locations": [
+  "Dvaraka"
+ ],
+ "themes": [
+  "reunion",
+  "joy",
+  "recognition"
+ ],
+ "previous_story_id": "DKS_0337",
+ "next_story_id": "DKS_0339",
+ "next_story_tease": "But the house of Krishna was not finished with weddings — a betrothal was already being arranged for the son of this very house.",
+ "hero_scene": "In the inner palace of Dvaraka, the dark, yellow-silk-clad Pradyumna stands before Rukmini, who gazes at his face — the very image of Krishna — as she reaches out, tears in her eyes, toward the son she thought the sea had taken.",
+ "visual_elements": [
+  "Pradyumna descending from the sky with Mayavati into the inner courtyard",
+  "the celestials showering him with flowers",
+  "the queens of Dvaraka gazing at his resemblance to Krishna",
+  "Rukmini's sidelong glances and dawning recognition",
+  "Narada telling the whole tale",
+  "Rukmini embracing her son and leading the couple to her rooms"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.55.24-39",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.255",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:28Z",
+  "source_event_id": "evt_0200"
+ },
+ "editorial_status": "unreviewed"
+}

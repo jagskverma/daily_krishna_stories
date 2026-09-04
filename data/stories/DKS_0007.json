@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0007",
+ "title": "Kamsa Unlooses the Demons",
+ "subtitle": null,
+ "story": "Kamsa, the king of Mathura, had lived in fear since a voice spoke at his sister Devaki's wedding and promised that her eighth child would one day be his death. He had thrown Devaki and her husband into a prison cell, and the children she bore there had been taken from her, one after another. Still the fear would not leave him, and at last it had found a plan: in the torchlit hall, his ministers had urged him to strip the land of everything the gods drew strength from. Kamsa did not delay. What they advised, he made law — quickly, the way a man acts when he cannot bear to think too long about what he is doing.\n\nFrom the palace the word went out, and with it went the creatures the king had been keeping for just such a purpose: demons who loved to kill. They could take any form they chose — a traveler on the road, a familiar face at a door, a shadow slipping through a bolted room. Kamsa set no limit on them and no end to their work. Find the holy wherever it is, he told them, and destroy it, so that the gods would have nothing left to draw strength from.\n\nSo they went out past the gates of Mathura, into the city, the villages, and the pastures beyond. They were restless creatures whose minds darkness had clouded, and they delighted in slaughter the way other men delight in a feast. Wherever a sage kept to his long penances, wherever a brahmana priest tended his sacred fire, wherever good people had made a quiet corner of the world, the demons came — and they did not come quietly. The roads they took felt wrong for a long while afterward, as though the air itself had learned to lie.\n\nAnd they did not only kill. Long life they cut short; prosperity they scattered; good names they smeared with lies; righteousness they trampled into the dust; blessings they turned to ash. Nothing holy was too small for them — a cow grazing, a verse remembered, a vow kept in silence — all of it fed their hunger. The land that had once been full of rites and quiet goodness began to feel their absence like a wound.\n\nSome fell upon the brahmana priests and the sages who sheltered the young and kept the rites alive. Others watched the roads for children, for any child in whom something bright and unbroken still shone. The shape-shifters moved among the people unseen, and no one could any longer tell friend from enemy. A knock at the door might be a neighbor — or a demon — and no one knew which until it was too late.\n\nAnd Kamsa himself? When the orders had been given, he turned his back on the city he had just condemned. He withdrew into his palace and shut the doors behind him, leaving the land to the demons and to the fear he had set loose. He had spent his nights afraid of one unborn child, and he had answered that fear by emptying the world of everything good. Behind the shut doors, he waited.",
+ "reflection": "What the story keeps quiet about is Kamsa's absence. He gives the order and withdraws behind his doors, so that the horror is carried out not by a face but by a thousand shapes that move unseen — fear, once released, no longer needs the one who loosed it.",
+ "tradition_note": "The Vishnu Purana names the demons Kamsa sent — Pralamba, Kesin, Dhenuka, Putana and Arishta — and adds that, after giving his orders, Kamsa released Vasudeva and Devaki from captivity.",
+ "content_note": "Kamsa orders a massacre of the holy across the land; no single act is shown in detail.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "birth",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Kamsa",
+  "demons"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "tyranny",
+  "persecution"
+ ],
+ "previous_story_id": "DKS_0006",
+ "next_story_id": "DKS_0008",
+ "next_story_tease": "But the slaughter of the holy could not stop the one thing Kamsa feared, and far away, in the assembly of the gods, a decision was being made.",
+ "hero_scene": "Shape-shifting demons streaming out from Mathura across the city, villages and pastures at Kamsa's command, while Kamsa turns away into his palace and shuts the doors behind him.",
+ "visual_elements": [
+  "Kamsa giving the order",
+  "shape-shifting demons departing",
+  "the gates of Mathura",
+  "villages and pastures",
+  "sages and brahmanas at their fires",
+  "a child on the road",
+  "mood of spreading dread",
+  "the shut doors of the palace"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.4.42-46",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.4",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:39Z",
+  "source_event_id": "evt_0033",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

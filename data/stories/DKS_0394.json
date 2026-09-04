@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0394",
+ "title": "Yudhishthira Asks Krishna's Blessing",
+ "subtitle": null,
+ "story": "The treasury of Indraprastha had grown so heavy that no one imagined it could be emptied in a hundred years. Yet no one thought of that wealth as greed made visible. In those days of Yudhishthira's rule, the clouds poured exactly as much rain as the people wished; fields, herds, and trade flourished, and the kingdom knew no drought, no flood, no plague, and no fire. Even thieves and cheats, it was said, gave up lying when they dealt with one another, and the kings of other lands came to the court only to serve, to worship, or to offer tribute that would not impoverish them — never to fight.\n\nIt was this kingdom, prosperous beyond dreaming, that Yudhishthira's friends and ministers approached, each separately and all together. \"The time has come, exalted one, for your sacrifice,\" they said. \"Let the arrangements be made without delay.\" And the son of Pandu, weighing the fullness of his treasury, fixed his heart on the Rajasuya — the sacrifice that belonged to emperors, a rite so great that it was said to purify everything it touched.\n\nIt was then that Krishna came to Indraprastha. He came as a friend comes to a celebration: not alone, but at the head of a great host, chariot wheels rattling over the roads, bringing with him a great mass of treasure for the king — an inexhaustible ocean of gems, the old chronicle says — and leaving the Yadava army in the command of Vasudeva, as a man does who means to stay. The capital was gladdened by his presence the way a dark land is gladdened by the sun, or still air by a gentle breeze.\n\nYudhishthira received him with joy and every honor due to him, and when Krishna was seated at ease, the king stood before him with Dhaumya, the sage Dwaipayana, and the other sacrificial priests, and with Bhima and Arjuna and the twins.\n\n\"Krishna,\" he said, \"it is for you that the whole earth lies under my sway. Every bit of this wealth has come to me through your grace, and I wish to give it, as the rite prescribes, to the brahmins and to the sacred fire. Grant me permission to celebrate a sacrifice with you and with my younger brothers. Better still — let the sacrifice be yours. If you perform it, I shall be cleansed of every sin. Or if you will, let me be installed at it with my brothers, and by your permission I shall enjoy the fruit of an excellent rite.\"\n\nThere was no ceremony in his voice, no king's formality. What the son of Pandu asked for, before the whole court, was Krishna's blessing on the grandest ambition of his life.\n\n\"Yudhishthira,\" Krishna answered, \"you are worthy of the dignity of an emperor. Let the great sacrifice be performed by you. First conquer the kings of the earth and gather everything the rite will need; and once it is done, no one will surpass you in splendor, not even the gods. If you perform the sacrifice and win its fruit, we shall all count ourselves crowned with success. I am always seeking your good. Perform, then, the sacrifice you desire — and find me some office in it, for I should obey all your commands.\"\n\nThe king could not find words for a moment. Then he said, \"Krishna, my resolve is already crowned with fruit. When you arrived here of your own will, success was already mine.\"\n\nAt Krishna's word, Yudhishthira and his brothers set about gathering the materials for the Rajasuya; and the first order the king gave was to Sahadeva and to all his ministers — appoint men, without loss of time, to bring in everything the great rite would need.\n\nThe sacrifice had not yet begun, but the work of empire had already turned toward it. For the first time the brothers looked outward from Indraprastha, toward the four quarters of the earth, and measured what the world owed them.",
+ "reflection": "Yudhishthira's request is striking because the most powerful king of the age does not presume to begin the world's greatest rite on his own authority; he waits on Krishna's word. And Krishna's answer inverts the court's order of power entirely — the emperor-elect is told to employ the lord of the universe in some office.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "royal sacrifice",
+  "blessing",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0393",
+ "next_story_id": "DKS_0395",
+ "next_story_tease": "With Krishna's blessing given, Yudhishthira sent his brothers to the four quarters of the earth to make the world ready for the sacrifice.",
+ "hero_scene": "Krishna's chariot rolls into Indraprastha before a vast host, wheels rattling and wagons of treasure behind him, as the city turns out to greet him and Yudhishthira waits at the gate with his brothers and priests.",
+ "visual_elements": [
+  "the treasury of Indraprastha heavy with wealth",
+  "Krishna's chariot entering the city with a great host and wagons of treasure",
+  "the city gladdened like a dark region touched by the sun",
+  "Yudhishthira standing before the seated Krishna with his brothers and the priests",
+  "Krishna inclining his head in approval as the king asks his blessing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.72.1-10",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.32",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:23Z",
+  "source_event_id": "evt_0366",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

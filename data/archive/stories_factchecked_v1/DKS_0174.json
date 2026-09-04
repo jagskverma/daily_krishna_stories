@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0174",
+ "title": "Muchukunda's Story",
+ "subtitle": "Muchukunda, an Ikshvaku king who once guarded the gods against the asuras, was granted deep sleep as his reward.",
+ "story": "The man who had burned a king to ashes sat up in the darkness of the cave and looked at Krishna, and Krishna looked back at him. For a long moment neither spoke. The sleeper had been asleep so long that waking felt like a birth; and the man standing before him was not the one who had kicked him.\n\nThis was Muchukunda, son of Mandhata, of the Ikshvaku line — a king of an age that had long since passed.\n\nLong ago, when the gods fought the asuras, the hosts of heaven led by Indra had asked this mortal king to stand guard for them. They asked him because he was strong, and because when a king of the Ikshvaku line gave his word, he kept it. Muchukunda fought for the gods in their war against the asuras, and he guarded them through battles longer than the lives of ordinary men.\n\nWhen the war was over, the gods released him. They met him at the mouth of the cave — Indra and the hosts of heaven — and they told him the truth gently, the way one tells a friend something hard. The world he had left was gone. His kingdom, with its enemies cut down, no longer waited for him. His sons, his queens, his kinsmen, his ministers and his counselors — all were scattered or sleeping. \"Time is mightier than the mighty,\" they said. \"The Blessed Lord is the immutable sovereign, and nothing stands against him.\"\n\nThen they offered him a boon, as they had promised. \"Choose whatever you wish,\" they said, \"and good go with you. Ask anything except liberation — that is not ours to grant.\"\n\nA man who has guarded heaven, and come home to find his whole world gone, may ask for anything. Muchukunda bowed to the gods, and he asked for sleep.\n\nNot the sleep of a night or a season. He asked to lie down in the earth and sleep without waking, undisturbed, until the proper time came round for him to wake. The gods granted it, and Muchukunda, son of Mandhata, the king who had guarded heaven, lay down in the cave and slept.\n\nAnd he slept. The years turned to ages, and the ages turned to yugas. Kingdoms rose and fell; Mathura was besieged and delivered; kings came to his cave and were burned to ash at his feet. Through all of it Muchukunda lay in the dark, breathing slowly, dreaming of nothing, waiting for a time he had not been told about.\n\nNow he was awake. He sat in the cave with the ashes of a king before him and a young man with a quiet face standing in the dark, and he understood, without being told, that the one who had woken him was not the one who had kicked him.\n\nHe opened his mouth to ask who the stranger was.",
+ "reflection": "Muchukunda chose sleep when he could have chosen anything — a king who had spent his strength guarding heaven asking only to rest until the world needed him again. The boon he took was patience itself, a waiting for the right time.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Muchukunda",
+  "Indra",
+  "Krishna"
+ ],
+ "locations": [
+  "Muchukunda's cave"
+ ],
+ "themes": [
+  "service",
+  "reward",
+  "time"
+ ],
+ "previous_story_id": "DKS_0173",
+ "next_story_id": "DKS_0175",
+ "next_story_tease": "When Muchukunda finally opened his eyes, he found Krishna standing before him.",
+ "hero_scene": "Muchukunda lying down to sleep in the mouth of the mountain cave while the ages prepare to pass over him; behind him the gods of heaven fade into the light, and the dark of the cave swallows the sleeping king.",
+ "visual_elements": [
+  "Muchukunda lying down in the cave",
+  "the gods of heaven receding into light",
+  "the dark mouth of the cave",
+  "ages of time passing invisibly",
+  "stillness and waiting"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.51.12-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:57Z",
+  "source_event_id": "evt_0235"
+ },
+ "editorial_status": "unreviewed"
+}

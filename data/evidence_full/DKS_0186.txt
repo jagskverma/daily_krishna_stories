@@ -1,0 +1,102 @@
+# STORY DKS_0186 — Krishna Selects the Site of Dwaraka || The Yadavas reach the ocean shore, and Krishna, seeking a place to build, chooses the coppery tract near Mount Raivata where the Yadavas encamp.
+
+## Index entry
+title: Krishna Selects the Site of Dwaraka || The Yadavas reach the ocean shore, and Krishna, seeking a place to build, chooses the coppery tract near Mount Raivata where the Yadavas encamp.
+summary: The Yadavas reach the ocean shore, and Krishna, seeking a place to build, chooses the coppery tract near Mount Raivata where the Yadavas encamp.
+life_stage: dwaraka | story_arc: dwaraka_founded
+characters: Krishna
+locations: Dwaraka, Raivata, ocean shore
+themes: site-selection, foundation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0289
+variant_notes: Cross-ref: founding cluster (bp10c_012/vp5_023_02); site-selection beat.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 113 | verses  | confidence 4
+  excerpt: Searching for a site where he would lay out a city Krishna ... saw an extensive tract of land situated on the bank of the ocean. ... Keshava selected that site for his city and the Yādavas also wanted to encamp their soldiers there.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.113 ()
+TITLE: KRISHNA’S PROPOSAL TO GO TO DWARAKA
+
+Vaishampayana said:—Once on a time the lotus-eyed Krishna addressed the
+following reasonable words to the Yadus in their assembly:—"This Mathurā
+city is the abode of the Yadus: we too were born here and brought up in
+Vraja. However all our griefs have disappeared and the enemies have been
+defeated. Now our hostilities with the kings and battle with Jarāsandea
+have commenced (1-3). The number of our infantry and animals is endless.
+And we have enough of jewels and friends (4). Although through our
+friends and soldiers we have attained to the consummation of prosperity
+still the city of Mathurā is very limited and the enemies can easily
+enter it (5). Beside if one _Koti_ of princes and infantry live here
+jointly there is every possibility of a dissension cropping up amongst
+them (6). Therefore, O ye leading Yadus, methinks it is better that we
+should live elsewhere. If you like it, we will lay out a city elsewhere
+(7). If you approve of what I have said before this assemblage of the
+Yadus for your well-being and in pursuance of the proper time I shall
+carry it out (8)." Hearing it all the Yādavas delightedly said:—"O
+Krishna, do what thou deemst proper for the behoof of all these people"
+(9).
+
+Thereupon the Vrishnis began to hold consultations regarding this most
+excellent proposal:—"Our enemy the king Jarāsandha has been destined as
+unslayable by us. And his power is also very great (10). True it is that
+many armies of the kings have been slain in this city of Mathurā. But so
+great is the number of his soldiers that we shall not be able to bring
+about their destruction even in hundred years" (11). At that time O
+king, the emperor Jarāsandha, along with Kālayavana was proceeding
+towards Mathurā with his army (12). Having heard of the approach of
+Jarāsandha and Kālayavana with that highly irrepressible huge army the
+Yadavas thought of retreating as mentioned before (13). The truthful
+Krishna again said to the Yadavas:—"To day is an auspicious day. So we
+shall, even this very day, issue out of Mathura along with our army and
+followers (14)".
+
+Having obtained this command from Krishna, the Yadavas, headed by
+Vasudeva, along with their wives, cars and elephants, set out, echoing
+the four quarters with the noise of their soldiers resembling that of
+the waves of the ocean (15-16). Leaving Mathurā the Yadavas went on with
+their wealth, kinsmen, friends, golden chariots, infuriated elephants
+and trotting horses decorated with gold (17-18). O foremost of Bharatas,
+having adorned their respective detachments of the army and moved it on
+the Yādadas set out for the west (19). Stationed in front, Vasudeva and
+other leaving Yadavas, ever adorning a battle-field, guided the army
+(20). Having thus wended a very long distance the leading Yādus reached
+the bank of the ocean. It was variegated with creepers, abounded in
+coconut trees and beautiful elephants, was covered with Ketaki trees,
+palmyras, Pannages and vines (21–24). Having secured such a picturesque
+site the Yadavas were highly delighted as if they had arrived at the
+celestial region (23). Searching for a site where he would lay out a
+city Krishna, the slayer of inimical heroes, saw an extensive tract of
+land situated on the bank of the ocean (24). The land had a coppery soil
+mixed with gravels, was well-suited for animals of burden, was endued
+with all the favourable marks of a city, as if it was presided over by
+the Goddess of prosperity herself. It was fanned by the sea breeze and
+was watered by the ocean. Near it was shining in beauty the charming
+mountain Raivata like the mount Mandara. On that mountain containing all
+the jems and resorted to by many great men Drona lived for many long
+years. There lived the king Ekalavya. And the sporting ground laid out
+by himself like a board of dice is celebrated by the name of Dwāravati
+(25-29). Keshava selected that site for his city and the Yādavas also
+wanted to encamp their soldiers there. Thereupon the Yadu commanders
+pitched tents there for the night (30–31).
+
+With a view to lay out his city there the Lord Krishna, the foremost of
+Yadus, lived there with them shorn of anxiety. And that foremost of men,
+the leader of the Yādavas, having Gada as his elder brother, thought in
+his mind of the names he would give to the various houses in that city
+(32-32).
+
+O king, having thus secured the city of Dwaravati the Yādavas, along
+with their friends, lived there happily as do the gods in their own
+city. O descendant of Bhārata, thus informed of the approach of
+Kālayavana Krishna, the slayer of Keshi, set out for the city of
+Dwāravati, in fear of Jarāsāndha (34–35).
+
+## Corpus chain
+previous_story_id: DKS_0185 | next_story_id: DKS_0187
+previous title: The Liberated Kings Behold Krishna || Twenty thousand eight hundred freed kings emerge from the mountain prison, behold Krishna's form, praise him, receive his teaching, and are sent home with honor.
+next title: Krishna Enriches Dwaraka || Krishna bids the treasure-guard Sankha shower wealth on every household and sends Vayu to fetch the celestial assembly-hall Sudharma from heaven.

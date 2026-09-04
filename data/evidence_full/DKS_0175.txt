@@ -1,0 +1,69 @@
+# STORY DKS_0175 — Krishna Grants Muchukunda His Boon || Krishna reveals himself to Muchukunda, who renounces all boons and asks only for devotion; Krishna grants him liberation in a future birth.
+
+## Index entry
+title: Krishna Grants Muchukunda His Boon || Krishna reveals himself to Muchukunda, who renounces all boons and asks only for devotion; Krishna grants him liberation in a future birth.
+summary: Krishna reveals himself to Muchukunda, who renounces all boons and asks only for devotion; Krishna grants him liberation in a future birth.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Muchukunda
+locations: Muchukunda's cave
+themes: devotion, renunciation, liberation
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0236
+variant_notes: BP-only beat; follows Muchukunda's story (bp10c_014).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 51 | verses 21-62 | confidence 5
+  excerpt: Recognizing Narayana, Muchukunda prayed for nothing but Krishna's service, renouncing all heavenly rewards; Krishna granted that in his next birth he would become a brahmana and attain him alone. (rendered from Sanskrit, verses 21-62)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.51 (21-62)
+21. yavane bhasma-sān nīte bhagavān sātvatarṣabhaḥ /
+22. tam ālokya ghana-śyāmaṃ pīta-kauśeya-vāsasam /
+23. catur-bhujaṃ rocamānaṃ vaijayantyā ca mālayā /
+24. prekṣaṇīyaṃ nṛ-lokasya sānurāga-smitekṣaṇam /
+25. paryapṛcchan mahā-buddhis tejasā tasya dharṣitaḥ /
+26. bhp_10.51.027/0 śrī-mucukunda uvāca
+27. kiṃ svit tejasvināṃ tejo bhagavān vā vibhāvasuḥ /
+28. manye tvāṃ deva-devānāṃ trayāṇāṃ puruṣarṣabham /
+29. śuśrūṣatām avyalīkam asmākaṃ nara-puṅgava /
+30. vayaṃ tu puruṣa-vyāghra aikṣvākāḥ kṣatra-bandhavaḥ /
+31. cira-prajāgara-śrānto nidrayāpahatendriyaḥ /
+32. so 'pi bhasmī-kṛto nūnam ātmīyenaiva pāpmanā /
+33. tejasā te 'viṣahyeṇa bhūri draṣṭuṃ na śaknumaḥ /
+34. evaṃ sambhāṣito rājñā bhagavān bhūta-bhāvanaḥ /
+35. bhp_10.51.036/0 śrī-bhagavān uvāca
+36. kvacid rajāṃsi vimame pārthivāny uru-janmabhiḥ /
+37. kāla-trayopapannāni janma-karmāṇi me nṛpa /
+38. tathāpy adyatanāny aṅga śṛnuṣva gadato mama /
+39. bhūmer bhārāyamāṇānām asurāṇāṃ kṣayāya ca /
+40. kālanemir hataḥ kaṃsaḥ pralambādyāś ca sad-dviṣaḥ /
+41. so 'haṃ tavānugrahārthaṃ guhām etām upāgataḥ /
+42. varān vṛṇīṣva rājarṣe sarvān kāmān dadāmi te /
+43. bhp_10.51.044/0 śrī-śuka uvāca
+44. bhp_10.51.045/0 śrī-mucukunda uvāca
+45. labdhvā jano durlabham atra mānuṣaṃ $ kathañcid avyaṅgam ayatnato 'nagha &amp;pādāravindaṃ na bhajaty asan-matir % gṛhāndha-kūpe patito yathā paśuḥ
+46. mamaiṣa kālo 'jita niṣphalo gato rājya-śriyonnaddha-madasya bhū-pateḥ /
+47. kalevare 'smin ghaṭa-kuḍya-sannibhe $ nirūḍha-māno nara-deva ity aham &amp;vṛto rathebhāśva-padāty-anīkapair % gāṃ paryaṭaṃs tvāgaṇayan su-durmadaḥ
+48. pramattam uccair itikṛtya-cintayā pravṛddha-lobhaṃ viṣayeṣu lālasam /
+49. purā rathair hema-pariṣkṛtaiś caran $ mataṃ-gajair vā nara-deva-saṃjñitaḥ &amp;sa eva kālena duratyayena te % kalevaro viṭ-kṛmi-bhasma-saṃjñitaḥ
+50. nirjitya dik-cakram abhūta-vigraho varāsana-sthaḥ sama-rāja-vanditaḥ /
+51. karoti karmāṇi tapaḥ-suniṣṭhito nivṛtta-bhogas tad-apekṣayādadat /
+52. bhavāpavargo bhramato yadā bhavej janasya tarhy acyuta sat-samāgamaḥ /
+53. manye mamānugraha īśa te kṛto rājyānubandhāpagamo yadṛcchayā /
+54. na kāmaye 'nyaṃ tava pāda-sevanād akiñcana-prārthyatamād varaṃ vibho /
+55. tasmād visṛjyāśiṣa īśa sarvato rajas-tamaḥ-sattva-guṇānubandhanāḥ /
+56. ciram iha vṛjinārtas tapyamāno 'nutāpair $ avitṛṣa-ṣaḍ-amitro 'labdha-śāntiḥ kathañcit &amp;śaraṇa-da samupetas tvat-padābjaṃ parātman % abhayam ṛtam aśokaṃ pāhi māpannam īśa
+57. bhp_10.51.058/0 śrī-bhagavān uvāca
+58. pralobhito varair yat tvam apramādāya viddhi tat /
+59. yuñjānānām abhaktānāṃ prāṇāyāmādibhir manaḥ /
+60. vicarasva mahīṃ kāmaṃ mayy āveśita-mānasaḥ /
+61. kṣātra-dharma-sthito jantūn nyavadhīr mṛgayādibhiḥ /
+62. janmany anantare rājan sarva-bhūta-suhṛttamaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0174 | next_story_id: DKS_0176
+previous title: Muchukunda's Story || Muchukunda, an Ikshvaku king who once guarded the gods against the asuras, was granted deep sleep as his reward.
+next title: Krishna and Balarama Elude Jarasandha || Krishna and Balarama feign flight from Jarasandha, escape to Dvaraka over the sea, and Jarasandha falsely believes them burned.

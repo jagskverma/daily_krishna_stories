@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0017",
+ "title": "Nanda Brings the Infants Home",
+ "subtitle": null,
+ "story": "Vasudeva had been set at liberty, and the first place he went, before he so much as looked toward his own door, was to the waggon of Nanda the cowherd.\n\nNanda had come down from his pastures to the city on business, to pay the year's tribute to the king, and he had camped with his people and their waggons while the matter was settled. Vasudeva found him there rejoicing, for a son had been born to him in the night, and he went to him kindly and offered his congratulations. A son born to a man in his old age, he said, was a thing worth rejoicing over, and the two men stood together for a while and spoke as friends, the way men do when there is good news to share and a long road still ahead.\n\nBut Vasudeva did not linger on pleasantries. The yearly tribute, he reminded Nanda, had been paid, and a man of property had no business tarrying near the court once his affairs were settled. The city was no place to linger, and the court was no friend to men who stayed too long. Why delay, when everything that had brought him there was already finished? Nanda should rise at once and set off for his own pastures, back to his own people, where the air was clean and the work of a cowherd waited for him. The roads would only grow harder the longer he waited.\n\nThen came the harder thing, the thing Vasudeva had really come to say. There was another child, the boy Rohini had borne him. Let this boy, too, accompany Nanda, and let him be brought up in the cowherd's home as if he were Nanda's own son. It was a father asking another man to do for his child what he himself could not, and the asking cost him more than the words let on. He spoke it plainly, without ceremony, the way a man speaks when the matter will not wait.\n\nNanda agreed, and there was no need for long words between them. The cowherds loaded their goods into their waggons, their taxes already paid to the king, and turned their faces toward home. So Nanda set out for Gokula carrying more than he had brought with him: a son born to him in the night, and now a second boy, Rohini's child, entrusted to his care. The waggons rolled out of the city, and the road home carried with them two children who would grow up among the cowherds, far from the court and its dangers, in a village that would call them its own. The boys themselves would remember none of it: not the city, nor the fear, nor the father who had arranged their going.",
+ "reflection": "Set at liberty himself, Vasudeva's first act is not to keep his sons close but to send them away from the city, into a cowherd's keeping. What he could not give them by staying, he secured by letting them go, a father's protection arranged through another man's kindness.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Vasudeva",
+  "Nanda",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Mathura",
+  "Gokula"
+ ],
+ "themes": [
+  "fosterage",
+  "return_home",
+  "trust"
+ ],
+ "previous_story_id": "DKS_0016",
+ "next_story_id": "DKS_0015",
+ "next_story_tease": "Back in Mathura, Kamsa was about to learn of the newborn girl left in the prison.",
+ "hero_scene": "Vasudeva standing beside Nanda's loaded waggon outside the city, speaking quietly to the old cowherd as the oxen wait and the camp makes ready for the journey home to Gokula.",
+ "visual_elements": [
+  "Vasudeva speaking with Nanda beside his waggon",
+  "the camp of cowherd waggons outside the city",
+  "Nanda, elderly, rejoicing over the newborn",
+  "the boy Rohini bore, handed into Nanda's care",
+  "the waggons loaded and turning toward Gokula",
+  "mood of quiet trust and departure"
+ ],
+ "sources": [
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.5",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:51:59Z",
+  "source_event_id": "evt_0194"
+ },
+ "editorial_status": "unreviewed"
+}

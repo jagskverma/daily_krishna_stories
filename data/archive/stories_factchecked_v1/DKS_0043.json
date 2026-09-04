@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0043",
+ "title": "The Cowherds Settle in Vrindavan",
+ "subtitle": null,
+ "story": "The road to Vrindavan was full long before the people reached it, because the cattle went first. A whole herd moved out ahead, hundreds of broad, slow backs, and behind them came the cowherds with their families and their carts, every horn and conch they owned blowing as they went, so that the dust of the track and the sound of it rose up together. It was not a flight, and not a festival. It was a village on the move.\n\nThe women rode in the carts, freshly adorned for the road, and in one cart Yasoda and Rohini sat side by side, the two mothers together. Krishna and Balarama were somewhere in the procession — among the boys who ran ahead and fell behind, or perched on the tail of a wagon, or lost in the warm dust beside the cattle. No one could say where they were at any given moment. That was simply the way of it with those two.\n\nThe carts carried more than people. They carried the whole weight of a household — cooking pots and bedding and bundles of grain, the old people who could not walk the whole way, and the small children too young to walk at all. But a cowherd's true wealth moved in front, on four legs, and no one drove the herd hard and no one left it behind.\n\nThey were bound for Vrindavan, a place the elders knew, a forest that stayed green and pleasant in every season. The journey was not long, and there was no ceremony about its end. The carts rolled in, the horns blew once more and fell quiet, and the cattle came to a stop.\n\nThen the cowherds looked around, and understood why they had come.\n\nThe trees stood thick and cool, their shade lying across the ground like cloth. The hill of Govardhana rose to one side, low and broad, like a guardian set down to watch over the country. And the Yamuna ran past the edge of it all, its banks smooth with sand, the water moving quietly in the light. The old verses remember each of these things by name, because each of them mattered: the forest, the hill, the river.\n\nThey made their camp in a crescent of wagons, the way travellers have always made a wall of their carts and called it home. The cattle were loosed to drink, and settled into the grass with deep, satisfied sounds. The fires were lit, and their smoke went up straight into the still evening. The children, set down from the carts at last, ran the length of the new ground as though it had always been theirs.\n\nAnd in a way it had. In Vrindavan the cowherds set down everything they owned and everything they loved. No one made a speech, and no one raised a flag. The wagons, the herds, the mothers and the boys and the two who were somehow more than boys — all of it came to rest inside that crescent, and the forest, the hill, and the river received them without a word.",
+ "reflection": "The settling of Vrindavan is told almost without event — a journey, an arrival, a camp — and that quietness is the point. Before any miracle or battle, there was this: a whole people on the road, and a place that received them without ceremony.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Nanda",
+  "Yasoda",
+  "cowherds",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "migration",
+  "new_home"
+ ],
+ "previous_story_id": "DKS_0042",
+ "next_story_id": "DKS_0044",
+ "next_story_tease": "Settled in their new home, the boys would soon take up the herding of calves — and find an enemy waiting among them.",
+ "hero_scene": "A crescent of bullock wagons and carts on the grass of Vrindavan at evening, cooking fires lit and smoke rising straight, cattle and children settling in, with the broad hill of Govardhana and the Yamuna's sandy banks behind them.",
+ "visual_elements": [
+  "herd of cattle leading the way",
+  "bullock carts and wagons",
+  "Yasoda and Rohini sharing one cart",
+  "Krishna and Balarama among the boys",
+  "Govardhana hill",
+  "Yamuna riverbank",
+  "camp fires and rising smoke",
+  "crescent of wagons",
+  "warm evening light",
+  "arrival and belonging"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.11.31-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:01Z",
+  "source_event_id": "evt_0054"
+ },
+ "editorial_status": "unreviewed"
+}

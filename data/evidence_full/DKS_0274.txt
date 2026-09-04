@@ -1,0 +1,101 @@
+# STORY DKS_0274 — Krishna Seizes His Discus and Charges Bhishma
+
+## Index entry
+title: Krishna Seizes His Discus and Charges Bhishma
+summary: Unable to bear Bhishma's slaughter of the Pandava army, Krishna abandons the chariot reins, leaps down with the discus Sudarshana, and rushes impetuously toward Bhishma to slay him.
+life_stage: kurukshetra | story_arc: dwaraka_royal_life
+characters: Krishna, Bhishma, Arjuna
+locations: Kurukshetra
+themes: wrath, protection, discus
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0489
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 6 | chapter/section 59 | verses  | confidence 4
+  excerpt: Vasudeva's son, abandoning (the reins of) the steeds, jumped down from the car, whirling with his (right) arm his discus of beautiful nave with edge sharp as a razor, effulgent as the sun... the high-souled Krishna rushed impetuously towards Bhishma... like a lion from desire of slaying upon a prince of elephants blinded with fury.
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 6.59 ()
+Dhritarashtra said, “After that dreadful vow had been made in battle by
+Bhishma enraged by the words of my son, what, O Sanjaya, did Bhishma do
+unto the sons of Pandu or what did the Panchalas do unto the grandsire?
+Tell it all unto me, O Sanjaya.”
+
+Sanjaya said, “After the forenoon of that day, O Bharata, had passed
+away, and the sun in his westward course had passed a portion of his
+path, and after the high-souled Pandavas had won the victory, thy sire
+Devavrata, conversant with the distinction of all codes of morality,
+rushed carried by the fleetest steeds, towards the army of the Pandavas,
+protected by a large force and by all thy sons. Then, O Bharata, in
+consequence of thy sinful policy, commenced a dreadful battle, making the
+hair stand on end, between ourselves and the Pandavas. And the twang of
+bows, the flapping of bowstrings against the leathern fences (casing the
+hands of the bowman), mingling together, made a loud uproar resembling
+that of splitting hills. Stay--Here I stand,--Know this one,--Turn
+back,--Stand,--I wait for thee--Strike,--these were the words heard
+everywhere. And the sound of falling coats of mail made of gold, of
+crowns and diadems, and of standards resembled the sound of falling
+stones on a stony ground. And heads, and arms decked with ornaments,
+falling by hundreds and thousands upon the ground moved in convulsions.
+And some brave combatants, with heads severed from their trunks,
+continued to stand weapons in grasp or armed with drawn bow. And a
+dreadful river of blood began to flow there, of impetuous current, miry
+with flesh and blood, and with the bodies of (dead) elephants for its
+(sub-aqueous) rocks. Flowing from the bodies of steeds, men, and
+elephants, and delightful to vultures and jackals, it ran towards the
+ocean represented by the next world. A battle such as that, O king, which
+(then) took place between thy sons, O Bharata, and the Pandavas, was
+never seen or heard before. And in consequence of the bodies of
+combatants slain in that conflict, cars could not make their way. And the
+field of battle in consequence of the bodies of slain elephants seemed to
+be strewn over with blue crests of hills. And the field of battle, strewn
+with variegated coats of mail and turbans, O sire, looked beautiful like
+the firmament autumn. And some combatants were seen who, though severely
+wounded, yet rushed cheerfully and proudly upon the foe in battle. And
+many, fallen on the field of battle, cried aloud, saying--‘O father, O
+brother, O friend, O kinsman, O companion, O maternal uncle, do not
+abandon me.’--And others cried aloud, saying,--‘Come! Come thou here! Why
+art thou frightened? Where dost thou go? I stand in battle, do not be
+afraid.’ And in that combat Bhishma, the son of Santanu, with bow
+incessantly drawn to a circle, shot shafts of blazing points, resembling
+snakes of virulent poison. And shooting continuous line of arrows in all
+directions, that hero of rigid vows smote the Pandava car-warriors naming
+each beforehand, O Bharata. And displaying his extreme lightness of
+hands, and dancing (as it were) along the track of his car, he seemed, O
+king, to be present everywhere like a circle of fire. And in consequence
+of the lightness of his movements, the Pandavas in that battle, along
+with the Srinjayas, beheld that hero, though really alone, as multiplied
+a thousand-fold. And every one there regarded Bhishma as having
+multiplied his self by illusion. Having seen him now on the east, the
+next moment they saw him on the west. And so having seen him on the
+north, the next moment they saw him on the south. And the son of Ganga
+was thus seen fighting in that battle. And there was no one amongst the
+Pandavas capable of even looking at him. What they all saw were only the
+innumerable shafts shot from his bow. And heroic warriors, beholding him
+achieve such feats in battle, and (thus) slaughtering their ranks,
+uttered many lamentations. And, kings in thousands came in contact with
+thy sire, thus coursing over the field in a superhuman way, and fell upon
+that fire represented by the enraged Bhishma like flights of senseless
+insects (upon a blazing fire) for their own destruction. Not a single
+shaft of that light-handed warrior was futile, falling upon the bodies of
+men, elephants, and steeds, in consequence of the numbers (opposed to
+him). With a single straight shaft shot in that battle, he despatched a
+single elephant like hill riven by the thunderbolt. Two or three
+elephant-riders at a time, cased in mail and standing together, thy sire
+pierced with one shaft of sharp point. Whoever approached Bhishma, that
+tiger among men, in battle, seen for a moment, was next beheld to fall
+down on the ground. And that vast host of king Yudhishthira the just,
+thus slaughtered by Bhishma of incomparable prowess, gave way in a
+thousand directions. And afflicted with that arrowy shower, the vast army
+began to tremble in the very presence of Vasudeva and the high-souled
+Partha. And although the 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0273 | next_story_id: DKS_0275
+previous title: Krishna Shatters the Rock-Shower with Indra's Thunderbolt || Buried under torrents of rocks hurled by Salwa's Danavas, Krishna wields Indra's thunderbolt and destroys the entire mass of crags, then resumes the fight.
+next title: Nanda Is Swallowed by a Serpent and Freed

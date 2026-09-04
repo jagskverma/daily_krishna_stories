@@ -1,0 +1,60 @@
+{
+  "id": "DKS_0525",
+  "title": "Daruka, the Last Messenger",
+  "subtitle": null,
+  "story": "Krishna's people, the Yadavas, were gone. At Prabhasa, on a seashore under a curse spoken long before, they had drunk wine until they fell on one another, and in a short time almost none of them were left. Now the few survivors searched for Balarama, Krishna's elder brother, who had walked away from the slaughter without a word. Krishna left the ruin with his charioteer Daruka and with Vabhru, one of the last heroes of the clan, and followed the trail of the man who had walked away from everything.\n\nThey found him at last in a solitary spot, sitting with his back against a tree, thoughtful, his great arms folded, looking at nothing. The man who had levelled armies with his plough-arm sat as still as the tree, as though the strength had gone out of him with his clan.\n\nKrishna stood before his brother, and there was no collapse in his voice, only care. \"Daruka,\" he said, \"go to the Kurus, to Hastinapura, and carry this news to Arjuna, whom his friends call Partha. Tell him how the Yadavas destroyed one another under a brahmin's curse, and ask him to come here quickly.\"\n\nDaruka, nearly out of his senses with grief, climbed onto his chariot and drove toward Hastinapura without looking back, carrying the worst news a messenger had ever carried. The road was long, and the news would not keep.\n\nKrishna turned to Vabhru. \"Go quickly,\" he said, \"and guard the women. Let no robbers harm them, tempted by the wealth that travels with them.\" Vabhru — still dazed with wine, and sick at heart over his slaughtered kinsmen — touched Krishna's hand and set out. He had gone only a little way when the iron bolt found him at last. That bolt, which Samva had brought forth and which the king had ground to powder and scattered on the sea, had kept its shape somewhere in the world, waiting for a hunter's hand; now it sprang from the mallet in a hunter's grip and struck down the solitary survivor, who had been named in the same curse.\n\nKrishna watched it happen and did not move. He had always known the bolt would not stay buried. He turned to Balarama. \"Wait for me here,\" he said, \"while I place the women under the care of their kinsmen.\"\n\nHe entered the city of Dwaraka and went to his father, old Vasudeva. \"Guard the women of our house,\" he said, \"until Arjuna comes. Balarama is waiting for me at the edge of the forest, and I will join him there today. I have watched our people destroy one another, as once I watched the great warriors of the Kuru line destroy one another in war, and I cannot bear to look on this city without the Yadavas in it. I am going into the woods, to live a life of stillness and prayer with Balarama.\" He touched his father's feet with his head and left his presence quickly.\n\nBehind him the wailing began — the women of the house and the children crying out together, a sound like the city tearing in two. Krishna stopped, turned back, and stood before them. \"Arjuna will come,\" he said. \"That foremost of men will lift this grief from you.\"\n\nThen he walked out of Dwaraka toward the forest where his brother waited, and the city was left holding its breath, watching the yellow cloth of his robe grow small against the trees. No one at the gate moved until the cloth had vanished into the green, and then the wailing began again, softer this time, as if the city no longer had the heart for it.",
+  "reflection": "Krishna's last commands are all acts of care: a messenger sent to the one man in the world who could guard the women, a promise spoken to the weeping household. Even at the edge of his own ending, he arranges the world's protection first — and the telling lets the reader watch him walk away knowing he will not come back.",
+  "tradition_note": null,
+  "content_note": "Contains the sudden death of Vabhru and the sorrowful atmosphere of the Yadava race's final hours; best shared with older children or with an adult to give context.",
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 4,
+  "life_stage": "later_life",
+  "story_arc": "end_of_yadavas",
+  "characters": [
+    "Krishna",
+    "Balarama",
+    "Daruka",
+    "Vabhru",
+    "Arjuna"
+  ],
+  "locations": [
+    "Prabhasa",
+    "Dwaraka"
+  ],
+  "themes": [
+    "farewell",
+    "protection",
+    "curse"
+  ],
+  "previous_story_id": "DKS_0524",
+  "next_story_id": "DKS_0526",
+  "next_story_tease": "Arjuna would hear the news soon enough, and carry it home to Hastinapura.",
+  "hero_scene": "Krishna, in yellow robes, walking out of the city of Dwaraka toward the forest where Balarama waits, while behind him the women and children of his house wail at the gate.",
+  "visual_elements": [
+    "Krishna walking away in yellow robes",
+    "the forest edge where Balarama waits",
+    "the weeping women and children at the gate of Dwaraka",
+    "a solitary tree in the distance",
+    "evening light",
+    "a mood of farewell and grief"
+  ],
+  "sources": [
+    {
+      "work": "Mahabharata",
+      "reference": "16.4",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T18:12:44Z",
+    "source_event_id": "evt_0515",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "major"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

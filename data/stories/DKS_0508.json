@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0508",
+ "title": "The Python's Contentment and the Ocean's Depth",
+ "subtitle": null,
+ "story": "King Yadu sat on the forest road before the wandering brahmin — the avadhuta, the renunciate who owned nothing and feared nothing — and listened while the man spoke, one by one, of the teachers he had met. The ninth and the tenth, he said, were a python and the ocean.\n\n\"The python taught me contentment,\" the avadhuta said. \"He lies where he happens to be, and whatever comes within reach — fine food or foul, much or little — he takes. If nothing comes, he lies still for days on end, without effort, without complaint. He does not hunt, he does not plan, he does not grieve the meal that passes him by; hunger comes and goes, and he is still the python either way. He carries strength and vigor, yet he does not spend them on striving; what his hands do, they do without desire, and it leaves no mark on him. So the sage accepts what chance brings and does not run after more.\"\n\nThe king, whose days were a long argument with appetite — the next campaign, the next pleasure, the next proof of his greatness — heard this and felt a strange lightness, as if a knot had loosened inside him.\n\n\"The ocean taught me depth,\" the avadhuta said. \"The rivers pour into it and it does not swell; they may rage in flood or fail in drought, and it does not sink. It receives both without preference, because its fullness is its own. Whatever pours in, whatever is withheld, the sea stays deep and still — too deep to be fathomed, too still to be stirred. So the sage stays the same whether the world pours gifts on him or leaves him empty-handed: he is fixed on Narayana alone — on God — and that fullness does not rise or fall with fortune.\"\n\nYadu looked at the wanderer — a man who owned nothing and had just described the ocean as if it lived inside him — and slowly understood that the python's stillness and the ocean's depth were one teaching: freedom does not come from having enough; it comes from needing nothing. The sage is not the man who has everything; he is the man who is complete without anything, like the sea that no river can fill and no drought can empty.\n\nA wind moved through the forest, and the avadhuta sat in the middle of it, unmoved, like his teachers. The king had come to the forest to escape his court for a day, and found he had wandered into a school greater than any he had built. Seeing that the lesson had landed, the sage spoke again — of the moth, and of the flame it cannot resist.",
+ "reflection": "The python and the ocean teach the same freedom at two scales: the python accepts what comes without striving, the ocean stays full whether rivers come or not — and the two together show that contentment is not a matter of how much one has but of where one's center is. The sage's fullness is fixed on Narayana, so fortune can neither add to it nor take from it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the avadhuta",
+  "the python",
+  "the ocean"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "contentment",
+  "equanimity",
+  "stillness"
+ ],
+ "previous_story_id": "DKS_0507",
+ "next_story_id": "DKS_0509",
+ "next_story_tease": "Then he told of the moth, which cannot resist the flame.",
+ "hero_scene": "A great python lies coiled and still beneath a tree, swallowing a scrap that chance brought it, while beyond the forest a vast calm ocean stretches unruffled under the sky — and the avadhuta gestures toward both as the king watches.",
+ "visual_elements": [
+  "the coiled python, still, taking what chance brought",
+  "the vast serene ocean, deep and unmoved",
+  "the avadhuta gesturing toward his two teachers",
+  "King Yadu listening, the knot of desire loosening in his face",
+  "rivers pouring into the sea and drying up, the sea unchanged"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.8.1-5",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:31Z",
+  "source_event_id": "evt_0528",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

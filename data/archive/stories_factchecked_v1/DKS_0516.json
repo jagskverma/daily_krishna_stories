@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0516",
+ "title": "The Emperor Who Ran After a Nymph",
+ "subtitle": "Pururava sings of the delusion that undid him",
+ "story": "The emperor of the world was running through a forest, naked and weeping, calling a name into the trees.\n\nHis name was Pururava, son of Ila, and his fame had once covered the earth. But the nymph Urvashi had left him, and the man who had ruled an empire was now following her like a beast, mad with grief, unsatisfied, chasing a shadow through the years and the nights. When Krishna told Uddhava this story, he meant it as a mirror held up to every man who has ever handed his own mind to another and called it love.\n\nFor a long time Pururava ran. Then, in the depth of the forest, the madness broke, and he sang. His song has been remembered ever since as the song of Aila.\n\nHe no longer knew, he sang, whether the sun had risen or he had slipped deeper into darkness — he knew only that she was not there. Alas, what delusion seized me, that I, a self, a soul, made myself the plaything of a woman! I was the lord of the world, and I threw away my own majesty like a straw and ran after her. Where is her power over me, her brilliance, her sovereignty? All of it existed in my own mind. What use is learning, what use austerity, what use renunciation or scripture, to a man who does not know his own good? Shame on me — a fool who thought himself wise. For years I served the nectar of her lips, and the mind she stole from me — what power on earth could have freed it? Even when she herself spoke well-chosen words to warn me, I was too dull to hear them.\n\nThen the song turned, and the grief turned with it.\n\nWhat harm, after all, has she done me? A man sees a snake in a rope and screams — the rope never harmed him. The terror was in the seeing. And what is this body that I adorned and grieved over, this foul sack of flesh and bone, impure, made of bad smells? Whose is it — my parents', my wife's, my master's, the fire's that will take it, the dogs' and jackals' that will feed on it? In this worthless corpse the mind fastens itself, in this heap of skin and flesh and blood and sinew and marrow and bone. Let a man who knows what is good for him look at it plainly, and he will not cling to women, or to anything that belongs to the world of women, with his senses leashed to desire. From what is never seen and never heard, no attachment is born; it is born of contact, of looking and longing. Therefore let there be no contact, no clinging.\n\nAnd as he sang, the delusion left him. The forest floor was only forest floor again; the name he had been calling was only a name. The emperor who had run naked and weeping rose up clothed in his own understanding, and the peace he had chased through the years and nights of his madness settled over him where he stood.\n\nKrishna ended the tale there. If even Pururava, far-famed, lord of the whole earth, was brought so low by a mind that fastened on an object of desire, he said to Uddhava, then let anyone who hears the song of Aila look to his own heart before he lets his run.",
+ "reflection": "The rope-and-snake image carries the whole lament: Urvashi had done nothing — the terror and the longing were in the seeing. Pururava's peace comes the moment he stops accusing her and turns the question on his own mind. Read closely, the warning against clinging to women is a warning about attachment itself: the mind that fastens on any object of craving builds its own prison and then blames the object.",
+ "tradition_note": "The Bhagavata Purana presents the lament as an example Krishna gives Uddhava of the danger of attachment; the language of the passage is addressed to men, but the underlying teaching concerns the mind's projections onto any object of desire.",
+ "content_note": "The episode includes Pururava's naked, distraught pursuit of Urvashi; described with restraint, it is a classical image of delusion rather than explicit content.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "Pururava (Aila)",
+  "Urvashi"
+ ],
+ "locations": [
+  "a forest",
+  "the royal court"
+ ],
+ "themes": [
+  "attachment",
+  "delusion",
+  "detachment",
+  "the mind"
+ ],
+ "previous_story_id": "DKS_0515",
+ "next_story_id": "DKS_0517",
+ "next_story_tease": "The teaching over, Krishna now sent his own dearest friend out of Dwaraka and onto the road.",
+ "hero_scene": "A king kneels in a forest glade, his robes discarded at his feet, weeping as the figure of a nymph vanishes among the trees; the first light of dawn touches the leaves around him.",
+ "visual_elements": [
+  "Pururava kneeling in the forest glade",
+  "his discarded robes at his feet",
+  "the figure of Urvashi fading into the trees",
+  "the first light of dawn through the leaves",
+  "the king rising calm as the delusion lifts"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.26.3-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:23Z",
+  "source_event_id": "evt_0536"
+ },
+ "editorial_status": "unreviewed"
+}

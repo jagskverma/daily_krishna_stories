@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0367",
+ "title": "The Counsel at Panchala",
+ "subtitle": "Vidura brings word from Hastinapura, and Krishna's opinion decides the Pandavas' next move.",
+ "story": "Vidura came to Panchala as the messenger no one could dismiss, and the message he carried had been waiting in the air ever since the wedding fires died down. The Pandavas had found a refuge, a father-in-law, and a wife in King Drupada's house. But Vidura spoke now of their ancestral kingdom — of the throne of Hastinapura that was theirs by right, and of the question that would not stay buried: would the sons of Pandu press that claim?\n\nDrupada heard him out, and his answer was careful. The princes should return to their ancestral kingdom, he said; it was highly proper. But it was not proper for him, their host, to say so himself. If Yudhishthira and Bhima and Arjuna and the twins themselves desired to go, and if Balarama and Krishna — both acquainted with every rule of morality — were of the same mind, then let the Pandavas go. For those two, he added, were ever engaged in doing what was agreeable and beneficial to Pandu's sons.\n\nYudhishthira answered with all the warmth of a son: \"We are now, O monarch, with all our younger brothers, dependent on thee. We shall cheerfully do what thou art pleased to command.\"\n\nThen Krishna spoke, and his words settled the room. \"I am of opinion that the Pandavas should go. But we should all abide by the opinion of king Drupada, who is conversant with every rule of morality.\"\n\nIt was a rare sentence: an opinion given, and then set aside for another man's judgment. Drupada received it as the honour it was. He agreed with what this foremost of men thought, having regard to the circumstances — for the sons of Pandu were now as dear to him as they were to Vasudeva. And then he said the thing that has been remembered about this quiet council ever since: \"Kunti's son Yudhishthira himself doth not seek the welfare of the Pandavas so earnestly as Kesava, that tiger among men.\"\n\nThat was the decision, and it moved with the speed of a command. At Drupada's bidding the Pandavas, with Krishna and Vidura, set out — taking Draupadi and the renowned Kunti with them — journeying toward the city called after the elephant, and stopping along the way for pleasure and enjoyment, as though the road itself wanted to delay a homecoming that had been too long coming.\n\nWord of their approach raced ahead of them. King Dhritarashtra sent the Kauravas out to receive the heroes: Vikarna of the great bow, Chitrasena, Drona the foremost of warriors, and Kripa of Gautama's line. Surrounded by that honour guard, the brothers entered Hastinapura, and the whole city became radiant with the gay throng of sight-seers. The citizens called out as they passed. \"Here returns that tiger among men, conversant with all the rules of morality, who always protects us as if we were his nearest relatives,\" some cried. And others, with the fierce love of a city for its own, said: \"If we have ever given away in charity, if we have ever poured libations of clarified butter on the fire, if we have any ascetic merit, let the Pandavas, by virtue of all those acts, stay in our town for a hundred years.\"\n\nAt the palace, the brothers worshipped the feet of Dhritarashtra and of the illustrious Bhishma, and of everyone else who deserved that honour, and enquired after the welfare of every citizen present. They rested, and were summoned to the court. There Dhritarashtra gave them what no one had dared hope for — not a welcome merely, but a settlement. \"Repair ye to Khandavaprastha so that no difference may arise again between you and your cousins. If you take up your quarters there, no one will be able to do you any injury. Protected by Arjuna, like the celestials by the thunderbolt, reside ye at Khandavaprastha, taking half of the kingdom.\"\n\nThe brothers agreed. Content with half a kingdom, they worshipped the king and set out from Hastinapura toward a stretch of unreclaimed desert that they would have to turn into a home. It did not look like much of a throne. But Krishna had said they should go — and Krishna, who had left the desert only after them, was already thinking of what the land could become.",
+ "reflection": "Drupada's parting tribute is striking: he measures Krishna's care for the Pandavas against the love of their own eldest brother and finds it no less. In a court where everyone has an interest in the brothers — the Kauravas, the citizens, even their new father-in-law — Krishna alone wants for them exactly what they would want for themselves, and gives his opinion in a form that leaves the final word to others.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Drupada",
+  "Yudhishthira",
+  "Balarama",
+  "Dhritarashtra",
+  "Bhishma"
+ ],
+ "locations": [
+  "Panchala",
+  "Hastinapura"
+ ],
+ "themes": [
+  "counsel",
+  "friendship",
+  "righteousness"
+ ],
+ "previous_story_id": "DKS_0366",
+ "next_story_id": "DKS_0368",
+ "next_story_tease": "The unreclaimed desert was a strange gift — and Krishna would not leave the Pandavas to it until it had become a city.",
+ "hero_scene": "In the sunlit hall at Panchala, Krishna rises and gives his counsel — \"I am of opinion that the Pandavas should go\" — while Drupada inclines his head in deference, Vidura listens from his seat, and Yudhishthira stands with palms joined before the man who sought the brothers' welfare like his own.",
+ "visual_elements": [
+  "Krishna standing to give his opinion in Drupada's hall",
+  "Drupada deferring with a nod",
+  "Yudhishthira with joined palms",
+  "Vidura seated in attendance",
+  "the five Pandava brothers gathered",
+  "the journey toward Hastinapura",
+  "the citizens of Hastinapura crying out blessings in the streets"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.209",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0406"
+ },
+ "editorial_status": "unreviewed"
+}

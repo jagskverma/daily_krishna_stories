@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0293",
+ "title": "Krishna and Balarama Visit Bali in Sutala",
+ "subtitle": null,
+ "story": "Krishna and his elder brother Balarama did not travel by any road that day. Where they were going, beneath the world, no path led; they descended by their own mystic power into the vast, splendid realm called Sutala, the kingdom of Bali, king of the daityas — the ancient demon race. A demon by birth, Bali was a devotee by heart.\n\nBali knew them the moment they appeared. He rose from his seat at once, for before him stood Krishna, whom his heart had worshipped all his life, and Balarama beside him, and he bowed low, his whole family bowing with him, his heart overflowing with the joy of the sight. He brought forward a noble seat and settled the two upon it, and then he worshipped them with everything his kingdom held precious: garments of great worth, ornaments, cooling unguents, and all the riches of his realm laid out like an offering. He washed their feet with his own hands, his kin around him, and again and again he lifted those lotus feet to his head, his mind dissolved in love. It seemed to him that no king in any world had ever entertained such guests, and he did not intend to let the moment pass unhonored.\n\n\"Your sight is hard to obtain, even for the gods,\" Bali said. \"Gods and demons, the minstrels of heaven and the sages of the sky — some approach you with enmity and some with longing, and none can fully know you. From the dark well of this world, where no one thinks to seek you, you have drawn me up and set my feet upon your path. Instruct me, lord. Make me free of fault.\"\n\nKrishna looked at the king of Sutala with the affection he gives to devotion, wherever it is found — in a palace above the earth or in a kingdom beneath it. Then he told him what he had come for.\n\n\"These six sons,\" he said, \"were once the six sons of the sage Marichi. They laughed at Brahma, the creator god, and for that fault they were cursed to be born as demons. Born in Devaki's womb, they were slain by Kamsa — the very children my mother weeps for. They dwell here, near your own city, waiting to be released from the curse. I will take them back with me, to end my mother's grief.\"\n\nHe said it without drama, as one stating what had always been true. The six sons of Marichi had passed through many births to arrive at this one — waiting, in the shadows of a demon king's realm, for the two brothers to come and fetch them home. Their deaths at Kamsa's hands had never been an ending, only a pause.\n\nBali listened, and understood that the visit had never been about him — and yet he was not diminished by that understanding. It was enough that the Lord had entered his kingdom, enough that he had sat on his seat and accepted his worship. The six sons, waiting in the shadows of his realm, were about to be given back to the light, and Bali had been allowed to witness it.\n\nSo, having spoken, Krishna took the six sons into his keeping. Bali pressed his head once more to those feet that had come down into his kingdom, and the two brothers rose from Sutala with the six sons beside them, carrying a mother's grief, and its answer, back toward the world above.",
+ "reflection": "The descent to Sutala reads almost like a mirror of the world above: it is a demon king, not a mortal one, who shows what devotion looks like, asking nothing for himself and only to be made whole by the Lord's presence. The revelation of the sons' origin is given almost as an aside, as if to say that even their deaths were a thread in a longer design.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Bali",
+  "Devaki"
+ ],
+ "locations": [
+  "Sutala"
+ ],
+ "themes": [
+  "descent to the underworld",
+  "devotion",
+  "revelation"
+ ],
+ "previous_story_id": "DKS_0292",
+ "next_story_id": "DKS_0294",
+ "next_story_tease": "Back in Dwaraka, a mother was waiting with open arms for the six sons she had lost.",
+ "hero_scene": "In the jeweled hall of Sutala, the daitya king Bali bows low and lifts the lotus feet of Krishna and Balarama to his head, his whole family bowing behind him, while the two brothers sit upon the noble seat he has brought.",
+ "visual_elements": [
+  "the vast realm of Sutala beneath the earth",
+  "Bali bowing with his whole family",
+  "Krishna and Balarama on a noble seat",
+  "garments, ornaments and unguents as offerings",
+  "Bali lifting their lotus feet to his head",
+  "the six sons waiting in the shadows",
+  "mood of reverence and revelation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.85.33-51",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:42Z",
+  "source_event_id": "evt_0497",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

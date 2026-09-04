@@ -1,0 +1,38 @@
+# STORY DKS_0074 — Krishna Dances on Kaliya's Heads
+
+## Index entry
+title: Krishna Dances on Kaliya's Heads
+summary: Breaking free of the serpent's coils, Krishna leaps up and dances upon Kaliya's raised heads, trampling each hood that will not bow.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Krishna, Kaliya
+locations: Yamuna river
+themes: victory, divine_power
+festival_tags: Naga Panchami
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0071
+variant_notes: HV/VP fold this dance into the banishment episode (see 'kaliya_banish').
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 16 | verses 22-30 | confidence 5
+  excerpt: Slipping from the coils, Krishna springs onto the serpent's hoods and dances there, crushing each head that refuses to bow, while the celestial beings shower flowers and music upon him. (rendered from Sanskrit, verse 22-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.16 (22-30)
+22. ittham sva-gokulam ananya-gatiṃ nirīkṣya $ sa-strī-kumāram ati-duḥkhitam ātma-hetoḥ &amp;ājñāya martya-padavīm anuvartamānaḥ % sthitvā muhūrtam udatiṣṭhad uraṅga-bandhāt
+23. tat-prathyamāna-vapuṣā vyathitātma-bhogas $ tyaktvonnamayya kupitaḥ sva-phaṇān bhujaṅgaḥ &tat-prathyamāna-vapuṣā vyathitātma-bhogas $ tyaktvonnamayya kupitaḥ sva-phaṇān bhujaṅgaḥ &tasthau śvasañ chvasana-randhra-viṣāmbarīṣa- % stabdhekṣaṇolmuka-mukho harim īkṣamāṇaḥ
+24. taṃ jihvayā dvi-śikhayā parilelihānaṃ $ dve sṛkvaṇī hy ati-karāla-viṣāgni-dṛṣṭim &taṃ jihvayā dvi-śikhayā parilelihānaṃ $ dve sṛkvaṇī hy ati-karāla-viṣāgni-dṛṣṭim &krīḍann amuṃ parisasāra yathā khagendro % babhrāma so 'py avasaraṃ prasamīkṣamāṇaḥ
+25. evaṃ paribhrama-hataujasam unnatāṃsam $ ānamya tat-pṛthu-śiraḥsv adhirūḍha ādyaḥ &evaṃ paribhrama-hataujasam unnatāṃsam $ ānamya tat-pṛthu-śiraḥsv adhirūḍha ādyaḥ &tan-mūrdha-ratna-nikara-sparśāti-tāmra- % pādāmbujo 'khila-kalādi-gurur nanarta
+26. taṃ nartum udyatam avekṣya tadā tadīya- $ gandharva-siddha-muni-cāraṇa-deva-vadhvaḥ &taṃ nartum udyatam avekṣya tadā tadīya- $ gandharva-siddha-muni-cāraṇa-deva-vadhvaḥ &prītyā mṛdaṅga-paṇavānaka-vādya-gīta- % puṣpopahāra-nutibhiḥ sahasopaseduḥ
+27. yad yac chiro na namate 'ṅga śataika-śīrṣṇas $ tat tan mamarda khara-daṇḍa-dharo 'ṅghri-pātaiḥ &yad yac chiro na namate 'ṅga śataika-śīrṣṇas $ tat tan mamarda khara-daṇḍa-dharo 'ṅghri-pātaiḥ &kṣīṇāyuṣo bhramata ulbaṇam āsyato 'sṛṅ % nasto vaman parama-kaśmalam āpa nāgaḥ
+28. tasyākṣibhir garalam udvamataḥ śiraḥsu $ yad yat samunnamati niḥśvasato ruṣoccaiḥ &tasyākṣibhir garalam udvamataḥ śiraḥsu $ yad yat samunnamati niḥśvasato ruṣoccaiḥ &nṛtyan padānunamayan damayāṃ babhūva % puṣpaiḥ prapūjita iveha pumān purāṇaḥ
+29. tac-citra-tāṇḍava-virugna-phaṇā-sahasro $ raktaṃ mukhair uru vaman nṛpa bhagna-gātraḥ &tac-citra-tāṇḍava-virugna-phaṇā-sahasro $ raktaṃ mukhair uru vaman nṛpa bhagna-gātraḥ &smṛtvā carācara-guruṃ puruṣaṃ purāṇaṃ % nārāyaṇaṃ tam araṇaṃ manasā jagāma
+30. kṛṣṇasya garbha-jagato 'ti-bharāvasannaṃ $ pārṣṇi-prahāra-parirugna-phaṇātapatram &kṛṣṇasya garbha-jagato 'ti-bharāvasannaṃ $ pārṣṇi-prahāra-parirugna-phaṇātapatram &dṛṣṭvāhim ādyam upasedur amuṣya patnya % ārtāḥ ślathad-vasana-bhūṣaṇa-keśa-bandhāḥ
+
+## Corpus chain
+previous_story_id: DKS_0073 | next_story_id: DKS_0075
+previous title: Kaliya Coils Around Krishna and Vraja Despairs
+next title: Kaliya's Wives Plead for His Life
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

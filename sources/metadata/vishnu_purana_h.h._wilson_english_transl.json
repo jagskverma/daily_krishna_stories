@@ -1,0 +1,19 @@
+{
+  "work": "Vishnu Purana (H.H. Wilson English translation)",
+  "translator": "Horace Hayman Wilson",
+  "edition": "London: John Murray, 1840 (digitized epub, archive.org item thevishnupuranacomplete6bookssethoracehaymanwilson)",
+  "publication_year": 1840,
+  "download_url": "https://archive.org/download/thevishnupuranacomplete6bookssethoracehaymanwilson/The%20Vishnu%20Purana%20(Complete%206%20Books%20Set)%20-%20Horace%20Hayman%20Wilson.epub",
+  "download_date": "2026-09-01",
+  "format": "EPUB (XHTML) + djvu.txt backup",
+  "copyright_status": "public domain",
+  "license_notes": "Wilson died 1860; translation PD",
+  "sha256": "176b2035a6a1a8c27230f35d21198d9d66d2d79412755c50c75f3d383d057fcb",
+  "files": [
+    "vishnu_purana/wilson_vishnupurana_1840.epub",
+    "vishnu_purana/wilson_vishnupurana_1840_djvu.txt"
+  ],
+  "role": "CANONICAL English source for Vishnu Purana (Book V = Krishna's life, 38 chapters)",
+  "quality": "clean",
+  "confidence": 5
+}

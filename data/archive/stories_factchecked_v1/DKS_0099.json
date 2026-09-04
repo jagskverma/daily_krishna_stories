@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0099",
+ "title": "The Gopis Abandon Their Homes",
+ "subtitle": null,
+ "story": "The moon came up full over Vrindavan, and it washed the eastern sky with a red that was almost the colour of fresh kumkum. The forest stood soft in that light, and the whole of it seemed to wait. The river below carried the light in broken pieces, and the air smelled of the year turning. It was one of those autumn nights when the heat of the day has gone and the earth gives back its warmth. Krishna looked at the night and at the forest, and he raised his flute and began to play.\n\nThe song did not call out to anyone by name. It was simply the flute on an autumn night, low and sweet, and it did not ask; it drew. It did not soothe; it quickened, the way a single note can set a whole evening leaning. It was the kind of song that makes a listener restless in her own house. It was the sound they had been waiting for without knowing it. It crossed the fields and the lanes and the courtyards of the village, and it made the quiet of the evening feel like a promise. The women of Vraja heard it, and their minds went out of them.\n\nOne of them was milking, and she left the cow standing with the pail half full and did not look back. One was serving the evening meal, and she set the dish down while it was still warm and walked out. One had a child at her breast, and she put the child down and went. One was anointing herself for the evening, and she stopped where she sat. One had kohl half applied to her eyes, and she left it there, one eye dark and the other bare. Each of them was in the middle of something, and each of them left it unfinished. The evening tasks lay where they had dropped, and the houses stood half-done, as though time had stopped inside them.\n\nHusbands caught at their arms, and fathers and brothers called after them, and the hands of their kinsfolk closed over their wrists. It made no difference. Their voices rose and fell behind them, and were lost under the sound of the flute, which went on and did not hurry. They went, heedless of every restraint, because the sound of the flute had taken them and would not let them go.\n\nSome of them could not go at all. The door was watched, or the house had closed in around them, and no way out could be found. Those women shut their eyes where they stood, some of them before they had even reached the door. The ache of being apart from the one they loved had grown unbearable and fierce, and in the shutting of their eyes it burned itself out, and whatever else had been in them went with it. With their eyes shut they went to him, and they found him as surely as the women who had crossed the fields.\n\nBy the time they reached him, the moon stood high over the Yamuna. Krishna saw the women of Vraja come near to him, the milkmaid with the pail half full, the one with kohl on a single eye, and those who had never left their courtyards at all but had come to him with their eyes closed. The night, which had begun so quietly, had gathered them all to one place on the riverbank, and behind them the village went on sleeping, unaware of who had slipped away from it. The Yamuna was there to meet them, dark and slow under the moon.",
+ "reflection": "What stays in the mind is the inventory of unfinished things, the milk half-milked and the eye half-painted. The gopis are not shown renouncing anything with ceremony; they simply drop what they are doing mid-task because the flute interrupted a normal evening and they answered it. The detail that some could not leave at all, and still reached him by closing their eyes, quietly widens the story: the going is outward, but the meeting is not limited by walls.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan",
+  "Yamuna"
+ ],
+ "themes": [
+  "love",
+  "flute",
+  "abandonment"
+ ],
+ "previous_story_id": "DKS_0085",
+ "next_story_id": "DKS_0107",
+ "next_story_tease": "But the night was far from over; the dance had not yet begun.",
+ "hero_scene": "Krishna standing in moonlight playing his flute by the Yamuna, while gopis hurry toward him across dark fields, one still carrying a half-filled milk pail, another with kohl on only one eye.",
+ "visual_elements": [
+  "Krishna",
+  "flute",
+  "gopis",
+  "full moon",
+  "Vrindavan village",
+  "autumn night",
+  "hurrying across fields",
+  "longing, restless"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.29.1-16",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0108"
+ },
+ "editorial_status": "unreviewed"
+}

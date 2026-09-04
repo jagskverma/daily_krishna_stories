@@ -1,0 +1,107 @@
+# STORY DKS_0222 — Satyabhama Is Consumed by Jealousy || Satyabhama's maids report Rukmini's good fortune; the proud queen, unable to bear her co-wife's honor, casts off her ornaments and retires to the apartment of anger.
+
+## Index entry
+title: Satyabhama Is Consumed by Jealousy || Satyabhama's maids report Rukmini's good fortune; the proud queen, unable to bear her co-wife's honor, casts off her ornaments and retires to the apartment of anger.
+summary: Satyabhama's maids report Rukmini's good fortune; the proud queen, unable to bear her co-wife's honor, casts off her ornaments and retires to the apartment of anger.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Satyabhama, Krishna, Rukmini
+locations: Raivataka
+themes: jealousy, honour, co-wives
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0293
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 122 | verses  | confidence 4
+  excerpt: But the highly proud Satyabhāma ... could not bear the accession of such a good fortune unto the other wife of her husband. ... Worked up with anger like the flame of fire ... she entered into the lonely apartment of anger.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.122 ()
+TITLE: THE PRESENT OF THE PARIJATA BY KRISHNA TO RUKSHMINI
+
+Janamejaya said:—O foremost of Munis, I am not able to attain to the
+consummation of my satisfaction listening again and again to the sacred
+theme of Lord Krishna’s influence on Mathura (1). Thou art conversant
+with the six divisions of Krishna’s history while Mādhava lived in
+Dwarka after marrying his wives. Do thou describe it to me now (2).
+
+Vaishampāyana said:—O Janamejaya, O descendant of Bharata, all the deeds
+which the powerful Krishna performed after taking his wives are all
+becoming to him. Listen, I shall relate them (3). O king, after his
+marriage, the highly energetic and powerful Vasudeva once went to the
+mount Raivataka with Rukshmini (4). Madhusudana went there personally
+because there was to take place a great festival on the day of the
+termination of Rukshmini’s vow and that he would gratify the Brāhmanas
+(5). O king, according to Narada’s command, Vāsudeva’s sons and brothers
+had already been sent there (6). The sixteen thousand wives of the
+intelligent Madhava with splendour befitting their rank, had gone there.
+(7). There the lord of subdued senses, conferred on the twice-borns all
+their desired-for objects, as well as on the beggars, on those who
+always practise religious rites and on all those who sought his
+well-being (8). Arriving there, O descendant of Kuru with Youna,²⁷⁷
+Shrouna²⁷⁸ and Moukh,²⁷⁹ friends, pure, always performing great
+religious rites and born in great families, the Lord, ever fond of his
+votaries and the refuge of the pious, satisfied the Brāhmanas with
+sacrifice and his kinsmen according to their rank (9-10). At the
+termination of the fasting, the Lord highly honored his beloved spouse
+Rukshmini, the daughter of Bhishmaka.
+
+While residing there, once the highly powerful Krishna, sat on a seat
+with Rukshmini encircled by his other wives when the ascetic Nārada
+arrived there (12). When that best of Munis came there, Vasava’s younger
+brother of immeasurable energy Keshava, duly adored him with rites laid
+down in the Scriptures (13). O descendant of Bharata, adored by
+Vasudeva’s son Krishna, that foremost of Munis, Nārada, adored of the
+pious, gave him a Pārijata flower (14). O king, Bhoja’s daughter
+Rukshmini was by him, so Hari gave her that Parijata flower (15). Taking
+that lovely flower and following Krishna’s hint, that blameless lady the
+object of his love, put it on her head (16). At that time Bhishmaka’s
+daughter, the very collection of the beauties of the three worlds, ever
+captivating Narayana, was doubly beautified by that celestial flower
+(17).
+
+Thereafter Prajapati’s son Nārada said to Kama’s mother (Rukshmini):—"O
+goddess, O chaste lady, the flower is worthy of thee (18). O thou of
+firm vows, methinks thou art worthy of wearing this flower, for coming
+in thy contact, it has been perfectly adorned (19). O thou, endowed with
+auspicious qualities, O thou ever fond of thy husband, this flower never
+withers away (20). O thou of many qualities, O thou, conversant with the
+knowledge of time, the flower emits wished-for fragrance for one year
+(21). O beautiful lady of sweet speech, this flower affords heat and
+cold as desired, and from it come out various wished-for juices (22). O
+beautiful lady, when sought for, this Parijata flower gives good luck
+and emits delightful fragrance (23). O goddess, what more, whatever
+flowers thou shalt wish for, this flower of the king of trees the
+Pārijata will give thee (24). O auspicious and pious lady, it is the
+root of good luck and confers piety, and when won, it does not allow the
+mind, to wend any evil path (25). Whatever colour thou shalt wish to
+see, it will assume, and according to thy will, it will become thin or
+plump (26). O thou, having lotus eyes, dispelling unwholesome smell, it
+increases fragrance, and it serves the purpose of a lamp in night (27).
+Moreover it will give thee a garland of Santanaka flowers, the most
+excellent of flowers, and undecaying clothes whenever thou shalt think
+of them (28). Whenever thou wilt use the flower like a very goddess thou
+wilt be the mistress of hunger, thirst, exhaustion and decrepitude (29).
+As desired by thee, it will sing songs in accompaniment with good
+musical instruments (30). O goddess, as is the rule with this flower, it
+will go away from thee when the term of one full year will be completed
+(31). O fair one, may good betide thee! in order to please the gods the
+Creator has invested the Parijāta flower with such a character (32). The
+beloved spouse of Mahadeva, the foremost of gods, Himalaya’s daughter
+Uamā is the mistress of the universe: and therefore she always uses this
+flower (33). O thou endued with accomplishments, the mother of Mahendra
+and other gods, Aditi, Puloma’s daughter Sachi, Savitri, the mother of
+gods and the goddess Sree too, always use this flower. Even for the
+wives of the gods and the leading celestial Vasus and others its period
+of duration does not exceed more than a year (34-35).
+
+"O Bh
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0221 | next_story_id: DKS_0223
+previous title: Narada Presents the Parijata Flower to Rukmini || Narada gives Krishna a Parijata flower, which Krishna passes to Rukmini; the sage extols Rukmini as the foremost of his wives.
+next title: Krishna Consoles the Jealous Satyabhama || Krishna steals into Satyabhama's chamber and, fanning her and wiping her tears, protests that his love dwells in her alone.

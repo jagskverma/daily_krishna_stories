@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0524",
+ "title": "The Iron Bolt and the Wine Prohibition",
+ "subtitle": null,
+ "story": "It began as a joke, the kind of joke that men who have never been crossed in their lives play. One day the sages Vishvamitra, Kanwa, and Narada arrived in Dwaraka, and a band of Vrishni heroes, Samva among them, decided to have sport with the holy men. The telling adds that the heroes were already afflicted, struck by the rod of chastisement wielded by the deities; the arrogance that made them play the trick was itself part of what was coming for them. They dressed Samva, the son of Krishna and as strong as his father, in a woman's clothes and brought him before the rishis, who had just sat down at the city's edge. \"This is the wife of Vabhru of immeasurable energy,\" they said, keeping their faces straight. \"She desires a son. Tell us, O rishis, what she will bring forth.\"\n\nThe rishis were not deceived. Their eyes reddened with wrath, and they looked at the young men, and they answered with something far heavier than a riddle. \"This heir of Vasudeva, by name Samva, will bring forth a fierce iron bolt, for the destruction of the Vrishnis and the Andhakas. You, wicked and cruel ones, intoxicated with pride, will through that bolt become the exterminators of your own race, with the exception of Rama and Janardana. The blessed hero armed with the plough will cast off his body and enter the ocean, and a hunter named Jara will pierce the high-souled Krishna as he lies on the ground.\"\n\nThen, without another word, the three sages rose and went to see Keshava.\n\nKrishna heard them out. He summoned all the Vrishnis and told them what the rishis had said. He did not rage, did not deny it, did not order the curse undone. \"That which is destined will surely happen,\" he said, and he entered his mansion. The Lord of the universe did not wish to ordain otherwise.\n\nThe next day Samva brought forth the iron bolt. It was as the rishis had said it would be: a thing of iron brought forth by a man, fierce, looking like a gigantic messenger of death, and through it, the telling goes, all the individuals of the Vrishni and Andhaka races would be consumed into ashes. The fact was duly reported to the king. Ugrasena, in great distress of mind, ordered the bolt ground into fine powder, and men were employed to carry that powder to the sea and cast it in. Let the sea keep it. Let it be forgotten.\n\nThen the commands went out, at the word of Ugrasena, of Krishna, of Rama, and of the high-souled Vabhru. Throughout the city it was proclaimed that from that day no one among the Vrishnis and the Andhakas should manufacture wine or intoxicating spirits of any kind, and that whoever secretly did would be impaled alive with all his kinsmen. Through fear of the king, and knowing that it was the command of Rama, whose word no one questioned, the people obeyed, and the city of Dwaraka went dry overnight.\n\nSo the iron bolt lay in the sea, and the wine was forbidden, and for a little while it looked as though a house could sweep out a curse with the dust of its own floor. But the powder had not been recalled, only hidden, and the words of rishis, once spoken, do not dissolve in salt water. Everyone in Dwaraka sensed it, even as they nodded at the king's proclamation and emptied their jars into the ground. The sea kept its secret. The curse kept its own time.",
+ "reflection": "The joke is the hinge of the whole calamity: a prank among heroes who believed nothing could touch them gives the curse its instrument, and no power in the city can recall it afterwards. Krishna's quiet refusal to 'ordain otherwise' is not indifference but acceptance — he lets destiny take its course rather than bend the world to spare himself.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "end_of_yadavas",
+ "characters": [
+  "Samva",
+  "Ugrasena",
+  "Krishna",
+  "Balarama",
+  "Vabhru",
+  "Vishvamitra",
+  "Kanwa",
+  "Narada"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "curse",
+  "foreboding",
+  "prohibition"
+ ],
+ "previous_story_id": "DKS_0523",
+ "next_story_id": "DKS_0525",
+ "next_story_tease": "But the powder in the sea had not finished with the race, and the next victim would fall to it far from Dwaraka.",
+ "hero_scene": "The disguised Samva, dressed as a woman, standing before the three rishis Vishvamitra, Kanwa and Narada, whose eyes are red with wrath as they deliver the curse of the iron bolt.",
+ "visual_elements": [
+  "Samva disguised in a woman's clothes",
+  "the three rishis with reddened eyes",
+  "the Vrishni heroes concealing their laughter",
+  "the city gate of Dwaraka",
+  "a mood of jest turning to doom"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "16.1",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:44Z",
+  "source_event_id": "evt_0514"
+ },
+ "editorial_status": "unreviewed"
+}

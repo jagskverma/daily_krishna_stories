@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0393",
+ "title": "Narada Announces the Rajasuya",
+ "subtitle": null,
+ "story": "The sage Narada appeared in Krishna's hall at Dwaraka like a light entering a room. The divine sage who travels between the worlds, messenger of the gods and known in every court, came in radiant, his matted locks the color of tawny flame, and the whole assembly stirred at his coming.\n\nKrishna rose and received him as a sage must be received. He honored Narada with the rites, saw that a seat was set for him, and waited until the sage was at ease before he spoke, for a guest who had crossed the three worlds deserved every courtesy. \"Is there any fear today in the three worlds?\" Krishna asked him. \"For nothing is hidden from you among the worlds and those who rule them.\"\n\nNarada bowed and answered. \"Who is able to know your doings rightly?\" he said. \"You create this world through your own power of illusion and draw it back again; you bring release to the soul that wanders, ignorant, through the body that carries it toward misfortune. What you do, who can measure it?\"\n\nThose who sat in the hall knew better than to take the sage's words for idle courtesy. Narada did not travel between the worlds to pass the time; when he spoke, courts listened, because his news always carried weight. And this day, everyone present felt, his news would be of a different order entirely.\n\n\"But,\" the sage said, and his tone changed from praise to announcement, \"I will proclaim before the world this play within the world of mortals. The Pandava Yudhishthira, your cousin, desiring imperial sovereignty, will worship you with the Rajasuya, the sacrifice of emperors. In that best of rites, O God, even the gods themselves and all who dwell near you are purified — by hearing of you, by chanting your name, by meditating upon you.\"\n\nNarada went on, and the hall listened to him speak of Krishna as it had never quite heard anyone speak. \"Your fame is spotless in heaven, and it is spread through the lower worlds and upon the earth — a blessing to the worlds, a canopy over the quarters. The water that has washed your feet purifies the universe: in heaven it is called Mandakini, in the worlds below Bhogavati, and here upon the earth, Ganga.\"\n\nNarada fell silent, and the words hung in the air like a stone dropped into still water. Then the sage delivered his request. Yudhishthira would perform the Rajasuya, and Krishna should consent to it; he should come to the sacrifice, and his presence would be its heart. The announcement hung in the hall like a summons: a king of the world, asking through the messenger of the gods, that Krishna come and be worshipped at the sacrifice of emperors. The assembled Yadavas stirred, for a request carried by Narada was a request that would not go unanswered.\n\nKrishna heard all of it, he who knows everything before it is spoken — and he received it as though it were news, as though he were a man who needed counsel. He turned to Uddhava, his friend and his minister, and asked him what he thought, like one playfully seeking advice on a matter already decided.\n\nThe question hung in the air after the sage had gone: how the lord of Dwaraka would answer the summons, and what the emperor's sacrifice would bring. But Uddhava would not be long in answering. Krishna's question to his friend had been a decision already made, and the road from Dwaraka to Indraprastha would be traveled again, bearing the Yadavas and their lord to the sacrifice of emperors.",
+ "reflection": "Narada's announcement frames the Rajasuya as more than a king's ambition: the rite is a world-event, its very telling a purification, its heart Krishna's consent. And Krishna, who knows everything, receives it as though it were news — a god playfully asking counsel, so that the world's great rites may proceed as friendship, not as command.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Narada",
+  "Yudhishthira",
+  "Uddhava"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "friendship",
+  "royal sacrifice",
+  "divine messenger"
+ ],
+ "previous_story_id": "DKS_0392",
+ "next_story_id": "DKS_0394",
+ "next_story_tease": "Uddhava's counsel would shape how the Yadavas answered the summons to Indraprastha.",
+ "hero_scene": "In Krishna's hall at Dwaraka, Narada stands radiant with matted tawny locks, one hand raised in announcement, while Krishna listens serenely and Uddhava waits at his side.",
+ "visual_elements": [
+  "Narada entering the hall, radiant, with matted tawny locks",
+  "Krishna honoring the sage and offering him a seat",
+  "Narada announcing Yudhishthira's Rajasuya with raised hand",
+  "the sage speaking of Krishna's foot-waters that purify the universe",
+  "Krishna turning playfully to Uddhava for counsel"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.70.31-46",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:54Z",
+  "source_event_id": "evt_0377"
+ },
+ "editorial_status": "unreviewed"
+}

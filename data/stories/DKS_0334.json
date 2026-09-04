@@ -1,0 +1,68 @@
+{
+ "id": "DKS_0334",
+ "title": "The Infant Who Rose Into the Sky",
+ "subtitle": null,
+ "story": "The night the prophecy came due, Kamsa was handed a daughter to kill — and the daughter refused to die.\n\nYears before, a voice from the sky had told Kamsa, the king of Mathura, that the eighth child born to Devaki would end his reign. So he had bound Devaki and her husband Vasudeva in his prison, and every child she bore there had been taken from her and killed. Tonight the eighth was due — and this one, the king was about to learn, would not be his to kill.\n\nIn the prison that night Devaki gave birth to a son. The child was not a child at all but the lord himself — Krishna, come at last — and he withdrew his four-armed form at his father's terrified request. Vasudeva carried the newborn through the dark night to Gokula, to the house of Nanda and Yashoda, and returned with the girl who had just been born there — a girl who was, in truth, the goddess Yogamaya, born to play her part in the exchange. He laid her in Devaki's arms, on the bed where the eighth child should have been, and then he went to the palace of Kamsa to announce that a daughter was born.\n\nKamsa came at once to the prison door and demanded the child. Devaki wept and begged him: \"You have killed my seven sons already. I count this daughter as already slain. Do what you think proper.\" Kamsa took the infant in his hands and answered in the same breath, as though it were plain arithmetic: a daughter is killed the moment she is born.\n\nHe seized her by the feet, whirled her around his head, and dashed her against a stone. And the girl was not crushed. In the very instant of the blow she sprang from his hands and rose into the night sky, casting off the mortal form like a garment. There she stood — a goddess with eight arms, adorned with divine garlands and unguents, glittering with jewels, a crown shining on her head, her hair unbound, her raiment dark blue — while the hosts of the sky, the seers and the heavenly musicians and dancers, even the great serpents of heaven, sang her praise.\n\nKamsa, his hands suddenly empty, stared up at her. And the goddess spoke the words that undid him: \"What is the use of killing me, fool? The one who will end you is already born.\" Then she vanished, and the night was only night again.\n\nKamsa stood long in the prison yard, amazed. \"Alas, sister,\" he said at last, \"alas, what have I done in my wickedness. I have abandoned mercy. I have abandoned kin and friend. Even fate speaks falsely — why should mortals alone be honest?\" He turned to Devaki and Vasudeva, who waited in their chains. \"Do not grieve, blessed ones. Creatures come into this world and go out of it; the wise do not divide them into mine and yours. Forgive my wickedness, you who are kind to the fallen.\"\n\nAnd then he did the thing no one in Mathura had ever seen him do: he set them free. The fetters were struck off, and Devaki and Vasudeva stood free in the prison where six of their children had died. Devaki's anger had cooled, and she answered him gently: it is even as you say — beings in this world are driven by grief and joy, fear and hatred, greed and delusion and pride.\n\nIn the morning, the fetters lay in the dust of the yard. The tyrant who trusted nothing but his own cruelty had been answered by a girl-child who would not die. And somewhere across the river, in the house of Nanda, the infant Krishna slept on, unafraid — while the prophecy, which Kamsa had just been told was already true, began its slow work in the heart of a king who had, for one night, learned to be afraid.",
+ "reflection": "The warning is delivered by the very child Kamsa is trying to kill: the girl he dashes against the stone is the proof that his arithmetic is wrong. His repentance is real for a night — he releases the prisoners and speaks of mercy — which makes the story more troubling and more human than a simple tale of punishment.",
+ "tradition_note": "In the Harivamsha the goddess speaks a fiercer farewell, telling Kamsa she will tear his body apart with her hands and drink his hot blood; the Bhagavata version followed here lets the warning itself do the work.",
+ "content_note": "Kamsa dashes a newborn infant against a stone, and the story recalls that her six elder brothers were killed the same way; the violence is reported without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Yogamaya",
+  "Kamsa",
+  "Devaki",
+  "Vasudeva"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "divine_justice",
+  "warning",
+  "repentance"
+ ],
+ "previous_story_id": "DKS_0333",
+ "next_story_id": "DKS_0335",
+ "next_story_tease": "Kamsa's fear was not quieted, and in another house of the Yadu line a newborn child was already marked for stealing.",
+ "hero_scene": "In the moonlit yard of the Mathura prison, Kamsa's hands are still open and empty as the newborn girl he dashed against the stone rises into the sky transformed — garlanded, crowned, eight-armed, in dark blue raiment — while the tyrant stares up, his shadow long across the dust.",
+ "visual_elements": [
+  "Kamsa seizing the newborn by the feet",
+  "the infant dashed against the stone, uncrushed",
+  "the goddess rising into the sky, crowned and eight-armed",
+  "Siddhas, Gandharvas and Apsaras singing her praise",
+  "Kamsa releasing Devaki and Vasudeva from their fetters",
+  "the prison yard at night, fetters fallen in the dust"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.4.7-27",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.59",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.3",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:59:31Z",
+  "source_event_id": "evt_0030",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

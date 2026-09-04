@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0084",
+ "title": "Indra Unleashes the Storm",
+ "subtitle": "The Samvartaka clouds descend on Vrindavan.",
+ "story": "The king of the gods had been insulted. Indra, lord of the rain and the thunderbolt, had watched from his heaven as the cowherds of Vraja turned away from his festival and gave their offerings to a hill instead. He was not a god who forgave such things. His fury rose, and he resolved to teach the cowherds what their little ritual had cost them.\n\nHe summoned the Samvartaka clouds, the storm-clouds of dissolution, the ones kept apart for the ending of an age, and gave them their orders. If you cherish any respect for your king, he told them, if you count it your duty to do what pleases me, then listen. Nanda and these cowherds have grown hostile to my festival. Within seven nights, afflict with rain and wind the precious cattle that are their whole subsistence, the animals from which they take their very name. Indra himself would ride upon his elephant Airavata and pour down rain and wind that flashed like thunder and lightning, and the clouds would drive the cattle to destruction.\n\nThe clouds needed no second bidding. They rolled up over Vrindavan, dark-blue and vast as mountains, muttering as they came. Touching one another, some shaped like elephants, some like sea-creatures, some like serpents, they covered the sky and made an unfair day of it. Lightning flared through them without pause, and they wrapped the heavens in darkness, adorned with the rainbow that is Indra's bow. The sun and the moon vanished; the stars were swallowed. In an instant the earth, the horizon, and the sky were all blended into one by the heavy, incessant shower, and the people took that dreadful weather for a deep, unpassable ocean set in the sky.\n\nRain fell in columns thick as pillars, in streams wide as an elephant's trunk. The rivers swelled and tore away the trees along their banks. Grass and trees trembled as if rebuked by the thunder. Birds could not leave their nests; animals fled in every direction. Peacocks cried out over the water. The cowherds, drenched and terrified, spoke among themselves: we think the end of the world is at hand, and the earth will become one sheet of water.\n\nThe cattle suffered worst of all. The cows stood motionless in the downpour and lowed in distress, their bodies soaked, their legs trembling, the hair standing up along their backs. Some died of exhaustion. Some fled in panic. Some sank down in the cold, their calves pressed against them, too weak to rise. And the cows and the calves, beaten by the rain, lifted their heads toward Krishna and cried out, as the old text has it, \"Save us! Save us!\"\n\nKrishna had watched the storm gather, and he understood at once what it was and why it had come. The anger that darkened the sky was aimed at the cowherds, and he would not let it fall on them unanswered. In his mind he had already begun to plan what he would do.",
+ "reflection": "Indra's anger is the anger of a king whose tribute has been refused. What he sends is not a shower but a catastrophe, and it falls first on the ones who cannot run from it — the cattle whose grazing the cowherds had once, at Krishna's urging, honored above the god of rain.",
+ "tradition_note": null,
+ "content_note": "The storm threatens the village and its cattle, and a few cattle perish in the cold and rain.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Indra",
+  "clouds",
+  "cowherds"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "wrath",
+  "storm"
+ ],
+ "previous_story_id": "DKS_0083",
+ "next_story_id": "DKS_0085",
+ "next_story_tease": "Krishna had made up his mind: he would uproot the hill itself and make it their shelter.",
+ "hero_scene": "A black sky over Vrindavan as the vast Samvartaka clouds pour rain in columns, lightning flaring, while terrified cowherds and lowing, trembling cattle huddle in the flood and turn toward Krishna.",
+ "visual_elements": [
+  "Indra on his elephant Airavata",
+  "massive dark storm clouds",
+  "lightning and torrential rain",
+  "flooded Vrindavan",
+  "terrified cowherds",
+  "cattle lowing and trembling",
+  "Krishna watching the storm",
+  "a mood of catastrophe and fear"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.25.1-9",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.73",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.11",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:28Z",
+  "source_event_id": "evt_0096"
+ },
+ "editorial_status": "unreviewed"
+}

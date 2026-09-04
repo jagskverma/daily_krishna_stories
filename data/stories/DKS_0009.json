@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0009",
+ "title": "The Seventh Child Is Drawn Away",
+ "subtitle": null,
+ "story": "Devaki, held prisoner in Mathura by her brother Kamsa, had been with child seven times, and every child that had come from her had been taken from her arms and dashed against a stone. A prophecy had promised Kamsa that one of her children would be his death, and he had decided that none of her children would ever live. Each birth in that cell had ended the same way, in Kamsa's cruelty — and now a seventh child was growing within her, while Kamsa's servants waited for it the way they had waited for all the others. But this child would never reach their hands. A plan had been made for him in a place Kamsa could not see, and it was already unfolding in the dark.\n\nFor while the world kept its watch, a quiet work was being done. By a hidden power, the embryo of Devaki's seventh child was drawn out of her womb and carried into another — the womb of Rohini, Vasudeva's other wife, who lived far from the prison and knew nothing of it. Not a sound was made; no one saw it done.\n\nRohini felt only the sign of it, and the sign frightened her. At dead of night, in her deepest sleep, a flow of blood came, and with it the sense that the child within her was lost. In her dream she saw the embryo slipping away from her, and in the dream she reached out to hold it and could not; when she woke, she reached again and found it gone. In that dark hour Rohini, Vasudeva's wife, was seized with grief, certain that the child she carried had been taken from her.\n\nThen a voice spoke out of the darkness — the voice of the goddess of sleep, who had done this thing. \"Do not grieve, fair one,\" she said. \"I drew the embryo out of Devaki's womb and placed it in yours. This son of yours will be known by the name Sankarshana.\"\n\nThe name meant \"the one drawn out\" — drawn from one mother into another, carried out of the prison where Kamsa's men waited into a house that no one was watching. The child who had seemed lost in the night had not been lost at all; he had been carried to safety. And at the goddess's words the fear went out of Rohini. The grief that had seized her an hour before loosened its hold, and what had looked like the end of everything became, in a breath, a beginning.\n\nPleased and quiet now, she bowed her head and returned to her house. Within her grew the child who would one day be known as Balarama — the first of the two brothers, the one who would come before the other and clear the way. In the prison, Kamsa's men went on watching an empty womb and never knew it. In the quiet house, the child who had been saved slept on, safe.",
+ "reflection": "The seventh child is saved not by strength but by concealment — drawn from one womb to another under cover of night, while the world and its watchers slept. Rohini's night of blood and grief, which looked like loss, was the very sign of the child's deliverance, and her fear turned to joy in a single sentence from the dark.",
+ "tradition_note": "The Vishnu Purana also tells of this transfer; the working is elsewhere described as the command of the divine power Yogamaya, who draws the embryo from Devaki into Rohini so the child may be born beyond Kamsa's reach.",
+ "content_note": "Rohini briefly believes she has lost her child in the night; the loss is only apparent, and the story ends in comfort.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Devaki",
+  "Rohini",
+  "goddess of sleep",
+  "Balarama"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "divine plan",
+  "birth"
+ ],
+ "previous_story_id": "DKS_0008",
+ "next_story_id": "DKS_0010",
+ "next_story_tease": "And after this quiet rescue, Kamsa would do the one thing no one expected — and Devaki would forgive him for it.",
+ "hero_scene": "Rohini waking in the dead of night, moonlit and frightened, as the goddess of sleep speaks from the darkness to tell her the child has been drawn from Devaki's womb into her own and will be called Sankarshana.",
+ "visual_elements": [
+  "Rohini waking in the dark",
+  "moonlight through the window",
+  "the goddess of sleep speaking unseen",
+  "Devaki in the far prison",
+  "a quiet house at night",
+  "mood of grief turning to wonder and relief"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.59",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:39Z",
+  "source_event_id": "evt_0023",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

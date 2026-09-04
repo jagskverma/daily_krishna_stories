@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0240",
+ "title": "Shatpura for Brahmadatta",
+ "subtitle": "After the victory, the conqueror gives the city away.",
+ "story": "The kings who had gambled on the Asura side now sat as prisoners in the Yadavas' camp, and when the Danavas of Shatpura saw it, fear finally entered their hearts.\n\nThey had been routed by Krishna and the Yadavas and had fled in every direction. Now their allies were captives and their stronghold surrounded, and the war they had promised to win was lost. Nikumbha alone refused to accept it. Filled with anger, he turned on his own fleeing host. \"Why do you break your promise and run?\" he cried. \"You swore to avenge the destruction of your kinsmen. If you are slain in battle, you will live happily in heaven among the gods. But if you flee, whose face will you look upon in your own house? What will your wives say? Shame on you, all of you!\"\n\nBurning with shame, the Asuras turned back and threw themselves at the Yadavas with double fury. It did not save them. At the sacrificial ground, where the pavilions of the rite still stood, the five Pandava brothers — Yudhishthira, Bhima, Arjuna, Nakula and Sahadeva, who had guarded the sacrifice from the first — cut down all who came; and those who tried to escape by rising into the sky were slain by Indra's son Jayanta and the brahmana Pravara, still on watch above the field. The field ran red; a river of blood flowed down from the mountain Govinda, and its fish were the swords of the fallen.\n\nOnly Nikumbha kept the old courage. Seeing his comrades slain and the enemy's power growing, he leaped up and fought on, and Jayanta and Pravara met him with arrows like thunderbolts. The great Asura struck Pravara down with his iron club, and the brahmana fell to earth; but Indra's son caught him up in his arms, embraced him, found him still alive, and set him down before turning on the Asura. Arrow after arrow he buried in Nikumbha's body, until the wounded Nikumbha, thinking of the slayer of his kinsmen whom he had sworn to avenge, broke off the fight and vanished, making his way to where Krishna stood. And Indra himself, seated on Airavata, his white elephant, came down with the gods to witness the battle; and embracing his victorious son and Pravara, he had the trumpets of heaven sounded over the field.\n\nWhen the last Asura had fallen or fled, the plain fell silent. The war was over.\n\nKrishna then did what conquerors are not expected to do. He gave the victory away. The kings who had been taken with their followers — the rulers who had sided with the Danavas — were brought before him. Instead of punishment they received jewels and fine raiment from his hand. For them the war ended not in chains but in gifts.\n\nTo the Yadavas, his own people, he gave the hundreds of maidens of the conquered demon city. To the Pandavas, who had guarded the sacrifice and fought beside him, he gave six thousand chariots with their horses — a gift that made the five brothers wealthy beyond any campaign.\n\nAnd then came the last and strangest gift. In the conquered city of Shatpura — the lair from which the Danavas had poured out to war — there lived a brahmana named Brahmadatta. Krishna summoned him and granted him the city itself, caves, walls and all.\n\nThe warriors around him must have wondered. They had bled for this ground, watched their captains vanish into that mountain, seen their friends carried off — and Krishna placed it all in the hands of a priest. Yet perhaps the explanation lay in the gift itself: he had not conquered Shatpura to hold it. He had conquered it to give it away.\n\nSo the Asura city, which had known only war, passed into the keeping of a man of peace, while the Yadavas, laden with honor and chariots, turned their faces toward home.",
+ "reflection": "The distribution is the true conquest: after a war fought with bows and illusions, Krishna's first act is to undo what wars do, restoring captives, honoring the kings who opposed him, enriching the allies, and handing the enemy's stronghold to a brahmana. Spoils in his hands become gifts, and the conquered city becomes a bequest.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Brahmadatta",
+  "Pandavas",
+  "Yadavas",
+  "Nikumbha"
+ ],
+ "locations": [
+  "Shatpura"
+ ],
+ "themes": [
+  "spoils",
+  "generosity",
+  "restoration"
+ ],
+ "previous_story_id": "DKS_0239",
+ "next_story_id": "DKS_0241",
+ "next_story_tease": "Aboard the boats that carried them onward, the Yadavas were about to learn a song from heaven.",
+ "hero_scene": "Krishna seated in the conquered camp giving gifts one by one: a Daitya maiden to a Yadava hero, jewels to a kneeling king, a chariot to a Pandava, while before him the brahmana Brahmadatta receives the city of Shatpura.",
+ "visual_elements": [
+  "Krishna",
+  "Daitya maidens",
+  "kneeling kings with jewels",
+  "Pandava chariots",
+  "Brahmadatta",
+  "Shatpura city in the background",
+  "aftermath of battle"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.232",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:29Z",
+  "source_event_id": "evt_0313",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

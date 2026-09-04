@@ -1,0 +1,110 @@
+# STORY DKS_0227 — Indra and the Gods Contend with Krishna over the Parijata
+
+## Index entry
+title: Indra and the Gods Contend with Krishna over the Parijata
+summary: The garden-keepers alert Indra, who rides out on Airavata and demands Krishna return the Parijata, challenging him to battle for it.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Indra, Jayanta
+locations: Nandana forest, eastern gate of heaven
+themes: confrontation, pride, battle
+festival_tags: 
+age_sensitivity: all | notes: Harivamsha expands the battle (hv_b2_003-008); BP folds 'defeating the gods' into its uprooting beat.
+
+## Canonical event
+event_id: evt_0213
+variant_notes: VP: Krishna disarms all the gods with his discus and spares Indra; Harivamsha: Indra rides Airavata and challenges Krishna to battle.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 220 | verses  | confidence 4
+  excerpt: Sakra replied saying,—"O lotus-eyed one, thou shouldst not take away this tree, O infallible one, without challenging me to fight"
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 30 | verses  | confidence 4
+  excerpt: Indra launched his bolt, but in vain, for Hari caught and arrested it... 'I am not ashamed of being vanquished by him who is the author of the creation, preservation, and destruction of the world.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.220 ()
+TITLE: THE FIGHT BETWEEN KRISHNA AND INDRA
+
+Vaishampāyana said:—Here the highly energetic Vishnu, a moment after sun
+rise, went to the Raivataka mountain, under the pretext of hunting,
+taking up, O descendant of the Kurus, that foremost of men Satyaki on
+his car and telling Pradyumna "Follow me" (1–2). On having reached the
+Raivataka mountain, that divine one thus spoke to Dāruka:—"O Daruka,
+take charge of my chariot and wait here tending and grooming the horses
+for this half of the day; O foremost of charioteers, I shall re-enter
+Dwarkā on this very car" (3-4). Having thus delivered his command, that
+illustrious and intelligent god, of immeasurable prowess, rode on the
+back of Garuda, being accompanied by Satyaki (5). O descendant of the
+Kurus, that slayer of his foes Pradyumna followed Krishna from behind on
+a separate car capable of coursing on hills (6). Within the twinkle of
+an eye the intelligent Hari arrived at the pleasure park of the gods,
+the Nandana forest, with a view to carry away the Pārijāta from there
+(7). There in the garden of gods, the illustrious Adhokshaja saw hosts
+of celestial warriors, indomitable, courageous and armed with various
+weapons (8). That refuge of the pious, the mighty Krishna uprooted the
+Pārijāta tree and placed it on the back of Garuda even before their eyes
+(9). Thereupon, O Bhārata, the Pārijāta, having embodied itself,
+approached (with prayer) Kesava and Garuda, that king of birds (10). The
+tree Pārijāta was consoled by the high souled Kesava and was told—"Do
+thou not fear, O tree" (11). Then assuring himself that the tree
+Pārijāta was securely placed (on the bird’s back), Adhokshaja began to
+go round that best of strong-holds, the abode of the gods (12).
+Meanwhile the keepers of the garden of gods, had run to Mahendra and
+informed him saying—"that the most excellent of trees, the Pārijāta, is
+being carried away." (13). Thereupon the subduer of Pāka (Indra) came
+out mounted on Airāvata being followed from behind by Jayanta on a car
+(14). Then beholding that slayer of his foes Vāsudeva, who had by that
+time reached the Eastern gate, Indra said—"O slayer of Madhu, what is
+this going on" (15). Thereupon Kesava, seated on the back of Garuda,
+saluted Sakra with his head and said:—"I am only taking away this
+excellent tree for a ceremonious observance of your sister-in-law" (16).
+Sakra replied saying,—"O lotus-eyed one, thou shouldst not take away
+this tree, O infallible one, without challenging me to fight (17). O
+mighty armed Kesava, deal thou the first blow on me; and let thy promise
+be fulfilled by your hurling the Koumodaki mace at me" (18). Thereupon,
+O Bhārata, Krishna began to pierce the excellent elephant of the king of
+the celestials, with sharp arrows fierce like thunder itself (19). Then
+with excellent arrows of heavenly make, the wielder of the thunder-bolt
+began to pierce Garuda; and he soon succeeded in cutting off all the
+arrows of the light-handed Kesava (20). Mādhava cut off all those arrows
+which the lord of the gods shot; and smiling, the slayer of Vala and
+Vritra severed those shot by Mādhava (21). Then, O delighter of the
+Karus, at the sound of Mahendra’s bow and at the twang of the Sranga
+bow, the inhabitants of heaven swooned away (22). When the fight was
+thus raging between them the highly powerful Jayanta tried to remove the
+Pārijāta tree from the back of Garuda (23). Thereupon the slayer of
+Kansa said to Pradyumna "Prevent him (from taking away the Pārijāta)";
+and instantly the highly powerful son of Rukshmini opposed him (firmly)
+(24). Then Jayanta, seated on his chariot, that foremost of victorious
+persons, began to pierce with sharp arrows smilingly the son of
+Rukshmini on all parts of his body (25). The lotus-eyed god Cupid on the
+other hand, seated on his chariot, pierced the son of Indra, with arrows
+looking like snakes (26). O delighter of the Karus, then a fierce combat
+raged between the heroic Jayanta and the son of Rukshmini (27). Then
+those two mighty heroes, the sons of Upendra and Mahendra, the foremost
+of the wielders of weapons, used offensive and defensive weapons against
+each other (28). The gods, the sages, the Siddhas and the Chārnas, all
+beheld that fierce combat being much struck with wonder (29).
+
+O delighter of the Kurus, meanwhile, a messenger of the gods, named
+Pravara, of great strength, tried to take away the Pārijāta from the
+back of Garuda (30). O descendant of the Kurus, this Pravara was the
+friend of the ruler of the gods; he was accomplished in the use of
+mighty weapons and able to subdue all his foes; he was incapable of
+being slain by virtue of a boon obtained from Brahmā (31). Formerly he
+was a Brāhmana inhabiting the Jamva Island, whence through the merit of
+religious penances, he attained to heaven, and there O ruler of men, he
+earned the friendship of the slayer of Vala by virtue of his own powers
+(32). On beholding him advance, Krishna told Sātyaki;—"O Sātyaki, even
+from this place do thou oppose Pravara wi
+[...]
+
+### Vishnu Purana (Wilson 1840) 5.30 ()
+Krishńa restores her earrings to Adití, and is praised by her: he visits the gardens of Indra, and at the desire of Satyabhámá carries off the Párijáta tree. Śachí excites Indra to its rescue. Conflict between the gods and Krishńa, who defeats them. Satyabhámá derides them. They praise Krishńa.
+
+GARUD́A, laden with the umbrella of Varuńa and the jewel mountain, and bearing Hrishikeśa on his back to the court of Indra, went lightly, as if in sport, along. When they arrived at the portals of Swarga, Hari blew his shell; on which the gods advanced to meet him, bearing respectful offerings. Having received the homage of the divinities, Krishńa went to the palace of the mother of the gods, whose turrets resembled white clouds; and on beholding Adití, paid his respects to her, along with Śakra; and, presenting to her her own earrings, informed her of the destruction of the demon Naraka. The mother of the world, well pleased, then fixed her whole thoughts upon Hari, the creator, and thus pronounced his praise: "Glory to thee, O god with the lotus eyes, who removest all fear from those that worship thee. Thou art the eternal, universal, and living soul; the origin of all beings; the instigator of the mental faculty, and faculties of sense; one with the three qualities; beyond the three qualities; exempt from contraries; pure; existing in the hearts of all; void of colour, extension, and every transient modification; unaffected by the vicissitudes of birth or death, sleep or waking. Thou art evening, night, and day; earth, sky, air, water, and fire; mind, intellect, and individuality. Thou art the agent of creation, duration, and dissolution; the master over the agent; in thy forms which are called Brahmá, Vishńu, and Śiva. Thou art gods, Yakshas, Daityas, Rákshasas, Siddhas, Punnagas, Kúshmáńd́as, Piśáchas, Gandharbas, men, animals, deer, elephants, reptiles, trees, shrubs, creepers, climbers, and grasses; all things, large, middling, small, immense, or minute: thou art all bodies whatsoever, composed of aggregated atoms. This thy illusion beguiles all who are ignorant of thy true nature, the fools who imagine soul to be in that which is not spirit. The notions that "I am--this is mine," which influence mankind, are but the delusions of the mother of the world, originating in thy active agency. Those men who, attentive to their duties, diligently worship thee, traverse all this illusion, and obtain spiritual freedom. Brahmá and all the gods, men and animals, are alike invested by the thick darkness of fascination, in the gulf of the illusions of Vishńu. That men, who having worshipped thee, should seek the gratification of their desires, and their own preservation, this, O lord, is also thy delusion. It is the sport of thy fascinations that induces men to glorify thee, to obtain thereby the continuance of their race, or the annihilation of their enemies, instead of eternal liberation. It is the fault of the impure acts of the unrighteous (to proffer such idle requests to one able to confer such more important benefits), like asking for a rag to cover one's nakedness from the tree that bestows whatever is solicited. Be propitious then, imperishable author of all the error that deceives the world; and dispel, O lord of all creatures, the conceit of knowledge, which proceeds from ignorance. Glory to thee, grasper of the discus, wielder of the bow, brandisher of the mace, holder of the shell; for such do I behold thee in thy perceptible form: nor do I know that form of thine, which is beyond perception! Have compassion on me, supreme god."Vishńu, thus hymned by Adití, smiled, and said to the mother of the gods, "Mother goddess, do thou shew favour unto me, and grant me thy blessing." "So be it," replied Adití, "ever as thou wilt; and whilst thou dwellest amongst mortals, the first of men, thou shalt be invincible by gods or demons." Then Satyabhámá, accompanied by the queen of Indra, addressed Adití respectfully, and solicited her benedictions: and Adití in reply said to her, "Fair-browed dame, thou shalt never suffer decay, nor loss of beauty: thou shalt be the asylum of all loveliness, dame of faultless shape." With the assent of Adití, Indra then respectfully saluted Janárddana in all due form, and conducted him and Satyabhámá through Nandana and other pleasant gardens of the gods; where Keśava, the destroyer of Keśi, saw the Párijáta tree, the favourite of Śachí, which was produced when the ocean was churned for ambrosia: the bark was of gold, and it was embellished with young sprouting leaves of a copper colour, and fruit-stalks bearing numerous clusters of fragrant fruit. When Satyabhámá noticed this tree, she said to her beloved lord, Govinda, "Why should not this divine tree be transported to Dwáraka? If what you say is true, and I am really dear to you, then let this tree be taken away from hence, and planted in the gardens of my dwelling. You have often said to me, 'Neither Jámbavatí nor Rukminí is so dear to
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0226 | next_story_id: DKS_0228
+previous title: Indra Refuses and Challenges Krishna || Narada relays Krishna's demand; Indra, recounting past grievances, refuses to part with the Parijata tree unless conquered in battle and sends back a challenge.
+next title: Satyaki Fights the Brahmana Pravara; Garuda Strikes Him Down || Satyaki duels the twice-born warrior Pravara, who repeatedly disarms him; when Pravara tries to seize the Parijata, Garuda's wing-blow hurls him and his car four miles back.

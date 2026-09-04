@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0279",
+ "title": "Nriga Ascends, and Krishna Warns the City",
+ "subtitle": "The lizard-king's merit claims its ending",
+ "story": "Nriga stood in the light of Dwaraka, and for the first time in an age he was a king who could bow. He had told his story — the stray cow, the two brahmanas, Yama's choice — and now he stood before Krishna with the words running out and praise taking their place.\n\n\"What is there that you do not know, lord?\" he said. \"You are the witness of every being's heart. Yet how is it that I, who lived so long in blindness and in a lizard's body, have come to see you with my own eyes? You whom the yogis seek in the depths of their hearts, whom the scriptures only glimpse, the lord beyond the reach of the senses — you stand here before me, in this city. The very sight of you is the end of birth and of fear.\"\n\nThen he asked for what he had been waiting to ask. \"Permit me, Krishna,\" he said, \"to go to the celestial world. Let me go where the merit of my giving has been waiting all these years.\" He bowed, circled Krishna, and touched the lord's feet with his head. Then he stood, and waited.\n\nBut Krishna did not send him off in silence. He turned instead to his people — the citizens of Dwaraka who had gathered to watch the wonder — and what he said to them was meant to outlast the day.\n\n\"The property of a brahmana,\" Krishna said, \"even a little of it enjoyed, is fire that cannot be digested. I do not count the poison halahala the deadliest thing in the world — even that has an antidote. Poison kills the one who eats it, and fire is quenched by water. But the wealth of a brahmana, taken without leave, destroys three generations of the house that takes it.\"\n\nThe people listened, and Krishna went on, his voice carrying the weight of a warning meant for every king who would hear it: \"Kings, blinded by their royal fortune, do not see their own fall. For every handful of dust they seize and for every tear shed by those they rob, they and their houses pay in years — unchecked, unrepentant, until the reckoning comes. Whoever takes the livelihood of a brahmana, whether it was given by his own hand or another's — may such wealth never come near me. Men who covet it become short-lived. And you, my people: never do harm to a brahmana, even one who has erred. As I bow to the brahmanas, attentive and well-disposed, so should you. Wealth torn from a brahmana drags the taker down.\"\n\nThe words fell on the gathered citizens and settled into them. Then, while the silence was still new, a celestial car descended — bright and fragrant, shining as if it were made of the morning itself — and came to rest before Nriga.\n\nNriga looked at Krishna once more. Then he stepped into the car, and the car rose. It climbed above the walls of Dwaraka, above the roofs and the upturned faces, Nriga's form growing small and bright against the sky until it was only a point of light — and then nothing.\n\nThe citizens stood looking up long after it was gone. Two teachings went home with them that evening, and both were told and retold in Dwaraka for a long time after. One was the warning that still hung in the air: the poison with no antidote, the wealth that destroys three generations. The other was the story of the king who had given away thousands of cows and still paid for one mistaken gift with a lizard's years — and of the touch that had finally, at the end of it all, set him free.",
+ "reflection": "Krishna's warning is carefully framed: he does not exalt brahmanas as a class so much as mark how the powerful consume what they never earned, and how a single unknowing wrong, even inside a life of great charity, still exacts its price. The poison metaphor — worse than halahala, because no antidote exists — carries the whole weight of the teaching.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Nriga"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "liberation",
+  "justice",
+  "teaching"
+ ],
+ "previous_story_id": "DKS_0278",
+ "next_story_id": "DKS_0280",
+ "next_story_tease": "But far from Dwaraka, in the kingdom of Karusha, a king had begun to call himself the true Vasudeva — and his claim would not go unanswered.",
+ "hero_scene": "King Nriga, radiant, ascending in a celestial car above the walls of Dwaraka while Krishna stands below addressing the gathered citizens with one hand raised in teaching, the people looking up at both.",
+ "visual_elements": [
+  "Nriga ascending in a bright celestial car",
+  "the walls and roofs of Dwaraka below",
+  "Krishna standing among the citizens, hand raised in teaching",
+  "the upturned faces of the people",
+  "the morning sky",
+  "the dry well and the freed lizard-king's story lingering in the air"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.64.24-43",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:43Z",
+  "source_event_id": "evt_0253"
+ },
+ "editorial_status": "unreviewed"
+}

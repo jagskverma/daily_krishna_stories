@@ -1,0 +1,37 @@
+# STORY DKS_0149 — Krishna Visits Trivakra and Grants Her a Boon
+
+## Index entry
+title: Krishna Visits Trivakra and Grants Her a Boon
+summary: Krishna visits the hunchback woman Trivakra, accepts her hospitality, and grants her a boon, honoring her devotion.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Trivakra, Uddhava
+locations: Mathura
+themes: compassion, grace, gratitude
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0161
+variant_notes: Later visit (10.48); see 'kubja_straighten' for the first meeting.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 48 | verses 1-10 | confidence 5
+  excerpt: Knowing the desire of the love-tormented Sairandhri, the Lord went to her house; she arose, adorned herself, and approached him; Krishna granted her the boon she wished and returned to his own abode. (rendered from Sanskrit, verses 1-10)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.48 (1-10)
+1. mahārhopaskarair āḍhyaṃ kāmopāyopabṛṃhitam /
+2. gṛhaṃ tam āyāntam avekṣya sāsanāt sadyaḥ samutthāya hi jāta-sambhramā /
+3. tathoddhavaḥ sādhutayābhipūjito nyaṣīdad urvyām abhimṛśya cāsanam /
+4. sā majjanālepa-dukūla-bhūṣaṇa srag-gandha-tāmbūla-sudhāsavādibhiḥ /
+5. āhūya kāntāṃ nava-saṅgama-hriyā viśaṅkitāṃ kaṅkaṇa-bhūṣite kare /
+6. sānaṅga-tapta-kucayor urasas tathākṣṇor $ jighranty ananta-caraṇena rujo mṛjantī &amp;dorbhyāṃ stanāntara-gataṃ parirabhya kāntam % ānanda-mūrtim ajahād ati-dīrgha-tāpam
+7. saivaṃ kaivalya-nāthaṃ taṃ prāpya duṣprāpyam īśvaram /
+8. sahoṣyatām iha preṣṭha dināni katicin mayā /
+9. tasyai kāma-varaṃ dattvā mānayitvā ca māna-daḥ /
+10. durārdhyaṃ samārādhya viṣṇuṃ sarveśvareśvaram /
+
+## Corpus chain
+previous_story_id: DKS_0148 | next_story_id: DKS_0150
+previous title: Krishna Retrieves Sandipani's Son
+next title: Memories of the Gurukula || Krishna and Sudama recall their student days under Sandipani, when they were sent to fetch firewood and, caught in a fierce storm, wandered lost until the guru found them at dawn.

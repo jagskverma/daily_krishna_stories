@@ -1,0 +1,40 @@
+# STORY DKS_0505 — Yadu Meets the Wandering Avadhuta
+
+## Index entry
+title: Yadu Meets the Wandering Avadhuta
+summary: King Yadu meets a serene, fearless brahmin avadhuta and, astonished at his freedom, asks how he attained such wisdom; the avadhuta answers that he has twenty-four gurus from whom he drew his understanding.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: Krishna, Uddhava, King Yadu, the avadhuta brahmin
+locations: a forest road
+themes: wisdom, detachment, guru, teaching
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0525
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 7 | verses 23-35 | confidence 5
+  excerpt: Yadu asked the wandering brahmin: 'You act like a child, a madman, a ghost, and yet you are a sage; how did you gain such wisdom?' The brahmin answered: 'I have many gurus, O king — earth, wind, sky, water, fire, moon, sun, the pigeon, the python, the ocean, the moth, the bee, the elephant, the honey-gatherer, the deer, the fish, Pingala, the osprey, the child, the maiden, the arrow-maker, the ser
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.7 (23-35)
+23. atrāpy udāharantīmam itihāsaṃ purātanam /
+24. avadhūtaṃ dviyaṃ kañcic carantam akuto-bhayam /
+25. bhp_11.07.026/0 śrī-yadur uvāca
+26. prāyo dharmārtha-kāmeṣu vivitsāyāṃ ca mānavāḥ /
+27. tvaṃ tu kalpaḥ kavir dakṣaḥ su-bhago 'mṛta-bhāṣaṇaḥ /
+28. janeṣu dahyamāneṣu kāma-lobha-davāgninā /
+29. tvaṃ hi naḥ pṛcchatāṃ brahmann ātmany ānanda-kāraṇam /
+30. bhp_11.07.031/0 śrī-bhagavān uvāca
+31. bhp_11.07.032/0 śrī-brāhmaṇa uvāca
+32. pṛthivī vāyur ākāśam āpo 'gniś candramā raviḥ /
+33. madhu-hā hariṇo mīnaḥ piṅgalā kuraro 'rbhakaḥ /
+34. ete me guravo rājan catur-viṃśatir āśritāḥ /
+35. yato yad anuśikṣāmi yathā vā nāhuṣātmaja /
+
+## Corpus chain
+previous_story_id: DKS_0504 | next_story_id: DKS_0506
+previous title: Uddhava Begs Krishna Not to Leave Him Behind
+next title: The Avadhuta's Lessons from the Elements

@@ -1,0 +1,107 @@
+# STORY DKS_0010 — Kamsa Repents and Devaki Forgives Him
+
+## Index entry
+title: Kamsa Repents and Devaki Forgives Him
+summary: Kansa, ashamed, confesses to Devaki and throws himself at her feet; Devaki forgives him, saying Time alone is the instrument.
+life_stage: birth | story_arc: birth_of_krishna
+characters: Kansa, Devaki
+locations: Mathura
+themes: repentance, forgiveness
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0031
+variant_notes: HV-specific; BP 10.4.2 folds repentance into the Yogamaya episode.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 59 | verses  | confidence 4
+  excerpt: 'I throw myself at your feet like a son. Be not offended with me.'... Devaki said:—'I forgive you for the sin that you have committed by destroying my children.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.59 ()
+TITLE: BIRTH OF KRISHNA AND BALADEVA
+
+Vaishampayana said:—Under these arrangements the celestial-like Devaki
+conceived for seven times as described before (1). Kansa killed the
+_Sargarbhas_ by dashing them against a stone, as soon as they came out.
+The embryo of the seventh conception was transferred to Rohini (2). Once
+on a time at the dead of night while Rohini was sleeping a sound sleep
+there took place a discharge of blood followed by an abortion (3).
+Rohini, in a dream, saw the falling of her embryo and when she awoke, a
+little after, she was greatly pained on not seeing it (4). In that dark
+night Vasudeva’s wife Rohini, resembling the moon, was worked up with
+great anxiety; thereat the goddess of sleep said to her (5). "O fair
+one, I have extracted the embryo out of Devaki’s womb and placed it in
+yours. Therefore this your son will be celebrated by the name of
+Sangkarshana" (6). Obtaining that son she was pleased and with her head
+down she entered her own house like the beautiful wife of the moon (7).
+
+When people grew anxious of instituting enquiries about the seventh
+conception of Devaki she conceived him for the eighth time for whom
+Kansa had killed her seven children (8). Kansa’s servants began to watch
+it with great care wherein the Lord Hari was living of his own accord
+(9). Yashodā too conceived the goddess of sleep, begotten of a portion
+of Vishnu’s energy and intent on carrying out his command (10). Before
+the period of conception was complete, in the eighth month both Devaki
+and Yashodā simultaneously gave birth to their children (11). In the
+same night in which Krishna was born in the race of Vrishnis, Yashodā
+gave birth to her daughter (12). Vasudeva’s wife Devaki and Nanda’s wife
+Yashoda, both of them, conceived at the same time (13). In the
+auspicious midnight and in _Abkijit Muhurtta_, Devaki gave birth to
+Vishnu and Yashodā to that daughter (14). When Janārddana was born, the
+oceans were agitated, the pillars of the earth were shaken, the fires,
+that had been extinguished, began to burn, auspicious winds began to
+blow, the dust was removed and the luminous bodies manifested themselves
+(15–16). When the invisible, eternal and powerful Lord Hari of subtle
+soul, who encompasses the well-being of the world, was born, the night
+was Jayanti, the _Nakshatra_ was Abhijit and Muhurtta was Vijaya. As
+soon as he was born he overpowered all the worlds with his looks. The
+celestial bugles began to produce sound without being struck and the
+king of gods showered flowers from the etherial region. The great
+saints, accompanied by the Gandharvas and Apsaras, chanted the glories
+of the slayer of Madhu in auspicious hymns. When Hrishikesha was born
+the whole universe was in an ecstacy of joy (17–20). Indra too, along
+with the gods, eulogised the glories of Madhusudhana. Seeing, in that
+night, Vishnu²⁰² born as his son, bearing the mystic mark of Srivasta
+and other signs of divinity Vasudeva said to him, "O lord, do thou
+withdraw this form of thine. O thou having lotus-eyes, I have been
+greatly terrified, on account of my sons, your elder brothers, being
+slain by Kansa and therefore I speak thus" (21–23).
+
+Vaishampayana said:—Hearing the words of Vasudeva the lord withdrew his
+form of four arms and addressing him as his father asked him to take him
+to the house of the milkman Nanda (24). Taking that boy, Vasudeva too,
+fond of his sons, speedily repaired to the house of Yashodā (25).
+Placing his son in her house against her knowledge he brought her
+daughter and placed her on Devaki’s bedstead (26).
+
+After the children had been exchanged Anakadundhubi Vasudeva, having
+accomplished his work and his mind filled with fear, issued out of his
+house and communicated to Ugrasena’s son Kansa the birth of a beautiful
+daughter (27-28). Hearing it the powerful Kansa quickly arrived at
+Vasudeva’s door and enquired of him about what was born. He then ordered
+him to hand over the new born babe, and remonstrated with him severely
+(26-30).
+
+Hearing this all the women of Devaki’s family cried aloud and she,
+herself shedding tears, prayed humbly to him; "O lord, you have already
+killed my seven beautiful sons. I have taken this new-born daughter for
+already slain. Do what you think proper." Seeing that girl and drawing
+her out the wicked-minded Kansa said:—"While a daughter is born she is
+already killed." That girl, equal to the earth herself, who was wearied
+on account of her living in the womb and whose hairs were wet with the
+water thereof, was placed before him on the ground. Taking her with
+contempt by the legs and whirling her Kansa dashed her against a stone.
+Although thrown on a rock in derision, that girl, who is daily
+worshipped by the gods, was not crushed. On the other hand, casting off
+her human from and being adorned with celestial garlands, pastes, and a
+shining crown she, with dishevelled hairs and remonstrating with Kansa,
+rose up in the sky (31–38). She was clad in a dark blue raiment, her
+breasts were risi
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0009 | next_story_id: DKS_0011
+previous title: Devaki's Seventh Embryo Is Transferred to Rohini (Balarama Born)
+next title: The Conception of Devaki and the Six Demon Embryos

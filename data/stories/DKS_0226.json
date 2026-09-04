@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0226",
+ "title": "A Challenge Sent to Dwaraka",
+ "subtitle": "Indra refuses to part with the Parijata tree",
+ "story": "In the court of heaven, the sage Narada stood before Indra, the king of the gods, and the message he carried was not the one Indra had hoped to hear. His brother Krishna, the lord of Dwaraka, wanted the Parijata — the tree he had promised his wife Satyabhama — the very tree that bloomed in Indra's pleasure garden, the Nandana forest, where its blossoms were said to scent the air of heaven.\n\nThe request had been made as one brother makes to another. Krishna expected indulgence, Narada reported, because he was Indra's younger brother, and he had sent his words with courtesy. But he had sent a warning too: neither god nor demon, neither the musicians of heaven nor the great serpents of the deep — no power in any of the worlds — would turn him from his pledge. If Indra refused the tree when it was asked in friendship, Krishna would come to heaven himself and hurl his mace at the breast of the king of the gods, the breast where queen Sachi lays her fragrant ointments.\n\nIndra heard him out, and the grievances of a lifetime gathered behind his eyes. Had he not forgiven Krishna again and again, remembering only that the boy was his brother? When the Khandava forest burned, Krishna had driven Arjuna's chariot and kept Indra's rain clouds away, letting the great fire rage on. When Krishna lifted the Govardhana hill to shelter the cowherds of Vrindavan, he had done it by setting aside the worship that belonged to the lord of rain. When Indra had asked his help against the demon Vritra, Krishna had answered only that he was impartial and looked on all creatures equally — and so Indra had slain Vritra with his own arms. And in every war between the gods and the demons, Krishna fought as his own will pleased, never troubling himself about the authority of the king of heaven.\n\nNarada listened, and then spoke plainly. He had tried to turn Krishna from this course, he said; he had set reason after reason before him, and the lord of Dwaraka had heeded none. To Indra he offered the counsel of a friend: it seemed better to let the Parijata be transplanted to Dwaraka than to let a quarrel split the house of heaven.\n\nBut Indra's mind was already made up. \"Let the sage carry this answer to Krishna,\" he said. \"Our father Kashyapa and our mother Aditi have gone into the waters on a sojourn, and this matter should rightly be laid before them — for what has my brother done but abuse his elder, and that at the urging of his wife? Shame on women,\" the king of the gods said, \"and shame on the influence of pride — that even Vishnu, led by his wife, should insult me this day.\" He remembered what his parents and Brahma himself had taught him: that there is no friend like a brother, and that a wise, well-behaved brother is dearer to a man than thousands of sons. \"The demons fight me because they are not my brothers,\" he said. \"Only a brother could wound me so. I will not be the one to begin a rupture among kin. Let my brother's challenge be set before our parents when they return.\"\n\nNarada waited until the king of the gods had said all he meant to say. When Indra fell silent, his answer stood clear and final. \"Until I am conquered in battle by Krishna,\" he declared, \"I will not part with the Parijata tree. Go, and tell him I am prepared for the quarrel.\"\n\nSo Narada bowed and left the court of heaven, carrying the challenge back to Dwaraka. And the king of the gods, who had once unleashed storms upon the world for the sake of his pride, sat waiting for the brother who had promised to come.",
+ "reflection": "The quarrel is framed entirely in the language of kinship: Krishna asks as a younger brother, Indra refuses as an elder one, and each grievance Indra recites is a memory of being set aside by someone he loves. The refusal is less about a tree than about a brother who has never once deferred to him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Indra",
+  "Narada",
+  "Krishna"
+ ],
+ "locations": [
+  "heaven"
+ ],
+ "themes": [
+  "refusal",
+  "challenge",
+  "fraternal-rift"
+ ],
+ "previous_story_id": "DKS_0225",
+ "next_story_id": "DKS_0227",
+ "next_story_tease": "The challenge reached Dwaraka, and Krishna prepared to come to heaven in person.",
+ "hero_scene": "In the great court of heaven, the sage Narada stands before the seated king of the gods, who listens with gathering anger as the messenger relays Krishna's demand for the Parijata tree, the air of the celestial hall heavy with the weight of the coming quarrel.",
+ "visual_elements": [
+  "Narada standing before Indra",
+  "Indra seated on his throne among the gods",
+  "the celestial court of heaven",
+  "Indra's gathering anger",
+  "messenger robes of the sage",
+  "mood of tension and foreboding"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.127",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T23:13:00+0530",
+  "source_event_id": "evt_0297",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

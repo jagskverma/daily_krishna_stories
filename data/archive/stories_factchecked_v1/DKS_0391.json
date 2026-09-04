@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0391",
+ "title": "Bhishma Foretells That Krishna Will Destroy Shishupala",
+ "subtitle": null,
+ "story": "The hall of Indraprastha balanced on a single moment. Shishupala, king of Chedi, had called the assembled monarchs to war, and the rage he had spoken for had not subsided; it had gathered. Yudhishthira, whose sacrifice this was, looked across the sea of angry kings at Bhishma, the grandsire of the Kurus, as though the old man were the only fixed thing left in the room.\n\n\"Tell me, O Grandsire,\" he said, \"what I should do, so that my sacrifice may not be obstructed and my subjects may not be injured.\"\n\nBhishma answered without hesitation. \"Fear not, O tiger of the Kurus. Can the dog slay the lion? As dogs in a pack approach the lion that is asleep and bark together, so are all these lords of earth. Before the sleeping lion of the Vrishni race, these monarchs bark in rage. Achyuta now is like a lion asleep. Until he wakes, this chief of the Chedis makes these monarchs look like lions.\"\n\nThen the grandsire spoke of what he truly saw in the commotion. \"This Shishupala, possessed of little intelligence, is desirous of taking all these kings along with him, through the agency of him who is the soul of the universe, to the regions of Yama. Assuredly, O Bharata, Vishnu has been desirous of taking back unto himself the energy that exists in this Shishupala. The intelligence of this wicked-minded king of the Chedis, as also of all these monarchs, has become perverse; for the intelligence of all those whom this tiger among men desires to take unto himself becomes perverse, even like that of the king of the Chedis. O Yudhishthira, Madhava is the progenitor as also the destroyer of all created beings of the four species existing in the three worlds.\"\n\nIt was the kind of speech that should have silenced a hall; it silenced everyone except Shishupala.\n\n\"Old and infamous wretch of your race,\" the king of Chedis said, turning on the grandsire, \"are you not ashamed of affrighting all these monarchs with these numerous false terrors? You are the foremost of the Kurus, and living as you do in the third state, celibacy, it is but fit for you to give counsel so wide of morality. Like a boat tied to another boat, like the blind following the blind, are the Kurus who have you for their guide.\"\n\nHe was not done with Bhishma's praise of Krishna. \"You have simply pained our hearts by reciting the deeds of this one, the slaying of Putana and others. If Krishna in his infancy slew a vulture, what is there remarkable in that? What of his slaughter of Aswa and Vrishava, both unskilled in battle? If he threw down by a kick an inanimate piece of wood, a car, what is there wonderful in that? What is remarkable in his having supported for a week the Govardhan mount, which is like an anthill? 'While sporting on the top of a mountain, he ate a large quantity of food' — hearing these words of yours, many have wondered exceedingly. But is not this still more wrongful, that Kamsa, whose food this one ate, has been slain by him?\"\n\nThen the king of Chedis turned from the deeds to the law. \"The virtuous and the wise always instruct the honest that weapons must never be made to descend upon women, kine, and Brahmanas, upon those whose food has been taken, and upon those whose shelter has been enjoyed. It seems all these teachings have been thrown away by you. Desiring to praise Kesava, you describe him before me as great and superior in knowledge and age, as if I knew nothing. If at your word one who has slain women and kine is worshipped, what is to become of this great lesson? How can one who is such deserve praise?\"\n\nThen he turned on the man himself. \"If you know the ways of morality, if your mind is guided by wisdom, blessed be you. Then why, O Bhishma, was that virtuous girl Amva, who had set her heart upon another, carried off by you, so proud of wisdom and virtue? Your brother Vichitravirya, knowing her condition, did not marry her though she was brought by you. Boasting of virtue as you do, in your very sight sons were begotten upon the widow of your brother by another, according to the ways of the honest. Where is your virtue, O Bhishma? This celibacy of yours, led either from ignorance or from impotence, is fruitless. Worship, gift, study, sacrifices distinguished by large gifts to the Brahmanas — all these equal not even one-sixteenth part of that which is obtained by the possession of a son. You are childless and old, the expounder of false morality.\"\n\nThe hall had gone very still. When Shishupala spoke again, his voice had dropped, and what came next was not an insult but a sentence. \"Like the swan in the story,\" he said, \"you shall now die at the hands of your relatives. Other men possessed of knowledge have said this of old, and I will presently recite it fully in your hearing.\"\n\nAnd he began the tale of the old swan on the sea-coast, a bird forever preaching virtue to the feathery tribe while its own conduct fell short. The kings leaned forward, understanding what was being promised — and what was being dared.",
+ "reflection": "Shishupala's mockery dismisses as ordinary the very deeds the tradition treasures — Govardhan, Putana, Kamsa — while his attack on Bhishma carries its own prophecy. He names the grandsire's death at the hands of his relatives without seeing that his own fate has already been named, in the same breath, by Bhishma.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Bhishma",
+  "Krishna",
+  "Yudhishthira",
+  "Shishupala"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "destiny",
+  "reassurance",
+  "divine-will"
+ ],
+ "previous_story_id": "DKS_0390",
+ "next_story_id": "DKS_0392",
+ "next_story_tease": "Behind Shishupala's rage lay an old story of a mother's plea and a promise that was nearly spent.",
+ "hero_scene": "Bhishma, white-haired and unflinching, addresses the furious assembly with one hand raised in reassurance — comparing the raging kings to dogs before a sleeping lion — while Shishupala stands opposite with burning eyes, about to answer.",
+ "visual_elements": [
+  "Bhishma speaking calmly before the agitated assembly",
+  "Shishupala turning on the grandsire with raised hand",
+  "the kings of the earth leaning forward in the hall",
+  "Shishupala recounting Krishna's childhood deeds with contempt",
+  "the old swan of the sea-coast teaching the feathery tribe"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.40",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:54Z",
+  "source_event_id": "evt_0398"
+ },
+ "editorial_status": "unreviewed"
+}

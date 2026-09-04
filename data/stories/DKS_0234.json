@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0234",
+ "title": "The Garland That Bound and Released",
+ "subtitle": "Satyabhama's Punyaka rite and the gift to Narada",
+ "story": "Satyabhama, Krishna's wife, lifted a garland over her husband's head. It was not meant as decoration: flowers and all, it was a binding — the knot of a rite that would hand him to a wandering sage and then buy him back again, all within the same afternoon.\n\nIt began with a summons. Satyabhama wished to keep the Punyaka, a ceremony in which a wife gives away her dearest possession and then ransoms it back; and Krishna thought of the one guest the rite needed — Narada, the wandering sage who moves freely between the worlds. The sage appeared as though the thought itself were a road. When the appointed hour came, Satyabhama and Krishna bathed the great sage, anointed him with scents, hung garlands on him, and fed him with their own hands.\n\nThen the rite proper began. Satyabhama set a garland of flowers around Krishna's neck and bound him to the Parijata, the heavenly tree that grew in her garden in Dwaraka. With his permission she dedicated him to Narada, and then she gave away her gifts: sesame seeds that gleamed like jewels, gold mixed with rice and other grains, mountains of gold, and a thousand cows — wealth poured out in such measure that the ceremony looked less like worship than like a festival of giving. The women of the household looked on as the sage accepted it all, and a joke hung in the air, waiting to be played out.\n\nNarada accepted everything, delighted. “O Keshava,” he said, “given to me by Satyabhama together with water, you have become mine. Follow me, and do what I say.”\n\n“This is the first stage,” Krishna answered, and began to follow him.\n\nThe sage walked a few paces, cracked a few jokes, and said, “Wait here, I am going.” Then, instead of going, he lifted the garland from Krishna's neck. “To release yourself,” he said, “give me a Kapila cow with her calf, and the skin of a black antelope filled with sesame seeds and gold. This means of release has been laid down by the god whose emblem is the bull.”\n\n“So be it,” said Krishna, and offered the fee on the spot. Then he smiled at the sage. “Narada, you who are conversant with religion, I have been greatly pleased with you. Ask for a boon, and I will grant it.”\n\nNarada asked that the eternal Vishnu might always be pleased with him and grant him a place beside him; and that if he were ever born again, it would be of no woman, but as a Brahmana, of the priestly line.\n\n“So it will be,” said Krishna.\n\nThe rite did not end with the release. Satyabhama had invited all sixteen thousand of Krishna's wives to the Punyaka ceremony, and when it closed she shared out among them the celestial garments and ornaments that Shachi, Indra's queen, had once given to Krishna — heaven's own finery, passed from hand to hand in Dwaraka.\n\nAnd the Parijata, at a word from Krishna, began to display its own accomplishments, flowering and working its wonders while friends and relations gathered to watch. Krishna had brought his family from far and near: the five Pandava brothers, his cousins, with their mother Kunti and their wife Draupadi; his sister Subhadra; his aunt Shrutasrava with her son; and Bhishmaka, the father of his queen Rukmini, with his. For a year Krishna stayed in Dwaraka, happy in the company of Arjuna and the ladies of his household, the days turning gently around the blooming tree, which flowered in the city as though it had never left heaven.\n\nAt the end of that year he carried the Parijata back to the city of the celestials — returning the tree to heaven, and with it, in some measure, the peace between the two brothers who had lately faced each other in battle.",
+ "reflection": "The whole rite runs on a divine joke: the lord of the universe is bound by a garland, sold for gold and cows, and ransomed back at a price fixed by Shiva. Krishna plays along without once breaking the mood, and the ceremony ends in generosity instead of solemnity — devotion, in this telling, is not afraid to laugh at itself.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Satyabhama",
+  "Krishna",
+  "Narada"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "rite",
+  "generosity",
+  "playful devotion"
+ ],
+ "previous_story_id": "DKS_0233",
+ "next_story_id": "DKS_0235",
+ "next_story_tease": "When the tree came home to heaven, Krishna would make a vow before Indra that set a ten-day countdown to war.",
+ "hero_scene": "Satyabhama binding Krishna to the flowering Parijata tree with a garland of flowers while Narada looks on in delight, mountains of gold and a thousand cows arranged around them in Dwaraka.",
+ "visual_elements": [
+  "Satyabhama placing a flower garland around Krishna's neck",
+  "the Parijata tree in bloom in Dwaraka",
+  "Narada the sage, delighted and joking",
+  "gifts of sesame seeds, gold and a thousand cows",
+  "celestial garments being distributed to the sixteen thousand wives",
+  "playful, festive mood"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.223",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:41Z",
+  "source_event_id": "evt_0304",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

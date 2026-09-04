@@ -1,0 +1,120 @@
+# STORY DKS_0343 — Bana Captures and Binds Aniruddha
+
+## Index entry
+title: Bana Captures and Binds Aniruddha
+summary: Bana's guards discover the secret union; Bana finds Aniruddha with Usha and binds him with serpent-nooses.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Bana, Aniruddha, Usha
+locations: Shonitapura
+themes: discovery, capture, wrath
+festival_tags: 
+age_sensitivity: all | notes: Aniruddha's rout of Vana's soldiers (hv_b2_057) and Durga's later release (hv_b2_059) are distinct beats. | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0224
+variant_notes: BP and VP: bound with serpent-nooses; Harivamsha: fettered with serpentine shafts via Tamasika illusion.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 62 | verses 26-34 | confidence 5
+  excerpt: The guards reported Usha's defilement; Bana, enraged, rushed to the women's quarters and found Aniruddha playing dice with his daughter, and the furious demon bound him with serpent-nooses, while Usha wept in grief. (rendered from Sanskrit, verses 26-34)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 266 | verses  | confidence 4
+  excerpt: Pradyumna's son was fettered with serpentine shafts. His body was chained with various serpents... Kumbhānda said... "He does not deserve to be slain"... handing over Aniruddha to the guards... Vāna... repaired to his own palace
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 33 | verses  | confidence 4
+  excerpt: The guards of the inner apartments discovering him there with Ushá, reported it to the king... Báňa... followed the counsel of his minister, and brought his magical faculties into the conflict, by which he succeeded in capturing the Yadu prince, and binding him in serpent bonds.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.62 (26-34)
+26. tāṃ tathā yadu-vīreṇa bhujyamānāṃ hata-vratām /
+27. bhaṭā āvedayāṃ cakrū rājaṃs te duhitur vayam /
+28. anapāyibhir asmābhir guptāyāś ca gṛhe prabho /
+29. tataḥ pravyathito bāṇo duhituḥ śruta-dūṣaṇaḥ /
+30. kāmātmajaṃ taṃ bhuvanaika-sundaraṃ śyāmaṃ piśaṅgāmbaram ambujekṣaṇam /
+31. dīvyantam akṣaiḥ priyayābhinṛmṇayā tad-aṅga-saṅga-stana-kuṅkuma-srajam /
+32. sa taṃ praviṣṭaṃ vṛtam ātatāyibhir bhaṭair anīkair avalokya mādhavaḥ /
+33. jighṛkṣayā tān paritaḥ prasarpataḥ śuno yathā śūkara-yūthapo 'hanat /
+34. taṃ nāga-pāśair bali-nandano balī ghnantaṃ sva-sainyaṃ kupito babandha ha /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.266 ()
+TITLE: CHITRALEKHA UNITES ANIRUDDHA WITH USHA: ANIRUDDHA’S
+
+FIGHT WITH VANA’S SOLDIERS.
+
+Vaishampāyana said:—Having arrived at the city of Dwārakā and living
+near the palace of Vāsudeva Chitrālekha began to think of the measures
+by which she might know how Aniruddha had been to the city of Vanā.
+While she was thus thinking she saw the ascetic Nārada engaged in
+meditation in the water (1–2). Seeing him, Chitralekhā, having her eyes
+expanded with joy, approached him. Having saluted him she stood before
+him hanging her head down. Having blessed Chitralekhā Nārada said:—"I
+wish to know truly why you have come here." Hearing it Chitralekha, with
+folded hands, said to the celestial saint Nārada worshipped of the world
+(3-5). "Listen to it, O Reverend Sir. I have come here as a messenger
+for taking Aniruddha with me. Hear, O Muni, why I am to take him with
+me. A great Asura, by name Vāna, lives in the city of Shonitapura. He
+has a most beautiful daughter by name Ushā. She has been attached to
+that best of men, Pradyumna’s son, for he has been selected by her as
+her husband on account of the boon given by the goddess. I have come
+here to take him with me. Do what leads to my success. O great Muni,
+after I had taken Aniruddha to Shonitpura communicate the news to
+Keshava having eyes like red lotuses for truly an encounter shall take
+place between Krishna and Vāna. Highly powerful is the great Asura Vāna
+in battle, so Aniruddha will not be able to defeat him. The large-armed
+Keshava will vanquish that thousand-armed Asura. O reverend Sir, I have
+come to you for finding out the means by which the lotus-eyed (Keshava)
+may come to know of it. How shall I steal away Aniruddha and how may
+Keshava learn the real truth? O Sir, if you are propitiated with me I
+shall not have to fear Keshava. When angered the large armed Keshava can
+consume even the three worlds: do that by which Keshava, stricken with
+sorrow for his grand-son, may not consume me with a curse. You should, O
+celestial saint, concert a measure by which Ushā may get her husband and
+I may not have anything to fear (6-15)." Thus addressed by Chitralekhā
+the divine Nārada said to her the following sweet words:—"I offer you
+protection. Shorn of fear hear what I say. O you of sweet smiles, if any
+encounter takes place when you steal away Aniruddha to the appartment of
+maidens remember me. O beautiful lady, I am much fond of seeing battles
+and I take great pleasure in them. Accept the Tāmasa learning which can
+infatuate all the worlds and which I have mastered by practising hard
+austerities." After the great saint Nārada had said this, Chitralekhā,
+quick-coursing like mind, said "So be it." Thereupon having saluted the
+high-souled Rishi Nārada she set out in the sky searching for
+Aniruddha’s house (17–21).
+
+Thereupon going to the centre of Dwaravati she saw the beautiful palace
+of Kāma. Near it she saw Airuddha’s palace. It had golden altars and
+pillars made of gold and sapphires. It was adorned with garlands and
+jairs full of water. It had beautiful figures of peacocks on the turret
+and had a rows of celestial buildings set with jems and corals and
+filled with the music of the Gandharvas. Beholding the huge palace at
+the centre of Dwārakā where Pradyumna’s son lived happily, Chitralekhā,
+all on a sudden, saw Aniruddha there. She saw there Kāma’s son playing
+in the midst of highly beautiful women as the moon shines amongst the
+stars. Hundreds of women were attending on him. Seated like Kuvera on a
+most excellent beautiful seat Aniruddha was drinking Mādhvika wine.
+There were being sung sweet songs in accompaniment with time. But
+Aniruddha’s mind was not attached thereto. Many accomplished ladies were
+dancing there but Chitralekha did not see him pleased thereby. At that
+time his mind was not much after pleasure and he was showing dislike
+even for drinking. Thereupon thinking "Surely his mind is busy with the
+dream," Chitralekhhā was shorn of anxiety (22–31).
+
+Beholding Aniruddha like Indra’s standard in the midst of those
+beautiful women the intelligent Chitralekhā thus revolved in her mind
+"How shall I accomplish this work? How shall we meet with well-being?"
+Beholding Aniruddha in the midst of the women in his palace, the
+illustrious Chitralekhā, having beautiful eyes, thought:—"By my Tamasik
+illusion I will overpower all except Aniruddha". Thereupon hiding
+herself in the sky above the palace, she, in sweet words, said to Kāma’s
+son:—"O hero! O descendant of Yadu, is it all well with you? Have you
+spent well the day and evening? O large-armed son of Rati, hear, I have
+something to communicate to you. I have come here to inform you
+something of my friend Ushā. O hero, I have been sent to you by Ushā
+whom you saw in a dream and married and who has been cherishing you at
+her heart. O gentle one, that maiden is again and again weeping, yawning
+and sighing for seeing you. O hero, she will live if you go there.
+Forsooth, in your absence she will die. O descendant of Yadu,
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0342 | next_story_id: DKS_0344
+previous title: Aniruddha Is Brought to Usha and They Unite
+next title: Krishna and Shiva Duel with Divine Weapons

@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0118",
+ "title": "Akrura Reports to Kamsa",
+ "subtitle": null,
+ "story": "Krishna and his elder brother, Balarama, were on the road to Mathura, where Kamsa — the king who had sent for the brothers — waited for them. They rode in the chariot of Akrura, the king's messenger, and on the way Akrura had stopped at the river Yamuna to bathe. There, beneath the water, he had been shown a vision: Krishna, the boy beside him, revealed as the Lord of all things resting upon the great serpent, the hosts of heaven about him. But one moment the river had shown him everything, and the next it was gone — folded away as suddenly as it had come, the way an actor folds away a play. He rose quickly from the water and found Krishna standing on the bank, as if nothing at all had happened.\n\n\"What did you see?\" Krishna asked him. \"You look as though you have seen something wonderful.\"\n\nAkrura could barely answer. Everything that can be wondered at, he said — on the earth, in the sky, or in the water — stands in you. He had gone down into the river looking for the source of every wonder, and here it stood before him on the bank: not beneath the water, but there in the boy who had sent him down into it. The vision had been withdrawn, but the one it had revealed had not moved from his side. The river, he understood, had been only a mirror.\n\nHe climbed back onto the chariot, still turning it over in his mind, and urged the horses on toward the city. The reins felt strange in his hands; the road ahead felt like the road into a dream.\n\nOn the way, villagers gathered here and there to see them pass. The people of Vrindavan had come with the chariot too — Nanda, the old chief of the cowherds, who had raised the brothers, and his men — and they had gone on ahead. Word of the arrival had run before them all, and folk came out along the road to catch sight of the boys of Vrindavan on their way to Mathura at last.\n\nThen Krishna spoke to Akrura. \"You go on ahead,\" he said. \"Enter the city first, with your chariot, and go to your own house.\"\n\nAkrura would not let it go so easily. Come with us, Lord, he pleaded, and make our homes not without a master, for we are householders, and our houses are nothing without you. Purify them with the dust of your feet. The great king Bali won lasting fame by washing those feet, and the water of that washing cleansed the three worlds. O God of gods, whose very name is auspicious to hear and to sing, do not pass our doors. It was the voice of a man who had just seen the whole of creation gathered in one place and could not bear to watch it ride past his own threshold.\n\nBut Krishna answered gently and firmly and would not be turned. Akrura had been given an errand, and he knew how to take an answer; so he bowed and drove on ahead, though he would rather have stayed. He entered the city as he had been told, delivered his account to the king who had sent him, and only then, his errand done, turned toward his own house — carrying the wonder of the river quietly inside him, where no one in the city could see it. That afternoon, Krishna entered Mathura with Balarama beside him.",
+ "reflection": "Akrura had been shown the whole of creation in the river, and then it was hidden again — revealed and withdrawn, as if it were something that could not yet be spoken of openly. He drove on as he was asked, made his report, and kept the wonder privately inside him.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Krishna",
+  "Akrura",
+  "Kamsa"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "concealment",
+  "divine vision"
+ ],
+ "previous_story_id": "DKS_0117",
+ "next_story_id": "DKS_0119",
+ "next_story_tease": "But Nanda, having delivered his tribute, would prepare to return to Vraja.",
+ "hero_scene": "Akrura surfacing from the waters of the Yamuna, dazed, while Krishna watches him with calm amusement; behind them the waiting chariot, and ahead the road and gates of Mathura.",
+ "visual_elements": [
+  "the Yamuna river",
+  "Akrura rising from the water in wonder",
+  "Krishna and Balarama on the bank",
+  "the waiting chariot",
+  "the road and gates of Mathura",
+  "wonder and concealment"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.41.1-18",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:25Z",
+  "source_event_id": "evt_0128",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 2,
+ "estimated_audio_minutes": 2
+}

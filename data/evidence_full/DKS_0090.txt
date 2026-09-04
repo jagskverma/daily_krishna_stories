@@ -1,0 +1,46 @@
+# STORY DKS_0090 — The Gopis Praise Krishna's Flute
+
+## Index entry
+title: The Gopis Praise Krishna's Flute
+summary: Krishna plays his flute in the forest, and the gopis, describing its sweetness to one another, are carried away into his pastimes.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Vrindavan
+themes: devotion, music, longing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0083
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 21 | verses 1-19 | confidence 5
+  excerpt: As Krishna's flute-song sounds through the forest, the gopis tell one another how even the deer, the rivers and the gods are enchanted by it, and they are lost in remembrance of him. (rendered from Sanskrit, verse 1-19)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.21 (1-19)
+1. kusumita-vanarāji-śuṣmi-bhṛṅga dvija-kula-ghuṣṭa-saraḥ-sarin-mahīdhram /
+2. tad vraja-striya āśrutya veṇu-gītaṃ smarodayam /
+3. tad varṇayitum ārabdhāḥ smarantyaḥ kṛṣṇa-ceṣṭitam /
+4. barhāpīḍaṃ naṭa-vara-vapuḥ karṇayoḥ karṇikāraṃ $ bibhrad vāsaḥ kanaka-kapiśaṃ vaijayantīṃ ca mālām &amp;randhrān veṇor adhara-sudhayāpūrayan gopa-vṛndair % vṛndāraṇyaṃ sva-pada-ramaṇaṃ prāviśad gīta-kīrtiḥ
+5. iti veṇu-ravaṃ rājan sarva-bhūta-manoharam /
+6. bhp_10.21.007/0 śrī-gopya ūcuḥ akṣaṇvatāṃ phalam idaṃ na paraṃ vidāmaḥ $ sakhyaḥ paśūn anaviveśayator vayasyaiḥ & akṣaṇvatāṃ phalam idaṃ na paraṃ vidāmaḥ $ sakhyaḥ paśūn anaviveśayator vayasyaiḥ & vaktraṃ vrajeśa-sutayor anaveṇu-juṣṭaṃ % yair vā nipītam anurakta-kaṭākṣa-mokṣam
+7. cūta-pravāla-barha-stabakotpalābja mālānupṛkta-paridhāna-vicitra-veśau /
+8. gopyaḥ kim ācarad ayaṃ kuśalaṃ sma veṇur $ dāmodarādhara-sudhām api gopikānām &amp;bhuṅkte svayaṃ yad avaśiṣṭa-rasaṃ hradinyo % hṛṣyat-tvaco 'śru mumucus taravo yathāryaḥ
+9. vṛndāvanaṃ sakhi bhuvo vitanoti kīṛtiṃ $ yad devakī-suta-padāmbuja-labdha-lakṣmi &vṛndāvanaṃ sakhi bhuvo vitanoti kīṛtiṃ $ yad devakī-suta-padāmbuja-labdha-lakṣmi &govinda-veṇum anu matta-mayūra-nṛtyaṃ % prekṣyādri-sānv-avaratānya-samasta-sattvam
+10. dhanyāḥ sma mūḍha-gatayo 'pi hariṇya etā $ yā nanda-nandanam upātta-vicitra-veśam &dhanyāḥ sma mūḍha-gatayo 'pi hariṇya etā $ yā nanda-nandanam upātta-vicitra-veśam &ākarṇya veṇu-raṇitaṃ saha-kṛṣṇa-sārāḥ % pūjāṃ dadhur viracitāṃ praṇayāvalokaiḥ
+11. kṛṣṇaṃ nirīkṣya vanitotsava-rūpa-śīlaṃ $ śrutvā ca tat-kvaṇita-veṇu-vivikta-gītam &kṛṣṇaṃ nirīkṣya vanitotsava-rūpa-śīlaṃ $ śrutvā ca tat-kvaṇita-veṇu-vivikta-gītam &devyo vimāna-gatayaḥ smara-nunna-sārā % bhraśyat-prasūna-kabarā mumuhur vinīvyaḥ
+12. gāvaś ca kṛṣṇa-mukha-nirgata-veṇu-gīta $ pīyūṣam uttabhita-karṇa-puṭaiḥ pibantyaḥ &gāvaś ca kṛṣṇa-mukha-nirgata-veṇu-gīta $ pīyūṣam uttabhita-karṇa-puṭaiḥ pibantyaḥ &śāvāḥ snuta-stana-payaḥ-kavalāḥ sma tasthur % govindam ātmani dṛśāśru-kalāḥ spṛśantyaḥ
+13. prāyo batāmba vihagā munayo vane 'smin $ kṛṣṇekṣitaṃ tad-uditaṃ kala-veṇu-gītam &prāyo batāmba vihagā munayo vane 'smin $ kṛṣṇekṣitaṃ tad-uditaṃ kala-veṇu-gītam &āruhya ye druma-bhujān rucira-pravālān % śṛṇvanti mīlita-dṛśo vigatānya-vācaḥ
+14. nadyas tadā tad upadhārya mukunda-gītam $ āvarta-lakṣita-manobhava-bhagna-vegāḥ &nadyas tadā tad upadhārya mukunda-gītam $ āvarta-lakṣita-manobhava-bhagna-vegāḥ &āliṅgana-sthagitam ūrmi-bhujair murārer % gṛhṇanti pāda-yugalaṃ kamalopahārāḥ
+15. dṛṣṭvātape vraja-paśūn saha rāma-gopaiḥ $ sañcārayantam anu veṇum udīrayantam &dṛṣṭvātape vraja-paśūn saha rāma-gopaiḥ $ sañcārayantam anu veṇum udīrayantam &prema-pravṛddha uditaḥ kusumāvalībhiḥ % sakhyur vyadhāt sva-vapuṣāmbuda ātapatram
+16. pūrṇāḥ pulindya urugāya-padābja-rāga $ śrī-kuṅkumena dayitā-stana-maṇḍitena &pūrṇāḥ pulindya urugāya-padābja-rāga $ śrī-kuṅkumena dayitā-stana-maṇḍitena &tad-darśana-smara-rujas tṛṇa-rūṣitena % limpantya ānana-kuceṣu jahus tad-ādhim
+17. hantāyam adrir abalā hari-dāsa-varyo $ yad rāma-kṛṣṇa-caraṇa-sparaśa-pramodaḥ &hantāyam adrir abalā hari-dāsa-varyo $ yad rāma-kṛṣṇa-caraṇa-sparaśa-pramodaḥ &mānaṃ tanoti saha-go-gaṇayos tayor yat % pānīya-sūyavasa-kandara-kandamūlaiḥ
+18. gā gopakair anu-vanaṃ nayator udāra $ veṇu-svanaiḥ kala-padais tanu-bhṛtsu sakhyaḥ &gā gopakair anu-vanaṃ nayator udāra $ veṇu-svanaiḥ kala-padais tanu-bhṛtsu sakhyaḥ &aspandanaṃ gati-matāṃ pulakas taruṇāṃ % niryoga-pāśa-kṛta-lakṣaṇayor vicitram
+19. evaṃ-vidhā bhagavato yā vṛndāvana-cāriṇaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0089 | next_story_id: DKS_0091
+previous title: Indra Installs Krishna as Govinda
+next title: The Gopis Perform the Katyayani Vow

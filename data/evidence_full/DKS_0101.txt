@@ -1,0 +1,32 @@
+# STORY DKS_0101 — Krishna Relents and Sports with the Gopis
+
+## Index entry
+title: Krishna Relents and Sports with the Gopis
+summary: Krishna smiles, shows the gopis favor, and enjoys himself with them on the Yamuna's bank.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Yamuna
+themes: union, grace
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0111
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 29 | verses 42-46 | confidence 5
+  excerpt: Hearing their lament, Krishna, though self-satisfied, smilingly showed them favor and enjoyed himself with them on the sandy bank of the Yamuna, and the gopis thought themselves the most blessed of women. (rendered from Sanskrit, verses 42-46)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.29 (42-46)
+42. tābhiḥ sametābhir udāra-ceṣṭitaḥ priyekṣaṇotphulla-mukhībhir acyutaḥ /
+43. upagīyamāna udgāyan vanitā-śata-yūthapaḥ /
+44. nadyāḥ pulinam āviśya gopībhir hima-vālukam /
+45. bāhu-prasāra-parirambha-karālakoru nīvī-stanālabhana-narma-nakhāgra-pātaiḥ /
+46. evaṃ bhagavataḥ kṛṣṇāl labdha-mānā mahātmanaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0100 | next_story_id: DKS_0102
+previous title: Krishna Tests the Gopis
+next title: The Gopis Search the Forest

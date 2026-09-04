@@ -1,0 +1,50 @@
+# STORY DKS_0112 — Akrura Journeys to Vrindavan
+
+## Index entry
+title: Akrura Journeys to Vrindavan
+summary: On the road Akrura, filled with devotion, ponders what merit has earned him the sight of Krishna.
+life_stage: vrindavan | story_arc: akrura_and_departure
+characters: Akrura
+locations: road to Vrindavan
+themes: devotion, anticipation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0122
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 38 | verses 1-23 | confidence 5
+  excerpt: On the road Akrura, filled with devotion, pondered what merit had earned him the sight of Krishna, and he arrived at Gokula at sunset, gazing at the footprints of the Lord marked with the lotus and other signs. (rendered from Sanskrit, verses 1-23)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.38 (1-23)
+1. gacchan pathi mahā-bhāgo bhagavaty ambujekṣaṇe /
+2. kiṃ mayācaritaṃ bhadraṃ kiṃ taptaṃ paramaṃ tapaḥ /
+3. mamaitad durlabhaṃ manya uttamaḥ-śloka-darśanam /
+4. maivaṃ mamādhamasyāpi syād evācyuta-darśanam /
+5. mamādyāmaṅgalaṃ naṣṭaṃ phalavāṃś caiva me bhavaḥ /
+6. kaṃso batādyākṛta me 'ty-anugrahaṃ drakṣye 'ṅghri-padmaṃ prahito 'munā hareḥ /
+7. yad arcitaṃ brahma-bhavādibhiḥ suraiḥ $ śriyā ca devyā munibhiḥ sa-sātvataiḥ &amp;go-cāraṇāyānucaraiś carad vane % yad gopikānāṃ kuca-kuṅkumāṅkitam
+8. drakṣyāmi nūnaṃ su-kapola-nāsikaṃ smitāvalokāruṇa-kañja-locanam /
+9. apy adya viṣṇor manujatvam īyuṣo bhārāvatārāya bhuvo nijecchayā /
+10. ya īkṣitāhaṃ-rahito 'py asat-satoḥ sva-tejasāpāsta-tamo-bhidā-bhramaḥ /
+11. yasyākhilāmīva-habhiḥ su-maṅgalaiḥ vāco vimiśrā guṇa-karma-janmabhiḥ /
+12. sa cāvatīrṇaḥ kila satvatānvaye sva-setu-pālāmara-varya-śarma-kṛt /
+13. taṃ tv adya nūnaṃ mahatāṃ gatiṃ guruṃ $ trailokya-kāntaṃ dṛśiman-mahotsavam &amp;rūpaṃ dadhānaṃ śriya īpsitāspadaṃ % drakṣye mamāsann uṣasaḥ su-darśanāḥ
+14. athāvarūḍhaḥ sapadīśayo rathāt pradhāna-puṃsoś caraṇaṃ sva-labdhaye /
+15. apy aṅghri-mūle patitasya me vibhuḥ $ śirasy adhāsyan nija-hasta-paṅkajam &amp;dattābhayaṃ kāla-bhujāṅga-raṃhasā % prodvejitānāṃ śaraṇaiṣiṇāṃ ṇṛnām
+16. samarhaṇaṃ yatra nidhāya kauśikas tathā baliś cāpa jagat-trayendratām /
+17. na mayy upaiṣyaty ari-buddhim acyutaḥ $ kaṃsasya dūtaḥ prahito 'pi viśva-dṛk &amp;yo 'ntar bahiś cetasa etad īhitaṃ % kṣetra-jña īkṣaty amalena cakṣuṣā
+18. apy aṅghri-mūle 'vahitaṃ kṛtāñjaliṃ $ mām īkṣitā sa-smitam ārdrayā dṛśā &apy aṅghri-mūle 'vahitaṃ kṛtāñjaliṃ $ mām īkṣitā sa-smitam ārdrayā dṛśā &sapady apadhvasta-samasta-kilbiṣo % voḍhā mudaṃ vīta-viśaṅka ūrjitām
+19. suhṛttamaṃ jñātim ananya-daivataṃ dorbhyāṃ bṛhadbhyāṃ parirapsyate 'tha mām /
+20. labdhvāṅga-saṅgam praṇatam kṛtāñjaliṃ $ māṃ vakṣyate 'krūra tatety uruśravāḥ &amp;tadā vayaṃ janma-bhṛto mahīyasā % naivādṛto yo dhig amuṣya janma tat
+21. na tasya kaścid dayitaḥ suhṛttamo na cāpriyo dveṣya upekṣya eva vā /
+22. kiṃ cāgrajo māvanataṃ yadūttamaḥ smayan pariṣvajya gṛhītam añjalau /
+23. bhp_10.38.024/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0111 | next_story_id: DKS_0113
+previous title: Uddhava Praises the Gopis and Departs
+next title: Akrura Arrives in Vrindavan and Beholds Krishna

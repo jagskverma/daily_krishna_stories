@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0312",
+ "title": "The Discus in Pradyumna's Hand",
+ "subtitle": "Krishna's discus comes to his son, and Vajranabha falls for the last time",
+ "story": "The duel was over, and yet nothing was settled. Above the city of Vajra the two armies had fallen back, giving the combatants room, and the sky between them felt emptier than it had all day. Both warriors had been struck down, and both had risen again — Vajranabha from the wound on his breast, Pradyumna from the blow on his forehead, called back by his father's conch — and the sky held its breath, waiting for the third round. Now the two stood facing each other over the battlefield above the city of Vajra, and the war could have gone on for another day, or another month.\n\nIt had not been a short war. Pradyumna had ridden against the asura host with the serpent Ananta yoked to his celestial car, and had devastated their ranks while Indra looked on and sent his own car, his elephant Airavata, and his son Jayanta to aid the Yadavas. Only Vajranabha himself had held his ground, trading blows with the young hero until both lay senseless, and then rising again to fight on. And now, in the pause after the conch's call, Krishna decided that the time for testing was done.\n\nThen a wonder happened, the kind that moves through old stories and is told to children ever after. In the stillness that followed the conch's last note, According to Krishna's desire, his discus — set with thousands of sharpened axles, the weapon that had destroyed the enemies of the gods — left its place and came through the air into his son's hand. It was the discus of which the Daityas lived in fear, and every eye on the field followed its course.\n\nPradyumna looked at it and understood what was being asked of him. He did not hesitate. He saluted Indra, saluted his father, and hurled the discus at Vajranabha. It did not miss. There was no struggle, no second blow: before the very eyes of the Daityas, who had come to watch their king win, it separated the king's head from his body, and the great asura fell for the last time. The war above the city of Vajra was over.\n\nThe rest of the host did not wait to mourn, and no one among them moved to avenge their king. Sunabha, the dreadful one who took delight in battle, was killed by Gada on the field, careful as he was. Shamba, the aggrandiser of his enemies, with sharpened arrows sent the remaining enemies of the immortals into the family of Yama, which is to say, he despatched them. And Nikumbha, seeing what had befallen Vajranabha, fled in fear of Narayana to the far city of Shatpura, and no one followed.\n\nWhen it was done, Krishna and Indra came down from the sky to the city of Vajra itself. The city had passed through war; its boys and its old people huddled in fear, waiting to see what conquerors do. But these conquerors came not to take but to quiet. The two lords walked among the frightened people, consoled them, and established peace there, and the fear went out of the streets like a tide going out.\n\nSo the war that had begun in the upper air ended on the ground, in a city learning to be at peace again. Peace is not a loud thing; it settled over the city of Vajra like evening. And in the quiet that followed, the young warrior who had carried his father's discus began to understand what it meant to be trusted with such a weapon — and to have a father who believed he could use it.",
+ "reflection": "The discus comes into Pradyumna's hand according to Krishna's desire: the father does not hand it over so much as will it into his son's grasp. The victory is the young man's, but the instrument and the moment are the elder's gift — trust passing down a single line.",
+ "tradition_note": null,
+ "content_note": "Battle scene; Vajranabha is slain by the discus, described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Vajranabha",
+  "Krishna",
+  "Gada",
+  "Shamba",
+  "Sunabha",
+  "Nikumbha",
+  "Indra"
+ ],
+ "locations": [
+  "city of Vajra"
+ ],
+ "themes": [
+  "discus",
+  "climactic slaying",
+  "victory"
+ ],
+ "previous_story_id": "DKS_0311",
+ "next_story_id": "DKS_0313",
+ "next_story_tease": "The city lay conquered — and Indra and Krishna were already planning its future.",
+ "hero_scene": "Pradyumna hurling Krishna's discus, a blazing circle set with thousands of sharpened axles, at Vajranabha as the Daityas watch in horror from the city of Vajra below.",
+ "visual_elements": [
+  "the discus flying from Pradyumna's hand",
+  "Vajranabha struck down before the Daityas",
+  "Krishna and Indra watching from above",
+  "the city of Vajra beneath the battlefield",
+  "the asura host in fear",
+  "a mood of finality and release"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.244",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:53Z",
+  "source_event_id": "evt_0328"
+ },
+ "editorial_status": "unreviewed"
+}

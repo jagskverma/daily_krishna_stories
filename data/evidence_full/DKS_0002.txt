@@ -1,0 +1,34 @@
+# STORY DKS_0002 — Vishnu Promises to Descend into the House of Vasudeva
+
+## Index entry
+title: Vishnu Promises to Descend into the House of Vasudeva
+summary: Brahma and the gods carry the Earth's plea to Vishnu on the milk ocean; a divine voice declares Vishnu will be born in Vasudeva's house and that the gods should descend as helpers.
+life_stage: other | story_arc: prophecy_of_kamsa
+characters: Brahma, Vishnu, gods, Earth
+locations: Milk Ocean
+themes: divine_will, deliverance, cosmic_order
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0520
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 1 | verses 18-24 | confidence 5
+  excerpt: Brahma, bearing the Earth, goes with the gods to the shore of the milk ocean; a voice from the sky declares that the Supreme Lord himself will be born in Vasudeva's home, and the gods should descend in part to aid him. (rendered from Sanskrit, verse 18-24)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.1 (18-24)
+18. brahmā tad-upadhāryātha saha devais tayā saha /
+19. tatra gatvā jagannāthaṃ deva-devaṃ vṛṣākapim /
+20. giraṃ samādhau gagane samīritāṃ niśamya vedhās tridaśān uvāca ha /
+21. puraiva puṃsāvadhṛto dharā-jvaro bhavadbhir aṃśair yaduṣūpajanyatām /
+22. vasudeva-gṛhe sākṣād bhagavān puruṣaḥ paraḥ /
+23. vāsudeva-kalānantaḥ sahasra-vadanaḥ svarāṭ /
+24. viṣṇor māyā bhagavatī yayā sammohitaṃ jagat /
+
+## Corpus chain
+previous_story_id: DKS_0001 | next_story_id: DKS_0003
+previous title: Earth, Oppressed by Demon-Kings, Seeks Brahma
+next title: The Doom Prophecy Warns Kamsa of Devaki's Eighth Child

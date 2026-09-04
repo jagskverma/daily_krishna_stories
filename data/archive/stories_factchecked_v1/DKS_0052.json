@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0052",
+ "title": "The Year That Was a Moment",
+ "subtitle": null,
+ "story": "When Krishna had given Brahma leave and the creator was gone, the Lord turned back to the sandbank, and the boys and their calves were there again, just as they had been, as though no hand had ever carried them away.\n\nHe set everything back as it had been. He did not announce it, and there was no fanfare and no explanation. He simply returned what had been taken, and the world closed over the gap the way water closes over a stone.\n\nAnd this is the strangest part of the whole affair. A year had passed — a full year, in which the cows had grazed and the seasons had turned and the mothers of Vrindavan had poured their love out over children who, though they did not know it, had never truly been away, and the calves had grown, and the river had risen and fallen again. But the boys knew nothing of it. The whole year sat upon them as lightly as a dream that vanishes the moment the eyes open. Their minds, the verses say, were covered by maya, and what they had lost, they could not remember losing. Even the days they had spent hidden away, and the friend who had hidden them, and the year that had gone by — all of it was gone from them, as if it had never been.\n\n\"Welcome back!\" they cried when they saw Krishna, as if he had only just stepped away. \"You returned quickly!\" They did not ask where he had been, because as far as they knew he had never left them at all, and that certainty was its own quiet mercy.\n\nThe calves came wandering back to the boys as though they had only just strayed, and no one thought to wonder at it. Krishna smiled, and sat down among them, and ate. They finished the meal they had left unfinished, as though the afternoon had never been broken off. Then they gathered up their things and started home, and the forest went with them; he called to the calves as they went, and the calves followed the sound of his voice — Krishna decked in peacock feathers and flowers and the bright earth-colours of the woods, his flute sounding, the boys singing his praises as they walked, and the eyes of the gopis, watching from the doorways, turning glad at the sight of them.\n\nAnd as they came into the village they had a story to tell — how, that very day, the son of Yashoda and Nanda had slain a great serpent. They carried its dried skin with them as proof, the way a hunter carries home the hide, and no one who saw it could doubt the tale.",
+ "reflection": "The tenderest detail is the return to the story the boys were telling before they vanished — the great serpent, slain 'that very day.' A year of their lives passed without them, and they pick up the thread exactly where they dropped it. Time, the story suggests, is not one thing for everyone, and what Krishna guards can be given back whole.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "cowherd boys"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "illusion",
+  "timelessness"
+ ],
+ "previous_story_id": "DKS_0051",
+ "next_story_id": "DKS_0053",
+ "next_story_tease": "And soon the boys would set their hearts on a palm grove whose sweet fruit no one had ever dared to eat.",
+ "hero_scene": "The cowherd boys walking home at dusk with Krishna in their midst, decked in peacock feathers and flowers and playing his flute, the boys singing and carrying the dried skin of the great serpent as a trophy.",
+ "visual_elements": [
+  "Krishna with peacock-feather crown",
+  "cowherd boys",
+  "calves",
+  "flute",
+  "dried python skin carried as trophy",
+  "forest path",
+  "dusk",
+  "gopis watching from doorways",
+  "joy and wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.14.41-47",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:32Z",
+  "source_event_id": "evt_0064"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

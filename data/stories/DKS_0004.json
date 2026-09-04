@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0004",
+ "title": "Vasudeva Stays Kamsa's Sword",
+ "subtitle": null,
+ "story": "On the road from his sister's wedding, a voice from the sky had warned Kamsa that Devaki's eighth child would one day take his life. Now the wedding was over, and the sword was out. Kamsa, the prince of Mathura who had driven the bridal chariot with his own hands, had seized his sister and stood over her with a blade, meaning to end the prophecy before it could begin. In his eyes was the fear the voice had planted, and the resolve to cut it out at the root.\n\nVasudeva, Devaki's new husband, placed himself between them and spoke, not with anger but with the calm of a man reasoning against a storm.\n\nDeath, he said, is born together with the body. Everything that is born must die; but when the body falls, the person within does not end. He goes on, carrying whatever he has done, as helpless as a dreamer. Think how a dreamer takes the body he sees in his dream for his own: so we cling to these bodies, though they are only borrowed. A flame seen trembling on running water is not the water's own light, and the self is not this body.\n\nThe mind is driven this way and that by fate, and the self follows it, bewildered, from one life to the next. So why stain your hands with the blood of your own kin for something that is already written? If her child is destined to be your death, killing her will not stop it, for that is fate's doing. If he is not, then you have nothing to fear. Either way, there is no cause for this cruelty.\n\nThen he turned Kamsa's thoughts toward the woman trembling before him. She is your own younger sister, he said, still almost a girl, more like a daughter to you than a rival. She has done you no wrong. What would it make of you to cut her down for a fear, for a voice, for a shadow that has not yet fallen?\n\nKamsa's grip did not loosen, and Vasudeva saw it. If the prince's fear could not be reasoned away, it might be bought. So, in his own mind, Vasudeva made a quieter calculation and settled on a terrible promise: to give Kamsa each child the moment it was born, if that was the price of keeping Devaki alive. And yet he kept one private hope. The course of destiny is hard to turn, and it may turn in ways no frightened king expects; the child Kamsa dreaded might not bring what he feared, and the promise, terrible as it was, might keep the mother breathing until the truth was known.\n\nSo Vasudeva, keeping his face calm and open, made the vow aloud: every son Devaki bore would be placed in Kamsa's hands.\n\nAt last that was enough. The arm that held the sword came down, and the blade was sheathed.\n\nThe promise had saved Devaki's life. But it was a promise made of grief already, a father agreeing, before a single child was born, to surrender them all.",
+ "reflection": "Vasudeva does not deny the prophecy or appeal to Kamsa's mercy. He argues that killing Devaki is both pointless and cruel, and then buys her life with the one currency Kamsa will accept: the promise of her children.",
+ "tradition_note": "The Vishnu Purana (5.1) folds the warning and Vasudeva's pacification into a single scene; the Bhagavata Purana, followed here, presents the pacification as the moment when Kamsa first seizes Devaki.",
+ "content_note": "Kamsa seizes Devaki and draws his sword on her; the violence is threatened, not carried out.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "prophecy_of_kamsa",
+ "characters": [
+  "Vasudeva",
+  "Kamsa",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "diplomacy",
+  "fear",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0003",
+ "next_story_id": "DKS_0005",
+ "next_story_tease": "But the peace of that promise was fragile; it would not survive the word of a wandering sage.",
+ "hero_scene": "Vasudeva standing between Kamsa's drawn sword and a terrified Devaki, speaking calmly as Kamsa's fury slowly gives way and the blade is lowered.",
+ "visual_elements": [
+  "Vasudeva shielding Devaki",
+  "Kamsa with sword raised",
+  "Devaki in bridal finery, terrified",
+  "the wedding chamber in Mathura",
+  "the sword finally sheathed",
+  "a mood of held breath and persuasion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.1.34-54",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:56:29Z",
+  "source_event_id": "evt_0018",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

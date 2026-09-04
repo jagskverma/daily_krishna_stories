@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0175",
+ "title": "Krishna Grants Muchukunda His Boon",
+ "subtitle": null,
+ "story": "Muchukunda woke slowly, the way a man surfaces from a sleep that has lasted for ages. The cave smelled of smoke and ash, and near its mouth lay a heap of ashes where something — or someone — had been burned away. He had slept through the turning of the world, but he knew enough of what he saw to know that the one who had pursued Krishna into this mountain was gone now, consumed, as it seemed, by his own wickedness.\n\nWhat stood before him was a young man such as he had never seen: dark as a laden rain cloud, dressed in yellow silk, four-armed, glowing as though light came from within him, a garland of forest flowers looped across his chest, and a smile of pure affection on his face. Muchukunda pressed his palms together. The long watch he had kept for the gods against the asuras had worn his senses thin, but he could still ask the question that mattered. \"Are you the fire that burns within all things?\" he said. \"I think you must be the best of the three who rule the worlds. I cannot even look at you steadily — your splendor is more than my eyes can bear.\"\n\nThe young man spoke, and his voice was easy, as if he were telling an old story. Through many births, he said, he had measured the dust of the earth and known the deeds of all three times. But let the king hear about today. For the relief of a world grown heavy with evil kings, Kalanemi had been slain, and Kamsa, and Pralamba, and the others who hated the good. \"And for your sake,\" Krishna said, \"I came into this cave. Ask me for a boon, best of kings — whatever you desire, I will give it.\"\n\nA gift, offered freely. Muchukunda had once conquered the four directions and sat on a golden throne while lesser kings bowed before him. He had been young and drunk on kingship, and the years of that drunkenness had passed like a bad dream. He had seen what became of it all: the body that is praised as a king's is only a jar of clay, and at the end it is called worms and ashes and dust. \"When a man is ready to leave the turning world,\" he said, \"it is then that he meets the good. I count it your grace, Lord, that the kingdom fell away from me of its own accord, for I desire no boon but the service of your feet — the one gift even the poorest may ask. Blessings bind. They are woven of desire and fear and the dull pride of having, and they keep a man tethered to what fades. Give me none of them. Only take me as your refuge.\"\n\nKrishna heard him out, and when he answered there was something like pleasure in his voice. \"That you were not tempted by the boons I offered,\" he said, \"know that to be your true wakefulness. Men who are not devoted may discipline their breath and their minds for years and still not reach me. Wander the earth as you please — only keep your mind resting in me. You lived by the warrior's law and slew creatures in the chase; that debt is settled. In your next birth, king, you will be born a brahmana, the friend of all beings, and you will attain me alone.\"\n\nMuchukunda had asked for nothing, and so he had received everything there was to receive. He rose from the stone floor of the cave and went out into a world that looked new to him — a wanderer now, with nothing to carry but the one thing he had chosen. Behind him the ashes in the cave settled into stillness, and the long sleep of the king of the Ikshvakus was over at last.",
+ "reflection": "Muchukunda asks for nothing, and that refusal is the whole of his request. A man who once conquered the directions has learned that every earthly gain ends as ordure, worms, and ash, so the only boon he wants is to be released from wanting. Krishna names that refusal itself a kind of wakefulness: the king who slept for ages is, at last, fully awake.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Muchukunda"
+ ],
+ "locations": [
+  "Muchukunda's cave"
+ ],
+ "themes": [
+  "devotion",
+  "renunciation",
+  "liberation"
+ ],
+ "previous_story_id": "DKS_0174",
+ "next_story_id": "DKS_0176",
+ "next_story_tease": "But even as Muchukunda walked out into the light, the king of Magadha was marching on Mathura once more.",
+ "hero_scene": "Muchukunda kneeling on the stone floor of the dim cave with his palms pressed together before four-armed Krishna, dark as a rain cloud in yellow silk with a forest garland, while near the cave's mouth a drift of ashes marks where the Yavana was consumed.",
+ "visual_elements": [
+  "the dim cave",
+  "a heap of ashes at the cave mouth",
+  "Muchukunda kneeling with joined palms",
+  "four-armed Krishna in yellow silk",
+  "the Vaijayanti garland of forest flowers",
+  "radiance and devotion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.51.21-62",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:38:03Z",
+  "source_event_id": "evt_0236"
+ },
+ "editorial_status": "unreviewed"
+}

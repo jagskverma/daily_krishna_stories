@@ -1,0 +1,36 @@
+# STORY DKS_0065 — Shankhachuda Abducts the Gopis
+
+## Index entry
+title: Shankhachuda Abducts the Gopis
+summary: As Krishna and Balarama sing in the forest, the demon Shankhachuda carries off the gopis.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Shankhachuda, Krishna, Balarama, gopis
+locations: Vrindavan forest
+themes: abduction, pursuit
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0107
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 34 | verses 19-27 | confidence 5
+  excerpt: As Krishna and Balarama sang in the forest at night among the gopis, the demon Shankhachuda, servant of Kubera, carried off the women, who cried 'Krishna! Rama!'; and the two brothers pursued him like two lions. (rendered from Sanskrit, verses 24-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.34 (19-27)
+19. kadācid atha govindo rāmaś cādbhuta-vikramaḥ /
+20. upagīyamānau lalitaṃ strī-janair baddha-sauhṛdaiḥ /
+21. niśā-mukhaṃ mānayantāv uditoḍupa-tārakam /
+22. jagatuḥ sarva-bhūtānāṃ manaḥ-śravaṇa-maṅgalam /
+23. gopyas tad-gītam ākarṇya mūrcchitā nāvidan nṛpa /
+24. evaṃ vikrīḍatoḥ svairaṃ gāyatoḥ sampramatta-vat /
+25. tayor nirīkṣato rājaṃs tan-nāthaṃ pramadā-janam /
+26. krośantaṃ kṛṣṇa rāmeti vilokya sva-parigraham /
+27. mā bhaiṣṭety abhayārāvau śāla-hastau tarasvinau /
+
+## Corpus chain
+previous_story_id: DKS_0064 | next_story_id: DKS_0066
+previous title: Krishna Reveals His Supreme Abode
+next title: Krishna Slays Shankhachuda and Takes the Jewel

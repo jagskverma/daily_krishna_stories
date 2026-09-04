@@ -1,0 +1,109 @@
+# STORY DKS_0225 — Krishna Sends Narada to Ask Indra for the Parijata || Krishna asks Narada to request the Parijata tree from Indra as a brotherly favour, and warns that if refused he will come himself to seize it.
+
+## Index entry
+title: Krishna Sends Narada to Ask Indra for the Parijata || Krishna asks Narada to request the Parijata tree from Indra as a brotherly favour, and warns that if refused he will come himself to seize it.
+summary: Krishna asks Narada to request the Parijata tree from Indra as a brotherly favour, and warns that if refused he will come himself to seize it.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Narada, Indra
+locations: Dwaraka
+themes: envoy, brotherhood, ultimatum
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0296
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 125 | verses  | confidence 4
+  excerpt: Krishna ... said: ... 'remind Pakasasana of all our ancient brotherly love ... Ask him therefore to send down to Dwarvati that best of all trees the Pārijāta.' ... 'If that lord of the immortals do not give the Parijata tree at thy request, I shall then hurl my mace at his breast.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.125 ()
+TITLE: THE HISTORY OF THE PARIJATA TREE THE COLOQUY BETWEEN
+
+KRISHNA AND NARADA.
+
+Vaishampāyana said:—The almighty Vishnu, that possessor of immeasurable
+powers then finding that the sage Nārada was desirous of departing,
+spoke to him thus (1):—"O sinless and mighty sage, conversant with the
+truth of all religions, having repaired to heaven and there interviewed
+the courtiers of that intelligent slayer of Tripura (2), remind
+Pakasasana of all our ancient brotherly love that thou knowest—inform
+him not as my command but as my request, (3) that the Pārijāta tree
+which the illustrious and virtuous Kasyapa that foremost of sages
+created in days gone by for the sake of Aditi’s happiness, (4) that most
+excellent of all trees that bestows religious merit, and unbounded
+prosperity, that tree that was given to thee away as a gift by the very
+virtuous goddesses in fulfilment of their vows for the furtherance of
+their religious merits—inform him that my wives also hearing of the
+presentation of that tree, desire to give it away, O lord, for earning
+virtue and religious merit consequent on munificent deeds and also, for
+my gratification. Ask him therefore to send down to Dwarvati that best
+of all trees the Pārijāta; and it shall be restored to heaven after the
+ceremony of presentation is over. The almighty God the slayer of Vala
+should thus be spoken to by thee (5-8). O foremost of sages thou shalt
+also so put forth thy endeavours that the lord of the immortals be
+persuaded to give over the excellent Parijata tree (9), O possessor of
+ascetic wealth, this will also bring into prominence what ambassadorial
+abilities thou dost possess; I know that it is possible for all thine
+acts to be attended with success" (20).
+
+Thus spoken to by Narayana, the almighty sage Narada that great
+possessor of ascetic merit smiled and spoke these words to the slayer of
+Kesin (11):—"Very well,—I shall thus speak to the lord of the gods, O
+foremost of Yadus, but I am sure he will never part with the Parijata
+tree (12). The Danavas and the gods obtained this Parijata tree by
+throwing the Mandara mountain into the waters of the ocean²⁸⁶ (13).
+
+"O Janarddana, at that time the creator of the worlds desired to take
+away the Parijata tree together with that best of mountains, the Mandara
+(14). Thereupon Sakra personally going to Sankara told him:—’This is
+Sachi’s sporting tree, and may be allowed to remain in her gardens’.
+Thus did he entreat Sankara (15). Mahadeva granted him the boon saying
+’Let it be so then’ and O sinless one, he did not also bring the
+Parijata tree to the beautiful cave-decked Mandara mountain (16). O
+mighty armed one, thus in days past, under the pretext that the Parijata
+is Sachi’s tree of sport, did Indra save it from the clutches of
+Mahadeva (17). Afterwards Hara, in order to please his wife Umā, created
+on the dales of the Mandara mountain a forest of the Parijata trees
+extending over full four miles (18).
+
+"In that best of forests, O Krishna, neither the rays of the sun, nor
+the cool beams of the moon, nor even the breaths of the wind can
+penetrate (19). Through the powers of Mahadeva that forest is
+self-luminous, and heat and cold reign there at the pleasure of the
+mountain’s daughter (Durga) (20). Excepting the mighty god and goddess
+and their followers and myself, O delighter of the Yadus, nobody under
+any circumstances, can enter that charming wood (21). O descendant of
+the Vrishnis, there the Pārijātas shower all kinds of best gems and
+jewels on all sides, even as soon as they are merely thought of in the
+mind (22). O Keshava, with the permission of that godhead, that
+protector of the worlds, troops of the illustrious attendants of Siva,
+also enjoy that beautiful forest (23). This forest of Pārijāta trees,
+their fruits, their brightness and their qualities exceed by far those
+of the Pārijātas of the heaven (24). When, O Keshava, that God whose
+emblem is the sacred bull, repairs with Uma and his attendants, among
+them, these trees approach him in worship assuming human shapes (25).
+Those trees on the Mandara infused with the energy of Rudra, free from
+all adverse influences and attended with all prosperity, are very dear
+to the daughter of the mountain (26). Once upon a time a mighty and
+dreadful Daitya of cruel motives by name Andhaka, who was puffed up with
+arrogance through the virtues of a boon obtained by him ventured to
+transgress into that forest (27). He was slain by that slayer of foes
+that foremost of gods Hara, although he was ten times as powerful as
+Vritra and incapable of being slain by any created being (28). O
+lotus-eyes God! I tell thee truly, that the thousand eyed god Indra will
+never give thee, the Parijāta tree obtained with great difficulty (29).
+That best of trees always bestows on the goddess Sachi all her desires,
+as well as, O Krishna, it fulfils the wishes of the highly powerful
+Indra" (30).
+
+The auspicious god said:—O sage! That the mighty and intelligent
+Mahadeva did not take away the Par
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0224 | next_story_id: DKS_0226
+previous title: Krishna Promises Satyabhama the Parijata Tree || Satyabhama confesses her grief over the Parijata flower given to Rukmini; Krishna vows to fetch the whole Parijata tree from Indra's heaven for her.
+next title: Indra Refuses and Challenges Krishna || Narada relays Krishna's demand; Indra, recounting past grievances, refuses to part with the Parijata tree unless conquered in battle and sends back a challenge.

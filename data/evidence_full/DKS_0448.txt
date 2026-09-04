@@ -1,0 +1,52 @@
+# STORY DKS_0448 — Bhishma's Passing in Krishna's Presence
+
+## Index entry
+title: Bhishma's Passing in Krishna's Presence
+summary: Lying on his bed of arrows at the auspicious northern solstice, Bhishma fixes his gaze on Krishna standing before him, glorifies him as Narayana himself, and passes away with his mind merged in the Lord, while the sages and Pandavas look on.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Bhishma, Yudhishthira, the Pandavas
+locations: Kurukshetra
+themes: devotion, death, liberation, gratitude
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0415
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 9 | verses 21-45 | confidence 5
+  excerpt: Bhishma says: 'This very Krishna, who came to me as I give up my life, out of love for his unalloyed devotees — may he be my refuge.' Then, gathering in his speech, he fixed his unblinking gaze upon the four-armed Krishna standing before him in yellow robes, and offered his final praise: 'May my love rest on Krishna...' (rendered from Sanskrit, verses 21, 29-31)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.9 (21-45)
+21. tathāpyekāntabhakteṣu paśya bhūpānukampitam /
+22. bhaktyāveśya mano yasmin vācā yannāma kīrtayan /
+23. sa devadevo bhagavān pratīkṣatāṃ kalevaraṃ yāvadidaṃ hinomyaham /
+24. bhp_01.09.025/0 sūta uvāca
+25. puruṣasvabhāvavihitān yathāvarṇaṃ yathāśramam /
+26. dānadharmān rājadharmān mokṣadharmān vibhāgaśaḥ /
+27. dharmārthakāmamokṣāṃśca sahopāyān yathā mune /
+28. dharmaṃ pravadatastasya sa kālaḥ pratyupasthitaḥ /
+29. tadopasaṃhṛtya giraḥ sahasraṇīr vimuktasaṅgaṃ mana ādipūruṣe /
+30. viśuddhayā dhāraṇayā hatāśubhas tadīkṣayaivāśu gatāyudhaśramaḥ /
+31. bhp_01.09.032/0 śrībhīṣma uvāca
+32. tribhuvanakamanaṃ tamālavarṇaṃ ravikaragauravarāmbaraṃ dadhāne /
+33. yudhi turagarajovidhūmraviṣvak kacalulitaśramavāryalaṅkṛtāsye /
+34. sapadi sakhivaco niśamya madhye nijaparayorbalayo rathaṃ niveśya /
+35. vyavahitapṛtanāmukhaṃ nirīkṣya svajanavadhādvimukhasya doṣabuddhyā /
+36. svanigamam apahāya matpratijñām ṛtam adhikartum avapluto rathasthaḥ /
+37. śitaviśikhahato viśīrṇadaṃśaḥ kṣatajaparipluta ātatāyino me /
+38. vijayarathakuṭumba āttatotre dhṛtahayaraśmini tacchriyekṣaṇīye /
+39. lalitagativilāsavalguhāsa praṇayanirīkṣaṇakalpitorumānāḥ /
+40. munigaṇanṛpavaryasaṅkule 'ntaḥ sadasi yudhiṣṭhirarājasūya eṣām /
+41. tam imam aham ajaṃ śarīrabhājāṃ hṛdi hṛdi dhiṣṭhitam ātmakalpitānām /
+42. bhp_01.09.043/0 sūta uvāca
+43. sampadyamānam ājñāya bhīṣmaṃ brahmaṇi niṣkale /
+44. tatra dundubhayo nedurdevamānavavāditāḥ /
+45. tasya nirharaṇādīni samparetasya bhārgava /
+
+## Corpus chain
+previous_story_id: DKS_0447 | next_story_id: DKS_0449
+previous title: Krishna's Verdict on Ashvatthama
+next title: The Kurukshetra War

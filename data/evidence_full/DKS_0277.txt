@@ -1,0 +1,37 @@
+# STORY DKS_0277 — Krishna Liberates King Nriga from a Lizard's Body || The Yadu princes find a giant lizard in a well; Krishna pulls it out with his left hand, and it becomes the radiant King Nriga.
+
+## Index entry
+title: Krishna Liberates King Nriga from a Lizard's Body || The Yadu princes find a giant lizard in a well; Krishna pulls it out with his left hand, and it becomes the radiant King Nriga.
+summary: The Yadu princes find a giant lizard in a well; Krishna pulls it out with his left hand, and it becomes the radiant King Nriga.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Nriga, Yadu princes
+locations: Dvaraka
+themes: curse, liberation, grace
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0251
+variant_notes: BP-only; Nriga episode has no cross-source parallel in this chunk.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 64 | verses 1-8 | confidence 5
+  excerpt: The Yadu princes, thirsty, found a mountain-sized lizard in a dry well and could not pull it out with their ropes; Krishna came and with his left hand drew it out, and it became a being of molten-gold splendor. (rendered from Sanskrit, verses 1-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.64 (1-8)
+1. krīḍitvā su-ciraṃ tatra vicinvantaḥ pipāsitāḥ /
+2. kṛkalāsaṃ giri-nibhaṃ vīkṣya vismita-mānasāḥ /
+3. carma-jais tāntavaiḥ pāśair baddhvā patitam arbhakāḥ /
+4. tatrāgatyāravindākṣo bhagavān viśva-bhāvanaḥ /
+5. sa uttamaḥ-śloka-karābhimṛṣṭo vihāya sadyaḥ kṛkalāsa-rūpam /
+6. papraccha vidvān api tan-nidānaṃ janeṣu vikhyāpayituṃ mukundaḥ /
+7. daśām imāṃ vā katamena karmaṇā samprāpito 'sy atad-arhaḥ su-bhadra /
+8. bhp_10.64.009/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0276 | next_story_id: DKS_0278
+previous title: The Weaver and Sudama (Flower-Seller) Honor Krishna
+next title: Nriga's Story of the Disputed Cow || Nriga, an Ikshvaku king famed for charity, tells how he unwittingly gave one brahmana's stray cow to another and was cursed to become a lizard.
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

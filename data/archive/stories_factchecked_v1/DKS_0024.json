@@ -1,0 +1,66 @@
+{
+ "id": "DKS_0024",
+ "title": "Krishna Drains the Demoness Putana's Life",
+ "subtitle": null,
+ "story": "Gokul slept. The cowherd settlement lay dark, its doors shut, its cattle folded into their pens, and the night itself seemed to hold its breath. Through that darkness a woman moved from house to house, stopping at each doorway and looking in at the sleeping families, and no dog barked and no watchman stirred as she passed.\n\nShe was not a woman. She was Putana, a demoness known in many villages only as a name spoken in whispers — a child-killer who moved through the world the way sickness does, quietly, at night, drawn to the very young. She had come to Gokul to find a child, and she went from house to house, searching.\n\nBy chance, or by some darker purpose, her wandering brought her to the house of Nanda. There, in a dim room, an infant lay asleep — a child the whole settlement held dear. Putana lifted him from where he lay, cradled him against her, and gave him her breast.\n\nThere was milk in it, and there was something else as well. A poison lay there, meant for just such a child, laid to reach him through the very act that should have nourished him, and to still him as he fed.\n\nThe baby's eyes stayed closed, as if in sleep. He did not wake. He did not cry. He closed his mouth over her breast and began to drink, and it must have seemed to her, in that quiet room, the easiest thing she had ever done.\n\nBut what he drew from her was not milk alone. He drew out her life along with it, and she felt it going.\n\n\"Let go,\" she cried. \"Let go of me.\"\n\nThe child did not let go. He drank on, and her cry rose out of that quiet house, terrible and deep. It rang across the settlement, and the earth shook with it, and the mountains, and the sky, and the very stars and planets in their slow paths trembled at the sound of it.\n\nThen the life went out of her, and she fell.\n\nAs she fell, she was no longer the woman who had moved so quietly through the dark. She crashed down in her own form — monstrous, vast, her hair flung loose, her arms and legs thrown wide — and lay sprawled on the ground of Gokul like a great demon struck down out of the sky by a thunderbolt.\n\nThe child lay where he had been thrown, whole and unharmed. When the household woke and ran out, they found them there together: the baby they loved, and the dreadful thing that had come for him in the night.\n\nThey could make no sense of it. A demon had crept in to feed the child death, and the child had turned the feeding back upon her, and now she lay fallen in the yard while he lay beside her, whole and unharmed, as if the night's horror had never touched him at all. By daylight they carried the great body away, and the settlement slowly returned to its work; but the child fed and slept as on any other day, as if the whole night had been no more than a bad dream.\n\nLong afterward, when the boy had grown and gone from the world, Uddhava would speak of Putana with a strange tenderness. The very demoness, he said, who had pressed her poisoned breast to the child with murder in her heart — even she had been received, by that same act, as a nurse, and granted a mother's place. What she had meant to do was not undone by this. But in the memory of it, it was not the last word either.",
+ "reflection": "Putana came to destroy the child, yet the tradition remembers her with tenderness: the very act of violence, offered to him, became her path to a mother's place. The story does not soften her cruelty, but it refuses to make cruelty the last word.",
+ "tradition_note": null,
+ "content_note": "A demoness attempts to poison an infant and dies; her death is described with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Putana"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "protection",
+  "divine_power",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0018",
+ "next_story_id": "DKS_0028",
+ "next_story_tease": "Putana was not the last danger to find the baby in Gokul.",
+ "hero_scene": "In a dark cowherd courtyard at night, an infant Krishna lies unharmed on the ground while beside him sprawls the monstrous, vast true form of the demoness Putana — hair flung loose, arms and legs thrown wide — her fall like a demon struck from the sky by a thunderbolt.",
+ "visual_elements": [
+  "dark cowherd settlement at night",
+  "sleeping infant Krishna",
+  "demoness Putana in monstrous fallen form",
+  "loose hair and flung limbs",
+  "shaken earth and trembling sky",
+  "mood of dread and awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.6.6-12",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.22",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.5",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.61",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T18:36:37+05:30",
+  "source_event_id": "evt_0037"
+ },
+ "editorial_status": "unreviewed"
+}

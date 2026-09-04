@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0117",
+ "title": "Akrura Beholds the Divine Vision in the Yamuna",
+ "subtitle": null,
+ "story": "Akrura had been sent to Vrindavan to bring Krishna and Balarama to Mathura, where Kamsa reigned and their own parents waited, worn down by the king's cruelty. He had told the brothers plainly what lay ahead of them, and neither had flinched. Now, with the two of them riding in his chariot, he came to the banks of the Yamuna. The sun stood high and the river ran slow and clear, its water bright as a gem. He stopped the chariot and stepped down to wash, as a traveler does, and the two brothers waited on the road above.\n\nAkrura stood at the water's edge and sipped a little, then waded in. Murmuring the eternal prayer, he sank beneath the surface — and what he saw unseated him. There in the river, as though no water separated them at all, sat the two sons of Vasudeva, still in the chariot, exactly as he had left them on the bank. He broke the surface for air, asking himself how the boys could be both on the road and in the river at once, and he dove again.\n\nThis time the river opened into something far larger than a riverbed. Before him rose the lord of serpents, Ananta, a being of a thousand heads crowned with a thousand spreading hoods, receiving the praise of all who gathered around him. And resting at ease in the coils of that great serpent was a figure dark as a rain-cloud, clothed in yellow silk, his face serene and lit with the faintest smile, his glance gentle and full of love. In his hands he held a lotus, a conch, a discus and a mace, and his long arms were bright with crown and bracelets and armlets. About him stood his attendants — Sunanda and Nanda, and the sages Sanaka and his brothers — and the great devotees of old, Prahlada and Narada among them. Around them shone the goddesses of fortune and nourishment, of speech and beauty and fame, of contentment and strength and glory, all gathered in attendance on the one who lay upon the serpent.\n\nAkrura understood then what he was being shown. The two boys waiting patiently on the riverbank were not two boys. They were the Lord himself, resting upon Shesha, and the whole court of heaven attended him. He rose from the water trembling with joy, his devotion overflowing, and when he opened his mouth to speak the words came out broken and thick with feeling. He did not ask how this could be, or whether his eyes had deceived him; he simply praised, the name and the form he had just seen poured out in words that stumbled over one another, for what else can a man do who has looked into a river and found the source of everything looking back at him.\n\nWhat makes the vision remarkable is its ordinariness before and after. A man stops his chariot, washes in a river, sees God face to face, and then returns to the road with two boys who are, and are not, the being he just beheld. He had set out that morning to escort two boys to a city, and he would arrive carrying in his memory the face of God. The river kept flowing and the sun kept its place, and no one on either bank knew what had happened in between. The words he had offered did not need to be elegant; they only needed to be true. Akrura climbed back onto the chariot and drove on toward Mathura, keeping the secret of the Yamuna close, and neither of his passengers said a word about it.",
+ "reflection": "Akrura's vision is given not to a sage in a forest but to a dutiful man washing in a river on a journey, at the most ordinary moment of his day. The story seems to insist that the divine is not hidden in some distant place but waits beneath the surface of what a person is already doing.",
+ "tradition_note": "The Harivamsha and Vishnu Purana describe Balarama himself as the thousand-hooded serpent with Vishnu resting upon him, while the Bhagavata here presents the serpent Ananta bearing the dark Lord, with both brothers present in the vision. This telling follows the Bhagavata.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Akrura",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Yamuna"
+ ],
+ "themes": [
+  "vision",
+  "praise"
+ ],
+ "previous_story_id": "DKS_0107",
+ "next_story_id": "DKS_0132",
+ "next_story_tease": "Across the river, Mathura — and Kamsa — awaited them.",
+ "hero_scene": "Beneath the surface of the Yamuna, Akrura with folded hands gazes up at the thousand-hooded serpent Ananta, and resting in its coils the dark-complexioned Lord in yellow silk, holding a lotus, conch, discus and mace while gods and goddesses gather around him.",
+ "visual_elements": [
+  "Akrura",
+  "thousand-hooded serpent Ananta",
+  "the dark Lord in yellow silk",
+  "lotus, conch, discus, mace",
+  "attendants and gods",
+  "the Yamuna river",
+  "chariot and two brothers on the bank",
+  "awe and joy"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.39.37-56",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.81",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.18",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:15Z",
+  "source_event_id": "evt_0126"
+ },
+ "editorial_status": "unreviewed"
+}

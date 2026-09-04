@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0270",
+ "title": "The Theft That Answered a Theft",
+ "subtitle": null,
+ "story": "All day the Yadavas had been at sport in the sea — swimming, laughing, racing the waves — the whole city of Dwaraka at leisure, its palaces open, its gardens unwatched. And that, exactly, was what Nikumbha had been waiting for.\n\nThe Danava, wicked and unapproachable, enemy of the gods, chose the moment to settle an old score — and the text is blunt about where his vengeance would lead him: he was bent, it says, on his own destruction. Years before, Pradyumna — Krishna's son, foremost of those who knew illusion — had carried off Prabhavati, the daughter of Nikumbha's brother Vajranabha, and Vajranabha had been killed in that business. Nikumbha had not forgotten. Now, remembering that former enmity and biding his time, he turned his powers of illusion upon the women of the Yadavas and stole away Bhanumati, the beautiful daughter of Bhanu, from the very garden attached to her father's palace.\n\nIt should have been impossible. The garden was unapproachable, set apart for the women of the house, and no outsider could enter it by daylight. But the guards were gone — the Yadavas were all at their ocean sport, and no one had thought to leave a watch. In that weak, unguarded moment the demon cast his illusions so that no eye marked him, laid hold of the weeping maiden, and was gone with her before the garden knew it had been entered.\n\nThe cry went up almost at once. The women's quarters erupted in tumult; lamentations rang through the palace, for the maiden was gone and none could say where. Women ran this way and that, calling her name; servants searched the garden, then the streets, and found no trace of her anywhere. Vasudeva and Ahuka, hearing the uproar, rushed out filled with wrath — and found no offender to strike, for the demon had already vanished. They went at once to Krishna, still in the clothes they had worn to the shore.\n\nKrishna heard of the insult and moved like thunder. He mounted Garuda, the enemy of serpents, with Arjuna beside him; he commanded Pradyumna, whose banner bore the Makara, the sea creature, to follow in his chariot; and he told Garuda to fly.\n\nBefore long the great bird was climbing over the rooftops of Dwaraka, and behind it came Pradyumna's car, its sea-creature banner streaming in the wind. Somewhere ahead of them a demon was carrying off a king's daughter to avenge a theft of his own — and for once, the Yadavas were the ones chasing a thief.\n\nBut Nikumbha was a master of illusion, and he knew a hundred ways to vanish. Finding him would take all the speed of Garuda, all the arrows of Arjuna, and all the cunning of Pradyumna — and even then, the chase was only beginning.",
+ "reflection": "The story is built on a mirror: Pradyumna once carried off the daughter of Nikumbha's brother, and now Nikumbha answers theft with theft, working the same injustice back onto its authors. The text even says he was bent on his own destruction — and the abduction succeeds only because everyone was at leisure, the quietest warning in the tale: even the guarded can be stolen from when they look away.",
+ "tradition_note": "The Harivamsha places Nikumbha's slaying (1.232) before this episode (1.237), yet the demon appears here again; the text presents these as separate Nikumbha episodes.",
+ "content_note": "An abduction of a maiden, told without graphic detail; may warrant a word with younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Nikumbha",
+  "Bhanumati",
+  "Pradyumna",
+  "Bhanu",
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Bhanu's garden"
+ ],
+ "themes": [
+  "abduction",
+  "revenge",
+  "negligence"
+ ],
+ "previous_story_id": "DKS_0269",
+ "next_story_id": "DKS_0271",
+ "next_story_tease": "But Nikumbha was a master of vanishing — and the pursuit would test the speed of Garuda, the arrows of Arjuna, and the cunning of Pradyumna.",
+ "hero_scene": "In the moonlit garden of Bhanu's palace, the towering Nikumbha lifts the weeping Bhanumati into his arms and dissolves into the dark, while behind him the women's quarters erupt in outcry — and in the distance Krishna and Arjuna rise into the sky on Garuda, Pradyumna's chariot streaming behind.",
+ "visual_elements": [
+  "Nikumbha carrying the weeping Bhanumati from the unguarded garden",
+  "the women's quarters in uproar and lamentation",
+  "Krishna and Arjuna riding Garuda over Dwaraka",
+  "Pradyumna's chariot with the Makara banner",
+  "the quiet moonlit garden",
+  "the sea where the Yadavas were at sport",
+  "abduction and alarm"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.237",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:06Z",
+  "source_event_id": "evt_0315"
+ },
+ "editorial_status": "unreviewed"
+}

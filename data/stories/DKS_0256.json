@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0256",
+ "title": "Krishna Fights Varuna for the Celestial Cows",
+ "subtitle": null,
+ "story": "The city of Sonitpura had fallen, and with it the war. It had begun when Usha, daughter of the demon king Vana, carried away Krishna's grandson Aniruddha and bound him in her father's palace with nooses of serpents. Krishna had come with his brother Baladeva, his son Pradyumna and the host of the Yadavas, his kinsmen; the battle had been fought and finished; and Aniruddha had been freed, the serpents dropping from his body like arrows the moment Garuda's shadow fell on them.\n\nThe young man had saluted his grandfather, his uncle, the great bird and his own father, while Usha stood shyly at his side. At the urging of the sage Narada, who loved such occasions, the wedding had been celebrated \u2014 heavenly dancers cutting jokes, minstrels singing \u2014 and the kingdom of Vana had been given to Kumbhanda, who had asked only for safety. Now the Yadavas were ready to leave, when Kumbhanda drew Krishna aside with one last piece of knowledge.\n\n\"Vana has cows,\" he said, \"in the keeping of Varuna, the lord of the waters. They give nectar-like milk. A man who drinks it becomes highly powerful, invincible in battle \u2014 and it is said that drinking that milk makes a man immortal.\"\n\nKrishna's eyes kindled. He had come to Sonitpura to free Aniruddha, and that was done; the boy was safe, wedded and whole, and the debt of the house of Vana was paid in full. But the thought of those celestial cows took hold of him at once \u2014 the very cows Dwaraka spoke of with wonder, cows fit for Satyabhama, his wife. He asked after them, and when he learned where they were kept, he set out on the spot, without ceremony or delay, the way he had always gone after the things that mattered. Baladeva, Krishna, Pradyumna and Aniruddha mounted Garuda's back, and the great eagle rose, uprooting trees and shaking the earth as he climbed, the wind of his wings flattening the treetops of Sonitpura, until the waters of Varuna's realm lay spread beneath them, dark and vast.\n\nVaruna was not minded to surrender what had been entrusted to him. His army came out in full array, rank upon rank, drawn up to keep the cows where they were, and the battle was joined on the shore of his domain. Krishna routed the host of the waters, scattering it like spray before a storm, until only Varuna himself stood against the riders, alone on the field where his power had lived.\n\nThen the lord of the waters loosed his great weapon, and the sea rose against Krishna. Wave after wave towered and crashed; the power of the deep came on like drowning made deliberate, and the sky darkened with the lifted water. Krishna answered with the Vaishnava weapon \u2014 the weapon of Vishnu \u2014 and the two met in the middle of the sky. With the energy of that weapon, the water itself caught fire: the sea burned where it stood, Varuna's weapon was consumed in the burning, and the lord of the waters found his own element turned against him, fire standing on the face of the deep.\n\nVaruna stood in the wreck of his domain \u2014 weaponless, his army gone, the fire of that weapon still dancing on the water at his feet. He had nothing left to fight with. Yet even now, in the middle of his ruin, he did not yield the cows.",
+ "reflection": "It is a strange war aim \u2014 cattle, not thrones \u2014 and a fitting one for Krishna, who was raised among cows and never quite left the pasture behind. The battle turns on a single weapon outshining another, water itself set ablaze: power shown not as more of the same, but as something that reverses the order of the elements.",
+ "tradition_note": null,
+ "content_note": "Depicts a battle between Krishna and Varuna with divine weapons; not graphic.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Varuna",
+  "Garuda",
+  "Baladeva",
+  "Pradyumna",
+  "Aniruddha",
+  "Kumbhanda"
+ ],
+ "locations": [
+  "Varuna's abode"
+ ],
+ "themes": [
+  "celestial cows",
+  "battle",
+  "Vaishnava weapon"
+ ],
+ "previous_story_id": "DKS_0255",
+ "next_story_id": "DKS_0257",
+ "next_story_tease": "But Varuna had sworn a vow to Vana, and he was not ready to break it even in defeat.",
+ "hero_scene": "Krishna on Garuda above a burning sea, the Vaishnava weapon blazing in his hand, while Varuna stands in the wreck of his army and the waves themselves burn, the routed host scattering in the background.",
+ "visual_elements": [
+  "Krishna on Garuda with the Vaishnava weapon",
+  "the sea ablaze with the weapon's energy",
+  "Varuna standing weaponless amid his host",
+  "Baladeva, Pradyumna and Aniruddha on Garuda's back",
+  "routed army of Varuna scattering",
+  "the celestial cows grazing in the distance"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.276",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:30Z",
+  "source_event_id": "evt_0359",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

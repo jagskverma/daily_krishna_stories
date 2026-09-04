@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0057",
+ "title": "Pralamba Joins the Games in Disguise",
+ "subtitle": null,
+ "story": "The cowherd boys of Vrindavan were not unused to strangers. Travelers passed through the forest, and boys from the neighboring villages sometimes drifted over to watch their games. But there was something about the new boy that none of them could quite name. He appeared at the edge of their play without anyone noticing him arrive, smiling easily, and before long he was standing among them as though he had always been there.\n\nKrishna and his brother Balarama were tending the herd in the forest, and the days were full of the games cowherd boys invent to pass the time — running and leaping and wrestling, calling the cows by name, weaving little ornaments of grass and wild flowers. The stranger slipped into all of it without effort. He laughed at their jokes and kept pace in their races, and the boys, generous as children are, took him for a friend. There was no reason to look twice at him; he was only another boy, quick with a jest and easy in a race. That was the whole art of the thing.\n\nHe was no friend. He was an asura — a demon — named Pralamba, and he had come in the shape of a cowherd boy for a single purpose: to seize the two brothers and destroy them, for their growing fame had begun to trouble the powerful. Adorned with wild flowers and wearing the easy manner of a milk-boy, he moved among the boys studying their weaknesses, casting dreadful looks at Krishna and Balarama when he thought no one was watching, and waiting for his moment. The other boys saw only a pleasant newcomer. Pralamba saw prey.\n\nKrishna knew everything. The verses are plain on this point: even knowing the stranger for what he was, he welcomed his friendship. He did not cry out, he did not warn the others, he did not tear the disguise away. He returned Pralamba's smile with the same quiet friendliness and let the demon believe his trick had worked — and in his heart he had already resolved what must be done with him.\n\nSo when the afternoon grew long, Krishna — who knew every game the cowherds played, and how to turn a game to his purpose — called the boys together and proposed something new. They would play the riding game, he told them — carrying one another on their shoulders and racing, the way cowherd boys did. The boys clapped and cheered and rushed to pair off, and Pralamba, delighted at the chance to draw close to the brothers, smiled his borrowed smile and took his place among them.\n\nKrishna watched him move into position — and let him.",
+ "reflection": "What is striking is how unhurried Krishna is. He knows the demon for what he is and does not flinch or warn; he simply receives the danger as calmly as a host receives a guest, and lets the deception run its course until it turns against the deceiver. The disguised enemy is never as hidden as he believes.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Pralamba",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "deception",
+  "divine_knowledge"
+ ],
+ "previous_story_id": "DKS_0056",
+ "next_story_id": "DKS_0058",
+ "next_story_tease": "In the game that followed, the demon would seize his chance — and meet the brother whose weight he could not carry.",
+ "hero_scene": "A smiling boy in a cowherd's dress standing among the cowherd boys in the forest, garlanded with wild flowers, while Krishna looks on with quiet, knowing eyes and the other boys welcome the stranger as a friend.",
+ "visual_elements": [
+  "cowherd boys at play",
+  "Pralamba disguised as a milk-boy with a wild-flower garland",
+  "Krishna watching knowingly",
+  "Balarama",
+  "forest clearing",
+  "cattle grazing",
+  "warm afternoon",
+  "hidden menace"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.18.16-18",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:15Z",
+  "source_event_id": "evt_0078",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

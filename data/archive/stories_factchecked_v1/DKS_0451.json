@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0451",
+ "title": "The Two Decisions",
+ "subtitle": "Krishna Declares That War Is Now Inevitable",
+ "story": "Yudhishthira had marched out with the desire of battle and now lay encamped on Kurukshetra itself, protected by Vasudeva, aided by Virata and Drupada with their sons, surrounded by the Kekayas, the Vrishnis, and other kings by hundreds, and watched over by numerous mighty car-warriors, like the great Indra surrounded by the Adityas. In the Kuru capital the news of that camp brought a swift answer. Krishna had left the court without achieving his object, and the king of the Kurus wasted no time in marking what that meant. Calling Karna, Dussasana, and Sakuni to him, Duryodhana read out the shape of things to come. Kesava hath gone to the sons of Pritha without having been able to achieve his object, he said. Filled with wrath as he is, he will surely stimulate the Pandavas. A battle between myself and the Pandavas is much desired by Vasudeva. Bhimasena and Arjuna were ever of the same mind with Krishna, and Yudhishthira himself was very much under the influence of Bhimasena. Virata and Drupada, against whom Duryodhana had once waged hostilities, had both become leaders of Yudhishthira's host. The battle, therefore, that will take place will be a fierce and terrific one. Casting off all sloth, cause every preparation to be made for the encounter.\n\nHis orders were precise, and they were obeyed. The allied kings were to pitch their tents by hundreds and thousands on Kurukshetra, spacious tents, near enough to places abounding with water and fuel, so placed that the enemy could never stop the roads by which supplies travelled. The road from the city to the camp was to be levelled for the march. And it was to be proclaimed that very day, without loss of time, that the march would commence tomorrow.\n\nThe Kuru capital became a city preparing for war as for a festival. The monarchs rose from their costly seats, with wrath burning in them for their foes, and rubbed their mace-like arms, blazing with bracelets of gold and decked with the paste of sandal and other fragrant substances. They put on their head-gears, their lower and upper garments, their ornaments. Foremost car-warriors superintended the furnishing of their cars; men conversant with horse-lore harnessed their steeds; those versed in matters relating to elephants equipped the huge animals; foot-soldiers took up arms and eased their bodies in armour decorated with gold. Filled with rejoicing millions, the city of Duryodhana wore the bright aspect of a festive occasion. At the prospect of battle the Kuru capital looked like the ocean on the appearance of the moon: the vast crowds of humanity its waters, the cars, elephants, and horses its fishes, the tumult of conchs and drums its roar, the bright weapons its white foam, the rows of houses the mountains on its beach.\n\nOn the other side of the same plain, the Pandava camp was asking the last question that remained. Krishna had gone to the Kuru court with words of peace, and the prince of the Kurus had met them with deceit; now Yudhishthira pressed him for guidance, and Krishna answered in a voice deep as that of the clouds or cymbals. That wicked-souled wight beareth no good will towards thee, he said. As regards ourselves, we do not desire to make peace with the Kauravas by abandoning our property. War, therefore, is that which should now take place.\n\nTwo decisions, made on opposite sides of Kurukshetra, now faced each other across the field. One city had readied itself with the joy of a festival; one camp had heard the words that made the fight certain. Neither king had blinked. Nothing was left now but to draw up the armies and let the plain decide.",
+ "reflection": "The war begins twice, in the same moment, on both sides of the field: Duryodhana's city turns toward battle with the joy of a festival, while Krishna names the choice plainly — the Pandavas will not buy peace by giving up what is theirs. Neither camp hesitates at the edge; both have already decided, which is what makes the coming war feel less like a choice than a gathering tide.",
+ "tradition_note": null,
+ "content_note": "War preparations and the acceptance of war; no combat depicted.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Duryodhana",
+  "Karna",
+  "Dussasana",
+  "Sakuni"
+ ],
+ "locations": [
+  "Upaplavya",
+  "Hastinapura"
+ ],
+ "themes": [
+  "war",
+  "counsel",
+  "inevitability"
+ ],
+ "previous_story_id": "DKS_0450",
+ "next_story_id": "DKS_0452",
+ "next_story_tease": "With war now certain, the Pandavas turned to arraying their host — and to choosing who would drive Arjuna's chariot.",
+ "hero_scene": "In the lamplit tent at Upaplavya, Krishna speaks to Yudhishthira with one hand open toward the field beyond the canvas, while across the plain the Kuru capital glitters with the lights of a city arming itself for war as for a festival.",
+ "visual_elements": [
+  "Krishna answering Yudhishthira in the tent at Upaplavya",
+  "Duryodhana addressing Karna, Dussasana, and Sakuni",
+  "kings arming themselves, harnessed steeds and equipped elephants",
+  "the Kuru capital decked with streamers and flags, like the moonlit ocean",
+  "the plain of Kurukshetra stretching between the two camps at dusk"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.154",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0484"
+ },
+ "editorial_status": "unreviewed"
+}

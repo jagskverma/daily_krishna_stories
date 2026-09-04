@@ -1,0 +1,121 @@
+# STORY DKS_0068 — Krishna Slays the Horse-Demon Keshi
+
+## Index entry
+title: Krishna Slays the Horse-Demon Keshi
+summary: The horse-demon Keshi attacks, and Krishna thrusts his arm into its mouth until it chokes and dies.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Keshi
+locations: Vrindavan
+themes: demon-slaying
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0120
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 37 | verses 1-7 | confidence 5
+  excerpt: The horse-demon Keshi, sent by Kamsa, terrified the cowherds, but Krishna thrust his arm into the demon's open mouth and expanded it until Keshi, choked, fell dead, and the gods showered flowers on Krishna. (rendered from Sanskrit, verses 1-7)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 79 | verses  | confidence 4
+  excerpt: Krishna, stretching his hands a good deal, sundered him in twain... 'Since thou hast slain Keshi, thou shalt pass by the name of Keshava in the world.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 16 | verses  | confidence 4
+  excerpt: Krishńa enlarging the bulk of his arm, thrust it into his mouth, and wrenched out the teeth... The formidable demon, having his mouth rent open by the arm of Krishńa, fell down, torn asunder like a tree struck by lightning... thou shalt be known in the world by the name of Keśava.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.37 (1-7)
+1. taṃ trāsayantaṃ bhagavān sva-gokulaṃ $ tad-dheṣitair vāla-vighūrṇitāmbudam & taṃ trāsayantaṃ bhagavān sva-gokulaṃ $ tad-dheṣitair vāla-vighūrṇitāmbudam & ātmānam ājau mṛgayantam agra-ṇīr % upāhvayat sa vyanadan mṛgendra-vat
+2. sa taṃ niśāmyābhimukho makhena khaṃ $ pibann ivābhyadravad aty-amarṣaṇaḥ & sa taṃ niśāmyābhimukho makhena khaṃ $ pibann ivābhyadravad aty-amarṣaṇaḥ & jaghāna padbhyām aravinda-locanaṃ % durāsadaś caṇḍa-javo duratyayaḥ
+3. tad vañcayitvā tam adhokṣajo ruṣā pragṛhya dorbhyāṃ parividhya pādayoḥ /
+4. saḥ labdha-saṃjñaḥ punar utthito ruṣā $ vyādāya keśī tarasāpatad dharim &amp;so 'py asya vaktre bhujam uttaraṃ smayan % praveśayām āsa yathoragaṃ bile
+5. dantā nipetur bhagavad-bhuja-spṛśas $ te keśinas tapta-maya-spṛśo yathā &dantā nipetur bhagavad-bhuja-spṛśas $ te keśinas tapta-maya-spṛśo yathā &bāhuś ca tad-deha-gato mahātmano % yathāmayaḥ saṃvavṛdhe upekṣitaḥ
+6. samedhamānena sa kṛṣṇa-bāhunā niruddha-vāyuś caraṇāṃś ca vikṣipan /
+7. tad-dehataḥ karkaṭikā-phalopamād vyasor apākṛṣya bhujaṃ mahā-bhujaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.79 ()
+TITLE: THE DESTRUCTION OF KESHI
+
+Vaishampayana said:—Hearing the words of Andha ka, Kansa’s eyes were
+reddened with anger. Without giving vent to a single word he entered
+into his own house (1). Having their resolution thus frustrated,
+Yādavas, well-versed in Srutis, repaired to their respective habitations
+talking over the ill-conduct of Kansa (2).
+
+Akrura too, as commanded, and desirous of seeing Krishna, set out for
+Mathura in an excellent car fleet like the mind (3). Many good signs
+appeared on Krishna’s limbs bespeaking of his union with a father-like
+relative (4). Before Akrura’s departure, Ugrasena’s son king Kansa sent
+an emissary to Keshi for destroying Krishna (4). Hearing the words of
+the messenger, the irrepressible Keshi, always oppressing the people, at
+once went to Vrindāvana and began to torture the Gopas (6), Feeding upon
+human flesh in anger that dreadful and wicked demon, in the shape of a
+horse, began to assail all greatly (7). Killing the cows and cow-herds,
+that irrepressible Dānava began to feed on beef of his own accord (8).
+Wherever in the forest the vicious-souled Dānava Keshi lived it was
+filled with the dead bodies of men and appeared like a cremation ground
+(9). He used to scratch the earth with his hoofs, weaken the trees with
+his velocity, leap up into the sky and trifle at the wind with his
+neighing (10). Thus shaking his manes and ranging in the forest, that
+highly proud, foolish and wicked demon, assuming the form of a horse,
+began to act there as desired by Kansa (11). Destroying the Gopas, that
+horse demon, of wicked deeds, made the forest empty (12). That wicked
+one so much vitiated the forest that the Gopas, who derive their
+sustenance through woods and the kine left it (13). With his mind worked
+up with pride he continually fed on human flesh so much so that the
+animals could not wend the forest roads (14).
+
+Once during the day, following in anger the noise of men, that Daity, as
+if urged on by Destiny, arrived at the settlement of the milk-men (15).
+As soon as they saw him the Gopa-women, with their children, and the
+Gopas, setting up a cry, fled away to their master Krishna, the lord of
+the universe (16). Hearing the cries of the Gopas and of their women
+Krishna promised them safety and went out to meet Keshi (17). Keshi,
+too, of powerful course, expanding his eyes and teeth and raising up his
+neck, ran towards Krishna with a great sound (18). Seeing the
+horse-demon Keshi fall on him Govinda confronted him as a cloud
+approaches the moon (19). Beholding Krishna at that time approach Keshi,
+the Gopas, endued with human sense, said to him for his well-being (20):
+
+"O child, O Krishna, do thou not all on a sudden approach this wretch of
+a horse, for thou art a boy and that one of evil ways is beyond the
+power of all (21). This highly powerful Dānava, peerless in battle, is
+born with Kansa, and is his life though ranging outward. He is a dread
+of the horses and soldiers, cannot be killed by any animal and the
+foremost of the sinful" (22–23).
+
+Hearing these words given vent to by the Gopas, Madhusudana, the slayer
+of his enemies cherished a desire of fighting with Keshi (24). Thereupon
+turning reversely to the southern direction in anger that horse-demon
+began to break down the trees with his two feet (25). Then from his long
+mouth, the thick manes on his neck and those falling on his forehead
+like streams of water began to trickle down drops of perspiration
+begotten by anger (26). As the moon pours down dews in the sky during
+the winter so from his mouth came out loams produced by the strokes of
+reins (27). With neighings coming out of his mouth and foams sent out by
+him like dews, he, as if, O Bhārata, sprinkled Mādhava (28). Covered
+with yellowish dust resembling powdered Madhuka (panic seed) raised up
+by his horns Krishna’s locks became tawny (29). Trotting and leaping and
+riving the earth, Keshi, biting his teeth, ran towards Krishna (30).
+While engaged in fighting with Krishna, the powerful Dānava Keshi, the
+foremost of horses, struck him on the breast with his fore-feet, and
+wounded him, of unmitigated prowess, repeatedly with his hoofs (31–32).
+Thereupon in anger, with his sharpened teeth, forming the weapons of his
+dreadful mouth he bit the upper part of Vāsudeva’s arm (33). At that
+time fighting with Krishna, Keshi, with long manes, shone like the sun
+in sky united with clouds (34).
+
+With his strength doubled by anger that powerful horse, with great
+motion, attempted to strike Krishna on the breast (35). Thereat,
+lengthening his arms, Krishna of great prowess, in anger caught hold of
+the mouth of that demon. (36). Keshi could not therefore eat up or break
+down his arms. On the other hand, his teeth being uprooted and broken
+down he began to vomit foamy blood (37). His lips were shattered, his
+jaws were smashed, and his eyes were disfigured. They came out all being
+disjointed (38). His jaws were broken and his eyes were filled with
+blood. Raising up his ears in an
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0067 | next_story_id: DKS_0069
+previous title: Krishna Slays the Bull-Demon Arishta
+next title: Krishna Slays the Demon Vyoma

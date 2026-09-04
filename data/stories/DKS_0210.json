@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0210",
+ "title": "Balarama Departs to Mithila in Anger",
+ "subtitle": "Demanding the jewel Krishna does not have, his brother turns his back on Dwaraka",
+ "story": "The quarrel began over a jewel that neither brother was holding.\n\nBy the time the Syamantaka's story reached this pass, the jewel had already cost a life. Krishna had followed it into the den of the great bear Jamvavan and brought it back, and he returned it to Satrajit, whose daughter Satyabhama had become his wife. Then one night Shatadhanwa, a kinsman of the Bhoja line, murdered Satrajit in the dead hours — a crime in the dark of a kinsman's own city, the kind that sets every household of a clan on edge — and carried the jewel off, not for himself alone. He made a present of it to Akrura, an elder of their own clan, who had long desired Satyabhama and the jewel both, and Akrura exacted from him a promise: he would never reveal where the jewel had gone. If Krishna attacked, Akrura swore, he would stand beside Shatadhanwa; the whole of Dwaraka, he said, was under his control.\n\nSatyabhama, stricken with grief at her father's murder, came to her husband and told him everything that had been done, and stood weeping at his side. Krishna hurried to his elder brother Balarama. \"Prasena was killed by a lion,\" he said, \"and Satrajit has been slain by Shatadhanwa. The jewel is mine by right now. Mount your chariot — we will kill this Bhoja, and the Syamantaka will be ours.\"\n\nThere was a terrible encounter between Krishna and Shatadhanwa. Akrura, who could have helped the man he had sworn to stand beside, watched from nearby and, out of wickedness, did nothing. Fear seized Shatadhanwa and he fled on his mare Vijnatahridaya, a horse that could cover a hundred yojanas — hundreds of miles — in a single stretch of running. Mounted on her he fought with Krishna as he fell back, and the chase carried them over plain and hill for all that distance, until at last the great mare, spent with exhaustion and misery, sank beneath her rider and her breath went up into the sky. Krishna turned to Balarama. \"Wait here,\" he said. \"I have seen the mare's wretched plight. I will go on foot, and I will carry away the jewel myself.\"\n\nHe walked on, caught Shatadhanwa on the road to Mithila, and killed him there. But when the fallen man was searched, the Syamantaka was not on him. Krishna came back to his brother with empty hands.\n\nBalarama held out his hand. \"Give me the jewel.\"\n\n\"I have not got it,\" said Krishna.\n\nAt that, Balarama's anger broke. \"Shame on you! Shame on you!\" he cried. \"I forgive you because you are my brother. Farewell — I am going away. I have nothing to do with you, or with the Vrishnis of Dwaraka.\" And he turned and entered the city of Mithila.\n\nThe king of Mithila rose to receive him, honored him as he deserved, and pressed on him gifts after his own heart — feasts, honors, and presents chosen for the guest himself, until the angry visitor wanted for nothing. And among the princes who came to wait upon the famous guest was Duryodhana, eldest of the Kuru princes, and from Balarama he received the most excellent instruction in the use of clubs. Of all the honors paid to Balarama in Mithila, that lesson would be remembered longest of all.\n\nBut Dwaraka would not let the estrangement stand. The warriors of the Vrishni clan gathered, and Krishna himself went at their head to Mithila to win his brother back, and they brought him home to Dwaraka. The quarrel that had begun over a jewel no one could produce ended not with the jewel, but with the brothers together again.",
+ "reflection": "Balarama's anger is startling because it is so human: he demands from Krishna the very jewel Krishna went to recover, and when the answer is denial he walks away from his brother and his city over it. What repairs the breach is not proof of innocence but the clan's insistence on bringing him home — which suggests the quarrel was never really about the jewel at all.",
+ "tradition_note": null,
+ "content_note": "Includes Satrajit's murder in the night and Shatadhanwa's killing in pursuit; both are described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Balarama",
+  "Krishna",
+  "Duryodhana",
+  "Shatadhanwa",
+  "Satrajit",
+  "Satyabhama",
+  "Akrura"
+ ],
+ "locations": [
+  "Mithila",
+  "Dwaraka"
+ ],
+ "themes": [
+  "suspicion",
+  "estrangement",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0209",
+ "next_story_id": "DKS_0211",
+ "next_story_tease": "But Akrura, who knew where the jewel truly was, would soon carry that secret out of Dwaraka — and the rains would go with him.",
+ "hero_scene": "On the road before Mithila's gates, Balarama turns his back on Krishna with a furious gesture, walking away into the city, while Krishna stands behind him with empty hands.",
+ "visual_elements": [
+  "Balarama turning his back on the road to Mithila",
+  "Krishna standing with empty hands",
+  "the city gates of Mithila",
+  "Satyabhama weeping at Krishna's side",
+  "Shatadhanwa fleeing on the mare Vijnatahridaya",
+  "Duryodhana learning the use of clubs from Balabhadra",
+  "estrangement and reconciliation"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.39",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:44Z",
+  "source_event_id": "evt_0287",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

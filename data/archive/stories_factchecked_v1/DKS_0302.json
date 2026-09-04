@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0302",
+ "title": "Rukmavati's Swayamvara and Marriage",
+ "subtitle": "Two weddings that quietly set an old rivalry aside",
+ "story": "The king who had spent his life showing rivalry toward Krishna announced, at last, a gathering in his own house — a swayamvara for his daughter.\n\nRukmi of Vidarbha had never made peace with Krishna's rise, and everyone knew it. Yet now he sent word through the kingdoms that his daughter would choose her own husband, and kings and princes came to his house from many countries, rich and powerful, each hoping to be chosen. With the other princes came Pradyumna, the son of Krishna and Rukmini.\n\nThe moment she saw him, Rukmi's daughter Rukmavati wanted to marry him. She was celebrated on earth for her beauty, endowed with grace and radiance, and Krishna's son — peerless in beauty himself — wished to espouse her in turn. When the kings had taken their seats in the swayamvara hall, the princess of Vidarbha walked past them all and chose Pradyumna, the slayer of enemies: a master of arms, well-built like a lion, the most handsome young man in the assembly. She gave him her heart utterly, and the choice was made.\n\nAfter the ceremony the kings returned to their own cities, and Pradyumna went home to Dwaraka with the princess of Vidarbha beside him. He lived happily with her, as Nala lived with Damayanti. In time she bore him a son, Aniruddha, like the son of a god, of matchless deeds.\n\nThe years turned. Aniruddha came of age and mastered the Vedas, the science of archery, and the moral laws. Then Krishna chose a wife for him: Rukmavati again — the granddaughter of Rukmi, gold-like in beauty, namesake of the elder Rukmavati who had married Pradyumna. The name ran through the family like a thread joining one generation to the next.\n\nIt was a strange match, for Rukmi had never ceased to show rivalry toward Krishna. But for the eagerness of his son and of Rukmini, he set aside his old enmity, and he said with delight: I confer Rukmavati on Aniruddha, endued with accomplishments and of a peaceful nature.\n\nSo Krishna went to Vidarbha surrounded by his own army, accompanied by Rukmini, by Balarama, by his sons and the other Yadavas; and Rukmi's kinsmen, friends and allies came too, at his invitation. On an auspicious day, under a favorable planet, the wedding of Aniruddha and Rukmavati was celebrated with great festivity. The Vidarbhas and the Yadavas rejoiced together, and the Vrishnis, honored there like immortals, lived happily in the midst of the feast.\n\nFor those days at least, the old quarrel between the two houses was remembered by no one. The feud that had once divided Vidarbha from Dwaraka was set aside for those days, and the two families sat down together as one.",
+ "reflection": "The two marriages in this story undo, stitch by stitch, the enmity Rukmi carried against Krishna: his daughter marries Krishna's son, and at the end he himself gives his granddaughter to Krishna's grandson, saying the feud is set aside. Alliance here is not a cold treaty but a family choosing, at last, to be one family — even for a man who had spent his life refusing the choice.",
+ "tradition_note": "The Harivamsha's translation slips once and calls the bride Rukmini's daughter; she is Rukmi's daughter, Rukmavati, named for her aunt Rukmini.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Rukmavati",
+  "Aniruddha",
+  "Rukmi",
+  "Krishna",
+  "Rukmini",
+  "Balarama"
+ ],
+ "locations": [
+  "Bhojakata",
+  "Dwaraka"
+ ],
+ "themes": [
+  "swayamvara",
+  "marriage",
+  "alliance"
+ ],
+ "previous_story_id": "DKS_0301",
+ "next_story_id": "DKS_0303",
+ "next_story_tease": "But the young hero of the family would not stay long among wedding feasts — the sky itself was about to call him out.",
+ "hero_scene": "In the swayamvara hall of Bhojakata, Rukmavati, garland in hand, steps past the seated kings and places it on Pradyumna, who stands among them like a lion, while the whole assembly watches in silence.",
+ "visual_elements": [
+  "Rukmavati placing the garland on Pradyumna in the swayamvara hall",
+  "the seated kings of many countries watching the choice",
+  "Pradyumna standing like a lion among the princes",
+  "the young Aniruddha mastering the Vedas and archery",
+  "Krishna, Rukmini and Balarama traveling to Vidarbha with the Yadava army",
+  "the wedding of Aniruddha and Rukmavati celebrated with festivity",
+  "Vidarbhas and Yadavas feasting together"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.118",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0291"
+ },
+ "editorial_status": "unreviewed"
+}

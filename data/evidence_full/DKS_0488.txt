@@ -1,0 +1,57 @@
+# STORY DKS_0488 — Krishna Departs Hastinapura for Dwaraka
+
+## Index entry
+title: Krishna Departs Hastinapura for Dwaraka
+summary: After restoring Yudhishthira to the throne and staying some months to comfort his relatives, Krishna takes leave of the grieving Pandavas and women of Hastinapura and sets out for Dwaraka, journeying through many kingdoms.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, Yudhishthira, Kunti, Draupadi, Subhadra
+locations: Hastinapura, the road to Dwaraka
+themes: farewell, separation, friendship
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0502
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 10 | verses 6-35 | confidence 5
+  excerpt: Having stayed in Hastinapura some months to gladden his friends and please his sister, Hari took his leave, embraced and bowed to all, and mounted his chariot; Subhadra, Draupadi, Kunti, Gandhari, Dhritarashtra and the others could not bear the separation, their eyes fixed on him as he departed. (rendered from Sanskrit, verses 6-12)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.10 (6-35)
+6. uṣitvā hāstinapure māsān katipayān hariḥ /
+7. āmantrya cābhyanujñātaḥ pariṣvajyābhivādya tam /
+8. subhadrā draupadī kuntī virāṭatanayā tathā /
+9. vṛkodaraśca dhaumyaśca striyo matsyasutādayaḥ /
+10. satsaṅgān muktaduḥsaṅgo hātuṃ notsahate budhaḥ /
+11. tasmin nyastadhiyaḥ pārthāḥ saheran virahaṃ katham /
+12. sarve te 'nimiṣairakṣaistam anu drutacetasaḥ /
+13. nyarundhann udgaladbāṣpam autkaṇṭhyāddevakīsute /
+14. mṛdaṅgaśaṅkhabheryaśca vīṇāpaṇavagomukhāḥ /
+15. prāsādaśikharārūḍhāḥ kurunāryo didṛkṣayā /
+16. sitātapatraṃ jagrāha muktādāmavibhūṣitam /
+17. uddhavaḥ sātyakiścaiva vyajane paramādbhute /
+18. aśrūyantāśiṣaḥ satyāstatra tatra dvijeritāḥ /
+19. anyonyam āsīt sañjalpa uttamaślokacetasām /
+20. sa vai kilāyaṃ puruṣaḥ purātano ya eka āsīdaviśeṣa ātmani /
+21. sa eva bhūyo nijavīryacoditāṃ svajīvamāyāṃ prakṛtiṃ sisṛkṣatīm /
+22. sa vā ayaṃ yat padam atra sūrayo jitendriyā nirjitamātariśvanaḥ /
+23. sa vā ayaṃ sakhyanugītasatkatho vedeṣu guhyeṣu ca guhyavādibhiḥ /
+24. yadā hyadharmeṇa tamodhiyo nṛpā jīvanti tatraiṣa hi sattvataḥ kila /
+25. aho alaṃ ślāghyatamaṃ yadoḥ kulam aho alaṃ puṇyatamaṃ madhorvanam /
+26. aho bata svaryaśasastiraskarī kuśasthalī puṇyayaśaskarī bhuvaḥ /
+27. nūnaṃ vratasnānahutādineśvaraḥ samarcito hyasya gṛhītapāṇibhiḥ /
+28. yā vīryaśulkena hṛtāḥ svayaṃvare pramathya caidyapramukhān hi śuṣmiṇaḥ /
+29. etāḥ paraṃ strītvam apāstapeśalaṃ nirastaśaucaṃ bata sādhu kurvate /
+30. evaṃvidhā gadantīnāṃ sa giraḥ purayoṣitām /
+31. ajātaśatruḥ pṛtanāṃ gopīthāya madhudviṣaḥ /
+32. atha dūrāgatān śauriḥ kauravān virahāturān /
+33. kurujāṅgalapāñcālān śūrasenān sayāmunān /
+34. marudhanvam atikramya sauvīrābhīrayoḥ parān /
+35. tatra tatra ha tatratyairhariḥ pratyudyatārhaṇaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0487 | next_story_id: DKS_0489
+previous title: Kunti's Farewell Hymn to Krishna
+next title: Krishna's Homecoming to Dwaraka

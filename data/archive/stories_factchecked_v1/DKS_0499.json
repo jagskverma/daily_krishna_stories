@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0499",
+ "title": "Krishna Rebukes Gandhari",
+ "subtitle": null,
+ "story": "She had just cursed him, and he had accepted the curse with a smile. Now Krishna stood before Gandhari, and the grief of a hundred dead sons hung between them like weather.\n\nGandhari, the mother of the Kauravas, had raised her hands over the field of Kurukshetra and pronounced her curse on the man she held responsible for the slaughter — that he would die, as her sons had died, by the hands of his own kinsmen. Krishna had taken the words as one takes a blessing. And now, with the pyres not yet built, he spoke.\n\n\"Arise, arise, Gandhari,\" he said. \"Do not set your heart on grief. Through your own fault this vast carnage has taken place. Your son Duryodhana was wicked-souled, envious, and exceedingly arrogant. You applauded his wicked acts and regarded them as good. He was cruel, the very embodiment of hostility, disobedient to the counsel of the elders. And you — why do you wish to ascribe your own faults to me?\"\n\nIt is worth sitting with what he did not say. He did not say that the war was fate, or that the gods had willed it. He said: this is yours. And then he said something stranger still about grief itself. \"The person who grieves for what has already occurred obtains more grief. By indulging in grief, one increases it two-fold.\" Mourning, he told the mother of the dead, is a fire that feeds on itself.\n\nThen came the harshest words of all. He spoke of the children that different women bear: the woman of the priestly class bears sons for austerities, the cow bears for burdens, the mare for speed, the servant-woman for servitors, the herdsman's wife for keepers of cattle. \"But a princess,\" Krishna said, \"bears sons for being slaughtered.\"\n\nGandhari said nothing. The story records that her heart was exceedingly agitated by grief, and that she remained silent. Whatever she had expected from Krishna — comfort, apology, the name of the guilty — she received the truth instead, and the truth left her no reply.\n\nHer husband, Dhritarashtra, had been listening at her side, and it was he who broke the silence, turning to Yudhishthira with a question that sounds, after everything, almost impossible: how many have fallen? Yudhishthira answered with a number so vast it reads like the census of a small country — one billion, six hundred and sixty million, and twenty thousand men, the story says, and two hundred and forty thousand, one hundred and sixty-five who escaped. And the blind king asked where the fallen had gone.\n\nYudhishthira, who had received the gift of spiritual sight from the sage Lomasa during his years of wandering, answered: those who cast off their bodies gladly in fierce battle have reached the worlds of Indra; those who met death without joy have found the company of the celestial musicians; those who fell while turning away from the field or begging quarter have reached the world of the hidden ones; the high-souled warriors who, scorning flight, advanced unarmed against armed foes have attained the bright regions of Brahman; and all the rest who died on the field have gone to the world of the Uttara-Kurus. To every death, a place.\n\nThen the work of the living began. Dhritarashtra asked about the friendless dead — those with no one to light their pyres — and Yudhishthira gave his order: let no one perish for want of someone to care for them. And so the pyres were built, of sandalwood and aloe and gathered wood, with ghee and oil and perfumes, silken robes, broken chariots, and heaps of weapons for fuel; and the fires were lit. Duryodhana and his hundred brothers were burned with due rites, and Shalya, and Jayadratha, and Abhimanyu, Arjuna's boy; Duhshasana's son, and Bhurishrava, and Drupada, and Virata, and Shikhandi, and Dhrishtadyumna, and the thousands of the Srinjayas. The smoke of the pyres rose over Kurukshetra, and the field of the great war became, at last, a place of burning and of farewell.",
+ "reflection": "Krishna's rebuke comes to a woman who has just cursed him, and it refuses to let her grief become a weapon that rewrites what happened. 'A princess bears sons for being slaughtered' is brutal — and it is also the one sentence that could make a queen of the dead stop and hear that her sorrow, however vast, is not the whole story.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Gandhari",
+  "Dhritarashtra",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "truth-telling",
+  "rebuke",
+  "accountability"
+ ],
+ "previous_story_id": "DKS_0498",
+ "next_story_id": "DKS_0500",
+ "next_story_tease": "On the road back to Hastinapura, Arjuna would ask Krishna to speak again the teaching he had heard before the war began.",
+ "hero_scene": "On the field of Kurukshetra, Krishna stands before Gandhari — a queen in mourning, her eyes red with weeping — and speaks to her with open hands and unflinching truth, while the smoke of the first funeral pyres rises behind them into a grey sky.",
+ "visual_elements": [
+  "Krishna standing before Gandhari on the battlefield",
+  "Gandhari in mourning, silent and stricken",
+  "Dhritarashtra listening at her side",
+  "smoke of funeral pyres rising in the background",
+  "a grey, heavy sky over Kurukshetra"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "11.26",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:15:06Z",
+  "source_event_id": "evt_0512"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0480",
+ "title": "Comfort the King First",
+ "subtitle": "Krishna advises Arjuna to see the wounded Yudhishthira before facing Karna",
+ "story": "Before Arjuna could advance against Karna, the field put another enemy in his path. Drona's son Ashvatthama, surrounded by a large car-force, suddenly proceeded to the spot where Partha was. Like a continent withstanding the surging ocean, the heroic Partha, with Krishna at his side, withstood the impetuously rushing Ashvatthama. Then the valiant son of Drona, filled with rage, covered both Arjuna and Vasudeva with his shafts, and the warriors who witnessed the two Krishnas shrouded with arrows wondered exceedingly.\n\nArjuna, as if smiling, invoked a celestial weapon; the brahmana Ashvatthama baffled it. All the weapons that Arjuna sped from desire of slaying the son of Drona were baffled by that great bowman. During that awful encounter the son of Drona resembled the Destroyer himself with gaping mouth. Having covered all the points of the compass, cardinal and subsidiary, with straight arrows, he pierced Vasudeva with three arrows in the right arm.\n\nThen Arjuna, slaying all the steeds of his high-souled assailant, covered the earth with a river of blood; the car-warriors of Ashvatthama's division were slain and destroyed by the arrows sped from Partha's bow. Ashvatthama in turn caused a terrible river of blood to flow to Yama's domains. The two fought without showing any regard for one another, rushing hither and thither. Ashvatthama approached Arjuna, shook his formidable bow decked with gold, and pierced him from every side with many sharp arrows, and once more bent his bow and struck Arjuna cruelly at the chest with a winged arrow. Deeply pierced, the wielder of Gandiva forcibly covered the son of Drona with showers of arrows and cut off his bow. Taking up a spiked mace whose touch resembled that of thunder, Ashvatthama hurled it at the diadem-decked Arjuna; the son of Pandu, as if smiling the while, suddenly cut off the mace as it advanced, and it fell to the earth like a mountain broken by the thunderbolt.\n\nFilled with rage, Drona's son covered Vibhatsu with the Aindra weapon, a shower of arrows spread over the welkin. Partha, taking up Gandiva and fixing on his bowstring a mighty weapon created by Indra, destroyed that arrowy shower and covered the car of Drona's son with his own shafts. Through that shower of arrows the son of Drona penetrated, and approaching Arjuna invoked a mighty weapon and pierced Krishna with a hundred shafts and Arjuna with three hundred small arrows. Then Arjuna pierced the son of his preceptor with a hundred arrows in all his vital limbs, poured arrows on his steeds and driver and bowstring, and felled his adversary's driver with a broad-headed arrow. Drona's son, himself taking up the reins, covered Krishna with many arrows, guiding his steeds while he fought with Phalguni — a feat of activity and prowess that all the warriors applauded. Then Vibhatsu, otherwise called Jaya, smiling the while, quickly cut off the traces of Ashvatthama's steeds with a razor-faced arrow, and the steeds of Drona's son ran away, and a loud noise arose from the troops.\n\nThe duel was over. The field that had been a storm around them fell suddenly quiet, and the two Krishnas stood together on the car, the charioteer's right arm still marked by Ashvatthama's arrows. Arjuna, his bow still humming, turned to Krishna — and asked, as the field around him demanded, to be taken against Karna, who had done this to their army and their king, whose standard with the elephant's rope still moved yonder over the host. But Krishna answered: \"The royal son of Kunti hath been deeply wounded and mangled by Karna. Having seen him first and comforted him, thou wilt then, O Partha, slay Karna.\"",
+ "reflection": "The order is revealing: Krishna does not deny Arjuna the duel with Karna — he only insists that the wounded king comes first. In the middle of the war's worst carnage, the charioteer's counsel is still that the brothers should see each other's faces before the last great battle is joined.",
+ "tradition_note": null,
+ "content_note": "Depicts the intense single combat between Arjuna and Ashvatthama, including arrow wounds to Krishna; described with restraint and no gore.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Ashvatthama",
+  "Yudhishthira",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "compassion",
+  "counsel",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0479",
+ "next_story_id": "DKS_0481",
+ "next_story_tease": "And Krishna, taking up the reins, drove Arjuna straight to the side of the wounded king.",
+ "hero_scene": "On the battlefield, Arjuna and Krishna stand together in the chariot — Krishna with three arrows piercing his right arm — while Ashvatthama's riderless, trace-cut steeds bolt away across the field, and beyond them the distant standard of Karna moves over the host.",
+ "visual_elements": [
+  "Arjuna and Krishna standing together in the chariot",
+  "Krishna pierced in the right arm by three arrows",
+  "Ashvatthama on his car, his bow cut in two",
+  "the spiked mace falling to the earth like a broken mountain",
+  "the riderless steeds of Drona's son running away",
+  "Karna's distant standard over the battlefield"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.64",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:07Z",
+  "source_event_id": "evt_0474"
+ },
+ "editorial_status": "unreviewed"
+}

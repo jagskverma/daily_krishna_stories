@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0360",
+ "title": "Balarama Slays the Demon Balvala",
+ "subtitle": null,
+ "story": "The morning of the parvan rose clear over Naimisha, and the sages fed their fire and offered the day's oblations as they had done a hundred times before. Then, without warning, the sky above the sacrificial hall turned dark — not with cloud, but with a shape. From that darkness a rain began to fall, hissing into the fire and soiling the offerings: a rain of filth and impurity. The demon Balvala had come again.\n\nIt was exactly what the sages had described when they set Balarama's penance. The son of Ilvala, cruel and ancient, a rover of the sky who at every parvan descended to defile their sacrifice at the very moment of its completion. For years they had endured him, powerless, watching their rites broken time and again by a hand they could not reach — the fire smothered, the offerings spoiled, the work of penance undone and begun again. And now they had in their midst the man whose penance was this demon's end. Every eye in the grove turned to Balarama, and he understood at once: this was the first half of his atonement, coming to meet him.\n\nHe saw the demon clearly — a body huge and black, like a mountain of crushed collyrium, drifting over the enclosure while the defilement rained down from him. And at the sight Balarama remembered his weapons, the plough and the mace that had torn apart the armies of the demons, and he did not wait. He raised the plough, and with its tip he caught the sky-roaming Balvala and dragged him down out of the air, and the demon fell to the earth before the fire — his forehead split, blood streaming from the wound — and Balarama finished the work with his mace, crushing his skull. The defiler of Naimisha lay still at last, and the rain of impurity stopped as suddenly as it had begun.\n\nThe grove filled with the sages' joy, and it was a joy with years of helplessness behind it. They crowded around Balarama, praising him and calling down blessings that never fail; they laid upon him the vaijayanti, the celestial garland strung with lotuses that do not fade, and gave him garments from heaven itself. The fire that had been defiled so many times burned clean and bright above the demon's body, and the sacrifice went on as it had always been meant to go on.\n\nWith the sages' leave, Balarama set out from Naimisha the next morning, walking with the brahmanas toward the river Kaushiki — the first steps of the twelve-month pilgrimage that would carry him through all the sacred fords of Bharatavarsha. The demon was dead. The penance had begun.",
+ "reflection": "There is a strange economy in the episode: the same hands that committed brahma-hatya at Naimisha are the hands that free the sages' sacrifice, as if the penance and the service were one act. The sages' gift of the unfading garland and their unfailing blessings suggest that in their eyes the cleansing had already begun with the deed.",
+ "tradition_note": null,
+ "content_note": "Demon-slaying: Balvala is dragged from the sky by the plough and his skull is crushed by the mace; described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Balvala",
+  "the Naimisha sages"
+ ],
+ "locations": [
+  "Naimisha forest"
+ ],
+ "themes": [
+  "protection",
+  "demon-slaying",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0359",
+ "next_story_id": "DKS_0361",
+ "next_story_tease": "Far away, on the slope of Govardhana hill, the king of the gods was descending to ask a favour of Krishna.",
+ "hero_scene": "Balarama at the edge of the sacrificial enclosure, his plough raised, hooking the huge dark demon Balvala down from the sky by its tip, while the sages watch from around the fire and the demon's rain of impurity falls around them.",
+ "visual_elements": [
+  "the demon Balvala, huge and black as crushed collyrium, in the sky above the sacrifice",
+  "his rain of filth falling on the sacrificial hall",
+  "Balarama dragging him down with the tip of his plough",
+  "Balvala falling with his forehead split and blood streaming",
+  "the sages honoring Balarama with the unfading vaijayanti garland",
+  "the fire burning clean again above the demon's body"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.79.1-8",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:19Z",
+  "source_event_id": "evt_0274"
+ },
+ "editorial_status": "unreviewed"
+}

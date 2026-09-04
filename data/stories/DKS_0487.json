@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0487",
+ "title": "Kunti Asks Only for Remembrance",
+ "subtitle": "A queen's farewell hymn as Krishna turns toward Dwaraka",
+ "story": "The great war was over. The Pandavas — five brothers of the royal house of Hastinapura, the eldest of them Yudhishthira — had won back their kingdom after a long war against their cousins. Krishna, their friend through every battle and every danger before it, had stayed only long enough to see them safe through the war's last terror: the night when an enemy warrior named Ashvatthama loosed his most terrible weapon, and it was turned back before it could destroy them. Now Krishna was turning toward Dwaraka, his own city by the sea. And Kunti, the mother of the five brothers, who had thanked him in her heart through a lifetime of dangers, knew she might not see him again like this, with the world grown quiet.\n\nShe had watched him save her sons so many times that the court had lost count of the rescues. Now, as he turned to leave, she came forward and spoke — the mother of kings, with Yudhishthira and his brothers standing silent behind her. What poured out of her was not a plea but a hymn of praise, spoken in the hearing of the whole court.\n\nShe bowed to the one she saw hidden in him: the ancient Person behind all things, veiled by his own play, unknowable to the ignorant, imperishable — the goal of the pure-hearted sages. She bowed to Krishna, son of Vasudeva and of Devaki. And she remembered his mother, shut away for years in the prison of Kamsa, the tyrant king of Mathura, and freed at last. Then she remembered her own life. Poison had come to her sons, and the great fire, and the cruel assembly of the dice hall, and the long hardships of exile in the forest, and the weapons of the mightiest warriors of the age. From all of these, again and again, he had freed her and her children.\n\nAnd then Kunti said the words that made the whole court go still. \"May those dangers stay with me forever, teacher of the world,\" she said, \"for it was in danger that I saw you. A man puffed up by birth, by wealth, by learning, by beauty, does not see you at all.\" She bowed again — to the one who is the wealth of those who own nothing and stands beyond the pull of the world's moods. \"I count you as Time itself,\" she said, \"the lord without beginning and without end. No one can read your intention, for you move among us looking like an ordinary man. Even the rope with which a cowherd woman of Vrindavan bound you when you were a child, naughty and crying, black collyrium running down your face — even that was your own play.\"\n\nPeople argued, she said, about why he had come to earth at all. Some held that he was born to give glory to the virtuous. Others said Vasudeva had prayed for a son, and so he came to Devaki. Others said he came to lift the burden of the earth, as a boat is lowered onto a drowning sea. Whatever the truth — and the wise could not agree — the troubled of this world heard of his deeds and sang them, chanted them, remembered them, and took joy in them.\n\nThen the hymn found its sorrow. \"Will you abandon us today, lord?\" she asked. \"Will you leave your friends, your servants? What are we, my sons and your own people alike, without you, but a name and a form? This land will not shine as it shines now, once you are gone.\" And she named him as the old verses name him — Shri Krishna, friend of Arjuna, whose courage has no end.\n\nThe court was silent. And Kunti, who in all those years had asked nothing for herself — no kingdom, no wealth, no safety — asked the only thing she wanted. \"May my mind stay fixed on you alone, my lord,\" she said. \"Again and again, on you alone.\"\n\nKrishna, whose every glory she had praised, smiled gently. \"So be it,\" he answered. And he turned back toward the city.",
+ "reflection": "Kunti's hymn is one of the strangest farewells in the tradition: she does not ask Krishna to stay, only that her remembrance of him stay. Her prayer that dangers might remain forever is not a love of suffering but a confession that it was in danger that she knew him most clearly — gratitude so complete that it can thank even misfortune.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Kunti",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "devotion",
+  "gratitude",
+  "farewell",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0486",
+ "next_story_id": "DKS_0488",
+ "next_story_tease": "Krishna granted her prayer, but he would not leave the city that day — there were months of leave-taking still ahead.",
+ "hero_scene": "Queen Kunti, hands folded in salutation, stands before Krishna in the morning light of Hastinapura as he turns toward his chariot; the Pandava court silent behind her, and Krishna smiling gently as he answers her hymn.",
+ "visual_elements": [
+  "Krishna",
+  "Kunti",
+  "folded hands",
+  "Hastinapura royal court",
+  "chariot",
+  "morning light",
+  "the Pandava brothers"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.8.16-44",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:13:00Z",
+  "source_event_id": "evt_0501",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

@@ -1,0 +1,102 @@
+# STORY DKS_0229 — Garuda Fells Airavata from Heaven || Garuda fights Indra's elephant Airavata, striking it with claws and talons until the wounded elephant falls from the heights of heaven onto the Parijatra mountain.
+
+## Index entry
+title: Garuda Fells Airavata from Heaven || Garuda fights Indra's elephant Airavata, striking it with claws and talons until the wounded elephant falls from the heights of heaven onto the Parijatra mountain.
+summary: Garuda fights Indra's elephant Airavata, striking it with claws and talons until the wounded elephant falls from the heights of heaven onto the Parijatra mountain.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Garuda, Airavata, Krishna, Indra
+locations: heaven, Parijatra mountain
+themes: battle, bird vs elephant, strength
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0300
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 220 | verses  | confidence 4
+  excerpt: Garuda, of mighty strength, struck Airāvata on the head with his fierce claws furnished with fearful talons. Afflicted sorely with the wound... the elephant fell from the heights of heaven on the top of that best of mountains the Pārijātra
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.220 ()
+TITLE: THE FIGHT BETWEEN KRISHNA AND INDRA
+
+Vaishampāyana said:—Here the highly energetic Vishnu, a moment after sun
+rise, went to the Raivataka mountain, under the pretext of hunting,
+taking up, O descendant of the Kurus, that foremost of men Satyaki on
+his car and telling Pradyumna "Follow me" (1–2). On having reached the
+Raivataka mountain, that divine one thus spoke to Dāruka:—"O Daruka,
+take charge of my chariot and wait here tending and grooming the horses
+for this half of the day; O foremost of charioteers, I shall re-enter
+Dwarkā on this very car" (3-4). Having thus delivered his command, that
+illustrious and intelligent god, of immeasurable prowess, rode on the
+back of Garuda, being accompanied by Satyaki (5). O descendant of the
+Kurus, that slayer of his foes Pradyumna followed Krishna from behind on
+a separate car capable of coursing on hills (6). Within the twinkle of
+an eye the intelligent Hari arrived at the pleasure park of the gods,
+the Nandana forest, with a view to carry away the Pārijāta from there
+(7). There in the garden of gods, the illustrious Adhokshaja saw hosts
+of celestial warriors, indomitable, courageous and armed with various
+weapons (8). That refuge of the pious, the mighty Krishna uprooted the
+Pārijāta tree and placed it on the back of Garuda even before their eyes
+(9). Thereupon, O Bhārata, the Pārijāta, having embodied itself,
+approached (with prayer) Kesava and Garuda, that king of birds (10). The
+tree Pārijāta was consoled by the high souled Kesava and was told—"Do
+thou not fear, O tree" (11). Then assuring himself that the tree
+Pārijāta was securely placed (on the bird’s back), Adhokshaja began to
+go round that best of strong-holds, the abode of the gods (12).
+Meanwhile the keepers of the garden of gods, had run to Mahendra and
+informed him saying—"that the most excellent of trees, the Pārijāta, is
+being carried away." (13). Thereupon the subduer of Pāka (Indra) came
+out mounted on Airāvata being followed from behind by Jayanta on a car
+(14). Then beholding that slayer of his foes Vāsudeva, who had by that
+time reached the Eastern gate, Indra said—"O slayer of Madhu, what is
+this going on" (15). Thereupon Kesava, seated on the back of Garuda,
+saluted Sakra with his head and said:—"I am only taking away this
+excellent tree for a ceremonious observance of your sister-in-law" (16).
+Sakra replied saying,—"O lotus-eyed one, thou shouldst not take away
+this tree, O infallible one, without challenging me to fight (17). O
+mighty armed Kesava, deal thou the first blow on me; and let thy promise
+be fulfilled by your hurling the Koumodaki mace at me" (18). Thereupon,
+O Bhārata, Krishna began to pierce the excellent elephant of the king of
+the celestials, with sharp arrows fierce like thunder itself (19). Then
+with excellent arrows of heavenly make, the wielder of the thunder-bolt
+began to pierce Garuda; and he soon succeeded in cutting off all the
+arrows of the light-handed Kesava (20). Mādhava cut off all those arrows
+which the lord of the gods shot; and smiling, the slayer of Vala and
+Vritra severed those shot by Mādhava (21). Then, O delighter of the
+Karus, at the sound of Mahendra’s bow and at the twang of the Sranga
+bow, the inhabitants of heaven swooned away (22). When the fight was
+thus raging between them the highly powerful Jayanta tried to remove the
+Pārijāta tree from the back of Garuda (23). Thereupon the slayer of
+Kansa said to Pradyumna "Prevent him (from taking away the Pārijāta)";
+and instantly the highly powerful son of Rukshmini opposed him (firmly)
+(24). Then Jayanta, seated on his chariot, that foremost of victorious
+persons, began to pierce with sharp arrows smilingly the son of
+Rukshmini on all parts of his body (25). The lotus-eyed god Cupid on the
+other hand, seated on his chariot, pierced the son of Indra, with arrows
+looking like snakes (26). O delighter of the Karus, then a fierce combat
+raged between the heroic Jayanta and the son of Rukshmini (27). Then
+those two mighty heroes, the sons of Upendra and Mahendra, the foremost
+of the wielders of weapons, used offensive and defensive weapons against
+each other (28). The gods, the sages, the Siddhas and the Chārnas, all
+beheld that fierce combat being much struck with wonder (29).
+
+O delighter of the Kurus, meanwhile, a messenger of the gods, named
+Pravara, of great strength, tried to take away the Pārijāta from the
+back of Garuda (30). O descendant of the Kurus, this Pravara was the
+friend of the ruler of the gods; he was accomplished in the use of
+mighty weapons and able to subdue all his foes; he was incapable of
+being slain by virtue of a boon obtained from Brahmā (31). Formerly he
+was a Brāhmana inhabiting the Jamva Island, whence through the merit of
+religious penances, he attained to heaven, and there O ruler of men, he
+earned the friendship of the slayer of Vala by virtue of his own powers
+(32). On beholding him advance, Krishna told Sātyaki;—"O Sātyaki, even
+from this place do thou oppose Pravara wi
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0228 | next_story_id: DKS_0230
+previous title: Satyaki Fights the Brahmana Pravara; Garuda Strikes Him Down || Satyaki duels the twice-born warrior Pravara, who repeatedly disarms him; when Pravara tries to seize the Parijata, Garuda's wing-blow hurls him and his car four miles back.
+next title: Krishna Worships Shiva and Wins His Boon || Pausing the fight at nightfall, Krishna performs ablutions in the Ganga, eulogizes Shiva with a hymn, and Shiva appears with Uma, granting that he shall carry away the Parijata and remain invincible.

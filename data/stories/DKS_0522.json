@@ -1,0 +1,70 @@
+{
+ "id": "DKS_0522",
+ "title": "The Yadavas Journey to Prabhasa",
+ "subtitle": null,
+ "story": "The omens reached Dwaraka the way a fever reaches a house: one small sign at first, then another, until everyone in the city was watching the same darkness. Birds wheeled in circles they had never flown. The sea, which had always fed the island city, seemed to hold its breath. Whatever was coming, Dwaraka could feel it coming. The city that had weathered storms and sieges without a tremor found itself listening to the wind.\n\nKrishna read the signs before anyone else. He called the elders of the Yadava clans together and spoke without softening anything. “These dreadful omens are the banners of death,” he told them. “Not for a moment should we remain here. Let the women, the children, and the old ones go to Shankhoddhara. We will go to Prabhasa, where the Sarasvati flows westward, and worship there.”\n\nThere was no argument. The elders of the Yadus looked at one another and answered, “So be it,” and the great departure began.\n\nHe had known for years how this would end. At the close of the great war, Gandhari — the queen of the Kurus, who had lost all her sons in it — had cried out against him, and her words promised ruin to his own race, just as ruin had come to hers. Krishna did not pretend the omens meant anything else. When he spoke of them he was blunt. “The fourteenth lunation has been made the fifteenth by Rahu once more,” he said. “It has once more appeared, it seems, for our destruction.” And he moved to bring about what Gandhari’s words had foretold: he commanded the Vrishnis to make a pilgrimage to a sacred water — as if the best way to meet a foretold end were to walk toward it with open hands.\n\nSo the Yadavas crossed the sea, in boats with their sails full and in chariots that clattered down the gangplanks, a cavalry reviewing itself on water. At the parting of the ways, the boats carrying the women, the children, and the old turned north toward Shankhoddhara, and the rest pressed on toward the mouth of the Sarasvati. Months passed before the great gathering assembled there, and the camp that spread along the western shore was the largest the Yadava clans had ever made. Boats lay beached in rows along the shore, and the smoke of ten thousand cooking fires rose into the evening sky.\n\nUddhava, who had been Krishna’s closest friend, remembered it afterwards, and he said that they went joyfully, deluded by fate. Joyfully, that is the word he chose. They bathed in the sacred waters and came out gleaming. They honoured the gods and the rishis. They gave the brahmins cows and gold and silver, beds and fine garments, chariots, elephants, and lands, pouring out gifts as though they had all the time in the world and every reason to spend it.\n\nOnly one among them knew what the omens had really been the banners of. Krishna went with them, bathed with them, gave with them. He did not stop the pilgrimage, because the pilgrimage was not the mistake. The curse was older than the journey, and it would ripen wherever they stood. But the seashore at Prabhasa, loud with laughter and the lowing of gifted cattle, would be the last place his people were ever happy together, and he let them have it.\n\nThe rituals finished, they lingered. The food was good, the water was holy, and fate, for the moment, kept its face hidden. No one spoke of the omens. No one spoke of Gandhari’s words. It was as though the whole camp had agreed, without saying so, to live in the last good days they would ever have.",
+ "reflection": "The telling that they went 'joyfully, deluded by fate' is the heart of the episode: the journey is a holy act, performed with open hands, and yet every gift given at Prabhasa is given on the threshold of the end. Krishna alone walks toward what he knows, and he lets the joy of his people stand unbroken for as long as it can.",
+ "tradition_note": "The Bhagavata (11.30 and 3.3) and the Mahabharata (16.2) both record this journey. The Mahabharata stresses Krishna deliberately advancing what Gandhari's words had foretold; the Bhagavata dwells on the joy with which the Yadavas, deluded by fate, made the pilgrimage.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "end_of_yadavas",
+ "characters": [
+  "Krishna",
+  "the Yadava elders",
+  "Uddhava"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Prabhasa",
+  "Shankhoddhara"
+ ],
+ "themes": [
+  "omen",
+  "fate",
+  "pilgrimage",
+  "departure"
+ ],
+ "previous_story_id": "DKS_0521",
+ "next_story_id": "DKS_0523",
+ "next_story_tease": "But the pilgrimage that began so auspiciously would end at the same seashore in a slaughter none of them foresaw.",
+ "hero_scene": "The Yadava clans crossing the sea toward Prabhasa, boats with full sails and chariots crowded onto the decks, while Krishna stands at the prow watching the western horizon where the Sarasvati meets the ocean.",
+ "visual_elements": [
+  "Krishna at the prow of a boat",
+  "Yadava boats and chariots crossing the sea",
+  "the western shore of Prabhasa",
+  "the Sarasvati flowing into the ocean",
+  "omens in the sky",
+  "a mood of departure and quiet dread"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.30.4-10",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.3.24-27",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.2",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:44Z",
+  "source_event_id": "evt_0370",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

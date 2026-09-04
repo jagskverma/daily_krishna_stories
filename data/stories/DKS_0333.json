@@ -1,0 +1,68 @@
+{
+ "id": "DKS_0333",
+ "title": "The Child in Two Wombs",
+ "subtitle": "Vishnu commands Yogamaya: move the unborn Balarama to Rohini's womb, and be born yourself as Nanda's daughter",
+ "story": "In the prison of Mathura, every child born to Devaki was born already sentenced.\n\nKamsa had decreed it himself. A prophecy had told him that Devaki's eighth child would kill him, so he meant to make that child impossible: her womb became a fortress and her children its casualties. He ordered his ministers to destroy every embryo of Devaki from the very beginning, to keep her guarded in the inner apartment, and to count the months of every conception from its first day, so that the moment of birth could never take him by surprise. Six children had been taken from her and killed, one after another, while the guards tallied the months like men counting out a siege. In Gokula, the cowherd village across the river where Nanda and Yashoda lived, no one watched. That was the whole point.\n\nVishnu — the god who would be born as Krishna — knew Kamsa's fear, and had planned the thing in detail. The six children Devaki had lost were not accidents of fate but part of the design: they were the Saragarbha princes, sons of the demon Kalanemi, cursed by their own grandfather to be born from her and to die. Vishnu had gone down to the nether region where they slept in the waters, gathered the vital breaths from their dreaming bodies, and consigned them to the care of Sleep, commanding that they be placed one by one in Devaki's womb — so that Kamsa's cruelty would spend itself on them before the real child ever came. The seventh was to be different — and it was for the seventh that Vishnu summoned the goddess of sleep herself, Yogamaya.\n\n\"Go, goddess, to Vraja, the land of cowherds and cattle,\" he told her. \"Draw the embryo called Shesha — my own elder brother, the endless one — from Devaki's womb and place it within Rohini's. Because he will be drawn from one womb to another, men will know him as Sankarshana. And when my own portion is conceived by Devaki in her eighth pregnancy, I will be born as her son. As for you, you will be conceived by Yashoda, the most beloved wife of Nanda — the cowherd chief who keeps Kamsa's herds — and born as her daughter. People will worship you under many names — Kumuda, Chandika, Krishna, Madhavi, Kanyaka — for I will make you powerful on earth, adored of all creatures.\"\n\nThe goddess accepted the command. In the seventh month of Devaki's seventh pregnancy, unseen by the watchers who guarded the prison night and day, the embryo was drawn from her womb, carried to Gokula, and placed within Rohini's — all in a single night, as quiet as sleep itself. When Kamsa's spies reported that Devaki had given birth too early, out of fear, in her seventh month, the tyrant believed it — and, as Vishnu had foreseen, turned all his vigilance to the eighth conception, the one he meant to destroy. He never counted the seventh child at all.\n\nIn Gokula, Rohini's son grew — the moon-like elder brother, taken from one womb to another, who would pass his youth under the name Sankarshana. And in Yashoda's womb, unknown to the cowherds, the goddess of sleep was already waiting to be born as Nanda's daughter: the girl who would one day be carried into the prison in a newborn's place, and whose death was meant to buy the prophecy its opening.\n\nAll that remained was the night itself: the prison, the river, the exchange — and a tyrant who trusted nothing in the world except his own watchfulness.",
+ "reflection": "The plan turns Kamsa's own cruelty into its instrument: he is told exactly what to watch for, and so watches for the wrong thing. And at the center of the scheme stands Yogamaya, a goddess who agrees to be born as a mortal girl precisely so that she can be killed in another child's place.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Vishnu",
+  "Yogamaya",
+  "Rohini",
+  "Devaki"
+ ],
+ "locations": [
+  "Gokula",
+  "Mathura"
+ ],
+ "themes": [
+  "divine_plan",
+  "concealment"
+ ],
+ "previous_story_id": "DKS_0332",
+ "next_story_id": "DKS_0334",
+ "next_story_tease": "When the eighth child was born, Kamsa would be handed a daughter to kill — and the daughter would have something to say about it.",
+ "hero_scene": "In the darkness of the Mathura prison, Yogamaya, a luminous goddess of sleep, draws a faintly glowing embryo from Devaki's womb and bears it through the night toward Gokula, where Rohini sleeps, while Kamsa's watchers guard the outer gates unaware.",
+ "visual_elements": [
+  "Kamsa's guards watching the prison of Mathura",
+  "Vishnu commanding the goddess of sleep",
+  "Yogamaya drawing the glowing embryo from Devaki's womb",
+  "the transfer of the child into sleeping Rohini's womb in Gokula",
+  "Yashoda conceiving the goddess unawares",
+  "a mood of quiet, hidden purpose"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.2.4-15",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.57",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.1",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:59:31Z",
+  "source_event_id": "evt_0021",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

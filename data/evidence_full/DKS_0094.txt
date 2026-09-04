@@ -1,0 +1,38 @@
+# STORY DKS_0094 — The Brahmanas Refuse Krishna's Request for Food
+
+## Index entry
+title: The Brahmanas Refuse Krishna's Request for Food
+summary: Hungry, Krishna sends the cowherd boys to ask food of brahmanas performing a sacrifice, but they turn the request away, mistaking Krishna for a mere man.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, cowherd boys, brahmanas
+locations: Vrindavan
+themes: pride, blindness
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0087
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 23 | verses 1-11 | confidence 5
+  excerpt: Sent by Krishna to beg food from the brahmanas performing the Angirasa sacrifice, the boys are refused, for the ritualists, proud of their learning, do not recognize the Lord. (rendered from Sanskrit, verse 1-11)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.23 (1-11)
+1. bhp_10.23.002/0 śrī-śuka uvāca
+2. prayāta deva-yajanaṃ brāhmaṇā brahma-vādinaḥ /
+3. tatra gatvaudanaṃ gopā yācatāsmad-visarjitāḥ /
+4. ity ādiṣṭā bhagavatā gatvā yācanta te tathā /
+5. he bhūmi-devāḥ śṛṇuta kṛṣṇasyādeśa-kāriṇaḥ /
+6. gāś cārayantāv avidūra odanaṃ rāmācyutau vo laṣato bubhukṣitau /
+7. dīkṣāyāḥ paśu-saṃsthāyāḥ sautrāmaṇyāś ca sattamāḥ /
+8. iti te bhagavad-yācñāṃ śṛṇvanto 'pi na śuśruvuḥ /
+9. deśaḥ kālaḥ pṛthag dravyaṃ mantra-tantrartvijo 'gnayaḥ /
+10. taṃ brahma paramaṃ sākṣād bhagavantam adhokṣajam /
+11. na te yad om iti procur na neti ca parantapa /
+
+## Corpus chain
+previous_story_id: DKS_0093 | next_story_id: DKS_0095
+previous title: Krishna Returns the Clothes and Blesses the Gopis
+next title: The Brahmanas' Wives Bring Food to Krishna

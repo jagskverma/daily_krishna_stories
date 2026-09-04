@@ -1,0 +1,34 @@
+# STORY DKS_0045 — Krishna Slays the Crane-Demon Bakasura
+
+## Index entry
+title: Krishna Slays the Crane-Demon Bakasura
+summary: The crane-demon Bakasura, Kamsa's ally, swallows Krishna, but Krishna burns and tears him apart and frees himself.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Bakasura, Balarama
+locations: Vrindavan
+themes: deliverance, divine_power
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0057
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 11 | verses 46-52 | confidence 5
+  excerpt: The great crane-demon Bakasura gulps down Krishna, but the child sears his palate and then tears the demon apart, to the wonder of the cowherd boys. (rendered from Sanskrit, verse 46-52)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.11 (46-52)
+46. te tatra dadṛśur bālā mahā-sattvam avasthitam /
+47. sa vai bako nāma mahān asuro baka-rūpa-dhṛk /
+48. kṛṣṇaṃ mahā-baka-grastaṃ dṛṣṭvā rāmādayo 'rbhakāḥ /
+49. taṃ tālu-mūlaṃ pradahantam agnivad gopāla-sūnuṃ pitaraṃ jagad-guroḥ /
+50. tam āpatantaṃ sa nigṛhya tuṇḍayor dorbhyāṃ bakaṃ kaṃsa-sakhaṃ satāṃ patiḥ /
+51. tadā bakāriṃ sura-loka-vāsinaḥ samākiran nandana-mallikādibhiḥ /
+52. muktaṃ bakāsyād upalabhya bālakā rāmādayaḥ prāṇam ivendriyo gaṇaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0044 | next_story_id: DKS_0046
+previous title: Krishna Slays the Calf-Demon Vatsasura
+next title: Aghasura Becomes a Giant Python

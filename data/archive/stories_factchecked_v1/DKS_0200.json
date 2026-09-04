@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0200",
+ "title": "Krishna Carries Off Rukmini",
+ "subtitle": null,
+ "story": "Krishna loved a woman, and she was about to be given to another man. Rukmini, the princess of Vidarbha, was the daughter of Bhishmaka, the king of Kundina, and her beauty was spoken of across the kingdoms. Krishna had asked for her hand, but her brother Rukmin, who hated him, refused the match. Then, at the suggestion of Jarasandha, her father affianced her to Sisupala, the king of Chedi. Her father was a powerful king, and her brother Rukmin was proud, and between them her future had been settled. Now the wedding was near, and the kings of the earth had gathered in Kundina for it, Sisupala's allies among them, an armed ring of princes who had come to see the princess given away.\n\nKrishna, too, had come to Kundina, with Balarama and many of the Yadus at his side. The city was full of banners and of soldiers, for half the kings of the earth had arrived, and the roads were thick with their chariots and elephants.\n\nOn the day of the ceremony Rukmini went to the temple to pray, as a bride does before she is given. The temple stood at the edge of the city, and the princess went up its steps alone while the noise of the assembled kings gathered like a storm behind her, and the whole court waited outside the doors. When she came out and stepped toward her chariot, the assembled princes fell silent. She was radiant, and the kings who had come to take part were wounded by the sight of her, struck still on their elephants and horses and chariots, some of them slipping from their seats in their daze. She pushed back a strand of hair with her left hand and glanced shyly over the gathered princes — and her eyes found Krishna, waiting in the crowd. For a long moment no one moved, as though the whole assembly understood at once what was about to happen.\n\nBefore anyone could move, Krishna swept her up. He set her on his own chariot, the one flying the banner of Garuda, and drove through the ring of kings as a lion drives through a pack of jackals, carrying off the share that was his. The princess made no move to stop him. All the banners and the ceremony and the armed guests had come to nothing in the space of a single breath.\n\nThe proud kings could not bear it. Jarasandha and the rest stood shamed, their honor torn away, and cried aloud that their fame, won with their bows, had been snatched from them by cowherds — like a lion's kill stolen away by deer. They surged after the chariot, and Rukmin himself swore he would never set foot in Kundina again until he had slain Krishna. But Balarama and the Yadus met the pursuers and threw them back, holding the road while Krishna rode on.\n\nWhen Rukmin overtook the chariot alone, Krishna scattered his army as if in sport and flung him to the ground, and would have ended him then and there. But Rukmini begged for her brother's life. “He is my only brother,” she said. “Do not kill him. Give him to me.” And Krishna, who is not ruled by anger, spared Rukmin at the entreaty of the woman he had just carried off, and granted her the gift of his life. Rukmin, keeping his vow, never returned to Kundina; he founded a city of his own, Bhojakata, and dwelt there ever after.\n\nAnd Krishna married Rukmini in due form, having won her as a warrior wins a bride — the woman he loved, carried away on his chariot from the midst of her enemies. And in time she bore him a son, Pradyumna, born of the god of love himself, so that the taking of the bride opened onto the next chapter of their lives.",
+ "reflection": "The episode is often called an abduction, but what Krishna does is openly claim a bride in front of the very kings who had gathered to give her to another. There is no concealment in it; the drama is that every armed prince in the assembly watches it happen and none of them can stop it.",
+ "tradition_note": "The Bhagavata places the carrying-off at Rukmini's svayamvara, as she came out from the temple; the Vishnu Purana sets it on the eve of her betrothal to Sisupala and adds the pursuit and defeat of her brother Rukmin. This telling follows the Bhagavata for the abduction and draws the closing detail of Rukmin's defeat from the Vishnu Purana.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Rukmini",
+  "Rukmin",
+  "Balarama"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "abduction",
+  "love",
+  "triumph"
+ ],
+ "previous_story_id": "DKS_0189",
+ "next_story_id": "DKS_0214",
+ "next_story_tease": null,
+ "hero_scene": "Krishna, driving a chariot flying the banner of Garuda, sweeps Rukmini up from beside her own chariot and turns to ride through a ring of stunned, falling kings as the princess looks back over her shoulder.",
+ "visual_elements": [
+  "Krishna",
+  "Rukmini",
+  "a chariot with the Garuda banner",
+  "the temple and its steps",
+  "a ring of kings on elephants, horses and chariots",
+  "the city of Kundina",
+  "the moment of carrying off",
+  "awe and triumph"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.53.52-56",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.26",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:07:13Z",
+  "source_event_id": "evt_0194"
+ },
+ "editorial_status": "unreviewed"
+}

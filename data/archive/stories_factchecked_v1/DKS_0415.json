@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0415",
+ "title": "Arjuna's Warning and Bhima's Roar",
+ "subtitle": null,
+ "story": "Arjuna walked a few more steps beside the chariot, and then he spoke again, in a voice that carried over the rattle of the wheels. The morning was still early, and the chariot had not yet cleared the camp.\n\nKrishna turned to listen. Everything Arjuna had said before, urging the peace mission, had been a plea: the words of a friend who wanted reconciliation, who called Krishna the best friend of both the houses and begged him to bring peace between the Pandavas and the sons of Dhritarashtra. He had asked Krishna to carry one more word to their ever-wrathful brother Suyodhana: that if he refused counsels fraught with virtue and profit, he would be the victim of his own fate. This was a different kind of word. This was what a man says when he has finished asking.\n\n\"If Dhritarashtra's son,\" Arjuna said, \"who always adopts improper means, acts otherwise, then I shall surely, O Janardana, annihilate the whole race of the Kshatriyas.\"\n\nThere was no heat in the words, and that made them heavier. He did not name Duryodhana's crimes or rehearse the wrongs of thirteen years. He said simply that if the man who always chose the crooked path chose it once more, then the warrior race itself would be ended — by his hand, in a war that would leave no one to boast of victory. The warning was exact, and it was total: peace was being offered, and refusal had been priced. Krishna had already accepted the errand. To the plea he had answered that he would go to king Dhritarashtra, desirous of accomplishing what was consistent with righteousness, what might be beneficial to the Pandavas, and what was also for the good of the Kurus. The warning did not change the errand; it only made plain what the errand was riding against.\n\nThen Bhima heard it, and Bhima answered in his own way. He set his feet on the earth, drew a breath that seemed to draw in half the morning, and set forth a terrible shout. It went out across the camp and the fields and the road, a sound with no words in it and no need of them, the whole of the promise Arjuna had just spoken given a body and a voice.\n\nThe bowmen who heard it trembled where they stood, their hands unsteady on their bows. And the steeds and the elephants, it was said, lost all control of their bodies in that moment of fear, standing shaking on the ground as the sound rolled over them. Some who stood near felt the very ground tremble with it, and for a moment the air carried nothing else. Even the birds of omen that had followed the chariot scattered. It was the sound of the war that had not yet begun — the war itself announcing its presence at the edge of the camp, so that every man who heard it knew, without being told, what a refusal would sound like. The shout hung in the air long after the sound of it had died, and the camp behind Krishna fell silent in its wake.\n\nKrishna drove on. He carried the plea for peace, and now he carried the shape of its failure too: the mother's messages, the king's claim, the warrior's warning, and the roar that would be the first sound of the war if the crooked path was chosen again. They rode with him, side by side, all the way to Hastinapura — and Duryodhana, when he chose, would be choosing in the hearing of that shout. Behind him the brothers stood on the road and watched the chariot go, and between them and it the morning still trembled with the sound of what Bhima had said.",
+ "reflection": "The warning and the plea travel in the same chariot. Arjuna's words are not the opposite of the peace mission but its shadow: Duryodhana must hear what refusal will cost before his choice can mean anything. Peace is being offered not as a favour he may take for granted, but as a choice he is still free to refuse — and the refusal has been priced.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Bhima"
+ ],
+ "locations": [
+  "Upaplavya"
+ ],
+ "themes": [
+  "war",
+  "warning",
+  "wrath"
+ ],
+ "previous_story_id": "DKS_0414",
+ "next_story_id": "DKS_0416",
+ "next_story_tease": "Farther along the road, a company of sages waited to greet the envoy of peace.",
+ "hero_scene": "Bhima, feet planted on the road, letting out a terrible shout after the departing chariot, while bowmen tremble over their bows and horses and elephants startle around him.",
+ "visual_elements": [
+  "Arjuna walking beside the chariot, delivering his final warning",
+  "Krishna listening from the chariot",
+  "Bhima drawing a great breath and letting out a terrible shout",
+  "bowmen trembling where they stand",
+  "steeds and elephants shaken by fear",
+  "the camp falling silent behind the departing chariot"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.83",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0422"
+ },
+ "editorial_status": "unreviewed"
+}

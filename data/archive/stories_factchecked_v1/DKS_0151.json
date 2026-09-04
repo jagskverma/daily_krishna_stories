@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0151",
+ "title": "The City Without Walls",
+ "subtitle": null,
+ "story": "Mathura had thrown back the armies of Magadha, and the city had cheered. The elders of the Yadava line did not join in the cheering. They had watched King Jarasandha come against the city once and then again, and they knew the arithmetic of such wars: every repulse bought a season, and the host that returned was always larger than the one that had fled. The two brothers had stood at the head of the defense and scattered his forces with their own hands, and the city trusted them utterly. But the elders had begun to ask a harder question — what would happen when the brothers alone were no longer enough?\n\nIt was that question that brought the clan together in council. The hall filled with the older men of Mathura, the counselors and kinsmen who had seen more sieges than they cared to count, and for a long while the talk moved in circles: the pride of the Magadhan king, the size of his host, the strength of the brothers. Then Vikadru rose. The clan counted him its foremost speaker, and when he stood, the others fell quiet and let him put into words what all of them had been circling.\n\n\"Mathura cannot withstand another siege,\" he told them, plainly and without ornament. The city's supply of food and fuel, he reminded them, was limited. What the storehouses held would not carry the town through a long investment. And beyond the granaries lay the larger truth: the city was not protected by a fort. No ring of walls, no citadel, no gates built to stop an army. Mathura was a city of cowherds and traders, grown rich on the river and the pastures, and it had never been turned into a stronghold. Whatever the valor of its defenders, Vikadru said, a city with thin stores and no walls could not stand attack for even one day.\n\nThe words fell on the room like a cold wind. Someone protested that the brothers had beaten Jarasandha twice. Vikadru did not argue the point; he answered it. An army could be met in the field and scattered, and the brothers had proven that twice over. But a siege was not answered in the field. A siege was answered with grain and with stone, and Mathura had neither in plenty. Jarasandha did not need to win a single battle; he needed only to sit before the gates and let hunger do his work for him.\n\nThe council turned at last to Krishna, because everything in Mathura turned to Krishna. He had listened to the whole of it without once interrupting — the way he heard every counsel, weighing each word before he answered it. And when the elders had finished, when Vikadru's plain assessment hung in the air, Krishna did not answer at once. He sat a long moment in the silence, and the elders watched him, waiting for the reassurance they had come to hear: that the city was safe, that the brothers would scatter the next host as they had scattered the last.\n\nHe did not give it. There was no defiance in his face and no fear in it either, only that still attention — the look of a man measuring a road he has not yet begun to walk. Whatever he was thinking, he kept it behind his eyes, and the council ended with the truth spoken and no decision made.\n\nThat night the lamps of Mathura burned late over a city that had cheered its defenders and slept without walls around it, trusting to two brothers and to the hope that Jarasandha would grow tired. Only Krishna, standing at a window above the un-walled streets, seemed to be looking past the city altogether — toward the south, where the mountains stood blue and far, and where the answers to Mathura's trouble might be waiting.",
+ "reflection": "The elders' counsel is honest about what courage alone cannot do: Jarasandha does not need to win a battle, only to wait. Their warning that the city could not stand even one day of siege is itself a kind of loyalty — telling Krishna the truth they would rather not believe, because he must hear it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Vikadru",
+  "Vasudeva",
+  "Yadava elders"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "counsel",
+  "vulnerability"
+ ],
+ "previous_story_id": "DKS_0150",
+ "next_story_id": "DKS_0152",
+ "next_story_tease": "Krishna sat with the counsel in silence; the answer he carried out of that hall would take him far from Mathura.",
+ "hero_scene": "Vikadru rising to speak in the torchlit council hall of Mathura, the Yadava elders seated around him and Krishna listening in silence, while beyond the open door the un-walled city lies dark beneath the threat of Jarasandha's returning host.",
+ "visual_elements": [
+  "Vikadru standing to speak",
+  "the Yadava elders in council",
+  "Krishna listening in stillness",
+  "the torchlit council hall",
+  "the un-walled city seen through the door",
+  "the threat of siege"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.94",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:24Z",
+  "source_event_id": "evt_0168"
+ },
+ "editorial_status": "unreviewed"
+}

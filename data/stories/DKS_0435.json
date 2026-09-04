@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0435",
+ "title": "Krishna Reveals His Universal Form",
+ "subtitle": null,
+ "story": "Krishna had come to the capital of the Kurus to plead for peace between the five Pandavas and their cousins, who had driven them from their kingdom. Duryodhana, the eldest of the cousins, had answered by plotting to capture the peacemaker himself. Now Duryodhana stood again in the assembly, before his father and the gathered kings, still stiff with defiance — and Krishna turned to him, and the temper of the court changed.\n\n\"From delusion, Duryodhana, you think I stand alone,\" Krishna said. \"That is why you hope to take me by force. But here are all the Pandavas. Here are all the Vrishnis and the Andhakas. Here are all the Adityas, the Rudras, and the Vasus, with the great sages.\"\n\nAnd Krishna burst into laughter. It began as the laugh of a man amused by a child's boast, and it grew until the air of the hall seemed to thicken with it. And as he laughed, the laughter became something else.\n\nFrom his body, which blazed like a fire, issued hosts of gods, each bright as lightning, each no bigger than a thumb. Brahma, the creator, appeared on his forehead, and Rudra on his breast. The guardians of the world stood on his arms. From his mouth came Agni, god of fire, and the Adityas, the Sadhyas, the Vasus, the twin Aswins, and the storming Maruts, with Indra and the Visvedevas. Companies of heaven's lesser beings came forth too — Yakshas, Gandharvas, and Rakshasas — in the same measure and form. From his two arms issued Balarama and Arjuna: Arjuna on his right with a bow in hand, Balarama on his left with his plough. Behind him stood Bhima and Yudhishthira and the twins, Nakula and Sahadeva. Before him stood all the Andhakas and the Vrishnis, with Pradyumna and other chiefs, mighty weapons raised. On his countless arms shone the conch, the discus, the mace, the bow Saranga, the plough, the javelin, the sword Nandaka — every weapon that has a name, gleaming and lifted to strike. From his eyes and nose and ears, from every part of him, burst fierce sparks of fire mixed with smoke; from the pores of his skin, sparks like rays of the sun.\n\nAnd these were not signs or symbols. They were there — gods and spirits and heroes and weapons filling the assembly — so that the court of the Kurus became, for that moment, the meeting place of all the worlds at once.\n\nAnd the court of the Kurus beheld what no court of men had ever beheld. All the kings shut their eyes, their hearts struck with fear — all except Drona, Bhishma, Vidura, the blessed Sanjaya, and the sages rich in penance, for Krishna gave them divine sight that day so they could bear to look. Many of the kings hid their faces; some covered their eyes with their hands; even the bravest could not raise his gaze.\n\nIn the sky above the hall, celestial drums beat, and a shower of flowers fell upon him. The earth trembled, and the oceans were troubled. The wonder did not stay inside the hall; it reached outward to earth and ocean, as though the whole world had been summoned to witness what the court of the Kurus had provoked. And all the dwellers of the earth were filled with wonder, though few of them knew why.\n\nDuryodhana had wanted to seize a man. What stood before him now — blazing from every pore, filling the hall with gods and weapons and fire — was what the four conspirators had proposed to bind with their hands. The boast had been answered not with a threat but with a revelation: this was what had sat before them through all the peace negotiations, patient, and had been mistaken for a negotiator.\n\nThen the vision withdrew. Krishna drew back the divine, wonderful, auspicious form and was himself again — Krishna, the Pandavas' messenger, seated quietly in the assembly of the Kurus as though nothing at all had happened. The gods, the weapons, the fire — all of it had come from him, and all of it had returned to him, and what remained was the quiet figure the court had grown accustomed to. The two could not be the same person — and yet they were.\n\nIn the ringing silence, the kings slowly opened their eyes.",
+ "reflection": "Krishna answers a threat of capture not with a display of power aimed at the plotters, but with the simple truth of what he is. The vision is not a weapon; it is an unveiling. And it is telling that only those with some purity — Bhishma, Drona, Vidura, Sanjaya, the Rishis — could bear to look, as though the sight itself demanded something of the seer.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Bhishma",
+  "Drona",
+  "Vidura",
+  "Sanjaya"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "cosmic_form",
+  "divinity",
+  "awe"
+ ],
+ "previous_story_id": "DKS_0434",
+ "next_story_id": "DKS_0436",
+ "next_story_tease": "The court was still reeling when Krishna rose to go, and the blind king, shaken, hurried to protest that he was powerless.",
+ "hero_scene": "Krishna laughs in the Kuru court while his body blazes — myriads of thumb-sized, lightning-bright gods streaming from him, Arjuna at his right and Balarama at his left, while the kings of the earth cover their eyes.",
+ "visual_elements": [
+  "Krishna turning to address Duryodhana in the assembly",
+  "Krishna's body blazing like a fire as he laughs",
+  "myriads of thumb-sized gods of lightning effulgence issuing from his body",
+  "Arjuna with bow on his right and Balarama with plough on his left",
+  "the conch, discus, mace, Saranga bow and other weapons shining on his arms",
+  "kings closing their eyes in terror while Bhishma, Drona, Vidura and Sanjaya gaze on",
+  "celestial drums beating and a shower of flowers falling"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.131",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:19Z",
+  "source_event_id": "evt_0442",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

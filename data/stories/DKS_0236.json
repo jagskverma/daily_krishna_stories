@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0236",
+ "title": "The Demand at the Sacrifice",
+ "subtitle": "The Danavas of Shatpura claim a share of Brahmadatta's yajna",
+ "story": "\"Give us our share in the sacrifice. We will drink the Soma of the rite, and Brahmadatta must give us his daughters.\"\n\nThe demand reached the sacrificial ground of Shatpura in the middle of a year-long sacrifice. It came from Nikumbha and the other Danavas of the city — demons made fearless by the boon they carried — who gathered on the bank of the sacred river Avarta. They did not frame their words as a request. They claimed a share of the offerings, the most valuable of the jewels Brahmadatta possessed, and his daughters, who were said to be many and beautiful. \"If he transgresses this order,\" they announced, \"we will not allow him to celebrate this sacrifice. This is our order.\"\n\nBrahmadatta, who conducted the rite, was a Vajasaneya brahmana — a priest of the school of the sage Yajnavalkya, learned in the four Vedas and in the six branches of sacred knowledge. He answered the Danavas as his learning taught him: no portion of sacrificial offerings had ever been laid down for them in the Vedas, and if they doubted it, they could ask the great sages seated at the rite. His daughters would be given in marriage to proper bridegrooms, as the same Vedas required. \"If you come to terms,\" he said, \"I may give you my entire collection of jewels. If you show your force, I will not give even that — for Devaki's son is my supporter.\"\n\nThe Danavas chose force. They scattered the vessels of the sacrifice and began to carry off his daughters.\n\nIt happened that Krishna's own parents were at Shatpura. Brahmadatta was an old friend and teacher of Vasudeva, Krishna's father — and a teacher is guarded by his pupil, just as Indra guards Brihaspati, the teacher of the gods. So Vasudeva had come to protect the rite, and Devaki, Krishna's mother, with him. Around them sat the greatest of the sages — Vyasa, Yajnavalkya, Sumantu, Jaimini and others of firm devotion — and Devaki moved among the beggars of the sacrifice, giving each one what he asked for, from the wealth of Vasudeva. Such was the household the Danavas had chosen to challenge: the teacher of Krishna's father, guarded by the mother of Krishna. The sacrifice was rich in food and in gifts — and it was precisely that richness the Danavas meant to tear apart.\n\nWhen Vasudeva saw the Asuras robbing the sacrifice, he thought of his sons — Krishna, Balabhadra and Gada. The moment he thought of them, Krishna knew everything. \"Proceed, my son,\" he said to Pradyumna, \"and save the maidens by your power of illusion. I myself will soon go to Shatpura with the Yadava army.\"\n\nPradyumna was there within a moment. By illusion he carried the maidens away, left likenesses of them in their place before the Danavas, and told Devaki, \"Be not afraid.\" Well satisfied, the Danavas carried off the false maidens and entered their city in triumph, while Brahmadatta's true daughters were safe. The trick had saved the maidens and bought the sacrifice its peace — for a little while.\n\nThe great sacrifice went on according to the rites, and its fame spread. All the kings Brahmadatta had invited arrived and camped near Shatpura: Jarasandha, Shishupala, Dantavakra, the five Pandava brothers, the hundred sons of Dhritarashtra, Rukmi, Shalya, Shakuni, and many another ruler besides. The year of offerings had grown a ring of armies around it, and with every new arrival the camp grew thicker and the air heavier.",
+ "reflection": "Brahmadatta's defiance rests on one sentence: no share of the offerings was ever laid down for the Asuras in the Vedas, and his daughters will be given to proper bridegrooms, not to force. He stakes everything on the order of the rite and on the name of Devaki's son — and the rescue comes not as a miracle but as a son obeying his father's summons.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Brahmadatta",
+  "Nikumbha",
+  "Danavas",
+  "Vasudeva",
+  "Devaki",
+  "Pradyumna"
+ ],
+ "locations": [
+  "Shatpura",
+  "bank of river Avarta"
+ ],
+ "themes": [
+  "sacrilege",
+  "demand",
+  "threat"
+ ],
+ "previous_story_id": "DKS_0235",
+ "next_story_id": "DKS_0237",
+ "next_story_tease": "Narada, watching the kings gather around the sacrifice, decided that the assembly needed a conflict — and set out for Nikumbha's house.",
+ "hero_scene": "Nikumbha and the Danavas scattering the articles of Brahmadatta's sacrifice on the bank of the river Avarta while Devaki looks on, and Pradyumna arriving with his illusive powers to carry the maidens to safety.",
+ "visual_elements": [
+  "Brahmadatta's sacrificial ground at Shatpura on the river Avarta",
+  "Nikumbha and the Danavas demanding a share, scattering the offerings",
+  "Devaki distributing gifts to beggars at the yajna",
+  "Pradyumna rescuing the maidens by illusion",
+  "illusory maidens being carried off by the Danavas",
+  "the kings encamping around the sacrifice",
+  "tension and defiance"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.230",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:41Z",
+  "source_event_id": "evt_0306",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

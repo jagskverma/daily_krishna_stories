@@ -1,0 +1,61 @@
+{
+  "id": "DKS_0528",
+  "title": "The Bow That Would Not Tighten",
+  "subtitle": null,
+  "story": "Arjuna, the great archer, found the bodies of Krishna and Balarama and performed the funeral rites for them and for all the slain. The eight queens of Krishna, with Rukmini at their head, embraced the body of their lord and entered the funeral fire. Revati, holding Balarama's body in her arms, climbed the blazing pyre after him, and the fire was cool to her, glad in the touch of her lord. The old Yadava king Ugrasena, and Krishna's father Vasudeva with his wives Devaki and Rohini, gave themselves to the flames as well. When the last rites were done, Arjuna made all the people leave the city, took the young prince Vajra, Krishna's grandson, and led the thousands of Krishna's widowed wives out of Dwaraka, slowly and with care, the whole city behind them.\n\nBehind them the sea rose and swallowed Dwaraka whole. Only the dwelling of the clan's deity stood above the water, and the ocean has never washed it away: Krishna still abides there, and whoever visits that holy shrine is freed of his sins. On the same day the dark-bodied Kali age came down upon the earth. The Sudharman, the great hall of assembly, and the Parijata tree — both brought down from heaven by Krishna — went back where they had come from.\n\nIn the country of Panchanada, a rich and fertile spot, Arjuna halted the long column to rest. That halt was his undoing. The robbers of the region saw the widowed women and the great wealth in one man's keeping, and their desires caught fire. They roused the Abhiras, the herdsmen of the countryside. \"Here is Arjuna,\" they said, \"immensely rich, guarded only by widowed women, passing confidently among us. His pride is swollen from slaying Bhishma, Drona, Jayadratha, and Karna. He does not know the strength of simple villagers. Up, up! Take your long thick staves!\"\n\nThey rushed upon the unprotected people with cudgels and clods of earth. Arjuna turned to meet them and called out in derision: \"Retire, wretches, ignorant of what is right, unless you are eager to die.\" They paid him no heed, and seized his treasure and his women.\n\nThen Arjuna braced Gandiva, the great heavenly bow — and it would not tighten. The string stayed slack in his hands, and the incantations of the celestial weapons would not come back to him. He loosed his shafts anyway, and the arrows that had once overthrown kings merely scratched the skin of the herdsmen. The arrows the fire-god Agni had given him at the burning of the Khandava forest, arrows of certain destruction, were themselves destroyed that day and turned against him. He tried to summon the strength of Krishna, the presence that had guided his arm through a hundred wars. It was gone; his arrows flew wide or were brushed aside by peasants. When his quiver was empty he beat at the bandits with the horn of his bow, and they only laughed. And the robbers, before his eyes, carried off all the women of the Vrishni and Andhaka tribes and went their way.\n\nArjuna wept. \"Alas, alas, I am deserted by my lord!\" he cried, and in that same instant the bow, the heavenly weapons, his chariot, and his horses perished before him like a gift to a fool. \"Resistless are the decrees of fate,\" he said, \"which have laid weakness upon me, robbed me of my illustrious friend, and given victory to the base. These arms are mine, and this fist is mine, and this is my place, and I am Arjuna — but without that righteous aid, all of it is nothing. The valour of Arjuna and the strength of my brother Bhima were his work. Without him I am overcome by peasants.\"\n\nHe made his way to Mathura, and there he placed Vajra on the throne of the Yadava line. In a wood outside the city he found the sage Vyasa and lay prostrate at his feet. Vyasa looked at him for a long time. \"How is it,\" he asked, \"that I see you thus shorn of your lustre?\"\n\nThe question hung in the air. It was the question Arjuna had been asking since Gandiva went slack in his hands: what is an archer, when the presence that strung his bow has left the world? The Kali age had begun, and the first thing it had taken was not a kingdom — it was the strength of the strongest man alive.",
+  "reflection": "The robbery is not a military defeat but the withdrawal of Krishna's presence made visible. Arjuna's weapons fail not because he has grown weaker but because the source of his strength has left the world — the story's way of saying that the Kali age began as a loss no skill could replace.",
+  "tradition_note": null,
+  "content_note": null,
+  "estimated_read_minutes": 5,
+  "estimated_audio_minutes": 5,
+  "life_stage": "later_life",
+  "story_arc": "krishna_departure",
+  "characters": [
+    "Arjuna",
+    "the Abhiras",
+    "Rukmini",
+    "Vajra",
+    "Vyasa"
+  ],
+  "locations": [
+    "Dwaraka",
+    "Panchanada",
+    "Mathura"
+  ],
+  "themes": [
+    "decline",
+    "loss",
+    "fate"
+  ],
+  "previous_story_id": "DKS_0527",
+  "next_story_id": "DKS_0529",
+  "next_story_tease": "Even as Arjuna wept at Mathura, the gods were gathering in Dwaraka to ask Krishna to come home.",
+  "hero_scene": "Arjuna straining at the string of Gandiva while the great bow stays slack in his hands, the Abhira robbers with staves and clods of earth swarming past him toward the widowed women of the Yadavas under a dull sky.",
+  "visual_elements": [
+    "Arjuna with the flaccid bow Gandiva",
+    "Abhira robbers with long staves and clods of earth",
+    "widowed women of the Vrishni and Andhaka tribes",
+    "the fertile plain of Panchanada",
+    "the bow and chariot perishing",
+    "a mood of humiliation and decline"
+  ],
+  "sources": [
+    {
+      "work": "Vishnu Purana",
+      "reference": "5.38",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T18:20:09Z",
+    "source_event_id": "evt_0517",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "major"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

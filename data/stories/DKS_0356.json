@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0356",
+ "title": "An Envoy Answered with Mockery",
+ "subtitle": null,
+ "story": "Balarama — Krishna's elder brother — came to Hastinapura, the city of the Kurus, as a peacemaker, and for a few hours it looked as though the peace would hold.\n\nSamba, a young prince of the Yadava clan — Balarama's own people — lay in a Kaurava dungeon. The young warriors of Dwaraka, the Yadavas' city by the sea, had already strapped on their armor and were clamoring for war; Balarama had quieted them with a single word. He would go himself, he said, and bring the boy home with courtesy. Counselors like Uddhava, Krishna's trusted adviser, urged restraint, and the warriors urged steel, but it was Balarama who settled it: he set out alone, in a chariot radiant as the sun, and when he reached the city of the elephants he did not ride through its gates in pride. He stopped in the outer grove and sent word that he had come.\n\nThe elders came out to meet him — Dhritarashtra, the old king of the Kurus; Bhishma, the grandsire of their house; Drona, their teacher of arms; and Bahlika, their elder kinsman. They were plainly glad to see him. They received him with the cow of welcome and the water of honor, and they asked after the welfare of his kinsmen, as kinsmen ask after kinsmen. Everything, so far, was grace.\n\nBalarama delivered his errand simply. Ugrasena, king of the Yadavas, had sent him. The Kurus held one of their princes captive — seized, as the Yadavas saw it, unjustly, seized by many against one — and the Yadava king asked only that Samba be released. It was a modest request, made in a modest voice, and it was met with laughter.\n\nDuryodhana and his brothers answered for the Kurus. The Yadavas, they said, were cowherds who had climbed above their station. Bound to the Kurus by marriage, eating at their tables, sleeping under their roofs — and now sending envoys and making demands, as if the royal insignia they had taken up were theirs by right rather than by gift. \"Enough of the Yadavas' kingship,\" they said. \"These claims fit you the way nectar fits a serpent.\" And even if the Yadavas took offense — what then? The Kurus named their own champions, Bhishma, Drona, Arjuna, and asked, laughing, whether even Indra, the king of the gods, could stand against them while such men stood on the field. No, they said. Samba stays.\n\nThe words were not addressed to Balarama. They were spoken about him, and past him, as though he were already gone.\n\nBalarama heard it all. He saw the wickedness of the Kurus laid bare — their pride running in a dozen different directions, none of them toward peace — and he understood, with a sudden clarity, that these men would never release Samba for any courtesy, because they had no idea whom they were insulting. They mocked the house of Ugrasena, the Yadava king — the king before whom the rulers of the earth bowed down. \"The Vrishnis eat land given by the Kurus!\" they jeered. And Balarama looked at them and thought of the pride of men made mad by wealth, stumbling like drunkards down a road they cannot see.\n\nBut he said nothing of it. He had come with open hands, and he would not answer mockery with steel — not here, not yet. He rose, and the laughter died in the hall, and the elders watched the great plough-bearer walk out past them without another word.\n\nThe chariot rolled out of the grove, and the gates of Hastinapura shut behind it on a peace that had never really begun. Behind him the mockery was already being retold with relish, in the very halls that had honored him that morning. Balarama carried one thing out of Hastinapura that day, and it did not cool on the long road home: the anger of a man who has been laughed at in front of the people he loves.",
+ "reflection": "The insult cuts deeper because it comes after a true welcome — the cow and the water of honor are offered before the mockery begins. The Kauravas measure the Yadavas by birth and borrowed land; Balarama measures them by a kingship they cannot see. The two sides are not even arguing about the same thing.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Duryodhana",
+  "Uddhava",
+  "Dhritarashtra"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "diplomacy",
+  "insult",
+  "pride"
+ ],
+ "previous_story_id": "DKS_0355",
+ "next_story_id": "DKS_0357",
+ "next_story_tease": "The anger he carried out of Hastinapura was not the kind that cools.",
+ "hero_scene": "In the hall of Hastinapura, Duryodhana and his brothers laugh and gesture at Balarama as he stands alone before them, while the elders — Bhishma, Drona and Dhritarashtra — sit in silence; outside, in the grove, the envoy's chariot waits.",
+ "visual_elements": [
+  "Balarama's sun-bright chariot stopping in the outer grove of Hastinapura",
+  "the elders coming out to greet him with the cow of welcome and water of honor",
+  "Duryodhana and his brothers laughing and mocking the cowherd Yadavas in the hall",
+  "Balarama standing silent and unmoved amid the mockery",
+  "the elders watching in silence as Balarama walks out without a word",
+  "the gates of Hastinapura shutting behind the departing chariot"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.68.13-38",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0256",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0481",
+ "title": "Krishna Drives Arjuna to Yudhishthira's Side",
+ "subtitle": null,
+ "story": "On the field of Kurukshetra, the war between the five Pandava brothers and their hundred cousins, the Kauravas, had been raging for days — and Arjuna, the Pandavas' finest bowman, whose chariot his cousin Krishna drove, had just done a thing few warriors could claim: in single combat he had defeated the son of Drona, the old master of weapons who had taught both armies how to fight. He should have been the happiest man on the field. Instead he stood in his chariot, bow still outspread in his hands, and searched his own troops for a face he could not find.\n\nYudhishthira was gone — Yudhishthira, the eldest of the brothers and their king.\n\nArjuna turned his chariot toward Bhima. \"Tell me, where is the king?\" Bhima's answer was blunt: Yudhishthira had left the field, his limbs scorched by the arrows of Karna, the great champion of the Kaurava host, and whether he still lived was doubtful.\n\nThe words struck Arjuna like a blow. He remembered how the king, though deeply pierced by Drona's arrows, had stayed in the battle, expecting victory, until Drona himself was slain. Now Karna had done what Drona could not, and driven the king from the field, wounded and alone. \"Without doubt he has gone to the camp,\" Arjuna said. \"Go quickly, Bhima, and bring me news of him. I will stay here and hold back all our foes.\"\n\nBhima shook his head. \"Go yourself, Arjuna. If I leave now, every hero on this field will say I ran from the battle.\" Arjuna gestured at the ranks before his division. \"The samsaptakas stand in my way — the warriors who have sworn to conquer or die. I cannot stir until they are dealt with.\" Then Bhima did what only Bhima could promise: \"Rely on my strength. I will fight all the samsaptakas myself. You go, and see the king.\"\n\nSo Arjuna, surrounded by enemies, turned to the one who held the reins and asked for the one thing he had never asked before — to be taken out of the battle. \"Drive on, Krishna,\" he said. \"Leave this sea of troops. I must see the king.\"\n\nKrishna looked at Bhima, and his voice carried the warmth of a man who had watched these brothers all their lives. \"This feat is nothing wonderful for you, Bhima. I am going now. Cut down these assembled foes of Arjuna.\"\n\nThen he shook the reins.\n\nThe chariot flew. The horses, swift as Garuda, the king of birds, carried the two cousins across the field at a speed that turned the sea of war into a blur — past the standards, past the shouting, past the last scattered fights — until the noise fell away and the chariot drew up beside a quiet place where a king lay alone on his bed.\n\nYudhishthira lay there, the marks of Karna's shafts upon him, alone as a man is alone when he has sent his brothers into danger and paid for it with his own body. And then the two of them — the one who held the reins and the one who drew the bow, the pair the poets of the war would call the two Krishnas — stepped down from the chariot.\n\nThey did not stand at a distance. They did not wait to be greeted. Krishna and Arjuna walked to the king's bed, and both of them worshipped his feet.\n\nThe charioteer of the war, the one who had guided every battle, bowed to the man who had carried the war's heaviest weight. Seeing the king safe and sound, the two were filled with joy, like men who had braced for the worst and found the one they loved alive.\n\nThe king raised his head, and his voice was choked with delight. He believed Karna had fallen. He believed the war had turned at last, and he congratulated them both as a man congratulates those who have done the impossible.\n\nHe was wrong. But for that moment, on the bed where he lay wounded, the king was happy.",
+ "reflection": "Krishna, who held the reins through every battle of the war, steps down to worship the feet of the wounded king — reverence flowing upward, not downward. The moment marks the war's real hierarchy: the one who guided it honours the one who carried it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Yudhishthira",
+  "Bhima"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "devotion",
+  "reverence",
+  "fellowship"
+ ],
+ "previous_story_id": "DKS_0480",
+ "next_story_id": "DKS_0482",
+ "next_story_tease": "But the king rejoiced too soon — Karna was still on the field, and the worst of the day lay ahead.",
+ "hero_scene": "On the quiet edge of the battlefield, Krishna and Arjuna — the two Krishnas — step down from the chariot and bow to worship the feet of Yudhishthira as he lies wounded on his bed, while the war's noise fades behind them.",
+ "visual_elements": [
+  "Arjuna scanning the battlefield for the missing king",
+  "Bhima promising to fight the samsaptakas alone",
+  "Krishna urging the Garuda-swift horses across the field",
+  "the two Krishnas alighting before the king's bed",
+  "Krishna and Arjuna worshipping the wounded Yudhishthira's feet",
+  "the king speaking with joy, voice choked with delight"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.65",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:14:29Z",
+  "source_event_id": "evt_0475",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

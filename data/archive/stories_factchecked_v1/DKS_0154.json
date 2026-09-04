@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0154",
+ "title": "The Weapons Descend on Gomanta",
+ "subtitle": null,
+ "story": "The kings' soldiers saw the two brothers coming down from the mountain, and terror ran through the host. The beasts stamped and shied; the ranks went rigid; for the two who descended carried no weapon at all — nothing but their arms — and they moved across the field like two makaras, the great creatures that churn the ocean, angry and unhurried.\n\nThen, before the eyes of the assembled kings, the sky opened. The weapons the brothers had received once before, in their encounter at Mathura, came down from the heavens like burning flames — huge bodily weapons, adorned with celestial garlands, lighting up the ten quarters with their brilliance, descending as if thirsting for battle. Four Vaishnava weapons came down for the two Yadavas: the plough-share Samvartaka, the mace Saunanda, the discus Sudarshana, and the club Koumodaki.\n\nBalarama, the foremost of the Satvatas, took up the plough-share in his left hand — moving obliquely like a serpent, wreathed in celestial garlands — and the mace Saunanda in his right. Krishna took up the discus Sudarshana, worthy of being looked at by all the worlds and effulgent like the sun, and his other hand closed around the club Koumodaki. Thus armed, the two brothers — one in Vishnu, divided into two for the sake of men — began to withstand the enemy.\n\nThe battle that followed was not a contest but a harvest. Balarama raised the plough-share and dragged the cars of the Kshatriyas from their courses, venting his anger on their horses and elephants, churning mountain-like elephants with his mace as if churning them in a vessel. Around him, the leading Kshatriyas, on the point of being slain, abandoned their cars in fear and fled to Jarasandha.\n\nJarasandha met them with contempt. \"Fie on your conduct as Kshatriyas grown tired of battle,\" he said. Did they not know that the sages say those who, albeit powerful, fly from the battlefield leaving their cars behind are visited by the sin of destroying an embryo? \"Why do you flee in fear of a milk-herd of limited power who fights on foot?\" Let them return to the field and fight, or wait as spectators — for he himself, he vowed, would dispatch those two cowherd boys to the abode of Yama.\n\nThe words stung them back into courage. Rallied, the Kshatriyas returned to the fight with a downpour of arrows — coats of mail, swords, quivers, horses with golden reins, cars of moon-like lustre, cloud-like elephants driven by their keepers. Covered by rising umbrellas and fanned with chowries, the kings shone on their cars in the field. And the brothers received them. Thousands of arrows shot by the kings struck the two descendants of the Yadu race, and the two bore them like mountains sprinkled with rain; assailed by heavy clubs and maces, they did not tremble.\n\nThen Krishna, like a cloud swollen with wind, increased his body, and with the discus effulgent like the sun he began to cut down men and horses, elephants and mighty car-warriors. On the other side, Balarama dragged the kings with his plough-share and struck them with his club until they lost consciousness and could not stand; the variegated chariots of the kings broke down, their car-wheels obstructed, and could not move across the field. In the thick of the slaughter, king Darada fell before Balarama — one more among the kings who had come to end the cowherd boys, ended in turn.\n\nWhen the field grew quiet at last, the host that had marched against the two brothers lay scattered and broken. The mountain Parasurama had named had held, as he had promised it would, and the brothers stood on the heights as they had come down from them: armed, unmarked, unhurried. But the war was not finished. Jarasandha was still somewhere beyond the broken ranks, and the two brothers knew, standing among the wreckage of his host, that he would come again.",
+ "reflection": "The weapons come down of their own accord, garlanded and blazing, as if they had been waiting for the moment — and they are taken up as naturally as the brothers' own arms. Jarasandha's contempt is the other face of the same scene: he sees only a cowherd fighting on foot, and cannot see that the arms of Vishnu are already in the brothers' hands.",
+ "tradition_note": null,
+ "content_note": "Battle episode: the rout of the assembled kings, told with restraint; includes the slaying of king Darada.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Jarasandha",
+  "Darada",
+  "kings"
+ ],
+ "locations": [
+  "Gomanta"
+ ],
+ "themes": [
+  "war",
+  "divine weapons"
+ ],
+ "previous_story_id": "DKS_0153",
+ "next_story_id": "DKS_0155",
+ "next_story_tease": "From the broken ranks of the kings, one ruler came forward with friendship instead of a weapon.",
+ "hero_scene": "The four divine weapons descending from the open sky like burning flames — the plough-share Samvartaka, the mace Saunanda, the discus Sudarshana, the club Koumodaki — garlanded and blazing, as Krishna and Balarama raise their arms to receive them before the terrified host of kings on mount Gomanta.",
+ "visual_elements": [
+  "the four Vaishnava weapons falling from the sky",
+  "the garlanded plough-share Samvartaka",
+  "the discus Sudarshana blazing like the sun",
+  "Krishna and Balarama raising their arms",
+  "the terrified host of kings",
+  "mount Gomanta",
+  "the broken chariots of the rout"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.99",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:24Z",
+  "source_event_id": "evt_0172"
+ },
+ "editorial_status": "unreviewed"
+}

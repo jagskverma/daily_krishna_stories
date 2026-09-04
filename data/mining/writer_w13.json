@@ -1,0 +1,29 @@
+[
+ {
+  "group_id": "g121",
+  "stories": [
+   "DKS_0527",
+   "DKS_0528",
+   "DKS_0529",
+   "DKS_0531"
+  ],
+  "context": "Group g121: write pilot-quality stories for DKS_0527, DKS_0528, DKS_0529, DKS_0531. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g122",
+  "stories": [
+   "DKS_0532",
+   "DKS_0533",
+   "DKS_0534",
+   "DKS_0535"
+  ],
+  "context": "Group g122: write pilot-quality stories for DKS_0532, DKS_0533, DKS_0534, DKS_0535. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "g123",
+  "stories": [
+   "DKS_0536"
+  ],
+  "context": "Group g123: write pilot-quality stories for DKS_0536. See docs/FULL_CORPUS_WRITER.md for output paths and rules. Work directory: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ }
+]

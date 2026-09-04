@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0431",
+ "title": "Krishna's Rebuke of Duryodhana's Crimes",
+ "subtitle": null,
+ "story": "For a long moment after Duryodhana finished, Krishna said nothing. When he spoke, the court saw that his eyes were red with anger, and the sweet counsel of the morning was gone.\n\n\"Wishest thou for a bed of heroes?\" he asked, and the formal thou was colder than any shout. \"Verily, thou shalt have it, with thy counsellors. Wait but a short while — a great slaughter will ensue.\"\n\nThen he turned to the claim that had just been made before them all. \"Thou thinkest, O thou of little understanding, that thou hast committed no offence against the Pandavas? Let the assembled monarchs judge. Grieved at the prosperity of the high-souled Pandavas, thou conspiredst with Suvala's son about the gambling match. How could those virtuous, honest, and superior kinsmen of thine otherwise have engaged in such a wicked act with the deceitful Shakuni? Gambling robs even the good of their understanding, and for the wicked, disunion and dire consequence spring from it. It was thou who devisedst, with thy wicked counsellors, that terrible source of calamity, without consulting persons of righteous behavior.\"\n\nKrishna's voice did not rise; it gathered. \"Who else is there capable of insulting a brother's wife in the way thou didst — of dragging her into the assembly and addressing her in the language thou hadst used towards Draupadi? Of noble parentage and excellent behavior, dearer to them than their very lives, the queen-consort of Pandu's sons was treated even thus by thee. All the Kauravas know what words were addressed in their assembly by Dussasana unto the sons of Kunti when they were about to set out for the woods. Language such as becomes only the heartless and the despicable was frequently repeated by Karna, and by Dussasana, and by thee.\"\n\nHe moved through the crimes one by one, as though turning over stones. \"Thou hadst taken great pains to burn to death, at Varanavata, the sons of Pandu with their mother, while they were children — though that effort of thine was not crowned with success. After this, the Pandavas with their mother were obliged to live for a long while concealed in the town of Ekachakra, in the abode of a brahmana. With poison, with snakes, with cords, thou hadst by every means sought the destruction of the Pandavas, and none of thy designs was successful. With such feelings, having always acted towards them so deceitfully, how canst thou say that thou hast not offended against the high-souled Pandavas?\"\n\nNow the rebuke turned to prophecy. \"Thou art not willing to give them their paternal share in the kingdom, although they are begging it of thee. Thou shalt have to give it them — this, when, divested of prosperity, thou shalt be laid low. Having done innumerable wrongs to the Pandavas, thou seekest now to appear in a different garb. Though repeatedly solicited by thy parents, by Bhishma, by Drona, and by Vidura to make peace, thou dost not make peace. Great is the advantage in peace, O king, both to thyself and to Yudhishthira. Peace, however, does not recommend itself to thee. To what else can it be due but to thy loss of understanding? Sinful and disreputable is that act which thou art about to do.\"\n\nWhile Krishna was still speaking, Dussasana rose and turned on his own brother. \"If, O king, thou dost not willingly make peace with the Pandavas, verily the Kauravas will bind thee hand and foot and make thee over to the son of Kunti. Bhishma, and Drona, and thy own father will make over us three — Vikartana's son, thyself, and myself — to the Pandavas.\"\n\nHearing this, Duryodhana rose from his seat in anger, breathing heavily like a great snake. He disregarded Vidura, and Dhritarashtra, and the great king Vahlika, and Kripa, and Somadatta, and Bhishma, and Drona, and Krishna himself — all of them — and walked out of the court. His brother and all his counsellors rose and followed him, and the kings followed after, and the assembly emptied in his wake.\n\nBhishma watched him go, and said to those who remained: \"The enemies of that person who, abandoning both virtue and profit, follows the impulses of wrath, rejoice on beholding him plunged into distress at no distant date. This wicked son of Dhritarashtra obeys only the dictates of wrath and avarice. I see, O Janardana, that the hour of all those Kshatriyas is arrived.\"",
+ "reflection": "Krishna's anger here is the anger of a witness: he lists the offences one by one — the dice, the assembly, the burning house, the poison — not to win an argument but to fix the record before the war begins. And Bhishma, who will himself fall in that war, is the one who names the hour already arrived.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Dussasana",
+  "Karna"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "wrath",
+  "rebuke",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0430",
+ "next_story_id": "DKS_0432",
+ "next_story_tease": "When the hall had emptied, Krishna turned to the elders who had let him go.",
+ "hero_scene": "In the Kuru assembly, Krishna stands with eyes red in anger, one hand extended towards Duryodhana as he enumerates his crimes, while the seated kings and elders listen in frozen silence.",
+ "visual_elements": [
+  "Krishna standing, eyes red with anger, addressing Duryodhana",
+  "Duryodhana seated, defiant, before him",
+  "Dussasana rising to speak against his own brother",
+  "Duryodhana rising like a great snake and leaving the court",
+  "the emptying assembly, Bhishma watching him go"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.128",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:11Z",
+  "source_event_id": "evt_0438"
+ },
+ "editorial_status": "unreviewed"
+}

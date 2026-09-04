@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0133",
+ "title": "Kamsa's Great Bow",
+ "subtitle": null,
+ "story": "In a hall in Mathura stood a bow, and it was the most guarded thing in the city. It was never carried to war; no archer had drawn it in living memory. It stood upright on its stand, decked with offerings, while armed men ringed it day and night, as if it were a king in its own right, or a god the city kept shut away. King Kamsa was preparing a great festival, and the bow was its showpiece; the whole of the king's pride seemed to rest in its unstrung curve. To break it would be to strike at the king himself, and everyone in Mathura knew it.\n\nTwo brothers had come to Mathura for that festival, from the cowherd village of Vrindavan: Krishna, and Balarama, his elder brother. They had spent their first day in the city wandering its streets, taking the measure of the place. Now Krishna began to ask the townspeople where the famous bow was kept. The people he asked looked at him strangely, but they answered; and with his brother beside him he went to find it, walking through the streets the way a man walks toward a thing he has already made up his mind about.\n\nHe found it in its hall, ringed by its keepers. Without asking leave of anyone, Krishna stepped up to the bow. The guards called out for him to stop, to stand back, but he paid them no mind. For a long moment no one in the hall moved. Then he reached out, took the great bow in his left hand, and lifted it as easily as a child lifts a toy; and before the eyes of everyone who watched, he strung it.\n\nThen he bent it, and the bow broke. It snapped in two at the middle, the way a stalk of sugarcane snaps between the hands, and the sound of the breaking went out in every direction at once, until all of Mathura heard it — the noise of a thing that could not be broken, breaking. The ground itself seemed to carry the report from house to house, and half the city looked up from its work, wondering what had fallen. The echo hung in the air long after the bow lay in pieces.\n\nThe guards came at him then, angry and armed, their followers pressing behind them. But Krishna and Balarama took up the two broken halves of the bow, and with those they struck the attackers down — the whole force Kamsa had set to watch over the weapon. One after another the guards fell, and it was over quickly. Then the brothers walked out through the door of the hall, unhurried, and went back into the city as the day's last light began to fail.\n\nThe townspeople, who had heard the crack and seen the brothers walk free, could only stare after them. The sun was going down over Mathura, and in the houses that evening the only talk was of the wonderful, impossible thing that had happened that day, and of the two young strangers who had done it and then simply walked away. By nightfall there was not a household that had not heard the tale told twice.",
+ "reflection": "The bow was not an instrument of war but an object of worship, and that is what makes the act so pointed: Krishna breaks the thing the king has set apart as sacred, then uses its two halves as weapons against the king's own men. Strength here is not only physical; it is a claim of authority, made in public, that the city cannot pretend not to have seen.",
+ "tradition_note": "The Harivamsha likens the bow to a serpent, and the Vishnu Purana stresses the noise that filled Mathura; the Bhagavata, followed here, has Krishna string it and snap it like a stalk of sugarcane.",
+ "content_note": "Krishna and Balarama strike down the armed guards with the two halves of the broken bow.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "guards"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "strength",
+  "defiance"
+ ],
+ "previous_story_id": "DKS_0132",
+ "next_story_id": "DKS_0134",
+ "next_story_tease": "But the crack of the bow was heard in the palace too, and it would not let the king sleep.",
+ "hero_scene": "Krishna lifting Kamsa's great bow with one hand and snapping it in two, the broken halves raised as the guards recoil, while the sound of the break echoes out across Mathura at dusk.",
+ "visual_elements": [
+  "the great bow on its stand, worshipped",
+  "armed guards ringing the hall",
+  "Krishna stringing the bow with his left hand",
+  "the bow snapping in two like sugarcane",
+  "the broken halves raised like weapons",
+  "startled townspeople",
+  "dusk over Mathura"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.42.13-22",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.82",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:20Z",
+  "source_event_id": "evt_0136",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

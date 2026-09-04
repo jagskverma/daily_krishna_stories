@@ -1,0 +1,131 @@
+# STORY DKS_0082 — Krishna Argues for Worshipping Govardhana Hill
+
+## Index entry
+title: Krishna Argues for Worshipping Govardhana Hill
+summary: Krishna tells Nanda the cowherds should worship Govardhana hill, the cows and the brahmins rather than Indra.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Krishna, Nanda
+locations: Vrindavan
+themes: karma, devotion, challenge to Indra
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0093
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 24 | verses 12-29 | confidence 5
+  excerpt: Krishna, to break Indra's pride, argued that beings are born and perish by their own karma, that the cowherds' living is cattle and forest, and so the sacrifice should be offered to Govardhana hill, the cows and the brahmins, not to Indra. (rendered from Sanskrit, verses 12-24)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 70 | verses  | confidence 3
+  excerpt: 'We are all milk-men who range in the forest. The precious kine constitute our subsistence. We should therefore worship the kine, the mountains and the forests.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 10 | verses  | confidence 4
+  excerpt: We, father, are neither cultivators of the soil, nor dealers in merchandise; we are sojourners in forests, and cows are our divinities... Let prayer and offerings then be addressed to the mountain Govarddhana.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.24 (12-29)
+12. bhp_10.24.013/0 śrī-bhagavān uvāca
+13. asti ced īśvaraḥ kaścit phala-rūpy anya-karmaṇām /
+14. kim indreṇeha bhūtānāṃ sva-sva-karmānuvartinām /
+15. svabhāva-tantro hi janaḥ svabhāvam anuvartate /
+16. dehān uccāvacāñ jantuḥ prāpyotsṛjati karmaṇā /
+17. tasmāt sampūjayet karma svabhāva-sthaḥ sva-karma-kṛt /
+18. ājīvyaikataraṃ bhāvaṃ yas tv anyam upajīvati /
+19. varteta brahmaṇā vipro rājanyo rakṣayā bhuvaḥ /
+20. kṛṣi-vāṇijya-go-rakṣā kusīdaṃ tūryam ucyate /
+21. sattvaṃ rajas tama iti sthity-utpatty-anta-hetavaḥ /
+22. rajasā coditā meghā varṣanty ambūni sarvataḥ /
+23. na naḥ purojanapadā na grāmā na gṛhā vayam /
+24. tasmād gavāṃ brāhmaṇānām adreś cārabhyatāṃ makhaḥ /
+25. pacyantāṃ vividhāḥ pākāḥ sūpāntāḥ pāyasādayaḥ /
+26. hūyantām agnayaḥ samyag brāhmaṇair brahma-vādibhiḥ /
+27. anyebhyaś cāśva-cāṇḍāla- patitebhyo yathārhataḥ /
+28. sv-alaṅkṛtā bhuktavantaḥ sv-anuliptāḥ su-vāsasaḥ /
+29. etan mama mataṃ tāta kriyatāṃ yadi rocate /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.70 ()
+TITLE: AN ACCOUNT OF INDRA-YAJNA
+
+Vaishampayana said:—Thus ranging and sporting in the forest Krishna and
+Baladeva spent the two²²² months of the rainy season (1). Thereupon
+returning to Vraja those two heroic brothers heard that arrangements
+were being made for performing a _Yajna_ in honor of Indra and that the
+milkmen were busily engaged in merriments (2). Seeing this, Krishna,
+filled with curiosity, asked "What is that Sakra sacrifice for which you
+are all filled with delight?" (3) Amongst them an elderly milk-man
+replied:—"Hear, why Indra’s flag is worshipped (4). O subduer of thy
+enemies, Indra, the king of the celestials and the lord of the world, is
+the master of clouds. For this reason from time immemorial and coming
+down from one family to another, this festival is being celebrated (5).
+Commanded by him and embellished by his bow the clouds produce corns
+with new showers of rain (6). Pleased with witnessing this festival the
+Lord Purandara, the giver of clouds and water, and the partaker of many
+sacrifices, brings about the gratification of the entire world (7). We
+and other men live by the corns produced by him and the celestials are
+also gratified thereby (8). Corns grow up when the king of gods sends
+down showers. And when the earth is gratified with oblations the whole
+universe appears as if full of ambrosia (9). Fed by the grass produced
+by him the kine, with the bulls and calves, have attained to nourishment
+and easiness (10). Wherever the cloud, pouring down water, is seen,
+there is observed neither a piece of ground shorn of grass and corns nor
+an hungry animal (11). The nectarine rays, of the sun that are milched
+by the Lord Sakra, are discharged by the clouds in the form of
+ambrosia-like showers of rain (12). The mighty leonine roar, announced
+by the air, which he emits with force from the clouds, is designated by
+the people as the muttering of clouds (13). The terrible sound, that he
+sends forth when carried by clouds accompanied by the wind, is heard
+like the clap of a thunder-bolt that shatters the mountains (14). O my
+child, as the great Lord Siva is encircled by the goblins, so Indra,
+surrounded by clouds coursing at will, and stationed in the sky, sends
+down showers accompanied by the clap of a thunder-bolt (15). Sometimes
+resembling an unfair day, sometimes resembling scattered gold, sometimes
+resembling collyrium and sometimes pouring water in drops the clouds
+paint the sky. Thus extracting water from the earth through the rays of
+the sun, Indra, the giver of water, sends it down again on earth for the
+behoof of all creatures (16–18).²²³ For these reasons O Krishna, this
+rainy season has been fixed upon as the time for worshipping Indra. The
+kings and others men with delight worship Indra in the rainy season. We
+too do so (19)".
+
+²²² In India the year is divided into six seasons of two months each.
+
+²²³ This shows that the ancient Hindus were not ignorant of the
+ scientific formation of clouds.
+
+CHAPTER LXXI.²²⁴ KRISHNA PROTESTS AGAINST INDRA-YAJNA: AN ACCOUNT OF
+AUTUMN.
+
+Vaishampayana said:—Hearing the words of the aged milk-men regarding the
+festivity of Indra, Dāmodara well-informed of Sakra’s might, said to him
+(1). "We are all milk-men who range in the forest. The precious kine
+constitute our subsistence. We should therefore worship the kine, the
+mountains and the forests (2). Cultivation is the means of subsistence
+to the cultivators, merchandise is to the merchants and the cow is the
+best means of livelihood to us. This has been laid down by the scholars
+well-read in the three Vedas (3). The respective profession of each
+caste is their great God, is worshipful, adorable and beneficial unto
+them. He, who, benefitted by one, worships another, is visited by two
+fold calamities in this world, and in the next after death. The fields
+are protected by cultivation, the forests are preserved by fields and
+the mountains are supported by forests and these mountains are our only
+refuge. I have heard that the mountains, which exist in this forest,
+assume forms at their will. And adopting various shapes they sport in
+their table-lands (4–6). Sometimes assuming the forms of tigers, the
+foremost of those having claws or those of lions adorned with manes,
+they frighten those who devastate the forest and thus protect their
+respective woods (7). When tribes living in the forest²²⁵ or those
+obtaining their livelihood through it²²⁶ disfigure a wood, they, with
+their work of eating up manliness, destroy them in no time (8). The
+Brāhmanas perform _Yajnas_ wherein the _Mantras_ play an important part,
+the cultivators should perform a sacrifice in honor of a furrow and we
+milk-men should celebrate one in honor of the mountains. Therefore we
+should worship the mountains in the forest (9). Methinks, therefore, O
+milk-men, that engaged in celebrating a Yajna in honor of the mountains
+do ye engage in actions after your own hearts either at the foot of a
+tree or of a mountain (10). Digging wells and se
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0081 | next_story_id: DKS_0083
+previous title: Nanda Explains the Indra Worship
+next title: The Cowherds Worship Govardhana and Krishna Receives Offerings as the Hill

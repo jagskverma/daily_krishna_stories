@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0391",
+ "title": "Bhishma Foretells That Krishna Will Destroy Shishupala",
+ "subtitle": null,
+ "story": "The great hall at Indraprastha had gone quiet, and the quiet was dangerous. Yudhishthira, king of the Pandavas, was performing the Rajasuya, the great sacrifice of an emperor, and the kings of the earth sat around him, gathered to honor him and ready, at one man's word, to turn against him. The man was Shishupala, king of Chedi, who had spent the day calling the monarchs to war.\n\nYudhishthira looked across the sea of angry faces to Bhishma, the grandsire of the Kurus, as though the old man were the only fixed thing left in the room. \"Grandsire,\" he said, \"tell me what I should do, so that my sacrifice is not broken up and my people are not harmed.\"\n\nBhishma answered at once. \"Fear nothing. Can a pack of dogs slay a sleeping lion? These lords of the earth are the dogs, and the lion is Krishna, of the line of the Vrishnis. He sleeps still; they bark; he does not stir. Until he wakes, this king of the Chedis makes all these monarchs look like lions.\"\n\nThen the grandsire told him what he truly saw. \"This Shishupala has little sense, and he means to drag these kings down with him to the country of Yama, the king of the dead. There is a power in him, and Vishnu has long wished to draw that power back into himself. When a man is meant to be taken, his mind turns perverse, and you can see it happening in the king of the Chedis and in the kings who listen to him.\"\n\nIt was the kind of speech that should have silenced the hall. It silenced everyone except Shishupala.\n\n\"Old and infamous wretch of your race!\" the king of Chedi shouted at the grandsire. \"Are you not ashamed to frighten these kings with false terrors? You are the foremost of the Kurus, and you have lived your whole life unmarried — what can a man like you know of right and wrong? The Kurus follow you as the blind follow the blind, like one boat tied to another.\"\n\nBhishma had praised Krishna; Shishupala threw the praise back, deed by deed. \"If Krishna slew the demoness Putana in his infancy, what is remarkable in that? What of Aswa and Vrishava, who never learned war? He kicked over a cart — a thing of wood. He held up Govardhan Hill for a week, and you call it a wonder, though to him it is no more than an anthill. They even say he ate a mountain of food while playing on a hilltop. And is not this the most wrongful deed of all — that Kamsa, whose bread he ate, was slain by him? The wise teach that weapons must never be turned against women, against cows, against the learned, nor against the man whose food you have eaten or whose roof has sheltered you. You have thrown away every one of those teachings, Bhishma. If the slayer of a woman and of cows is to be worshipped at your word, what is left of the lesson?\"\n\n\"And you, Bhishma — if you truly know the ways of virtue, why did you carry off the maiden Amba, who had set her heart on another? Your brother Vichitravirya knew her heart and would not marry her, though you had brought her to him. And you, who boast of virtue — in your very sight, sons were born to your dead brother's widow by another man, and you called it honest. Where was your virtue then? This celibacy of yours, whether it comes from ignorance or from weakness, bears no fruit: gifts, rites, and studies are not worth one-sixteenth of what a son brings a man. You are old and childless, Bhishma — and you preach a false morality.\"\n\nThe hall had gone very still. When Shishupala spoke again, his voice had dropped, and this was no longer an insult but a sentence. \"Like the swan in the old story,\" he said, \"you shall die at the hands of your own relatives. Wise men have said as much before me, and I will prove it by the tale.\" And he began the story of the old swan of the sea-coast — a bird that preached virtue to all the feathered tribes and lived by none of its own teaching.\n\nThe kings leaned forward in their seats, understanding what was being promised — and what was being dared.",
+ "reflection": "Shishupala's mockery dismisses as ordinary the very deeds the tradition treasures — Govardhan, Putana, Kamsa — while his attack on Bhishma carries its own prophecy. He names the grandsire's death at the hands of his relatives without seeing that his own fate has already been named, in the same breath, by Bhishma.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Bhishma",
+  "Krishna",
+  "Yudhishthira",
+  "Shishupala"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "destiny",
+  "reassurance",
+  "divine-will"
+ ],
+ "previous_story_id": "DKS_0390",
+ "next_story_id": "DKS_0392",
+ "next_story_tease": "Behind Shishupala's rage lay an old story of a mother's plea and a promise that was nearly spent.",
+ "hero_scene": "Bhishma, white-haired and unflinching, addresses the furious assembly with one hand raised in reassurance — comparing the raging kings to dogs before a sleeping lion — while Shishupala stands opposite with burning eyes, about to answer.",
+ "visual_elements": [
+  "Bhishma speaking calmly before the agitated assembly",
+  "Shishupala turning on the grandsire with raised hand",
+  "the kings of the earth leaning forward in the hall",
+  "Shishupala recounting Krishna's childhood deeds with contempt",
+  "the old swan of the sea-coast teaching the feathery tribe"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.40",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:54Z",
+  "source_event_id": "evt_0398",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

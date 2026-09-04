@@ -1,0 +1,47 @@
+# STORY DKS_0446 — Krishna Guides Arjuna Against Ashvatthama's Brahmastra
+
+## Index entry
+title: Krishna Guides Arjuna Against Ashvatthama's Brahmastra
+summary: After Ashvatthama releases the Brahmashira weapon at the Pandavas, a terrified Arjuna calls on Krishna, who tells him only a brahmastra can counter it; Arjuna discharges it and, at Krishna's word, withdraws both blazing weapons to save the worlds.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Ashvatthama, Draupadi
+locations: Kurukshetra, the battlefield
+themes: divine protection, war, devotion, crisis
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0412
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 1 | chapter/section 7 | verses 12-31 | confidence 5
+  excerpt: When the blazing weapon flares in every direction, Arjuna cries out, 'Krishna, Krishna, mighty-armed one, giver of fearlessness to your devotees, you alone are the rescue of those being burned.' Krishna answers: 'Know this to be the brahma weapon of Drona's son. He does not know how to recall it. Only an astra can quell an astra.' (rendered from Sanskrit, verses 21, 26-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 1.7 (12-31)
+12. yadā mṛdhe kauravasṛñjayānāṃ vīreṣvatho vīragatiṃ gateṣu /
+13. bhartuḥ priyaṃ drauṇiriti sma paśyan kṛṣṇāsutānāṃ svapatāṃ śirāṃsi /
+14. mātā śiśūnāṃ nidhanaṃ sutānāṃ niśamya ghoraṃ paritapyamānā /
+15. tadā śucaste pramṛjāmi bhadre yadbrahmabandhoḥ śira ātatāyinaḥ /
+16. iti priyāṃ valguvicitrajalpaiḥ sa sāntvayitvācyutamitrasūtaḥ /
+17. tam āpatantaṃ sa vilakṣya dūrāt kumārahodvignamanā rathena /
+18. yadāśaraṇam ātmānam aikṣata śrāntavājinam /
+19. athopaspṛśya salilaṃ sandadhe tat samāhitaḥ /
+20. tataḥ prāduṣkṛtaṃ tejaḥ pracaṇḍaṃ sarvato diśam /
+21. bhp_01.07.022/0 arjuna uvāca
+22. tvam ādyaḥ puruṣaḥ sākṣādīśvaraḥ prakṛteḥ paraḥ /
+23. sa eva jīvalokasya māyāmohitacetasaḥ /
+24. tathāyaṃ cāvatāraste bhuvo bhārajihīrṣayā /
+25. kim idaṃ svit kuto veti devadeva na vedmyaham /
+26. bhp_01.07.027/0 śrībhagavān uvāca
+27. na hyasyānyatamaṃ kiñcidastraṃ pratyavakarśanam /
+28. bhp_01.07.029/0 sūta uvāca
+29. saṃhatyānyonyam ubhayostejasī śarasaṃvṛte /
+30. dṛṣṭvāstratejastu tayostrīl lokān pradahan mahat /
+31. prajopadravam ālakṣya lokavyatikaraṃ ca tam /
+
+## Corpus chain
+previous_story_id: DKS_0445 | next_story_id: DKS_0447
+previous title: Krishna Returns to Upaplavya and Reports the Failure of the Peace Mission
+next title: Krishna's Verdict on Ashvatthama

@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0526",
+ "title": "The News Arjuna Brought Home",
+ "subtitle": null,
+ "story": "Arjuna came back to Hastinapura as a different man. His face was withered with grief, his heart hollowed out, and he wiped his eyes with his hand as he stood before Yudhishthira. He had gone to Dwaraka to bring the Yadava women home, and he had come back with the news that the world had changed while he was away.\n\nHe had loved Krishna as only a man who has been saved a hundred times can love his saviour. Standing there with his voice breaking, he remembered the friendship, the affection, the easy intimacy of the years when Krishna had been his charioteer, his brother-in-law, his laughter. At Draupadi's svayamvara, when the kings had burned with envy, and at the burning of Khandava, when he had fought the gods themselves, Krishna had been beside him. He remembered the sage Durvasa, whose terrible hunger had once threatened to burn the whole house of the Pandavas down, and how Krishna had come to them in the forest and turned the danger aside. He remembered the Gandiva, the great bow that had fallen to him, and every campaign it had won at Krishna's side. And he remembered Krishna's voice calling across the chariot — \"O Partha, O Arjuna, my friend, son of Kuru's race\" — the teasing, laughing voice that had made even the worst days bearable. The memories came like a flood he could not hold back.\n\nThen he told the king what had happened in the city of their friends. The Yadavas, he said, had been deluded by the curse of the brahmins. They had drunk the varuni, the madira wine, until their minds were churned and they were beside themselves. And in that madness the heroes of the Yadava race had slain one another with their bare fists, brother against brother, until the seashore of Prabhasa ran with their blood. Of the whole race, only four or five were left.\n\nAnd Krishna, the one who had carried the burden of the earth, had departed it. The sages say he had taken up that body the way an actor takes up a costume, and when the burden of the earth was lightened, he cast it off the way an actor casts off a role. He left the world the same way he had entered it: at his own hour, on his own terms.\n\nAt that very moment, the Kali age entered. The age of quarrel, the age that the telling calls the cause of all evil for the unawakened, set its foot upon the earth in the instant Mukunda abandoned it. It was as if the world had been held upright by his presence, and the moment he withdrew, the darkness that had been waiting all along came in through the door.\n\nKunti heard it too. The mother of the Pandavas, who had seen her own children through war and exile and loss beyond counting, heard of the destruction of the Yadavas and of the Lord's going, and she took the measure of it in silence.\n\nIn the court of Hastinapura no one knew what to say. The sun rose over the city the next morning exactly as it had always risen, and the walls stood, and the river ran. The cowherds on the far bank drove their cattle down to the water as always, and children shouted in the lanes. Grief, it turned out, could walk beside an ordinary day. Only the wise could feel it: something that had been there since before anyone was born had gone out of the world, and the age itself had changed while everyone slept.",
+ "reflection": "The Kali age begins at the instant Krishna leaves the earth, which is the story's way of measuring what his presence meant: not a symbol or a decoration, but the thing that kept the darkness out. Arjuna's grief is the grief of a man who watched the load-bearing pillar of his life walk away.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Arjuna",
+  "Yudhishthira",
+  "Krishna",
+  "Kunti",
+  "the Yadavas"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Dwaraka"
+ ],
+ "themes": [
+  "destruction",
+  "separation",
+  "the Kali age",
+  "fate"
+ ],
+ "previous_story_id": "DKS_0525",
+ "next_story_id": "DKS_0527",
+ "next_story_tease": "In the days that followed, the wisest of the old court would sit down with those who had loved Krishna best, to speak of what had been lost.",
+ "hero_scene": "Arjuna, face withered with grief, standing before Yudhishthira in the court of Hastinapura, wiping his eyes with his hand as he tells of the Yadava slaughter and the departure of Krishna.",
+ "visual_elements": [
+  "Arjuna weeping in the court of Hastinapura",
+  "Yudhishthira listening in silence",
+  "Kunti hearing the news",
+  "the memory of Krishna as charioteer",
+  "a world dimmed at the edges",
+  "a mood of grief and the ending of an age"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.15.1-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:44Z",
+  "source_event_id": "evt_0504"
+ },
+ "editorial_status": "unreviewed"
+}

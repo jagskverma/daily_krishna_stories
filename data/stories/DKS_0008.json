@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0008",
+ "title": "Vishnu Resolves to Descend",
+ "subtitle": null,
+ "story": "The earth was groaning under kings who were demons in human shape, and the gods had already tried to lighten her burden. Dharma and Indra, the Wind and the sun, the twin physicians of heaven, the priest of the gods, the Vasus, and a hundred lesser powers — each had come down in a part of himself and taken human form to stand against those kings. It had not been enough. The war was going nowhere, and in the assembly of the gods one sage had come to say so.\n\nNarada appeared before them with a heavy heart, and that was a strange thing to see. This was the sage who wandered between the worlds, missing nothing, who loved nothing so much as the spark of a quarrel and could read the hidden cause of every trouble in the world. He came as he always did, with his vina, his stringed instrument, held close like a companion and an antelope skin over his shoulder — but on this day there was no lightness in him. He stood among the assembled gods and spoke to Vishnu.\n\n\"Useless,\" he said, \"have been the gods' descents, sent down in pieces to destroy these kings. Their quarrel will bear no fruit. Their work cannot be finished without your own power. You see the true nature of all things; you are the refuge of everyone. Why did you not first send a portion of your own strength, to lift the burden from the earth?\"\n\nHe did not stop at the reproach. He named the demons who had been slain in older wars and had been born again as kings, and he named the place where their strength had gathered: Mathura, a pleasant city on the bank of the Yamuna, ringed with thriving villages — the old haunt of the demon Madhu and of his son Lavana, who in their day had been a terror to every creature. Those demons had escaped the ruin of earlier wars and had gathered their strength again. The gods, sent down only in parts, could strike here and there but could never finish the work. Such kings could not be broken by halves. Only the Lord himself could finish what they had only begun.\n\nAnd Vishnu, the Lord of the gods, listened, and resolved. He would go down to the world of men. He would take a human form and bring about the end of those mighty demons, Kamsa at their head. He would not come as a king entering a palace, but into the simple houses of the cowherds, where no one would think to look for the enemy of demons. And there was something gentle in the promise, too, something the sage's grim accounting could not touch: he would be born among the cowherds, and among them he would live happily.\n\nThe decision did not ring with thunder. No oath was sworn, no army was mustered. Vishnu simply chose what he would do — and the choosing itself was the beginning of the end for every demon who had thought the earth already his.",
+ "reflection": "Narada's plea names a truth the whole story keeps returning to: the burden of the earth is not lightened by halves. What the gods had begun in fragments could only be finished by the one who sent them, and even the promise of destruction carries a tenderness in it — that he would be born among the cowherds and live there happily.",
+ "tradition_note": "The Vishnu Purana tells this decision differently: there the Earth herself, in the form of a cow, petitions the gods at Mount Meru, and Vishnu plucks a black hair and a white hair from his body, declaring the black hair will be born as Devaki's eighth child and slay Kamsa.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Narada",
+  "Vishnu",
+  "gods"
+ ],
+ "locations": [
+  "Sumeru",
+  "celestial region"
+ ],
+ "themes": [
+  "divine counsel",
+  "earth's burden"
+ ],
+ "previous_story_id": "DKS_0007",
+ "next_story_id": "DKS_0009",
+ "next_story_tease": "And the first of his coming to be made ready was not the child himself, but the brother who would come before him.",
+ "hero_scene": "Narada, staff and vina in hand, his matted locks bright as fire, standing before Vishnu in the assembly of the gods and urging him to descend, while around them the host of gods who have already gone down to earth in fragments looks on.",
+ "visual_elements": [
+  "Narada with matted locks and white raiment",
+  "Vishnu in the assembly of the gods",
+  "the gathered host of gods",
+  "a vina and a staff",
+  "the earth burdened far below",
+  "Mathura on the Yamuna",
+  "mood of grave counsel turning to resolve"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.54",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.1",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:39Z",
+  "source_event_id": "evt_0020",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0228",
+ "title": "The Warrior Who Could Not Be Killed",
+ "subtitle": "Satyaki duels Indra's champion Pravara",
+ "story": "Among the warriors of heaven there was one whom no weapon could slay. His name was Pravara, and his story was strange for a fighter of the gods: he had been born a Brahmana on Jambu island, had won his way to heaven through the merit of penances, and had earned the friendship of Indra himself. Brahma had granted him a boon — that he could never be killed. In the service of the king of the gods he had become a messenger of heaven, accomplished in mighty weapons, able to subdue all foes, and now, in the battle over the Parijata tree, he came forward to earn his keep.\n\nHe moved straight for the tree on Garuda's back, and Krishna marked him at once. \"O Satyaki,\" he said, \"even from this place, oppose him.\"\n\nSatyaki was no stranger to impossible work. He had stood beside Krishna through the wars of Mathura and Dwaraka, and he had never yet refused his lord. He nocked an arrow and rode to meet the champion of the gods, while the celestial host fell back on either side to give the two warriors room.\n\nThe duel that followed was like no other in that long morning. Pravara was a master of the bow, and the boon of Brahma hung over him like a second skin. Shaft after shaft Satyaki loosed, and shaft after shaft Pravara met in mid-air, cutting the arrows down before they could reach him. When Satyaki's bow sang, Pravara's answered; and again and again the champion of heaven struck the bow from Satyaki's hand, disarming him before the eyes of the watching gods.\n\nA lesser man would have been broken by the shame of it. Satyaki only bent, retrieved his bow from the air or the dust, and returned to the fight. His arrows flew straighter for each humiliation, and though he could not wound the immortal champion, he gave him no rest, closing the ground between them again and again so that Pravara had no moment to look past him. The gods and sages who had gathered to watch the brothers' quarrel found themselves watching this instead — a mortal warrior holding his own, by pure refusal to yield, against a man who could not lose. They saw the bows flash and the chariots turn in the narrow sky, and not one of them could say when Satyaki had last given ground.\n\nThen Pravara tired of the game. He had not come to heaven to trade arrows with a mortal, however stubborn. Turning his mount, he made for the Parijata, reaching for the tree that rode on Garuda's back.\n\nAnd the king of birds, who had borne the tree through the whole battle without moving, moved at last.\n\nOne blow of Garuda's wings — one vast, sweeping stroke — and the champion of heaven was gone. Pravara and his chariot together were hurled a full four miles back through the sky, tumbling end over end, until they struck the ground and lay still. The warrior whom no weapon could slay had been felled not by arrow or mace, but by a wing; his chariot lay where it had struck, and he lay senseless within it.\n\nThe gods stared. The duel between the brothers paused, as if heaven itself needed a moment to understand what it had seen. And Satyaki, bow still in hand, took his place beside the tree — the one guard of the Parijata that no champion of heaven, it seemed, could pass. And while heaven still stared at its fallen champion, the king of birds was already turning his eyes toward the elephant below.",
+ "reflection": "Pravara's boon protected him from every weapon in creation, and Garuda's wing was not a weapon in any sense the boon had imagined. The duel is a reminder that Satyaki's loyalty is as much a part of this story as any god's power — he holds the line not because he can win, but because he will not stop.",
+ "tradition_note": null,
+ "content_note": "A duel with arrows and a blow from Garuda's wing that hurls Pravara and his chariot four miles; described without gore.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Satyaki",
+  "Pravara",
+  "Garuda",
+  "Pradyumna",
+  "Krishna"
+ ],
+ "locations": [
+  "sky over Nandana"
+ ],
+ "themes": [
+  "duel",
+  "Brahmana-warrior",
+  "loyalty"
+ ],
+ "previous_story_id": "DKS_0227",
+ "next_story_id": "DKS_0229",
+ "next_story_tease": "But the king of heaven's great elephant was still on the field.",
+ "hero_scene": "Garuda, the uprooted Parijata tree still balanced on his back, delivers a single vast wing-blow that hurls Pravara and his chariot tumbling backward through the sky, while Satyaki stands guard below with his bow and the gods look on in wonder.",
+ "visual_elements": [
+  "Garuda's sweeping wing-blow",
+  "Pravara and his chariot hurled backward",
+  "the Parijata tree on Garuda's back",
+  "Satyaki with his bow",
+  "the sky over the Nandana forest",
+  "watching gods and sages",
+  "mood of shock and wonder"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.220",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T23:13:00+0530",
+  "source_event_id": "evt_0299"
+ },
+ "editorial_status": "unreviewed"
+}

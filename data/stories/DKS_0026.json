@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0026",
+ "title": "The Infant Who Overturned a Cart",
+ "subtitle": null,
+ "story": "A loaded cart is a heavy thing. It is built to carry pots and grain and the whole weight of a household's goods, and it does not turn over by itself. Yet in the village of Gokula, on the day of the ceremony for an infant's first rising, a cart lay overturned and broken, and the only creature near it had been a baby too small to lift a single one of its pots.\n\nThe baby was Krishna, the small son of Nanda, chief of the cowherds, and of his wife Yasoda. That morning the brahmins had come to bless the child and had been honored with gifts, and the women of Vraja, the cowherd country round about, had gathered for the rite of his first rising. Yasoda moved among her guests, greeting each one, for a mother who is giving such a ceremony has many duties and her mind was full of them. In the press of it all, the child was set down for a moment in the shade of a cart that stood in the courtyard, heaped high with vessels.\n\nHe was hungry, perhaps, or simply tired of being still. He began to cry, and, as babies do when they cry, he kicked.\n\nOne small foot struck the underside of the cart above him — a foot as soft and tender as a new leaf, as a fresh sprout of the season, striking wood and iron.\n\nThe cart went over. Not gently tipped, but thrown down: its wheels wrenched from the axle, its shaft and yoke broken, its vessels spilled and shattered across the courtyard.\n\nThe crash brought everyone running — Yasoda, the women, Nanda and the men — and they stood around the wreckage in a ring of wonder, troubled by a thing none of them could explain. No wind had stirred. No animal had been near. There lay the cart, upended and broken, and in the middle of it sat the child, crying.\n\nThe cowherd boys and girls who had been playing close by said what they had seen. The baby did it, they said. He kicked the cart over with his own foot. But the grown men shook their heads. That was child-talk, the sort of thing children invent — how could an infant's foot overturn a cart that strong men could hardly shift?\n\nYasoda did not stay to argue. She was afraid — afraid of whatever unkind influence might be drawn to a child who had been at the center of such a wonder. She gathered up her crying son and held him close.\n\nThe cowherds, strong men all, set the cart upright again and collected what was left of its goods. Then Nanda, troubled and unable to explain what had happened, did what a father does when the world gives no answer: he called the brahmins who knew the sacred chants and had the protective rites recited over his son, with the words of the three Vedas, and he brought out his finest cows, decked in cloth and garlands and gold, and stood with a steady heart while the blessings were spoken over the child.\n\nBut no prayer could undo what the courtyard had seen that day, and no one who was there could forget it. A cart overturned by the kick of a baby too small to lift a single pot, and the child himself unhurt in the middle of it, reaching up to be held. The men went back to their herds and the women to their houses, but the question went with them, unasked and unanswered.",
+ "reflection": "The wonder of the episode is not only the overturned cart but the way the village receives it: the children tell the plain truth and the adults refuse it, because the truth is too large for their idea of what a child can do.",
+ "tradition_note": "The Harivamsha sets this episode while Yasoda is away bathing at the river and Nanda returns from the forest to find the cart overturned; the Bhagavata Purana places it during the child's birth-rites. The miracle at the heart of both is the same.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yasoda",
+  "Nanda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "wonder",
+  "divine_strength"
+ ],
+ "previous_story_id": "DKS_0025",
+ "next_story_id": "DKS_0027",
+ "next_story_tease": "Kamsa's servants were not finished with Gokula, and the next would come not in a human shape but as a storm.",
+ "hero_scene": "The infant Krishna lies beneath an overturned cart, one small foot raised in a kick, while the cart's wheels lie torn away and pots and vessels scatter across the courtyard as the cowherd men and women stare in astonishment.",
+ "visual_elements": [
+  "infant Krishna beneath an overturned cart",
+  "the small kicking foot",
+  "broken wheels and scattered pots",
+  "Yasoda and the cowherd women in wonder",
+  "Nanda and the cowherd men",
+  "a courtyard in Gokula, daylight",
+  "mood of startled wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.7.3-16",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.61",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.6",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:22:55+05:30",
+  "source_event_id": "evt_0040",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

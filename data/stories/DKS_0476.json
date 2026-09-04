@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0476",
+ "title": "Rise, O King, and Fight",
+ "subtitle": "Krishna consoles the grieving Yudhishthira",
+ "story": "The armies fought on into the night, and in the darkness the war took its cruelest turn. Karna had carried through every battle a dart given to him by Indra — kept all those months for Krishna or for Arjuna; a weapon that could slay any single warrior it was aimed at, one that even the gods could not turn aside. In the black hour of night it was spent at last, not on Arjuna but on Ghatotkacha, the son of Bhima and of Hidimba, a princess of the rakshasas, a fierce and powerful race. Ghatotkacha fell, a loss that the blind Kaurava king Dhritarashtra would later wave away as nothing — as insignificant, he would say, as the crushing of straw.\n\nNow the Kaurava troops — the army of the Pandavas' cousins and enemies — were wild with joy at the death of the young rakshasa prince. They raised loud shouts in the darkness and flung themselves at the Pandava ranks. King Yudhishthira, the eldest of the five Pandava brothers, watched his army begin to give way — and something in him gave way too. He turned to his brother Bhima. \"Resist the Kaurava host,\" he said. \"The slaughter of Hidimba's son has left me stunned.\" Bhima rode out to hold the enemy, and the king sat down on his chariot, his face wet with tears, sighing again and again. The man who had borne exile and loss without flinching sat staring at Karna's arrows, utterly without cheer.\n\nKrishna saw him and came to him. \"Let not such grief be yours,\" he said. \"Despair like this does not become you, as it might an ordinary man. Rise, O king, and fight. Bear the heavy burden. If you lose heart, our victory becomes uncertain.\"\n\nThe words reached Yudhishthira through the noise of the night, and he wiped his eyes with his hands and answered. The path of duty was not unknown to him — but first he spoke of Ghatotkacha, and what he said was not a lesson; it was a reckoning of love. While the Pandavas had lived as exiles in the forests, Ghatotkacha, then little more than a child, had served them in a hundred ways. When Arjuna went away to win celestial weapons, Ghatotkacha came to them at Kamyaka forest and stayed until Arjuna returned. Through wild and trackless country he had carried the tired princess of Panchala — Draupadi, wife of the five brothers — on his own back. Skilled in every kind of warfare, he had done hard and difficult things for the king's sake, feats no one else could do.\n\n\"My love for Ghatotkacha,\" said Yudhishthira, \"is twice the love I bear my youngest brother, Sahadeva. He was devoted to me, and I was dear to him. That is why grief scorches me. Look at our troops — afflicted, routed. Look at our great chariot-warriors broken before Karna's shafts.\"\n\nHis voice broke, and for a moment the night held its silence. All around, the battle pressed on: Karna's arrows still darkening the air, the Pandava host still reeling. But in the circle of that chariot there was only the king's grief and the friend who had come to answer it. Krishna had not asked the king to forget the boy. He had asked him to stand — to bear the burden, to keep the victory from slipping away. So he waited, letting the grief speak itself out, for he knew that the king's love for the dead youth was not something to be argued away.\n\nThe war did not stop for Yudhishthira's sorrow. The Kaurava shouts still rang across the dark field, and the Pandava line still had to hold. But the counsel had been spoken, and the king who had wiped his eyes with his own hands had answered out of love rather than out of despair. That, in the dark of that night, was the first step of bearing the burden again.",
+ "reflection": "Krishna does not belittle the king's grief; he refuses to let it become despair. Yudhishthira's answer matters because he does not deny his sorrow — he measures it openly, weighing Ghatotkacha's services against his own duty — and that honest accounting is what lets him stand again.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Bhima",
+  "Ghatotkacha"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "consolation",
+  "duty",
+  "fortitude"
+ ],
+ "previous_story_id": "DKS_0475",
+ "next_story_id": "DKS_0477",
+ "next_story_tease": "But on the field where the night was still loud, Krishna had already begun to think of other means against Drona.",
+ "hero_scene": "On the torch-lit battlefield at night, Yudhishthira sits slumped on his chariot with a tear-streaked face, sighing, while Krishna stands before him with one hand raised in counsel, and behind them the Pandava ranks brace against the shouting Kaurava host.",
+ "visual_elements": [
+  "tearful Yudhishthira seated on his car, sighing repeatedly",
+  "Krishna standing before him, speaking with a raised hand",
+  "the dark battlefield with the Kaurava host shouting and pressing forward",
+  "Bhima resisting the Dhartarashtra host at the king's command",
+  "the memory of Ghatotkacha, the young rakshasa prince"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.183",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:07Z",
+  "source_event_id": "evt_0470",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

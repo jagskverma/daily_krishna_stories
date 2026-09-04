@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0413",
+ "title": "The Chariot Krishna Rode to Hastinapura",
+ "subtitle": null,
+ "story": "It was the month of Kartika, under the star Revati; autumn had gone and the season of dew had come, and the earth around Upaplavya lay covered with abundant crops. The night had passed, a bright sun rose in the east, and on such a morning everyone in the camp understood what the day would bring, for Krishna had promised to ride out on the road to Hastinapura and ask for peace. For months the Pandavas had lived on borrowed hope, and all of that hope now rested on a single journey. Arjuna had begged him to go; Yudhishthira had weighed every word; and Krishna had given his word to the Kurus that he would come.\n\nBefore the sun was high he finished his morning rites: bathed and anointed, he worshipped both the Sun and Fire, touched the tail of a bull, bowed to the brahmanas who blessed his going, walked round the sacred fire, and cast his eyes on the auspicious articles set before him. Then he remembered Yudhishthira's request and called to Satyaki, Sini's grandson, who sat near him.\n\n\"Let my car be made ready,\" he said, \"and let my conch and discus, along with my mace, my quivers and darts, and every weapon of offence and defence be placed upon it. For Duryodhana and Karna and Suvala's son are all of wicked soul, and even a contemptible foe should never be disregarded by a powerful man.\"\n\nHis attendants understood the wishes of Kesava and went to work at once. The car they yoked was a marvel: its two wheels shone like the sun and the moon, its sides were emblazoned with moons both crescent and full, and with fishes, beasts and birds, and it was hung with garlands of many flowers and studded with pearls and gems. Gold covered it, and a fine flagstaff carried bright pennons; tiger-skins lay across it; and the very sight of it raised the hearts of the Yadavas. To it they brought the four great horses, Saivya and Sugriva and Meghapushpa and Valahaka, bathed and harnessed in beautiful gear.\n\nThen, as if the sky itself had answered, Garuda, the lord of all winged creatures, came down and perched on the flagstaff of that car, and the flagstaff rattled terribly under his weight. Krishna mounted the high chariot, tall as the summit of Meru, and its wheels turned with a sound deep as a kettle-drum, loud as thunder, like a celestial car coursing at the will of its rider. He took Satyaki up beside him, and the chariot set out, filling the earth and the sky with the rattle of its wheels.\n\nThe sky above him was cloudless, and auspicious winds blew round him, and the air, freed of dust, grew pure. Auspicious beasts and birds wheeled past on his right hand and followed him, and cranes and peacocks and swans cried out in good omen. The fire of the altar, fed with offerings and mantras, blazed up cheerfully toward the right, free of smoke. And on his right side stood the great sages, Vasishtha and Vamadeva, Bhuridyumna and Gaya, Kratha and Sukra, Kusika and Bhrigu, and many another brahmarishi and celestial sage, to honour his going.\n\nBehind the chariot came the Pandavas: Yudhishthira, the son of Kunti, and Bhima, and Arjuna, and the twin sons of Madri. And with them walked Chekitana, and Dhrishtaketu the ruler of the Chedis, and Drupada, and the king of Kasi, and the mighty car-warrior Sikhandin. It seemed the whole earth was moving with that one chariot, and the sound of its wheels rolled ahead of it like a promise, all the way to the gates of Hastinapura.",
+ "reflection": "Krishna rides out for peace with every weapon laid on the chariot: he will offer peace with open hands, but he will not go unarmed into a court where Duryodhana, Karna and Shakuni hold the king's ear. The preparation is not a contradiction of the mission; it is its honesty.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Satyaki",
+  "Garuda",
+  "Daruka"
+ ],
+ "locations": [
+  "Upaplavya",
+  "road to Hastinapura"
+ ],
+ "themes": [
+  "departure",
+  "divinity",
+  "preparation"
+ ],
+ "previous_story_id": "DKS_0412",
+ "next_story_id": "DKS_0414",
+ "next_story_tease": "Before the chariot had gone far, Yudhishthira came walking behind it, carrying messages for the ones he loved.",
+ "hero_scene": "Krishna's jewelled chariot with wheels like the sun and the moon, the four horses Saivya, Sugriva, Meghapushpa and Valahaka in gleaming harness, Garuda perched on the flagstaff, as Krishna and Satyaki mount while cranes, peacocks and swans wheel overhead in a clear sky.",
+ "visual_elements": [
+  "the jewelled chariot with crescent and full moons, fishes, beasts and birds emblazoned on its sides",
+  "the four horses Saivya, Sugriva, Meghapushpa and Valahaka in beautiful harness",
+  "Garuda perched on the flagstaff, the flagstaff rattling",
+  "Krishna and Satyaki mounting the high chariot",
+  "cranes, peacocks and swans wheeling on the right in a cloudless sky",
+  "the sages standing on Krishna's right side",
+  "the Pandavas following on foot behind the chariot"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.83",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0420"
+ },
+ "editorial_status": "unreviewed"
+}

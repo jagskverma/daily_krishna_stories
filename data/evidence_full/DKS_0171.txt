@@ -1,0 +1,37 @@
+# STORY DKS_0171 — A Divine Chariot and Weapons Descend for Krishna
+
+## Index entry
+title: A Divine Chariot and Weapons Descend for Krishna
+summary: As Krishna deliberates, a divine chariot and celestial weapons descend from the sky; Krishna and Balarama ride out to battle.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Krishna, Balarama, Daruka
+locations: Mathura
+themes: divine grace, war, resolve
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0166
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 50 | verses 6-15 | confidence 5
+  excerpt: While Krishna reflected, two chariots with the splendor of the sun descended from the sky with drivers and ancient divine weapons; Krishna blew his conch and terror entered the enemy's hearts. (rendered from Sanskrit, verses 6-15)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.50 (6-15)
+6. haniṣyāmi balaṃ hy etad bhuvi bhāraṃ samāhitam /
+7. akṣauhiṇībhiḥ saṅkhyātaṃ bhaṭāśva-ratha-kuñjaraiḥ /
+8. etad-artho 'vatāro 'yaṃ bhū-bhāra-haraṇāya me /
+9. anyo 'pi dharma-rakṣāyai dehaḥ saṃbhriyate mayā /
+10. evaṃ dhyāyati govinda ākāśāt sūrya-varcasau /
+11. āyudhāni ca divyāni purāṇāni yadṛcchayā /
+12. paśyārya vyasanaṃ prāptaṃ yadūnāṃ tvāvatāṃ prabho /
+13. etad-arthaṃ hi nau janma sādhūnām īśa śarma-kṛt /
+14. evaṃ sammantrya dāśārhau daṃśitau rathinau purāt /
+15. śaṅkhaṃ dadhmau vinirgatya harir dāruka-sārathiḥ /
+
+## Corpus chain
+previous_story_id: DKS_0170 | next_story_id: DKS_0172
+previous title: Jarasandha Attacks and Besieges Mathura
+next title: The Yadavas Rout Jarasandha's Army and Spare Him

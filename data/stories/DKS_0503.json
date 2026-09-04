@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0503",
+ "title": "Uddhava Arrives in Vrindavan",
+ "subtitle": "Nanda longs for Krishna as Yashoda weeps",
+ "story": "Uddhava, Krishna's messenger from Mathura, reached Vraja — the cowherd country where Krishna had grown up in the care of Nanda and Yashoda — as the sun went down.\n\nThe village at dusk was a thing alive. Powerful bulls, scenting the cows, bellowed and fought in the lanes; white calves leaped this way and that, so that the whole settlement seemed dressed in them; and the women sang as they worked, singing the good deeds of Bala and Krishna — Bala being their name for Balarama, Krishna's elder brother — the two brothers the village had raised and lost. Every home bore the marks of worship: the fire, the sun, the guest, the cow, the priest, the ancestors, and the gods, each honored in its turn. Around the settlement the forests stood in full flower, loud with the calling of birds.\n\nUddhava walked through the lanes slowly, taking it all in — the smoke of the evening fires, the lowing of the cows coming home, the songs rising and falling. So this was the world Krishna spoke of in his quiet moments; no wonder his heart had never quite left it.\n\nWhen Nanda learned who had come, he hurried out to meet him: Krishna's own companion, a traveler from the city that had taken his son. He embraced Uddhava, honored him as he would have honored Vasudeva, Krishna's father, pressed the finest food the house could offer on him, and settled him on a comfortable couch. Only then, with his guest at rest, did the old man's questions begin to spill out.\n\n\"Is our friend well?\" he asked — meaning Vasudeva, the son of Shura, who had spent so many years in Kamsa's prison. \"By good fortune,\" Nanda went on, \"the sinner Kamsa was killed, with all his followers, by the very evil he had done. But our Krishna — does he remember us? Does he remember his mother, his friends, his playmates? Will Krishna ever come back, even once, to look upon his own people?\"\n\nBefore Uddhava could answer, Nanda was already answering himself, the memories crowding in. He remembered how Krishna had sheltered them from the forest fire, and from wind and rain, from the great bull and from the serpent. He remembered Krishna's heroic deeds, and that playful sideways glance of his. He remembered the rivers, the mountains, the forests — every one of them adorned by the touch of Krishna's feet. The more he remembered, the more he wondered. Surely Krishna and Rama — for Rama was Balarama's other name — were gods come down to walk among men. Who else could have broken the great bow, tall as three palm trees, as an elephant king snaps a staff? Who else could have brought down Kamsa, strong as ten thousand elephants, together with the two wrestlers and the royal elephant? And the demons of Krishna's boyhood — Pralamba, Dhenuka, Arishta, Trinavarta, Baka — one after another they had fallen to the two brothers in the very fields where Nanda's cattle still grazed.\n\nAnd as Nanda spoke, Yashoda listened — and wept. She had held herself steady while the messenger spoke of Mathura; it was the boyhood deeds that undid her, the demon fights in the pastures and the fire in the forest, because those were the years when he had still been hers to hold.\n\nSo the evening passed in Nanda's house: the honored guest upon the couch, the old cowherd recounting wonders, and the mother of Krishna weeping quietly at the sound of her son's name.",
+ "reflection": "Nanda's questions run straight to the only thing that matters to him: not what Krishna has conquered, but whether Krishna remembers — his mother, his friends, his playmates. The village keeps Krishna alive by singing his deeds, and the measure of its love is remembrance.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "vrindavan",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "Uddhava",
+  "Nanda",
+  "Yashoda"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "remembrance",
+  "longing"
+ ],
+ "previous_story_id": "DKS_0502",
+ "next_story_id": "DKS_0504",
+ "next_story_tease": "Only then did Uddhava find the words to speak the message Krishna had entrusted to him.",
+ "hero_scene": "At dusk in Vrindavan, the aged Nanda embraces Uddhava at the threshold of his house, while behind them Yashoda weeps at the sound of her son's name and the village glows with lamps as bulls low and women sing the deeds of Bala and Krishna.",
+ "visual_elements": [
+  "dusk light over the village of Vrindavan",
+  "powerful bulls fighting in the lanes",
+  "white calves leaping across the settlement",
+  "women singing while they work",
+  "blossoming forests around the village, loud with birds",
+  "Nanda embracing Uddhava at the threshold",
+  "Yashoda weeping as her son's deeds are recounted",
+  "the couch where the honored guest is seated"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.46.7-28",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:13Z",
+  "source_event_id": "evt_0156",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

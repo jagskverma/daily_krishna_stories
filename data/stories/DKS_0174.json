@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0174",
+ "title": "Muchukunda's Story",
+ "subtitle": "Muchukunda, an Ikshvaku king who once guarded the gods against the asuras, was granted deep sleep as his reward.",
+ "story": "The man who had been asleep for ages sat up in the darkness of the cave, and waking felt like being born. A king had kicked him awake a moment before, and that king was gone; all that remained of him was a heap of ashes on the floor. A young man stood watching, Krishna, of the Yadavas, the one who had led the angry king to this cave. For a long moment neither of them spoke, and Muchukunda understood, without being told, that this was not the man who had kicked him.\n\nThis was Muchukunda, son of Mandhata, of the line of Ikshvaku, a king of an age so old that it had passed away while he slept. The story of how he came to sleep through the ruin of his own world began in heaven, in a war.\n\nLong ago, when the gods fought the asuras, their ancient enemies, the hosts of heaven led by Indra asked this mortal king to stand guard for them. They chose him because he was strong, and because a king of the Ikshvaku line, once he gave his word, kept it. Muchukunda fought for the gods and guarded them through battles longer than the lives of ordinary men.\n\nWhen the war was over, the gods came to release him. They met him at the mouth of the cave, Indra and the hosts of heaven, and told him the truth gently, the way one tells a friend something hard. The world he had left was gone. His kingdom no longer waited for him; its enemies were cut down, and there was nothing left for a warrior king to defend. His sons, his queens, his kinsmen, his ministers and his counselors were all scattered or sleeping. \"Time is stronger than the strong,\" they said. \"The Lord of all stands beyond even time, and nothing can stand against him.\"\n\nThen they offered him the boon they had promised. \"Choose whatever you wish,\" they said, \"and good go with you. Ask anything except final release from the turning of birth and death, for that is not ours to give.\"\n\nA man who has guarded heaven, and come home to find his whole world gone, may ask for anything. Muchukunda bowed to the gods, and he asked for sleep.\n\nNot the sleep of a night, or even of a season. He asked to lie down in the earth and sleep without waking, undisturbed, until the proper time came round for him to wake. The gods granted it, and Muchukunda, son of Mandhata, the king who had guarded heaven, lay down in the cave and slept.\n\nAnd he slept. The years turned to ages, and the ages turned to whole eras of the world. Kingdoms rose and fell; Mathura was besieged and delivered; kings who found their way into his cave and disturbed his rest burned to ash at his feet. Through all of it Muchukunda lay in the dark, breathing slowly, dreaming of nothing, waiting for a time he had not been told about.\n\nNow he was awake. He sat in the cave with the ashes of a king before him and a young man with a quiet face standing in the dark, and he understood, without being told, that the one who had woken him was not the one who had kicked him.\n\nHe opened his mouth to ask who the stranger was.",
+ "reflection": "Muchukunda chose sleep when he could have chosen anything — a king who had spent his strength guarding heaven asking only to rest until the world needed him again. The boon he took was patience itself, a waiting for the right time.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Muchukunda",
+  "Indra",
+  "Krishna"
+ ],
+ "locations": [
+  "Muchukunda's cave"
+ ],
+ "themes": [
+  "service",
+  "reward",
+  "time"
+ ],
+ "previous_story_id": "DKS_0173",
+ "next_story_id": "DKS_0175",
+ "next_story_tease": "When Muchukunda finally opened his eyes, he found Krishna standing before him.",
+ "hero_scene": "Muchukunda lying down to sleep in the mouth of the mountain cave while the ages prepare to pass over him; behind him the gods of heaven fade into the light, and the dark of the cave swallows the sleeping king.",
+ "visual_elements": [
+  "Muchukunda lying down in the cave",
+  "the gods of heaven receding into light",
+  "the dark mouth of the cave",
+  "ages of time passing invisibly",
+  "stillness and waiting"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.51.12-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:57Z",
+  "source_event_id": "evt_0235",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

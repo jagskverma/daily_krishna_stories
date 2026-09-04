@@ -1,0 +1,40 @@
+# STORY DKS_0073 — Kaliya Coils Around Krishna and Vraja Despairs
+
+## Index entry
+title: Kaliya Coils Around Krishna and Vraja Despairs
+summary: Kaliya coils around Krishna and holds him motionless in the depths, while the cowherds, cows and all of Gokula rush to the bank in grief.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Kaliya, Krishna, cowherds, Nanda, gopis
+locations: Yamuna river
+themes: peril, grief
+festival_tags: Naga Panchami
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0070
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 16 | verses 8-20 | confidence 5
+  excerpt: The serpent Kaliya winds his coils about Krishna and holds him in the water; seeing their beloved gripped by the snake, the whole of Vraja, with Nanda and the gopis, comes wailing to the bank. (rendered from Sanskrit, verse 8-20)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.16 (8-20)
+8. taṃ prekṣaṇīya-sukumāra-ghanāvadātaṃ $ śrīvatsa-pīta-vasanaṃ smita-sundarāsyam &taṃ prekṣaṇīya-sukumāra-ghanāvadātaṃ $ śrīvatsa-pīta-vasanaṃ smita-sundarāsyam &krīḍantam apratibhayaṃ kamalodarāṅghriṃ % sandaśya marmasu ruṣā bhujayā cachāda
+9. taṃ nāga-bhoga-parivītam adṛṣṭa-ceṣṭam $ ālokya tat-priya-sakhāḥ paśupā bhṛśārtāḥ &taṃ nāga-bhoga-parivītam adṛṣṭa-ceṣṭam $ ālokya tat-priya-sakhāḥ paśupā bhṛśārtāḥ &kṛṣṇe 'rpitātma-suhṛd-artha-kalatra-kāmā % duḥkhānuśoka-bhaya-mūḍha-dhiyo nipetuḥ
+10. gāvo vṛṣā vatsataryaḥ krandamānāḥ su-duḥkhitāḥ /
+11. atha vraje mahotpātās tri-vidhā hy ati-dāruṇāḥ /
+12. tān ālakṣya bhayodvignā gopā nanda-purogamāḥ /
+13. tair durnimittair nidhanaṃ matvā prāptam atad-vidaḥ /
+14. ā-bāla-vṛddha-vanitāḥ sarve 'ṅga paśu-vṛttayaḥ /
+15. tāṃs tathā kātarān vīkṣya bhagavān mādhavo balaḥ /
+16. te 'nveṣamāṇā dayitaṃ kṛṣṇaṃ sūcitayā padaiḥ /
+17. te tatra tatrābja-yavāṅkuśāśani- dhvajopapannāni padāni viś-pateḥ /
+18. antar hrade bhujaga-bhoga-parītam ārāt $ kṛṣṇaṃ nirīham upalabhya jalāśayānte &amp;gopāṃś ca mūḍha-dhiṣaṇān paritaḥ paśūṃś ca % saṅkrandataḥ parama-kaśmalam āpur ārtāḥ
+19. gopyo 'nurakta-manaso bhagavaty anante $ tat-sauhṛda-smita-viloka-giraḥ smarantyaḥ &gopyo 'nurakta-manaso bhagavaty anante $ tat-sauhṛda-smita-viloka-giraḥ smarantyaḥ &graste 'hinā priyatame bhṛśa-duḥkha-taptāḥ % śūnyaṃ priya-vyatihṛtaṃ dadṛśus tri-lokam
+20. tāḥ kṛṣṇa-mātaram apatyam anupraviṣṭāṃ $ tulya-vyathāḥ samanugṛhya śucaḥ sravantyaḥ &tāḥ kṛṣṇa-mātaram apatyam anupraviṣṭāṃ $ tulya-vyathāḥ samanugṛhya śucaḥ sravantyaḥ &tās tā vraja-priya-kathāḥ kathayantya āsan % kṛṣṇānane 'rpita-dṛśo mṛtaka-pratīkāḥ
+
+## Corpus chain
+previous_story_id: DKS_0072 | next_story_id: DKS_0074
+previous title: Krishna Leaps into Kaliya's Poisoned Pool
+next title: Krishna Dances on Kaliya's Heads

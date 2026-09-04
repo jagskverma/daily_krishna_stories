@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0469",
+ "title": "The Field of Fallen Kings",
+ "subtitle": null,
+ "story": "The great war between the five Pandava brothers and their cousins, the Kauravas, was in its second week at Kurukshetra, and that evening Krishna drove Arjuna's chariot back across the field of battle. Krishna had come to the war to be Arjuna's charioteer and guide, and Arjuna, the greatest bowman of the five brothers, sat beside him. The sun was gone. What light remained was grey and spent, and under it the plain lay covered with the work of a single day of war.\n\nThat morning the same ground had been loud — conches and war cries, the thunder of chariot wheels, the long war drums. Now it was quiet in a way that pressed on the ears, and the quiet had its own kind of noise. Dust still hung in the air where the fighting had been thickest. A stray horse stood over its fallen rider, not knowing where to go, and here and there a chariot lay on its side. The field had become a place that answered no one.\n\nKrishna spoke, and as he spoke he pointed. \"See them,\" he said. \"Kings who came to this field wanting one of two things — victory in battle, or a fame that would carry their names across the world. There they lie, struck down by your arrows. And the great elephants and the horses too, struck again and again, still shuddering on the ground.\"\n\nArjuna followed the pointing hand. The kings lay where they had fallen — kings of great kingdoms and of small ones alike — and the field had settled both their desires in the same dust. Krishna did not hurry him past any of it. The counting, his outstretched hand seemed to say, was finished: every warrior who had ridden out that morning was being accounted for in the dust.\n\nArjuna's arrows had done this from a distance — shaft after shaft loosed at moving shapes, at chariots and banners and men. From the chariot's platform it had been a task, a line of targets. Here, at walking pace, it wore a different shape, and Krishna was not letting him look away from it.\n\nHe did not ask why Krishna was showing him this. Perhaps he understood without asking. Victory, seen close, is not a banner raised over a field; it is a field full of the men who came to win, or to be remembered. Krishna had made him look at the whole of the day before the night could cover it.\n\n\"A deed that brings a man fame on the field of battle,\" Krishna said then, \"could have been done by you alone.\" The praise came in the same breath as the pointing, and in Krishna's telling the two belonged together: the deed and its cost, the glory and the ground it lay on.\n\nArjuna said nothing. The wheels turned, and the chariot picked its way between the fallen. Behind them the grey field kept its count in the darkness. Ahead, out of the night, the war was still waiting.",
+ "reflection": "Krishna shows Arjuna the field not to humble him but to make the victory honest: the same hand that points at the fallen kings names the deed as one only Arjuna could have done. Praise and price are held together, and that is what turns triumph into reflection.",
+ "tradition_note": null,
+ "content_note": "Describes a battlefield strewn with the slain, including elephants and horses; handled without gore.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "reflection",
+  "cost of war",
+  "guidance"
+ ],
+ "previous_story_id": "DKS_0468",
+ "next_story_id": "DKS_0470",
+ "next_story_tease": "But that night, Drona and Karna fell upon the broken Pandava host.",
+ "hero_scene": "Krishna's chariot rides slowly through the dusk-covered field; Krishna points with one outstretched hand across the fallen kings, elephants and horses lying struck in the dust, while Arjuna follows his gaze in silence.",
+ "visual_elements": [
+  "the chariot picking its way across the field at dusk",
+  "fallen kings lying where they fell, weapons beside them",
+  "great elephants and horses convulsing on the ground, struck with shafts",
+  "Krishna's outstretched pointing hand",
+  "Arjuna following the pointing hand in silence",
+  "grey, spent light over the plain"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.147",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:09Z",
+  "source_event_id": "evt_0463",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

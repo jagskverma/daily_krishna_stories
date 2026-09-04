@@ -1,0 +1,42 @@
+# STORY DKS_0137 — The Citizens Rejoice in the Arena
+
+## Index entry
+title: The Citizens Rejoice in the Arena
+summary: Entering with the tusk as weapon, Krishna delights the people, who recount his deeds as Narayana and Rama.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: citizens, Krishna, Balarama
+locations: Mathura arena
+themes: rejoicing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0140
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 43 | verses 16-30 | confidence 5
+  excerpt: Entering the arena with the elephant's tusk as his weapon, Krishna delighted the people, who recounted his deeds to one another, saying these two were Narayana and Rama descended in Vasudeva's house. (rendered from Sanskrit, verses 16-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.43 (16-30)
+16. mallānām aśanir nṛṇāṃ nara-varaḥ strīṇāṃ smaro mūrtimān $ gopānāṃ sva-jano 'satāṃ kṣiti-bhujāṃ śāstā sva-pitroḥ śiśuḥ &amp;mṛtyur bhoja-pater virāḍ aviduṣāṃ tattvaṃ paraṃ yogināṃ % vṛṣṇīnāṃ para-devateti vidito raṅgaṃ gataḥ sāgrajaḥ
+17. hataṃ kuvalayāpīḍaṃ dṛṣṭvā tāv api durjayau /
+18. tau rejatū raṅga-gatau mahā-bhujau vicitra-veṣābharaṇa-srag-ambarau /
+19. nirīkṣya tāv uttama-pūruṣau janā mañca-sthitā nāgara-rāṣṭrakā nṛpa /
+20. pibanta iva cakṣurbhyāṃ lihanta iva jihvayā /
+21. ūcuḥ parasparaṃ te vai yathā-dṛṣṭaṃ yathā-śrutam /
+22. etau bhagavataḥ sākṣād dharer nārāyaṇasya hi /
+23. eṣa vai kila devakyāṃ jāto nītaś ca gokulam /
+24. pūtanānena nītāntaṃ cakravātaś ca dānavaḥ /
+25. gāvaḥ sa-pālā etena dāvāgneḥ parimocitāḥ /
+26. saptāham eka-hastena dhṛto 'dri-pravaro 'munā /
+27. gopyo 'sya nitya-mudita- hasita-prekṣaṇaṃ mukham /
+28. vadanty anena vaṃśo 'yaṃ yadoḥ su-bahu-viśrutaḥ /
+29. ayaṃ cāsyāgrajaḥ śrīmān rāmaḥ kamala-locanaḥ /
+30. janeṣv evaṃ bruvāṇeṣu tūryeṣu ninadatsu ca /
+
+## Corpus chain
+previous_story_id: DKS_0136 | next_story_id: DKS_0138
+previous title: Krishna Slays the Elephant Kuvalayapida
+next title: Chanura Challenges Krishna and Balarama

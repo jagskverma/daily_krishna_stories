@@ -1,0 +1,70 @@
+{
+ "id": "DKS_0523",
+ "title": "The Yadava Fratricide at Prabhasa",
+ "subtitle": null,
+ "story": "Evening was coming down over the shore at Prabhasa, where the Yadavas had gathered to drink, and the sea lay calm beyond them. What came over them there had been waiting for them a long time. A brahmin's curse lay on the house: the day would come when the proud clan would turn on one another. Krishna knew it and had accepted it long ago. He did not stand in its way, for the hour had come.\n\nThey drank the maireya wine, and their minds were overthrown. As they drank, the destructive flame of dissension was kindled among them, and the proud heroes, their wits deranged, fell upon one another. Pradyumna turned on Samba, Akrura on Bhoja, Aniruddha on Satyaki; Gada and Sumitra and Suratha closed on one another, Subhadra on Sangramajit, and Nishatha and Ulmuka and Sahasrajit and Satajit and Bhanu. The Dasharhas and the Vrishnis and the Andhakas and the Bhojas and the Satvatas, all one family, forgot that they were one. Banners fell, and chariots and elephants careered into one another. Fathers fought sons, brothers fought brothers; sisters' sons and daughters' sons fell upon their uncles. Old friends who had once eaten from one plate fought one another.\n\nThere was a strangeness over it all. These were men who had grown up together and fought beside one another, and yet each now saw an enemy in the other's face. Some of them, in their madness, even took Balarama for an enemy. The wine was only part of it; something older and heavier was at work, completing itself, a veil drawn over their minds. And Krishna watched it without moving to stop it.\n\nIn the midst of the assembly, the drunken Satyaki laughed at Kritavarma and taunted him: what Kshatriya, he said, would slay men locked in the embraces of sleep, and therefore already dead? Then he rushed at Kritavarma and cut him down with a sword in the very sight of Krishna.\n\nThe quarrel spread through the whole clan. When their arrows were spent and their bows broke in their hands, they did not stop. They snatched up the eraka reeds that grew along the shore, innocent green things at the water's edge that no one had looked at twice, and in their hands the reeds became bars of iron, hard as thunderbolts, and they struck one another down with them. Son killed sire, and sire killed son. Uddhava, who watched it happen, remembered afterward how, as the sun went down, there had been among them a crushing of one another, like reeds.\n\nBalarama took no part in any of it. He walked down to the ocean's edge, seated himself, entered into yoga, and there, quietly, he yielded up his body.\n\nWhen the noise died, in a short time there was almost no one left alive of the Yadava race, only Krishna and his charioteer Daruka. The curse had run its course, and the sea kept its own counsel.",
+ "reflection": "The account offers no villain, only a doom arriving on time. What stays in the mind is the weapon: the reeds at their own feet, which become iron the moment they are taken up, as though the earth itself had been waiting to hand them the means.",
+ "tradition_note": "In the Mahabharata's telling, Krishna himself, seeing his son and the son of Sini slain, takes up a handful of the eraka grass and strikes down those before him. The Bhagavata Purana, followed here, keeps Krishna as witness and leaves only him and his charioteer alive.",
+ "content_note": "Kinsmen turn on one another and are destroyed; the violence is described with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "later_life",
+ "story_arc": "end_of_yadavas",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "the Yadavas"
+ ],
+ "locations": [
+  "Prabhasa"
+ ],
+ "themes": [
+  "destruction",
+  "drunkenness",
+  "curse",
+  "fratricide"
+ ],
+ "previous_story_id": "DKS_0511",
+ "next_story_id": "DKS_0530",
+ "next_story_tease": "One end remained, and a hunter's arrow was already on its way.",
+ "hero_scene": "Yadava warriors turning on one another along the shore at Prabhasa, seizing the eraka reeds that have become iron clubs, while Balarama sits apart at the ocean's edge in deep meditation.",
+ "visual_elements": [
+  "the Yadavas",
+  "Krishna",
+  "Balarama",
+  "eraka reeds turning to iron clubs",
+  "seashore at Prabhasa",
+  "broken bows and spent arrows",
+  "sunset",
+  "tragic, fateful"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.30.11-25",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.4.1",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.37",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.3",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0006"
+ },
+ "editorial_status": "unreviewed"
+}

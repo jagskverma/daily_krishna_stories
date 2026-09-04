@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0164",
+ "title": "Krishna Proposes Slaying Jarasandha as Prelude to the Rajasuya",
+ "subtitle": null,
+ "story": "Yudhishthira, the eldest of the five Pandava princes, had set his heart on the Rajasuya — the great sacrifice by which a king declared himself sovereign over the other kings of the earth. But one obstacle stood between him and that sacrifice, and the obstacle could not be conquered in battle: Jarasandha, king of Magadha, whose strength no army had yet broken.\n\nIn Yudhishthira's hall, Krishna — his cousin and most trusted adviser — spoke of him plainly. Jarasandha had lost Hansa and Dimvaka, the two great champions who had stood beside him, and Kamsa, the Mathura king who had married into his house, was dead with all his followers. The time had come, Krishna said, to destroy Jarasandha himself. Yet he was not a king who could be overcome in open war — even all the gods and the demons together could not conquer him in battle. There was one way he could be beaten: a personal struggle, man against man, with bare arms.\n\n\"In me is policy,\" said Krishna, \"in Bhima is strength, and in Arjuna is triumph. So let us achieve the destruction of the king of Magadha as the prelude to the Rajasuya. If we three approach him secretly, he will surely meet one of us in combat; and from fear of disgrace, from greed, and from pride in his own strength, he will call Bhima to the fight. Then Bhima, mighty-armed, will end him the way death ends a man however swollen with pride. If you know my heart,\" he said to Yudhishthira, \"if you have any faith in me, hand over Bhima and Arjuna to me as a pledge, and lose no time.\"\n\nYudhishthira looked at his two brothers, who stood with cheerful faces, and answered. \"Say not so. You are the lord of the Pandavas; we depend on you, and what you advise is wise counsel.\" The man who stood under Krishna's command, he said, could already count Jarasandha as slain, the captive kings as set free, and the Rajasuya as accomplished. Then he spoke of leadership itself: troops under a good leader do excellent service, while a force without one is inert; wise men lead water into low fields where it will do its work, and fishermen drain a tank by opening a hole at the right point. So, he said, let Krishna go before them — he whose strength is wisdom — let Arjuna follow Krishna, and Bhima follow Arjuna; and policy, good fortune, and might would carry the enterprise through.\n\nSo the three set out for Magadha, dressed as brahmanas — the holy men who live by study and prayer — so that they could approach the king without being known. Friends and kinsmen sent them off with blessings. As for the people who saw them pass, they looked at Krishna and Arjuna, never once defeated in battle, with Bhima at their head, and said that Jarasandha was as good as slain.\n\nTheir road ran long. They passed from the country of the Kurus through Kuru-jangala and by a lake of lotuses, crossed the hills of Kalakuta and the rivers Gandaki, Sadanira, and Sarkaravarta, forded the delightful Sarayu, and saw the country of Eastern Kosala. From there they went on to Mithila, crossed the Mala and the Charamanwati, then the Ganges and the Sone, and came at last to Magadha, in the heart of the land of Kushamva. Climbing the hills of Goratha, they looked down on the city of Magadha, always filled with cattle, wealth, and water, and handsome with its numberless dwellings — the stronghold of the man they had come to meet. Three brahmanas stood at the edge of the enemy's country with nothing but their bare arms, and the great enterprise lay spread below them.",
+ "reflection": "Krishna's plan rested on reading Jarasandha's character: a king certain that no weapon can harm him will still step down to meet bare arms, summoned by his own pride. Policy, strength, and triumph each had a man assigned to it, as if the victory were already divided into its parts before the journey even began.",
+ "tradition_note": "The Bhagavata Purana (10.71) presents this same plan as Uddhava's counsel to Krishna rather than Krishna's own proposal; the Mahabharata version, followed here, attributes it to Krishna himself.",
+ "content_note": null,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna",
+  "Jarasandha",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Magadha"
+ ],
+ "themes": [
+  "strategy",
+  "counsel",
+  "valour"
+ ],
+ "previous_story_id": "DKS_0163",
+ "next_story_id": "DKS_0165",
+ "next_story_tease": "In Girivraja, the three disguised Brahmanas would announce themselves in a way no one expected.",
+ "hero_scene": "Krishna, Bhima, and Arjuna in the simple garb of Snataka Brahmanas standing on the hills of Goratha, looking down across the wide, cattle-rich plains at the great walled city of Magadha in the distance.",
+ "visual_elements": [
+  "Krishna, Bhima, and Arjuna as disguised Brahmanas",
+  "the hills of Goratha",
+  "the distant walled city of Magadha",
+  "rivers and country crossed on the long journey",
+  "determination and strategy",
+  "the Rajasuya as the distant prize"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:01Z",
+  "source_event_id": "evt_0391",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5
+}

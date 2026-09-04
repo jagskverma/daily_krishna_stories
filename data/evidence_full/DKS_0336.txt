@@ -1,0 +1,39 @@
+# STORY DKS_0336 — Mayavati (Rati) Rescues and Raises Pradyumna || A fish swallows the infant; a cook finds him, and Mayavati, who is Rati, recognizes Kama reborn and raises him as her own.
+
+## Index entry
+title: Mayavati (Rati) Rescues and Raises Pradyumna || A fish swallows the infant; a cook finds him, and Mayavati, who is Rati, recognizes Kama reborn and raises him as her own.
+summary: A fish swallows the infant; a cook finds him, and Mayavati, who is Rati, recognizes Kama reborn and raises him as her own.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Pradyumna, Mayavati, Rati
+locations: Shambara's palace
+themes: providence, identity, love
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0242
+variant_notes: Cross-ref: Shambara-stole cluster (bp10c_024); Harivamsha expands (hv_b2_042-047).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 55 | verses 3-14 | confidence 5
+  excerpt: A great fish swallowed the infant and was caught by fishermen and given to Shambara; the cook found the child in its belly and gave him to Mayavati, who — being Rati, Kama's wife — knew him and raised him, later revealing he was Krishna's son and her own destined husband. (rendered from Sanskrit, verses 3-14)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.55 (3-14)
+3. taṃ nirjagāra balavān mīnaḥ so 'py aparaiḥ saha /
+4. taṃ śambarāya kaivartā upājahrur upāyanam /
+5. dṛṣṭvā tad-udare bālam māyāvatyai nyavedayan /
+6. sā ca kāmasya vai patnī ratir nāma yaśasvinī /
+7. nirūpitā śambareṇa sā sūdaudana-sādhane /
+8. nāti-dīrgheṇa kālena sa kārṣṇi rūḍha-yauvanaḥ /
+9. sā tam patiṃ padma-dalāyatekṣaṇaṃ pralamba-bāhuṃ nara-loka-sundaram /
+10. tām aha bhagavān kārṣṇir mātas te matir anyathā /
+11. bhp_10.55.012/0 ratir uvāca
+12. eṣa tvānirdaśaṃ sindhāv akṣipac chambaro 'suraḥ /
+13. tam imaṃ jahi durdharṣaṃ durjayaṃ śatrum ātmanaḥ /
+14. parīśocati te mātā kurarīva gata-prajā /
+
+## Corpus chain
+previous_story_id: DKS_0335 | next_story_id: DKS_0337
+previous title: Shambara Steals the Infant Pradyumna
+next title: Pradyumna Slays Shambara

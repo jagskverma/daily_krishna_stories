@@ -1,0 +1,70 @@
+# STORY DKS_0456 — Arjuna's Despair and Collapse
+
+## Index entry
+title: Arjuna's Despair and Collapse
+summary: Seeing his kinsmen arrayed on both sides, Arjuna is overcome with pity, his bow Gandiva slips from his hand, and he casts aside his weapons and sinks down on his chariot.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Arjuna, Krishna
+locations: Kurukshetra
+themes: despair, compassion, moral crisis
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0453
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 6 | chapter/section 25 | verses  | confidence 4
+  excerpt: Beholding all those kinsmen standing (there), the son of Kunti, possessed by excessive pity, despondingly said... 'My body trembles, and my hair stands on end. Gandiva slips from my hand, and my skin burns... I wish not to slay these though they slay me, O slayer of Madhu...' Having spoken thus on the field of battle, Arjuna, his mind troubled with grief, casting aside his bow and arrows, sat down
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 6.25 ()
+[(Bhagavad Gita Chapter I)]
+
+([This where is the Bhagavad Gita proper starts. I have added the chapter
+headings to aid in comparison with other translations, they are not part
+of the original Ganguli text.--John Bruno Hare])
+
+Dhritarashtra said,--“Assembled together on the sacred plain of
+Kurukshetra from desire of fighting what did my sons and the Pandavas do,
+O Sanjaya.”
+
+Sanjaya said,--“Beholding the army of the Pandavas arrayed, king
+Duryodhana, approaching the preceptor (Drona) said these words: ‘Behold, O
+preceptor, this vast army of the son of Pandu, arrayed by Drupada’s son
+(Dhrishtadyumna), thy intelligent disciple. There (in that army) are many
+brave and mighty bowmen, who in battle are equal to Bhima and Arjuna.
+(They are) Yuyudhana, and Virata, and that mighty car-warrior Drupada,
+and Dhrishtaketu, and Chekitana, and the ruler of Kasi endued with great
+energy; and Purujit, and Kuntibhoja, and Saivya that bull among men; and
+Yudhamanyu of great prowess, and Uttamaujas of great energy; and
+Subhadra’s son, and the sons of Draupadi, all of whom are mighty
+car-warriors. Hear, however, O best of regenerate ones, who are the
+distinguished ones among us, the leaders of the army. I will name them to
+thee for (thy) information. (They are) thyself, and Bhishma, and Karna, and
+Kripa who is ever victorious; and Aswatthaman and Vikarna, and
+Saumadatta, and Jayadratha.[124] Besides these, are many heroic warriors,
+prepared to lay down their lives for my sake, armed with diverse kinds of
+weapons, and all accomplished in battle. Our army, therefore, protected
+by Bhishma, is insufficient. This force, however, of these (the
+Pandavas), protected by Bhima, is sufficient.[125] Stationing yourselves
+then in the entrances of the divisions that have been assigned to you,
+all of you protect Bhishma alone.’--(Just at this time) the valiant and
+venerable grandsire of the Kurus, affording great joy to him (Duryodhana)
+by loudly uttering a leonine roar, blew (his) conch. Then conches and
+drums and cymbals and horns were sounded at once and the noise (made)
+became a loud uproar. Then Madhava and Pandu’s son (Arjuna), both
+stationed on a great car unto which were yoked white steeds, blew their
+celestial conches. And Hrishikesa blew (the conch called) Panchajanya
+and Dhananjaya (that called) Devadatta; and Vrikodara of terrible deeds
+blew the huge conch (called) Paundra. And Kunti’s son king Yudhishthira
+blew (the conch called) Anantavijaya; while Nakula and Sahadeva, (those
+conches called respectively) Sughosa and Manipushpaka.[126] And that
+splendid bowman, the ruler of Ka
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0441 | next_story_id: DKS_0458
+previous title: Krishna Reveals Karna's Birth and Offers Him the Kingdom
+next title: Krishna Grants Celestial Sight and Reveals the Vishvarupa

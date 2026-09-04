@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0280",
+ "title": "Paundraka Demands Krishna's Insignia",
+ "subtitle": null,
+ "story": "In the kingdom of Karusha there lived a king who came to believe he was God.\n\nIt happened slowly, the way such things usually do. Paundraka's courtiers called him Vasudeva — the Lord descended to earth — and he liked the sound of it. Priests who wanted his favour agreed that he was the one Lord, that there was no other. One by one the voices of flattery closed around him, until the king lost all memory of his real self and accepted the title as simply true. He was Vasudeva, and in his own mind the whole world existed for his sake.\n\nThere was one difficulty, and it grew larger the longer he thought about it. The real Vasudeva was alive, and he wore the marks of the Lord openly, in the city of Dwaraka. Those marks — the discus, the conch, the other divine signs that the true Lord alone should carry — had become Paundraka's obsession. In his mind they belonged to him and to him alone, and that a Yadava prince named Krishna walked about bearing them was an insult too great to be endured. And so the king of Karusha did what any king certain of his own divinity would do: he sent a messenger to Dwaraka with a demand.\n\nThe journey was long, but the messenger made it in haste, and the demand lost nothing in the carrying. He entered Krishna's assembly, where the chiefs of the Yadavas sat with their lord, and delivered his master's words without flinching. Paundraka, king of Karusha, was Vasudeva, the one descended Lord; there was no other. The divine marks Krishna wore were Paundraka's, worn out of folly. Let Krishna give them up, surrender the name of Vasudeva and the character that went with it, and come to Karusha to do homage — and he would be given the means to live.\n\nThere is no gracious way to receive such a message, and the Yadavas did not try to find one. They laughed until the hall rang, at the thought of the king of Karusha demanding that Krishna hand over the signs of the Lord.\n\nKrishna answered with a smile. “Go back to your master,” he said, “and tell him the discus is already on its way to him. I will hurl these very signs at the fool and slay him, and his face will soon lie covered by cranes and vultures.”\n\nThe messenger bowed and carried the reply back to Karusha — the whole of it, every word, with nothing softened. And Paundraka, who had been waiting for good news, heard the message out in silence. He had been certain of his own divinity, and the thought that the demand might be refused had never once crossed his mind. That was the nature of his delusion: it left no room for the possibility that the embassy had been absurd from the first word.\n\nIn the assembly of Dwaraka the laughter died slowly, and the chiefs of the Yadavas sat looking at their lord, because everyone in that hall knew that Krishna's promises were not the sort that fail. The discus would go to Karusha. The fool would meet it. The only question was when.",
+ "reflection": "The comedy of the episode is also its point: Paundraka asked Krishna to surrender the very marks that made him what he claimed to be. Divinity demanded as tribute reveals itself as costume, and the laughter of the assembly is the story's honest verdict on borrowed glory.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Paundraka",
+  "Krishna"
+ ],
+ "locations": [
+  "Karusha",
+  "Dwaraka"
+ ],
+ "themes": [
+  "false pride",
+  "imposture",
+  "challenge"
+ ],
+ "previous_story_id": "DKS_0279",
+ "next_story_id": "DKS_0281",
+ "next_story_tease": "But the discus Krishna promised the messenger was already on its way — the impostor's borrowed glory was about to meet its end.",
+ "hero_scene": "Paundraka's messenger stands before Krishna's assembly in Dwaraka, delivering his king's demand with an outstretched hand, while the court of the Yadavas breaks into laughter around them and Krishna answers with a smile.",
+ "visual_elements": [
+  "Krishna",
+  "Paundraka's messenger",
+  "the assembly of the Yadavas",
+  "Karusha",
+  "Dwaraka",
+  "the divine insignia",
+  "laughter",
+  "challenge"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.66.1-9",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:41Z",
+  "source_event_id": "evt_0254",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

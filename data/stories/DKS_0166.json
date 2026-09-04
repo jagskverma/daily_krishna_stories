@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0166",
+ "title": "Krishna Speaks for the Silent Disguised Brothers",
+ "subtitle": null,
+ "story": "The three strangers in the robes of brahmanas, the priestly holy men of the land, had come to the court of Girivraja with a purpose no one there knew: Krishna and the Pandava princes, his cousins Bhima and Arjuna, had entered the king's city in disguise to free the rulers Jarasandha of Magadha held captive there, or to bring him down in combat. And Jarasandha, who had received countless guests in his long reign, did everything a host should do. He rose in haste when the three were brought before him; he gave them water for their feet, honey and the offerings of welcome, gifts of cattle, and every honour his court could offer. \"You are welcome,\" said the great king.\n\nAnd his two younger guests said nothing at all.\n\nThe king had come to this meeting in a season of ill omens. The learned brahmanas of Girivraja had seen evil signs and reported them to him; to ward the evils off, Jarasandha had begun a sacrifice with vows and fasts, while his priest made him mount an elephant and walked about him whirling lighted brands. The holy hill of his fathers had been torn down at his gate — the omen on every tongue — and now three strangers stood in his hall where the trouble had arrived, and one of them was about to speak for all three.\n\nThe moment stretched. These were no ordinary holy men. They had walked the public road of the capital as though the city were already theirs — past shops heavy with every sort of ware, snatching garlands from the flower-vendors as they went. The people of Magadha had drawn back from the size of them: heroes built like elephants, with necks broad as tree trunks and wide chests, their arms smelling of sandal paste. Through three gates crowded with men they had come, proud and cheerful, to the king. Now they stood before him, and his welcome had fallen into a silence he had not expected.\n\nKrishna spoke for the three. \"Great king,\" he said, \"these two are bound by a vow. Therefore they will not speak. They will remain silent until midnight, and after that hour they will speak with you.\"\n\nThe explanation was simple and complete. The king had received guests who could not answer him — not a single word until the night hour when their vow released them. Whatever Jarasandha wished to ask — who these men were, where they had come from, what errand had brought them to the capital of Magadha — would have to wait on the guests themselves. Until then they were simply guests under his roof, owing him nothing but their presence while the night ran down.\n\nThe court of Girivraja settled into waiting. The welcome had been given, the vow had spoken for the two silent men, and the first true words between Jarasandha and the strangers would come only when midnight released them.",
+ "reflection": "A vow of silence was a clever shield: it let Krishna's party enter the enemy's court, accept its honours, and give away nothing — not a word, not a name — until the hour they themselves chose. Jarasandha's hospitality was turned into a waiting game, and the waiting belonged to the host.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Jarasandha",
+  "Bhima",
+  "Arjuna"
+ ],
+ "locations": [
+  "Girivraja"
+ ],
+ "themes": [
+  "disguise",
+  "cunning",
+  "etiquette"
+ ],
+ "previous_story_id": "DKS_0165",
+ "next_story_id": "DKS_0167",
+ "next_story_tease": "When midnight came, Jarasandha would question the strangers about their disguise.",
+ "hero_scene": "In the court of Girivraja, Jarasandha stands with raised arms in welcome while two silent, garlanded Brahmana guests stand motionless beside Krishna, who alone speaks, addressing the king — the whole court held in the tension of the unexplained silence.",
+ "visual_elements": [
+  "Jarasandha's court in Girivraja",
+  "Krishna speaking while Bhima and Arjuna stand silent",
+  "the trio's bright robes, garlands, and ear-rings",
+  "the water, honey, and Arghya of the welcome",
+  "the waiting court",
+  "suspense and disguise"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.21",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:01Z",
+  "source_event_id": "evt_0393",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

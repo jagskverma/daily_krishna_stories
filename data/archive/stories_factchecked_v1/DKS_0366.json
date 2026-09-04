@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0366",
+ "title": "Krishna's Wedding Gifts",
+ "subtitle": null,
+ "story": "After the wedding, the fear left Drupada entirely; the king of Panchala no longer stood in fear even of the gods, for his daughter was married into a line that the world believed dead, and all that had seemed lost to his house had returned in a single season. The ladies of his household went to Kunti and worshipped her feet, naming themselves one by one, and Draupadi, attired in red silk with the auspicious thread still encircling her wrists, saluted her mother-in-law with reverence and stood before her with joined palms.\n\nKunti looked at her daughter-in-law and blessed her. \"Be thou unto thy husband as Sachi unto Indra, Swaha unto Vibhavasu, Rohini unto Soma, Damayanti unto Nala, Arundhati unto Vasishtha, Lakshmi unto Narayana,\" she said. \"Be thou the mother of long-lived and heroic children, and be installed as the queen of the kingdom and capital of Kurujangala with thy husband Yudhishthira the just. And as I rejoice today beholding thee attired in red silk, so shall I rejoice again when I behold thee the mother of a son.\"\n\nThen the gifts began to arrive, and the courtyards of Drupada's palace slowly filled. After the sons of Pandu had been married, Krishna sent unto them presents: various gold ornaments set with pearls and black gems, lapis lazuli; costly robes manufactured in various countries; beautiful and soft blankets, and hides of great value; costly beds and carpets and vehicles; vessels by the hundreds, set with gems and diamonds; female servants by the thousands, brought from various countries, endued with beauty, youth, and accomplishments, and decked with every ornament; well-trained elephants brought from the country of Madra; excellent horses in costly harness; and cars drawn by horses of excellent colours and large teeth. And the slayer of Madhu, of immeasurable soul, sent them coins of pure gold by crores upon crores, laid out in separate heaps.\n\nIt was a royal fortune, sent to men who had come to Panchala with nothing but their bows and their disguises — the wealth of an alliance declared openly, at last, after years of hiding. The brothers who had escaped a burning house and begged their bread as Brahmins stood among mountains of gold and gifts sent by a cousin who had recognised them in a crowd and never once said their names aloud. Gift followed gift, and still the heaps of gold stood apart, each mound its own small treasury.\n\nAnd Yudhishthira the just, desirous of gratifying Govinda, accepted all those presents with great joy — taking them as they were meant: not payment, not dowry, but the welcome of one house laid at the feet of another, and a promise that the hidden princes would not be hidden much longer.",
+ "reflection": "The catalogue of gifts is almost excessive — gold by crores, servants by thousands — yet the source records no message sent with them, only the presents themselves. The wealth says what Krishna cannot say aloud in a hall of spies: these are my people. And Yudhishthira's joy in accepting, desirous of gratifying Govinda, completes the exchange — the pleasure of receiving is itself the gift returned.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Draupadi",
+  "Kunti"
+ ],
+ "locations": [
+  "Panchala"
+ ],
+ "themes": [
+  "generosity",
+  "alliance",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0365",
+ "next_story_id": "DKS_0367",
+ "next_story_tease": "But Krishna knew the brothers could not stay hidden forever — and he would soon counsel them toward a kingdom of their own.",
+ "hero_scene": "A courtyard of Drupada's palace filling with wedding gifts: separate heaps of pure gold coins, chests of ornaments set with pearls and lapis lazuli, rolls of costly cloth, vessels sparkling with gems, and a line of elephants from Madra — while Yudhishthira receives them with joined palms and a smile of joy.",
+ "visual_elements": [
+  "heaps of gold coins by the crore laid out in separate mounds",
+  "gold ornaments set with pearls and black lapis lazuli",
+  "elephants from Madra and horses in costly harness arriving in line",
+  "Draupadi in red silk with the auspicious thread at her wrists",
+  "Yudhishthira receiving the gifts with joined palms and joy"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.201",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:56:58Z",
+  "source_event_id": "evt_0369"
+ },
+ "editorial_status": "unreviewed"
+}

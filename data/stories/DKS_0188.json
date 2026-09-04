@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0188",
+ "title": "Vishwakarma Adorns Dwaraka for Krishna",
+ "subtitle": "At Indra's bidding, the celestial architect remakes the city in the image of Amaravati.",
+ "story": "Krishna came back to Dwaraka on Garuda's back — Garuda, the great eagle who carried him through the sky — and even from the air the city looked like something from the other world. Sporting grounds and gardens, turrets and courtyards covered the ground the sea had surrendered, spread wide and filled with echoes on every side. And he had not yet seen Dwaraka at its best, for the king of heaven had plans for his city.\n\nWhen Indra heard that Krishna had returned, he sent for Vishwakarma, the architect of the gods. \"If you wish to please me,\" Indra said, \"make Krishna's beautiful city more beautiful still. Ring it with hundreds of gardens and build it after the fashion of the cities of heaven. Adorn it with the finest gems of the three worlds — for Krishna, who takes up the works of the gods, is forever plunging into the dreadful ocean of war. His home should shine as his deeds do.\"\n\nVishwakarma went down to Dwaraka and set to work, and when he finished, the city had been remade in the image of Amaravati, the city of the gods.\n\nKrishna entered, and what he saw would have filled any eye. The city stood ringed by ditches full of lotus-stalks, like the Ganges and the Sindhu, with swans sporting on the water. Along the rooftops ran walls of gold, so that Dwaraka looked the way the sky looks when it is covered with gold-hued clouds. On the east shone a gate of gold and jewels, and beyond it rose the hill Raivataka with its pleasant table-lands and caves; to the south the bushes were draped in creepers of five colours, to the west in creepers the colour of a rainbow, and to the north the yellow mountain Venuman stood watch over the city.\n\nForests crowded the city on every side — Chitrak, Panchavarna, Panchajanya, Sarvartuka, and the great woods of Bhargava and Pushpaka, huge as Mount Meru, their creepers running down to the very roots of the trees, with ashoka and mandara flowering among them. And the sacred river Mandakini, bright with lotus leaves and gems, came down and entered Dwaraka by fifty mouths, gladdening everyone who lived there.\n\nWithin the walls stood eight thousand chariots, hung with nets of bells and flying banners. The city ran eight yojanas in length and twelve across, held twice that number of quarters, and was crossed by eight great highways and sixteen meeting places; Vishwakarma had laid seven broad roads for the movement of soldiers — a city so well made, men said, that even its women could defend it.\n\nThe palaces of the Yadavas rose with golden and jewelled stairs. Their turrets carried flags, their domes were of gold, and their rooftops, bright with golden flowers and five-coloured patterns, put one in mind of mountains with sunlit summits and caves. They shone like forest-fire and filled the sky with light like the sun's and the moon's, and the whole city — cloud upon cloud of houses — stood beneath the sky like a heaven filled with bright clouds.\n\nAnd at the heart of all this splendour, Vishwakarma built the house of Krishna himself: four yojanas long and four broad, set about with palaces and hills made for delight. And beside it rose a golden palace of surpassing beauty, the loveliest in the whole city, which he built for Rukmini, Krishna's queen.\n\nEverything the architect did at Dwaraka he did at the bidding of the king of heaven. And Krishna, looking on the palaces of his people and the city the gods had adorned for him, was well pleased; and when all was accomplished, he entered the city to live in it.",
+ "reflection": "What is striking is that Dwaraka's beauty is not Krishna's boast but Indra's gift — the king of heaven sends his own architect to adorn the city of a mortal king, as though heaven itself could not bear that Krishna's home should lag behind its own. The verses catalogue the splendour almost breathlessly, and among all the golden houses the one they pause on is Rukmini's.",
+ "tradition_note": "The Harivamsha tells of Vishwakarma and Dwaraka more than once; in this passage he comes at Indra's request to beautify a city that already stands.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_founded",
+ "characters": [
+  "Krishna",
+  "Vishwakarma",
+  "Indra"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "architecture",
+  "splendour",
+  "divine-city"
+ ],
+ "previous_story_id": "DKS_0187",
+ "next_story_id": "DKS_0189",
+ "next_story_tease": "And the celestial architect was not done with Dwaraka yet.",
+ "hero_scene": "Krishna entering the golden city of Dwaraka on Garuda's back, the river Mandakini flowing in through fifty mouths, swans sporting on lotus-filled moats, gardens on every side, and the golden domes of the palaces rising like the summits of mountains under a sky filled with effulgence.",
+ "visual_elements": [
+  "Krishna on Garuda entering the city",
+  "golden walls and domes of Dwaraka",
+  "the river Mandakini with its fifty mouths",
+  "swans on lotus-filled moats",
+  "gardens and forests around the city",
+  "the hill Raivataka and the yellow mountain Venuman",
+  "palaces with golden and jewelled stairs",
+  "a mood of splendour and welcome"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.245",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:34Z",
+  "source_event_id": "evt_0330",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

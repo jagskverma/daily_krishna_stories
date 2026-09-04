@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0300",
+ "title": "Garuda Reports the Site of Dwaraka",
+ "subtitle": "The great bird flies west to find the Yadavas a new home",
+ "story": "Men wondered afterward why Krishna, who could ride Garuda to any corner of the world, had kept the great bird walking at his side instead of mounting him on the road from Vidarbha. The answer lay in a city that had not been built yet.\n\nIt happened when Krishna announced before the assembled kings that he would go to the city of Mathura. Garuda waited until his master had finished speaking, then saluted him and asked leave to fly somewhere else first. He had heard, he said, of a city by the western sea — Kushasthali, the old city of king Raivata, standing at the foot of Mount Raivata on the bank of the great ocean. The rakshasas had abandoned it. Its trees were hung with filaments of flowers; it had groves and creepers like the garden of Nandana; elephants and serpents moved through it, and bears, monkeys, boars, buffaloes and deer. Let me fly there and examine it, Garuda said, and see whether it is worthy of your dwelling. If that city is fit for your residence, I shall root out every thorn in it and come back to you.\n\nThere was more than curiosity in the request, and Krishna understood it. Mathura had been won back from Kamsa, but the wars had not ended with the tyrant's death. Jarasandha, whose daughters had been married to the slain king, had already hurled his armies at the city and would hurl more, and Jarasandha, as Krishna well knew, could not be slain by them. O son of Vinata, Krishna said, the king Jarasandha is unslayable by us. It never bodes good for us to live in this city of Mathura.\n\nGaruda bowed, spread his wings, and turned toward the west.\n\nWhile the lord of birds was gone, Krishna entered Mathura with the Yadavas, and the city came out to meet him. Ugrasena, the old king restored to his throne, came through the gates with dancing girls and citizens and honored the victorious Krishna, and Mathura dressed itself in flags and garlands for the homecoming.\n\nThen Garuda came back, and his report was glad. He had flown over Kushasthali wall by wall and found it worthy — the city at the foot of Raivata, emptied of its rakshasas, washed by the sea breeze, fit for a king to dwell in. And he brought Krishna a promise rather than a description. Your city, he said, will be celebrated in the three worlds under the name of Dwaravati.\n\nKrishna heard him out in silence and weighed what he knew: Jarasandha could not be killed, Mathura was small and open to every enemy, and beyond the western sea an empty city waited at the foot of a shining mountain, ready to be filled. He made his resolve. When the time came, the Yadavas would leave Mathura — and where Garuda had flown, they would follow.",
+ "reflection": "There is something striking in letting a bird choose the site of a city. Krishna does not consult architects or augurs; he sends Garuda, the one being of his own household who can see the whole earth at once, as though the founding of Dwaraka were to be decided by vision rather than by preference. The city is found before it is built, by a flight, not a council.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Garuda",
+  "Balarama",
+  "Ugrasena"
+ ],
+ "locations": [
+  "Mathura",
+  "Kushasthali",
+  "Raivata"
+ ],
+ "themes": [
+  "strategic-retreat",
+  "counsel",
+  "founding-city"
+ ],
+ "previous_story_id": "DKS_0299",
+ "next_story_id": "DKS_0301",
+ "next_story_tease": "Garuda's report would not settle the matter alone — soon the whole Yadava clan would gather to decide whether Mathura could still hold them.",
+ "hero_scene": "Garuda, vast and gold-feathered, banks low over the abandoned city of Kushasthali at the foot of Mount Raivata — flowering creepers trailing from empty towers, wild elephants and deer roaming the deserted streets beside the great ocean.",
+ "visual_elements": [
+  "Garuda banking low over Kushasthali",
+  "the abandoned towers draped in flowering creepers",
+  "wild elephants, bears and deer in the empty streets",
+  "Mount Raivata rising beside the great ocean",
+  "Krishna announcing his departure before the assembled kings",
+  "Ugrasena welcoming Krishna into Mathura with dancing girls and citizens",
+  "Mathura dressed in flags and garlands"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.112",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0190"
+ },
+ "editorial_status": "unreviewed"
+}

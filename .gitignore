@@ -1,0 +1,14 @@
+# Flutter app scaffold (separate concern; build artifacts dominate)
+app/
+
+# macOS junk
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Scratch / runtime
+tmp/
+data/review_state_backups/
+*.log

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0296",
+ "title": "The Brahmana's Dying Sons",
+ "subtitle": "In Dwaraka, a brahmana's newborn sons die one after another; he lays their bodies at the palace gate and laments the king's failure to protect his subjects.",
+ "story": "In the golden city of Dwaraka, where Krishna himself lived, a brahmana's son was born — and died the moment he touched the ground.\n\nThe city was the marvel of the age, ringed by the sea, blessed by its Lord's presence, rich and defended and at peace. And yet, in one house, grief kept returning like weather. The brahmana was a learned man, a man of prayer, the kind of man a city is proud to shelter; he had trusted the city's promise of protection, and the city had promised plenty. He had married late and waited long for a son, and when the first child was born the whole street had come to bless the house. The first son was born strong enough to cry, and died as he met the earth, as though the ground itself were forbidden to him. The household wept in private, and the neighbors murmured prayers, and the child was buried, and everyone said the words people say — that it was the will of fate, that the mother was young, that such things happened.\n\nThen the second son was born, and died in the same manner — born, crying, gone before the midwife could finish her work. This time the brahmana did not bury the child in silence. He wrapped the small body in cloth and carried it through the streets to the gate of the palace, and laid it down at the gate. And standing there, looking up at the walls that protected the city and had not protected his son, the words came to him: the king's fault. He did not say them aloud, not yet. He picked up his child and went home, and the street outside his house was quiet for a long time.\n\nThe third son was born, and died as the others had died. This time the brahmana wrapped the small body, carried it through the streets to the gate of the palace, and laid it down at the gate — and this time he lifted his voice so that all of Dwaraka could hear.\n\n\"The king's fault has slain my children,\" he cried. He did not spare the throne. The ruler of this city, he said, was a man who hated brahmanas, crafty of mind, greedy, sunk in pleasure, delighting in violence, ill-behaved, master of nothing in himself. When such a king fails in his duty, his subjects perish in misery — and here, at your very gate, is the proof of it. A few of the bolder citizens had followed him to the gate and stood at a distance, watching; and as he spoke, the watching crowd grew, because everyone in Dwaraka had heard of the brahmana's losses, and everyone wanted to hear what the city would answer. He left the child where the guards could see it, and went home.\n\nThe city listened and was afraid. Dwaraka believed itself blessed beyond all cities, protected by the very presence of Krishna; no one knew how to answer a grief like this, least of all a city that had never had to. The gates of the palace stayed shut, and the guards looked down at the small bundle and did not know what to do with it, and no one came out to answer the brahmana's charge.\n\nArjuna was in Dwaraka then, staying near Krishna, and he heard the lament. He went out and stood before the brahmana.\n\n\"What is this, O brahmana?\" he asked. \"Is there no bearer of the bow in this place? Here brahmanas weep, bereft of wealth and wives and children — is there no protector among us?\"\n\nThe brahmana looked at him and said nothing. The answer, perhaps, would come with the next child.",
+ "reflection": "A personal grief is spoken as a public accusation: in the old order the king is answerable for every life under his rule, and the brahmana turns a nursery tragedy into a charge against the throne. The episode asks what a kingdom is for, and sets the question squarely at the gates of Krishna's own city, where the protector himself dwells and the children still die.",
+ "tradition_note": null,
+ "content_note": "The story recounts the repeated deaths of newborn infants; handled with restraint, but may be sensitive for younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "the brahmana",
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "grief",
+  "death",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0295",
+ "next_story_id": "DKS_0297",
+ "next_story_tease": "And there was an archer in the city who heard the brahmana's lament and would not let it pass unanswered.",
+ "hero_scene": "A brahmana in Dwaraka laying the small wrapped body of his dead child at the great gate of the palace, his face lifted toward the silent walls, while a crowd gathers behind him and the guards look down from above — the city of Krishna unable to answer him.",
+ "visual_elements": [
+  "the brahmana laying the wrapped body of his child at the palace gate",
+  "the great gate and silent walls of the Dwaraka palace",
+  "a gathering crowd of citizens",
+  "guards looking down from the gate",
+  "the city of Dwaraka, ringed by the sea",
+  "grief, accusation, and uneasy silence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.89.20-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:16Z",
+  "source_event_id": "evt_0280"
+ },
+ "editorial_status": "unreviewed"
+}

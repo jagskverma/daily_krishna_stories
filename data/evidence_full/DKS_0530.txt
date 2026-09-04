@@ -1,0 +1,51 @@
+# STORY DKS_0530 — The Hunter Jara Shoots Krishna's Foot
+
+## Index entry
+title: The Hunter Jara Shoots Krishna's Foot
+summary: After the Yadavas' destruction, Krishna sits in meditation at the foot of a pippala tree; the hunter Jara, mistaking Krishna's foot for a deer's, shoots it with the arrow made from the mace's iron, then, seeing the four-armed Lord, falls at his feet in terror.
+life_stage: later_life | story_arc: krishna_departure
+characters: Krishna, the hunter Jara, Balarama
+locations: a forest near Prabhasa, at the foot of a pippala tree
+themes: fate, the hunter's arrow, divine play, forgiveness
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0371
+variant_notes: Vishnu Purana (5.37) condenses the shooting with the forgiveness and departure.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 30 | verses 26-39 | confidence 5
+  excerpt: Seated at the foot of a pippala tree, four-armed and radiant, Krishna placed his right foot upon his thigh; the hunter Jara, taking the foot for a deer's face, pierced it with the arrow fashioned from the mace's iron. Seeing the four-armed Lord, the terrified hunter fell at his feet, begging forgiveness. (rendered from Sanskrit, verses 26, 31-34)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 37 | verses  | confidence 4
+  excerpt: Then came there a hunter, named Jará, whose arrow was tipped with a blade made of the piece of iron of the club... beholding from a distance the foot of Krishńa, he mistook it for part of a deer, and shooting his arrow, lodged it in the sole... Then the illustrious Krishńa... abandoned his mortal body.
+- Mahabharata (Ganguli translation) | book/canto 16 | chapter/section 4 | verses  | confidence 4
+  excerpt: Having restrained all his senses, speech, and mind, Krishna laid himself down in high Yoga. A fierce hunter of the name of Jara then came there, desirous of deer. The hunter, mistaking Keshava, who was stretched on the earth in high Yoga, for a deer, pierced him at the heel with a shaft and quickly came to that spot for capturing his prey.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.30 (26-39)
+26. rāma-niryāṇam ālokya bhagavān devakī-sutaḥ /
+27. bibhrac catur-bhujaṃ rūpaṃ bhrāyiṣṇu prabhayā svayā /
+28. śrīvatsāṅkaṃ ghana-śyāmaṃ tapta-hāṭaka-varcasam /
+29. sundara-smita-vaktrābjaṃ nīla-kuntala-maṇḍitam /
+30. kaṭi-sūtra-brahma-sūtra- kirīṭa-kaṭakāṅgadaiḥ /
+31. vana-mālā-parītāṅgaṃ mūrtimadbhir nijāyudhaiḥ /
+32. muṣalāvaśeṣāyaḥ-khaṇḍa- kṛteṣur lubdhako jarā /
+33. catur-bhujaṃ taṃ puruṣaṃ dṛṣṭvā sa kṛta-kilbiṣaḥ /
+34. ajānatā kṛtam idaṃ pāpena madhusūdana /
+35. yasyānusmaraṇaṃ nṛṇām ajñāna-dhvānta-nāśanam /
+36. tan māśu jahi vaikuṇṭha pāpmānaṃ mṛga-lubdhakam /
+37. yasyātma-yoga-racitaṃ na vidur viriñco $ rudrādayo 'sya tanayāḥ patayo girāṃ ye &amp;tvan-māyayā pihita-dṛṣṭaya etad añjaḥ % kiṃ tasya te vayam asad-gatayo gṛṇīmaḥ
+38. bhp_11.30.039/0 śrī-bhagavān uvāca
+39. ity ādiṣṭo bhagavatā kṛṣṇenecchā-śarīriṇā /
+
+### Vishnu Purana (Wilson 1840) 5.37 ()
+Destruction of the Yádavas. Śámba and others deceive and ridicule the Rishis. The former bears an iron pestle: it is broken, and thrown into the sea. The Yádavas go to Prabhása by desire of Krishńa: they quarrel and fight, and all perish. The great serpent Śesha issues from the mouth of Ráma. Krishńa is shot by a hunter, and again becomes one with universal spirit.IN this manner did Krishńa, assisted by Baladeva, destroy demons and iniquitous monarchs, for the good of the earth; and along with Phálguna also did he relieve earth of her load, by the death of innumerable hosts. Having thus lightened the burdens of the earth, and slain many unrighteous princes, he exterminated, by the pretext of an imprecation denounced by Brahmans, his own Yádava race. Then quitting Dwáraká, and relinquishing his mortal being, the self-born reentered, with all his emanations, his own sphere of Vishńu.MAITREYA.--Tell me how Janárddana effected the destruction of his own race under the plea of Brahmanical imprecation, and in what manner he relinquished his mortal body.PARÁŚARA.--At the holy place Pińd́áraka, Viswámitra, Kańwa, and the great sage Nárada, were observed by some boys of the Yadu tribe. Giddy with youth, and influenced by predestined results, they dressed and adorned Sumba, the son of Jámbavatí, as a damsel, and conducting her to the sages, they addressed them with the usual marks of reverence, and said, "What child will this female, the wife of Babhru, who is anxious to have a son, give birth to?" The sages, who were possessed of divine wisdom, were very angry to find themselves thus tricked by the boys, and said, "She will bring forth a club, that shall crush the whole of the Yádava race." The boys, thus spoken to by the sages, went and related all that had occurred to Ugrasena; and, as foretold, a club was produced from the belly of Śámba. Ugrasena had the club, which was of iron, ground to dust, and thrown into the sea; but the particles of dust there became rushes. There was one part of the iron club which was like the blade of a lance, and which the Andhakas could not break: this, when thrown into the sea, was swallowed by a fish; the fish was caught, the iron spike was extracted from its belly, and was taken by a hunter named Jará. The all-wise and glorious Madhusúdana did not think fit to counteract what had been predetermined by fate.Then there came to Keśava, when he was private and alone, a messenger from the gods, who addressed him with reverence, and said, "I am sent to you, O lord, by the deities, and do thou hear what Indra, together with the Viśwas, Maruts, Ádityas, Sádhyas, and Rudras, respectfully represents.  More than a hundred years have elapsed since thou, in favour to the gods, hast descended upon earth, for the purpose of relieving it of its load. The demons have been slain, and the burden of earth has been removed: now let the immortals once again behold their monarch in heaven. A period exceeding a century has passed: now, if it be thy pleasure, return to Swarga. This is the solicitation of the celestials. But should such not be thy will, then remain here as long as it may be desirable to thy dependants." To this Krishńa replied, "All that thou hast said I am well aware of. The destruction of the Yádavas by me has commenced. The burdens of the earth are not removed until the Yádavas are extirpated. I will effect this also in my descent, and quickly; for it shall come to pass in seven nights. When I have restored the land of Dwáraká to the ocean, and annihilated the race of Yadu, I will proceed to the mansions of the immortals. Apprise the gods, that, having abandoned my human body, and accompanied by Sankarshańa, I will then return to them. The tyrants that oppressed the earth, Jarásandha and the rest, have been killed; and a youth, even of the race of Yadu, is, no less than they, an incumbrance. When therefore I have taken away this great weight upon earth, I will return to protect the sphere of the celestials. Say this to them." The messenger of the gods, having received this reply, bowed, and took his heavenly course to the king of the gods.The mighty Krishńa now beheld signs and portents both in earth and heaven, prognosticating, day and night, the ruin of Dwáraká. Shewing these to the Yádavas, he said, "See; behold these fearful phenomena: let us hasten to Prabhása, to avert these omens." When he had thus spoken to the eminent Yádava, the illustrious Uddhava saluted and said to him, "Tell me, O lord, what it is proper that I should do, for it seems to me that thou wilt destroy all this race: the signs that are manifest declare nothing less than the annihilation of the tribe." Then Krishńa replied to him, "Do you go by a celestial route, which my favour shall provide you, to the holy place Badarikáśrama, in the Gandhamádana mountain, the shrine of Naranáráyańa; and on that spot, sanctified by them, thou, by meditating on me, shalt obtain perfection through my favour. When the race of Yad
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0529 | next_story_id: DKS_0531
+previous title: Brahma and the Gods Urge Krishna to Return to His Abode
+next title: Krishna's Last Message to Daruka
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

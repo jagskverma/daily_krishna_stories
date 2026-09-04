@@ -1,0 +1,64 @@
+{
+ "id": "DKS_0327",
+ "title": "Garuda Bears Them to Bana's City",
+ "subtitle": null,
+ "story": "The city of Dwaraka had turned out to see its heroes leave. Aniruddha — Krishna's young grandson, the son of Pradyumna — had been carried off to the city of the demon king Bana and lay captive there, and Krishna meant to bring him home. Conches and war-horns sounded, bards sang the heroes' praises, and the people shouted blessings for victory. But no chariots stood ready and no army was mustering, for Krishna had not called for horses or soldiers at all. He thought of Garuda, and the great bird was there at once, wings folded, waiting.\n\nThat day Krishna chose to go to war as a god goes, not as a man. Desiring to kill Bana, he took a form with eight arms, towering like a mountain, with countless heads. In his four right hands he carried the sword, the discus, the club, and arrows; in his four left hands, the shield, the great bow Sharanga, the thunderbolt, and the conch. Behind him on Garuda's back sat Balarama, white-armed and white-weaponed, shining like the rising moon over Mount Kailasa. And Pradyumna, eager to show his prowess in battle, had taken a form radiant as the sage Sanatkumara.\n\nThen Garuda rose, and the great bird's beauty, touched by the radiance of the one who rode him, grew immense. The beating of his wings shook mountains and checked the very course of the wind. With the speed of thought he crossed the breadth of the heavens, and the sky itself seemed to part before him.\n\nHalfway across the world, Balarama looked down at his own arms and frowned. “Krishna,” he said, “what wonder is this? We have lost our radiance, all of us — we have turned golden. What is the cause? Have we come to the side of Mount Sumeru?” Krishna smiled. “I think Bana's city is near at hand. A fire burns there to guard it, and its glow has fallen on us. The light of that sacred fire has changed our colour.”\n\n“Then if the road to Bana's city costs us the lustre of our bodies,” said Balarama, “let it. Do what seems right to you.” Krishna turned to Garuda. “Find us a way past this fire,” he said. “When you have, I will do what must be done.”\n\nGaruda could take any form he wished, and now he took a thousand mouths at once. He flew up to the celestial Ganga — the river of heaven — drank deep of its water, and came back showering it down upon the fire. The blazing guardian of the city hissed and died out. Even Garuda was astonished. “How strong was this fire,” he said, “like the fire that ends an age. It changed the colour of Krishna himself.”\n\nThen the servants of that fire came out against them — the fire-gods themselves, who had watched over the city's flame. They saw three dreadful men of many forms riding on a giant bird, and asked one another who they were and why they had come. They could not settle the matter, and so they attacked. A great uproar rose as the fire-gods and their armies fell upon the three heroes.\n\nTheir chief, the fire-god Angira, climbed onto a blazing chariot and lifted his mace, burning bright in the middle of the field. Krishna was angered, and he called out to them: “Fire-gods, wait patiently a few moments. The time of your destruction is drawing near. Within a moment, burnt by the strength of my weapons, you will fly away on all sides.” But Angira rushed at him with a burning trident, as if to take his life. Krishna cut down his mace with crescent-shaped arrows and struck him in the breast with an arrow like death itself. Angira fell. And the rest of the fire-gods, with their hosts, fled headlong toward Bana's city.\n\nThe sky fell quiet again. Far ahead, over the edge of the world, the towers of Sonitpura rose into view — the city where Aniruddha lay bound, waiting to be rescued. Garuda gathered his wings for the descent, and the three riders of the sky looked down upon the city of the demon king.",
+ "reflection": "Krishna's eight arms and countless heads are described matter-of-factly, as equipment for the journey rather than spectacle: the divine form is not an ornament but a readiness. The golden stain of the city's fire is a stranger touch still, the protectors of the world themselves marked by what they approach.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Pradyumna",
+  "Garuda",
+  "Angira"
+ ],
+ "locations": [
+  "Sky route to Sonitpura"
+ ],
+ "themes": [
+  "divine form",
+  "march to war",
+  "rescue"
+ ],
+ "previous_story_id": "DKS_0326",
+ "next_story_id": "DKS_0328",
+ "next_story_tease": "Even as Garuda flew, Dwaraka had fallen into mourning for its vanished prince.",
+ "hero_scene": "Krishna, eight-armed and crowned with innumerable heads, seated on Garuda's back high above the clouds — Balarama radiant with white weapons behind him and Pradyumna beside — while Garuda's vast wings shake the mountains below and the towers of Bana's city glimmer far ahead.",
+ "visual_elements": [
+  "Krishna with eight arms and innumerable heads on Garuda's back",
+  "Balarama shining like the rising moon, white-armed with white weapons",
+  "Garuda's wings shaking mountains and checking the wind",
+  "the celestial Ganga pouring from a thousand mouths onto the city's fire",
+  "Angira's blazing chariot and his mace cut down by crescent arrows",
+  "the towers of Sonitpura on the horizon"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.264",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.268",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:07Z",
+  "source_event_id": "evt_0016",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

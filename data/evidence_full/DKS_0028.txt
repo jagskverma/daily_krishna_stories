@@ -1,0 +1,37 @@
+# STORY DKS_0028 — Trinavarta Is Crushed by the Child's Weight
+
+## Index entry
+title: Trinavarta Is Crushed by the Child's Weight
+summary: Unable to carry the ever-heavier baby through the sky, Trinavarta falls onto a rock and is crushed, while the child is found safe on his chest.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Trinavarta
+locations: Gokula
+themes: divine_power, rescue
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0042
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 7 | verses 25-32 | confidence 5
+  excerpt: The demon, finding the child heavier than a mountain, cannot fly on; seized by the throat, he crashes down upon a rock and is shattered, and the cowherds find Krishna lying safe upon his breast. (rendered from Sanskrit, verse 25-32)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.7 (25-32)
+25. tṛṇāvartaḥ śānta-rayo vātyā-rūpa-dharo haran /
+26. tam aśmānaṃ manyamāna ātmano guru-mattayā /
+27. gala-grahaṇa-niśceṣṭo daityo nirgata-locanaḥ /
+28. tam antarikṣāt patitaṃ śilāyāṃ viśīrṇa-sarvāvayavaṃ karālam /
+29. prādāya mātre pratihṛtya vismitāḥ kṛṣṇaṃ ca tasyorasi lambamānam /
+30. aho batāty-adbhutam eṣa rakṣasā bālo nivṛttiṃ gamito 'bhyagāt punaḥ /
+31. kiṃ nas tapaś cīrṇam adhokṣajārcanaṃ $ pūrteṣṭa-dattam uta bhūta-sauhṛdam &amp;yat samparetaḥ punar eva bālako % diṣṭyā sva-bandhūn praṇayann upasthitaḥ
+32. dṛṣṭvādbhutāni bahuśo nanda-gopo bṛhadvane /
+
+## Corpus chain
+previous_story_id: DKS_0027 | next_story_id: DKS_0029
+previous title: Trinavarta the Whirlwind Carries Off the Baby
+next title: Yasoda Sees the Universe in the Nursing Child's Mouth
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

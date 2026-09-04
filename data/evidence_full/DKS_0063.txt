@@ -1,0 +1,35 @@
+# STORY DKS_0063 — Nanda Is Seized by Varuna and Rescued
+
+## Index entry
+title: Nanda Is Seized by Varuna and Rescued
+summary: A servant of Varuna seizes Nanda as he bathes at night; Krishna goes to Varuna's abode and frees him.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Nanda, Varuna, Krishna
+locations: Yamuna, Varuna's abode
+themes: rescue, grace
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0104
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 28 | verses 1-8 | confidence 5
+  excerpt: While Nanda bathed in the Yamuna at night, a servant of Varuna seized him and carried him to Varuna's abode; Krishna, hearing the cowherds' cries, went there, and Varuna, honoring him, returned Nanda with apologies. (rendered from Sanskrit, verses 1-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.28 (1-8)
+1. taṃ gṛhītvānayad bhṛtyo varuṇasyāsuro 'ntikam /
+2. cukruśus tam apaśyantaḥ kṛṣṇa rāmeti gopakāḥ /
+3. prāptaṃ vīkṣya hṛṣīkeśaṃ loka-pālaḥ saparyayā /
+4. bhp_10.28.005/0 śrī-varuṇa uvāca
+5. namas tubhyaṃ bhagavate brahmaṇe paramātmane /
+6. ajānatā māmakena mūḍhenākārya-vedinā /
+7. mamāpy anugrahaṃ kṛṣṇa kartum arhasy aśeṣa-dṛk /
+8. bhp_10.28.009/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0062 | next_story_id: DKS_0064
+previous title: The Cowherds Wonder at Krishna's Deeds
+next title: Krishna Reveals His Supreme Abode

@@ -1,0 +1,40 @@
+# STORY DKS_0130 — Krishna and Balarama Enter Mathura
+
+## Index entry
+title: Krishna and Balarama Enter Mathura
+summary: Krishna and Balarama enter Mathura with the cowherds, and the city's women throng to see them.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Balarama, citizens
+locations: Mathura
+themes: entry, rejoicing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0132
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 41 | verses 18-30 | confidence 5
+  excerpt: In the afternoon Krishna and Balarama entered Mathura with the cowherds, and the women of the city thronged to see them, forgetting their dress and work, and the brahmins honored them with curd, rice and garlands. (rendered from Sanskrit, verses 18-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.41 (18-30)
+18. athāparāhne bhagavān kṛṣṇaḥ saṅkarṣaṇānvitaḥ /
+19. dadarśa tāṃ sphāṭika-tuṇga-gopura- dvārāṃ bṛhad-dhema-kapāṭa-toraṇām /
+20. sauvarṇa-śṛṅgāṭaka-harmya-niṣkuṭaiḥ śreṇī-sabhābhir bhavanair upaskṛtām /
+21. juṣṭeṣu jālāmukha-randhra-kuṭṭimeṣv āviṣṭa-pārāvata-barhi-nāditām /
+22. āpūrṇa-kumbhair dadhi-candanokṣitaiḥ prasūna-dīpāvalibhiḥ sa-pallavaiḥ /
+23. tāṃ sampraviṣṭau vasudeva-nandanau vṛtau vayasyair naradeva-vartmanā /
+24. kāścid viparyag-dhṛta-vastra-bhūṣaṇā $ vismṛtya caikaṃ yugaleṣv athāparāḥ &amp;kṛtaika-patra-śravanaika-nūpurā % nāṅktvā dvitīyaṃ tv aparāś ca locanam
+25. aśnantya ekās tad apāsya sotsavā abhyajyamānā akṛtopamajjanāḥ /
+26. manāṃsi tāsām aravinda-locanaḥ pragalbha-līlā-hasitāvalokaiḥ /
+27. dṛṣṭvā muhuḥ śrutam anudruta-cetasas taṃ $ tat-prekṣaṇotsmita-sudhokṣaṇa-labdha-mānāḥ &amp;ānanda-mūrtim upaguhya dṛśātma-labdhaṃ % hṛṣyat-tvaco jahur anantam arindamādhim
+28. prāsāda-śikharārūḍhāḥ prīty-utphulla-mukhāmbujāḥ /
+29. dadhy-akṣataiḥ soda-pātraiḥ srag-gandhair abhyupāyanaiḥ /
+30. ūcuḥ paurā aho gopyas tapaḥ kim acaran mahat /
+
+## Corpus chain
+previous_story_id: DKS_0129 | next_story_id: DKS_0131
+previous title: Kamsa Sends Akrura to Fetch Krishna
+next title: Krishna Slays the Insolent Washerman

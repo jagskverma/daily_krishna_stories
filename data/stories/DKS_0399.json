@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0399",
+ "title": "The Rajasuya Completed",
+ "subtitle": null,
+ "story": "In Indraprastha, the fire of the great Rajasuya was at last allowed to die down. The sacrifice was finished.\n\nYudhishthira, eldest of the five Pandava brothers, had performed the rite that made him an emperor. Month after month its offerings had been poured into the fire in the order the priests appointed, while the kings of the earth looked on. And when the last of the rites was done, it was Krishna — Yudhishthira's cousin, his friend, and the guest the whole sacrifice had honored first — who carried the great rite through to its end for the king.\n\nWhen the final oblations were finished, Krishna gave out the fees of the sacrifice: ample gifts, given without stint, to every priest who had served the fire and every learned man who had sat in the assembly. No one who had helped with the rite went away empty-handed. Then came the avabhritha, the closing bath. Yudhishthira stepped down into the water and was cleansed — the emperor washed clean of the great rite, the Rajasuya done, its fruit secure. He came out of the water an emperor; the rite had done what rites are for, and the kingdom had its crowning.\n\nYet Krishna did not leave. He stayed on in Indraprastha month after month, the way a friend stays past the hour of his going because the house does not want him to leave. They were quiet months after the noise of the rite, and Krishna spent them not as a visiting lord but as one of the household. When at last he asked leave of the king, Yudhishthira could hardly bear to give it. But Krishna took his leave all the same, turned his face toward his own city, and the road to Dwaraka received him.\n\nThen the guests departed, and Indraprastha began to empty. The king honored every one of them as they went — gods and men and the beings of the air — and they carried away nothing but praise: praise of Krishna, and of the sacrifice he had completed, and the memory of a rite that had crowned a king. A feast of that size is meant to be remembered, and this one was, by everyone who had shared it.\n\nAlmost everyone.\n\nOne guest left Indraprastha in a different temper. Duryodhana, the Pandavas' cousin from the city of Hastinapura, could not endure their prosperity. Where the other guests carried praise home, he carried the sight of their splendor like a coal pressed into his palm, and the pain of it did not cool on the road. He came to the city grudging and left it burning.\n\nThe fires of the Rajasuya were out. The treasury stood full, the emperor was crowned, and the guests had scattered to their kingdoms. Only that one grievance remained, traveling back to Hastinapura in the heart of a guest who had shared in none of the joy — and it arrived there before any of the praise did.",
+ "reflection": "The Rajasuya ends in harmony, leave-taking, and praise — and the only discord is carried out by a guest who took no part in any of it. Duryodhana's envy does not touch the sacrifice itself, but it plants a wound in him that the coming months will only deepen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Duryodhana"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "sacrifice",
+  "envy",
+  "completion"
+ ],
+ "previous_story_id": "DKS_0398",
+ "next_story_id": "DKS_0400",
+ "next_story_tease": "The grievance Duryodhana carried out of Indraprastha would find its wound soon after, in the mirrored hall that Maya had built.",
+ "hero_scene": "The guests of the Rajasuya stream out of Indraprastha in the evening light, praising Krishna as he turns his chariot toward Dwaraka — while Duryodhana rides apart, alone, his face dark as he looks back at the city's splendor.",
+ "visual_elements": [
+  "the fire of the Rajasuya burning low",
+  "Krishna giving ample fees to the priests of the assembly",
+  "Yudhishthira taking the concluding avabhritha bath",
+  "Krishna taking leave of the reluctant Yudhishthira and turning toward Dwaraka",
+  "gods, humans, and celestial beings departing with praise",
+  "Duryodhana riding away alone, looking back at the city with a dark face"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.74.46-52",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:23Z",
+  "source_event_id": "evt_0379",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

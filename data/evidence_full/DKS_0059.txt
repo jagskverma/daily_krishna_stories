@@ -1,0 +1,35 @@
+# STORY DKS_0059 — The Cattle Stray Into the Munja Forest and a Wildfire Breaks Out
+
+## Index entry
+title: The Cattle Stray Into the Munja Forest and a Wildfire Breaks Out
+summary: While the boys play, the cattle wander into a dense grove of munja grass, and a fierce wildfire springs up around them.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, Balarama, cowherds, cattle
+locations: Vrindavan
+themes: danger, separation
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0080
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 19 | verses 1-8 | confidence 5
+  excerpt: The cattle, roaming at will, stray into the munja thicket and are lost, and as the boys search, a great wildfire, driven by the wind, surrounds them and the herds. (rendered from Sanskrit, verse 1-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.19 (1-8)
+1. ajā gāvo mahiṣyaś ca nirviśantyo vanād vanam /
+2. te 'paśyantaḥ paśūn gopāḥ kṛṣṇa-rāmādayas tadā /
+3. tṛṇais tat-khura-dac-chinnair goṣ-padair aṅkitair gavām /
+4. muñjāṭavyāṃ bhraṣṭa-mārgaṃ krandamānaṃ sva-godhanam /
+5. tā āhūtā bhagavatā megha-gambhīrayā girā /
+6. tataḥ samantād dava-dhūmaketur yadṛcchayābhūt kṣaya-kṛd vanaukasām /
+7. tam āpatantaṃ parito davāgniṃ gopāś ca gāvaḥ prasamīkṣya bhītāḥ /
+8. kṛṣṇa kṛṣṇa mahā-vīra he rāmāmogha vikrama /
+
+## Corpus chain
+previous_story_id: DKS_0058 | next_story_id: DKS_0060
+previous title: Balarama Slays the Demon Pralamba
+next title: Krishna Swallows the Wildfire and Saves the Herd

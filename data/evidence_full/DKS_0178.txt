@@ -1,0 +1,37 @@
+# STORY DKS_0178 — Uddhava's Counsel to Slay Jarasandha || Uddhava advises Krishna that the Rajasuya requires conquering the directions, and that Jarasandha — who can only be killed by Bhima in single combat — must first be destroyed.
+
+## Index entry
+title: Uddhava's Counsel to Slay Jarasandha || Uddhava advises Krishna that the Rajasuya requires conquering the directions, and that Jarasandha — who can only be killed by Bhima in single combat — must first be destroyed.
+summary: Uddhava advises Krishna that the Rajasuya requires conquering the directions, and that Jarasandha — who can only be killed by Bhima in single combat — must first be destroyed.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Uddhava, Bhima, Arjuna, Jarasandha
+locations: Dwaraka
+themes: strategy, duty, alliance
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0261
+variant_notes: VARIANT of the Rajasuya slaying-plan: Bhagavata Purana attributes the plan to Uddhava's counsel; Mahabharata 2.20 presents Krishna himself proposing it. Attribution difference is material — kept as separate stories.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 71 | verses 1-10 | confidence 5
+  excerpt: Uddhava counsels that the Rajasuya is to be performed by one who has conquered all directions, so defeating Jarasandha serves both purposes. Since Jarasandha is the equal of Bhima alone and cannot be overthrown with an army, Bhima should go to him disguised as a brahmana, request single combat, and slay him before Krishna. (rendered from Sanskrit, verse 1-10)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.71 (1-10)
+1. bhp_10.71.002/0 śrī-uddhava uvāca
+2. yaṣṭavyam rājasūyena dik-cakra-jayinā vibho /
+3. asmākaṃ ca mahān artho hy etenaiva bhaviṣyati /
+4. sa vai durviṣaho rājā nāgāyuta-samo bale /
+5. dvai-rathe sa tu jetavyo mā śatākṣauhiṇī-yutaḥ /
+6. brahma-veṣa-dharo gatvā taṃ bhikṣeta vṛkodaraḥ /
+7. nimittaṃ param īśasya viśva-sarga-nirodhayoḥ /
+8. gāyanti te viśada-karma gṛheṣu devyo $ rājñāṃ sva-śatru-vadham ātma-vimokṣaṇaṃ ca &amp;gopyaś ca kuñjara-pater janakātmajāyāḥ % pitroś ca labdha-śaraṇā munayo vayaṃ ca
+9. jarāsandha-vadhaḥ kṛṣṇa bhūry-arthāyopakalpate /
+10. bhp_10.71.011/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0177 | next_story_id: DKS_0179
+previous title: The Captive Kings Appeal to Krishna || A royal messenger arrives in Krishna's assembly and reports that Jarasandha has imprisoned twenty thousand defeated kings in Girivraja, who beg Krishna for release.
+next title: Krishna's Grand Procession from Dwaraka || Krishna departs Dwaraka for Indraprastha with a vast army, chariots, elephants and his queens, to the sound of drums and conches.

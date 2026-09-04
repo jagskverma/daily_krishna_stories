@@ -1,0 +1,38 @@
+# STORY DKS_0179 — Krishna's Grand Procession from Dwaraka || Krishna departs Dwaraka for Indraprastha with a vast army, chariots, elephants and his queens, to the sound of drums and conches.
+
+## Index entry
+title: Krishna's Grand Procession from Dwaraka || Krishna departs Dwaraka for Indraprastha with a vast army, chariots, elephants and his queens, to the sound of drums and conches.
+summary: Krishna departs Dwaraka for Indraprastha with a vast army, chariots, elephants and his queens, to the sound of drums and conches.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Balarama, Narada
+locations: Dwaraka
+themes: royal procession, journey, majesty
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0262
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 71 | verses 11-21 | confidence 5
+  excerpt: Krishna orders the departure, entrusts Dwaraka to Balarama, and mounts his Garuda-bannered chariot. Surrounded by an immense army with resounding drums, conches and trumpets, and followed by his queens in their conveyances, he sets out, crossing many lands, rivers and towns on the way to Indraprastha. (rendered from Sanskrit, verse 11-21)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.71 (11-21)
+11. athādiśat prayāṇāya bhagavān devakī-sutaḥ /
+12. nirgamayyāvarodhān svān sa-sutān sa-paricchadān /
+13. tato ratha-dvipa-bhaṭa-sādi-nāyakaiḥ $ karālayā parivṛta ātma-senayā &amp;mṛdaṅga-bhery-ānaka-śaṅkha-gomukhaiḥ % praghoṣa-ghoṣita-kakubho nirakramat
+14. nṛ-vāji-kāñcana-śibikābhir acyutaṃ sahātmajāḥ patim anu su-vratā yayuḥ /
+15. naroṣṭra-go-mahiṣa-kharāśvatary-anaḥ $ kareṇubhiḥ parijana-vāra-yoṣitaḥ &amp;sv-alaṅkṛtāḥ kaṭa-kuṭi-kambalāmbarādy- % upaskarā yayur adhiyujya sarvataḥ
+16. balaṃ bṛhad-dhvaja-paṭa-chatra-cāmarair $ varāyudhābharaṇa-kirīṭa-varmabhiḥ &balaṃ bṛhad-dhvaja-paṭa-chatra-cāmarair $ varāyudhābharaṇa-kirīṭa-varmabhiḥ &divāṃśubhis tumula-ravaṃ babhau raver % yathārṇavaḥ kṣubhita-timiṅgilormibhiḥ
+17. atho munir yadu-patinā sabhājitaḥ praṇamya taṃ hṛdi vidadhad vihāyasā /
+18. rāja-dūtam uvācedaṃ bhagavān prīṇayan girā /
+19. ity uktaḥ prasthito dūto yathā-vad avadan nṛpān /
+20. ānarta-sauvīra-marūṃs tīrtvā vinaśanaṃ hariḥ /
+21. tato dṛṣadvatīṃ tīrtvā mukundo 'tha sarasvatīm /
+
+## Corpus chain
+previous_story_id: DKS_0178 | next_story_id: DKS_0180
+previous title: Uddhava's Counsel to Slay Jarasandha || Uddhava advises Krishna that the Rajasuya requires conquering the directions, and that Jarasandha — who can only be killed by Bhima in single combat — must first be destroyed.
+next title: Sahadeva Crowned and the Kings Freed || Krishna crowns Jarasandha's son Sahadeva king of Magadha and releases all the kings imprisoned by Jarasandha.

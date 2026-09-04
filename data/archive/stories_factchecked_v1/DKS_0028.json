@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0028",
+ "title": "Trinavarta Is Crushed by the Child's Weight",
+ "subtitle": null,
+ "story": "One afternoon the sky over Gokul turned strange.\n\nIt began as a wind — a dry, rising wind that lifted the dust of the lanes and set the doors to banging. The cattle stirred in their pens and lowed uneasily, and the women at their churning looked up and shaded their eyes. Then the wind thickened and darkened and began to spin, and those who looked up saw that it was not a storm at all. There was something inside it, and it was moving toward the house of Nanda.\n\nIt was Trinavarta, a demon who came as a whirlwind, and before anyone could cry out he swept down, snatched the baby from the courtyard where he lay, and carried him up into the spinning air.\n\nThe child vanished into the dust. The settlement was plunged into a choking darkness. Mothers groped for their own children and called their names, and no one could say where the boy had gone. High above, Trinavarta rose, clutching his prize, and the earth fell away beneath him.\n\nBut something was wrong.\n\nThe child in his arms was growing heavy. He had been nothing — a feather, a leaf — and now he pressed down on the demon like a stone. Trinavarta climbed, and the child grew heavier. He strained to rise higher into the sky, and the child grew heavier still, until the whirlwind demon found that he could not move at all. A child is the lightest thing in the world, and yet the sky could not hold this one; the demon who had risen like smoke now hung motionless, pinned by something he could not see or understand. It was as though he were holding up a mountain. As though he were holding up the whole weight of the world.\n\nThe wind, which a moment before had borne him aloft so easily, now held him fast; he could neither rise nor turn. His flight stopped. Then the baby's small hands closed around his throat, and Trinavarta could neither move nor breathe. His eyes started from his head.\n\nAnd he fell.\n\nHe fell out of the sky onto a rock below, and the rock shattered him — the whirlwind broken to pieces on the stone. The cowherds ran to the place, expecting the worst, and found the child lying safe upon the demon's chest, as if the fall had been a cradle and the monster his bedding. The mothers who had lost sight of him in the dust came running too, and found him not only alive but unmarked, and they pressed him close and wept with relief. They passed him from hand to hand, turning him over to look for a wound, and found none.\n\nThey could not believe their eyes. A demon had carried the boy off to his death, and here he was, back among them, unhurt, as though the whole thing had been no more than a game of the wind. \"What penance have we done?\" they asked one another. \"What worship, what good deeds, what kindness to other beings, that the child who was taken from us has been given back alive?\"\n\nThey lifted him up and carried him home, and for a long time the men of Gokul would speak of the wonders they had seen in that broad forest. Nanda, the cowherd chief, kept his own counsel, but he had begun to notice how many wonders gathered around this quiet child — and how, one after another, they all ended the same way: with the boy safe, and the danger gone. He did not speak of it, but he began to watch the child more closely.",
+ "reflection": "The demon meant to carry the child off into the sky, and instead he was brought down by the very thing he tried to steal — a smallness that held the weight of the world. The rescue is not a struggle of equals; it is the unmasking of what the child already carried.",
+ "tradition_note": null,
+ "content_note": "A demon is crushed in a fall; the description is brief and not graphic.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Trinavarta"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "divine_power",
+  "rescue"
+ ],
+ "previous_story_id": "DKS_0024",
+ "next_story_id": "DKS_0030",
+ "next_story_tease": null,
+ "hero_scene": "A demon in whirlwind form crashes out of a dark, dust-choked sky onto a rock, shattered, while the infant Krishna lies safe and unharmed upon his chest in the aftermath.",
+ "visual_elements": [
+  "swirling dark whirlwind and dust",
+  "infant Krishna held aloft",
+  "demon Trinavarta straining and falling",
+  "rock below shattering the fall",
+  "cowherds running to the spot",
+  "mood of sudden rescue and wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.7.25-32",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T18:36:37+05:30",
+  "source_event_id": "evt_0041"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,108 @@
+# STORY DKS_0160 — Shalya Delivers Jarasandha's Message to Kalayavana
+
+## Index entry
+title: Shalya Delivers Jarasandha's Message to Kalayavana
+summary: Shalya arrives at Kalayavana's court, recounts the destruction at Gomanta and Jarasandha's plea, and urges Kalayavana to march on Mathura.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Shalya, Kalayavana, Jarasandha, Krishna, Balarama
+locations: Yavana capital
+themes: envoy, war-appeal, recounting-battle
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0187
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 110 | verses  | confidence 4
+  excerpt: Shalya said:—O king of Yavanas, hear I shall describe at length what the king of Magadha has deputed me to communicate to you. ... 'enter the city of Mathurā with your army establish your glory there.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.110 ()
+TITLE: SHALYA MEETS KALAYAVANA
+
+Vaishampayana said:—Kālayavana, the king of Yavanas, was highly powerful
+and used to govern the inhabitants of his city in pursuance of royal
+duties (1). He was wise, conversant with three Vargas,²⁷⁴ proficient in
+six Gunas²⁷⁵ innocent of sevenfold calamities,²⁷⁶ endued with all
+accomplishments, well-versed in Srutis, pious, truthful, a master of his
+senses, acquainted with the rules of war, an expert in capturing forts,
+heroic, of great strength and used to honor his ministers. One day
+encircled by his ministers he was seated at ease and the learned and
+intelligent Yavanas, discoursing amongst themselves on various celestial
+themes were adoring him (2–5). In the meantime there blew delightful,
+but exciting, cold and fragrant wind. Thereat the assembled Yavanas and
+the king Kālayavana were all worked up and thought "Whence it has come?"
+Thereupon they saw a car coming from the south. It was golden and white,
+lighted up with the lustre of jewels, adorned with celestial flags and
+pennons, drawn by horses fleet like the mind or air, adorned with
+tiger-skins, a terror to the enemies, the enhancer of joy to the
+friends, constructed by the celestial Architect, effulgent like the sun,
+the grinder of others’ cars and embellished with jems like the rays of
+the sun and moon. The powerful and beautiful king of Soubha was seated
+thereon. Delighted greatly at seeing his friend the mighty-armed king of
+Yavanas, the foremost of speakers, repeatedly sent for Arghya and water
+to wash feet. And rising up from his throne and with Arghya in his hands
+he went out and waited at the landing stair of the car. Be holding the
+king Kālayavana, powerful like Sakra the highly energetic Shalya was
+greatly delighted, got down alone from the chariot with a confident
+heart and joyously entered into the Palace of Yavana for seeing his
+friend. Observing _arghya_ in the hands of the king of Yavanas, Shalya,
+the foremost of kings, said in sweet words:—"O thou of great effulgence,
+I am not now worthy of _arghya_. I am now an envoy of the kings and have
+been despatched to thee by the intelligent Jarāsandha. I therefore do
+not deserve _arghya_ from the kings" (5–18).
+
+Kalayavana said:—"O you of large-arms, I know that you have been
+despatched here as an envoy by the king of Magadha for the behoof of
+kings (19). O intelligent king, I adore you duly with water to wash
+feet, seat and various other means of welcome because you have been sent
+here by the entire circle of kings. By adoring you, O king, I shall
+worship the entire host of kings and by honoring you all of them will be
+honored. Therefore, O king, sit with me on this throne" (20–21).
+
+Vaishampāyana said:—Thereupon shaking hands with each other and
+enquiring of their mutual welfare those two kings sat at ease on the
+sacred throne (92).
+
+Kalayavana said:—What has become impossible to him, depending on the
+might of whose arms you kings are all living without any anxiety as the
+gods do under the protection of Sachi’s lord, that he has sent you to
+me. Tell me, truly, O king, what mandate, the powerful king of Magadha
+has issued to me. Even if it be very difficult I shall carry out his
+command (23-24).
+
+Shalya said:—O king of Yavanas, hear I shall describe at length what the
+king of Magadha has deputed me to communicate to you (25).
+
+Jarasandha said:—The highly irrepressable Krishna has been oppressing
+the world from his very birth. Informed of his wicked deeds I attempted
+to slay him (26). Accompanied by a number of kings along with their
+four-fold forces and conveyances I besieged the mount Gomanta with a
+huge army (27). And there listening to the highly sensible words of the
+king of Chedi I set fire to that best of mountains for their (Rāma and
+Krishna’s) destruction (28). Beholding that fire consisting of hundreds
+and thousands of flames and resembling the fire of dissolution, Rāma,
+holding the golden hilt of a sword, leaped down from the mountain summit
+in the midst of the ocean-like army of the kings. And that highly
+irrepressible one began to kill the car-warriors, the infantry and
+cavalry (30). He moved about like a serpent; and catching elephants,
+horses and soldiers with his plough-share he grinded them with his mace
+(31). In that battle-field abounding in hundreds of kings that highly
+energetic Rāma, endued with the prowess of the sun, ranging in various
+ways like the setting sun, destroyed elephants, with elephants,
+car-warriors with cars, and the cavalry with horses (32-33). After Rāma,
+the highly powerful and energetic Yadu hero, Krishna, taking up his
+discus effulgent like the sun, and his black iron club, forcibly leaped
+down in the midst of the enemie’s army agitating the mountain with the
+force of his feet as a lion attacks the poor deer (34–35). O king, at
+that time whirling and bathed with shower that mountain extinguished the
+fire and entered into the earth as if dancing (36). Jumping down from
+that burning mountain Janārddana with his hand hol
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0159 | next_story_id: DKS_0161
+previous title: Shalya Proposes Inviting Kalayavana
+next title: Kalayavana Marches on Mathura

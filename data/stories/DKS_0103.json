@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0103",
+ "title": "The Gopis Enact Krishna's Lilas",
+ "subtitle": null,
+ "story": "Krishna had vanished from them, and the forest rang with his name. All night the gopis of Vrindavan — the cowherd women of the village, who had loved him since he was a child among them — had searched and called, and the night gave them back nothing but their own voices. At last they began to do the one thing that made their loss bearable. They began to become him.\n\nEach of them took up one of his deeds — the deeds they had heard sung since he was a baby in the cowherd village — and played it out there in the forest, for no audience but the trees and the moon. The forest lay still around them, silvered with moonlight, and the only sound was their own voices. Their calling had the sound of frenzy, and in a way it was frenzy; but it was a frenzy that knew what it was doing. It had a shape, and the shape was him.\n\nOne woman lay down on the forest floor and played Putana, the demoness who had once come to the village disguised as a wet-nurse, her breast smeared with poison, meaning to kill the infant Krishna as he fed. Another became Krishna himself and drank from her as he had done, and — so the story ran — he drew the demon's very life out with the milk. They played it through, there under the trees.\n\nAnother took the part of a demon again, this time the demon who had come as a wooden cart to crush the sleeping child. She carried off a third gopi, who had become the baby Krishna, and the baby kicked out with one small foot and overturned the cart — the way the real Krishna once had.\n\nTwo of them stood side by side and became Krishna and Balarama, his elder brother, and around them the other gopis became the cowherd boys, keeping watch over cattle that were not there and calling to one another the way the herders did at pasture, their voices soft among the trees.\n\nThen one of them raised her arm high above her head, the way Krishna had raised the whole hill of Govardhana on a single finger to shelter the village from the storm, and she called out in a voice that carried through the trees: Do not fear the wind or the rain — I have made you a shelter.\n\nOne climbed up onto another and stamped down with her foot, as Krishna had once danced upon the hoods of the serpent Kaliya in the river's poisoned waters. Another pointed into the distance and cried out: O cowherds, see the fierce forest fire! — the fire Krishna had once swallowed whole to save them. And a slim gopi sat down and let herself be tied to a grinding mortar with a garland of flowers, the way the child Krishna had been tied there by his mother for his mischief — and had slipped free even then.\n\nThrough it all they went on asking the trees and the creepers of Vrindavan: Have you seen him? And even as they asked, they kept moving, because motion was the only thing that kept the ache from settling. Every part they played was only another way of calling him back — as if, by wearing his deeds, they could hold some piece of him until he returned.",
+ "reflection": "The gopis' imitation is not mockery but memory made physical. In their frenzy they rehearse the whole of Krishna's childhood — Putana, the cart, Govardhana, Kaliya, the mortar — as a way of keeping him present. Devotion here is not a feeling but a performance, an enactment of everything he has been to them.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "imitation",
+  "ecstasy"
+ ],
+ "previous_story_id": "DKS_0102",
+ "next_story_id": "DKS_0104",
+ "next_story_tease": "Then the earth itself laid a trail before them.",
+ "hero_scene": "A gopi with one arm raised high above her head, re-enacting Krishna lifting Govardhana, while other gopis around her play the cart-demon, the serpent Kaliya, and the tied child, all calling his name among the forest trees.",
+ "visual_elements": [
+  "a gopi raising her arm like Govardhana",
+  "one gopi playing Putana and another the infant Krishna",
+  "the cart-demon and the overturned cart",
+  "gopis as Krishna and Balarama with cowherd boys",
+  "the serpent Kaliya trampled underfoot",
+  "the tied child and the grinding mortar",
+  "forest trees and creepers",
+  "ecstatic imitation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.30.13-23",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0114",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

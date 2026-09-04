@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0479",
+ "title": "The Field Seen From Krishna's Chariot",
+ "subtitle": "Krishna points out Karna's rampage and urges Arjuna forward",
+ "story": "All around them, the war between the Pandavas and their cousins, the Kauravas, pressed in from every side. From the chariot where the two of them stood, Krishna showed Arjuna the battle as only he could see it. He pointed across the field. \"There,\" he said. \"Your brother Yudhishthira is being hunted by many great bowmen of the Kaurava army, all bent on killing him. The mighty warriors of Panchala, allies of the Pandavas and hard to defeat in battle, are racing after the king to save him.\"\n\nArjuna looked, and Krishna read the confusion of the fight for him, piece by piece. Duryodhana himself — the Kaurava king and the Pandavas' chief enemy — was pursuing Yudhishthira with a great force of chariots, he and his brothers, warriors whose weapons stung like poisonous snakes. Elephants, horses, chariots, and foot-soldiers of the Kauravas all pressed toward the king, greedy as poor men after a precious jewel. Satyaki and Bhima had checked them for a moment, but the host was too vast; now it rolled toward Yudhishthira again like floodwater in the rainy season rushing to the sea, the warriors roaring like lions, blowing their conch-shell trumpets, shaking their bows.\n\n\"I consider Yudhishthira as good as dead,\" Krishna said, \"caught in Duryodhana's grip — a man already poured out as an offering on the sacrificial fire.\" So mighty was that host, he said, that even Indra, king of the gods, could scarcely escape its arrows. Who could bear the fury of Duryodhana himself, who loosed his shafts in ceaseless showers and, when angry, seemed like death? The arrows of the great Kaurava bowmen — Duryodhana, Ashvatthama, Kripa, and Karna, the deadliest of them all — could break down mountains.\n\nThen Krishna told Arjuna why the danger was graver than it looked. Not long before, Karna had forced king Yudhishthira to turn his back and flee the field. Karna fought with immense skill and speed of hand, more than a match for the eldest Pandava — especially with Duryodhana beside him. And Yudhishthira, worn thin by his fasts, strong in spirit but not in a warrior's bodily strength, had been caught by Karna's assault in terrible peril. \"I think the king has fallen,\" Krishna said. \"Bhima, who is fierce in battle, stands silent while the Kauravas roar with triumph and blow their conches. I think Pandu's son Yudhishthira is dead.\"\n\nThen he pointed again — to Karna, urging the Kaurava chariot-warriors forward, shooting as he came, with arrows and clubs and every weapon he carried. The king's banner was no longer to be seen; Karna's shafts had likely struck it down. Before the very eyes of the two youngest Pandava brothers, the twins, and of Satyaki, Shikhandi, Dhrishtadyumna, and Bhima — before all the Panchala and Cedi troops — Karna was destroying the Pandava division with his arrows, the way an elephant destroys a bed of lotuses. Arjuna's chariot-warriors were fleeing; wounded elephants were stampeding in every direction, crying out in pain. Karna's own standard, bearing the device of the elephant's rope, moved all over the field; and there he was, rushing at Bhima himself, scattering hundreds of arrows as he came, routing the Panchala warriors as he went.\n\n\"Set your heart rightly on the battle,\" Krishna said. \"Advance against that leader of chariot-warriors.\"",
+ "reflection": "Krishna's words do not merely report the battle; they arrange it — first the pursued king, then the overwhelming numbers, then Karna's particular menace — until Arjuna can see with his charioteer's eyes that hesitation has become the only real enemy. The urgency is built entirely from what is visible on the field, not from exhortation.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Karna",
+  "Yudhishthira",
+  "Duryodhana",
+  "Bhima",
+  "Satyaki"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "war counsel",
+  "urgency",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0478",
+ "next_story_id": "DKS_0480",
+ "next_story_tease": "But before Arjuna could advance, the field rose up against him in the person of Drona's son.",
+ "hero_scene": "Krishna, standing in the chariot beside Arjuna, points across the battlefield towards the distant figure of king Yudhishthira, while on the far side Karna's standard bearing the elephant's rope moves over the field, scattering the Pandava division like an elephant destroying an assemblage of lotuses.",
+ "visual_elements": [
+  "Krishna pointing across the field from the chariot",
+  "Arjuna with Gandiva, following his gaze",
+  "king Yudhishthira pursued by Duryodhana and his brothers",
+  "the sea of Dhartarashtra warriors rushing like water to the ocean",
+  "Karna's standard with the device of the elephant's rope",
+  "routed car-warriors and elephants fleeing with cries",
+  "Satyaki and Bhima checking the pursuit"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.60",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:07Z",
+  "source_event_id": "evt_0473",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

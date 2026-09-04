@@ -1,0 +1,106 @@
+# STORY DKS_0224 — Krishna Promises Satyabhama the Parijata Tree || Satyabhama confesses her grief over the Parijata flower given to Rukmini; Krishna vows to fetch the whole Parijata tree from Indra's heaven for her.
+
+## Index entry
+title: Krishna Promises Satyabhama the Parijata Tree || Satyabhama confesses her grief over the Parijata flower given to Rukmini; Krishna vows to fetch the whole Parijata tree from Indra's heaven for her.
+summary: Satyabhama confesses her grief over the Parijata flower given to Rukmini; Krishna vows to fetch the whole Parijata tree from Indra's heaven for her.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Satyabhama, Narada
+locations: Raivataka
+themes: promise, jealousy, devotion
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0295
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 124 | verses  | confidence 4
+  excerpt: Krishna ... said: ... 'What to speak of a single flower, I shall fetch that best of all trees namely the Parijata tree itself, from the gardens of paradise, and keep it in thy mansion.' ... 'so be it, then; this shall be my foremost concern.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.124 ()
+TITLE: SATYABHAMA’S GRIEF
+
+Vaishampāyana said:—O Bharata, Nārāyana once more affectionately
+addressed the chaste and beautiful Satyabhāma who was thus suffering
+under the influence of jealousy and resentment, in the following manner
+(1).
+
+The auspicious god said:—O lotus-eyed one! sorrow seems to burn through
+all my limbs (at seeing thee in this plight). What is the cause that has
+renderd thee so much aggrieved? (2). O thou beautiful in all thy parts,
+if there is no harm and if it is proper for thy affectionate husband to
+hear it, I entreat thee, on my life, to reveal to me the cause of thy
+grief (3).
+
+Then Satyabhāmā seated with her countenance cast down towards the earth
+thus spoke to her husband, ever truthful in vows, in a voice choked with
+the vapour of grief (4). "O lotus-eyed one, O destroyer of Kesin, O
+bestower of honor it was thy ownself that established my honor and
+prosperity in days gone—and that honor and that prosperity have now
+become famous in the worlds (5). That I am most beloved of thee among
+all thy wives—is what prompted me to raise my head with pride above all
+others, O God (6). But, my maids have told me as they have heard it
+others say, that to-day I have been laughed at by my rival (co-wives)
+and by other people also (7). I hear that the Parijata flower that
+Nārada gave thee, thou hast given to thy dear one, totally neglecting my
+(poor) self (8). That thy love and thy regard for her is supreme, thou
+hast given unmistakable expression to—by presenting her with that best
+of all precious things (the Parijata flower) (9). Narada also eulogised
+her in thy presence, and thou surely wert also gratified having heard
+that eulogy bestowed on thy dear wife (10). But supposing Narada had
+some reason for praising her in thy presence, why was it that the name
+of this unfortunate one was uttered in that connection (11)? O Lord, if
+I am to repent for having tasted the (sweet) liquor of thy love, it is
+better I should have nothing to do with it? Be kindly pleased to accord
+me thy permission (12). O lotus-eyed one, I could not have believed even
+in my dream, that thou hast honored some body else more than myself; but
+alas, it has come to pass in real life even before the eyes of others
+(13). It may be that the sage Narada of incomparable powers has
+conceived a love for her (Rukshmini), but O lord, the cause of my grief
+in this, is thy presence in the scene (14). Thou hast told me that
+people live for the sake of honor only,–so, thus dishonored, I do not
+desire to live any longer (15). My source of protection has been turned
+to-day into my source of fear. He that used to protect me in every-thing
+does not do so to-day (16), Alas, what course shall I pursue, O Lord,
+being thus abandoned by thee! Surely renounced by thee, I shall be
+reduced to the condition of the white lily²⁸³ (17). Have I done to day
+something disliked by the gods out of foolishness in consequence of
+which, O bestower of honour I have incurred thy dislike, although I used
+to be thy chosen one (18). How could I who was thy beloved wife, but now
+discarded, look upon this Raibataka Hills decked with the flowers of the
+spring (19)? Now that I have been the object of thy hate, how could I,
+unfortunate one, venture to breathe the pure breeze (of this place)
+ringing with the sweet notes of the cuckoo and fraught with fragrance of
+the flowers (20). How could I, who did sport on thy lap inside the
+waters of this ocean, again glance at it, O lord, in this my unhappy
+condition (21)? Thou didst tell me in days gone by,–’O daughter of
+Satrajit, know that there is no wife of mine dearer to me than
+thyself’—What of that assurance! Or who cares to remember it²⁸⁴ (22)! My
+mother-in-law used to look upon me with much regard and pleasure—but
+unfortunate lady queen as she was,—she has been contemptuously treated
+by thee (23). O Lord, what then is the good of this thy hidden and
+unmanifest love for me, if thou dost not even deign to reckon me among
+thy common wives (23)? O subduer of thy foes, I did not know thee
+hence-before to be so much of a cheat and a knave; but now I have come
+to know thee as fickle, deceiving, and partial to my rival (co-wife)²⁸⁵
+(25). I have read thy innermost and secret thoughts, O thief, by thy
+articulations and thy features and signs, although thou triest to
+conceal them from me; thou knave, thou partisan of my rival, it is thy
+tongue only that is honeyed, but thou art too guileful" (26).
+
+When the resentful daughter of Satrajit, influenced by jealousy had thus
+spoken, the god-like Krishna consoling her addressed her in the
+following manner (27). "Say not so, O lotus-eyed one, thou dearest ruler
+of my heart! what shall I tell thee more my darling;—know me to be thine
+entirely (28). There is no doubt that in order to please me the sage
+Narada of unimpeachable deeds gave that Parijata flower to her
+(Rukshmini) in my presence, merely out of generous feelings or regard
+for her; (but I did not give it with my own hands). O thou of 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0223 | next_story_id: DKS_0225
+previous title: Krishna Consoles the Jealous Satyabhama || Krishna steals into Satyabhama's chamber and, fanning her and wiping her tears, protests that his love dwells in her alone.
+next title: Krishna Sends Narada to Ask Indra for the Parijata || Krishna asks Narada to request the Parijata tree from Indra as a brotherly favour, and warns that if refused he will come himself to seize it.

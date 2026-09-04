@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0109",
+ "title": "The Gopi's Lament to the Bee",
+ "subtitle": "Bhramara-gita",
+ "story": "Krishna, the cowherd boy of Vrindavan, had gone away to the city of Mathura, and the village was quieter for it. The gopis — the cowherd women who had grown up around him — carried his absence like a weight. One day one of them sat a little apart from the others, turning over her grief, when a honeybee came humming and settled near her feet. Her mind was so full of Krishna that she did not see an insect. She saw a messenger, come from far away, and she spoke to it as though it could carry her words back to him.\n\nO bee, she said, friend of the cheat — do not touch my feet. She knew what it was, she said, the moment she saw it: a courier wearing the saffron of the garlands that had been crushed against other women's breasts, come to mock her before the assembly of the Yadavas, Krishna's own family. Let Krishna carry his favor to those proud women who now have him, she said; I have no need of a messenger from such a place.\n\nHer anger was grief with nowhere else to go. He made us drink once, she said, the nectar of his lips, and it bewitched us — and now he casts us aside like flowers, the way a garland is thrown down when the evening is over. How is it, she asked, that the goddess of fortune waits upon his feet, though she too has lost her heart to him? Why does the bee sing of the lord of the Yadavas here, before us, who have nothing left to offer it? Let it sing instead before his new loves, the ones whose pain he has already eased.\n\nShe did not stop. She remembered how he had always charmed and then wounded — taking what was offered and then binding the giver, the way a hunter calls and then strikes — and she said, enough of friendship with the dark one, though his stories are the one thing we can never let go of.\n\nAnd even as she said enough, she could not leave him. Others, she said, had heard a single drop of the nectar of his deeds and had abandoned home and family to wander like birds. We trusted him, she said, the way a deer trusts a hunter's call — and we have felt the sharp hurt of longing again and again. Dear friend, she said to the bee, if you are truly sent by the one I love, choose what you want and take it, for you are to be honored by me. But how will you carry us back to him, whose side no one can bear to leave, and on whose chest the goddess of fortune sits as his wife?\n\nThen all her reproach collapsed into a single, helpless question. Does he still dwell in the city of Madhu — in Mathura, where he lives now? Does he remember his father's house, and his kinsmen, and the cowherds? Does he ever speak of us, his maidservants? And when — when will he place on my head that arm of his, fragrant with aloe?\n\nShe did not expect the bee to answer. The question was not really for the bee at all. It was the same thing she had been asking the empty air every day since he left, and it would go on being asked until he came back.",
+ "reflection": "The lament's power is that reproach and longing are the same act. The gopi accuses Krishna of abandoning her precisely because she cannot imagine a world without him; every bitter word is only another way of keeping him near.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "gopis",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "separation",
+  "devotion",
+  "grief"
+ ],
+ "previous_story_id": "DKS_0108",
+ "next_story_id": "DKS_0110",
+ "next_story_tease": "The messenger who had come to Vrindavan would soon carry her words, and Krishna's answer, back between them.",
+ "hero_scene": "A lone gopi seated beneath a tree in Vrindavan, speaking to a honeybee hovering near her feet, her face torn between anger and longing, the grove quiet and empty around her.",
+ "visual_elements": [
+  "a lone gopi seated apart",
+  "a honeybee hovering near her feet",
+  "the quiet Vrindavan grove",
+  "anger and longing on her face",
+  "autumn emptiness",
+  "the absent Krishna"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.47.10-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:47Z",
+  "source_event_id": "evt_0158",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_audio_minutes": 4,
+ "estimated_read_minutes": 3
+}

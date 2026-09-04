@@ -1,0 +1,102 @@
+# STORY DKS_0364 — Krishna Stops the Angry Kings from Attacking the Pandavas
+
+## Index entry
+title: Krishna Stops the Angry Kings from Attacking the Pandavas
+summary: When the insulted kings rush to attack Drupada and the Pandavas, Krishna declares that Draupadi has been justly won and persuades the monarchs to abandon the fight.
+life_stage: pandava_period | story_arc: pandava_friendship
+characters: Krishna, Bhima, Arjuna, Drupada, Karna, Salya
+locations: Panchala, Drupada's amphitheatre
+themes: conciliation, protection, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0382
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 1 | chapter/section 192 | verses  | confidence 4
+  excerpt: And Krishna, having beheld that feat of Bhima, believed them both to be the son of Kunti. And gently addressing the assembled monarchs, saying, 'This maiden hath been justly acquired (by the Brahmana),' he induced them to abandon the fight. Accomplished in battle, those monarchs then desisted from the fight.
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 1.192 ()
+(Swayamvara Parva continued)
+
+“Vaisampayana said, ‘Then those bulls among Brahmanas shaking their
+deer-skins and water-pots made of cocoanut-shells exclaimed, ‘Fear not,
+we will fight the foe!’ Arjuna smilingly addressing those Brahmanas
+exclaiming thus, said, ‘Stand ye aside as spectators (of the fray)
+Showering hundreds of arrows furnished with straight points even I shall
+check, like snakes with mantras, all those angry monarchs.’ Having said
+this, the mighty Arjuna taking up the bow he had obtained as dower
+accompanied by his brother Bhima stood immovable as a mountain. And
+beholding those Kshatriyas who were ever furious in battle with Karna
+ahead, the heroic brothers rushed fearlessly at them like two elephants
+rushing against a hostile elephant. Then those monarchs eager for the
+fight fiercely exclaimed, ‘The slaughter in battle of one desiring to
+fight is permitted.’ And saying this, the monarchs suddenly rushed
+against the Brahmanas. And Karna endued with great energy rushed against
+Jishnu for fight. And Salya the mighty king of Madra rushed against Bhima
+like an elephant rushing against another for the sake of a she-elephant
+in heat; while Duryodhana and others engaged with the Brahmanas,
+skirmished with them lightly and carelessly. Then the illustrious Arjuna
+beholding Karna, the son of Vikartana (Surya), advancing towards him,
+drew his tough bow and pieced him with his sharp arrows. And the impetus
+of those whetted arrows furnished with fierce energy made Radheya (Karna)
+faint. Recovering consciousness Karna attacked Arjuna with greater care
+than before. Then Karna and Arjuna, both foremost of victorious warriors,
+desirous of vanquishing each other, fought madly on. And such was the
+lightness of hand they both displayed that (each enveloped by the other’s
+shower of arrows) they both became invisible (unto the spectators of
+their encounter). ‘Behold the strength of my arms.’--‘Mark, how I have
+counteracted that feat,’--those were the words--intelligible to heroes
+alone--in which they addressed each other. And incensed at finding the
+strength and energy of Arjuna’s arms unequalled on the earth, Karna, the
+son of Surya, fought with greater vigour. And parrying all those
+impetuous arrows shot at him by Arjuna, Karna sent up a loud shout. And
+this feat of his was applauded by all the warriors. Then addressing his
+antagonist, Karna said, ‘O thou foremost of Brahmanas, I am gratified to
+observe the energy of thy arms that knoweth no relaxation in battle and
+thy weapons themselves fit for achieving victory. Art thou the embodiment
+of the science of weapons, or art thou Rama that best of Brahmanas, or
+Indra himself, or Indra’s younger brother Vishnu called also Achyuta, who
+for disguising himself hath assumed the form of a Brahmana and mustering
+such energy of arms fighteth with me? No other person except the husband
+himself of Sachi or Kiriti, the son of Pandu, is capable of fighting with
+me when I am angry on the field of battle.’ Then hearing those words of
+his, Phalguna replied, saying, ‘O Karna, I am neither the science of arms
+(personified), nor Rama endued with superhuman powers. I am only a
+Brahmana who is the foremost of all warriors and all wielders of weapons.
+By the grace of my preceptor I have become accomplished in the Brahma and
+the Paurandara weapons. I am here to vanquish thee in battle. Therefore,
+O hero, wait a little.’
+
+“Vaisampayana continued, ‘Thus addressed (by Arjuna), Karna the adopted
+son of Radha desisted from the fight, for that mighty chariot-fighter
+thought that Brahma energy is ever invincible. Meanwhile on another part
+of the field, the mighty heroes Salya and Vrikodara, well-skilled in
+battle and possessed of great strength and proficiency, challenging each
+other, engaged in fight like two elephants in rut. And they struck each
+other with their clenched fists and knees. And sometimes pushing each
+other forward and sometimes dragging each other near, sometimes throwing
+each other down; face downward, and sometimes on the sides, they fought
+on, striking, each other at times with their clenched fists. And
+encountering each other with blows hard as the clash of two masses of
+granite, the lists rang with the sounds of their combat. Fighting with
+each other thus for a few seconds, Bhima the foremost of the Kuru heroes
+taking up Salya on his arms hurled him to a distance. And Bhimasena, that
+bull amongst men, surprised all (by the dexterity of his feat) for though
+he threw Salya on the ground he did it without hurting him much. And when
+Salya was thus thrown down and Karna was struck with fear, the other
+monarchs were all alarmed. And they hastily surrounded Bhima and
+exclaimed, ‘Surely these bulls amongst Brahmanas are excellent
+(warriors)! Ascertain in what race they have been born and where they
+abide. Who can encounter Karna, the son of Radha, in fight, except Rama
+or Drona, or Kiriti, the son of Pandu? Who also can encounter Duryodhana
+in battle except Krishna, the son of D
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0363 | next_story_id: DKS_0365
+previous title: Krishna Names the Pandavas to Balarama
+next title: Krishna and Balarama Meet the Pandavas at the Potter's House

@@ -1,0 +1,212 @@
+[
+ {
+  "group_id": "fc001",
+  "stories": [
+   "DKS_0001",
+   "DKS_0002",
+   "DKS_0004",
+   "DKS_0005",
+   "DKS_0006",
+   "DKS_0007",
+   "DKS_0008",
+   "DKS_0009"
+  ],
+  "context": "Fact-check group fc001: DKS_0001, DKS_0002, DKS_0004, DKS_0005, DKS_0006, DKS_0007, DKS_0008, DKS_0009. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc002",
+  "stories": [
+   "DKS_0010",
+   "DKS_0011",
+   "DKS_0012",
+   "DKS_0014",
+   "DKS_0016",
+   "DKS_0017",
+   "DKS_0019",
+   "DKS_0020"
+  ],
+  "context": "Fact-check group fc002: DKS_0010, DKS_0011, DKS_0012, DKS_0014, DKS_0016, DKS_0017, DKS_0019, DKS_0020. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc003",
+  "stories": [
+   "DKS_0021",
+   "DKS_0022",
+   "DKS_0023",
+   "DKS_0025",
+   "DKS_0026",
+   "DKS_0027",
+   "DKS_0029",
+   "DKS_0031"
+  ],
+  "context": "Fact-check group fc003: DKS_0021, DKS_0022, DKS_0023, DKS_0025, DKS_0026, DKS_0027, DKS_0029, DKS_0031. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc004",
+  "stories": [
+   "DKS_0034",
+   "DKS_0036",
+   "DKS_0037",
+   "DKS_0038",
+   "DKS_0039",
+   "DKS_0040",
+   "DKS_0041",
+   "DKS_0042"
+  ],
+  "context": "Fact-check group fc004: DKS_0034, DKS_0036, DKS_0037, DKS_0038, DKS_0039, DKS_0040, DKS_0041, DKS_0042. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc005",
+  "stories": [
+   "DKS_0043",
+   "DKS_0044",
+   "DKS_0045",
+   "DKS_0046",
+   "DKS_0048",
+   "DKS_0050",
+   "DKS_0051",
+   "DKS_0052"
+  ],
+  "context": "Fact-check group fc005: DKS_0043, DKS_0044, DKS_0045, DKS_0046, DKS_0048, DKS_0050, DKS_0051, DKS_0052. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc006",
+  "stories": [
+   "DKS_0053",
+   "DKS_0054",
+   "DKS_0055",
+   "DKS_0056",
+   "DKS_0057",
+   "DKS_0058",
+   "DKS_0059",
+   "DKS_0061"
+  ],
+  "context": "Fact-check group fc006: DKS_0053, DKS_0054, DKS_0055, DKS_0056, DKS_0057, DKS_0058, DKS_0059, DKS_0061. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc007",
+  "stories": [
+   "DKS_0062",
+   "DKS_0063",
+   "DKS_0064",
+   "DKS_0065",
+   "DKS_0066",
+   "DKS_0067",
+   "DKS_0068",
+   "DKS_0069"
+  ],
+  "context": "Fact-check group fc007: DKS_0062, DKS_0063, DKS_0064, DKS_0065, DKS_0066, DKS_0067, DKS_0068, DKS_0069. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc008",
+  "stories": [
+   "DKS_0070",
+   "DKS_0071",
+   "DKS_0072",
+   "DKS_0073",
+   "DKS_0075",
+   "DKS_0076",
+   "DKS_0077",
+   "DKS_0078"
+  ],
+  "context": "Fact-check group fc008: DKS_0070, DKS_0071, DKS_0072, DKS_0073, DKS_0075, DKS_0076, DKS_0077, DKS_0078. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc009",
+  "stories": [
+   "DKS_0079",
+   "DKS_0080",
+   "DKS_0081",
+   "DKS_0082",
+   "DKS_0083",
+   "DKS_0084",
+   "DKS_0086",
+   "DKS_0087"
+  ],
+  "context": "Fact-check group fc009: DKS_0079, DKS_0080, DKS_0081, DKS_0082, DKS_0083, DKS_0084, DKS_0086, DKS_0087. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc010",
+  "stories": [
+   "DKS_0088",
+   "DKS_0089",
+   "DKS_0090",
+   "DKS_0091",
+   "DKS_0092",
+   "DKS_0093",
+   "DKS_0094",
+   "DKS_0095"
+  ],
+  "context": "Fact-check group fc010: DKS_0088, DKS_0089, DKS_0090, DKS_0091, DKS_0092, DKS_0093, DKS_0094, DKS_0095. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc011",
+  "stories": [
+   "DKS_0096",
+   "DKS_0097",
+   "DKS_0098",
+   "DKS_0100",
+   "DKS_0101",
+   "DKS_0102",
+   "DKS_0103",
+   "DKS_0104"
+  ],
+  "context": "Fact-check group fc011: DKS_0096, DKS_0097, DKS_0098, DKS_0100, DKS_0101, DKS_0102, DKS_0103, DKS_0104. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc012",
+  "stories": [
+   "DKS_0105",
+   "DKS_0106",
+   "DKS_0108",
+   "DKS_0109",
+   "DKS_0110",
+   "DKS_0111",
+   "DKS_0112",
+   "DKS_0113"
+  ],
+  "context": "Fact-check group fc012: DKS_0105, DKS_0106, DKS_0108, DKS_0109, DKS_0110, DKS_0111, DKS_0112, DKS_0113. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc013",
+  "stories": [
+   "DKS_0114",
+   "DKS_0115",
+   "DKS_0116",
+   "DKS_0118",
+   "DKS_0119",
+   "DKS_0120",
+   "DKS_0121",
+   "DKS_0122"
+  ],
+  "context": "Fact-check group fc013: DKS_0114, DKS_0115, DKS_0116, DKS_0118, DKS_0119, DKS_0120, DKS_0121, DKS_0122. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc014",
+  "stories": [
+   "DKS_0123",
+   "DKS_0124",
+   "DKS_0125",
+   "DKS_0126",
+   "DKS_0127",
+   "DKS_0128",
+   "DKS_0129",
+   "DKS_0130"
+  ],
+  "context": "Fact-check group fc014: DKS_0123, DKS_0124, DKS_0125, DKS_0126, DKS_0127, DKS_0128, DKS_0129, DKS_0130. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ },
+ {
+  "group_id": "fc015",
+  "stories": [
+   "DKS_0131",
+   "DKS_0133",
+   "DKS_0134",
+   "DKS_0135",
+   "DKS_0136",
+   "DKS_0137",
+   "DKS_0138",
+   "DKS_0141"
+  ],
+  "context": "Fact-check group fc015: DKS_0131, DKS_0133, DKS_0134, DKS_0135, DKS_0136, DKS_0137, DKS_0138, DKS_0141. See docs/FULL_CORPUS_FACTCHECK.md. Work dir: /Users/dev_env/Documents/projects/indian_apps/dailyX/daily_krishna_stories"
+ }
+]

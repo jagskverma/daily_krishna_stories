@@ -1,0 +1,101 @@
+# STORY DKS_0188 — Vishwakarma Adorns Dwarka for Krishna || At Indra's request, the celestial architect Vishwakarma beautifies Dwarka after Amaravati, building golden palaces for each of Krishna's queens, and Krishna enters the adorned city.
+
+## Index entry
+title: Vishwakarma Adorns Dwarka for Krishna || At Indra's request, the celestial architect Vishwakarma beautifies Dwarka after Amaravati, building golden palaces for each of Krishna's queens, and Krishna enters the adorned city.
+summary: At Indra's request, the celestial architect Vishwakarma beautifies Dwarka after Amaravati, building golden palaces for each of Krishna's queens, and Krishna enters the adorned city.
+life_stage: dwaraka | story_arc: dwaraka_founded
+characters: Krishna, Vishwakarma, Indra
+locations: Dwarka
+themes: architecture, splendour, divine city
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0330
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 245 | verses  | confidence 4
+  excerpt: the king of gods sent for the celestial Architect and said:—"...do you... make his beautiful city more exquisite..." Vishwakarmā adorned it after Amarāvati... he built a highly beautiful golden palace... for Rukshmini
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.245 ()
+TITLE: THE CELESTIAL ARCHITECT BUILDS DWARAKA
+
+Vaishampāyana said:—Krishna, seated on Garuda’s back, saw the city of
+Dwārakā, resembling the abode of the celestials, filled with echoes on
+all sides, the mount Mani, sporting-houses, gardens, forests, turrets
+and court-yards, (1-2). After the arrival of Devaki’s son Krishna at the
+city (of Dwārakā), the king of gods sent for the celestial Architect and
+said:—"O foremost of artizans, if you wish to do what pleases me, do
+you, for satisfying Krishna, make his beautiful city more exquisite. O
+foremost of gods, encircling it with hundreds of gardens do you build
+the city of Dwārakā after that of the celestials (3-5). Adorn the city
+of Dwāravati with all the jems that you will see in the three worlds,
+for the highly powerful Krishna, rising up for all the works of the
+gods, always plunges into the dreadful ocean of war". Thereupon
+repairing to the city of Dwāravati at the words of Indra Vishwakarmā
+adorned it after Amarāvati. Beholding the city of Dwārakā adorned by
+Viswakarma with all celestial materials and having accomplished all his
+objects the Lord Nārāyana Hari, the master of Dāshārhas and ever riding
+on a bird, entered there. While he entered the city of Dwārakā
+embellished by Vishwakarmā he saw beautiful trees (6-10). He saw that
+the city was encircled by ditches filled with lotus-stalks resembling
+the rivers Gangā (Ganges) and Sindhu (Indus), and in which were sporting
+the swans (11). As the sky is covered with gold-hued clouds so that city
+looked beautiful with sunny walls made of gold set on (the roofs of) the
+houses (12). Encircled with gardens resembling Nandana and Chaitraratha
+Dwarakā appeared beautiful like the sky stricken with clouds (13). On
+its eastern side shone a beautiful gate made of gold and jems and the
+picturesque hill Raivataka with its charming table-land, caves and
+yards. On the south were bushes adorned with creepers of five colours
+and on the west was one of the colour of a rain-bow. O king, the yellow
+mountain Venumān, resembling Mandara, was beautifying the north. The
+forests of Chitrak, Panchavarna, Pānchajanya and Sarvartuka were
+enhancing the beauty of the mount Raivataka (14-17). There were also the
+beautiful forests of Bhārgava and Pushpaka huge like the mount Meru,
+which were covered with creepers extending to the roots of the trees
+(18). There were also the forests of Shatavarta and Karavirakarambhi
+beautified by the trees of Ashoka, Veejaka and Mandāra. The huge forests
+of Chaitra, Nandana, Ramana, Bhāvana and Venumat were extending their
+beauty on all sides. O descendant of Bharata, on the east were the great
+river Mandākini adorned with Vaidurja and lotus leaves and a charming
+tank. Requested by Vishwakarma numberless gods and Gandharvas, for
+pleasing Keshava, had adorned the table-lands there. With fifty mouths,
+the sacred river Mandākini entered into the city of Dwārakā and
+gladdened the inhabitants thereof. Looking at the city of Dwārakā of
+incomparable beauty, encircled by ditches and walls, painted with yellow
+paints and embellished with sharpened Shataghnis and iron discuses
+Krishna saw that eight thousand cars, adorned with net-works of bells
+and flying banners, had made the city look beautiful like that of the
+celestials (19–26). He saw the firmly established city Dwārakā eight
+_yojanas_ in length and twelve in breadth with double the number of
+colonies. That city, consisting of eight highways and sixteen crossings,
+was as if so made by Ushanā himself with one road, that even the women,
+what to speak of the Vrishnis, could easily fight there. Viswakarmā had
+laid out seven high roads for the arrangement of soldiers (27–29).
+Beholding the palaces of the illustrious Dāshārhas, in that best of
+cities, delightful to men, containing golden and jewelled stairs, filled
+with dreadful echoes and abounding in courtyards Devaki’s son was highly
+pleased. The turrets of those palaces were adorned with flags, leaves
+and trees. Those palaces were adorned with golden domes resembling the
+summits of the mount Meru. The tops of the houses, as if covered with
+golden flowers and others of five colours, imitated the beauty of
+mountains with charming summits and caves. Filled with noise like unto
+the muttering of clouds and burning like forest-fire those houses, built
+by Viswakarmā, were looking like so many mountains and filled the sky
+with effulgence like the sun and moon. The city was embellished with
+forest trees and the noble Dāshārhas. The city of Dwārakā, adorned with
+cloud-like houses and the gods Vāsudeva and Indra, looked like the
+welkin stricken with variegated clouds. The house, built by Vishwakarma
+for the Divine Vāsudeva, was four _yojanas_ in length and the same in
+breadth. The house of the incomparable and the greatly rich Vāsudeva was
+adorned with palaces and false mountains. The great Vishwakarmā built
+that house under Vasava’s orders (3-40). Vishwakarmā made a highly
+beautiful golden palace huge like the highest summ
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0187 | next_story_id: DKS_0189
+previous title: Krishna Enriches Dwaraka || Krishna bids the treasure-guard Sankha shower wealth on every household and sends Vayu to fetch the celestial assembly-hall Sudharma from heaven.
+next title: Viswakarma Builds Dwaraka for Krishna

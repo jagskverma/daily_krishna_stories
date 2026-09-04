@@ -1,0 +1,47 @@
+# STORY DKS_0527 — Vidura Meets the Grieving Uddhava
+
+## Index entry
+title: Vidura Meets the Grieving Uddhava
+summary: On the banks of the Yamuna, Vidura meets Uddhava, who is plunged in grief and remembrance of Krishna's departure, and hears him lament that the Yadavas never recognized the Lord who dwelt among them.
+life_stage: other | story_arc: krishna_departure
+characters: Uddhava, Vidura
+locations: the bank of the Yamuna
+themes: grief, remembrance, separation, frame narrative
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0537
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 1-20 | confidence 5
+  excerpt: Uddhava, asked by Vidura, was for a moment silent, sunk in the nectar of Krishna's feet, his limbs thrilling with devotion; then, wiping his eyes, he smiled and said: 'The sun Krishna has set; what good news can I tell in homes bereft of fortune? Wretched is this world, and more so the Yadavas, who dwelt with Hari and knew him not.' (rendered from Sanskrit, verses 3-7)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (1-20)
+1. yaḥ pañca-hāyano mātrā prātar-āśāya yācitaḥ /
+2. sa kathaṃ sevayā tasya kālena jarasaṃ gataḥ /
+3. sa muhūrtam abhūt tūṣṇīṃ kṛṣṇāṅghri-sudhayā bhṛśam /
+4. pulakodbhinna-sarvāṅgo muñcan mīlad-dṛśā śucaḥ /
+5. śanakair bhagaval-lokān nṛlokaṃ punar āgataḥ /
+6. bhp_03.02.007/0 uddhava uvāca
+7. durbhago bata loko 'yaṃ yadavo nitarām api /
+8. iṅgita-jñāḥ puru-prauḍhā ekārāmāś ca sātvatāḥ /
+9. devasya māyayā spṛṣṭā ye cānyad asad-āśritāḥ /
+10. pradarśyātapta-tapasām avitṛpta-dṛśāṃ nṛṇām /
+11. yan martya-līlaupayikaṃ sva-yoga- māyā-balaṃ darśayatā gṛhītam /
+12. yad dharma-sūnor bata rājasūye nirīkṣya dṛk-svastyayanaṃ tri-lokaḥ /
+13. yasyānurāga-pluta-hāsa-rāsa- līlāvaloka-pratilabdha-mānāḥ /
+14. sva-śānta-rūpeṣv itaraiḥ sva-rūpair abhyardyamāneṣv anukampitātmā /
+15. māṃ khedayaty etad ajasya janma- viḍambanaṃ yad vasudeva-gehe /
+16. dunoti cetaḥ smarato mamaitad yad āha pādāv abhivandya pitroḥ /
+17. ko vā amuṣyāṅghri-saroja-reṇuṃ vismartum īśīta pumān vijighran /
+18. dṛṣṭā bhavadbhir nanu rājasūye caidyasya kṛṣṇaṃ dviṣato 'pi siddhiḥ /
+19. tathaiva cānye nara-loka-vīrā ya āhave kṛṣṇa-mukhāravindam /
+20. svayaṃ tv asāmyātiśayas tryadhīśaḥ svārājya-lakṣmy-āpta-samasta-kāmaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0526 | next_story_id: DKS_0528
+previous title: Arjuna Brings News of the Yadava End
+next title: The Abhiras Rob Arjuna

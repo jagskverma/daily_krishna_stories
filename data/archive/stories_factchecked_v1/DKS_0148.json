@@ -1,0 +1,71 @@
+{
+ "id": "DKS_0148",
+ "title": "Krishna Retrieves Sandipani's Son",
+ "subtitle": null,
+ "story": "When Krishna and his brother Balarama had finished their years of study, they went to their teacher, the sage Sandipani, and asked what fee he would take. A student's debt to a teacher is not discharged with words, and the two brothers, who had learned the whole Veda at his feet, meant to pay it in full. They had come to him not as princes but as students, and he had taught them as he would teach any boy, holding nothing back. It was the custom that a student, at the end of his studies, offers his teacher whatever is asked of him, and the two brothers had come prepared to give anything. What Sandipani named was not gold or cattle or land.\n\nLong ago, he told them, his young son had died in the sea at Prabhasa and had never come home. The sage had consulted with his wife before he spoke, for the request was not a small one; it reached back into a grief that had never healed. “Give me back my son,” he said. It was a fee no one else in the world could pay. Krishna agreed at once.\n\nHe and Balarama mounted their chariot and drove to Prabhasa, to the very shore where the boy had been lost, and there they sat down at the water's edge. It was a long road, but they did not linger on it; a teacher's word had set them moving, and they meant to see it done. The shore was empty, and the waves came up the sand and fell back again, as if the sea were waiting to see what they would ask. The ocean itself, knowing who had come, rose and brought them an offering and asked what they sought. “The son of our teacher,” Krishna said. “Give him back to us.”\n\nBut the sea answered that the boy was not in its keeping. “A demon named Panchajana,” it said, “who lives in these waters in the form of a conch shell, carried him off. It is Panchajana who has him.” The sea spoke plainly, as one who did not wish to be blamed for what another had done.\n\nAt these words Krishna went down into the water without a moment's hesitation, down into the cold and the dark where the demon lay coiled in his shell, while Balarama waited on the shore above. He found Panchajana in the depths and slew him, and from the demon's body — for Panchajana was a monster shaped like a conch — he took the great shell itself, the conch the world would come to know as Panchajanya, named for the demon from whose form it was made. Then he climbed back into the chariot, the conch in his hand, and with Balarama beside him he drove to the city of Yama, the lord of death.\n\nThe city of the dead is not reached by any road of the living, but at its gates Krishna raised the conch and blew it, and the sound of Panchajanya rolled through the realm of the dead like a summons no one there could refuse. Yama himself came out to meet them and honored them with deep reverence, and the boy — the teacher's son, dead and lost — was returned to the two brothers, brought back from death itself. Death, which had held him so long, gave him up without argument.\n\nThey drove back to the hermitage with the boy alive again, seated in the chariot between them, and laid him in his father's arms — the boy restored in his former person, as he had been before the sea took him, with no mark of death upon him, so that a father's long grief was ended in a single afternoon. Sandipani, receiving his son from death, blessed the two brothers and sent them on their way. “Go home, heroes,” he said, “and may your fame be pure.”",
+ "reflection": "The story is unusual among the tales of Krishna's deeds because he appears in it as a student repaying a teacher, not as a king or a warrior. The fee Sandipani names — the life of his son — is one that no wealth could settle, and Krishna treats it as a debt he is glad to pay, going as far as the realm of death itself to honor a teacher's word.",
+ "tradition_note": null,
+ "content_note": "Krishna slays the sea-demon Panchajana; the death is described briefly and without detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Sandipani",
+  "Yama",
+  "Panchajana"
+ ],
+ "locations": [
+  "Prabhasa",
+  "Yama's city"
+ ],
+ "themes": [
+  "guru-dakshina",
+  "resurrection"
+ ],
+ "previous_story_id": "DKS_0140",
+ "next_story_id": "DKS_0189",
+ "next_story_tease": null,
+ "hero_scene": "Krishna stands at the gates of Yama's dark city, raising the great conch Panchajanya to his lips, while Balarama waits at his side and the sound of the conch rolls out through the realm of death.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "the conch Panchajanya",
+  "the ocean at Prabhasa",
+  "the demon Panchajana in the deep",
+  "the gates of Yama's city",
+  "the returned boy",
+  "reverence and awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.36-47",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.3.1",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.88",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.21",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:07:13Z",
+  "source_event_id": "evt_0152"
+ },
+ "editorial_status": "unreviewed"
+}

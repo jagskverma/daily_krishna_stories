@@ -1,0 +1,32 @@
+# STORY DKS_0508 — The Python's Contentment and the Ocean's Depth
+
+## Index entry
+title: The Python's Contentment and the Ocean's Depth
+summary: The avadhuta learns from the python to accept whatever food chance brings without striving, and from the ocean to remain deep, full and unmoved whether rivers pour in or not.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the avadhuta, the python, the ocean
+locations: (teaching)
+themes: contentment, equanimity, stillness
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0528
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 8 | verses 1-5 | confidence 5
+  excerpt: The avadhuta said: 'The python eats whatever comes by chance, whether fine or foul, much or little, and lies still for days without food if nothing comes. The sage is serene and unfathomable like the ocean, which neither swells when rivers pour in nor dries when they do not.' (rendered from Sanskrit, verses 1-5)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.8 (1-5)
+1. grāsaṃ su-mṛṣṭaṃ virasaṃ mahāntaṃ stokam eva vā /
+2. śayītāhāni bhūrīṇi nirāhāro 'nupakramaḥ /
+3. ojaḥ-saho-bala-yutaṃ bibhrad deham akarmakam /
+4. muniḥ prasanna-gambhīro durvigāhyo duratyayaḥ /
+5. samṛddha-kāmo hīno vā nārāyaṇa-paro muniḥ /
+
+## Corpus chain
+previous_story_id: DKS_0507 | next_story_id: DKS_0509
+previous title: The Pigeon and the Hunter's Net
+next title: The Moth and the Bee

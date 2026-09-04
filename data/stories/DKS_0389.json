@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0389",
+ "title": "The Highest Hands at the Lowest Work",
+ "subtitle": null,
+ "story": "Yudhishthira's Rajasuya — the great sacrifice meant to crown him king of kings — was in its last days at Indraprastha. On the final day, when the king himself was to be sprinkled with the consecrating waters, the inner enclosure of the sacrifice held the most extraordinary gathering the age had seen. The great sages had come with the invited kings — men who had lived on mountain air and silence — and sat at ease beside the thrones, with Narada at their head, a wanderer who had watched more ages begin and end than the kings had counted years. They argued and tested one another's wisdom like hawks darting at meat thrown into the air, and the enclosure, crowded with kings and seers, shone like the night sky thick with stars. No one who had not taken the vows of the sacrifice came near that platform; Yudhishthira's offering had drawn the whole world, and the whole world had come in its best.\n\nNarada looked at the king's prosperity, born of the sacrifice, and was glad. Then he looked at the vast company of warrior-kings, the pride of every royal house in the land, and grew thoughtful. He remembered words he had heard long ago in the mansion of Brahma, when the gods had been commanded to be born on earth, to meet one another in the field of war, and to return. This was no mere gathering of princes, he knew, but a meeting of gods in mortal bodies — and the one who moved among them as a man was the one he had known as the source of all things: Narayana, the lord of all, born into the line of the Yadavas, who had himself given that command. So the seer sat at the sacrifice with awe, and saw what no one else in that brilliant hall could see: that many who sat here together in friendship would one day meet again on a battlefield, and the earth would be the lighter for it.\n\nAnd into the middle of that glory came the moment no telling of the Rajasuya leaves out.\n\nKrishna — he who was himself the center of all worlds, round whom every creature moved — was washing the feet of the priests. He did it himself, taking the lowliest task of the sacrifice, the office no proud man would take, because he wished the rite to bear excellent fruit. No one had asked him; no one could have commanded him. He chose it, and did it so quietly that the old telling records it without fuss, as if it were the most natural thing in the world.\n\nThen Bhishma, the grandsire of the Kurus and the most honored voice in the hall, rose and spoke to Yudhishthira. \"Let an offering of honor be given to the kings, each as he deserves,\" he said. \"Six kinds of men are owed such honor: the teacher, the priest of the sacrifice, a kinsman, a student who has finished his studies, a friend, and a king. But let the first offering go to the foremost among those present. As the sun among all lights, so is this one among us in strength and prowess. This hall is lit and gladdened by him, as a sunless region is by the sun, or still air by a breeze.\"\n\nYudhishthira asked whom he meant, and Bhishma answered from his knowledge of men: Krishna. So at the grandsire's command, Sahadeva, the youngest of the five brothers, brought the first offering of the finest things the sacrifice could give, set it before Krishna of the Vrishni line, and Krishna accepted it as the rites prescribe.\n\nThe hall had seen him kneel with the water at the priests' feet; now it saw him raised above every king — and no one found the two things strange. The bent back at the water and the lifted vessel of honor belonged to the same man, and that was the truest thing the Rajasuya showed that day.\n\nBut among the seated kings, one had watched the first offering with a face like a closed fist. His grievance was older than the sacrifice, and it would not wait for the consecration.",
+ "reflection": "The juxtaposition is the meaning: the same man takes the lowest office in the sacrifice and then receives its highest honor, and no one finds the two in tension. Narada's vision — that the assembly was a concourse of gods gathered to thin the burdened earth — gives the scene its quiet weight: the one serving at the feet of priests is the one who set the whole gathering in motion.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Bhishma",
+  "Narada",
+  "Sahadeva"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "humility",
+  "service",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0388",
+ "next_story_id": "DKS_0390",
+ "next_story_tease": "One king's old grievance, smoldering through the honors, was about to turn the assembly to battle.",
+ "hero_scene": "In the blazing inner enclosure of the Rajasuya, Krishna kneels at a low basin washing the feet of seated brahmana seers, water spilling over his hands, while behind him the sacrificial platform blazes with golden vessels and the kings of the earth look on.",
+ "visual_elements": [
+  "Krishna kneeling to wash the feet of the brahmanas",
+  "the brahmana seers seated in the enclosure with Narada among them",
+  "the crowded, star-bright sacrificial platform",
+  "Sahadeva presenting the first arghya to Krishna",
+  "the seated kings watching, one with a darkened face"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:30Z",
+  "source_event_id": "evt_0396",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

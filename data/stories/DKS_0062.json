@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0062",
+ "title": "The Cowherds Wonder at Krishna's Deeds",
+ "subtitle": null,
+ "story": "Govardhan, the great hill that stood over the pastures, was back in its place; the storm had worn itself out; and still the cowherds of Vrindavan could not stop turning the matter over. They gathered in knots at the edges of the pastures, speaking in low voices and glancing now and then toward the boy who sat among the calves as though nothing at all had happened.\n\nHow could a child of seven hold up a mountain with one hand? They had seen it with their own eyes — the boy standing beneath the great hill while the rain lashed down and the people and the cattle sheltered under it — and seeing it had not made it any easier to believe. It was not a thing a boy could do. It was not a thing a man could do. And it was not the first strange thing, either. Not by a long way.\n\nSo they began to count, the way men count debts they cannot pay. There was Putana, the demon woman who had come to Vrindavan in the shape of a nurse and taken the child to her breast to feed him, and from whom he — a babe whose eyes were barely open — had drawn out the life instead. There was the whirlwind that had snatched him up when he was a year old and carried him high into the sky. There was the morning his mother Yashoda caught him stealing butter and, in her vexation, bound him to a heavy grinding mortar. There were the demons of the forest: the one who had slipped among the calves in the form of a calf, the donkey demon and all his kindred, and Pralamba, whom Balarama had thrown down. And there was the serpent Kaliya, whose venom had poisoned the river and whom the boy had subdued and driven out of the lake.\n\nOne by one they set these things down, and the counting only deepened their confusion. A boy of seven, they said, and a mountain lifted. The two things would not sit together in the mind. And yet beneath all the counting lay something else, harder to name — a love for the boy that none of them could set aside, a fondness that held them fast no matter what he did or what he was.\n\nNanda listened to all of it and said nothing for a long while. Then he spoke, and what he said did not explain the matter away. He gave them back the words of Garga, the family priest — words spoken long ago, when the child was born, and kept quiet ever since.\n\nNanda had called Garga to Vrindavan to give the child his name. The old sage had come, and he had known at once who the child truly was, and in confidence he had told Nanda what could not be said too loudly. 'This son of yours,' Garga had said, 'was once born of Vasudeva. He takes a body in each age, and many are his names and his forms. He is the delight of the cowherds and of the cattle, and he will be your welfare. In earlier times the good were harried by the wicked, and he will stand between you and every danger. This boy, Nanda, is the equal of Narayana in his qualities.' And having said it, Garga had returned to his own home.\n\nThis was what Nanda repeated to the cowherds now, and hearing Garga's words from his lips, they felt their fear loosen. It was a strange comfort — not an answer to how a boy could lift a mountain, but a reason not to be afraid of the question. The wonder did not leave them; it found a place to rest. If the boy among the calves was truly what the old sage had said, then a lifted mountain was no contradiction at all — only one more wonder from a boy who had such wonders in him. And they looked at him with new eyes.",
+ "reflection": "The cowherds' wonder is never answered with an explanation. Nanda gives them something older and stranger — the memory of a prophecy spoken in confidence years before. It does not explain how a boy lifts a mountain; it tells them who the boy is, which turns the impossible into something to be trusted rather than feared.",
+ "tradition_note": "The Vishnu Purana gives a different turn to this episode: there the cowherds voice their doubt directly to Krishna, who answers that he is simply their kinsman, neither god nor Yaksha nor demon. The Bhagavata, followed here, has Nanda quiet their wonder by recalling Garga's prophecy instead.",
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "cowherds",
+  "Nanda",
+  "Garga",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "wonder",
+  "prophecy"
+ ],
+ "previous_story_id": "DKS_0061",
+ "next_story_id": "DKS_0063",
+ "next_story_tease": "But the wonder was not finished with them; soon Nanda himself would be taken from the river in the night.",
+ "hero_scene": "A circle of cowherds gathered at the edge of the pasture in the soft light after the storm, turning toward Nanda as he speaks, while Krishna sits a little distance off among the calves, calm and unaware of the talk.",
+ "visual_elements": [
+  "Krishna seated among calves",
+  "a circle of cowherds in discussion",
+  "Nanda speaking",
+  "the memory of Garga, the old priest",
+  "Govardhan hill resting on the ground",
+  "clearing after the storm",
+  "wonder and quiet awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.26.1-23",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.13",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:25Z",
+  "source_event_id": "evt_0100",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

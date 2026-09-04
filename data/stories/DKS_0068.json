@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0068",
+ "title": "The Empty Forest",
+ "subtitle": null,
+ "story": "Keshi came to Vrindavan in the shape of a horse, and he came with a purpose. Kamsa, the king who wanted Krishna dead, had sent this demon to do his work, and Keshi had obeyed: he went straight into the forest and set about the cowherds as his master wished.\n\nHe was no ordinary horse. His mane tossed like a storm cloud, and his neighing was itself a terror. He had been born in the same hour as Kamsa, so the tales ran, and was as dear to the king as his own life — a peerless fighter who had never met his equal. Now he fell upon the cows and the cowherds, killing and feeding on them, and wherever he ranged the forest fell empty: the people who lived by the woods drew away from it, the paths the herds had worn went unused, and the animals could no longer travel the forest roads. For a time the woods seemed to belong to the demon alone.\n\nThen one day, following the sound of men, the horse came to the settlement of the cowherds. The moment the women and the boys and the men saw him, they set up a cry and fled — to Krishna, their refuge, calling out his name.\n\nKrishna gave them his word and went out to meet the demon. Some of the cowherds cried after him, urging him back. \"You are only a boy,\" they said, \"and this one is beyond the strength of us all.\" But Krishna had already made up his mind.\n\nThe horse saw him coming and charged, his mouth open wide as if he meant to drink the sky, his eyes and teeth bared, his neck raised high. Krishna roared like a lion and met the rush. The horse struck at him with his forehooves and bore down on him; Krishna slipped aside from the first rush, caught hold of the demon, whirled him around, and hurled him to the ground.\n\nKeshi rose, angrier than before, and came at him again, his jaws stretched open to bite. This time Krishna stood his ground. Smiling, he thrust his arm into the horse's open mouth, like a hand pushed down a serpent's hole. The demon's teeth met that arm and dropped out, as though they had touched hot iron, and once inside, the arm began to swell, growing until it filled the creature and stopped his breath. Keshi choked. He kicked out his legs and struggled, and then he was still, his body split open like a ripened gourd — or, as some tell it, like a tree torn apart by lightning. Krishna drew his arm out again.\n\nFrom the sky the gods showered flowers upon him. And from that deed Krishna took a name that stayed with him for good: because he had slain Keshi, the world would call him Keshava — the slayer of Keshi.",
+ "reflection": "The fight is decided by a strange, almost gentle gesture — Krishna does not strike the horse so much as fill it, letting his arm grow until the creature's own fury chokes it. It is a striking reversal: the demon that came to devour is itself devoured by stillness, and the victory leaves behind not only peace but a name.",
+ "tradition_note": "The name Keshava, 'slayer of Keshi,' is recorded in the Harivamsha and the Vishnu Purana; the Bhagavata tells the fight itself without pausing on the name.",
+ "content_note": "A horse-demon is slain as Krishna thrusts his arm into its mouth; the violence is brief and not described in graphic detail.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Keshi"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "demon-slaying"
+ ],
+ "previous_story_id": "DKS_0067",
+ "next_story_id": "DKS_0069",
+ "next_story_tease": "And the next danger would come wearing a friend's face.",
+ "hero_scene": "Krishna smiling as he thrusts his arm into the open mouth of the horse-demon Keshi, the creature's mane tossing like a storm-cloud as it chokes and its teeth fall away.",
+ "visual_elements": [
+  "Krishna",
+  "horse-demon Keshi",
+  "open mouth",
+  "storm-cloud mane",
+  "arm thrust into the mouth",
+  "cowherds fleeing",
+  "forest settlement",
+  "flowers showering from the gods",
+  "dread and triumph"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.37.1-7",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.79",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.16",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:07:44Z",
+  "source_event_id": "evt_0120",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

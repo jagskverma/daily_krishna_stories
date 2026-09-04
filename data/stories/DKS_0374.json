@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0374",
+ "title": "Agni Asks for the Khandava Forest",
+ "subtitle": null,
+ "story": "Krishna and Arjuna were resting on the bank of the Yamuna when the Brahmana with the matted locks stood before them and asked for food — not politely, but as a starving man asks. “I am a Brahmana with a boundless hunger,” he said, “and I ask you both to satisfy me.” “Tell us what food will satisfy you,” the two friends answered, “and we will do our best to give it to you.”\n\n“I do not desire ordinary food,” said the Brahmana, and his voice had changed. “Know that I am Agni, the fire itself. The food I want is the great forest of Khandava, which lies near where you sit — but Indra, the king of the gods, protects it. In that forest lives Takshaka the serpent, who is Indra’s friend, with his followers and his family, and for Takshaka’s sake Indra shields the whole wood and every creature in it. Whenever I blaze up to consume it, he pours rain down upon me from the clouds, and I fail. So I have come to you two, for you are both masters of weapons. If you will help me, I will surely eat that forest at last. Hold off Indra’s showers, and let no creature slip past you while I burn.”\n\nThese were the same matted locks the stranger had worn when he walked out of the summer grove; only now, as he spoke of blazing, something behind his eyes seemed to kindle. Two men who had fed armies and cities stood before a god who asked to be fed with a forest.\n\nBut why did the god of fire hunger so? The tale, the sages say, goes back to a king named Swetaki, a man of such strength and prowess that men compared him to Indra himself; no one on earth, it was said, ever equalled him in sacrifices, in charity, or in wisdom. Year after year Swetaki performed the five great sacrifices and many another, with vast gifts to the Brahmanas — until at last the priests who served him grew weak, their eyes inflamed by the endless smoke, and they left him, refusing to serve at his rites again. The king begged them to come back, but they would not, for their eyes still pained them. At the urging of those very priests he invited others in their place and finished the sacrifice he had begun. Then he set his heart on a greater work still: a sacrifice that would last a hundred years. This time not a single priest would help him. He bowed to them, spoke them fair, pressed gifts upon them; all refused. At last the king grew angry and told them plainly: “If I were a fallen man, or one who had failed you in homage and service, you would be right to abandon me. But I am neither, and you have no fair reason to block my sacrifice. If you turn from me out of spite alone, I will go to other priests, win them over with sweet words and gifts, and lay my cause before them.” The priests, who knew well that they could not serve at so vast a rite, pretended to be angry in their turn. “Your sacrifices never end,” they told him.\n\nAnd there the old tale stops. On the bank of the Yamuna, the two friends looked from the blazing Brahmana to the great dark forest across the water — the wood that Indra’s friendship had kept unburned for so long. The fire-god was asking them to stand between him and the rain. To refuse was possible; the request was only a request. But Agni had called them the two foremost of heroes on earth, and he had asked them for food. The two friends looked at each other, then at the forest — and the summer air was very still.",
+ "reflection": "Agni comes not as a god commanding but as a guest asking, and in that framing the heroes' weapons become an answer to hunger. The fiercest event in the story — the burning of a forest — begins with a request, the oldest courtesy of the world.",
+ "tradition_note": "The tale of King Swetaki, told here to explain Agni's craving for the Khandava forest, continues in the source beyond the passage excerpted here.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Agni",
+  "Indra",
+  "Takshaka"
+ ],
+ "locations": [
+  "Khandava forest",
+  "the banks of the Yamuna"
+ ],
+ "themes": [
+  "divine request",
+  "helping",
+  "mission"
+ ],
+ "previous_story_id": "DKS_0373",
+ "next_story_id": "DKS_0375",
+ "next_story_tease": null,
+ "hero_scene": "The Brahmana's form blazes as he reveals himself as Agni, fire flickering about his matted locks, one hand gesturing toward the vast dark forest of Khandava beyond the Yamuna, while Krishna and Arjuna listen with their weapons at hand and storm clouds gather over the distant trees.",
+ "visual_elements": [
+  "the Brahmana revealing himself as Agni, fire about his matted locks",
+  "Krishna and Arjuna listening, weapons at hand",
+  "the vast dark Khandava forest across the Yamuna",
+  "storm clouds gathering over the trees",
+  "the river between the heroes and the forest",
+  "the summer air heavy with the request"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.225",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:00Z",
+  "source_event_id": "evt_0389",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

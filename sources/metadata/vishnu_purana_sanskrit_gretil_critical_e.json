@@ -1,0 +1,18 @@
+{
+  "work": "Vishnu Purana (Sanskrit, GRETIL critical edition)",
+  "translator": "n/a (Sanskrit text)",
+  "edition": "GRETIL sa_viSNupurANa-crit.txt (critical edition text)",
+  "publication_year": null,
+  "download_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_viSNupurANa-crit.txt",
+  "download_date": "2026-09-01",
+  "format": "plain text (IAST)",
+  "copyright_status": "public domain",
+  "license_notes": "GRETIL licence; ancient text PD",
+  "sha256": "0221309c757e085221aba3ec50964600bf5e1198b0b218d2bf068854dfc4b146",
+  "files": [
+    "other/vishnu_purana_sanskrit_gretil_crit.txt"
+  ],
+  "role": "Sanskrit reference layer for Vishnu Purana",
+  "quality": "clean",
+  "confidence": 5
+}

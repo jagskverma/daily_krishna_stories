@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0428",
+ "title": "Parashurama Reveals Nara and Narayana",
+ "subtitle": "The legend of Dambhodbhava",
+ "story": "When Krishna finished speaking, the whole assembly sat silent, the hair on their bodies standing on end. Every king there thought the same thing: there was no man who could dare reply to that speech. And as the silence stretched on, a voice rose from among them — the voice of the sage Parashurama, the son of Jamadagni, addressing Duryodhana directly.\n\n\"Listen confidingly to my words, illustrated by an example,\" Parashurama said, \"and seek your own good if my speech recommends itself to you.\"\n\nAnd he told the assembly the story of a king of yore named Dambhodbhava, who was the head of the earth and whose sovereignty extended over the whole world. Every morning, after the night had passed away, that mighty car-warrior called the Brahmanas and the Kshatriyas to him and asked the same question: \"Be he a Sudra, a Vaisya, a Kshatriya, or a Brahmana, is there any one who is superior or even equal to me in battle?\" And uttering those words, the king wandered over the earth, intoxicated with pride and thinking of nothing else.\n\nCertain high-souled Brahmanas, conversant with the Vedas and fearing nothing on earth, counselled the monarch to curb his pride. But though they forbade him, the king went on asking the same question day after day. At last some Brahmanas, endued with ascetic merit and inflamed with anger, answered him plainly. \"There are two persons,\" they said, \"who are foremost of all men and always victorious in battle. You will by no means be equal to them if you seek an encounter with either one.\"\n\nThe king asked where those two heroes might be found, in what race they were born, and what feats they had achieved. \"They are ascetics called Nara and Narayana,\" the Brahmanas replied. \"They have both taken their births in the race of man. Go and fight with them if you will. That illustrious pair are even now practising the severest of penances in some hidden region of the mountains of Gandhamadana.\"\n\nUnable to bear even the reputation of such rivals, the king speedily mustered his great army, of the six kinds of forces, and marched to the rugged and frightful mountains of Gandhamadana. He searched among the woods and at last came upon the two ascetics, concealed in the forest, emaciated with hunger and thirst, their veins swollen and visible, much afflicted by the cold winds and the hot rays of the sun. The king approached them, touched their feet, and enquired after their welfare. The two Rishis received him hospitably, with fruits and roots, a seat and water, and then asked his business. \"Let it be done,\" they said.\n\nThe king spoke the words he was in the habit of speaking to all. \"The whole earth has been conquered by the might of my arms,\" he said. \"All my foes have been slain. Desiring a battle with you both, I have come to this mountain. Offer me this hospitality — I have cherished this wish for a long time.\"\n\n\"O best of kings,\" Nara and Narayana replied, \"wrath and covetousness have no place in this retreat. How can a battle be possible here? There are no weapons here, and nothing of unrighteousness and malice. Seek battle elsewhere — there are many Kshatriyas on earth.\"\n\nBut the king pressed them, and the Rishis soothed him and overlooked his importunity. Still he repeated his summons to battle, again and again. At last Nara took up a handful of grass-blades and said, \"Desirous of battle as you are, come, O Kshatriya, and fight! Take up all your arms and array your troops. I will curb your eagerness for battle hereafter!\"\n\nDambhodbhava answered that he had come desiring to fight and would fight even against such a weapon; and with all his troops he covered every side with a shower of arrows. That ascetic, however, by means of those blades of grass, baffled all the terrible shafts capable of mangling the bodies of hostile warriors. Then the invincible Rishi let off toward the king his own terrible weapon made of grass-blades, incapable of being counteracted — and what followed was so wonderful that it silenced every boast that had ever been made in Dambhodbhava's court. The king who had measured himself against the whole world found his measure at last.\n\nParashurama paused, and let the assembly understand the point of his tale before he spoke it aloud. \"They that were Nara and Narayana in days of yore,\" he said, \"are now Arjuna and Kesava. Know then, O great king, who these brave and foremost of persons are. If you believe in this and do not mistrust me, adopt a virtuous resolution and make peace with the sons of Pandu.\"\n\nThe kings of the earth sat in that assembly and looked at the two men among them — the charioteer-brother and the prince who had come to plead — and heard, in Parashurama's words, the oldest names in the world laid over their newest faces.",
+ "reflection": "The tale of Dambhodbhava is a lesson in misplaced pride delivered through the oldest of mirrors: the king who measured himself against every man on earth never once thought to ask what the gods' own companions might be. Parashurama leaves the assembly in no doubt about who sits before them — the question now is whether Duryodhana will believe it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Parashurama",
+  "Duryodhana",
+  "Dambhodbhava",
+  "Nara",
+  "Narayana"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly",
+  "Mount Gandhamadana"
+ ],
+ "themes": [
+  "divinity",
+  "counsel",
+  "peace"
+ ],
+ "previous_story_id": "DKS_0427",
+ "next_story_id": "DKS_0429",
+ "next_story_tease": "The appeal would be carried one step further, directly to Duryodhana himself.",
+ "hero_scene": "On the hidden slopes of Mount Gandhamadana, the emaciated ascetic Nara stands calmly holding up a handful of grass-blades while King Dambhodbhava's army looses a shower of arrows that the blades turn aside, the king's pride breaking at last before the weapon that cannot be counteracted.",
+ "visual_elements": [
+  "Nara holding a handful of grass-blades against a shower of arrows",
+  "King Dambhodbhava and his army on the slopes of Mount Gandhamadana",
+  "the emaciated ascetics Nara and Narayana in their forest retreat",
+  "Parashurama speaking in the Kuru assembly, the kings listening",
+  "Krishna and Arjuna seated among the assembled kings as the tale ends"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.096",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0435"
+ },
+ "editorial_status": "unreviewed"
+}

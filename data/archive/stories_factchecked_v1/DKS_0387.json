@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0387",
+ "title": "The City That Rose to Meet Him",
+ "subtitle": null,
+ "story": "News traveled ahead of the chariots. Krishna was coming — not for a visit this time, but for the Rajasuya, the great sacrifice through which Yudhishthira meant to be acknowledged as a king of kings. And the city of Indraprastha met him the way a festival meets the sun.\n\nThe streets had been swept and sprinkled with water fragrant with elephant musk. Banners streamed from every rooftop, golden arches stood at the crossings, and at each doorway sat the full pitchers that are the auspicious vessels of welcome. From the palace, Yudhishthira came out to meet him with his preceptors and his friends, and the sound that went before them was music and the chanting of the Vedas at once. When Krishna stepped down, the heart of the king of the Pandavas melted. Yudhishthira took him in both arms and held him, and the embrace said everything a court could not.\n\nBhima embraced him next, smiling through eyes blurred with love — Krishna was his mother's sister's son, his own cousin. Arjuna folded him in his arms. The twins, Nakula and Sahadeva, bowed and touched his feet. Around them the bards and panegyrists sang his praises, and the whole assembly seemed to press inward, each person wanting to be nearer to him. Of the welcome, the old telling notes simply that Krishna stood at the center of it like the jewel crowning a hundred good reputations.\n\nThe women of the city had abandoned their household work the moment the news came. Down the king's road they hurried, hair-braids coming loose and garments slipping in their eagerness, to stand where they could watch him pass. From the rooftops they showered flowers on him and welcomed him with smiles, embracing him in their minds. Those who caught sight of Krishna's queens — Rukmini, Satyabhama, Bhadra, Jambavati — murmured to one another that the ladies of the Vrishni house moved among them like the stars around the moon. What had those women done, they asked, to be looked on by one whose glance made a festival of the eyes of all the world?\n\nIn the palace, Kunti rose from her couch and went to meet her sister's son. Krishna bowed to his aunt and to the elder women of the household, and Kunti brought Govinda home with her own hands, honoring him as the lord of the three worlds. At her mother-in-law's bidding, Draupadi welcomed each of Krishna's queens — Kalindi, Mitravinda, Saibya, Nagnajiti, and the rest — and settled them in the women's quarters with every honor.\n\nYudhishthira settled Janardana himself, giving him the best of the palace. And when Krishna was seated at ease, the king spoke, and in the Mahabharata's telling his words are plain. \"It is because of you that the whole earth is under my sway,\" he said. \"It is through your grace that I have gathered this wealth. I desire to give it away according to the ordinance, to the brahmanas and to the fire. Grant me permission to perform the sacrifice with you and my brothers — install yourself at it, for if you perform it, I shall be cleansed of sin.\"\n\nKrishna answered with the affection of a friend who wants nothing from the friendship. \"You deserve imperial dignity. Let the great sacrifice be performed by you; if you perform it and obtain its fruit, we shall all regard ourselves as crowned with success. I am always engaged in seeking your good. Perform the sacrifice you desire — and employ me in some office for it, for I should obey all your commands.\"\n\n\"Then my resolve is already crowned with fruit,\" Yudhishthira said, \"since you have arrived here just as I wished.\"\n\nSo the son of Pandu set himself, with his brothers, to gathering the materials for the Rajasuya, and the arrival that had begun in embraces and showers of flowers became the beginning of the greatest sacrifice the age would see. For a few days more, though, there was only this: a king's city gladdened by the presence of its truest friend, like a dark region made bright by the sun.",
+ "reflection": "The Rajasuya is often remembered as the summit of Yudhishthira's glory, but this story records the arrival as pure affection — a city that empties its households to see one man pass. The political begins as the personal: the king who would conquer the world first asks his cousin to bless the undertaking.",
+ "tradition_note": "The Mahabharata frames the same arrival differently — Krishna coming with a mass of treasure for Yudhishthira and a Yadava army under Vasudeva's command. This account follows the Bhagavata's framing of the arrival as a reunion of love.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Bhima",
+  "Arjuna",
+  "Kunti",
+  "Draupadi",
+  "Rukmini",
+  "Satyabhama"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "friendship",
+  "reunion",
+  "family love"
+ ],
+ "previous_story_id": "DKS_0386",
+ "next_story_id": "DKS_0388",
+ "next_story_tease": "Yet not long before this day of glory, the same friendship had nearly been broken by an elopement — Arjuna had carried off Krishna's sister from the very heart of Dwaraka.",
+ "hero_scene": "Krishna stepping down from his chariot into the flower-strewn king's road of Indraprastha, Yudhishthira embracing him with both arms while Bhima, Arjuna and the twins press close, banners and golden arches overhead and women showering flowers from the rooftops.",
+ "visual_elements": [
+  "the flower-strewn, banner-hung king's road of Indraprastha",
+  "Yudhishthira embracing Krishna with both arms",
+  "Bhima, Arjuna and the twins greeting Krishna",
+  "women on rooftops showering flowers on the procession",
+  "Krishna's queens among the stars of the palace women"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.71.22-44",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.32",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:30Z",
+  "source_event_id": "evt_0365"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0339",
+ "title": "Aniruddha Is Betrothed to Rukmi's Granddaughter",
+ "subtitle": null,
+ "story": "The invitation reached Dvaraka on a bright morning, and more than one of Krishna's kinsmen read it twice. Bhojakata, the city of Rukmi, was asking for a wedding: his granddaughter Rocana was to be married, and the groom he named was Krishna's own grandson, Aniruddha. Everyone knew what the asking had cost him. Rukmi had carried a grudge against Krishna for years — the memory of an old humiliation, nursed in private until it had become a habit. And yet the words were there in his own hand: come, and give the girl away.\n\nThe quiet miracle behind the invitation had a name, and it was Rukmini. Rukmi's sister and Krishna's queen, she was the one person her brother could never quite refuse. Years before, Rukmi's daughter had chosen Pradyumna at her swayamvara — the ceremony in which a princess picks her own husband — and from that match had come Aniruddha, a youth already known through the clans as powerful and gallant, fierce in fight, the tamer of his foes. Now Rukmi's son had a daughter of his own, Rocana, and when Krishna asked for her hand for Aniruddha, the old king found himself caught between his pride and his family. To agree meant surrendering an enmity he had tended for years. To refuse meant hurting the sister he loved. In the end, for Rukmini's sake, he set the grudge aside, and the answer that rode back to Dvaraka was yes.\n\nSo Krishna's people made the journey to Bhojakata — the Yadavas, as the clan was called: Rukmini and Balarama, Krishna himself, and a train of their kin, bearing gifts for the bridal house, riding the road that Rukmi had once sworn no one from Dvaraka would travel again. The city, which for years had spoken of Krishna only in bitterness, hung garlands across its gates and swept its great hall for the feast. When Rukmini stepped down from her chariot at her brother's gate, the two of them stood looking at each other for a long moment — sister and brother, with years of quarrel between them — and then Rukmi bowed his head and welcomed her home. There was something strange and moving in the sight: two families that had spent years learning to be enemies, suddenly remembering how to be one.\n\nThe wedding itself was everything a wedding in a royal house should be — fires lit, hymns spoken, gifts exchanged between the houses. Aniruddha took Rocana's hand and the two were joined, and it was hard to find a heart in the hall that did not warm at the sight. The bride and groom were cousins on both sides of Rukmi's blood: Rocana was the daughter of Rukmi's son, and Aniruddha the son of Rukmi's daughter. In them, it seemed, the old king's own family came together again. Rukmini wept a little, watching her grandson stand beside her brother's granddaughter. If anyone saw Rukmi's eyes brighten as well, no one spoke of it.\n\nFor the days of the celebration, the old enmity lay quiet. Rukmi sat among the Yadavas, heard his sister laugh, saw his grandchildren bound to each other — and for a while, the grudge that had defined him seemed to have no place in the room. It may not have died that day; grudges like that rarely do. But it was set aside, deliberately, for the sake of the sister he loved. And for a while, that was enough.\n\nThe old quarrel had not run its course. Before the celebrations were over, Kalinga and other kings goaded Rukmi into a dice game with Balarama, and when Rukmi's taunts roused the enraged Balarama the wedding ended in blood, with Rukmi slain — remembered not as the day the quarrel ended but as the day it claimed him.\n\nThe road home to Dvaraka was long, and the talk along it ran two ways at once — of the young couple who had been wed, and of the king who had died at the wedding he himself had arranged.",
+ "reflection": "Rukmi does not surrender his enmity to any argument; he sets it aside for one person. The story is quiet about what that costs him, which is what makes it true — reconciliation here is not a change of heart so much as a choice, made again and again, in favor of family.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Rukmi",
+  "Aniruddha",
+  "Rocana",
+  "Rukmini"
+ ],
+ "locations": [
+  "Bhojakata"
+ ],
+ "themes": [
+  "family",
+  "marriage",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0338",
+ "next_story_id": "DKS_0340",
+ "next_story_tease": "Far away, in the demon city of Shonitapura, a thousand-armed king was about to ask Shiva for a rival worthy of him.",
+ "hero_scene": "In the great hall of Bhojakata, the young couple Aniruddha and Rocana sit side by side before the wedding fire while Rukmini and Rukmi — brother and sister, long divided — watch them together from facing seats, garlands hanging from the pillars above.",
+ "visual_elements": [
+  "the Yadava train riding toward Bhojakata, banners and garlands at the gates",
+  "Rukmini and Rukmi meeting at the gate after years of quarrel",
+  "Aniruddha and Rocana joined before the wedding fire",
+  "Rukmini weeping gently as she watches her grandson",
+  "Rukmi seated among the Yadavas at the feast, the old enmity set aside",
+  "garlands and lamps in the decorated great hall"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.61.19-26",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.28",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:51Z",
+  "source_event_id": "evt_0230",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

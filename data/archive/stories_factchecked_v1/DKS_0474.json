@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0474",
+ "title": "The Deaths Krishna Arranged",
+ "subtitle": "How Jarasandha, Ekalavya, and Sisupala fell",
+ "story": "On the night when his own troops were fleeing, Krishna sat in the chariot and answered a question that had been pressing on Arjuna. \"How, O Janardana, for our good and by what means, were those lords of the earth — Jarasandha and the others — slain?\"\n\nKrishna's answer began with what would have happened if they had lived. If Jarasandha, and the ruler of the Chedis, and the mighty son of the Nishada king had not been slain, they would have become terrible. Duryodhana would certainly have chosen them; they had always been hostile to the Pandavas, and they would all have adopted the side of the Kauravas. All of them were heroes and mighty bowmen, accomplished in weapons and firm in battle, and they would have protected Dhritarashtra's sons like the celestials themselves. With Karna and Jarasandha and the Chedi king and the Nishada's son together, they would have succeeded in conquering the whole earth. \"Listen, Dhananjaya, to the means by which they were slain,\" Krishna said. \"Without the employment of means, the very gods could not have conquered them in battle. Each of them could fight the whole celestial host protected by the Regents of the world.\"\n\nJarasandha first. Once, assailed by Balarama, he had hurled a mace capable of slaying all creatures, blazing like fire, coursing toward them like the parting line of a woman's tresses, with the impetus of Indra's thunder. Balarama met it with the weapon called Sthunakarna, and the mace, its force destroyed, fell to the earth and split her open, making the very mountains tremble. In that blow the Rakshasa woman Jara — she who had long ago joined the two halves of the child and so given him his name, Jarasandha — was slain with her son and her kinsmen. Deprived of his mace, Jarasandha was afterwards slain by Bhimasena in Arjuna's own presence. \"If the valiant Jarasandha had stood armed with his mace,\" Krishna said, \"the very gods with Indra at their head could not have slain him in battle.\"\n\nThen the Nishada's son, Ekalavya. His prowess could not be baffled; he was deprived of his thumb by Drona, by an act of guile, with Drona assuming the position of his preceptor. Proud and steady, with his fingers cased in leathern gloves, he had shone like a second Rama. Undeprived of his thumb, he was incapable of being vanquished by the gods, the Danavas, the Rakshasas, and the Uragas together — a man of firm grasp, accomplished in weapons, able to shoot incessantly day and night, one at whom mere men could not look. \"For your good,\" Krishna said simply, \"he was slain by me on the field of battle.\"\n\nAnd the ruler of the Chedis, Sisupala. He too was incapable of being vanquished by the gods and the Asuras together, and he was slain by Krishna before Arjuna's eyes. \"I was born to slay him, as also the other enemies of the gods, with your assistance, from desire of benefiting the world.\"\n\nThen Krishna widened the account until it took in the whole war. Hidimva and Vaka and Kirmira — Rakshasas of might equal to Ravana's, destroyers of Brahmanas and of sacrifices — had all been slain by Bhimasena. Alayudha, possessed of great powers of illusion, had been slain by Hidimva's son. And Hidimva's son himself — Ghatotkacha, whose body still lay on the field — Krishna had slain by the employment of means, through Karna with his dart. \"If Karna had not slain him with his dart in the great battle, I myself would have had to slay Bhima's son Ghatotkacha. From desire of benefiting you, I did not slay him before.\" The Rakshasa had been inimical to Brahmanas and sacrifices; because he was a destroyer of sacrifices and of a sinful soul, he had been slain. And by that same act, the dart given by Indra had been rendered futile.\n\n\"They that are destroyers of righteousness are all slayable by me,\" Krishna said. \"Even that is the vow made by me, for establishing righteousness. Whither the Vedas and truth and self-restraint and purity and righteousness and modesty and prosperity and wisdom and forgiveness are always to be met with, thither I myself always remain.\"\n\nThen he returned to the field. \"You need not be at all anxious about Karna's slaughter; I will tell you the means by which you will slay him. Vrikodara also will succeed in slaying Suyodhana.\" But the uproar of the hostile army was increasing, and the troops were flying away on all sides. Having achieved their objects, the chariot had to move again.",
+ "reflection": "Krishna's list of slain kings is also an account of his own vow: he stands wherever righteousness stands, and he will use any means — guile, a preceptor's ruse, a Rakshasa's dart — to clear the field for it. The hardest sentence is the quietest: Ghatotkacha's death was never an accident of war but a price Krishna had already agreed to pay.",
+ "tradition_note": "The epic's account of Ekalavya's end — a thumb taken by Drona's guile and death on the battlefield — differs from later folk retellings; this story follows the Mahabharata as excerpted in the evidence pack.",
+ "content_note": "Recounts the deaths of several kings and Rakshasas, all described without graphic detail; one episode involves a thumb cut off by guile.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Jarasandha",
+  "Ekalavya",
+  "Sisupala",
+  "Ghatotkacha"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "divine plan",
+  "protection of dharma",
+  "past deeds"
+ ],
+ "previous_story_id": "DKS_0473",
+ "next_story_id": "DKS_0475",
+ "next_story_tease": "Then Krishna spoke of a protection Arjuna had never known he had.",
+ "hero_scene": "In the chariot on the night battlefield, Krishna speaks with his hand raised while Arjuna listens, and behind them — wraith-like — the forms of Jarasandha, Ekalavya, and Sisupala fall one by one like struck kings on a hidden board.",
+ "visual_elements": [
+  "Krishna and Arjuna seated in the chariot, speaking",
+  "the fallen Ghatotkacha on the field beyond",
+  "Jarasandha's great mace splitting the earth as Balarama's weapon meets it",
+  "Ekalavya with his fingers cased in leathern gloves",
+  "Sisupala falling before Krishna's raised discus",
+  "the fleeing troops and growing uproar around the chariot"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.181",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T20:10:00Z",
+  "source_event_id": "evt_0468"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0214",
+ "title": "Krishna Wrestles Jambavan for the Jewel",
+ "subtitle": null,
+ "story": "There was a jewel called Syamantaka, a gift of the Sun himself, so bright that it lit whatever room it entered like a lamp and drew the eye of every man who saw it. It had come into the keeping of a Yadava named Prasena, a man to whom the Sun had been a friend as dear as life. The Sun, appearing before him, had taken the jewel from his own neck and placed it in Prasena's hands, and its light had made Prasena a wonder in his own city. One day Prasena went out with the jewel and did not come back. In the forest they found him, and his horse beside him, both killed by a lion — and the jewel was gone.\n\nThen the ill report began to spread through Dwaraka, quietly at first and then aloud. The jewel, men whispered, had gone into the keeping of Krishna. It was the kind of rumor that spreads in a city where a great man lives — easier to believe than to question, and hard to shake off once it has settled. His name was stained with it, and he could not let it stand. To clear himself, he went out to find the truth.\n\nHe traced Prasena's trail into the forest and found the man and his horse, slain by the lion. But the trail did not end at the body. He read the broken branches and the marks of hooves, and followed them on through the trees, where the light grew thin and the birds fell silent, until the ground opened into the mouth of a dark and terrible cave — the den of Jambavan, the king of the bears. Krishna entered it, and there in the dimness he saw the Syamantaka itself, the priceless, sun-bright jewel, lying where it had been tossed aside as a plaything for a child.\n\nA nurse keeping watch over the cave saw this strange man standing in the bear's den and cried out in fear. At the sound, Jambavan came charging from the dark and threw himself upon Krishna, and the two began to fight, each resolved to win.\n\nIt was no brief contest. For twenty-eight days they wrestled, fist against fist, night and day without rest. The cave shook with it, and neither of them would yield. There was no audience and no reprieve, only the two of them and the thunder of their blows. Day followed day in the dark, and they fought on, locked together, while outside the world went about its business unaware. Krishna's blows fell like thunderbolts, and slowly the old bear's limbs and joints were crushed beneath them, until Jambavan could barely stand.\n\nAnd in his exhaustion, Jambavan suddenly understood who stood before him. “I know you,” he said. “You are the life and strength and power of all living things — the maker of the makers of the world. By the glance of your anger the ocean once churned; by you the bridge was built and Lanka set ablaze; the heads of the rakshasas fell before your arrows.” The old bear had known this Lord in another age, and he knew him now.\n\nThe fight was over. Krishna laid his hand gently on the bear-king and said, “We have come to this cave for the jewel, O king of bears.” And Jambavan, his anger gone, rose and gave Krishna the Syamantaka, and with it his own daughter, the maiden Jambavati, to be his wife. So Krishna came out of the dark cave into the light of day, the jewel glowing in his hands, and turned toward Dwaraka — and the truth went before him, so that no one there could ever say again that the jewel had been taken by his hand.",
+ "reflection": "The story turns on a strange resolution: the accusation Krishna refuses to answer with denials he answers by walking into the dark and finding the truth. The fight itself becomes a kind of recognition — only when Jambavan is spent does he see who has been wrestling with him, and an enemy yields at once a vindication and a wife.",
+ "tradition_note": "The duration of the wrestling differs between sources: the Bhagavata gives twenty-eight days, the Harivamsha twenty-one. This telling follows the Bhagavata.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "syamantaka_jewel",
+ "characters": [
+  "Krishna",
+  "Jambavan",
+  "Jambavati",
+  "Prasena"
+ ],
+ "locations": [
+  "Jambavan's cave"
+ ],
+ "themes": [
+  "honor",
+  "combat",
+  "recognition"
+ ],
+ "previous_story_id": "DKS_0200",
+ "next_story_id": "DKS_0262",
+ "next_story_tease": null,
+ "hero_scene": "In the dim mouth of a cave, Krishna and the towering bear-king Jambavan are locked together in a wrestling hold, while the bright Syamantaka jewel lies glowing on the cave floor behind them.",
+ "visual_elements": [
+  "Krishna",
+  "Jambavan the bear-king",
+  "the Syamantaka jewel",
+  "a dark cave",
+  "wrestling figures",
+  "the jewel glowing on the cave floor",
+  "exhaustion and recognition"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.56.16-31",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.38",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:07:13Z",
+  "source_event_id": "evt_0202"
+ },
+ "editorial_status": "unreviewed"
+}

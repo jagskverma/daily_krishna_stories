@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0269",
+ "title": "A Voice Commands the Discus",
+ "subtitle": null,
+ "story": "The Asuras broke and ran — and their own commander stopped them with words sharper than any weapon. \"Why do you take to your heels?\" Nikumbha roared after the routed host. \"You promised to avenge the destruction of your kinsmen! Break that promise and fly, and whose face will you look upon in your own house? What will your wives say? Fie on you! Fie on you!\"\n\nShame did what fear could not. The Asuras turned and came back with double vigour into the battle at the sacrificial ground, where the Yadavas and the Pandava brothers had gathered for a great martial festival — and the Yadavas, who had thought the field won, had to fight it all over again. The fighting that followed was terrible. Those who stood their ground were cut down; those who rose into the sky were slain by Indra's son Jayanta and the twice-born Pravara; and such was the slaughter that the field was said to run with a river of blood, thick as a river in the rainy season.\n\nNikumbha himself fought like a man who had decided never to retreat. He struck Pravara down with his iron club; Indra's son caught his comrade as he fell, embraced him, and ran back at the Asura. Arrows rained on Nikumbha and he took them, until at last he thought: why exhaust myself against Indra's son? It is Krishna who killed my kinsmen. Let me fight him.\n\nHe vanished from that spot and reappeared where Krishna stood. Above them, on his white elephant Airavata, Indra himself had come with the gods to watch the battle, and trumpets had sounded for Jayanta's victories. Nikumbha set up a leonine shout and attacked — Krishna, Arjuna, Bhima, Yudhishthira, the brothers, the Yadava chiefs, the kings — and such were his powers of illusion that none of those masters of weapons could see him at all. He was a storm no eye could follow.\n\nKrishna closed his eyes and meditated on Vilwodakeshwara, the lord of goblins, and the power of that lord lifted the veil. Suddenly everyone could see Nikumbha, standing before them like the summit of Kailasa, inviting Krishna to fight.\n\nArjuna had already strung his Gandiva. He loosed his shafts — and they struck Nikumbha's body and shattered, falling broken to the earth. \"What is this, son of Devaki?\" Arjuna asked, astonished. \"My arrows pierce mountains. Why are they useless here?\"\n\nKrishna smiled. \"O son of Kunti, hear,\" he began — and then the demon was gone, breaking away and fleeing toward the mountains, into the cave of Shatpura, the stronghold of his kin. Krishna followed him in.\n\nThere, in the darkness of the cave, the command came from a voice no eye could see: use the discus. Saluting Mahadeva, whose presence filled that mountain stronghold, Krishna discharged the Sudarshana. Effulgent like the solar disc, it flew across the gloom and sundered Nikumbha's head, with its beautiful earrings, from his body. The discus returned to its master's hand, and the great demon fell — the terror of the field ended in a single stroke.\n\nThe routed Asuras, who had come back to fight at his bidding, had no one left to rally them. And the cave of Shatpura, stronghold of his kin, fell silent.",
+ "reflection": "The battle turns on a reversal of means: the bow fails, and the answer arrives as a command from an unseen voice, answered with a salute and a discus. In a story crowded with weapons, the decisive act is not strength but attention — Krishna, who cannot see the hidden demon, first turns to the one who can.",
+ "tradition_note": null,
+ "content_note": "A battle episode ending in the demon's death by discus; the violence is described with restraint.",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Nikumbha",
+  "Arjuna",
+  "Shiva"
+ ],
+ "locations": [
+  "Shatpura cave",
+  "Sacrificial ground"
+ ],
+ "themes": [
+  "climactic battle",
+  "discus",
+  "divine command"
+ ],
+ "previous_story_id": "DKS_0268",
+ "next_story_id": "DKS_0270",
+ "next_story_tease": null,
+ "hero_scene": "In the darkness of the Shatpura cave, Krishna salutes Mahadeva and hurls the Sudarshana discus, effulgent like the solar disc, toward the towering Nikumbha — the discus severing the demon's head with its earrings in a single blinding arc of light.",
+ "visual_elements": [
+  "the Shatpura cave's darkness",
+  "Krishna saluting Mahadeva, the discus blazing from his hand",
+  "the Sudarshana discus, bright as the sun, severing Nikumbha's head",
+  "Nikumbha towering, earrings gleaming",
+  "Arjuna's shattered arrows fallen at his feet",
+  "the silent cave after the stroke"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.232",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:06Z",
+  "source_event_id": "evt_0312"
+ },
+ "editorial_status": "unreviewed"
+}

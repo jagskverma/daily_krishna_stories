@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0060",
+ "title": "Krishna Swallows the Wildfire and Saves the Herd",
+ "subtitle": null,
+ "story": "The fire came without warning, and it came from every side at once. One moment the cowherd boys were out in the Vrindavan woods with their cattle — the afternoon hot and still around them, the grass dry from a long stretch of sun — and the next the grass was alight, and the flames were running toward them like a closing hand. They had spent the day as they always spent it, driving the herd from one pasture to the next, the calves at the cows' heels, and now the woods themselves had turned against them.\n\nThe boys had nowhere to turn. The smoke bent the trees and darkened the sky, the cattle lowed and bunched together in the middle of the clearing, and the boys, who were only children, saw the fire lean in toward them from all around. It was not the slow, watchful fire of a hearth. It moved with a roar, and the dry grass fed it as fast as it could burn. They called out to Krishna — a cowherd boy among them, but the one they turned to when there was no way out — and their cry was simple: surely those who belong to you, Krishna, do not deserve to perish like this.\n\nKrishna did not argue with them, and he did not run. “Do not fear,” he said. “Close your eyes, and do not open them until I tell you.” And they did. Not one of them asked him how, or why, or whether it would work; they simply shut their eyes, the way a child shuts them when a game requires it — except that this was no game. They stood in the middle of the burning forest, the roar of the fire all around them and the heat on their faces, and not one of them opened his eyes. It was trust, plain and simple, and it was all he asked of them.\n\nWhat happened next none of them saw. Krishna drew the raging fire into his mouth and drank it down, the whole of it, flame by flame, until the heat and the roar and the smoke were gone. When at last he told them to open their eyes, they were not standing in the burning forest at all. They were at Bhandira, safe — under the great tree where the cowherd boys often gathered — and their cattle stood with them, and not one of them was hurt. There was no smell of smoke left in the air, only the lowing of the cattle, settling.\n\nThe boys looked at one another, and at the trees around them, and then at Krishna, and they could find no words for it. They had walked into a ring of fire and had come out of it, and it had cost them nothing but the closing of their eyes. The account says only this: it was his yoga, his power, worked through his maya — the hidden might by which he acts. It does not explain the rest, and perhaps no explanation is wanted.\n\nAnd then, as if nothing at all had happened, the afternoon went on. The herd was whole, the boys picked up their day where they had left it, and they were home before dark. When they tried, later, to tell the elders what had happened, the words would not come out straight, and the elders smiled and let it go.",
+ "reflection": "The wonder of the episode is that it is told almost without explanation. Krishna asks for nothing from the boys but the closing of their eyes, and the fire is gone before they open them; the story names the power behind it and then returns, without comment, to an ordinary afternoon.",
+ "tradition_note": null,
+ "content_note": "A forest fire briefly surrounds the cowherd boys and their cattle; no one is harmed.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "cowherds",
+  "cattle"
+ ],
+ "locations": [
+  "Vrindavan",
+  "Bhandira"
+ ],
+ "themes": [
+  "rescue",
+  "faith"
+ ],
+ "previous_story_id": "DKS_0049",
+ "next_story_id": "DKS_0074",
+ "next_story_tease": null,
+ "hero_scene": "Krishna, a boy among boys, standing calmly at the centre of a ring of wildfire while the cowherd boys around him stand with their eyes shut and the cattle huddle behind them.",
+ "visual_elements": [
+  "Krishna",
+  "cowherd boys",
+  "cattle",
+  "wildfire",
+  "Vrindavan forest",
+  "smoke and flame",
+  "eyes closed in trust",
+  "tense, then calm"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.19.9-13",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0080",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

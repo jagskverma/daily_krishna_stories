@@ -1,0 +1,38 @@
+# STORY DKS_0536 — Vishnu Saves Shiva from Vrikasura
+
+## Index entry
+title: Vishnu Saves Shiva from Vrikasura
+summary: Vishnu, appearing as a young brahmachari, tricks Vrikasura into touching his own head, and the asura destroys himself, freeing Shiva.
+life_stage: other | story_arc: other
+characters: Vishnu, Vrikasura, Shiva
+locations: Vaikuntha
+themes: divine cunning, protection, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0523
+variant_notes: cf. bp10d_047.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 88 | verses 28-38 | confidence 5
+  excerpt: Vishnu, taking the form of a radiant young brahmachari, receives the exhausted Vrikasura and, feigning disbelief in Shiva's boon, tells him to test it by placing his hand on his own head. The bewildered asura does so and instantly splits his own skull and dies, while the gods shower flowers and the freed Shiva praises Vishnu, the deliverer of those who offend the great. (rendered from Sanskrit, ve
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.88 (28-38)
+28. bhp_10.88.029/0 śrī-bhagavān uvāca
+29. yadi naḥ śravaṇāyālaṃ yuṣmad-vyavasitaṃ vibho /
+30. bhp_10.88.031/0 śrī-śuka uvāca
+31. bhp_10.88.032/0 śrī-bhagavān uvāca
+32. yadi vas tatra viśrambho dānavendra jagad-gurau /
+33. yady asatyaṃ vacaḥ śambhoḥ kathañcid dānavarṣabha /
+34. itthaṃ bhagavataś citrair vacobhiḥ sa su-peśalaiḥ /
+35. athāpatad bhinna-śirāḥ vrajāhata iva kṣaṇāt /
+36. mumucuḥ puṣpa-varṣāṇi hate pāpe vṛkāsure /
+37. muktaṃ giriśam abhyāha bhagavān puruṣottamaḥ /
+38. hataḥ ko nu mahatsv īśa jantur vai kṛta-kilbiṣaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0535 | next_story_id: DKS_0537
+previous title: Vrikasura's Lethal Boon from Shiva
+next title: Bhrigu Tests the Three Gods

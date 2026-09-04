@@ -1,0 +1,51 @@
+# STORY DKS_0326 — The Goddess Durga Releases Aniruddha from His Bonds || Imprisoned in Vana's city, Aniruddha hymns the goddess Katyayani, and Durga appears, cuts the serpent-nooses with her fingers, and consoles him, promising Krishna will sever Vana's thousand arms.
+
+## Index entry
+title: The Goddess Durga Releases Aniruddha from His Bonds || Imprisoned in Vana's city, Aniruddha hymns the goddess Katyayani, and Durga appears, cuts the serpent-nooses with her fingers, and consoles him, promising Krishna will sever Vana's thousand arms.
+summary: Imprisoned in Vana's city, Aniruddha hymns the goddess Katyayani, and Durga appears, cuts the serpent-nooses with her fingers, and consoles him, promising Krishna will sever Vana's thousand arms.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Aniruddha, Durga (Katyayani)
+locations: Sonitpura
+themes: devotion, goddess, release
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0345
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 267 | verses  | confidence 4
+  excerpt: the great goddess Durgā went where Aniruddha was kept in chains... with her fingers cut off the strong noose of serpents and then consoling Aniruddha said:—"...The holder of discus... will cut off the thousand arms of Vāna"
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.267 ()
+TITLE: THE GODDESS CONSOLES ANIRUDDHA
+
+Vaishampāyana said:—While the heroic Aniruddha was imprisoned in the
+city of Shonita along with Ushā by Bali’s son king Vāna, he, seeking
+refuge with goddess Koumāri for his own safety, sang a hymn in her
+praise. Having saluted the endless, undecaying, eternal prime deity the
+Lord Narayana, I chant the glories of Chandi, the worshipful goddess
+Katyāyani, worshipped of all the gods and worlds and adored by the gods,
+Rishis and Rakshasas, reciting the names sung by Hari (1-5).
+
+Aniruddha said:—For my well being I bow unto the sister of Mahendra and
+Vishnu. Being cleansed and with my mind purified I chant her glories
+with folded hands I bow unto thee who dost confer honors, do thou
+release me from my bonds and give me life and health.
+
+Thus adored the great goddess Durgā went where Aniruddha was kept in
+chains. The goddess, fond of her votaries, released Aniruddha who was
+imprisoned in the City of Vāna. She appeared before the irrepressible
+hero Aniruddha and consoled him. The powerful hero then saluted her.
+Thereupon the goddess with her fingers cut off the strong noose of
+serpents and then consoling Aniruddha said:—"O Aniruddha, wait here for
+a few days more. The holder of discus and the slayer of the Daityas will
+cut off the thousand arms of Vāna, release you from your fetters and
+take you to his own city (6-15)".
+
+## Corpus chain
+previous_story_id: DKS_0325 | next_story_id: DKS_0327
+previous title: Aniruddha Routs Vana's Soldiers || When Vana discovers Usha living with Aniruddha and sends his soldiers to kill him, Aniruddha seizes a Parigha and single-handedly drives the Danava host from the field.
+next title: Krishna, Balarama and Pradyumna Fly to Sonitpura on Garuda

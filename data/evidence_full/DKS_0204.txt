@@ -1,0 +1,54 @@
+# STORY DKS_0204 — Krishna Abducts Mitravinda and Wins Satya || Krishna carries off Mitravinda of Avanti from her svayamvara and wins Satya of Kosala by taming seven fierce bulls.
+
+## Index entry
+title: Krishna Abducts Mitravinda and Wins Satya || Krishna carries off Mitravinda of Avanti from her svayamvara and wins Satya of Kosala by taming seven fierce bulls.
+summary: Krishna carries off Mitravinda of Avanti from her svayamvara and wins Satya of Kosala by taming seven fierce bulls.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Mitravinda, Satya, Nagnajit
+locations: Avanti, Kosala
+themes: valor, marriage, strength
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0244
+variant_notes: Bundles two moments (Mitravinda + Satya); cross-ref bpc1_040 for the Satya recall.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 58 | verses 29-55 | confidence 5
+  excerpt: Krishna forcibly carried off Mitravinda, the princess of Avanti, before the assembled kings; and to win Satya, daughter of Nagnajit of Kosala, he multiplied himself sevenfold and with ease subdued seven untamable bulls, winning the princess. (rendered from Sanskrit, verses 29-55)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.58 (29-55)
+29. vindyānuvindyāv āvantyau duryodhana-vaśānugau /
+30. rājādhidevyās tanayāṃ mitravindāṃ pitṛ-ṣvasuḥ /
+31. nagnajin nāma kauśalya āsīd rājāti-dhārmikaḥ /
+32. na tāṃ śekur nṛpā voḍhum ajitvā sapta-go-vṛṣān /
+33. tāṃ śrutvā vṛṣa-jil-labhyāṃ bhagavān sātvatāṃ patiḥ /
+34. sa kośala-patiḥ prītaḥ pratyutthānāsanādibhiḥ /
+35. varaṃ vilokyābhimataṃ samāgataṃ narendra-kanyā cakame ramā-patim /
+36. yat-pāda-paṅkaja-rajaḥ śirasā bibharti $ śṛīr abya-jaḥ sa-giriśaḥ saha loka-pālaiḥ &amp;līlā-tanuḥ sva-kṛta-setu-parīpsayā yaḥ % kāle 'dadhat sa bhagavān mama kena tuṣyet
+37. arcitaṃ punar ity āha nārāyaṇa jagat-pate /
+38. bhp_10.58.039/0 śrī-śuka uvāca
+39. bhp_10.58.040/0 śrī-bhagavān uvāca
+40. bhp_10.58.041/0 śrī-rājovāca
+41. kintv asmābhiḥ kṛtaḥ pūrvaṃ samayaḥ sātvatarṣabha /
+42. saptaite go-vṛṣā vīra durdāntā duravagrahāḥ /
+43. yad ime nigṛhītāḥ syus tvayaiva yadu-nandana /
+44. evaṃ samayam ākarṇya baddhvā parikaraṃ prabhuḥ /
+45. baddhvā tān dāmabhiḥ śaurir bhagna-darpān hataujasaḥ /
+46. tataḥ prītaḥ sutāṃ rājā dadau kṛṣṇāya vismitaḥ /
+47. rāja-patnyaś ca duhituḥ kṛṣṇaṃ labdhvā priyaṃ patim /
+48. śaṅkha-bhery-ānakā nedur gīta-vādya-dvijāśiṣaḥ /
+49. daśa-dhenu-sahasrāṇi pāribarham adād vibhuḥ /
+50. nava-nāga-sahasrāṇi nāgāc chata-guṇān rathān /
+51. dampatī ratham āropya mahatyā senayā vṛtau /
+52. śrutvaitad rurudhur bhūpā nayantaṃ pathi kanyakām /
+53. tān asyataḥ śara-vrātān bandhu-priya-kṛd arjunaḥ /
+54. pāribarham upāgṛhya dvārakām etya satyayā /
+55. śrutakīrteḥ sutāṃ bhadrāṃ upayeme pitṛ-ṣvasuḥ /
+
+## Corpus chain
+previous_story_id: DKS_0203 | next_story_id: DKS_0205
+previous title: Krishna Weds Kalindi at the Yamuna
+next title: Krishna Jests with Rukmini || Krishna playfully tells Rukmini she chose a poor, unworthy husband; she faints in grief, thinking he means to abandon her.

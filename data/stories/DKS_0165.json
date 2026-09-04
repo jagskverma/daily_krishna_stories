@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0165",
+ "title": "Krishna and the Pandavas Break the Chaityaka Peak",
+ "subtitle": null,
+ "story": "Krishna and the two Pandava princes, his cousins Bhima and Arjuna, had come to Girivraja to humble the pride of Jarasandha, the king of Magadha who kept conquered rulers captive in his city. They began by breaking a mountain.\n\nKrishna showed Arjuna the capital as they drew near: filled with flocks and herds, its water never failing, adorned with fine mansions in excellent order, free from every kind of calamity. Five great hills protected it — Vaihara, Varaha, Vrishava, Rishigiri, and the beautiful Chaitya — their high peaks grown over with tall trees of cool shade, their slopes hidden in flowering lodhra woods, each hill linked to the next so that the city lay ringed in stone. The Chaitya peak had its own long memory: there the sage Gautama had once raised his son Kakshivat, and in olden times the mighty kings of Anga and Vanga had come to the sage's hermitage and lingered in joy. A king who owned such a city, Krishna said, believed nothing could touch him. \"But today,\" he said, \"we shall humble his pride by slaying him.\"\n\nThey entered the capital and walked to its gate — and instead of passing through, they set their hands to the high Chaityaka peak, the hill worshipped by the royal line of Vrihadratha and by every citizen of the Magadhas. Long ago the old king Vrihadratha had slain a man-eating demon named Rishava, and from the demon's hide he had made three drums and placed them there, drums of such a kind that once beaten their sound lasted a full month. It was at that very place, where the garlanded drums used to sound, that the three men broke the great peak down, pulling at the immovable rock with their bare arms — the old, honoured hill that the whole city had worshipped with perfumes and flower wreaths. By that deed, men said afterward, they seemed to set their feet upon the head of their enemy; and with joyful hearts they entered the city.\n\nBut the city read the omen before it saw the men. The learned brahmanas of Girivraja saw many evil signs and carried the news to Jarasandha. His priest made the king mount an elephant and walked about him whirling lighted brands, and Jarasandha, to turn the portents aside, began a sacrifice with vows and fasts. The holy hill of his fathers had fallen at his gate, and all his rites could not undo what the omens promised.\n\nMeanwhile the three — unarmed, with only their bare arms for weapons — walked the capital in the robes of brahmanas, the wandering holy men of the land. They passed shops rich with foods and flower garlands and every sort of ware a man could wish for, and they snatched the garlands outright from the flower-sellers, as if the city were already theirs to take from. Wearing bright robes, garlands, and earrings, their arms smeared with sandal paste and thick as the trunks of sala trees, they moved through the wondering crowds like Himalayan lions walking among cattle. People stared at guests so vast of chest and neck, and word of them ran ahead to the king.\n\nThey passed through three crowded gates and came proudly and cheerfully to Jarasandha's door. The king rose in haste to receive them, with water for their feet, honey, and the offerings of the arghya, the rite by which guests are honoured, and gifts of cattle, with every courtesy his court could offer. \"You are welcome,\" said the great king.\n\nBut of the three guests only one answered him. Bhima and Arjuna stood silent at Krishna's side, and the welcome hung in the air unanswered.",
+ "reflection": "The broken peak was the first move of the whole enterprise, and it was deliberate: a king's own sacred hill, torn down at his gate, announced that these strangers had not come to beg but to humble him. The omens the priests read afterwards only told the city, in another language, what its own eyes had already seen.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna"
+ ],
+ "locations": [
+  "Girivraja",
+  "Chaityaka peak"
+ ],
+ "themes": [
+  "defiance",
+  "strength",
+  "omen"
+ ],
+ "previous_story_id": "DKS_0164",
+ "next_story_id": "DKS_0166",
+ "next_story_tease": "The silence of the two disguised brothers would need an explanation.",
+ "hero_scene": "Krishna, Bhima, and Arjuna, disguised as Brahmanas, tearing down the great Chaityaka peak at the gate of Girivraja with their bare arms, while the sacred hill — garlanded and worshipped — crashes down around the drum-shrine where its music used to sound.",
+ "visual_elements": [
+  "the five hills around Girivraja, especially the high Chaityaka peak",
+  "Krishna, Bhima, and Arjuna breaking the peak with bare arms",
+  "the three drums of Rishava's hide, covered with celestial flowers",
+  "the priests reading omens and Jarasandha's sacrifice with lighted brands",
+  "the trio passing the flower-vendors' shops and snatching garlands",
+  "defiance and omen"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.21",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:01Z",
+  "source_event_id": "evt_0392",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

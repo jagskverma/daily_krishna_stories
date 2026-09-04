@@ -1,0 +1,32 @@
+# STORY DKS_0260 — Krishna Breaches Mura's Fortifications || Indra complains of Narakasura's thefts; Krishna with Satyabhama on Garuda shatters the mountain, weapon, water, fire and Mura-pasha defenses of Pragjyotisha.
+
+## Index entry
+title: Krishna Breaches Mura's Fortifications || Indra complains of Narakasura's thefts; Krishna with Satyabhama on Garuda shatters the mountain, weapon, water, fire and Mura-pasha defenses of Pragjyotisha.
+summary: Indra complains of Narakasura's thefts; Krishna with Satyabhama on Garuda shatters the mountain, weapon, water, fire and Mura-pasha defenses of Pragjyotisha.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Satyabhama, Narakasura, Mura, Indra
+locations: Pragjyotisha
+themes: war, divine aid, siege
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0245
+variant_notes: Cross-ref: Naraka cluster; distinct fortification-breach beat (Mura's defenses).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 59 | verses 1-5 | confidence 5
+  excerpt: Indra, robbed of his umbrella, earrings and the Amara hill, complained to Krishna; riding Garuda with Satyabhama, Krishna broke the mountains with his mace, the weapon-forts with arrows, the fire and water with his discus, and Mura's nooses with his sword. (rendered from Sanskrit, verses 1-5)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.59 (1-5)
+1. bhp_10.59.002/0 śrī-śuka uvāca
+2. sa-bhāryo garuḍārūḍhaḥ prāg-jyotiṣa-puraṃ yayau /
+3. gadayā nirbibhedādrīn śastra-durgāṇi sāyakaiḥ /
+4. śaṅkha-nādena yantrāṇi hṛdayāni manasvinām /
+5. pāñcajanya-dhvaniṃ śrutvā yugāntaśani-bhīṣaṇam /
+
+## Corpus chain
+previous_story_id: DKS_0259 | next_story_id: DKS_0261
+previous title: Krishna Restores Aditi's Earrings || Krishna restores the recovered earrings to Aditi, who blesses him; Satyabhama is promised unfading beauty.
+next title: Krishna Slays Mura and His Seven Sons || Krishna beheads the five-headed demon Mura and slays his seven sons who attack in revenge.

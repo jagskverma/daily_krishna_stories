@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0375",
+ "title": "The Earth Shall Drink Their Blood",
+ "subtitle": null,
+ "story": "The Kamyaka forest had never seen such an assembly of wrathful kin. The five Pandava brothers were living there as exiles, having lost their kingdom in a rigged game of dice against their cousins; and now their kin and friends came to them, burning with anger. The Bhojas, the Vrishnis and the Andhakas came; the kinsmen of Panchala came; Dhrishtaketu, king of Chedi, came; the celebrated and powerful Kaikeya brothers came. In the hearing of all they reproached the sons of Dhritarashtra, and then asked the only question worth asking: “What should we do?” The warriors of the Kshatriya line, with Krishna — their cousin and their dearest friend — at their head, seated themselves in a ring around Yudhishthira the just.\n\nRespectfully saluting Yudhishthira, Krishna spoke, and his voice was heavy with mourning; and the words he spoke were a vow. “The earth shall drink the blood of Duryodhana and Karna, of Dussasana and the wicked Sakuni! Slaying them in battle, and defeating their followers along with their royal allies, we shall set Yudhishthira the just back on his throne. The wicked deserve to be slain. This is eternal morality.” The four he named were the men behind the Pandavas’ ruin: Duryodhana, eldest of the cheating cousins; his brother Dussasana; Karna, their ally and Arjuna’s great rival; and Sakuni, the crafty uncle of the Kauravas, who had loaded the dice.\n\nThe forest listened. But Krishna’s anger was not spent. As he thought of the wrongs done to the Pandavas, he fell into such a passion that he seemed bent upon consuming all created things; those nearest him could feel it, like the heat of a fire. Then Arjuna, who loved him, set himself to pacify him. Beholding Krishna angry, he began to recite the feats Krishna had achieved in his former lives — for the man who stood wrathful in the exiles’ camp was, Arjuna said, the soul of all things: immeasurable, eternal, of infinite energy, the lord of the Prajapatis themselves, the supreme ruler of the worlds, Vishnu of profound wisdom.\n\n“In days long past,” Arjuna said, “you wandered on the Gandhamadana mountains for ten thousand years, a hermit whose home was wherever evening fell. You lived on water alone for eleven thousand years by the lake of Pushkara. On the high hills of Vadari you stood for a hundred years on one leg, arms upraised, living on air. On the banks of the Saraswati your twelve years of sacrifice left your body so wasted that it was like a bundle of veins. On the plains of Prabhasa you stood on one leg for a thousand years of the gods. All asceticism rests in you, and you are the embodiment of every sacrifice.”\n\nThen he spoke of what Krishna had done with all that power. Naraka, the demon son of the Earth, had been slain and his earrings taken, and the demon himself offered up as the horse of the first horse-sacrifice. The Daityas and the Danavas — the demon hosts of old — had been destroyed in battle, until Krishna set Indra on the throne of the universe and took birth himself among men. He spoke the names like a litany: Ahvriti slain at Jaruthi, Kratha, Sisupala with his adherents, Jarasandha, Saivya, Satadhanwan. On a war-car that roared like clouds and blazed like the sun, Krishna had defeated Rukmi in battle and won the daughter of Bhoja for his queen. He had slain Indradyumna, and the Yavana king Kaseruman, and Salwa the lord of Saubha, and had destroyed the city of Saubha itself. And even as a child, with three steps alone, he had filled heaven, the sky, and the earth.\n\nArjuna’s voice went on, reciting the old deeds as one recites a litany — and as he spoke, the wrath of Krishna, which had seemed ready to consume all creation, began to be held, like a fire held in the hands of a friend. The kinsmen sat silent in their ring. The vow stood spoken, and every leaf of the forest had heard it. But the anger was not yet gone from Krishna’s eyes; Arjuna’s words had not yet done their full work.",
+ "reflection": "The vow is spoken for the sake of the just king in exile, and Krishna's wrath is inseparable from his friendship: the same heart that delights in his friends burns at their wrongs. Arjuna's answer is not argument but remembrance — he recites who Krishna is, holding the fire in the vessel of a thousand lifetimes.",
+ "tradition_note": "Krishna's vow here is echoed later, before the war of Kurukshetra, in a similar promise.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Duryodhana",
+  "Dussasana",
+  "Sakuni",
+  "Karna"
+ ],
+ "locations": [
+  "Kamyaka forest"
+ ],
+ "themes": [
+  "vow",
+  "righteous-wrath",
+  "justice",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0374",
+ "next_story_id": "DKS_0376",
+ "next_story_tease": "But Arjuna's recitation had only begun to do its work on the wrathful Krishna.",
+ "hero_scene": "In the forest of Kamyaka, the kinsmen sit in a ring around Yudhishthira the just; Krishna, risen among them, one hand raised, speaks his vow of blood while the exiled Pandavas listen in silence and Arjuna's hand reaches out, already moving to calm him.",
+ "visual_elements": [
+  "the ring of kinsmen seated around Yudhishthira in the forest",
+  "Krishna risen, one hand raised, speaking the vow",
+  "Arjuna reaching out to pacify him",
+  "the exiled Pandavas listening in silence",
+  "the austerity of the Kamyaka forest",
+  "wrath and resolve in the clearing"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:00Z",
+  "source_event_id": "evt_0402",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

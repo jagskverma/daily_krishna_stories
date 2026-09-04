@@ -1,0 +1,128 @@
+# STORY DKS_0005 — Kamsa Imprisons Devaki and Destroys Her Children
+
+## Index entry
+title: Kamsa Imprisons Devaki and Destroys Her Children
+summary: After Narada reveals that the gods are incarnating among the Yadavas, Kamsa imprisons Devaki and Vasudeva and kills each child as it is born.
+life_stage: birth | story_arc: prophecy_of_kamsa
+characters: Kamsa, Devaki, Vasudeva, Narada
+locations: Mathura
+themes: tyranny, prophecy, suffering
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0019
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 1 | verses 55-68 | confidence 5
+  excerpt: Told by Narada that the gods have taken birth among the Yadavas, Kamsa has Devaki and Vasudeva chained in prison and kills every son she bears, one by one. (rendered from Sanskrit, verse 55-68)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 57 | verses  | confidence 4
+  excerpt: 'Do ye always be on your guard for destroying the (eight born) children of Devaki... destroy all the embryos of Devaki.'
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 1 | verses  | confidence 4
+  excerpt: The Muni Nárada informed Kansa that the supporter of the earth, Vishńu, would be the eighth child of Devakí; and his wrath being excited by this report, he placed both Vasudeva and Devakí in confinement.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.1 (55-68)
+55. atha kāla upāvṛtte devakī sarva-devatā /
+56. kīrtimantaṃ prathamajaṃ kaṃsāyānakadundubhiḥ /
+57. kiṃ duḥsahaṃ nu sādhūnāṃ viduṣāṃ kim apekṣitam /
+58. dṛṣṭvā samatvaṃ tac chaureḥ satye caiva vyavasthitim /
+59. pratiyātu kumāro 'yaṃ na hy asmād asti me bhayam /
+60. tatheti sutam ādāya yayāv ānakadundubhiḥ /
+61. nandādyā ye vraje gopā yāś cāmīṣāṃ ca yoṣitaḥ /
+62. sarve vai devatā-prāyā ubhayor api bhārata /
+63. etat kaṃsāya bhagavāñ chaśaṃsābhyetya nāradaḥ /
+64. ṛṣer vinirgame kaṃso yadūn matvā surān iti /
+65. devakīṃ vasudevaṃ ca nigṛhya nigaḍair gṛhe /
+66. mātaraṃ pitaraṃ bhrātṝn sarvāṃś ca suhṛdas tathā /
+67. ātmānam iha sañjātaṃ jānan prāg viṣṇunā hatam /
+68. ugrasenaṃ ca pitaraṃ yadu-bhojāndhakādhipam /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.57 ()
+TITLE: AN ACCOUNT OF THE BIRTH OF DEMONS
+
+Vaishampayana said:—Thereupon worked up with anger Kansa said to all his
+well-meaning ministers:—"Do ye always be on your guard for destroying
+the (eight born) children of Devaki (1). The calamity, which we suspect,
+should be eradicated. Therefore from the very beginning destroy all the
+embryos of Devaki (2). Let Devaki, well guarded in the inner appartment
+by the warders, range there confidently. And when she conceives keep her
+with care (3). As soon as she will conceive, the women of my harem will
+count the months from the very first, and being informed of the time of
+delivery we will do what we think proper (4). Let Vasudeva too be kept
+unconsciously day and night in the inner appartment by eunuchs and women
+engaged in my well being. Let no body disclose to him the secret (5).
+With these human efforts people should accomplish their objects. Hear
+how persons like me avert the course of destiny (6). Even an adverse
+destiny is made propitious by well employed _mantras_, properly
+administered medicines, care and devotion (7)."
+
+Vaishampāyana continued:—Hearing from Nārada, the account of his death,
+Kansa, out of fear, began to hold counsels as to how he should destroy
+Devaki’s embryo (8). On the other hand, being informed of the portendous
+and dreadful efforts of Kansa while out of sight, the powerful Vishnu
+began to think (9) "Bhoja’s descendant Kansa will destroy the first
+seven children of Devaki. In her eighth conception I shall have to live
+in her womb" (10). While thus meditating his mind flew where the
+Saragarbha Danavas, by name, Hansa, Suvikrātha, Damana, Ripunardana, and
+Krodhahartā were living in the water (11). These immortal-like
+Saragarbhas, the sons of Kālanemi, were powerful like the celestials,
+were of effulgent persons and experts in battle (12). Leaving their own
+grand-father Hiranyakasipu and wearing mantted locks those Saragarbha
+Daityas worshipped the Grand-father of all, Brahmā, with hard penances
+who, being pleased, conferred on them the following boon (13-14).
+
+Brahma said:—"O ye foremost of Dānavas, I have been greatly pleased with
+your ascetic austerities. Express to me clearly your wishes, I shall
+grant them to you all." (15). Encouraged by Brahmā’s words the Daityas
+said "O lord, if thou art pleased with us do thou confer upon us this
+best of boons. O Brahman, if thou art ready to confer upon us a boon, do
+thou grant us such a one as may render us unslayable by the gods, the
+huge Uragas, Yakshas, Gandharvas, Siddhas, Chāranas, men and by the
+great Rishis ever engaged in penances, whose weapons are their curses"
+(16–18).
+
+The Grand-father was greatly delighted at heart with their ascetic
+observances and therefore affectionately said to them:—"What you have
+prayed for will all be accomplished." Having conferred this boon on
+Saragarbhas the self-born repaired to the celestial region.
+
+Thereupon Hiranyakasipu addressed them in angry words saying (19–20).
+"By your disregarding me and praying for a boon to the lotus-sprung
+Brahmā, you have become my enemies. I therefore have no affection for
+you and forsake you all. That father, who has given you the high
+sounding name of _Saragarbha_, will kill you all while in embryo
+(21–22.) O ye great Asuras Saragarbhas, you all six will be born in
+order from Devaki and Kansa will kill you (23)."
+
+Vaishampayana said:—Thereupon repairing to the nether region Vishnu
+arrived where Saragarbha Asuras, on account of the imprecation of
+Hiranyakasipu, were living in the womb of water. He saw them lying there
+possessed by death-like sleep (24–25). Thereupon entering into the body
+of the Saragarbhas in a state of dream, Vishnu, having truth for his
+prowess, caught hold of their vital breaths and consigned them to the
+care of sleep. He said "O sleep, by my command take the vital airs of
+all these leading Dānavas Saragarbhas and place them in order in the
+womb of Devaki (26-28). They will be born of her womb and proceed to the
+abode of Death. Kansa’s efforts will be baffled and Devaki’s labour will
+be crowned with success (29). I will show you such a favour that like me
+you will be powerful on earth and adored of all creatures (30).
+Thereupon when my gentle portion will be conceived by Devaki in her
+seventh conception, take that eldest brother of mine in the seventh
+month and place him within Rohini’s womb (31). On account of his thus
+being taken away from the womb, that moon-like elder brother of mine
+will pass, in his youth, by the name of Sangkarsana (32). Thereupon
+thinking that ’Devaki has untimely given birth to a child out of fear in
+the seventh time’ Kansa will be very careful for the eighth time when I
+will be in her womb (33). O goddess, may you fare-well; as being the
+ninth of our race, you will be conceived by Yashodā, the best of
+milk-women, the most beloved wife of Nanda the master of Kansa’s kine.
+You will be born on the ninth day of the dark half of the month (34–35).
+I too, in the middle of the night u
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0004 | next_story_id: DKS_0006
+previous title: Vasudeva Pacifies Kamsa and Promises to Surrender His Sons
+next title: Kamsa's Ministers Counsel Slaughtering the Righteous

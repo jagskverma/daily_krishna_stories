@@ -1,0 +1,45 @@
+# STORY DKS_0349 — Krishna's Sons and the Yadu Lineage
+
+## Index entry
+title: Krishna's Sons and the Yadu Lineage
+summary: The text enumerates Krishna's sixteen thousand wives and his many sons — Pradyumna, Aniruddha and others — and traces the line through Vajra, the sole Yadu survivor of the coming internecine war.
+life_stage: later_life | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Pradyumna, Aniruddha, Vajra, Rukmini
+locations: Dwaraka
+themes: lineage, progeny, continuity
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0500
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 90 | verses 28-45 | confidence 5
+  excerpt: Krishna has sixteen thousand and more than a hundred queens, and on each he begets ten sons; among the foremost are Pradyumna, Aniruddha, Samba and others. Pradyumna's grandson through Aniruddha is Vajra, who alone would survive the destruction by the mace, and the Yadava line is declared too vast to count. (rendered from Sanskrit, verse 28-45)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.90 (28-45)
+28. āsthitasya paraṃ dharmaṃ kṛṣṇasya gṛha-medhinām /
+29. tāsāṃ strī-ratna-bhūtānām aṣṭau yāḥ prāg udāhṛtāḥ /
+30. ekaikasyāṃ daśa daśa kṛṣṇo 'jījanad ātmajān /
+31. teṣām uddāma-vīryāṇām aṣṭā-daśa mahā-rathāḥ /
+32. pradyumnaś cāniruddhaś ca dīptimān bhānur eva ca /
+33. puṣkaro vedabāhuś ca śrutadevaḥ sunandanaḥ /
+34. eteṣām api rājendra tanu-jānāṃ madhu-dviṣaḥ /
+35. sa rukmiṇo duhitaram upayeme mahā-rathaḥ /
+36. sa cāpi rukmiṇaḥ pautrīṃ dauhitro jagṛhe tataḥ /
+37. pratibāhur abhūt tasmāt subāhus tasya cātmajaḥ /
+38. na hy etasmin kule jātā adhanā abahu-prajāḥ /
+39. yadu-vaṃśa-prasūtānāṃ puṃsāṃ vikhyāta-karmaṇām /
+40. tisraḥ koṭyaḥ sahasrāṇām aṣṭāśīti-śatāni ca /
+41. saṅkhyānaṃ yādavānāṃ kaḥ kariṣyati mahātmanām /
+42. devāsurāhava-hatā daiteyā ye su-dāruṇāḥ /
+43. tan-nigrahāya hariṇā proktā devā yadoḥ kule /
+44. teṣāṃ pramāṇaṃ bhagavān prabhutvenābhavad dhariḥ /
+45. śayyāsanāṭanālāpa- krīḍā-snānādi-karmasu /
+
+## Corpus chain
+previous_story_id: DKS_0348 | next_story_id: DKS_0350
+previous title: Pradyumna's Valor and Wounding || Pradyumna destroys Shalva's illusions and slays many foes, but is struck senseless by Dyuman's mace; recovering, he rebukes his charioteer for drawing him from the field.
+next title: Balarama Marries Revati

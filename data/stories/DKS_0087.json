@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0087",
+ "title": "Krishna Sets the Hill Down",
+ "subtitle": null,
+ "story": "For seven days the village of Vrindavan had sheltered beneath the hill of Govardhana, held up on the one raised hand of a cowherd boy named Krishna, while the storm that Indra, the king of the gods, had sent in anger beat against it. Now the storm was over, and the cowherds came out from beneath the hill into a world that seemed new. They gathered up what was theirs — the goods they had carried into the shelter, the cattle that had waited out the storm with them — and looked around at the washed land and the returning sun. There was a quiet gladness in the simple act of stepping out, of feeling the rain gone and the light back. The fear they had carried all week went out of them like a held breath finally released.\n\nThen Krishna set the mountain down. He placed it back in its own place, as it had stood before, and let his arm rest. The great hill settled onto the earth as though it had never moved, and the land closed over the gap where they had hidden. Nothing about it had changed, and only the memory of those seven days remained.\n\nWhat followed was not ceremony but embrace. Nanda, his father, came to him, and Yashoda, his mother, and Rohini, the mother of Balarama, and Balarama himself — his elder brother, strongest of the strong. All week they had watched him stand alone beneath the weight of a mountain, and now that it was over, holding him close was the first thing they could think to do. The cowherds pressed in and surrounded him, and the gopis — the cowherd women of the village — welcomed him with curd and unbroken rice and showered blessings on him with glad hearts. What the storm had scattered, the love of the village gathered back together, and for a little while there was no distance between the boy and the people who had feared for him.\n\nAnd the rejoicing did not stay on the ground. In heaven the hosts of the gods had been watching — the siddhas and the sadhyas, the gandharvas and the charanas, the blessed ones and the singers of the sky — and now, stirred to praise, they rained flowers down upon him. Conches and drums sounded in the sky. The very heavens that had sent the storm now sent down a softer answer: petals instead of hail, and music instead of thunder.\n\nThen Krishna, surrounded by the cowherds, set out with Balarama for his own cow-pen. And Vrindavan was quiet again, in the way a place is quiet after a great thing has passed through it and gone home.",
+ "reflection": "The ending restores everything the storm had broken: the hill to its place, the family to its embrace, and the sky itself from wrath to praise. The gods who sent the rain now send flowers, and the rejoicing on the ground is answered from above.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Krishna",
+  "Nanda",
+  "Yashoda",
+  "Rohini",
+  "Balarama"
+ ],
+ "locations": [
+  "Govardhana",
+  "Vrindavan"
+ ],
+ "themes": [
+  "joy",
+  "restoration"
+ ],
+ "previous_story_id": "DKS_0086",
+ "next_story_id": "DKS_0088",
+ "next_story_tease": "But the king of the gods had not finished with Vrindavan; he would come down himself to make amends.",
+ "hero_scene": "Krishna lowering Govardhana back into its place as the sun returns, while Nanda, Yashoda, Rohini, and Balarama embrace him and flowers rain down from heaven amid the sound of conches and drums.",
+ "visual_elements": [
+  "Krishna setting Govardhana back in place",
+  "the returning sun over a washed Vrindavan",
+  "Nanda, Yashoda, Rohini, and Balarama embracing Krishna",
+  "the gopis offering curd and unbroken rice",
+  "flowers raining from heaven",
+  "conches and drums sounding in the sky",
+  "a mood of joy and restoration"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.25.26-32",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:28Z",
+  "source_event_id": "evt_0099",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

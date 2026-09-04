@@ -1,0 +1,54 @@
+# STORY DKS_0514 — The Swan Teaches the Kumaras
+
+## Index entry
+title: The Swan Teaches the Kumaras
+summary: Asked by his disciples about the swan form, Krishna recounts how Brahma's sons Sanaka and the others, unable to get an answer from Brahma, were taught by Krishna himself appearing as a swan (hamsa), who resolved their doubt.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: Krishna (as the swan), the Sanaka Kumaras, Brahma, Uddhava
+locations: Brahma's abode
+themes: divine teaching, the swan, self-knowledge
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0534
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 13 | verses 15-41 | confidence 5
+  excerpt: Krishna said: 'The mind-born sons of Brahma asked him the subtle goal of yoga; pondering their question, Brahma meditated on me, and I appeared to them in the form of a swan. They asked who I was, and I answered that if in truth there is no difference in the self, their very question has no ground — know that I alone am, and nothing apart from me.' (rendered from Sanskrit, verses 15-23)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.13 (15-41)
+15. bhp_11.13.016/0 śrī-bhagavān uvāca
+16. bhp_11.13.017/0 sanakādaya ūcuḥ
+17. bhp_11.13.018/0 śrī-bhagavān uvāca
+18. sa mām acintayad devaḥ praśna-pāra-titīrṣayā /
+19. dṛṣṭvā mām ta upavrajya kṛtva pādābhivandanam /
+20. ity ahaṃ munibhiḥ pṛṣṭas tattva-jijñāsubhis tadā /
+21. vastuno yady anānātva ātmanaḥ praśna īdṛśaḥ /
+22. pañcātmakeṣu bhūteṣu samāneṣu ca vastutaḥ /
+23. manasā vacasā dṛṣṭyā gṛhyate 'nyair apīndriyaiḥ /
+24. guṇeṣv āviśate ceto guṇāś cetasi ca prajāḥ /
+25. guṇeṣu cāviśac cittam abhīkṣṇaṃ guṇa-sevayā /
+26. jāgrat svapnaḥ suṣuptaṃ ca guṇato buddhi-vṛttayaḥ /
+27. yarhi saṃsṛti-bandho 'yam ātmano guṇa-vṛtti-daḥ /
+28. ahaṅkāra-kṛtaṃ bandham ātmano 'rtha-viparyayam /
+29. yāvan nānārtha-dhīḥ puṃso na nivarteta yuktibhiḥ /
+30. asattvād ātmano 'nyeṣāṃ bhāvānāṃ tat-kṛtā bhidā /
+31. yo jāgare bahir anukṣaṇa-dharmiṇo 'rthān $ bhuṅkte samasta-karaṇair hṛdi tat-sadṛkṣān &amp;svapne suṣupta upasaṃharate sa ekaḥ % smṛty-anvayāt tri-guṇa-vṛtti-dṛg indriyeśaḥ
+32. evaṃ vimṛśya guṇato manasas try-avasthā $ man-māyayā mayi kṛtā iti niścitārthāḥ &evaṃ vimṛśya guṇato manasas try-avasthā $ man-māyayā mayi kṛtā iti niścitārthāḥ &sañchidya hārdam anumāna-sad-ukti-tīkṣṇa % jñānāsinā bhajata mākhila-saṃśayādhim
+33. īkṣeta vibhramam idaṃ manaso vilāsaṃ $ dṛṣṭaṃ vinaṣṭam ati-lolam alāta-cakram &īkṣeta vibhramam idaṃ manaso vilāsaṃ $ dṛṣṭaṃ vinaṣṭam ati-lolam alāta-cakram &vijñānam ekam urudheva vibhāti māyā % svapnas tridhā guṇa-visarga-kṛto vikalpaḥ
+34. dṛṣṭim tataḥ pratinivartya nivṛtta-tṛṣṇas $ tūṣṇīṃ bhaven nija-sukhānubhavo nirīhaḥ &dṛṣṭim tataḥ pratinivartya nivṛtta-tṛṣṇas $ tūṣṇīṃ bhaven nija-sukhānubhavo nirīhaḥ &sandṛśyate kva ca yadīdam avastu-buddhyā % tyaktaṃ bhramāya na bhavet smṛtir ā-nipātāt
+35. dehaṃ ca naśvaram avasthitam utthitaṃ vā $ siddho na paśyati yato 'dhyagamat svarūpam &dehaṃ ca naśvaram avasthitam utthitaṃ vā $ siddho na paśyati yato 'dhyagamat svarūpam &daivād apetam atha daiva-vaśād upetaṃ % vāso yathā parikṛtaṃ madirā-madāndhaḥ
+36. deho 'pi daiva-vaśa-gaḥ khalu karma yāvat $ svārambhakaṃ pratisamīkṣata eva sāsuḥ &deho 'pi daiva-vaśa-gaḥ khalu karma yāvat $ svārambhakaṃ pratisamīkṣata eva sāsuḥ &taṃ sa-prapañcam adhirūḍha-samādhi-yogaḥ % svāpnaṃ punar na bhajate pratibuddha-vastuḥ
+37. mayaitad uktaṃ vo viprā guhyaṃ yat sāṅkhya-yogayoḥ /
+38. ahaṃ yogasya sāṅkhyasya satyasyartasya tejasaḥ /
+39. māṃ bhajanti guṇāḥ sarve nirguṇaṃ nirapekṣakam /
+40. iti me chinna-sandehā munayaḥ sanakādayaḥ /
+41. tair ahaṃ pūjitaḥ saṃyak saṃstutaḥ paramarṣibhiḥ /
+
+## Corpus chain
+previous_story_id: DKS_0513 | next_story_id: DKS_0515
+previous title: The Serpent, the Spider and the Wasp
+next title: The Miserly Brahmin of Avanti

@@ -1,0 +1,53 @@
+# STORY DKS_0276 — The Weaver and Sudama (Flower-Seller) Honor Krishna
+
+## Index entry
+title: The Weaver and Sudama (Flower-Seller) Honor Krishna
+summary: A weaver dresses Krishna and Balarama, and the garland-maker Sudama honors them and receives a boon.
+life_stage: mathura | story_arc: dwaraka_royal_life
+characters: Krishna, Balarama, Sudama
+locations: Mathura
+themes: devotion, boon
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0134
+variant_notes: BP adds the weaver; VP has only the flower-seller.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 41 | verses 39-51 | confidence 5
+  excerpt: A weaver gladly dressed Krishna and Balarama in fine clothes, and Sudama the garland-maker, honoring them with garlands and sandal paste, received from Krishna the boon of unshakable devotion. (rendered from Sanskrit, verses 39-51)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 19 | verses  | confidence 4
+  excerpt: Krishńa then, being much pleased with him, gave him this blessing; "Fortune, good friend, who depends upon me, shall never forsake you... you shall finally obtain... a heavenly region, the consequence of my favour."
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.41 (39-51)
+39. tatas tu vāyakaḥ prītas tayor veṣam akalpayat /
+40. nānā-lakṣaṇa-veṣābhyāṃ kṛṣṇa-rāmau virejatuḥ /
+41. tasya prasanno bhagavān prādāt sārūpyam ātmanaḥ /
+42. tataḥ sudāmno bhavanaṃ mālā-kārasya jagmatuḥ /
+43. tayor āsanam ānīya pādyaṃ cārghyārhaṇādibhiḥ /
+44. prāha naḥ sārthakaṃ janma pāvitaṃ ca kulaṃ prabho /
+45. bhavantau kila viśvasya jagataḥ kāraṇaṃ param /
+46. na hi vāṃ viṣamā dṛṣṭiḥ suhṛdor jagad-ātmanoḥ /
+47. tāv ajñāpayataṃ bhṛtyaṃ kim ahaṃ karavāṇi vām /
+48. ity abhipretya rājendra sudāmā prīta-mānasaḥ /
+49. tābhiḥ sv-alaṅkṛtau prītau kṛṣṇa-rāmau sahānugau /
+50. so 'pi vavre 'calāṃ bhaktiṃ tasminn evākhilātmani /
+51. iti tasmai varaṃ dattvā śriyaṃ cānvaya-vardhinīm /
+
+### Vishnu Purana (Wilson 1840) 5.19 ()
+Akrúra conveys Krishńa and Ráma near to Mathurá, and leaves them: they enter the town. Insolence of Kansa's washerman: Krishńa kills him. Civility of a flower-seller: Krishńa gives him his benediction.
+
+THUS the Yádava Akrúra, standing in the river, praised Krishńa, and worshipped him with imaginary incense and flowers. Disregarding all other objects, he fixed his whole mind upon the deity; and having continued for a long time in spiritual contemplation, he at last desisted from his abstraction, conceiving he had effected the purposes of soul. Coming up from the water of the Yamuná, he went to the car, and there he beheld Ráma and Krishńa seated as before. As his looks denoted surprise, Krishńa said to him, "Surely, Akrúra, you have seen some marvel in the stream of the Yamuná, for your eyes are staring as if with astonishment." Akrúra replied, "The marvel that I have seen in the stream of the Yamuná I behold before me, even here, in a bodily shape; for he whom I have encountered in the water, Krishńa, is also your wondrous self, of whose illustrious person the whole world is the miraculous developement. But enough of this; let us proceed to Mathura: I am afraid Kansa will be angry at our delay; such is the wretched consequence of eating the bread of another." Thus speaking, he urged on the quick horses, and they arrived after sunset at Mathura. When they came in sight of the city, Akrúra said to Krishńa and Ráma, "You must now journey on foot, whilst I proceed alone in the car; and you must not go to the house of Vasudeva, for the elder has been banished by Kansa on your account."Akrúra having thus spoken, left them, and entered the city; whilst Ráma and Krishńa continued to walk along the royal road. Regarded with pleasure by men and women, they went along sportively, looking like two young elephants. As they roamed about, they saw a washerman colouring clothes, and with smiling countenances they went and threw down some of his fine linen. The washerman was the servant of Kansa, made insolent by his master's favour; and he provoked the two lads with loud and scurrilous abuse, until Krishńa struck him down, with his head to the ground, and killed him. Then taking the clothes, they went their way, clad in yellow and blue raiment, until they came to a flower-seller's shop. The flower-seller looked at them with astonishment, and wondered who they could be, or whence they could have come. Seeing two youths so lovely, dressed in yellow and blue garments, he imagined them to be divinities descended upon earth. Being addressed by them with mouths budding like lotuses, and asked for some flowers, he placed his hands upon the ground, and touched it with his head, saying, "My lords have shewn me great kindness in coming to my house, fortunate that I am; I will pay them homage." Having thus spoken, the flower-seller, with a smiling aspect, gave them whatever choice flowers they selected, to conciliate their favour. Repeatedly prostrating himself before them, he presented them with flowers, beautiful, fragrant, and fresh. Krishńa then, being much pleased with him, gave him this blessing; "Fortune, good friend, who depends upon me, shall never forsake you: never shall you suffer loss of vigour, or loss of wealth: as long as time shall last your descendants shall not fail. Having long tasted various delights on earth, you shall finally obtain, by calling me to recollection, a heavenly region, the consequence of my favour. Your heart shall ever be intent on righteousness, and fulness of days shall be the portion of your posterity. Your descendants shall not be subject to natural infirmities, as long as the sun shall endure." Having thus spoken, Krishńa and Ráma, worshipped by the flower-seller, went forth from his dwelling.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0275 | next_story_id: DKS_0277
+previous title: Nanda Is Swallowed by a Serpent and Freed
+next title: Krishna Liberates King Nriga from a Lizard's Body || The Yadu princes find a giant lizard in a well; Krishna pulls it out with his left hand, and it becomes the radiant King Nriga.

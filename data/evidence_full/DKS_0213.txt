@@ -1,0 +1,117 @@
+# STORY DKS_0213 — Prasena Is Slain by a Lion for the Jewel
+
+## Index entry
+title: Prasena Is Slain by a Lion for the Jewel
+summary: Satrajit refuses to hand the jewel to Krishna; his brother Prasena, wearing it on a hunt, is killed by a lion, and rumor blames Krishna.
+life_stage: dwaraka | story_arc: syamantaka_jewel
+characters: Satrajit, Prasena, Krishna, Jambavan
+locations: Dvaraka, forest
+themes: pride, rumor, injustice
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0202
+variant_notes: BP 10.56 bundles Satrajit's refusal and the rumor blaming Krishna into the same beat; Harivamsha adds Jambavan killing the lion and taking the jewel.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 56 | verses 11-15 | confidence 5
+  excerpt: Though Krishna asked for the jewel, the covetous Satrajit refused; his brother Prasena, wearing it on a hunt, was slain by a lion, which was in turn slain by Jambavan, and the people whispered that Krishna had killed Prasena for the jewel. (rendered from Sanskrit, verses 11-15)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 38 | verses  | confidence 4
+  excerpt: Once on a time adorned with that jewel Prasena went out a-hunting. He was, for that Swyamantaka, slain by a wild lion. Killing that flying lion a highly powerful bear took that jewel and entered into his den.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.56 (11-15)
+11. sa yācito maṇiṃ kvāpi yadu-rājāya śauriṇā /
+12. tam ekadā maṇiṃ kaṇṭhe pratimucya mahā-prabham /
+13. prasenaṃ sa-hayaṃ hatvā maṇim ācchidya keśarī /
+14. so 'pi cakre kumārasya maṇiṃ krīḍanakaṃ bile /
+15. prāyaḥ kṛṣṇena nihato maṇi-grīvo vanaṃ gataḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.38 ()
+TITLE: AN ACCOUNT OF SWYAMANTAKA JEWEL
+
+Vaishampayana said:—Bhajamāna’s son was Viduratha, the foremost of
+car-warriors. The heroic Rajādhideva was Viduratha’s son (1).
+Rājādhideva had a number of highly powerful sons, namely the powerful
+Datta, Atidatta, Shonaswa, Swetavāhana, Shami, Dandasharmā, Dattashatru
+and Shatrujit. They had two sisters by name Shravana and Shravishtha
+(2–3). Shami’s son was Pratikshtra whose son was Swayamboja and whose
+son was Hridika (4). His sons were of dreadful prowess. Of them
+Kritavarmā was the eldest and Shatadhanwā was the second (5). The
+celestial saint Chyāvana begat for him four sons and two daughters. The
+sons were Vishak, Vaitarana, Suvāntā and Adhidānta. The daughters were
+Kamadā and Kāmadantika (6). Kamvalavarhisha had a learned son named
+Devavān who had three sons namely Asamouja, Veera and Nāsamoujā (7).
+Asamouja had no issue and therefore Andhaka conferred on him his three
+sons namely Sudangstra, Suvāhu and Krishna (8). These and various others
+members of the Andhaka family have been described to you. He, who daily
+meditates upon Andhaka family, forsooth gets his family multiplied.
+Krousthu had two wives, Gāndhāri and Mādri (9-10). Gandhāri gave birth
+to the highly powerful Anamitra and Mādri gave birth to Yudhājit and
+Devamidusha (11). Anamitra was ever irrepressible and subduer of his
+enemies. His son was Nighna who had two sons Prasena and Satrājit both
+of whom were subduers of hostile armies. Living in the city of Dwarkā
+Prasena obtained from the ocean the peerless celestial jewel called
+_Swyamantaka_. The sun was his friend as valuable as his life (12–14).
+Once on a time after the expiration of the night that foremost of
+car-warriors, ascending his chariot, went to the bank of the ocean for
+bathing and worshipping the sun (15). When he worshipped the god of rays
+the invisible lord Vivaswan appeared in effulgence before him (16).
+Thereupon the king said to the Lord Vibhakara before him—"O lord of
+rays, I see thee although before me in thy same circular effulgent form
+as I always behold thee in the sky. Thou hast appeared before me as a
+friend but what special favour have I got (17-18)?" Hearing this, the
+lord took out from his neck the peerless jewel _Swyamantaka_ and gave it
+to him (19). Thereupon the king saw him in his form. Seeing him he was
+pleased and conversed with him for a moment (20). While Vivaswān was
+about to go away the king again said to him:—"O lord, it behoveth thee
+to confer upon me this jewel with which thou dost always light the
+worlds" (21). Thereupon Bhāskara gave him the jewel _Swyamantaka_.
+Holding it the king entered his own city (22). All the people followed
+him thinking that the sun was going. Filling all the citizens with
+wonder the king entered the inner appartment (23). The king Satrajit,
+with great delight, conferred that peerless celestial jewel
+_Swyamantaka_ on his brother Prasena (24). That jewel used to produce
+gold in the palace of Vrishnis and Andhakas. (By its power) the god of
+rains used to pour shower in due season and there was no fear of disease
+(25). Govinda grew desirous of acquiring that peerless jewel
+_Swyamantaka_ from Prasena. Although capable he did not take it by force
+or pilfer it (26). Once on a time adorned with that jewel Prasena went
+out a-hunting. He was, for that _Swyamantaka_, slain by a wild lion
+(27). Killing that flying lion a highly powerful bear took that jewel
+and entered into his den (28).
+
+Hearing of the death of Prasena, all the members of Vrishni and Andhaka
+families entertained suspicions against Krishna, because they knew that
+he had a fancy for that jewel (29). Knowing their suspicion and thinking
+that he himself was innocent the virtuous-souled Krishna, resolving "I
+must bring the jewel" set out for the forest where Prasena went for
+hunting. Following his foot-seps along with his followers and ransacking
+the mountains Rikshavan and Vindhya the great Krishna was stricken with
+fatigue. He then saw Prasena and his horse killed there but did not find
+the jewel. He then saw near Prasena the lion killed by the bear. It was
+surmised by the footsteps. Following them he searched for the den of the
+running bear (30–34). He heard the voice of a female in the huge den of
+that bear. A nurse was giving play with that jewel to Jamvavān’s son and
+saying "Do not weep" (35).
+
+The nurse said:—"The lion killed Prasena and he has been killed by
+Jamvavān. Therefore, O my good boy, do not weep. This Swyamantaka
+belongs to you (36)".
+
+Thereupon keeping all the Yadavas with Baladeva at the mouth of the den
+and displaying a beautiful form and voice Krishna, with Sharnga bow,
+silently entered into it. And having entered there by force the Lord
+beheld the bear (37–38), Govinda wrestled with Jāmvavān in that den for
+twenty-one days (39). After Krishna had entered the den all the Yādavas,
+headed by Baladeva, returned to Dwarkā and announced that he had been
+slain (40).
+
+Having vanquished the highly powerful Jāmvavan h
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0212 | next_story_id: DKS_0214
+previous title: Surya Grants Satrajit the Syamantaka Jewel
+next title: Krishna Wrestles Jambavan for the Jewel

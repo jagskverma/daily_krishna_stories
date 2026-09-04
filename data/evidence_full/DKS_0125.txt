@@ -1,0 +1,113 @@
+# STORY DKS_0125 — Ugrasena Welcomes Krishna Back
+
+## Index entry
+title: Ugrasena Welcomes Krishna Back
+summary: Krishna returns to Mathura, where Ugrasena comes out to honor him; Krishna declines the royal arghya and reaffirms Ugrasena as king, then consoles him over Kamsa's death.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Ugrasena, Balarama, Vasudeva
+locations: Mathura
+themes: humility, kingship, consolation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0189
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 112 | verses  | confidence 4
+  excerpt: Krishna ... said:—'O king of Mathurā, while I have installed you, declaring, Be you the lord of Mathura, it does not behove me to make it otherwise. ... get upon your white car ... govern the city of Mathurā, delightedly with your sons and grand-sons.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.112 ()
+TITLE: UGRASENA RECEIVES KRISHNA
+
+Janamejaya said:—O Brahman, when the Lord Krishna, endued with Sakra’s
+prowess, set out from the city of Bidarbha he did not ride the highly
+powerful son of Vinatā, Garuda; why did he then take him away with him?
+And what did Vinatā’s son do? O great Muni, I am filled with great
+curiosity in this; do thou unfold the mystery (1–2).
+
+Vaishampāyana said:—O king, listen to the work, difficult of being done
+by men, which the highly effulgent son of Vinatā performed after his
+departure from the city of Bidarbha (3). O lord, before his departure to
+the city of Mathurā when Janārddana, the god of gods, said before the
+assembled kings, "I shall repair to the charming city of Mathura
+governed by the Bhoja king" the beautiful and intelligent son of Vinatā
+thought for a considerable time, and then saluting Vāsudeva, after he
+has finished his say, said with folded hands (4–6).
+
+Garuda said:—"O god, I shall now proceed to Raivata’s city Kushasthali,
+to the charming mount Raivata and the adjacent forest thereto resembling
+the garden of Nandana (7).
+
+"The Rākshasas have abandoned the charming city of Kushasthali. It is
+situate at the base of the Raivata mountain and on the bank of the great
+ocean. It abounds in trees decorated with filaments of flowers, in
+groves and creepers. It is scattered with elephants and serpents, and
+inhabited by bear, monkeys, boars, buffaloes and deer. I shall perfectly
+examine (that place) and see if it is worthy of thy habitation. O lord,
+if that extensive and charming city is fitted for thy residence, I shall
+remove all the thorns and come back to thee" (8-10).
+
+Vaishampāyana said:—Having thus expressed himself before Janārddana, the
+king of gods, and saluted him the powerful lord of birds set out towards
+the western direction (11). And when Krishna too, with the Yadavas,
+entered into the beautiful city of Mathurā, Ugrasena came out of the
+city with dancing girls and citizens and honored the victorious Krishna
+(12).
+
+Janamejaya said:—What did the mighty-armed Emperor Ugrasena do when he
+heard of Krishna’s installation by the numberless kings (13)?
+
+Vaishampāyana said:—Hearing of Krishna’s installation as the Emperor by
+numberless kings, of Indra’s making peace with him through his envoy
+Chitrangada, of the apportionment of wealth, each king being entitled to
+a lakh, each emperor to a Arvuda and each ordinary men to ten, and that
+every one, who came there, did not go away empty handed and that the
+graceful lord of Nidhis, Sanka, commanded by the gods, distributed
+wealth after Krishna’s heart, from his own men and other persons
+informed of people’s conduct, Ugrasena offered a great _puja_ at the
+temples of the tutelary deities. The two sides of the gate of Vasudeva’s
+house were decorated with flags, pennons and garlands. He also decorated
+with flags Kansa’s assembly hall Suprabhā adorned with various sheets of
+cloth (14-20). The doors of the sitting-room of the Emperor Krishna in
+Gopura were pasted with ambrosia by the king (21). There was dancing and
+music on all sides. The city was decorated with flags, garlands of wild
+flowers and jars full of water (22). The king sprinkled sandal water in
+all the high-ways and spread sheets of cloth on the ground (23). On both
+sides of the roads incense was kept in vessels and continually burnt
+with Aguru, molass and various other articles (24). The elderly women
+began to sing benedictory hymns and youthful damsels moved about
+anxiously in their respective houses (25).
+
+Having thus commenced the festivity in the city the Emperor Ugrasena
+repaired to Ugrasena’s Palace and after communicating to him the
+pleasant news and consulting with Rāma went to the car. O king, in the
+meantime the great sound of the conch-shell Pānchajanya was heard.
+Hearing that sound of the conch the entire city of Mathurā, with their
+women, boys, elderly men, panegyrists, songsters, and accompanied by a
+huge army, issued out placing Rāma before them. Ugrasena himself carried
+_arghya_ and water for washing feet for Krishna (26–29).
+
+After going over to some distance and coming within the view of Vāsudeva
+the Emperor Ugrasena desired to proceed on foot and accordingly got down
+from his white car (30). And beholding Hari, the king of gods, seated on
+a charming car adorned with celestial jewels he, in words suppressed
+with joy, said to the lotus-eyed Rāma the slayer of his enemy’s army.
+Krishna was adorned with ornaments set with jewels, was shining like the
+sun on account of the garland of wild flowers decorating his breast, was
+accompanied by fans, umbrellas and flags with the emblems of Garuda
+painted thereon, embellished with all the marks of royalty and endued
+with the beauty of the rising sun (31–34).
+
+(Ugrasena said):—"O great one, it does not behove me to proceed on car
+after this. Thinking this I have got down. Do thou go on the car (35).
+Coming to Mathurā in the disguise of Keshava Vishnu has manifested
+himself as the king of gods in the ocean-li
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0124 | next_story_id: DKS_0126
+previous title: Krishna's Royal Consecration
+next title: Krishna Obtains the Celestial Hall Sudharman

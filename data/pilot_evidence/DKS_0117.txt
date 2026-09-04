@@ -1,0 +1,95 @@
+# STORY DKS_0117 — Akrura Beholds the Divine Vision in the Yamuna
+
+## Index entry
+title: Akrura Beholds the Divine Vision in the Yamuna
+summary: Diving in the Yamuna, Akrura sees Krishna and Balarama as the Lord resting on Shesha surrounded by gods.
+life_stage: vrindavan | story_arc: akrura_and_departure
+characters: Akrura, Krishna, Balarama
+locations: Yamuna
+themes: vision, praise
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0127
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 39 | verses 37-56 | confidence 5
+  excerpt: At the Yamuna, Akrura bathed and, diving, beheld Krishna and Balarama there as the Lord resting on Shesha, surrounded by the hosts of gods; and he rose and praised him. (rendered from Sanskrit, verses 37-56)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 81 | verses  | confidence 4
+  excerpt: sinking into the lake of Yamuna... he saw there the thousand-headed Deity Ananta... and the dark blue hued Vishnu... seated at ease on the lap of that king of serpents.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 18 | verses  | confidence 4
+  excerpt: he beheld mentally Balabhadra, having a thousand hooded beads... On his lap he also beheld... Krishńa, of the complexion of a cloud... armed with the discus and other weapons... Apprehending, therefore, their real character, he thus eulogized the eternal deity.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.39 (37-56)
+37. bhagavān api samprāpto rāmākrūra-yuto nṛpa /
+38. tatropaspṛśya pānīyaṃ pītvā mṛṣṭaṃ maṇi-prabham /
+39. akrūras tāv upāmantrya niveśya ca rathopari /
+40. nimajjya tasmin salile japan brahma sanātanam /
+41. tau ratha-sthau katham iha sutāv ānakadundubheḥ /
+42. tatrāpi ca yathā-pūrvam āsīnau punar eva saḥ /
+43. bhūyas tatrāpi so 'drākṣīt stūyamānam ahīśvaram /
+44. sahasra-śirasaṃ devaṃ sahasra-phaṇa-maulinam /
+45. tasyotsaṅge ghana-syāmaṃ pīta-kauśeya-vāsasam /
+46. cāru-prasanna-vadanaṃ cāru-hāsa-nirīkṣaṇam /
+47. pralamba-pīvara-bhujaṃ tuṅgāṃsoraḥ-sthala-śriyam /
+48. bṛhat-kati-tata-śroṇi karabhoru-dvayānvitam /
+49. tuṅga-gulphāruṇa-nakha vrāta-dīdhitibhir vṛtam /
+50. su-mahārha-maṇi-vrāta kirīṭa-kaṭakāṅgadaiḥ /
+51. bhrājamānaṃ padma-karaṃ śaṅkha-cakra-gadā-dharam /
+52. sunanda-nanda-pramukhaiḥ parṣadaiḥ sanakādibhiḥ /
+53. prahrāda-nārada-vasu pramukhair bhāgavatottamaiḥ /
+54. śriyā puṣṭyā girā kāntyā kīrtyā tuṣṭyelayorjayā /
+55. vilokya su-bhṛśaṃ prīto bhaktyā paramayā yutaḥ /
+56. girā gadgadayāstauṣīt sattvam ālambya sātvataḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.81 ()
+TITLE: AKRURA DESCRIBES TO HIM THE MISERIES OF HIS PARENTS
+
+Vaishampayana said:—That giver of liberal gifts, having entered Nanda’s
+house with Keshava and collected all the elderly milk-men, said
+delightedly to Krishna and Rohini’s son "O my sons, early in the morning
+to-morrow, we will all repair to Mathurā (1–2). Under Kansa’s command,
+the Gopa inhabitants of Vraja, with their family and annual tributes,
+are to go there (3). Kansa is celebrating there a prosperous
+bow-sacrifice.
+
+"You will all witness it and be united with your kinsmen (4). O my sons,
+your father Vasudeva is overwhelmed with sorrow consequent upon the
+destruction of his sons. You will be united with him there (5). O
+Krishna, he has grown old and all his limbs have become lean on account
+of decrepitude. And he is being always oppressed by Kansa of sinful
+designs (6). Out of Kansa’s fear and your absence his mind is always
+burning in anxiety (7). O Govinda, you will also see the sorrowful and
+goddess-like Devaki. Her breast has not been handled by her sons and she
+is growing lean out of grief for her sons. She is anxious to see you.
+And stricken with the sorrow of separation she is there like a cow
+without her calf (8–9). Like unto the moon possessed by Rāhu her eyes
+have run into their sockets and clad in a soiled raiment she is poorly
+spending her days (10). O Krishna, that ascetic lady is being exhausted
+with your sorrow. She is anxious to see you. And the desire for your
+return is reigning supreme in her mind (11). O lord, being separated
+from thee from thy very infancy she could not listen to thy child-like
+talks nor could she see the beauty of thy moon-like countenance (12). If
+by giving birth to thee Devaki is to repent thus what necessity had she
+then of a son? It would have been better for her not to have any
+offspring (13). Women, having no children, are subject to one grief
+only—but there is no end of their miseries, if they, on having
+offspring, have not their ends accomplished and fie on such sons (14). O
+Mādhava, thou art the saviour of even thy enemies, art gifted with
+prowess like unto that of Indra and art endued with matchless
+accomplishments. She does not desire such a grief whose son thou art
+(15). Although aged thy parents are now serving another man and Kansa,
+of a sinful mind, is now insulting them on thy account (16). If like
+unto earth who holds thee Devaki deserves thy respect it behoves thee to
+save that goddess sunk into the water of sorrow (17). O Krishna,
+subjecting old Vasudeva, ever fond of his son and used to luxuries, to
+sorrow consequent upon the separa
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0107 | next_story_id: DKS_0132
+previous title: The Great Rasa Dance
+next title: Krishna Straightens the Hunchback Kubja

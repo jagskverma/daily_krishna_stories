@@ -1,0 +1,41 @@
+# STORY DKS_0291 — Vasudeva's Sacrifice
+
+## Index entry
+title: Vasudeva's Sacrifice
+summary: The sages, pleased with Vasudeva's question, initiate him and he performs a great sacrifice at Samanta-panchaka, with his sons and the Yadavas attending.
+life_stage: later_life | story_arc: dwaraka_royal_life
+characters: Vasudeva, Krishna, Balarama, Narada, the sages
+locations: Samanta-panchaka
+themes: sacrifice, purification, piety
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0494
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 84 | verses 42-55 | confidence 5
+  excerpt: Vasudeva, instructed by the sages, chooses them as his priests, and they initiate him and perform sacrifices at that holy field. Krishna and Balarama shine there among their kinsmen and sons, and after the rites Vasudeva gives rich gifts of cows, land and maidens to the priests, completing the sacrifice with the avabhritha bath. (rendered from Sanskrit, verse 42-55)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.84 (42-55)
+42. ta enam ṛṣayo rājan vṛtā dharmeṇa dhārmikam /
+43. tad-dīkṣāyāṃ pravṛttāyāṃ vṛṣṇayaḥ puṣkara-srajaḥ /
+44. tan-mahiṣyaś ca muditā niṣka-kaṇṭhyaḥ su-vāsasaḥ /
+45. nedur mṛdaṅga-paṭaha- śaṅkha-bhery-ānakādayaḥ /
+46. tam abhyaṣiñcan vidhi-vad aktam abhyaktam ṛtvijaḥ /
+47. tābhir dukūla-valayair hāra-nūpura-kuṇḍalaiḥ /
+48. tasyartvijo mahā-rāja ratna-kauśeya-vāsasaḥ /
+49. tadā rāmaś ca kṛṣṇaś ca svaiḥ svair bandhubhir anvitau /
+50. īje 'nu-yajñaṃ vidhinā agni-hotrādi-lakṣaṇaiḥ /
+51. athartvigbhyo 'dadāt kāle yathāmnātaṃ sa dakṣiṇāḥ /
+52. patnī-saṃyājāvabhṛthyaiś caritvā te maharṣayaḥ /
+53. snāto 'laṅkāra-vāsāṃsi vandibhyo 'dāt tathā striyaḥ /
+54. bandhūn sa-dārān sa-sutān pāribarheṇa bhūyasā /
+55. sadasyartvik-sura-gaṇān nṛ-bhūta-pitṛ-cāraṇān /
+
+## Corpus chain
+previous_story_id: DKS_0290 | next_story_id: DKS_0292
+previous title: Sudama Finds His Hut a Palace || Returning home, Sudama finds his poor dwelling transformed into a celestial palace and his wife radiant, and he reflects that this is Krishna's unasked grace.
+next title: Devaki Asks for Her Slain Sons

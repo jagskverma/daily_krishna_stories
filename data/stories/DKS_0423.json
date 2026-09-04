@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0423",
+ "title": "Krishna Refuses Duryodhana's Feast",
+ "subtitle": null,
+ "story": "From his aunt Kunti's house, Krishna went to the palace of Duryodhana — the eldest of the blind king's hundred sons, and the prince who now held the kingdom his cousins had lost. Everyone in Hastinapura knew why Krishna had come, and Duryodhana meant to receive him as an honoured guest before a single word of peace could be spoken.\n\nThe palace was furnished with great wealth, its halls set with beautiful seats, fit, men said, for the king of the gods himself. Krishna crossed three wide courtyards, unhindered by the waiting servants, and entered the great hall — high as a hill, bright as a summer cloud. There, in the midst of a thousand kings and surrounded by the whole Kuru court, sat Duryodhana on his throne, his brother Dussasana at his side, and with them Karna, the great archer who had sworn his friendship to Duryodhana, and Sakuni, the uncle who had cheated the Pandavas out of their kingdom at dice.\n\nAt Krishna's entry, Duryodhana rose, and his counsellors rose with him. Krishna greeted the sons of Dhritarashtra, the counsellors, and every king present, each according to his age, and took the golden throne that had been set for him, its seat covered with a carpet embroidered in gold. The king offered him a cow, honey, curds and water, and placed at his service palaces, mansions and the whole kingdom. The Kauravas and the assembled kings honoured him as he sat there.\n\nThen, the worship over, Duryodhana invited Krishna to eat at his house. Krishna did not accept.\n\nThe king pressed him, his voice gentle with something else moving behind it, his eyes on Karna as he spoke. Why would Krishna not accept the feast prepared for him — the fine foods and drinks, the robes and beds kept ready? He had promised his help to both sides and wished both parties well; he was of Dhritarashtra's own kin, and the old king loved him. \"Tell me the true reason for this refusal,\" Duryodhana said.\n\nKrishna raised his right arm and answered in a voice deep as thunder, calm and clear: \"An envoy, O king, eats and accepts gifts only when his mission has succeeded. When my work here is done, you may feast me and my companions.\"\n\nDuryodhana answered that such words ill became Krishna. Whether the mission succeeded or failed, the feast was offered out of kinship, and there was no quarrel between them, no war.\n\nBut Krishna had not finished. \"Not from pride, not from anger, not from malice, nor for any gain would I turn aside from what is right,\" he said. \"A man eats another's food when he is in need — or when love moves him to it. I am in no need, and you have shown me no love. From the day they were born, you have hated your own cousins, the gentle Pandavas, who never did you harm and who hold fast to virtue. Who can injure such men? He who hates them hates me, and he who loves them loves me. Know this: the Pandavas and I have but one soul between us. The food of a house that hates my very self could not pass my lips. I will eat at the house of Vidura, where the food is offered in love.\"\n\nIn a hall prepared for a thousand kings, Krishna had chosen the simple table of Vidura's house — the one table in Hastinapura where he could eat without denying his own words. The refusal was not discourtesy. The friend of the Pandavas would not sit down to the feast of the man who had spent his life hating them.",
+ "reflection": "Krishna's refusal of Duryodhana's food is not a diplomatic slight but a statement of identity: he and the Pandavas, he says, have but a common soul, and one does not eat at the table of a man who hates one's own self. It is also a quiet correction of Duryodhana's arithmetic, which counts feasts and favours where Krishna counts only love and virtue.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Karna",
+  "Vidura"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "integrity",
+  "refusal",
+  "hospitality"
+ ],
+ "previous_story_id": "DKS_0422",
+ "next_story_id": "DKS_0424",
+ "next_story_tease": "That night, at the table Krishna had chosen, Vidura would tell him the truth about the court he had come to save.",
+ "hero_scene": "In Duryodhana's jewel-bright court before a thousand kings, Krishna raises his mighty right arm and refuses the feast, while Duryodhana watches with Karna and Sakuni at his side and the assembled kings look on.",
+ "visual_elements": [
+  "Duryodhana's cloud-high palace blazing with wealth",
+  "Duryodhana on his throne amid a thousand kings, Karna and Sakuni beside him",
+  "Krishna seated on the golden throne with its embroidered carpet",
+  "Krishna raising his right arm as he refuses the invitation",
+  "Duryodhana's eyes on Karna as he presses the invitation"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.91",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0430",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

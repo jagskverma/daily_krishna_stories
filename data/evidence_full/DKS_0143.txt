@@ -1,0 +1,37 @@
+# STORY DKS_0143 — Krishna Frees and Bows to Vasudeva and Devaki
+
+## Index entry
+title: Krishna Frees and Bows to Vasudeva and Devaki
+summary: Krishna and Balarama release their parents from bonds and bow, touching their feet.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Balarama, Vasudeva, Devaki
+locations: Mathura
+themes: liberation, reunion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0147
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 44 | verses 49-50 | confidence 5
+  excerpt: Krishna and Balarama released Vasudeva and Devaki from their bonds and bowed, touching their feet; and the parents, knowing their sons to be the lords of the world, embraced them without fear. (rendered from Sanskrit, verses 49-50)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 20 | verses  | confidence 4
+  excerpt: Krishńa, accompanied by Balabhadra, embraced the feet of Vasudeva and of Devakí... recalling to recollection what he had said to them at his birth, they bowed to Janárddana.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.44 (49-50)
+49. mātaraṃ pitaraṃ caiva mocayitvātha bandhanāt /
+50. devakī vasudevaś ca vijñāya jagad-īśvarau /
+
+### Vishnu Purana (Wilson 1840) 5.20 ()
+Krishńa and Balaráma meet Kubjá; she is made straight by the former: they proceed to the palace. Krishńa breaks a bow intended for a trial of arms. Kansa's orders to his servants. Public games. Krishńa and his brother enter the arena: the former wrestles with Cháńúra, the latter with Musht́ika, the king's wrestlers; who are both killed. Krishńa attacks and slays Kansa: he and Balaráma do homage to Vasudeva and Devakí: the former praises Krishńa.
+
+As they proceeded along the high road, they saw coming towards them a young girl, who was crooked, carrying a pot of unguent. Krishńa addressed her sportively, and said, "For whom are you carrying that unguent? tell me, lovely maiden; tell me truly." Spoken to as it were through affection, Kubjá, well disposed towards Hari, replied to him also mirthfully, being smitten by his appearance; "Know you not, beloved, that I am the servant of Kansa, and appointed, crooked as I am, to prepare his perfumes. Unguent ground by any other he does not approve of: hence I am enriched through his liberal rewards." Then said Krishńa, "Fair-faced damsel, give us of this unguent, fragrant and fit for kings, as much as we may rub upon our bodies." "Take it," answered Kubjá.; and she gave them as much of the unguent as was sufficient for their persons; and they rubbed it on various parts of their faces and bodies, till they looked like two clouds, one white and one black, decorated by the many-tinted bow of Indra. Then Krishńa, skilled in the curative art, took hold of her, under the chin, with the thumb and two fingers, and lifted up her head, whilst with his feet he pressed down her feet; and in this way he made her straight. When she was thus relieved from her deformity, she was a most beautiful woman; and, filled with gratitude and affection, she took Govinda by the garment, and invited him to her house. Promising to come at some other time, Krishńa smilingly dismissed her, and then laughed aloud on beholding the countenance of Baladeva.Dressed in blue and yellow garments, and anointed with fragrant unguents, Keśava and Ráma proceeded to the hall of arms, which was hung round with garlands. Inquiring of the warders which bow he was to try, and being directed to it, he took it, and bent it; but drawing it with violence, he snapped it in two, and all Mathurá resounded with the noise which its fracture occasioned. Abused by the warders for breaking the bow, Krishńa and Ráma retorted, and defied them, and left the hall.When Kansa knew that Akrúra had returned, and heard that the bow had been broken, he thus said to Cháńúra and Musht́ika, his boxers: "Two youths, cowherd boys, have arrived; you must kill them both, in a trial of strength, in my presence; for they practise against my life. I shall be well pleased if you kill them in the match, and will give you whatever you wish; not else. These two foes of mine must be killed by you fairly or unfairly. The kingdom shall be ours in common, when they have perished." Having given them these orders, he sent next for his elephant driver, and desired him to station his great elephant Kuvalayápíd́a, who was as vast as a cloud charged with rain, near the gate of the arena, and drive him upon the two boys when they should attempt to enter. When Kansa had issued these commands, and ascertained that the platforms were all ready for the spectators, he awaited the rising of the sun, unconscious of impending death.In the morning the citizens assembled on the platforms set apart for them, and the princes, with the ministers and courtiers, occupied the royal seats. Near the centre of the circle judges of the games were stationed by Kansa, whilst he himself sat apart close by upon a lofty throne. Separate platforms were erected for the ladies of the palace, for the courtesans, and for the wives of the citizens. Nanda and the cowherds had places appropriated to them, at the end of which sat Akrúra and Vasudeva. Amongst the wives of the citizens appeared Devakí, mourning for her son, whose lovely face she longed to behold even in the hour of his destruction. When the musical instruments sounded, Cháńúra sprang forth, and the people cried, "Alas!" and Musht́ika slapped his arms in defiance. Covered with must and blood from the elephant, whom, when goaded upon them by his driver, they had slain, and armed with his tusks, Balabhadra and Janárddana confidently entered the arena, like two lions amidst a herd of deer. Exclamations of pity arose from all the spectators, along with expressions of astonishment. "This then," said the people, "is Krishńa! this is Balabhadra! This is he by whom the fierce night-walker Pútaná was slain; by whom the waggon was overturned, and the two Arjuna trees felled! This is the boy who trampled and danced on the serpent Kálíya; who upheld the mountain Govarddhana for seven nights; who killed, as if in play, the iniquitous Arisht́a, Dhenuka, and Keśin! This whom we see is Achyuta! This is he who has been foretold by the wise, skill
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0142 | next_story_id: DKS_0144
+previous title: Kamsa's Wives Lament and the Funeral Rites Are Performed
+next title: Krishna Begs His Parents' Forgiveness

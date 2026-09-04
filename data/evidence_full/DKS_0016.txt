@@ -1,0 +1,29 @@
+# STORY DKS_0016 — Uddhava Recalls Krishna's Birth and Removal to Vraja
+
+## Index entry
+title: Uddhava Recalls Krishna's Birth and Removal to Vraja
+summary: Uddhava recalls that Krishna was born of Vasudeva and Devaki in Bhoja's prison to relieve the earth's burden, and was carried by his father, fearing Kamsa, to Nanda's Vraja, where he lived hidden for eleven years with Balarama.
+life_stage: gokul | story_arc: krishna_reaches_gokul
+characters: Krishna, Vasudeva, Devaki, Nanda, Balarama, Kamsa
+locations: Mathura, Nanda's Vraja
+themes: birth, removal to Gokula, protection, divine descent
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0192
+variant_notes: Compressed recollection spanning the birth and exchange (see 'birth','exchange').
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 24-25 | confidence 5
+  excerpt: Uddhava said: 'Born of Vasudeva and Devaki in the prison of the Bhoja king, the Lord, prayed to by the earth, came to relieve her. Then, carried by his father in fear of Kamsa, he dwelt in Nanda's Vraja for eleven years with Balarama, his glory concealed.' (rendered from Sanskrit, verses 24-25)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (24-25)
+24. vasudevasya devakyāṃ jāto bhojendra-bandhane /
+25. tato nanda-vrajam itaḥ pitrā kaṃsād vibibhyatā /
+
+## Corpus chain
+previous_story_id: DKS_0018 | next_story_id: DKS_0017
+previous title: Vasudeva Carries Krishna Out of Prison Across the Yamuna
+next title: Nanda Brings the Infants Home to Gokula

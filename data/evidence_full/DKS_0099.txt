@@ -1,0 +1,45 @@
+# STORY DKS_0099 — The Gopis Abandon Their Homes
+
+## Index entry
+title: The Gopis Abandon Their Homes
+summary: Krishna plays his flute on an autumn night and the gopis leave homes, husbands and duties to rush to him.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Vrindavan, Yamuna
+themes: love, flute, abandonment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0109
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 29 | verses 1-16 | confidence 5
+  excerpt: Seeing the autumn nights, Krishna resolved to enjoy himself; he played his flute, and the gopis, their minds captured, left their homes, husbands, children and duties and hurried to him, heedless of all restraint. (rendered from Sanskrit, verses 1-7)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.29 (1-16)
+1. tadoḍurājaḥ kakubhaḥ karair mukhaṃ prācyā vilimpann aruṇena śantamaiḥ /
+2. dṛṣṭvā kumudvantam akhaṇḍa-maṇḍalaṃ $ ramānanābhaṃ nava-kuṅkumāruṇam &amp;vanaṃ ca tat-komala-gobhī rañjitaṃ % jagau kalaṃ vāma-dṛśāṃ manoharam
+3. niśamya gītāṃ tad anaṅga-vardhanaṃ vraja-striyaḥ kṛṣṇa-gṛhīta-mānasāḥ /
+4. duhantyo 'bhiyayuḥ kāścid dohaṃ hitvā samutsukāḥ /
+5. pariveṣayantyas tad dhitvā pāyayantyaḥ śiśūn payaḥ /
+6. limpantyaḥ pramṛjantyo 'nyā añjantyaḥ kāśca locane /
+7. tā vāryamāṇāḥ patibhiḥ pitṛbhir bhrātṛ-bandhubhiḥ /
+8. antar-gṛha-gatāḥ kāścid gopyo 'labdha-vinirgamāḥ /
+9. duḥsaha-preṣṭha-viraha- tīvra-tāpa-dhutāśubhāḥ /
+10. tam eva paramātmānaṃ jāra-buddhyāpi saṅgatāḥ /
+11. bhp_10.29.012/0 śrī-parīkṣid uvāca
+12. bhp_10.29.013/0 śrī-śuka uvāca
+13. nṛṇāṃ niḥśreyasārthāya vyaktir bhagavato nṛpa /
+14. kāmaṃ krodhaṃ bhayaṃ sneham aikyaṃ sauhṛdam eva ca /
+15. na caivaṃ vismayaḥ kāryo bhavatā bhagavaty aje /
+16. tā dṛṣṭvāntikam āyātā bhagavān vraja-yoṣitaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0098 | next_story_id: DKS_0100
+previous title: Krishna Vanishes
+next title: Krishna Tests the Gopis
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

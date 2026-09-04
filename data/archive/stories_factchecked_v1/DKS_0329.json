@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0329",
+ "title": "Narada Brings News of Aniruddha",
+ "subtitle": null,
+ "story": "The search parties had come home empty-handed, and the great hall of Dwaraka had settled into a gloom that no one knew how to break. The messengers had searched the mountains and the forests, the cities and the hidden places, and they had said the only words they had: \"We saw Aniruddha nowhere.\" The Yadavas asked one another the same question again and again — where was Aniruddha? — and had no answer. Then, without warning, there was an answer in the room.\n\nNarada had arrived. The sage who wandered through all the worlds, carrying news from every court, stood before Krishna, and the assembly fell silent, because Narada always knew what others did not.\n\nHe told them what he had seen. In the city of the demon Bana, king of Sonitpura, there lived a daughter named Usha. For her sake, said the sage, the apsara Chitralekha — the enchantress of the celestial dancers, skilled in the arts of illusion — had carried off Aniruddha and brought him to the demon's city. That was the theft: not a raid of enemies, not an ambush on the road, but a girl's longing and a sorceress's art, reaching into Dwaraka itself and taking the prince away.\n\nAnd Bana? When the king of Sonitpura learned that the grandson of Krishna lay in his city, he had the young man fettered with serpent-shafts, nooses strong enough to hold even a warrior, and kept him prisoner there. The Yadavas knew the king's name, and they knew his city, ringed with a guardian fire and guarded by the armies of the demons who served him. The prince who had disappeared from the middle of Dwaraka lay in the heart of the enemy's stronghold.\n\nBut there was one word in Narada's report that changed everything: Aniruddha was not deprived of life. The prince was bound, but he was alive. The serpent-nooses had not taken his breath; Bana's rage had not yet reached the point of killing him. The name of the city, the name of the demon, and the certain knowledge that the boy still breathed — the news passed through the hall like water poured on a burning house. The wives who had wept in the palace, crying that even under Krishna's protection they were lost, heard that their lord still lived. Where there had been only helpless grief, there was now a place, a name, and a hope.\n\nKrishna heard the sage out, and the anxiety that had weighed on the court for days had somewhere to go at last. The Yadavas had searched the mountains and the forests and found nothing; Narada had walked into the palace and handed them the whole truth. Where Aniruddha was, who had taken him, and that he still lived — it was enough. Grief, when it knows where to point, becomes resolve.\n\nDwaraka turned its face toward Sonitpura, the distant city of the demon king, where a bound prince still breathed in his chains and waited to be brought home.",
+ "reflection": "Narada's gift here is not prophecy but eyewitness: he has seen with his own eyes what an army of messengers could not find. The small, precise fact that Aniruddha is not deprived of life carries the whole story — hope in this telling is not grand, but exact and practical.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Narada",
+  "Krishna",
+  "Bana",
+  "Aniruddha",
+  "Usha",
+  "Chitralekha"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "revelation",
+  "news",
+  "relief"
+ ],
+ "previous_story_id": "DKS_0328",
+ "next_story_id": "DKS_0330",
+ "next_story_tease": "At the gates of Sonitpura, the war-god himself would be waiting to meet them.",
+ "hero_scene": "The great hall of Dwaraka: the sage Narada standing before the seated Krishna, the assembled Yadavas leaning in to listen, as the gloom of the court lifts with the news that Aniruddha is still alive.",
+ "visual_elements": [
+  "Narada arriving in the anxious court of Dwaraka",
+  "the assembled Yadavas listening in silence",
+  "Usha, the daughter of Bana, imagined in the sage's telling",
+  "Aniruddha fettered with serpent-shafts in the demon's city",
+  "the relief spreading through the hall like water on a fire"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.268",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:07Z",
+  "source_event_id": "evt_0347"
+ },
+ "editorial_status": "unreviewed"
+}

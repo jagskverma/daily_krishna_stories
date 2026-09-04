@@ -1,0 +1,108 @@
+# STORY DKS_0162 — The Serpent-Jar Stratagem Against Kalayavana
+
+## Index entry
+title: The Serpent-Jar Stratagem Against Kalayavana
+summary: As Kalayavana advances, Krishna sends him a sealed jar holding a black serpent as a warning; Kalayavana answers by filling the jar with ants that devour it.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Krishna, Kalayavana
+locations: Mathura
+themes: stratagem, counter-stratagem, omens
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0191
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 114 | verses  | confidence 4
+  excerpt: Keshava sent an envoy to the king of Yavanas. In order to terrorize him ... put a highly dreadful black serpent ... into a jar and sealed it up. ... understanding that the Yadavas had sent it to terrorize him Kalayavana filled that jar with dreadful ants.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.114 ()
+TITLE: ACCOUNT OF KALAYAVANA
+
+Janamejaya said:—O reverend sir, I wish to listen at length to the
+history of the high-souled and intelligent Vāsudeva, the foremost of
+Yadus (1). O foremost of the twice-born, why did Janārddana, without
+fighting, leave Mathura the only abode of Lakshmi (the goddess of
+prosperity), the hump (the most elevated) of Central India, the very
+summit of the earth, abounding in profuse corns, wealth and beautiful
+houses, and consisting of many worshipful Aryans? How did Kālayavana
+behave towards Krishna? Having obtained the watery fortress Dwarkā what
+did the great Yogin of hard penances the mighty-armed Janārddana do
+(2–5)? Whose son was Kālayavana and how powerful was he? Do thou
+describe all this to me (6).
+
+Vaishampāyana said:—The high-minded Gārgya was the preceptor of both the
+Andhaka and Vrishni races. He always observed the vow of celibacy; and
+although he had a wife he did not know her. While the eternal Gārgya,
+who was a master of passions, was thus spending his days this
+brother-in-law described him as impotent before the king (7-8). O king,
+having been thus dishonored in the city of Ajitanjaya and giving up his
+desire of being united with his wife out of anger for his
+brother-in-law, Gārgya engaged in hard penances for obtaining a son. And
+living on pounded iron for twelve years he worshipped Mahādeva, the
+holder of trident. For this Rudra conferred on him a boon that he would
+obtain an all powerful son who would be able to discomfit in battle the
+descendants of the Vishni and Andhaka races (9–10).
+
+The king of Yavanas had no son. Hearing of the boon of having a son
+conferred upon Gārgya, the foremost of the twice-born by Mahādeva, the
+king brought him over to his own kingdom. And having consoled him he
+engaged the milk-women to attend him in their own settlement. Having
+assumed the guise of a milk-woman, an Apsara, Gopāli by name, conceived
+that dreadful and undecaying embryo through Gārgya (12-14). Thus by the
+command of the holder of trident, Gārgya begat on the Apsara, assuming
+the form of a woman and living by him like a wife, the highly powerful
+hero Kālayavana. And he was brought up in the inner appartment, like his
+son, of the king Yavanas who had no issue. O king, after the demise of
+the lord of Yavanas Kalyavana became king. And being desirous of
+fighting when he questioned the leading twice-born ones about his
+antagonist Narada pointed out the heroes of the Vrishnu and Andhaka
+races (15-17). Krishna, the powerful slayer of Madhu, took no notice of
+Kālayavana, although he grew up in the midst of the Yavanas because he
+had heard from Narada the story of his obtaining the boon (18). When the
+king of Yavanas grew exceedingly powerful, Shaka, Tukhāra Darava,
+Parava, Tangana, Khasha, Panhava and hundreds of Mlechcha kings, living
+near Himavan, took shelter under him (19–20). Encircled by those Dasyu
+kings resembling a swarm of locusts, assuming various dresses and
+holding various weapons, the king of Yavanas set out for Mathura (21).
+He agitated the surface of the earth with innumerable horses, elephants,
+asses, camels and a huge army (22). The path of the sun was covered with
+the dust raised by the soldiers. By the urine and excreta of the
+soldiers a river was created (23). And because that river issued from
+the excreta of the horses and camels it passed by the name of Aswasakrit
+(24).
+
+Hearing of the approach of this huge army Vāsudeva, the leader of the
+Vrishnis and Andhakas, addressed his kinsmen, saying (25):—"Great is the
+calamity that has befallen the descendants of the Vrishni and Andhaka
+races. For this enemy is unslayable by us on account of the boon
+conferred on him by the holder of the trident (26). I employed all other
+means as conciliation etc. to win him over. But he wishes for battle
+worked up with pride (27). ’I am to live here:’ this Nārada said to me;
+I too tell you this (28). The emperor Jarāsandha is not forgiving
+towards us; and the other kings too, assailed by the Vrishni discus and
+on account of the distruction of Kansa, have been displeased with us and
+sought refuge with the Magadha king. Under the protection of Jarāsandha
+they want to obstruct us: and many kinsmen of the Yādavas have been
+slain by them. What more we will never acquire prosperity if we live in
+this city."
+
+Saying this and desirous of retreating Keshava sent an envoy to the king
+of Yavanas. In order to terrorize him (the king of Yavanas) the highly
+intelligent Mādhava put a highly dreadful black serpent, resembling a
+collection of collyrium, into a jar and sealed it up. He then sent it to
+the king of Yavanas through his own emissary. O foremost of Bharatas,
+having said "Krishna is like a deadly serpent" that emissary showed the
+jar to Kālayavana. Thereupon understanding that the Yadavas had sent it
+to terrorize him Kalayavana filled that jar with dreadful ants. Thereat
+that serpent was eaten up by the innumerable ants having sharp beaks and
+was reduced to ashes. Thereupon seali
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0161 | next_story_id: DKS_0163
+previous title: Kalayavana Marches on Mathura
+next title: Jarasandha Hurls His Mace toward Mathura

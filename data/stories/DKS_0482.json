@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0482",
+ "title": "Krishna Offers Sudarsana to Slay Karna",
+ "subtitle": null,
+ "story": "In the war at Kurukshetra, where the five Pandava brothers fought their hundred cousins, the Kauravas, the duel the whole war had been building toward had finally come. Arjuna, the Pandavas' greatest archer, faced Karna, the champion of the Kaurava host — and the whole field knew that these two would settle what armies could not. Arjuna's chariot was driven by Krishna, his cousin and friend.\n\nBoth rode white steeds, and both were at the height of their power. They met like two great elephants locking tusks, and the field trembled under them. Shower after shower of arrows they poured at each other — bows twanging, bow-strings singing, chariot wheels clattering — while the armies of both sides watched in silence. Karna struck first, piercing Arjuna with ten mighty shafts; Arjuna answered with ten of his own, driven into the centre of Karna's chest. The fight left nothing unhurt: the limbs of the two heroes, of their charioteers, of their horses, were cut and bleeding, and the blood ran over the ground like a river no one would drink from.\n\nArjuna rubbed his arms and the string of Gandiva, his great bow, and then the arrows came in floods — cloth-yard shafts, razor-headed arrows, arrows shaped like a boar's ear, crescent-headed arrows — until they filled the sky like birds coming home to roost in the evening. Every one of them, shower after shower, Karna cut down with arrows of his own.\n\nBoth armies, and the beings who watched from the sky, were struck with fear at the sight of that wonderful and terrible encounter. Some among the watchers, carried away with joy, raised their arms and shouted like lions whenever Arjuna rushed at Karna.\n\nThe duel went on until the very sun seemed to vanish. Furious now, Arjuna drew Gandiva and loosed a weapon of fire — a blazing thing that covered the earth and the sky, hid the very course of the sun, and set his own body alight with its glow. The robes of the watching warriors caught fire, and they fled, and the sky roared like a bamboo forest burning.\n\nKarna did not flinch. He answered with the weapon of the waters, and great clouds, dark as mountains, gathered on every side and flooded the field. The fire, fierce as it was, was quenched in a moment.\n\nThe two looked at each other across the wreckage of their arrows. The warriors of the Pandava host shouted for Arjuna to pierce Karna and cut off his head; the warriors of the Kaurava host shouted for Karna to slay Arjuna and send the Pandavas back to the forests forever.\n\nIt was Krishna who broke the silence. From the driver's seat he had watched every exchange, and now his patience ran out. \"What is this, Arjuna,\" he said, \"that Karna should succeed in crushing your weapons today?\"\n\nThe calm of the charioteer had become the wrath of a friend who had watched enough. Krishna held out his hand, and in it turned the Sudarsana — the discus, its edge keen as a razor, the weapon that had felled demons and kings. \"Putting forth your might,\" he said, \"strike off the head of this foe of yours with this Sudarsana that I give you — as Indra, king of the gods, struck off the head of his foe Namuci with the thunderbolt.\"\n\nThe discus blazed in the air between them, offered like an answer to a question no one had dared to ask. Through every battle of the war, Krishna had held nothing but the reins; now he offered his own weapon, and the duel hung, waiting.",
+ "reflection": "Krishna, who came to the war holding nothing but reins, offers his own discus at the moment Arjuna's weapons fail — the wrath of a friend who has watched enough. The offer measures what the war has cost even the one who never lifted a weapon in it.",
+ "tradition_note": null,
+ "content_note": "Fierce single combat with showers of arrows and a blazing weapon; blood is mentioned without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "divine weapon",
+  "wrath",
+  "resolve"
+ ],
+ "previous_story_id": "DKS_0481",
+ "next_story_id": "DKS_0483",
+ "next_story_tease": "But the duel was not to be settled by the discus, and the earth itself would soon swallow the chariot's wheels.",
+ "hero_scene": "Krishna stands in the chariot holding out the blazing Sudarsana discus to Arjuna, whose exhausted bow-arm hangs low, while Karna's distant chariot waits amid the wreckage of arrows on the darkened field.",
+ "visual_elements": [
+  "the two white-steeded chariots closing like infuriated elephants",
+  "the clouds-and-mountains clash of the two champions",
+  "Arjuna's arrows filling the sky, cut down by Karna",
+  "the blazing weapon of fire covering earth and sky, robes catching flame",
+  "dark clouds flooding the field and quenching the fire",
+  "Krishna offering the razor-edged Sudarsana discus to Arjuna",
+  "the discus blazing in the air between them"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.89",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:14:29Z",
+  "source_event_id": "evt_0476",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

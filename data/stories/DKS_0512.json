@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0512",
+ "title": "The Osprey, the Child, the Maiden and the Arrow-Maker",
+ "subtitle": null,
+ "story": "The osprey had caught something — a fish, a piece of meat — and was carrying it across the sky when the stronger birds came. They mobbed it from every side, striking with beak and wing, and the osprey could not both fly and hold its prize. The avadhuta — a wandering teacher who had left home and comfort behind to take the whole world for his guru — was walking the road below, and he saw the bird let go. The meat fell, the attackers wheeled away after it, and the osprey flew on, free and unhurt. Its wings never faltered; it had simply weighed the sky against the fish and chosen. It was a small drama in a wide sky, and most travelers would have walked past it; the wandering teacher stopped, watched, and took it for a lesson.\n\nThe lesson was in the letting go. It was not hunger that had endangered the bird; it was the prize. The birds that took the meat were the stronger ones — strong, and hungry, with no prey of their own — and the osprey, burdened by its prize, could not defend it against them. So it is, said the avadhuta, with a man who grips what he cannot keep. He had made himself like the osprey, he said: for him there was neither honor nor disgrace, and none of the cares that keep people with homes and families awake at night, because he had let all of them go. The moment of release looked like loss, and it was freedom.\n\nThe child taught him the same truth from the other side. A child owns nothing — no property, no reputation, no plans for tomorrow — and yet a child is not miserable. It is the freest thing alive, absorbed in the game in front of it, drowned in its own joy. A child does not hoard joy; it spends it all on the moment. Only two beings are free of care, said the avadhuta: the child, who has nothing and wants nothing, and the sage, who has nothing and wants nothing. From the child he learned to be glad without possessions.\n\nThe maiden taught him about solitude. She was alone in the house one day, husking grain, and as she worked her bangles clinked against one another — a small bright sound at every stroke of her hands. She minded it; the clinking seemed to her unbecoming, the noise of vanity, and so she broke the bangles off one by one and laid them aside, until only a single bangle remained on her wrist. And a single bangle makes no sound. When it was silent, she worked in peace. So, said the avadhuta, should the sage dwell: alone. Where many live together there is quarreling, and even two voices make a noise; strip away what clinks, and there is silence. The empty floor around her was a kind of victory, though no one was there to see it.\n\nThe arrow-maker taught him about the mind. The man sat at his work, straightening a shaft, planing and smoothing the wood with his whole attention — and a king's procession passed on the road behind him, with its music and its banners, and the arrow-maker never saw it. It was said the king himself rode in that procession, and still the man's hands never stopped their even work. His mind was fixed on the arrow and nothing else. From that man, said the avadhuta, he learned to fix his own mind on a single point, until nothing outside and nothing inside could pull it away; he wanted it said of him what was said of the arrow-maker — that the world passed by and he did not notice. Such absorption is not laziness or dreaming; it is the whole of the mind, kept in one place.\n\nSolitude and one-pointedness — the maiden's silence and the arrow-maker's absorption. The avadhuta said they are one discipline: empty the room until nothing clinks, and then give the whole mind to the one thing that matters.",
+ "reflection": "The four teachers share one thread: they are free because they want little. The osprey lets go, the child does not grasp, the maiden strips away every ornament that makes a sound, and the arrow-maker forgets the world because he is wholly given to one thing. Solitude and single-pointedness are the same discipline seen from two sides.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the avadhuta",
+  "the osprey",
+  "the child",
+  "the maiden",
+  "the arrow-maker"
+ ],
+ "locations": [
+  "a forest road"
+ ],
+ "themes": [
+  "renunciation",
+  "solitude",
+  "concentration",
+  "innocence"
+ ],
+ "previous_story_id": "DKS_0511",
+ "next_story_id": "DKS_0513",
+ "next_story_tease": "His last teachers came from the earth and the air: the serpent, the spider, and the wasp.",
+ "hero_scene": "A maiden alone in a quiet room husks grain; at each stroke her bangles clink, and one by one she breaks them off and sets them aside until the room falls silent.",
+ "visual_elements": [
+  "the osprey releasing its prey to the mobbing birds and flying free",
+  "a child absorbed in play, without possessions",
+  "the maiden husking grain, breaking her bangles one by one",
+  "a single silent bangle on her wrist",
+  "the arrow-maker absorbed in straightening a shaft while a king's procession passes",
+  "a mood of quiet, stillness, and release"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.9.1-12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:24Z",
+  "source_event_id": "evt_0532",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

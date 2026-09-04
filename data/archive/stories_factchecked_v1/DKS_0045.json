@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0045",
+ "title": "Krishna Slays the Crane-Demon Bakasura",
+ "subtitle": null,
+ "story": "The days in Vrindavan had taken on a pattern by then: the boys led out the calves, the sun climbed, the river ran. But one morning they came to the pasture and found that it was not empty. Something stood there, huge and still, and as they drew near they saw what it was — a crane, but no crane that belonged to the river or the reeds. It was enormous, tall as a thing that had grown up out of the ground, and it stood planted on the grass, watching. The boys stopped where they were, and the calves bunched behind them and lowed, and for a long moment nothing moved on the riverbank. Then they understood that it was not a bird at all, but a demon who had taken the shape of a crane. Baka, the old verses call him, and they add that he was a friend of Kamsa's.\n\nThey had no time to warn one another. The great bird struck, and in a single motion it opened its long beak and swallowed Krishna whole.\n\nThe boys cried out. Balarama stood frozen, and the rest of them could only stare at the place where their friend had just been standing, and at the throat of the monstrous bird. They thought, in that black moment, that they had lost him. A demon had taken the child who never seemed afraid of anything, and the riverbank felt suddenly enormous and empty.\n\nBut inside the crane's belly, Krishna did not burn like a swallowed morsel. He burned the other way. He grew hot, like a fire set at the very root of the creature's palate, and the scorching spread upward, and the great crane, which had swallowed the boy to be rid of him, found it could not bear him for even a moment. Its beak gaped wide, and it flung him out again onto the grass — whole, unharmed, not even scorched himself. The boys' cries turned, in an instant, to something else.\n\nThen the demon came at him, enraged and beating its wings, and Krishna did not wait for it to reach him. He took hold of the bird by the two halves of its long beak, one in each hand, and tore it apart the way a child splits a stalk of grass. The crane that had swallowed him fell broken to the ground, and did not move again.\n\nThe boys could hardly believe what their eyes had seen. They ran to Krishna as though he had come back to them from far away, and the verses say it with a simple, perfect image: it was as if their very breath, which had left their bodies when he vanished down that throat, now returned to them. And from the sky above, the dwellers of heaven — who had watched it all — let fall a shower of flowers, the blossoms drifting slowly down over the children, over the fallen demon, over the quiet water of the Yamuna. The herd grazed on as before, and the boys sat down in the grass to catch their breath, and after a while they led the calves home in the long, level light of evening.",
+ "reflection": "Bakasura swallows Krishna and discovers, too late, that he has taken in what he cannot contain. But the story's real center is the image of the boys' breath returning — what the demon meant to take, Krishna gives back.",
+ "tradition_note": null,
+ "content_note": "Krishna is swallowed by a demon crane and tears it apart; the violence is brief and not described in detail.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Bakasura",
+  "Balarama"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "deliverance",
+  "divine_power"
+ ],
+ "previous_story_id": "DKS_0044",
+ "next_story_id": "DKS_0046",
+ "next_story_tease": "The demons were not finished: Aghasura, brother of the slain Putana and Bakasura, was already nursing his revenge.",
+ "hero_scene": "Krishna gripping the two halves of the giant crane's beak, one in each hand, tearing it apart as flower petals drift down from heaven and the cowherd boys watch in wonder on the bank of the Yamuna.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "Bakasura as a giant crane",
+  "open beak",
+  "flowers falling from heaven",
+  "Yamuna riverbank",
+  "terror turning to relief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.11.46-52",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:01Z",
+  "source_event_id": "evt_0057"
+ },
+ "editorial_status": "unreviewed"
+}

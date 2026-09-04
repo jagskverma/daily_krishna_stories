@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0405",
+ "title": "Krishna Destroys the Flying City Saubha and Slays Shalva",
+ "subtitle": null,
+ "story": "For one more hour, the flying city Saubha hung over the sea like a slow storm — the last storm the coast of Dwaraka would ever fear.\n\nIt had been a war unlike any Dwaraka knew: no army to meet, no gate to storm, only an enemy that drifted with the wind and rained destruction from above. Saubha was not a fortress; it was a flying capital, a kingdom with wings, the one place in the world that no army had ever taken, and Shalva had ruled it for years from above the reach of every enemy, his grudge festering there like a wound. Krishna had answered it for days from the ground, and the duel with Shalva had now narrowed to its end. His sorcery had failed him; his weapons had been shattered one by one; and the king of Saubha, who had fought from an unreachable sky, was running out of sky.\n\nHe came down one final time, rushing at Krishna with everything he had left, and Krishna met him with arrows that struck true through pride and armor alike. The shafts pierced his guard, cut through his war-plate, snapped his bow, and tore the jewel from his crest. Even Krishna's own chariot had not been spared that day — his horses and his charioteer Daruka stood thick with shafts, and the driver, pierced and enfeebled, had confessed he could barely hold the reins. Krishna had cheered him and told him to hold on — the driver's duty was to stay at the reins, and he himself would not fail him; the battle, he said, would not last forever.\n\nAnd in that moment of weakness Krishna did what he had come to do. He took up his mace and turned it on the city itself. The blow that might have been saved for a king was spent on a kingdom: the mace struck Saubha's hull, and the flying city — the wonder of the age, the terror of the coast, the thing no army could ever reach — came apart. The Bhagavata says it fell into the water in a thousand fragments, and the sea swallowed it like rain. Men would say afterwards that it went down as Tripura had gone down of old, the triple city shaken from the sky by the great god's shafts.\n\nWhere a city had floated, there was only sky — and Shalva. City gone, weapons gone, the king of Saubha came at Krishna on foot, mace in hand, with nothing left but his fury. Fury, for all its weight, was not enough. As he rushed in, Krishna severed the arm that held the mace. The weapon fell beside its owner, and the king of Saubha stood weaponless at last.\n\nThen Krishna raised the discus — the wondrous weapon that blazed like the sun at the end of the world — and for a moment it hung in the air like a second sun, and every eye on the field followed it. Then it fell, and in one clean sweep it cut off Shalva's crowned head; where it passed, the enemy burned. The king who had lived above the world was gathered into it at last.\n\nThe war was over. The sea smoothed itself over the scattered stones of Saubha; the sky above Dwaraka was only sky again; and the grudge that had darkened it was ended. The king who had raided the coast, who had conjured a dead father before his son's eyes, who had fought from a city no army could reach, lay in the dust at last, where his enmity could trouble no one anymore.",
+ "reflection": "The fall of Saubha is total: city, weapons, and king gone in a single hour, and the Bhagavata gives each its own instrument — the mace for the kingdom, the discus for the king. The image of the discus blazing like the sun at the world's end turns the end of a tyrant into a kind of sunrise: destruction, but destruction that clears the sky.",
+ "tradition_note": "In the Mahabharata, the discus alone finishes the war: it cuts Saubha in two like a saw through a tall tree, then cleaves Shalva as he raises his mace. The Bhagavata Purana gives the mace the task of shattering the city and the discus the beheading; this story follows the Bhagavata.",
+ "content_note": "Mild violence: Shalva's arm is severed and he is beheaded; described without gore.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Shalva"
+ ],
+ "locations": [
+  "Dwaraka",
+  "the sky"
+ ],
+ "themes": [
+  "divine victory",
+  "justice",
+  "destruction"
+ ],
+ "previous_story_id": "DKS_0404",
+ "next_story_id": "DKS_0406",
+ "next_story_tease": "The news of Shalva's end would not travel far before another enemy rose to answer for it.",
+ "hero_scene": "Krishna, standing in his chariot, hurls the blazing discus against the onrushing Shalva as the shattered fragments of the flying city Saubha fall like rain into the sea behind them.",
+ "visual_elements": [
+  "Krishna in his chariot, releasing arrows that pierce Shalva's armor and snap his bow",
+  "the flying city Saubha shattering into a thousand fragments under Krishna's mace",
+  "the fragments falling into the sea like rain",
+  "Shalva charging on foot with his mace",
+  "Krishna's arm severed, the mace falling beside its owner",
+  "the discus blazing like the sun at the world's end cutting off Shalva's crowned head"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.77.32-35",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "3.23",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0219"
+ },
+ "editorial_status": "unreviewed"
+}

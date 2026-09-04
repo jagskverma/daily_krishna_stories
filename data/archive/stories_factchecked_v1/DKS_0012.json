@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0012",
+ "title": "The Gods Praise the Unborn Lord",
+ "subtitle": null,
+ "story": "They came unseen, as the divine is said to come, a gathering where no gathering should have been. Inside the locked cell where Devaki waited out her months, bearing the Lord in her womb, the air changed, and the little room was suddenly not empty.\n\nBrahma and Shiva came down to that prison, and with them the sage Narada and a host of gods and seers. They had not come to set Devaki free or to announce themselves to the guards. They had come to praise what was hidden in her womb.\n\nThey stood around her and spoke, and their words were not addressed to the mother but to the child. They praised him as the source and the abode of truth itself, the one on whom all truth rests, and they took refuge in him. They called him the single root from which all existence grows, one tree with its two fruits and its many branches, its three roots and its several tastes, the one path through the many turnings of the world, the origin of all things, the one who sustains them, and the grace that attends them. They said that he had no cause to be born at all, and that his coming could be explained only as play, taken up for the welfare of all that moves and all that stands still. They remembered how his devotees cross the terrible ocean of birth and death on the boat of his lotus feet, and how those who believe themselves free while turning away from him fall back into the world. They spoke of how, through pure goodness, by the rites of the Vedas, by discipline and by the stillness of meditation, people come to honor him, and how the one who only hears and repeats his auspicious names is not drawn again into the round of birth. And they sang of his descents, the fish, the boar, the man-lion, the tortoise, the swan, and of the forms he has taken again and again among kings and sages and gods to protect the worlds.\n\nThen, turning their words toward the mother at last, they told her what the child would do. Fortunate are you, mother, they said, for the Supreme Person rests in your womb. Do not fear the king of the Bhojas, who is near his end. Your son will be the protector of the Yadavas. And they rejoiced that the burden of the earth, grown too heavy at last, was about to be lifted, that soon they would look on the earth and the heavens marked by his auspicious footprints.\n\nThen, having sung his glories, they returned to their own world as quietly as they had come. The cell was a cell again, and Devaki was alone once more with the child that no one had seen but everyone had praised, and she kept their words close, as one keeps a secret spoken in the dark.",
+ "reflection": "The praise is offered not to a visible form but to a hidden presence: the gods honor the Lord while he is still small enough to be carried, and they place the whole weight of the earth's deliverance on someone who has not yet drawn a breath.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Brahma",
+  "Shiva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "devotion",
+  "praise"
+ ],
+ "previous_story_id": "DKS_0011",
+ "next_story_id": "DKS_0013",
+ "next_story_tease": "But praise was only a prelude; the hour of birth had still to come.",
+ "hero_scene": "Brahma and Shiva, with Narada and a host of gods, gathered unseen in the prison cell around the radiant Devaki, praising the unborn Lord in her womb.",
+ "visual_elements": [
+  "Brahma and Shiva in celestial forms",
+  "Narada and a host of gods and sages",
+  "Devaki seated, radiant",
+  "the dark prison cell touched with light",
+  "a mood of hushed devotion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.2.24-42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:58:06Z",
+  "source_event_id": "evt_0024"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0457",
+ "title": "Teach Me, I Am Your Disciple",
+ "subtitle": null,
+ "story": "On the field of Kurukshetra, two branches of one family had come to fight for a kingdom: the five Pandava brothers and their hundred cousins the Kauravas, who held what was not rightfully theirs and would not give it back. Arjuna, the Pandava whose arrows no one could match, stood in his chariot, and beside him stood Krishna, his cousin, his closest friend, and for this war his charioteer.\n\nThe armies were drawn up and the war was about to begin. Arjuna looked across the field at the men he would have to kill, and they were all his own kin: Bhishma, the grandsire of both families; Drona, the master who had taught him to shoot; uncles and cousins he had grown up among. Despair flooded him. His bow slipped from his hand, and he sat down in the chariot, sick at heart.\n\n\"Where has this despair come from, at a time like this?\" Krishna asked. \"It does not become you. It will shut you out of heaven and bring you nothing but disgrace. Do not give way to this weakness. Stand up and fight.\"\n\n\"How can I shoot at Bhishma and Drona,\" Arjuna answered, \"men I would bow before? I would rather live on alms for the rest of my life than kill my teachers. Even if they hunger for wealth, killing them would leave me pleasures stained with their blood. I do not know which is better, that we conquer them or that they conquer us. The men whose death I could not bear to live with are standing in front of me, ready to die. My heart is choked with pity, and my mind cannot settle on what is right. Tell me what is truly good for me. I am your disciple. Teach me. I can see nothing that would lift this grief, not a kingdom without enemies, not even the rule of the gods.\"\n\nThen he said it plainly. \"I will not fight.\" And he fell silent.\n\nIt was more than a bow he had laid down. In front of two waiting armies, Arjuna had handed over the one thing he trusted most, his own judgment of right and wrong, and asked to have it back, instructed. Sanjaya, who watched it all and reported every word to the blind king, would later say that the whole field seemed to hold its breath.\n\n\"You grieve for men who deserve no grief,\" Krishna said, \"and you talk like one who has learned much. But the wise grieve neither for the dead nor for the living. I was never absent, you were never absent, not one of these kings was ever truly absent, and none of us will ever truly cease to be.\n\n\"See how childhood passes into youth, and youth into age, while something in you stays the same through all of it. In the same way, when the body wears out, the self within you passes into a new one, as a man casts off worn clothes and puts on fresh. Cold and heat, pleasure and pain, come and go like visitors. A wise man endures them and is not shaken; such a one is ready for freedom.\n\n\"He who thinks the self can be killed, and he who thinks it can kill, are both mistaken. It neither kills nor is killed. It was never born, and it will never die. Weapons cannot cut it, fire cannot burn it, water cannot wet it, wind cannot dry it. What is born must one day die, and what has died will be born again. Every being is unseen before birth, seen for a little while, and unseen again after death. So what is there to grieve over? The body comes to an end; the self does not. Stand up, Arjuna, and fight.\"\n\nThe charioteer's voice went on across the field, and the armies stood silent. The war would wait a little longer; something else had begun. The disciple had asked what was truly good, and the answer was opening before him like a door into a room neither army could see.",
+ "reflection": "Arjuna's surrender is the true hinge of the field: he does not ask to be spared the battle but to be told what is good. The Gita begins because a warrior lays down not only his bow but his certainty — and it is to that humility that Krishna answers with the nature of the self.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Arjuna",
+  "Krishna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "surrender",
+  "discipleship",
+  "seeking guidance"
+ ],
+ "previous_story_id": "DKS_0456",
+ "next_story_id": "DKS_0458",
+ "next_story_tease": "Krishna's answer would grow until it revealed the whole universe gathered in his form.",
+ "hero_scene": "Between the two waiting armies, Arjuna stands with joined hands before the chariot, his bow set aside, asking Krishna to instruct him, while Krishna looks at him with the first words of the teaching already forming.",
+ "visual_elements": [
+  "the two armies waiting on the field of Kurukshetra",
+  "Arjuna dejected in the chariot, Gandiva slipping from his hand",
+  "Arjuna declaring he will not fight and falling silent",
+  "Krishna beginning his teaching on the immortal soul",
+  "the armies standing silent as the discourse begins"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.26",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0454",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

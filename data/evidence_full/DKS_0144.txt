@@ -1,0 +1,36 @@
+# STORY DKS_0144 — Krishna Begs His Parents' Forgiveness
+
+## Index entry
+title: Krishna Begs His Parents' Forgiveness
+summary: Krishna humbly begs Vasudeva and Devaki's forgiveness for having been unable to serve them.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Vasudeva, Devaki
+locations: Mathura
+themes: humility, filial duty
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0148
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 45 | verses 1-9 | confidence 5
+  excerpt: Krishna, bowing to his parents, begged their forgiveness that he and Balarama, prevented by Kamsa, had not been able to serve them in their childhood, and could not repay the debt owed to parents. (rendered from Sanskrit, verses 1-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.45 (1-9)
+1. uvāca pitarāv etya sāgrajaḥ sātvanarṣabhaḥ /
+2. nāsmatto yuvayos tāta nityotkaṇṭhitayor api /
+3. na labdho daiva-hatayor vāso nau bhavad-antike /
+4. sarvārtha-sambhavo deho janitaḥ poṣito yataḥ /
+5. yas tayor ātmajaḥ kalpa ātmanā ca dhanena ca /
+6. mātaraṃ pitaraṃ vṛddhaṃ bhāryāṃ sādhvīṃ sutam śiśum /
+7. tan nāv akalpayoḥ kaṃsān nityam udvigna-cetasoḥ /
+8. tat kṣantum arhathas tāta mātar nau para-tantrayoḥ /
+9. bhp_10.45.010/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0143 | next_story_id: DKS_0145
+previous title: Krishna Frees and Bows to Vasudeva and Devaki
+next title: Krishna Installs Ugrasena as King

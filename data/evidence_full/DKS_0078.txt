@@ -1,0 +1,34 @@
+# STORY DKS_0078 — Krishna Emerges and the Villagers Rejoice
+
+## Index entry
+title: Krishna Emerges and the Villagers Rejoice
+summary: Krishna comes out of the pool adorned with gems; the cowherds embrace him, and Nanda gives cattle and gold to the brahmanas for his deliverance.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Krishna, Nanda, Yasoda, cowherds
+locations: Yamuna river
+themes: reunion, gratitude
+festival_tags: Naga Panchami
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0075
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 17 | verses 12-18 | confidence 5
+  excerpt: Krishna emerges from the pool, and the cowherds, as though their breath had returned, embrace him; Nanda bestows cows and gold upon the brahmanas in thanksgiving for his son's escape. (rendered from Sanskrit, verse 12-18)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.17 (12-18)
+12. kṛṣṇaṃ hradād viniṣkrāntaṃ divya-srag-gandha-vāsasam /
+13. upalabhyotthitāḥ sarve labdha-prāṇā ivāsavaḥ /
+14. yaśodā rohiṇī nando gopyo gopāś ca kaurava /
+15. rāmaś cācyutam āliṅgya jahāsāsyānubhāva-vit /
+16. nandaṃ viprāḥ samāgatya guravaḥ sa-kalatrakāḥ /
+17. dehi dānaṃ dvi-jātīnāṃ kṛṣṇa-nirmukti-hetave /
+18. yaśodāpi mahā-bhāgā naṣṭa-labdha-prajā satī /
+
+## Corpus chain
+previous_story_id: DKS_0077 | next_story_id: DKS_0079
+previous title: Why Kaliya Took Refuge in the Yamuna
+next title: Krishna Questions the Indra Sacrifice

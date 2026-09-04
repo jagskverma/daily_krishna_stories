@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0197",
+ "title": "The Jackal and the Lion's Share",
+ "subtitle": "Rukmini's secret message to Krishna",
+ "story": "The message had crossed half the country to reach him, but Krishna asked after the messenger before he asked after the message.\n\nHe received the brahmana from Vidarbha with honor and with questions that showed he had thought about the man before him. Was his dharma still what the elders approved? A brahmana, Krishna said, should be content with whatever comes to him by chance; an unsatisfied man, even if he were a lord of the gods, would wander from world to world and never find rest. He asked after the brahmanas of Vidarbha — whether they were well, those good men content with their own gains, friends to all beings — and he asked how the traveler had managed to cross the difficult road that lay between their lands. The brahmana answered fittingly, and then he gave Krishna what he had carried so far: Rukmini's words, delivered as she had spoken them.\n\n\"Having heard your virtues, O beauty of the three worlds,\" her message began, \"my heart has entered into you, and it is not ashamed. Your virtues, entering through the ear, take away the body's distress; your form is the whole reward of a seeing eye. What wise girl of a good family would not choose you as her husband — you, who have no equal in family, conduct, beauty, learning, youth, and wealth, you who delight the minds of men? You are the one I have chosen. I have given myself to you. Do not let the king of Cedi touch the hero's share — do not let Shishupala, like a jackal, seize the lion's prey.\"\n\nThen her words turned practical, and the princess of Kundina laid out her whole heart and her whole plan in the same breath. \"If the Lord, worshipped with sacrifices, gifts, and vows, honored in gods, brahmanas, and elders, is pleased with my devotion, let him come and take my hand — not Damaghosha's son, not any other. Tomorrow they will marry me. Come to Vidarbha in secret, surrounded by your warriors; crush the forces of the king of Cedi and the king of Magadha, and carry me off by the rakshasa rite — the old rite in which a bride is taken by force — as the prize of your valour. But how could you take me while I live within the inner apartments, without killing my kinsmen? I will tell you the way. The day before the wedding there is a great procession of the family goddess, and in that procession the new bride goes out to the temple of Girija.\"\n\nShe ended where she had begun, with the one thing that mattered more than any plan. \"If I do not obtain your grace, O lotus-eyed one, I would give up this body, weakened by my vows; even a hundred births would not change my choice.\"\n\nThe brahmana fell silent. Krishna had listened without moving, taking in the princess's love and her strategy as one single thing, as she had meant them to be. The message had found its home. What he said in answer, and the journey that followed, would belong to the night.",
+ "reflection": "What is striking about Rukmini's message is that adoration and strategy are one and the same in it: she offers herself to Krishna and then, in the same breath, tells him exactly how to come and claim her. Even her fear — that Shishupala, like a jackal, would seize the lion's share — is expressed as devotion.",
+ "tradition_note": "The Vishnu Purana also tells the story of Rukmini's marriage; the message as rendered here follows the Bhagavata Purana.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Rukmini",
+  "Krishna",
+  "Shishupala"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "love",
+  "plea",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0196",
+ "next_story_id": "DKS_0198",
+ "next_story_tease": "Krishna heard the message out in silence, and before the night was over he was on the road to Vidarbha.",
+ "hero_scene": "Krishna seated in the lamplit hall of Dwaraka, listening without moving as the brahmana delivers Rukmini's words, her message hanging in the quiet air between them.",
+ "visual_elements": [
+  "Krishna seated, listening intently",
+  "the brahmana messenger delivering Rukmini's words",
+  "the lamplit hall of Dwaraka",
+  "the silence between them",
+  "Rukmini's love and her plan carried in the message",
+  "a mood of stillness and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.52.28-42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:32Z",
+  "source_event_id": "evt_0239"
+ },
+ "editorial_status": "unreviewed"
+}

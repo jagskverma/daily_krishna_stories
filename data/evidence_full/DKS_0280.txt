@@ -1,0 +1,36 @@
+# STORY DKS_0280 — Paundraka Falsely Claims to Be Vasudeva || Paundraka, king of Karusha, proclaims himself the true Vasudeva and sends a messenger demanding that Krishna surrender his divine insignia.
+
+## Index entry
+title: Paundraka Falsely Claims to Be Vasudeva || Paundraka, king of Karusha, proclaims himself the true Vasudeva and sends a messenger demanding that Krishna surrender his divine insignia.
+summary: Paundraka, king of Karusha, proclaims himself the true Vasudeva and sends a messenger demanding that Krishna surrender his divine insignia.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Paundraka, Krishna
+locations: Karusha, Dvaraka
+themes: false pride, imposture, challenge
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0254
+variant_notes: Cross-ref: Paundraka-slaying cluster (bp10c_066/vp5_034_01).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 66 | verses 1-9 | confidence 5
+  excerpt: Paundraka, deluded into believing himself Vasudeva, sent a messenger to Krishna demanding he give up the divine marks he wore; the assembly laughed, and Krishna replied that he would hurl those signs at the fool and slay him. (rendered from Sanskrit, verses 1-9)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.66 (1-9)
+1. tvaṃ vāsudevo bhagavān avatīṛno jagat-patiḥ /
+2. dūtaṃ ca prāhiṇon mandaḥ kṛṣṇāyāvyakta-vartmane /
+3. dūtas tu dvārakām etya sabhāyām āsthitaṃ prabhum /
+4. vāsudevo 'vatīrno 'ham eka eva na cāparaḥ /
+5. yāni tvam asmac-cihnāni mauḍhyād bibharṣi sātvata /
+6. bhp_10.66.007/0 śrī-śuka uvāca
+7. uvāca dūtaṃ bhagavān parihāsa-kathām anu /
+8. mukhaṃ tad apidhāyājña kaṅka-gṛdhra-vaṭair vṛtaḥ /
+9. iti dūtas tam ākṣepaṃ svāmine sarvam āharat /
+
+## Corpus chain
+previous_story_id: DKS_0279 | next_story_id: DKS_0281
+previous title: Nriga Ascends and Krishna Warns Against Stealing Brahmanas' Wealth || Touched by Krishna, Nriga ascends to heaven in a celestial car, and Krishna warns the citizens that a brahmana's property is deadly poison.
+next title: Krishna Slays Paundraka and the King of Kashi

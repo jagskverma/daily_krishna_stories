@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0331",
+ "title": "A Kingdom for Kumbhanda",
+ "subtitle": "Aniruddha and Usha are wed as Bana's realm finds a new king",
+ "story": "The war for Aniruddha was over, and the victors were doing something unusual with the conquered city: they were turning the enemy king's palace into a wedding hall.\n\nKrishna had come to Sonitpura to bring home his grandson, carried off from Dwaraka in the night and bound in the women's quarters of the demon king Bana with nooses of living serpents. The campaign had ended strangely. Shiva himself had fought beside Bana and then withdrawn; Bana had been spared and honored with boons, and had departed in the company of the god who blessed him. Only one thing still weighed on Krishna: the boy he had come to save. He asked Narada again and again where Aniruddha lay, his mind overpowered with affection, and each time the sage answered that the prince was bound with serpent-nooses in the palace's inner apartments.\n\nIt was Chitralekha who opened the way, telling them plainly that this was the women's apartment of Bana. Krishna, Balarama, Pradyumna, Narada and Garuda stepped inside, and the rescue required no battle at all. At the sight of Garuda, the serpents clinging to Aniruddha's body in the shape of arrows released him at once and dropped to the floor as spent shafts. The prince, overjoyed, saluted Krishna, bowed to Balarama and to Garuda, and then approached his own father Pradyumna. Beside him Usha, encircled by her friends, saluted Krishna and the great bird, and with shyness bowed to Pradyumna as well.\n\nNarada, smiling, showered blessings on the reunion and hailed Krishna's good fortune at being united again with Pradyumna and Aniruddha. Then the sage made a request that drew laughter from all the Yadavas: let a marriage won by prowess be celebrated for Aniruddha, he said, for he had a great desire to see the exchange of jokes between the bridegroom's party and the bride's. Krishna answered that it would soon be accomplished.\n\nAt that moment Kumbhanda arrived, carrying all the articles for a wedding, and bowed before Krishna asking for safety. He was Bana's minister, the man who had counselled mercy toward Aniruddha in the war, and Narada had quietly asked Krishna to keep him from leaving. Krishna raised him and promised him protection, saying he had been pleased by his good deeds: \"You will now become the king of this kingdom. I confer this kingdom on you. Live forever under my protection, happy and self-controlled, with all your kinsmen.\"\n\nThen Krishna celebrated the wedding of Aniruddha, and the regent of fire himself stood present in person at that festival. Aniruddha bathed and was adorned with ornaments, and the Apsaras cut jokes with him; the Gandharvas sang melodious, auspicious songs, and the Apsaras danced, beautifying the marriage party.\n\nWhen the rites were done, Krishna honored Rudra, the giver of boons, and made ready to depart for Dwaraka with the celestials. But Kumbhanda, the new king, came forward with folded hands and offered a parting word: Bana, he said, had cows in the charge of Varuna whose milk was nectar; a man who drank it became powerful and invincible in battle. Krishna's mind filled with joy at the news, and he set the errand in his heart.\n\nThe company turned homeward. Brahma blessed Krishna and departed for his own region; Indra and the Maruts set out for Dwaraka; Usha, surrounded by her friends, started for the city of the Yadus as well. Balarama, Krishna, Pradyumna and Aniruddha mounted Garuda's back, and the foremost of birds flew on, uprooting trees and shaking the earth with the beating of his wings, carrying the rescued family and a new bride toward the city that had waited for them in anxiety.",
+ "reflection": "The episode rewards mercy rather than valor: the minister who counselled sparing Aniruddha receives the kingdom of the king who would not listen to him, and the war that began in a kidnapping ends in a wedding. Narada's request to hear the two families trade jests keeps the divine machinery human-sized.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Aniruddha",
+  "Usha",
+  "Kumbhanda",
+  "Narada"
+ ],
+ "locations": [
+  "Sonitpura"
+ ],
+ "themes": [
+  "wedding",
+  "reward",
+  "succession"
+ ],
+ "previous_story_id": "DKS_0330",
+ "next_story_id": "DKS_0332",
+ "next_story_tease": "The journey home would end in Dwaraka, where a festival was already being readied to receive the Yadu family's newest daughter-in-law.",
+ "hero_scene": "In the palace of Sonitpura, Krishna, one hand raised in assurance, confers Bana's kingdom on the folded-handed minister Kumbhanda, while behind them the wedding lights of Aniruddha and Usha blaze and the Apsaras dance.",
+ "visual_elements": [
+  "Krishna conferring the kingdom on Kumbhanda with folded hands",
+  "Aniruddha and Usha at the wedding festival",
+  "Apsaras jesting and dancing, Gandharvas singing",
+  "the regent of fire standing present at the rites",
+  "Garuda flying home with the four Yadus on his back",
+  "Usha setting out for Dwaraka among her friends"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.276",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:59:31Z",
+  "source_event_id": "evt_0358"
+ },
+ "editorial_status": "unreviewed"
+}

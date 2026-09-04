@@ -1,0 +1,37 @@
+# STORY DKS_0402 — Shalva Besieges Dwaraka || Shalva arrives at Dwaraka in the indestructible flying city Saubha and rains weapons, rocks and serpents upon the city, terrifying its people.
+
+## Index entry
+title: Shalva Besieges Dwaraka || Shalva arrives at Dwaraka in the indestructible flying city Saubha and rains weapons, rocks and serpents upon the city, terrifying its people.
+summary: Shalva arrives at Dwaraka in the indestructible flying city Saubha and rains weapons, rocks and serpents upon the city, terrifying its people.
+life_stage: dwaraka | story_arc: rajasuya_and_sisupala
+characters: Shalva, Pradyumna, Satyaki, the Yadavas
+locations: Dwaraka
+themes: siege, terror, war
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0268
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 76 | verses 7-16 | confidence 5
+  excerpt: Obtaining the self-moving, impenetrable vehicle Saubha, Shalva flies to Dwaraka remembering the enmity of the Vrishnis, and with a vast army shatters its gardens and gates, raining weapons, rocks, trees and serpents upon the city. Pradyumna, seeing his people afflicted, mounts his chariot and cries 'Do not fear,' and the Yadava warriors sally forth. (rendered from Sanskrit, verse 7-16)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.76 (7-16)
+7. sa labdhvā kāma-gaṃ yānaṃ tamo-dhāma durāsadam /
+8. nirudhya senayā śālvo mahatyā bharatarṣabha /
+9. sa-gopurāṇi dvārāṇi prāsādāṭṭāla-tolikāḥ /
+10. śilā-drumāś cāśanayaḥ sarpā āsāra-śarkarāḥ /
+11. ity ardyamānā saubhena kṛṣṇasya nagarī bhṛśam /
+12. pradyumno bhagavān vīkṣya bādhyamānā nijāḥ prajāḥ /
+13. sātyakiś cārudeṣṇaś ca sāmbo 'krūraḥ sahānujaḥ /
+14. apare ca maheṣv-āsā ratha-yūthapa-yūthapāḥ /
+15. tataḥ pravavṛte yuddhaṃ śālvānāṃ yadubhiḥ saha /
+16. tāś ca saubha-pater māyā divyāstrai rukmiṇī-sutaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0401 | next_story_id: DKS_0403
+previous title: Shalva Wins the Flying City Saubha || Shalva, friend of the slain Shishupala, vows to destroy the Yadavas and wins from Shiva through austere penance the flying iron city Saubha, built by Maya.
+next title: Krishna Returns to the Battle || Returning from Indraprastha and seeing evil omens, Krishna hurries to Dwaraka, orders his chariot against Shalva, and joins the fight, shattering Shalva's weapons.

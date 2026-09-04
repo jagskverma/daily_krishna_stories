@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0246",
+ "title": "Homecoming with the Parijata",
+ "subtitle": null,
+ "story": "The war against Naraka, the demon king, was over — and Krishna was flying home. From the back of Garuda, the great bird who carried him, he looked down on Dwarka, his city by the sea — and the city looked back at him like a long-awaited answer.\n\nHe saw his own house rising among hundreds of palaces — the dark palace of the Yadavas, its gates bright with a million white jeweled pillars, gems lustrous as fire, and golden seats set here and there for his court. For his welcome a great palace had been raised entirely of gold, with pillars of crystal, ringed by lakes full of lotuses and fragrant red lotuses, where peacocks and koel birds called from the trees and golden stairways led down to the water. The celestial architect Viswakarma had enclosed the whole with stone walls a hundred yards high, girded with ditches — a plot half a yojana on every side, measured, men said, against the palace of Indra himself.\n\nThen Krishna raised the Panchajanya — his great conch — to his lips and blew. The sound made the hair of his enemies stand on end; the ocean was stirred to its depths and the sky resounded; and to those who heard it in Dwarka it was the most wonderful sound in the world. At the note of the conch, and at the sight of Garuda circling down, his own kinsmen, the Kukuras and the Andhakas, felt their sorrow fall away. There he was — Krishna, bright as the sun, conch, discus and club in his hands, seated on the great bird. The citizens' joy spilled over: trumpets sounded, bugles blew, and men raised leonine shouts of triumph, while the Kukuras, the Andhakas and the other Yadava clans crowded toward him, their joy overflowing.\n\nKing Ugrasena, the ruler of the Yadavas, set Vasudeva — Krishna's father — before him and made his way to Vasudeva's palace to the sound of conches and trumpets. In their houses Devaki, Krishna's mother, and Rohini and the other women of the household moved about with joy. A few moments later Krishna arrived at the house prepared for him.\n\nHe alighted at the entrance and showed proper respect to all the Yadus, his elders and kinsmen. Balarama, his elder brother, honoured him, and Ahuka, Gada and Pradyumna and the rest; and so welcomed, Krishna entered his residence with the mountain of jewels beside him. Pradyumna, his son, carried in the Parijata, the tree that was Indra's own favourite. By the power of that celestial tree the heroes saw their own forms made beautiful, and took great delight. Praised by the rejoicing Yadava chiefs, Krishna passed into the house Viswakarma had built, placed the mountain of jewels with its shining summits in his inner apartments, and then, with his kinsmen about him, worshipped the celestial tree and planted it in its proper place.\n\nThere remained one more homecoming. With his kinsmen's permission, Krishna honoured every maiden he had brought back from Naraka's house — the women the demon king had held captive — giving them raiments, ornaments, servants, riches and every object of enjoyment. Devaki, his mother, with Rohini and the other women of the house, had already received them with honour. By good fortune Satyabhama ruled over all the women of the household, while Rukmini, his queen, was in charge of the relatives. And to each of those women Krishna allotted her own house, her own tank, her own garden.\n\nSo the city that had sent him to war received him home with trumpets and gold; and the women Naraka had hidden away came out into the light of Dwarka, each with a place to call her own. The Parijata, planted in its proper place, began to change the air of the city, and the mountain of jewels stood in the inner apartments like a promise kept.",
+ "reflection": "The return to Dwarka is complete only when the women Naraka had kept captive are given homes of their own. The treasure Krishna brings back is not measured in jewels but in the shape it gives to freedom: separate houses, tanks and gardens, one for each of the maidens.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Pradyumna",
+  "Satyabhama",
+  "Rukmini",
+  "Devaki"
+ ],
+ "locations": [
+  "Dwarka"
+ ],
+ "themes": [
+  "triumph",
+  "reception",
+  "compassion"
+ ],
+ "previous_story_id": "DKS_0245",
+ "next_story_id": "DKS_0247",
+ "next_story_tease": "But beyond the rejoicing city, the war was not over: Rudra's terrible fever-demon, Jvara, still waited on the field where the Asuras had fled.",
+ "hero_scene": "Krishna, seated on Garuda above the golden gate of Dwarka, raises the Panchajanya conch to his lips as trumpets sound below and the citizens raise leonine shouts, the jeweled pillars of his palace catching the light of the setting sun.",
+ "visual_elements": [
+  "Krishna on Garuda with conch, discus and club",
+  "the golden palace of Dwarka with crystal pillars",
+  "lakes of lotuses with peacocks and coels",
+  "citizens beating trumpets and raising leonine shouts",
+  "the mountain of jewels",
+  "the Parijata tree being planted",
+  "the freed maidens of Naraka's house receiving garments and ornaments",
+  "a mood of triumphant homecoming and compassion"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.246",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:07Z",
+  "source_event_id": "evt_0331",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

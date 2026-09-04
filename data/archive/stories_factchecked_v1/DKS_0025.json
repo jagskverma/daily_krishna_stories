@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0025",
+ "title": "The Fragrant Smoke",
+ "subtitle": "The villagers burn Putana's body",
+ "story": "The woman who had come to Gokula was gone. In her place lay something that no one in the village could look at for long.\n\nPutana's body, released from the lovely form she had worn, lay where she had fallen — enormous beyond belief, so vast that as she fell she had crushed the trees for a long stretch around her. Her mouth gaped wide, its teeth like the shafts of a plow; her nostrils opened like caves in a mountain; her eyes were deep pits a man might fall into. The cowherds and their women, gathered at a distance, trembled at the sight of it, and none of them would draw near.\n\nAnd there, in the middle of all that horror, was the child. Krishna lay playing on the corpse's chest, utterly unafraid, as though he had been set down in his own courtyard on an ordinary morning. The very thing that made the grown men step back could not trouble him at all.\n\nYasoda and Rohini came forward and gathered him up. The women bathed the child, first with cow's urine and then with the fine dust of the cow pen, as was their custom of cleansing. Then, touching water and sprinkling it over him, they passed their hands over his body and chanted over each part of him in turn — his feet, his hands, his waist, his heart, his throat, his head — calling on the Lord to guard every part of him. They asked the one who holds the discus to stand before him and the one who holds the mace to stand behind, the bow and the sword to guard his sides and the conch to sound above him, the great bird Garuda to watch the ground and the Lord of all to stand around him everywhere. They named every spirit that preys on children, and they bade them all stay far away.\n\nMeanwhile Nanda and the other cowherds were on the road back from Mathura. They reached the village to find the great body stretched upon the ground and the child safe, and they marveled. Surely, they said to one another, this was no ordinary boy. Surely he was a great sage, or a master of yoga, to have come through such a thing untouched.\n\nThen they took up their axes. They cut the vast body to pieces, and they carried the pieces away and set them alight.\n\nAnd here was the strangest thing of all. As that body burned, the smoke that rose from the fire was not the smoke of burning flesh. It carried a fragrance like aloe — sweet, and clean, and almost holy — drifting up over the village of Gokula. The demoness who had come to kill a child had been granted the reward of a mother, and the very air above the fire seemed to say so.",
+ "reflection": "The fragrant smoke is the story's quiet astonishment. The one who came to destroy a child is granted a mother's reward, and the text marks it not with a lecture but with a sweetness rising from the fire — grace offered even to the one who meant harm.",
+ "tradition_note": null,
+ "content_note": "The cowherds cut up and burn a demoness's corpse; described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yasoda",
+  "Rohini",
+  "Putana"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "purification",
+  "grace"
+ ],
+ "previous_story_id": "DKS_0024",
+ "next_story_id": "DKS_0026",
+ "next_story_tease": "But the danger to the child was not yet over.",
+ "hero_scene": "The enormous, monstrous body of Putana lies stretched across the ground, and upon its chest the infant Krishna plays unharmed, while cowherds and women watch in awe and terror from a distance.",
+ "visual_elements": [
+  "infant Krishna playing on the corpse",
+  "vast fallen form of Putana",
+  "frightened cowherds and women",
+  "Yasoda and Rohini reaching for the child",
+  "Gokula at the edge of the forest",
+  "mood of awe and terror"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.6.13-33",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:20:31+05:30",
+  "source_event_id": "evt_0039"
+ },
+ "editorial_status": "unreviewed"
+}

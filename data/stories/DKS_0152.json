@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0152",
+ "title": "The Art of Withdrawal",
+ "subtitle": null,
+ "story": "The elders of Mathura had said plainly what no one wished to hear: the city could not survive another siege by Jarasandha, king of Magadha, and two brothers, however brave, could not hold an unwalled city alone. When the council that had heard this warning fell quiet, one more voice had yet to be heard — that of Vasudeva, father of Krishna and Balarama and the senior of the Yadava house. He rose and gave Vikadru's counsel his full assent before the assembly. What their finest speaker had said, he told them, was true and well meant; it agreed with royal duty and looked to the good of all. \"Do what he has said,\" he told his son.\n\nKrishna had heard his father, and he had listened to the elders, and he had weighed the whole of it — the course of events, the words of reason, what the scriptures taught of a king's duty. And now he answered, and his answer began with a lesson in statecraft. A king, he said, meditates daily on peace and on war, on alliance and on dissension, on when to advance and when to draw back. The wise king does not place himself before a powerful enemy and wait to be destroyed; he withdraws, and when the time is proper, in proportion to his strength, he gives battle again.\n\nThen he said the thing the council had not dared to ask of him. \"Therefore, although I am capable, I shall fly from Mathura this very moment, with my elder brother Balarama beside me — like a man who cannot fight, saving his life.\" The words were chosen with care, and they carried his whole meaning: this flight would look like fear, would read as the retreat of a beaten man, and that appearance was the weapon he intended to use.\n\nHe laid the plan out plainly. They would go south, ascend mount Sahya, and enter the Deccan, the great southern country. They would see the fair cities of Karavira and Krouncha and, among the mountains, Gomanta. And when Jarasandha heard that the two of them had fled, he would not turn aside to sit before Mathura's gates — elated with success, he would pursue them in pride, following the brothers with his followers into the forests of Sahya. \"This departure is for the good of the whole house of Yadu,\" Krishna said. \"By this, the province, the city, and the citizens will fare well.\"\n\nIt was a strange thing to hear, and the elders heard it in silence: the two men who had been Mathura's defense proposing to become its bait. But the logic stood firm. Jarasandha's war was against Krishna; if Krishna was not in Mathura, then Mathura was not the battlefield. The enemy would follow the enemy.\n\nAnd so they went. That very day the two brothers — though no one in the city doubted their strength — set out for the south without the least anxiety in their minds. They passed through kingdom after kingdom, hundreds of them, changing their forms at will as they moved through strange lands. They climbed the slopes of mount Sahya and found the road that led south, and the farther they went, the more they discovered that they were not among strangers. Long ago, in the time of the old king Yadu himself, his five sons had gone out to found cities across the land; Padmavarna had raised Karavira on mount Sahya, and Sarasa had laid out Krouncha among its groves of trees. The brothers came at last to Karavira, a city governed by members of their own family, standing in the shadow of the mountain.\n\nMathura lay behind them. Ahead lay the southern heights, and somewhere behind them, in his pride, came Jarasandha — exactly as Krishna had said he would, exactly as the plan required. On the bank of the river Vena stood a great fig tree, and under its shade the two brothers paused to rest.",
+ "reflection": "Krishna frames his retreat as the flight of one \"like one incapable\" — a king who withdraws not from fear but from calculation, and who makes his own seeming defeat the instrument of the city's safety. The plan turns flight into bait: Jarasandha's pride will follow the brothers and leave Mathura alone.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Mathura",
+  "mount Sahya",
+  "Karavira"
+ ],
+ "themes": [
+  "strategy",
+  "sacrifice"
+ ],
+ "previous_story_id": "DKS_0151",
+ "next_story_id": "DKS_0153",
+ "next_story_tease": "Under the great fig tree on the bank of the Vena, someone was waiting.",
+ "hero_scene": "Krishna and Balarama setting out on the southern road, Mathura's low un-walled houses behind them and the blue mass of mount Sahya on the horizon, the two brothers calm and unhurried, leaving the city to safety by their absence.",
+ "visual_elements": [
+  "Krishna and Balarama on the southern road",
+  "the un-walled city behind them",
+  "mount Sahya on the horizon",
+  "the road through hundreds of kingdoms",
+  "Karavira beneath the mountain",
+  "calm and unhurried departure"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.95",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:37:24Z",
+  "source_event_id": "evt_0169",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0066",
+ "title": "A Jewel for Balarama",
+ "subtitle": null,
+ "story": "The demon had taken the women of Vrindavan — the gopis, the cowherd women of the village — and he had not reckoned on being followed.\n\nHis name was Shankhachuda, and he had carried the gopis off into the forest as though they were his for the taking. For a little while the deed must have seemed to him to stand: the forest was deep, the village far, and no one, he may have told himself, would come after him so quickly.\n\nBut two had come after him, and they were not walking. Coming on together behind him were Krishna and his elder brother Balarama, and the verses say what the demon saw when he looked back at those two: Time and Death themselves, arriving side by side. The courage went out of him in a rush. He trembled, and he ran.\n\nAnd Krishna, the verses say, ran after him wherever he ran.\n\nIt was not a long chase, but it was a certain one. The demon flung himself this way and that through the trees, branches catching at him as he went, and whichever way he turned, Krishna was there — never quite near enough to be seized, never far enough to be lost, matching him stride for stride, wearing him down. The demon's breath came hard. He had trusted the forest to hide him, and the forest had let him down; there was no path through it that did not carry Shankhachuda closer to the one thing he dreaded, and step by step the gap between them closed.\n\nNot far off, Krishna overtook him. He came up on the fleeing demon and, with a single blow of his fist to the head of that wicked one, struck Shankhachuda down and put an end to him.\n\nAnd then, with the demon lying where he had fallen and the women he had taken looking on, Krishna did a small and telling thing. From the fallen demon's crest he took the bright jewel that had shone there — the ornament Shankhachuda had worn at the crown of his head, the treasure that had gleamed above his brow even as he ran — and he did not keep it. He carried it to Balarama, his elder brother, and placed it into his hands. Balarama, who had come with him, received it; the verses record no ceremony, only that the gift was given, and that the women saw it given.\n\nIt was not spoil, and it was not for himself. Krishna wanted nothing from the demon. The bright thing he had lifted from the dead man's brow he laid in his brother's keeping, and the women who had been carried off saw it all — saw the terror leave their captor, saw him fall, saw the jewel pass from a demon's crest into Balarama's hands, a gift given openly, where everyone could see it given.\n\nThen the forest was quiet again. The women were safe, the chase was over, and the jewel that had once ridden at a demon's crown belonged now, by Krishna's own hand, to his elder brother.",
+ "reflection": "The episode is brief, but its last image is the one that lingers: Krishna lifting the demon's one treasure and, without a moment's hesitation, giving it to Balarama. The victory matters less to the story than the gift — the spoils of the fight passing to the elder brother, in full view of the women who had been taken.",
+ "tradition_note": null,
+ "content_note": "A demon is struck down with a single blow; the violence is brief and not described in detail.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Shankhachuda"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "victory",
+  "gift"
+ ],
+ "previous_story_id": "DKS_0065",
+ "next_story_id": "DKS_0067",
+ "next_story_tease": "But a worse terror was already on its way to the herds, this time in the shape of a bull.",
+ "hero_scene": "Krishna standing over the fallen demon Shankhachuda in the forest, the bright crest-jewel in his hand, reaching to give it to his elder brother Balarama while the rescued gopis watch.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "fallen demon Shankhachuda",
+  "bright crest-jewel",
+  "gopis watching",
+  "forest",
+  "chase through trees",
+  "relief and victory"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.34.28-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:07:44Z",
+  "source_event_id": "evt_0108"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

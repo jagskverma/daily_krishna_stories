@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0187",
+ "title": "Krishna Enriches Dwaraka",
+ "subtitle": "Wealth rains on every house, and the gods' own assembly hall is brought down from heaven.",
+ "story": "The city was rising from the shore of the western sea, but the people raising it had almost nothing of their own.\n\nKrishna had led the Yadavas, his own clan, to this coast after years of wandering and enmity, and chosen the coppery ground near Mount Raivata for their new home. He rose with the sun, bathed at the edge of the forest, and walked the ground himself before a single stone was laid. On an auspicious day, under the star Rohini, he gave gifts to the brahmanas, the priests, and asked their blessing; then the building began — courtyards and promenades, well-levelled roads and inner apartments, the four gates named Shudraksha, Aindra, Bhallata and Pushpadantaka, and temples for Brahma, for the god of sacrifice, for Indra, and for the deities who preside over fire and water.\n\nWhere the sea crowded the site, Krishna asked the ocean to draw back twelve yojanas, and the water obeyed. The architect of the gods himself came down to lend his hand, and the city took shape as something men could speak of beside Amaravati, the capital of heaven.\n\nKrishna set the old king Ugrasena at the head of it all. \"Take Ugrasena before you,\" he told the Yadavas, \"and enjoy this place without anxiety, like the celestials.\"\n\nYet as he watched the walls rise, one thought kept returning to him: his people were building themselves a home out of nothing, and they were poor. He wanted every household in his new city to feel rich.\n\nHe acted without delay. He summoned Sankha, the keeper of treasure, and gave him a single command: let wealth fall into every house of Dwaraka. Not into a treasury at the centre, not into a storehouse behind guarded walls — into every house. Sankha obeyed, and riches came down on the city like rain, filling courtyards and granaries, until no family in Dwaraka stood empty-handed.\n\nThen Krishna's thought turned higher. The kings of heaven took counsel in a great hall called Sudharma, and no city on earth had anything to match it. His people, so lately wanderers, had no hall of their own where the whole clan could gather and decide matters together. So he sent the wind on the errand: Vayu, the god of air, was to go to the celestial regions, ask for the hall Sudharma, and bring it back to Dwaraka.\n\nThe wind went, and the wind returned, and the gods' own assembly hall came to rest above the city of the Yadavas. From that day, when the elders of the Yadu race met to settle their affairs, they met in a hall that had once held the councils of heaven.\n\nThe refuge by the sea had become a capital. Wealth lay in every house, the hall of the gods stood among the people, and the clan that had reached that shore with little more than courage was now named in the same breath as the cities of the celestials. Krishna had asked only that his people live without fear — and what he had fetched from heaven was no throne for himself but a place where the whole community could sit together and decide its own affairs.\n\nSo Dwaraka grew rich in a single season, and the wealth did not gather at one door. It lay scattered through every household, like seed sown in a city that meant to stand for a long time.",
+ "reflection": "Krishna's first concern in his new city is not the height of his own walls but the emptiness of his people's hands, and so the wealth is not hoarded at the centre but showered into every house. The one treasure he fetches from heaven is not a throne but an assembly hall — as if a people who had lived as wanderers were being told they would now deliberate like gods.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_founded",
+ "characters": [
+  "Krishna",
+  "Sankha",
+  "Vayu",
+  "Ugrasena"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "prosperity",
+  "benevolence",
+  "celestial-gift"
+ ],
+ "previous_story_id": "DKS_0186",
+ "next_story_id": "DKS_0188",
+ "next_story_tease": "But Indra had not finished with Dwaraka — he sent the celestial architect to make the beautiful city more exquisite still.",
+ "hero_scene": "Heaps of gold and gems raining down into the courtyards of the newly built Dwaraka while Krishna watches from the ramparts, and far off over the sea the wind-god Vayu descending out of heaven carrying the celestial assembly hall Sudharma in his wake.",
+ "visual_elements": [
+  "Krishna watching over the new city",
+  "Sankha, the guardian of treasure, releasing showers of wealth",
+  "heaps of gold and gems falling into every house",
+  "the wind-god Vayu descending with the assembly hall Sudharma",
+  "the rising city of Dwaraka on the ocean shore",
+  "Mount Raivata in the distance",
+  "a mood of abundance and fresh beginning"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.115",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:34Z",
+  "source_event_id": "evt_0290",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

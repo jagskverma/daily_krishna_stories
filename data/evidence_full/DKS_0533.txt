@@ -1,0 +1,46 @@
+# STORY DKS_0533 — The Sea Swallows Dwaraka
+
+## Index entry
+title: The Sea Swallows Dwaraka
+summary: After Krishna's departure, his queens and family ascend the funeral pyres, Arjuna performs the last rites, and the sea floods and swallows Dwaraka — all but the Lord's own dwelling; Arjuna leads the survivors to Indraprastha and installs Vajra.
+life_stage: later_life | story_arc: krishna_departure
+characters: Arjuna, Rukmini, Devaki, Vasudeva, Vajra
+locations: Dwaraka, Indraprastha
+themes: grief, the flood, the end of an era, succession
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0373
+variant_notes: Includes the queens' pyres and Arjuna's last rites; Bhagavata adds installing Vajra.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 31 | verses 14-24 | confidence 5
+  excerpt: Daruka told Vasudeva and Ugrasena of the destruction; Devaki, Rohini and Vasudeva, seeing neither Krishna nor Balarama, gave up their lives in grief, and the queens, led by Rukmini, entered the fire. The sea swallowed Dwaraka, all but the Lord's own abode; and Arjuna, leading the surviving women, children and elders to Indraprastha, installed Vajra as king. (rendered from Sanskrit, verses 14-24)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 38 | verses  | confidence 4
+  excerpt: The eight queens of Krishńa... with Rukminí at their head, embraced the body of Hari, and entered the funeral fire... The ocean rose, and submerged the whole of Dwáraká, except alone the dwelling of the deity of the race of Yadu.
+- Mahabharata (Ganguli translation) | book/canto 16 | chapter/section 7 | verses  | confidence 4
+  excerpt: After all the people had set out, the ocean, that home of sharks and alligators, flooded Dwaraka, which still teemed with wealth of every kind, with its waters. Whatever portion of the ground was passed over, ocean immediately flooded over with his waters. Beholding this wonderful sight, the inhabitants of Dwaraka walked faster and faster, saying, 'Wonderful is the course of fate!'
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.31 (14-24)
+14. dāruko dvārakām etya vasudevograsenayoḥ /
+15. kathayām āsa nidhanaṃ vṛṣṇīnāṃ kṛtsnaśo nṛpa /
+16. tatra sma tvaritā jagmuḥ kṛṣṇa-viśleṣa-vihvalāḥ /
+17. devakī rohiṇī caiva vasudevas tathā sutau /
+18. prāṇāṃś ca vijahus tatra bhagavad-virahāturāḥ /
+19. rāma-patnyaś ca tad-deham upaguhyāgnim āviśan /
+20. arjunaḥ preyasaḥ sakhyuḥ kṛṣṇasya virahāturaḥ /
+21. bandhūnāṃ naṣṭa-gotrāṇām arjunaḥ sāmparāyikam /
+22. dvārakāṃ hariṇā tyaktāṃ samudro 'plāvayat kṣaṇāt /
+23. nityaṃ sannihitas tatra bhagavān madhusūdanaḥ /
+24. strī-bāla-vṛddhān ādāya hata-śeṣān dhanañjayaḥ /
+
+### Vishnu Purana (Wilson 1840) 5.38 ()
+Arjuna comes to Dwáraká, and burns the dead, and takes away the surviving inhabitants. Commencement of the Kali age. Shepherds and thieves attack Arjuna, and carry off the women and wealth. Arjuna regrets the loss of his prowess to Vyása; who consoles him, and tells him the story of Asht́ávakra's cursing the Apsarasas. Arjuna and his brothers place Paríkshit on the throne, and go to the forests. End of the fifth book.ARJUNA having found the bodies of Krishńa and of Ráma, performed for them, and the rest of the slain, the obsequial rites. The eight queens of Krishńa, who have been named, with Rukminí at their head, embraced the body of Hari, and entered the funeral fire. Revatí also, embracing the corpse of Ráma, entered the blazing pile, which was cool to her, happy in contact with her lord. Hearing these events, Ugrasena and Anakadundubhi, with Devakí and Rohiní, committed themselves to the flames. The last ceremonies were performed for all these by Arjuna, who then made all the people leave the city, and took Vajra with him. The son of Kunti conducted the thousands of the wives of Krishńa, with Vajra, and all the people, from Dwáraká, with tenderness and care, and travelled slowly away. The Sudharman palace and the Párijáta tree, which had been brought to earth by Krishńa, both proceeded to heaven; and on the same day that Hari departed from the earth the powerful dark-bodied Kali age descended. The ocean rose, and submerged the whole of Dwáraká, except alone the dwelling of the deity of the race of Yadu. The sea has not yet been able to wash that temple away, and there Keśava constantly abides, even in the present day. Whoever visits that holy shrine, the place where Krishńa pursued his sports, is liberated from all his sins. The son of Prithá, Arjuna, halted the people he had brought from Dwáraká in the Panchanada country, in a rich and fertile spot; but the desires of the robbers (of the neighbourhood) were excited, when they observed so many widowed females, also such great riches, in the possession of Arjuna alone. Inflamed by their cupidity, they assembled the villainous Ábhiras, and said to them, "Here is this Arjuna, immensely rich, and having numerous women, whose husbands have been slain, passing confidently amongst us; a disgrace to all brave men. His pride is raised by the death of Bhíshma, Drońa, Jayadratha, Karńa, and others, whom he has slain: he does not know the prowess of simple villagers. Up, up; take your long thick staves: this stupid fellow despises us. Why should we not lift up our arms?" So saying, they rushed, armed with cudgels and clods of earth, upon the people, who were without their lord. Arjuna encountered them, and said to them in derision, "Retire, wretches, ignorant of what is right, unless ye are desirous of dying." But they disregarded his menaces, and seized his treasures and his women, the wives of Viswaksena. Thereupon Arjuna began to brace his heavenly bow Gándíva, irresistible in battle; but it was in vain; for, in spite of all his efforts to tighten it, it continued flaccid: neither could he call to recollection the incantations of the superhuman weapons. Losing all patience, he launched, as best he might, his shafts upon the enemy; but those shot from Gándíva merely scratched the skin. The arrows given him by Agni to carry certain destruction now were themselves destroyed, and were fatal to Arjuna in his contest with herdsmen. He endeavoured to recall the might of Krishńa; animated by which, his numerous arrows had overthrown mighty kings; but he tried in vain, for now they were put aside by the peasants, or they flew at random, wide of their aim. His arrows being expended, he beat the banditti with the horn of his bow; but they only laughed at his blows: and the barbarians, in the sight of Arjuna, carried off all the women of the Vrishńi and Andhaka tribes, and went their way.Then Jishńu was sorely distressed, and lamented bitterly, exclaiming, Alas! alas! I am deserted by my lord!" and he wept: and in that instant the bow and heavenly arms, his car and steeds, perished entirely, like a donation to an unlearned Brahman. "Resistless," said he, "are the decrees of fate, by whom feebleness has been inflicted upon me, deprived of my illustrious friend, and victory given to the base. These two arms are mine; mine, is this fist; this is my place; I am Arjuna: but without that righteous aid all these are pithless. The valour of Arjuna, the strength of Bhíma, was all his work; and without him I am overcome by peasants: it cannot be from any other cause." So saying, Arjuna went to the city of Mathurá, and there installed the Yádava prince, Vajra, as its king. There he beheld Vyása, who was living in a wood, and he approached the sage, and saluted him respectfully. The Muni surveyed him for some time, as he lay prostrate at his feet, and said to him, "How is it that I see you thus shorn of your lustre? Have you been guilty of illicit intercourse with women, or of the deat
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0532 | next_story_id: DKS_0534
+previous title: Krishna's Final Departure / Ascension
+next title: Krishna Entrusts the Women to Vasudeva

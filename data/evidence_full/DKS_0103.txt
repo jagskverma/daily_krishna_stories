@@ -1,0 +1,38 @@
+# STORY DKS_0103 — The Gopis Enact Krishna's Lilas
+
+## Index entry
+title: The Gopis Enact Krishna's Lilas
+summary: In their frenzy the gopis imitate Krishna's childhood deeds, each playing a part.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: gopis
+locations: Vrindavan forest
+themes: imitation, ecstasy
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0114
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 30 | verses 13-23 | confidence 5
+  excerpt: In their frenzy the gopis imitated Krishna's deeds: one played Putana and another the cart; one lifted her arm like Govardhana, and another declared 'I am Krishna, see my graceful gait.' (rendered from Sanskrit, verses 14-19)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.30 (13-23)
+13. ity unmatta-vaco gopyaḥ kṛṣṇānveṣaṇa-kātarāḥ /
+14. kasyācit pūtanāyantyāḥ kṛṣṇāyanty apibat stanam /
+15. daityāyitvā jahārānyām eko kṛṣṇārbha-bhāvanām /
+16. kṛṣṇa-rāmāyite dve tu gopāyantyaś ca kāścana /
+17. āhūya dūra-gā yadvat kṛṣṇas tam anuvartatīm /
+18. kasyāñcit sva-bhujaṃ nyasya calanty āhāparā nanu /
+19. mā bhaiṣṭa vāta-varṣābhyāṃ tat-trāṇaṃ vihitaṃ maya /
+20. āruhyaikā padākramya śirasy āhāparāṃ nṛpa /
+21. tatraikovāca he gopā dāvāgniṃ paśyatolbaṇam /
+22. baddhānyayā srajā kācit tanvī tatra ulūkhale /
+23. evaṃ kṛṣṇaṃ pṛcchamānā vrṇdāvana-latās tarūn /
+
+## Corpus chain
+previous_story_id: DKS_0102 | next_story_id: DKS_0104
+previous title: The Gopis Search the Forest
+next title: The Favored Gopi's Pride and Krishna's Second Vanishing

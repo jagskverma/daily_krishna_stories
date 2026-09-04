@@ -1,0 +1,122 @@
+# STORY DKS_0220 — Indra Reports Naraka's Tyranny and Asks Krishna's Help
+
+## Index entry
+title: Indra Reports Naraka's Tyranny and Asks Krishna's Help
+summary: Indra descends to Dwaraka, recounts how the demon Naraka stole Aditi's ear-rings, and asks Krishna to slay him; Krishna departs with Satyabhama on Garuda.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Indra, Satyabhama, Naraka
+locations: Dwaraka, Pragjyotisha
+themes: appeal-for-help, divine-mission, boon-of-brahma
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0208
+variant_notes: VP lists Naraka's thefts (maidens, Varuna's umbrella, Aditi's earrings, demands Indra's elephant); Harivamsha has Indra descend and Krishna depart with Satyabhama on Garuda.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 120 | verses  | confidence 4
+  excerpt: Indra ... said: 'Elated with the boon conferred on him by Brahmā the great Asura Naraka has foolishly stolen the ear-rings of Aditi. ... Do thou therefore kill that sinful wretch.' ... he, along with Satyabhāmā, sat on Garuda's back and immediately started with Sakra.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 29 | verses  | confidence 4
+  excerpt: The son of the earth, called Naraka, who rules over the city of Prágjyotisha, inflicts a great injury upon all creatures... He has taken away the umbrella of Varuńa... and the celestial nectar-dropping earrings of my mother Adití.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.120 ()
+TITLE: THE DEFEAT OF THE ASURA NARAKA
+
+Janamejaya said:—O great Muni, describe to me what the powerful Vishnu
+did when he came over to Dwārāka after the destruction of Rukshmi (1).
+
+Vaishampāyana said:—The beautiful and powerful lord Vishnu, having lotus
+eyes, the enhancer of the delight of the Yadavas, encircled by them,
+directed his mind towards Dwārakā (2) The diverse riches and jewels, he
+could lay his hands on any where, he made the Rākshasas bring over to
+his own house. The great Asuras, Dānavas and Daityas, who had acquired
+boons, as also put in many obstacles at that time; but the mighty-armed
+Mādhava destroyed them all (3–4).
+
+O king, while Mādhava lived in Dwarakā, the Dānava Naraka, the great
+enemy of the king of gods and a terror to the celestials, presented many
+obstacles in his way (5). That Dānava, residing at Murtilinga, an
+oppresser of all the gods, used always to oppose the celestials and the
+Rishis (6). Once on a time Bhumi’s son Naraka, the king of Prāgyotish,
+went to a place called Kasheru. There assuming the form of an elephant
+he, by force, ravished Twastha’s daughter the beautiful Chaturdashi. And
+shorn of fear or sorrow he foolishly said:—"From this very day, the
+Rākshasas, Daityas and Dānavas will bring for me all the jems the gods
+and men possess, all that the entire earth contains and all that lie in
+the ocean." Saying this Bhumi’s son began to pilfer diverse riches and
+clothes. But he did not enjoy them (7–11). The powerful Naraka carried
+all the maidens of the gods, Gandharvas, men and the seven divisions of
+the Apsaras (12). Thus sixteen thousand and one hundred chaste maidens,
+wearing a single braid of hairs, were brought (13). The powerful Bhouma
+made a house for them on the mount Mani in Alakā near the territory of
+the Daitya Maru (14). There the ten daughters of Maru, those maidens and
+the other leading Rākshasas used to carry out his command and adore him,
+the king of Pragyotish. O king, the great Asura Naraka, who had obtained
+a boon, lived on the bank of the blue ocean (15). Even all the Asuras,
+collected together, could not perform before the dreadful feat which
+this great demon did (16). O Janamejaya, for ear-rings the great demon
+Naraka, whom the goddess earth gave birth to and whose capital was
+Prāgyotish, oppressed even Aditi (17). He had four gate-keepers,
+dreadful in battle, namely Hayagriva, Nisunda, Panchanada and the great
+Asura Muru with his thousand sons, proud of his boon. Those warders,
+terrors to those who perform pious deeds, used to occupy even the
+aethireal way along with the Rākshasas in battle (18–19).
+
+For his destruction. Vasudeva, of the Vishni race, begat the might-armed
+Janārddana, holding conch, discus, club and sword, on Devaki. After
+holding consultation with one another the celestials selected the city
+of Dwārakā for the residence of the great Purusha Mādhava, of well-known
+prowess on earth (20–21). Encircled by the great ocean and beautified
+with five hills, that city of Dwārakā excelled that of Indra even in
+beauty (22). The great assembly-hall in that city, resembling that of
+gods, which extended over a _yojana_ and had huge golden door-ways, was
+celebrated by the name of Dāshārha; and the leading members of the
+Vrishni and Andhaka races, headed by Rāma and Krishna, used to carry on
+their daily transactions there (23–24).
+
+O foremost of Bharatas, once on a time while the Yādavas sat in that
+hall there blew the wind carrying celestial fragrance and there was a
+downpour of flowers (25). In a moment a great noise, covered with a net
+of lustre, was heard in the sky. Within that effulgence, Vāsava was
+seen, seated on a white elephant and encircled by the gods (26–27).
+Rāma, Krishna and the king Ugrasena, with other leading Yādavas went out
+and welcomed the king of gods (28). Afterwards coming down speedily from
+that elephant chief the king of gods embraced Janārddana, Baladeva, the
+king Ahuka and then the other Yādavas, in order of age and rank. And
+then adored by Rāma and Krishna he entered into that magnificent
+assembly-hall. Seated there and adoring it the king of gods duly
+accepted _arghya_ and other articles of hospitality (29–31).
+
+Then touching the auspicious countenance of his younger brother
+(Krishna) with his hand the highly powerful Vāsudava addressed to him
+the following consoling words (32). "O Devaki’s son, O slayer of Madhu
+and of thy enemies, hear for what I have come to thee (33). Elated with
+the boon conferred on him by Brahmā the great Asura Naraka has foolishly
+stolen the ear-rings of Aditi (34). He always acts against the gods and
+Brāhmanas and is on the look out for your loopholes. Do thou therefore
+kill that sinful wretch (35). This Vinatā’s son Guruda, highly powerful,
+capable of ranging anywhere and of assuming any strength and always
+moving in the sky, will take thee there (36). O Upendra, Bhumi’s son,
+Naraka, is unslayable by all creatures. Do thou soon kill that sinful
+one and come back (37)."
+
+Thus addressed by the
+[...]
+
+### Vishnu Purana (Wilson 1840) 5.29 ()
+Indra comes to Dwáraká, and reports to Krishńa the tyranny of Naraka. Krishńa goes to his city, and puts him to death. Earth gives the earrings of Adití to Krishńa, and praises him. He liberates the princesses made captive by Naraka, sends them to Dwáraká, and goes to Swarga with Satyabhámá.
+
+ŚAKRA, the lord of the three worlds, came mounted on his fierce elephant Airávata to visit Śauri (Krishńa) at Dwáraká. Having entered the city, and been welcomed by Hari, he related to the hero the deeds of the demon Naraka. "By thee, Madhusúdana, lord of the gods," said Indra, "in a mortal condition, all sufferings have been soothed. Arisht́a, Dhenuka, Cháńúra, Musht́ika, Keśin, who sought to injure helpless man, have all been slain by thee. Kansa, Kuvalayápíd́a, the child-destroying Putaná, have been killed by thee; and so have other oppressors of the world. By thy valour and wisdom the three worlds have been preserved, and the gods, obtaining their share of the sacrifices offered by the devout, enjoy satisfaction. But now hear the occasion on which I have come to thee, and which thou art able to remedy. The son of the earth, called Naraka, who rules over the city of Prágjyotisha, inflicts a great injury upon all creatures. Carrying off the maidens of gods, saints, demons, and kings, he shuts them up in his own palace. He has taken away the umbrella of Varuńa, impermeable to water, the jewel mountain crest of Mandara, and the celestial nectar-dropping earrings of my mother Adití; and he now demands my elephant Airávata. I have thus explained to you, Govinda, the tyranny of the Asura; you can best determine how it is to be prevented."Having heard this account, the divine Hari gently smiled, and, rising from his throne, took Indra by the hand: then wishing for the eater of the serpents, Garud́a immediately appeared; upon whom his master, having first seated Satyabhámá upon his back, ascended, and flew to Prágjyotisha. Indra mounted his elephant, and, in the sight of the inhabitants of Dwáraká, went to the abode of the gods.The environs of Prágjyotisha were defended by nooses, constructed by the demon Muru, the edges of which were as sharp as razors; but Hari, throwing his discus Sudarśana amongst them, cut them to pieces. Then Muni started up, but Keśava slew him, and burnt his seven thousand sons, like moths, with the flame of the edge of his discus. Having slain Mum, Hayagriva, and Panchajana, the wise Hari rapidly reached the city of Prágjyotisha: there a fierce conflict took place with the troops of Naraka, in which Govinda destroyed thousands of demons; and when Naraka came into the field, showering upon the deity all sorts of weapons, the wielder of the discus, and annihilator of the demon tribe, cut him in two with his celestial missile. Naraka being slain, Earth, bearing the two earrings of Adití, approached the lord of the world, and said, "When, O lord, I was upheld by thee in the form of a boar, thy contact then engendered this my son. He whom thou gayest me has now been killed by thee: take therefore these two earrings, and cherish his progeny. Thou, lord, whose aspect is ever gracious, hast come to this sphere, in a portion of thyself, to lighten my burden. Thou art the eternal creator, preserver, and destroyer of the universe; the origin of all worlds, and one with the universe: what praise can be worthily offered to thee? Thou art the pervader, and that which is pervaded; the act, the agent, and the effect; the universal spirit of all beings: what praise can be worthily offered to thee? Thou art the abstract soul, the sentient and the living soul of all beings, the imperishable: but since it is not possible to praise thee worthily, then why should the hopeless attempt proceed? Have compassion, O universal soul, and forgive the sins which Naraka has committed. Verily it is for the sanctification of thy son that he has been killed by thee." The lord, who is the substance of all creatures, having replied to the earth, "Even so," proceeded to redeem the various gems from the dwelling of Naraka. In the apartments of the women he found sixteen thousand and one hundred damsels he also beheld in the palace six thousand large elephants, each having four tusks; twenty-one lakhs of horses of Kámboja and other excellent breeds: these Govinda dispatched to Dwaraká, in charge of the servants of Naraka. The umbrella of Varuńa, the jewel mountain, which he also recovered, he placed upon Garud́a; and mounting him himself, and taking Satyabhámá with him, he set off to the heaven of the gods, to restore the earrings of Adití.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0219 | next_story_id: DKS_0221
+previous title: Krishna Reclaims the Jewel from Akrura
+next title: Narada Presents the Parijata Flower to Rukmini || Narada gives Krishna a Parijata flower, which Krishna passes to Rukmini; the sage extols Rukmini as the foremost of his wives.

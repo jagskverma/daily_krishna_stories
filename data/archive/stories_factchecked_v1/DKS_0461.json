@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0461",
+ "title": "What the True Renouncer Gives Up",
+ "subtitle": null,
+ "story": "Arjuna had one question left, and it was the question of a man who had nearly walked away from everything.\n\nHe had come to the field of Kurukshetra ready to lay down his bow, sickened by the thought of killing his own kin. Krishna had answered him from the heart of the war itself, until Arjuna's delusion had begun to loosen. Then the universe had opened before him, and closed again, and his friend had returned to his gentle form. Now, standing in the chariot with the armies waiting, Arjuna asked the question that still burned in him.\n\nOf renunciation, he said, I desire to know the true nature. And of abandonment, tell me distinctly what it means.\n\nKrishna answered as one who had been asked this before, by every man who ever stood where the road divides. The rejection of works done with desire, he said, the learned call renunciation. The abandonment of the fruit of all works, the discerning call abandonment. Some wise men say that work itself is evil and should be cast off entirely. Others say the works of sacrifice, gift, and penance should never be abandoned. Listen to my decision.\n\nThe works of sacrifice, gift, and penance should not be abandoned, he said. They purify the wise. But they should be done abandoning attachment, abandoning the fruit. The renunciation of an act prescribed in the scriptures is not proper. To drop a duty from delusion is abandonment of the quality of darkness; to drop it from fear of bodily pain is abandonment of the quality of passion, and it earns no fruit. But the work that is done because it should be done, without attachment and without longing for its fruit, that abandonment is of the quality of goodness. And since no embodied being can truly give up action altogether, the real renouncer is the one who gives up the fruit of action, not the action itself.\n\nThen Krishna spoke of the five causes that stand behind every deed: the substratum on which it rests, the agent, the organs that carry it out, the efforts they make, and the deities presiding over them. With body, speech, or mind, whatever a man undertakes, these five are its causes. So the man of dull understanding who sees his own self as the sole agent, who says, I alone did this, sees wrongly. But he who has no feeling of egoism, whose mind is not sullied, even killing all these people, kills not, nor is fettered by the deed.\n\nKnowledge itself is threefold, Krishna went on. The knowledge that sees one eternal essence in all things, undivided in the divided, is of the quality of goodness. The knowledge that sees all things as separate essences, each closed in its own kind, is of the quality of passion. And the knowledge that clings to a single object as if it were the whole, without reason and without truth, is of the quality of darkness. So too with action: the act done without attachment, without desire and aversion, by one who longs not for its fruit, is good; the act done for objects of desire, heavy with egoism and attended with great trouble, is passionate; the act undertaken from delusion, without regard to consequence or one's own power, is dark. And so too with the agent: the agent of goodness is free from attachment, never speaks of himself, is constant and energetic, unmoved by success and defeat. The agent of passion is full of affection, covetous of fruit, cruel, impure, tossed between joy and sorrow. The agent of darkness is without application, obstinate, deceitful, malicious, slothful, always putting things off.\n\nThe chariot stood still on the field, and the two armies held their breath without knowing it. Then Arjuna spoke, and this time his words were not a question.\n\nMy delusion is destroyed, he said. Through your favour, I have gained the recollection of what I am. I am firm. My doubts are dispelled. I will do your bidding.\n\nIt was not the answer of a man who had been persuaded. It was the answer of a man who had finally seen the shape of his own life: that he was never the sole author of his deeds, that the fruit was never his to hoard, and that the work itself, done without clinging, was its own purity. The bow that he had been ready to drop was in his hands again, and the battle that had seemed impossible was now simply the thing he would do.",
+ "reflection": "Arjuna's question about renunciation is the question of every person about to act greatly: how does one move without being consumed by attachment? Krishna's answer gives the warrior his footing, not by promising success but by relocating the self: he is not the sole agent, and the fruit is not his to guard. The man who abandons the fruit, not the work, is the one who can finally act without fear.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Arjuna",
+  "Krishna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "resolve",
+  "duty",
+  "return to battle"
+ ],
+ "previous_story_id": "DKS_0460",
+ "next_story_id": "DKS_0462",
+ "next_story_tease": "With Arjuna resolved, Krishna turned his attention to the one warrior on the enemy side who could still change the war.",
+ "hero_scene": "Standing in the chariot between the two waiting armies, Krishna speaks of renunciation with one hand raised, while Arjuna, bow in hand and doubts gone, bows his head in the firm declaration: I will do your bidding.",
+ "visual_elements": [
+  "Krishna standing in the chariot, speaking with calm authority",
+  "Arjuna with his bow, his posture changed from despair to resolve",
+  "the two armies waiting on the field of Kurukshetra",
+  "the quiet intensity of the final exchange",
+  "Arjuna's firm declaration, his doubts dispelled"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.42",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:10Z",
+  "source_event_id": "evt_0458"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,107 @@
+# STORY DKS_0155 — The King of Chedi Befriends Krishna and Escorts Him to Karavira
+
+## Index entry
+title: The King of Chedi Befriends Krishna and Escorts Him to Karavira
+summary: After Jarasandha flees, the king of Chedi, Krishna's kinsman by marriage, befriends him and escorts him to the city of Karavira.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Krishna, king of Chedi (Damaghosha), Balarama
+locations: Gomanta, Karavira
+themes: alliance, friendship
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0173
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 99 | verses  | confidence 4
+  excerpt: the highly effulgent king of Chedi, remembering his relationship with the Yadavas, approached Krishna... 'Let us go with our army and followers to the city of Karavira.'
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.99 ()
+TITLE: KRISHNA MEETS HIS ENEMY
+
+Vaishampayana said:—Beholding the two sons of Vasudeva come down from
+the mountain the soldiers of the kings grew terrified and the animals
+bewildered (1). Although they had no other weapons but their arms they
+began to move about there in anger like two Makaras that agitate the
+ocean (2). When they began to range there desirous of fighting there
+arose in them their respective ancient intelligence regarding the
+handling of weapons (3). The weapons, which they had obtained before in
+their encounter at Mathura, came down from the sky like burning flames
+before the very eyes of the assembled kings. The huge bodily weapons,
+which the two Yādavas obtained, came down from the sky, as if filled
+with thirst and the desire of feeding upon human flesh. They, adorned
+with celestial garlands, lighted up the ten quarters with their lustre
+and terrified the sky-ranging ones. Beasts of prey followed them with a
+view to feed upon royal flesh (4–8). When in that great battle came down
+for the two Yadavas four powerful Vaishnava weapons namely, the
+plough-share Samvartaka, the mace Sounanda, the discus Sudarshana, and
+the club Koumodaki the powerful Rāma, the foremost of Sātwatas, first of
+all, took up with his left hand the plough-share embellished with
+celestial garlands and moving obliquely like a serpent and with his
+right hand, the best of maces Saunanda that creates depression in the
+enemies (9-12). Keshava, with delight, took up the discus Sudarshana
+which is worthy of being looked at by all the worlds and effulgent like
+the sun (13). The other hand of Krishna, the necessity of whose
+incarnation was known to the gods, was bedecked with the club Koumodaki
+(14).
+
+Thus armed the heroic Rāma and Govinda, the very incarnations of Vishnu,
+began to withstand the enemies in battle (15). Displaying their prowess
+like two gods, the two heroic sons of Vasudeva, designated as the
+younger and the elder brothers and although one in Vishnu, divided into
+two as men under the names of Rāma and Govinda and dependant on each
+other, began to range in the battle-field withstanding the enemies
+(16-17). Thereupon raising up his plough-share in anger, resembling the
+belly of a crow the heroic Rāma began to move about in the battle-field
+like the very Death of the enemies. And dragging the cars of the highly
+powerful Kshatriyas he began to give effect to his anger on the horses
+and the elephants (18–19). Ranging in that battle-field and assailing
+with the strokes of his mace mountain-like elephants thrown up with his
+plough share he began as if to churn them (20).
+
+Thereupon the leading Kshatriyas, who were on the point of being slain
+by Rāma, left their cars in fear, and went to Jarāsandha. Thereat the
+king Jarāsandha, ever observant of Kshatriya duties, said to them:—"O
+fie on your conduct as Kshatriyas grown tired of battle (21–22). The
+sages say that those, who albeit powerful fly away from the battle-field
+leaving their cars behind, are visited by the sin of destroying an
+embryo. Do you not know this (23)? Fie on your conduct as Kshatriyas.
+Why do ye fly away in fear of a milk-herd of limited power who fights on
+foot (24)? Do ye return soon according to my order, or you need not
+fight, but wait in the battle-field as spectators. I shall myself
+despatch those two cow-herd boys to the abode of Yama (25)."
+
+Thus excited by Jarāsandha the Kshatryas delightedly rallied round and
+engaged in fight with a downpour of arrows (26). With coats of mail,
+Nishtringsas, weapons, quivers, arrows and bows, set with strings,
+horses adorned with golden reins, cars of moon-like lustre and
+cloud-like elephants driven by Mahāmātras they again set out for the
+battle-field (27-28). Covered with rising umbrellas and fanned with
+beautiful chowries the kings, stationed on cars, shone greatly in beauty
+in the battle-field (29). The foremost of warriors, the two heroic sons
+of Vasudeva, Rāma and Keshava were seen ranging about with a desire of
+fighting as soon as they got down in the battle-field (30). Thereupon
+there took place a terrible encounter between them and the kings,
+accompanied with a profuse discharge of shafts and strokes of clubs
+(31). Those two heroic descendants of the Yadu race bore thousands of
+arrows shot by the kings like two mountains sprinkled with rain.
+Although assailed by heavy clubs and maces they did not tremble (32-33).
+
+Thereupon the highly-powerful Krishna, resembling a cloud and holding
+conch, discus and club in his hand, increased his body like a cloud
+accompanied by wind. And with his discus effulgent like the sun he began
+to cut down men, horses, elephants and mighty car-warriors (34–35). On
+the other side, Rāma too so dragged the kings with his plough share and
+so struck them with his club, that they, deprived of consciousness,
+could not stand in the battle-field (36). The car-wheels being
+obstructed the variegated chariots of the kings were broken down and
+could not go on in the battle-field (37). H
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0154 | next_story_id: DKS_0156
+previous title: Krishna Wields the Divine Weapons on Gomanta
+next title: Krishna Installs Shakradeva on the Throne of Karavira

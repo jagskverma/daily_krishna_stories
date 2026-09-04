@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0314",
+ "title": "Yogamaya Comes Home",
+ "subtitle": "The illusory daughter of Yashoda appears before Krishna and Balarama",
+ "story": "Krishna had come home from the mountain fortress of Naraka, and Dwaraka was still learning to believe it.\n\nNaraka, the demon son of the earth, had been slain. The maidens he had kept locked in his inner apartments were free; the summit of Mount Mani, the jewel of his mountain kingdom, had been uprooted and brought home; and the wealth of his palace now lay in heaps before the Yadavas, Krishna's own people. \"You are the masters of all these things,\" Krishna told them. The clans of his house — the Bhojas, the Andhakas, the Vrishnis — heard it with their hair standing on end in joy, and they worshipped him. The streets of Dwaraka had not been so bright in years; the whole city seemed to be breathing out.\n\nThen the women of the family came: the wives of the Dasharhas, the wives of Ahuka, and the seven queens of Vasudeva, Krishna's father, with Devaki and Rohini — the mothers of the two brothers — at their head. They came to the hall to see Krishna with their own eyes, and there sat Balarama and Krishna at ease, the two brothers together, and the sight of them seemed to complete something in the room. Rohini's face was soft with pride, and Devaki could not stop looking at her sons. First the queens saluted Rohini; then Balarama and Krishna rose and saluted Devaki. And those who watched thought that a goddess shone in the company of her two lotus-eyed sons, as Aditi, the mother of the gods, shines among her sons Mitra and Varuna.\n\nThen a woman entered the hall whom no one had summoned — and yet everyone knew her. The women of the hall fell quiet as she passed; some of them had not seen her since she was a child.\n\nShe was Yogamaya — the illusory daughter of Yashoda, the cowherd woman who had raised Krishna in the village of Gokula. She had been born at the very same moment as Krishna, and it was for her sake that he had struck down Kamsa, the tyrant king of Mathura, and all his kin. In the years since that night the Vrishni family had adored her, brought her up, and kept her like a daughter of their own. The world knew her as the Yoga maiden, born to shield Krishna; and because she had guarded him with her celestial body in the perilous days of his infancy, the Yadavas worshipped her with joy.\n\nAs soon as she entered the hall, Krishna rose and went to her, the way one goes to a beloved friend, and took her hand. And Balarama took her other hand, embraced her, and bent to smell her head, as a brother does. For a long moment the three of them stood there, the hall watching in silence.\n\nAnd the Vrishni women who stood watching saw her then, standing between her two brothers, and she seemed to them like the goddess Shree herself — golden lotuses in her hands, seated upon a lotus. The women murmured her name like a prayer, and joy rose in the hall like a tide. They showered her with fried paddy and with flowers, a rain of blessing, and then they returned to their own quarters, carrying the sight of her home with them.\n\nThe Yadavas spent the rest of that day speaking of Krishna's wonders and honoring him, and Krishna lived on happily among his people. The day that had begun with a conqueror's return had ended with a sister in the house.",
+ "reflection": "The daughter who was left behind on the night of Krishna's birth comes back to the family that had to let her go, and is greeted not as a stranger but as a sister, with flowers and embraces. The Vrishnis had adored her like a daughter all along; her homecoming simply lets the family recognize what it already knew.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Yogamaya",
+  "Devaki",
+  "Rohini",
+  "Vrishni women"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "goddess",
+  "reunion",
+  "worship"
+ ],
+ "previous_story_id": "DKS_0313",
+ "next_story_id": "DKS_0315",
+ "next_story_tease": "And elsewhere in Dwaraka, a young warrior was about to learn the truth of his own birth.",
+ "hero_scene": "Yogamaya standing between Krishna and Balarama, each holding one of her hands, as the Vrishni women shower her with fried paddy and flowers and see in her the goddess Shree with golden lotuses, seated upon a lotus.",
+ "visual_elements": [
+  "Yogamaya between Krishna and Balarama",
+  "her hands held by her two brothers",
+  "Vrishni women showering fried paddy and flowers",
+  "the golden lotuses vision of goddess Shree",
+  "the assembly hall of Dwaraka",
+  "a mood of joy and homecoming"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.248",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:53Z",
+  "source_event_id": "evt_0332",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

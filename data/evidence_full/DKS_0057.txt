@@ -1,0 +1,30 @@
+# STORY DKS_0057 — Pralamba Joins the Games in Disguise
+
+## Index entry
+title: Pralamba Joins the Games in Disguise
+summary: The demon Pralamba, intent on seizing the boys, joins their play disguised as a cowherd, and Krishna, knowing him, allows it, planning his death.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Pralamba, Krishna, Balarama
+locations: Vrindavan
+themes: deception, divine_knowledge
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0078
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 18 | verses 16-18 | confidence 5
+  excerpt: Pralamba, a demon in cowherd's form, enters the boys' games; Krishna, who knows all, welcomes his friendship while resolving his destruction. (rendered from Sanskrit, verse 16-18)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.18 (16-18)
+16. paśūṃś cārayator gopais tad-vane rāma-kṛṣṇayoḥ /
+17. taṃ vidvān api dāśārho bhagavān sarva-darśanaḥ /
+18. tatropāhūya gopālān kṛṣṇaḥ prāha vihāra-vit /
+
+## Corpus chain
+previous_story_id: DKS_0056 | next_story_id: DKS_0058
+previous title: Krishna Swallows the Forest Fire at Night
+next title: Balarama Slays the Demon Pralamba

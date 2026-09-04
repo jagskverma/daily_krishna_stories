@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0471",
+ "title": "The Time Has Not Come",
+ "subtitle": null,
+ "story": "The night battle at Kurukshetra had many terrors, and Karna — the Kurus' champion, whom everyone knew as a charioteer's son — was the greatest of them. He struck Dhrishtadyumna, the Panchala prince, full on the chest with ten shafts that pierced deep, and Dhrishtadyumna answered with five, crying, \"Wait! Wait!\" The two great bowmen shrouded each other in that dreadful combat with showers of arrows, each bow drawn to its full stretch.\n\nThen Karna sent the charioteer and the four horses of Dhrishtadyumna to the world of the dead, cut his main bow with keen arrows, and left him standing in a broken chariot. Deprived of chariot, horses, and driver, Dhrishtadyumna jumped to the ground, seized a mace, and — though Karna's straight shafts struck him all the while — came close enough to slay Karna's four horses in turn. Then he climbed onto Arjuna's chariot and would have gone back at Karna, but Yudhishthira, the eldest of the Pandavas, ordered him to hold.\n\nKarna filled the dark with his leonine shouts, the twang of his bow, and the blast of his conch. The Panchalas and the Somakas, seeing their prince brought low, snatched up every weapon to hand and rushed at him with no thought for their lives. But Karna's driver had yoked fresh horses — white as conch shells, of the swift Sindhu breed, well broken and fast — and Karna, sure of aim, beat down the Panchala warriors like a cloud pouring rain upon a mountain. The Panchala host fled like a doe before a lion.\n\nHorsemen fell from their horses, riders from their elephants, chariot-warriors from their chariots, all around. Karna's arrows cut down the fleeing on every side, and many fled without even feeling that they had been struck. In their terror they took the stirring of a straw for Karna himself, and ran from their own friends, mistaking them for him. And Karna pursued the broken host, shooting shafts as he went.\n\nKing Yudhishthira, seeing his army fly, turned to Arjuna. \"Look at Karna standing there like the god Rudra with his bow in hand,\" he said, \"scorching everything around him like the blazing sun at this dead of night. These cries you hear are the cries of our helpless friends, torn by his shafts. He aims and looses in one motion, with no pause between the two acts. He will destroy us all. Do now, Arjuna, what you judge should next be done about the slaughter of Karna — for the time may have come.\"\n\nArjuna turned to Krishna. \"Yudhishthira is frightened today by the prowess of Karna,\" he said, \"and our army is flying, broken by Drona and terrified of Karna. I see him careering without fear, and I cannot bear it, any more than a snake can bear the tread of a man upon its body. Take me to the spot where that great warrior stands. I will either kill him — or let him kill me.\"\n\nBut Krishna looked out across the field and held him back. \"I see Karna, that tiger among men, careering in battle like the lord of the gods himself,\" he said. \"There is no one else who could stand against him. But I do not think the time has come for you to meet the charioteer's son. The blazing dart Indra gave him is still with him, kept and unused. Let Ghatotkacha — Bhima's son by the demoness Hidimva — go out against him instead.\"\n\nAnd Krishna, turning, spoke to Ghatotkacha, who stood in the dark like a storm waiting to be loosed. \"Go,\" he said, \"and slay Karna in battle, at this dead of night.\" The command was simple. The purpose behind it was not: the dart that had been saved for Arjuna was still burning in Karna's keeping, and Krishna meant for it to be spent on Ghatotkacha before the time ever came for the two of them to meet.",
+ "reflection": "Krishna's refusal to let Arjuna meet Karna is strategy wearing the face of grace: he sends another to draw the weapon that was saved for his friend, so that when the time does come, Karna will face Arjuna with his one infallible dart spent. The plan protects Arjuna and asks everything of Ghatotkacha in return.",
+ "tradition_note": null,
+ "content_note": "Depicts Karna's night-time slaughter of fleeing warriors, including severed limbs; softened here but the episode is the war's most violent stretch.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Ghatotkacha",
+  "Karna",
+  "Dhrishtadyumna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "war strategy",
+  "sacrifice",
+  "divine plan"
+ ],
+ "previous_story_id": "DKS_0470",
+ "next_story_id": "DKS_0472",
+ "next_story_tease": "But another Rakshasa, Alayudha, had come to fight beside Karna that night.",
+ "hero_scene": "At dead of night, Krishna stands in the chariot with one hand raised toward Ghatotkacha — a towering Rakshasa in the dark — commanding him against Karna, while Arjuna's chariot is held back and Karna's white steeds gleam in the distance.",
+ "visual_elements": [
+  "Karna and Dhrishtadyumna shrouding each other with showers of arrows",
+  "Dhrishtadyumna climbing onto Arjuna's car, mace in hand",
+  "Karna blowing his conch, fresh white Sindhu steeds yoked",
+  "the Panchala host fleeing like a doe before a lion",
+  "Karna pursuing the broken host, shooting shafts on all sides",
+  "Yudhishthira addressing Arjuna",
+  "Krishna restraining Arjuna, hand raised",
+  "Ghatotkacha, the towering Rakshasa, standing in the dark"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.173",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:09Z",
+  "source_event_id": "evt_0465",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

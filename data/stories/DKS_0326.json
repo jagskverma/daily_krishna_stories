@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0326",
+ "title": "The Goddess Cuts the Serpent-Noose",
+ "subtitle": null,
+ "story": "In the dark of Bana's prison, the young man who had routed an army had nothing left but his voice.\n\nHe had come to Sonitpura in the night — Aniruddha, grandson of Krishna, stolen from Dwaraka by enchantment to marry a princess he had only ever seen in a dream. For a little while the dream had kept its promise. Usha, Bana's daughter, had chosen him by the gift of a goddess; her friend Chitralekha had carried him across the sky in secret; and for a few days the two had lived as husband and wife in the women's quarters of the city. Then Bana — king of Sonitpura, son of the great demon Bali of an older age — learned that his daughter was living with a prince of Krishna's own family. He seized Aniruddha and threw him into chains, and Usha, who would not be parted from her husband, was bound beside him. The hero of the field was now a prisoner, held by a strong noose of serpents, his strength useless and his club far away.\n\nAnd it was there, in that darkness, that Aniruddha did the one thing left to him: he sought refuge with the goddess Kaumari, the maiden goddess, and sang her a hymn.\n\nIt was a careful song. First he saluted Narayana, the changeless Lord of all. Then he praised the goddess herself — Chandi, whom the wise also call Katyayani — whom gods, sages, and demons alike worship. She was the sister of Indra and of Vishnu, close kin to the family he trusted; and she it was who granted honour and answered the prayers of her devotees. He bowed low for his own well-being, and with a cleansed mind and folded hands he asked one thing only: “Release me from my bonds, and give me life and health.”\n\nThe goddess heard him, for she loved those who called on her, and Durga herself came to the cell where Aniruddha lay in chains. She appeared before the young hero in the gloom of the prison and consoled him; he saluted her, and then — with her own fingers, as easily as a mother loosens a knot — she cut the strong noose of serpents that held him.\n\nAnd then she spoke. “Wait here a few days more, Aniruddha. He who holds the discus, the slayer of demons, will cut off Bana's thousand arms, set you free from your fetters, and take you to his own city.”\n\nShe did not carry him out of the prison. She cut his bonds, gave him a promise, and left him with something stronger than freedom: the certainty of rescue. Aniruddha waited — and across the sky, already flying toward Sonitpura on the great bird Garuda, came Krishna with his brother Balarama and with Pradyumna, Aniruddha's own father, to make the goddess's words good.",
+ "reflection": "The hymn is a prisoner's prayer that calls the goddess by her family — sister of Indra and of Vishnu — as though asking kin to remember one of their own. And Durga's answer is exact: she frees Aniruddha from despair, not from the prison, because Krishna's arrival is what will set him truly free.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Aniruddha",
+  "Durga (Katyayani)",
+  "Usha"
+ ],
+ "locations": [
+  "Sonitpura"
+ ],
+ "themes": [
+  "devotion",
+  "goddess",
+  "release"
+ ],
+ "previous_story_id": "DKS_0325",
+ "next_story_id": "DKS_0327",
+ "next_story_tease": "The goddess's promise pointed one way: across the sky, Krishna, Balarama and Pradyumna were already flying to Sonitpura on Garuda.",
+ "hero_scene": "In the shadowy prison of Sonitpura, the great goddess Durga bends over the chained Aniruddha and, with her own fingers, cuts the strong noose of serpents that binds him, light breaking around her in the dark cell.",
+ "visual_elements": [
+  "Aniruddha in chains, the noose of serpents around him",
+  "Durga appearing in the prison, radiant, cutting the serpent-noose with her fingers",
+  "Usha beside the captive prince",
+  "the dark stone of the prison cell with light gathering around the goddess",
+  "the coiled serpents of the noose falling loose",
+  "devotion and release"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.267",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:49:13Z",
+  "source_event_id": "evt_0345",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,30 @@
+# STORY DKS_0021 — Nanda Visits Mathura and Meets Vasudeva
+
+## Index entry
+title: Nanda Visits Mathura and Meets Vasudeva
+summary: Nanda goes to Mathura to pay his annual tribute, and Vasudeva joyfully embraces him as a brother.
+life_stage: gokul | story_arc: krishna_reaches_gokul
+characters: Nanda, Vasudeva
+locations: Mathura, Gokula
+themes: friendship, kinship
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0035
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 5 | verses 18-20 | confidence 5
+  excerpt: Nanda travels to Mathura to pay the yearly tax; Vasudeva, learning of his arrival, rises and embraces him as if life had returned to his body. (rendered from Sanskrit, verse 18-20)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.5 (18-20)
+18. gopān gokula-rakṣāyāṃ nirūpya mathurāṃ gataḥ /
+19. vasudeva upaśrutya bhrātaraṃ nandam āgatam /
+20. taṃ dṛṣṭvā sahasotthāya dehaḥ prāṇam ivāgatam /
+
+## Corpus chain
+previous_story_id: DKS_0020 | next_story_id: DKS_0022
+previous title: Nanda Celebrates the Birth of His Son
+next title: Vasudeva Warns Nanda of Danger in Gokula

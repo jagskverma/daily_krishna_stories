@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0384",
+ "title": "No One Dwells Here Forever",
+ "subtitle": null,
+ "story": "Before he left Hastinapura, Akrura asked to see the king. He had come to the city to learn how the Pandavas fared, and he had learned it — the poison, the cruelties, the slow grinding-down of five boys and their mother. Now, with that knowledge sitting in him like a stone, he went to the one man who could change it: the blind king Dhritarashtra, who sat on the throne his brother had left empty, and loved his own sons with a love that had gone crooked.\n\nAkrura did not flatter him. He spoke as a friend of the house, plainly. \"Rule the earth by righteousness,\" he said, \"and win your subjects by good conduct. Act otherwise, and you will be blamed in every mouth and walk into darkness.\" Then he said the thing that kings rarely hear: no one dwells in this world forever with anyone. A being is born alone, and dies alone; no retinue follows a man out of the world, and the guards who surround a throne cannot surround a grave. The wealth a man gathers by wrong means is carried off by others of little wit; the man who nourishes his sons on unrighteousness, thinking himself clever, takes the guilt onto his own shoulders and is finally abandoned by those very sons. \"Therefore this world, O king,\" Akrura said, \"is a dream, a waking illusion, a fantasy of the mind. Do not anchor your soul to it.\"\n\nDhritarashtra heard him out. The truth of it was undeniable, and the old king admitted as much. \"Even so, gentle one,\" he said, \"your sweet words do not rest in my heart, because my heart is unsteady.\" He knew what was right; he loved his sons more than he could hold to what was right. His love for them sat on his mind like a weight, and the truth could not move it. And then he spoke the deeper helplessness, the one that makes counsel useless: \"What man can undo the ordinance of the Lord?\" The lord who, entering his own creation through his inscrutable power, sets in motion the wheel of the world — who could stand against that wheel, and who could call a man guilty for being crushed beneath it? He bowed to that power, unknowable in its play, and fell silent.\n\nAkrura left the city as he had come, and the blind king remained on his throne, the truth ringing in his ears and no room for it in his heart. The counsel had been given; whether it would be kept was another matter, and Akrura knew better than to wait for the answer.\n\nBack in Mathura, he went straight to Krishna and Balarama and told them everything — what he had seen of the Pandavas, what the sons of Dhritarashtra had done, and what the blind king had confessed when the truth was set before him. He told them how the king had heard every word of the counsel, and acknowledged the truth of every word, and how the acknowledgment had changed nothing in his heart. He reported it all without softening a word. Krishna listened. Balarama listened. The news did not surprise them, but it was news that had to be carried, and it had been carried by a friend's eyes and a friend's honesty.\n\nThe kingdom of the Kurus went on as it had. But from that day, nothing between Hastinapura and Mathura was quite what it had been. A message had passed between the two cities — not of war, not yet — and the road that carried it ran both ways.",
+ "reflection": "Dhritarashtra hears the truth and agrees with it, yet cannot act on it — the story's most honest moment. Akrura's counsel fails in the usual sense, and the failure is recorded without judgment: some truths find no hold in a heart that loves wrongly, and the wise know better than to wait for the answer.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Akrura",
+  "Dhritarashtra",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Mathura"
+ ],
+ "themes": [
+  "justice",
+  "counsel",
+  "impermanence"
+ ],
+ "previous_story_id": "DKS_0383",
+ "next_story_id": "DKS_0385",
+ "next_story_tease": "Before long, Krishna himself would walk into the Pandavas' court at Indraprastha.",
+ "hero_scene": "Akrura standing before the blind king Dhritarashtra in the Hastinapura court, speaking of impermanence with open hands, while the king sits bowed over his own unsteady heart.",
+ "visual_elements": [
+  "Akrura standing before the blind king's throne",
+  "Dhritarashtra listening, his face troubled",
+  "the truth of Akrura's words hanging in the air of the court",
+  "Akrura returning to Mathura and standing before Krishna and Balarama",
+  "Krishna and Balarama listening to the report"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.49.15-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:33Z",
+  "source_event_id": "evt_0164"
+ },
+ "editorial_status": "unreviewed"
+}

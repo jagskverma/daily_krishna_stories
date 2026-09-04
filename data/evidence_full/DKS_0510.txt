@@ -1,0 +1,36 @@
+# STORY DKS_0510 — The Elephant, the Honey-Gatherer, the Deer and the Fish
+
+## Index entry
+title: The Elephant, the Honey-Gatherer, the Deer and the Fish
+summary: The avadhuta learns from the elephant, ensnared by lust for the decoy she-elephant, from the honey-gatherer, whose hoard others enjoy, from the deer, snared while listening to music, and from the fish, hooked through the tongue, how the senses lead one to ruin.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the avadhuta, the elephant, the honey-gatherer, the deer, the fish
+locations: (teaching)
+themes: lust, sense-control, the tongue, ruin
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0530
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 8 | verses 12-20 | confidence 5
+  excerpt: The avadhuta said: 'The ascetic should not touch a woman even of wood, lest he be bound like the elephant caught by the she-elephant; the wealth painfully hoarded is enjoyed by others, as the honey-gatherer steals the bees' honey; the deer is snared by song; and the fish, allured by the tongue's bait, meets death on the hook.' (rendered from Sanskrit, verses 12-18)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.8 (12-20)
+12. padāpi yuvatīṃ bhikṣur na spṛśed dāravīm api /
+13. nādhigacchet striyaṃ prājñaḥ karhicin mṛtyum ātmanaḥ /
+14. na deyaṃ nopabhogyaṃ ca lubdhair yad duḥkha-sañcitam /
+15. su-duḥkhopārjitair vittair āśāsānāṃ gṛhāśiṣaḥ /
+16. grāmya-gītaṃ na śṛṇuyād yatir vana-caraḥ kvacit /
+17. nṛtya-vāditra-gītāni juṣan grāmyāṇi yoṣitām /
+18. jihvayāti-pramāthinyā jano rasa-vimohitaḥ /
+19. indriyāṇi jayanty āśu nirāhārā manīṣiṇaḥ /
+20. tāvaj jitendriyo na syād vijitānyendriyaḥ pumān /
+
+## Corpus chain
+previous_story_id: DKS_0509 | next_story_id: DKS_0511
+previous title: The Moth and the Bee
+next title: Pingala the Courtesan's Renunciation

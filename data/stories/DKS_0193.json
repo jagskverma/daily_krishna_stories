@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0193",
+ "title": "A Farewell of a Thousand Arms",
+ "subtitle": null,
+ "story": "The conversation was over, and Krishna rose to leave. He had come to Kundina as a guest, and at last he had spoken plainly to King Bhishmaka of what the gods had decided long ago on the peak of Mount Sumeru: that Rukmini, the king's daughter, was Lakshmi herself, the goddess of fortune, born into this house to be joined to him. The king, who had been afraid for his daughter and ashamed of his son's scheming, had bowed low and asked only for the wisdom to see clearly. Krishna had given him that answer. Now the kings who had gathered for Rukmini's swayamvara — the ceremony in which she was to choose a husband — were stirring in the city, and Krishna had a road before him.\n\nThen, as he stood, the sight Bhishmaka saw stopped him where he was. The young man before him was the same young man who had sat in his hall all these days, asking for nothing. But he was not one shape any longer. He was every shape at once — vast and quiet and older than the world. He had a thousand feet and a thousand eyes and a thousand arms, and his eyes were like red lotuses. The shape of a man was there, and inside it the shape of everything: every direction at once, every being that breathed, every star the sky had ever held. Bhishmaka, king of Kundina, stood in the presence of the universe wearing a human face, and in one blinding instant he understood who had been a guest in his house.\n\nHe did not speak of his daughter then, nor of the swayamvara, nor of his son, nor of the kings outside the walls. All of that fell away from him like dust. He bowed lower than he had ever bowed to any king — lower than he had bowed a moment before, when he had begged forgiveness — and he began to praise.\n\nHe praised the one who had no beginning and no cause, who had existed before the first dawn and would remain after the last, and who had made himself known in the house of a mortal king. The words came out of him slowly at first, then faster, as if the vision had unlocked something in his chest that had been waiting all his life to be spoken. He had thought he was entertaining a guest: a young prince from Mathura who spoke well and carried himself like a king. Now he knew he had been sheltering the one from whom everything flows, and his praise broke over that knowledge like a wave.\n\nThen it was over. Krishna stood before him again as he had stood all along — a young man, gracious, ready to leave. The thousand arms were one pair of arms; the thousand eyes were two. The vision had not been snatched away so much as folded back up, the way a vast sky folds into a single point at nightfall.\n\nBhishmaka straightened slowly and said nothing. There was nothing left to say. He had been shown what his daughter was, and he had been shown who her destined husband was, and the two truths together had rearranged his world. His son had wanted a grand ceremony; the gods had wanted something else entirely. And the king, who had spent the past days anxious and afraid, found that he was no longer afraid of anything.\n\nOutside, the kings who had come to win Rukmini were waiting. As Krishna came out they rose and followed him, drawn by something they could not name. They did not know what Bhishmaka had seen. They had only seen Krishna — and even that was enough to move them.\n\nBhishmaka watched them go from his doorway, and what he had seen stayed with him all his days. A king does not forget the day the universe visits his house.",
+ "reflection": "The cosmic form appears not as a spectacle for a crowd but as a private revelation to one anxious father — the divine answering Bhishmaka's plea for 'eyes of wisdom' by literally showing him what he could not otherwise see. That the vision is followed by Krishna quietly returning to human shape suggests the form is a gift of sight, not a display.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Bhishmaka",
+  "Garuda"
+ ],
+ "locations": [
+  "Kundina"
+ ],
+ "themes": [
+  "cosmic-form",
+  "eulogy",
+  "departure"
+ ],
+ "previous_story_id": "DKS_0192",
+ "next_story_id": "DKS_0194",
+ "next_story_tease": "Once the kings had gone, the swayamvara's true decision passed to Rukmini herself.",
+ "hero_scene": "Bhishmaka on his knees before Krishna, who stands revealed in his universal form — a thousand feet, a thousand eyes, a thousand arms, eyes like red lotuses — filling the dim hall of Kundina with light while the mortal shape he wore moments ago seems to hang over him like a garment.",
+ "visual_elements": [
+  "Krishna's thousand-armed universal form",
+  "eyes like red lotuses",
+  "Bhishmaka bowed low in worship",
+  "the palace hall of Kundina",
+  "the assembled kings waiting outside",
+  "light and vastness filling the hall"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.108",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:11Z",
+  "source_event_id": "evt_0184",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

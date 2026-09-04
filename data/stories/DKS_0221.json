@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0221",
+ "title": "A Flower for Rukmini",
+ "subtitle": null,
+ "story": "Mount Raivataka had never seen such a gathering. Krishna had come there with Rukmini — his first wife, the daughter of King Bhishmaka — for the festival that closed a vow she had undertaken, and with them had come his sixteen thousand wives, each in the splendor of her rank, along with his sons and brothers, who had gone on ahead. For days the mountain rang with the sounds of giving: priests received what they asked for, beggars went away loaded with gifts, and those who kept religious vows went away satisfied. When the fasting was over, Krishna honored Rukmini before them all.\n\nWhile he sat there with Rukmini at his side and the other queens circled around them, the sage Narada arrived on the mountain — Narada, the wandering singer who carries news between heaven and earth. Krishna rose and received him with the honors owed to a great sage, and Narada, honored in his turn, gave his host a single flower: a blossom of the Parijata, the heavenly coral tree, which no earthly garden could ever grow.\n\nKrishna took the flower, and because Rukmini sat beside him, he placed it in her hand. She understood at once. Raising the blossom, she set it in her hair, and Rukmini — the most beautiful woman in the three worlds, men said — seemed doubly beautiful with the celestial flower among her tresses.\n\nThen Narada spoke, and his words were a praise of Rukmini and of the flower he had brought. It would never wither, he said. For a full year it would breathe whatever fragrance she wished; it would give her warmth or coolness at her word, and from it would flow juices of every taste. Whatever flower she longed for, the Parijata would become; whatever color she wished to see, it would take on; it would grow thin or plump as she willed. It would light her nights like a lamp, drive off unwholesome smells, and give her garlands of Santanaka flowers and clothes that never wore out. When she wished, it would sing with music; and it kept hunger, thirst, and weariness far from her. It was the root of good luck and of piety, and it would not let a mind that had won it wander toward any evil path.\n\nOnly one thing was asked in return. When a full year was complete, the flower would leave her — such was its nature, set by the Creator — and even the wives of the gods, Uma and Aditi and Sachi and Savitri and Sri herself, wore it for no longer than a year.\n\nThen came the words that changed the temper of the gathering. \"O goddess,\" said Narada, turning to Rukmini, \"among the sixteen thousand wives of Krishna, I count you the foremost and the most beloved.\" The queens around them heard it. Some bowed their heads; others felt the praise land like a blow, and the bright air of Raivataka turned a shade cooler for them.\n\nRukmini kept the flower in her hair, and the festival went on. But the flower, which never withered, had been given its year; and the words of the sage, spoken once, would be remembered longer than any blossom.",
+ "reflection": "Narada's gift honors Rukmini, but the praise is public, delivered before all sixteen thousand queens, and the episode quietly sets the stage for the jealousy that follows. The flower is described as inexhaustible in its powers yet limited to a single year — a reminder that even heaven's gifts are bounded, while the words spoken over them are not.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Narada",
+  "Krishna",
+  "Rukmini"
+ ],
+ "locations": [
+  "Raivataka"
+ ],
+ "themes": [
+  "favoritism",
+  "divine-flower",
+  "praise"
+ ],
+ "previous_story_id": "DKS_0220",
+ "next_story_id": "DKS_0222",
+ "next_story_tease": "But in another part of the mountain, a proud queen had heard every word.",
+ "hero_scene": "Krishna placing the Parijata flower in Rukmini's hand as she raises it to her hair, while Narada looks on and the other queens sit encircled around them on Mount Raivataka.",
+ "visual_elements": [
+  "Narada with the Parijata flower",
+  "Krishna giving the flower to Rukmini",
+  "Rukmini setting the blossom in her hair",
+  "the gathered queens of Dwaraka",
+  "Mount Raivataka festival",
+  "praise and favoritism"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.122",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:16Z",
+  "source_event_id": "evt_0292",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

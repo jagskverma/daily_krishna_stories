@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0395",
+ "title": "Four Brothers, Four Directions",
+ "subtitle": null,
+ "story": "Yudhishthira did not delay. The moment Krishna — the lord of Dwaraka, friend and cousin of the Pandavas — had given his blessing to the Rajasuya, the king turned from the council to the horizon. Before a single fire could be lit for the sacrifice, the four quarters of the earth had to be made ready. An emperor's sacrifice draws its splendor from the tribute of kings, and tribute follows strength.\n\nSo he called his four brothers before him and gave each a quarter of the world.\n\nSahadeva, the youngest, he sent to the south, and with him the Srijnayas, his allied warriors — toward the hot lands where the southern kings kept their ancient thrones. Nakula he sent to the west, toward the sea kingdoms and the sunset. Arjuna, the great archer, he sent to the north, where the mountain kings watched from their passes. And Bhima, whose strength was the dread of every court, he sent to the east, the quarter of the rising sun.\n\nFour brothers; four roads out of Indraprastha. The city watched them go, banners bright in the morning light, and understood that the empire had begun to reach out its hands and gather the world.\n\nWhile they were away, Indraprastha waited as a city waits for its armies. The priests rehearsed the rites of the Rajasuya; the craftsmen raised the halls that would hold the kings of the earth; the treasury counted what it had and made room for what was coming. Every report from the roads — a messenger, a merchant, a returning soldier — was met at the gate and questioned for news of the four brothers and their wars.\n\nThe old chronicles do not linger over those campaigns. No single battle of that season earned a name in the telling; what the poets record is simpler and more astonishing. The heroes marched to the far ends of their roads, vanquished the kings who ruled there, and carried back abundant wealth for the sacrifice. King after king of the four quarters was overcome by their might, and from every quarter the tribute began to move toward Indraprastha.\n\nThen came the returns, and the city began to fill. Sahadeva came up from the south, his wagons heavy. Nakula rode in from the west with the wealth of the sea kingdoms. Arjuna descended from the north with the treasure of the mountain lords. Bhima arrived from the east, and the ground itself seemed to shake under the weight of his train. Coins and gems, cloth and horses, gold beyond counting — the abundance of all four quarters — poured into a treasury that had once seemed inexhaustible, and still it grew.\n\nYudhishthira received each brother as a king receives a returning army, and Indraprastha prepared. The sacrifice now had its wealth, its tribute, its proof of empire — and only the great rite itself remained.",
+ "reflection": "The fourfold conquest is told in a handful of verses because its purpose is not war but gathering: the brothers conquer the directions the way farmers reap, to feed a rite that will crown their brother emperor. Here empire is only the road by which the tribute travels to the sacrifice.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Yudhishthira",
+  "Sahadeva",
+  "Nakula",
+  "Arjuna",
+  "Bhima"
+ ],
+ "locations": [
+  "the four directions"
+ ],
+ "themes": [
+  "conquest",
+  "tribute",
+  "empire"
+ ],
+ "previous_story_id": "DKS_0394",
+ "next_story_id": "DKS_0396",
+ "next_story_tease": "When the tribute of the world had gathered in Indraprastha, the Rajasuya began — and its first honor would divide the assembly.",
+ "hero_scene": "Four Pandava armies ride out of Indraprastha through four gates at dawn — Sahadeva south, Nakula west, Arjuna north, Bhima east — banners bright as the city watches them go.",
+ "visual_elements": [
+  "Yudhishthira giving each brother his direction",
+  "four armies leaving Indraprastha by four roads at morning",
+  "Sahadeva with the Srijnayas riding south",
+  "Arjuna ascending toward the northern passes",
+  "the brothers returning with wagons heavy with tribute",
+  "Indraprastha filling with the wealth of the four quarters"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.72.11-13",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:23Z",
+  "source_event_id": "evt_0378",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

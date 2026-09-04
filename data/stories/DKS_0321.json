@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0321",
+ "title": "Narada's Riddle: Who Is Truly Blessed",
+ "subtitle": null,
+ "story": "Dwaraka was at peace, and then the storm came \u2014 a sudden hurricane over the sea-girt city, clouds charged with lightning, thunder muttering over the water. And in the heart of the tempest a figure appeared: Narada, the wandering sage of the gods, with matted locks and a vina in his hand, radiant as fire. The instant his feet touched the ground of Krishna's court, the foul weather vanished. The court went still.\n\nAll the kings of the earth had gathered in that hall. Duryodhana, the Kuru prince, was celebrating a great sacrifice in Hastinapura, and every king who travelled to it had turned aside on the way to see Krishna \u2014 drawn by his fame, by the report of his sons, by the wonder of Dwaraka standing on the shore of the ocean. They had come in multitudes, each with his army: Duryodhana and his brothers, the sons of Dhritarashtra; the sons of the Pandavas; the warrior Dhrishtadyumna; and the kings of Pandya, Chola, Kalinga, Vahlika, Dravida, and Khasa. Krishna had welcomed each according to age and rank, seated them in their proper places, and taken his own golden throne, shining among them like the autumn sun. His kinsmen the Yadavas and the visiting kings had talked of this and that \u2014 and then the storm had come, and then Narada.\n\nThe sage walked into the crowded hall and went straight to Krishna's throne. \"You have become a wonder to the gods themselves,\" he said. \"There is no one blessed like you in the world.\"\n\nKrishna smiled. \"That is true,\" he said, \"and never more so than in the matter of presents.\"\n\n\"I have received the answer I came for,\" said Narada, and turned to go. \"I depart for the region I wished to reach.\"\n\nThe kings looked at one another. \"He spoke of wonder and blessing,\" they said to Krishna, \"and you answered with presents. We cannot read such words. If we are worthy to understand them, we wish to hear the meaning.\"\n\n\"You are worthy,\" Krishna said, \"and Narada shall explain it. Tell these kings, O sage, what lay behind your question and my answer.\" Narada seated himself on a white and golden seat and began.\n\n\"Once, at sunrise, I walked alone on the bank of the Ganga,\" he said, \"and I came upon a tortoise huge as a mountain, with two great shells, soaked through and covered with moss, its skin as hard as an elephant's. I praised it \u2014 what a wonderful life, to carry such shelter and range the water without a care. But the tortoise answered me like a man. 'What wonder is there in me, sage?' it said. 'How can I be called blessed? This Ganga, flowing past us, is the blessed one \u2014 hundreds and thousands of creatures like me live in her. What is more wonderful than she?'\n\n\"So I went and praised the Ganga in her turn, foremost of rivers, rich in lakes, thronged with great creatures, guarding the hermitages on her way to the sea. And she pointed me onward: the ocean pointed to the earth, the earth to the mountains, the mountains to Brahma the creator, Brahma to the Vedas, and the Vedas to the sacrifices that keep them alive. Each one I praised turned and showed me something greater, until the chain ran out at the sacrifices \u2014 and a sacrifice is greatest when it is accompanied by gifts. Above them all stands Vishnu alone, the great wonder, whom all of these serve.\"\n\nThe court understood at last. Asked what was greatest, the whole chain of creation had pointed beyond itself, and at the end of that pointing stood Vishnu \u2014 and a sacrifice with gifts. So Narada's praise had been true, and Krishna's odd answer about presents had carried the truth all along \u2014 for the one whom all the giving of the world finally reaches is the one truly blessed. The kings murmured their wonder. Narada, satisfied that the mystery was explained, rose and departed for the region he had wished to reach \u2014 and the storm did not dare return with him.",
+ "reflection": "The delight of the riddle is that every being in creation, asked to name what is greatest, points beyond itself. Humility is the one thing the whole chain shares. And Krishna's odd reply about presents turns the loftiest praise into something warm and human: a god who answers an anthem with a smile about gifts.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Narada",
+  "Krishna",
+  "the assembled kings"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "wisdom",
+  "riddle",
+  "humility of beings"
+ ],
+ "previous_story_id": "DKS_0320",
+ "next_story_id": "DKS_0322",
+ "next_story_tease": "But the peace of Dwaraka would not hold for long: soon the Yadavas would ride out against Bana, whose city burned with a fire that dimmed even Krishna's radiance.",
+ "hero_scene": "Narada, seated on a white golden seat in Krishna's crowded court, one hand raised in explanation, while Krishna smiles from his throne and the assembled kings of the earth lean forward to catch the riddle's answer.",
+ "visual_elements": [
+  "Narada with matted locks and vina, seated on the white golden seat",
+  "Krishna smiling on his golden throne",
+  "the assembled kings of the earth",
+  "the storm clearing beyond the court",
+  "Dwaraka on the ocean shore"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.257",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:20Z",
+  "source_event_id": "evt_0340",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

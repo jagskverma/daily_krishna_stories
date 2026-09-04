@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0071",
+ "title": "A Glance of Nectar",
+ "subtitle": null,
+ "story": "The summer had grown heavy over Vrindavan, the cowherd village where Krishna lived, and the heat lay on everything like a weight. The rains were still far off, and the grass had begun to brown at the edges; only the river still ran cool and inviting. Week after week the hot season wore on without relief, and even the shade at midday lay heavy and still. The heat fell hardest on the ones who could not rest — the cattle, and the boys who watched them, out in the pasture from morning to evening. That day, burning with thirst, they came down together to the bank of the Yamuna. They had drunk from the river a hundred times and never thought twice, for it had always been sweet and clear. They did not know what had come to live in its depths.\n\nThey bent to the water and drank, boys and cattle together, glad of the coolness. The cattle pressed in at the shallows while the boys drank from their cupped hands, and the river took them all in. But the water was no longer what it had been. The venom did its work quickly and completely. One after another they fell — the boys, the cows, the calves — struck down where they stood, and they lay lifeless beside the water they had just drunk. There was no warning, and no one was left standing to raise a cry. The river ran on, bright and untroubled, past the still bodies at its edge.\n\nThen Krishna came and saw them as they lay. He had been somewhere among the groves when the water did its work, and he had come back to the river to find them like this. What had befallen them was, to him, a thing easily undone — with him, power was not a struggle, and mercy was not an effort. He did not touch them, and he did not chant over them. He simply looked: a single glance that showered nectar like rain, and where the poison had reached, life came flowing back. It took no time at all; it took the time of a single look.\n\nThe cowherds stirred and rose, and the cattle climbed to their feet beside them, coming back to themselves at the water's edge as if waking from a sleep that held no dreams. Colour returned to their faces and strength to their limbs, and the terror of what had happened drained away. Memory came back whole — the walk through the parched pasture, the sight of the river, the first cool mouthful — and then nothing, until the light of his looking. The space between the two was simply gone, as though it had never been lived. They looked at one another, then at Krishna standing over them, and understood without being told: this was no ordinary recovery, and no medicine had done it. It was mercy, arriving in a look.\n\nThey made no speeches of thanks. There was nothing to say to a glance that had undone death itself. They only rose from the water's edge where they had fallen and stood there, the river running past them as if nothing at all had happened.",
+ "reflection": "The verses are almost austere, and that is their power: no battle, no incantation, only a look. Krishna's compassion here is effortless, and the cowherds' silent understanding — that they had been raised by grace alone — is the true heart of the episode.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Krishna",
+  "cowherds",
+  "cattle"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "healing",
+  "compassion"
+ ],
+ "previous_story_id": "DKS_0070",
+ "next_story_id": "DKS_0072",
+ "next_story_tease": "And having seen what the venom could do, Krishna turned at last toward the deep pool itself, to put an end to it.",
+ "hero_scene": "Krishna standing over the fallen cowherds and cattle by the water's edge, looking at them with calm, as they stir and rise back to life around him.",
+ "visual_elements": [
+  "Krishna",
+  "fallen cowherds",
+  "cows and calves",
+  "the Yamuna riverbank",
+  "summer heat",
+  "a healing glance",
+  "rising to life",
+  "quiet awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.15.46-51",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:16Z",
+  "source_event_id": "evt_0068",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0342",
+ "title": "Aniruddha Is Brought to Usha and They Unite",
+ "subtitle": null,
+ "story": "Chitralekha left Shonitapura the way a shadow leaves a wall — silently, in the dark, and gone. She carried a painter's skill, a yogini's power, and a secret: the face of the man her friend Usha loved, a face she had painted out of a dream. His name was Aniruddha, the grandson of Krishna, and he lived in Dvaraka, across a distance that would have taken an army a season to cross. Chitralekha crossed it in a single night.\n\nDvaraka lay sleeping beneath the stars. She moved through the great city like a thought, past palaces and gardens and sleeping guards, until she came to the house of Pradyumna's son. There she found him — Aniruddha, the prince of the dream given flesh, asleep on a beautiful couch in his inner chamber, with no one to stand between him and the night. By her yogic power she gathered him up, still sleeping, and carried him back the way she had come. He did not wake. The night did not speak of it. Before dawn the empty chamber of Dvaraka was empty again, and the dream of Shonitapura had begun to come true.\n\nUsha was waiting. When the youth of her dream was carried into her rooms — the dark youth of the painting, real at last — her face lit with joy and all her grieving fell away from her. She received him as a bride receives her groom. She dressed him in the finest garments, wound garlands about him, set sweet scents and incense and lamps burning about him, and placed him in the seat of honor in her chambers. And when he woke, it was not to the roof of his father's house but to the hidden heart of the guarded palace of Bana — and to the girl who had dreamed him.\n\nSo the grandson of Krishna came to live in the innermost rooms of the women's quarters of Shonitapura, and the secret held. The guards of the king stood at every outer gate, and the inner chambers where no man was ever permitted became the safest walls in the city. Day after day passed, and no one perceived it. Usha's love deepened with every sunrise, and Aniruddha — carried sleeping into a strange kingdom — found in that hidden chamber a home and a wife. They lived as two who belong to each other, and neither of them counted the days.\n\nBut Shonitapura was Bana's city, and the walls that kept every other man out could not keep a secret in forever. Somewhere in the palace, eyes were beginning to notice the strangeness of it all — the extra lamp in the inner quarters, the hushed voices, the princess who had stopped grieving for a stranger. The days of the hidden love were numbered, though no one counting them knew it yet.",
+ "reflection": "The most guarded place in the asura city becomes the safest hiding place in it: the secret lives exactly where no one thinks to look, and the guards themselves become its walls. The story's quiet strangeness is that a prince is stolen by love rather than by war — carried across an impossible distance while asleep, and woken to find his life already changed.",
+ "tradition_note": "The Harivamsha tells the journey differently: there, Chitralekha finds Aniruddha awake in Dvaraka, wins his heart with news of Usha, and the two are united in a secret Gandharva marriage. The Bhagavata has her carry the sleeping prince by her yogic power.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Chitralekha",
+  "Aniruddha",
+  "Usha"
+ ],
+ "locations": [
+  "Shonitapura",
+  "Dvaraka"
+ ],
+ "themes": [
+  "magic",
+  "secret love",
+  "abduction"
+ ],
+ "previous_story_id": "DKS_0341",
+ "next_story_id": "DKS_0343",
+ "next_story_tease": "But a secret kept inside Bana's own city could not stay hidden for long.",
+ "hero_scene": "Under a vast night sky, Chitralekha flies above the sea of darkness between the two cities, carrying the sleeping Aniruddha in her arms, his hair and robes streaming in the wind, the towers of Dvaraka fading behind her.",
+ "visual_elements": [
+  "Chitralekha crossing the night sky with the sleeping prince",
+  "Aniruddha asleep on his beautiful couch in Dvaraka",
+  "Usha's face lighting with joy as he is carried in",
+  "garments, garlands, incense and lamps laid out in the inner chamber",
+  "the guarded women's quarters of Bana's palace, secret at its heart"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.62.21-25",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.266",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:51Z",
+  "source_event_id": "evt_0223"
+ },
+ "editorial_status": "unreviewed"
+}

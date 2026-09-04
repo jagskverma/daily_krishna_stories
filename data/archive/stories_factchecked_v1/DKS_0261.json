@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0261",
+ "title": "Mura and His Seven Sons",
+ "subtitle": null,
+ "story": "The conch had done its work. The mountains lay broken, the engines stood silent, the fire was cut and the water parted, the snares hung in severed threads — and in the depths of the waters that girdled the citadel of Pragjyotisha, the city's last guardian opened his eyes.\n\nMura rose from the deep, and the water fell from him in sheets. He had five heads, and all five roared at once — terrible to behold, blazing like the fire that burns at the end of the ages, harsh as the sun of the world's last day. In his hand he swung a trident, and he hurled it at Krishna with all his might: a spear so fierce that no eye could rest on it, flung to end the assault before it could reach the citadel.\n\nKrishna did not so much as move. Two arrows met the trident in mid-air and broke it, the three-pronged weapon splitting apart and falling harmless to the ground.\n\nMura's mace came next, and Krishna shattered it in turn, the great club bursting into a thousand splinters as though it had been made of dry wood. And then Krishna's discus flew, and where it passed the five heads of Mura were cut away, one after another. The guardian who had slept in the waters of Pragjyotisha fell back into them — lifeless, headless, like a mountain whose peaks have been struck off by Indra's thunderbolt. The waters closed over him, and for a moment the citadel was quiet. But the city had seen its defenses fall in a single morning, and the hope it had almost forgotten rose with its guardian's last roar — a hope that did not survive the quiet.\n\nBut Mura had sons. Seven of them: Tamra, Antariksha, Sravana, Vibhavasu, Vasu, Nabhasvan, and Aruna. They had watched their father die, and they came out of the fortress with every weapon they could carry — arrows and swords, maces and spears, javelins and tridents and lances. They came out not as an army but as a family, which is to say they came out with everything they had and held nothing back — and they flung themselves at Krishna in a fury. Seven brothers, driven by grief and rage, loosed all their weapons at once against the one who had slain their father.\n\nKrishna met them as he had met their father. One after another he brought them down, cutting through arms and armor alike, until all seven lay with Mura before the citadel, and Pragjyotisha had no defenders left.\n\nFrom the heights of the citadel, the master of the city watched it all: Krishna upon Garuda, with Satyabhama at his side, blazing like a storm cloud crowned with lightning above the sun. And in his desperation the demon king hurled his last weapon — the sataghni, the hundred-killer — and all his warriors loosed their shafts at once, the whole fury of the city's last stand breaking against the rider on the great bird.\n\nThe hundred-killer flew, and the arrows flew, and when the air cleared the rider was still there — and the citadel's master, watching from behind his walls, knew that nothing he owned could stop what was coming.",
+ "reflection": "Mura's sons come out to avenge their father and are destroyed in the same motion of love and rage; the loyalty that makes them memorable is precisely what kills them. The episode shows resistance falling in layers — guardian, sons, then the king's last weapon — until nothing stands between Krishna and the citadel but the citadel's master.",
+ "tradition_note": null,
+ "content_note": "Contains the slaying of the demon Mura and his seven sons; described with restraint and no gore.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Mura",
+  "the seven sons of Mura",
+  "Satyabhama",
+  "Narakasura"
+ ],
+ "locations": [
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "battle",
+  "demon-slaying",
+  "revenge"
+ ],
+ "previous_story_id": "DKS_0260",
+ "next_story_id": "DKS_0262",
+ "next_story_tease": "Nothing now stood between Krishna and the citadel but Narakasura himself.",
+ "hero_scene": "Mura rising from the waters of Pragjyotisha with his five heads roaring and his trident raised, while Krishna stands unmoved on Garuda with Satyabhama at his side.",
+ "visual_elements": [
+  "Mura rising from the waters with five heads",
+  "the trident broken by two arrows in mid-air",
+  "the discus cutting off Mura's heads",
+  "Mura falling into the waters like a mountain struck by thunderbolt",
+  "the seven sons charging out of the fortress with weapons raised",
+  "the demon king hurling the sataghni from the citadel heights"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.5-14",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:45Z",
+  "source_event_id": "evt_0246"
+ },
+ "editorial_status": "unreviewed"
+}

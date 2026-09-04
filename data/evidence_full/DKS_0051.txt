@@ -1,0 +1,68 @@
+# STORY DKS_0051 — Brahma Praises Krishna and Departs
+
+## Index entry
+title: Brahma Praises Krishna and Departs
+summary: Brahma hymns Krishna's boundless glories, confesses his own arrogance, and returns to his abode after circumambulating the Lord.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Brahma, Krishna
+locations: Vrindavan
+themes: praise, humility
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0063
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 14 | verses 1-41 | confidence 5
+  excerpt: Brahma pours out a long hymn before Krishna, confessing that even he cannot fathom the Lord's power, and, walking three times around him and bowing, departs for his own realm. (rendered from Sanskrit, verse 1-41)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.14 (1-41)
+1. asyāpi deva vapuṣo mad-anugrahasya svecchā-mayasya na tu bhūta-mayasya ko 'pi /
+2. jñāne prayāsam udapāsya namanta eva $ jīvanti san-mukharitāṃ bhavadīya-vārtām &amp;sthāne sthitāḥ śruti-gatāṃ tanu-vāṅ-manobhir % ye prāyaśo 'jita jito 'py asi tais tri-lokyām
+3. śreyaḥ-sṛtiṃ bhaktim udasya te vibho $ kliśyanti ye kevala-bodha-labdhaye &śreyaḥ-sṛtiṃ bhaktim udasya te vibho $ kliśyanti ye kevala-bodha-labdhaye &teṣām asau kleśala eva śiṣyate % nānyad yathā sthūla-tuṣāvaghātinām
+4. pureha bhūman bahavo 'pi yoginas tvad-arpitehā nija-karma-labdhayā /
+5. tathāpi bhūman mahimāguṇasya te viboddhum arhaty amalāntar-ātmabhiḥ /
+6. guṇātmanas te 'pi guṇān vimātuṃ hitāvatīṛnasya ka īśire 'sya /
+7. tat te 'nukampāṃ su-samīkṣamāṇo bhuñjāna evātma-kṛtaṃ vipākam /
+8. paśyeśa me 'nāryam ananta ādye parātmani tvayy api māyi-māyini /
+9. ataḥ kṣamasvācyuta me rajo-bhuvo hy ajānatas tvat-pṛthag-īśa-māninaḥ /
+10. kvāhaṃ tamo-mahad-ahaṃ-kha-carāgni-vār-bhū- $ saṃveṣṭitāṇḍa-ghaṭa-sapta-vitasti-kāyaḥ &amp;kvedṛg-vidhāvigaṇitāṇḍa-parāṇu-caryā- % vātādhva-roma-vivarasya ca te mahitvam
+11. utkṣepaṇaṃ garbha-gatasya pādayoḥ kiṃ kalpate mātur adhokṣajāgase /
+12. jagat-trayāntodadhi-samplavode nārāyaṇasyodara-nābhi-nālāt /
+13. nārāyaṇas tvaṃ na hi sarva-dehinām ātmāsy adhīśākhila-loka-sākṣī /
+14. tac cej jala-sthaṃ tava saj jagad-vapuḥ $ kiṃ me na dṛṣṭaṃ bhagavaṃs tadaiva &amp;kiṃ vā su-dṛṣṭaṃ hṛdi me tadaiva % kiṃ no sapady eva punar vyadarśi
+15. atraiva māyā-dhamanāvatāre hy asya prapañcasya bahiḥ sphuṭasya /
+16. yasya kukṣāv idaṃ sarvaṃ sātmaṃ bhāti yathā tathā /
+17. adyaiva tvad ṛte 'sya kiṃ mama na te māyātvam ādarśitam $ eko 'si prathamaṃ tato vraja-suhṛd-vatsāḥ samastā api &amp;tāvanto 'si catur-bhujās tad akhilaiḥ sākaṃ mayopāsitās % tāvanty eva jaganty abhūs tad amitaṃ brahmādvayaṃ śiṣyate
+18. ajānatāṃ tvat-padavīm anātmany ātmātmanā bhāsi vitatya māyām /
+19. sureṣv ṛṣiṣv īśa tathaiva nṛṣv api tiryakṣu yādaḥsv api te 'janasya /
+20. ko vetti bhūman bhagavan parātman yogeśvarotīr bhavatas tri-lokyām /
+21. tasmād idaṃ jagad aśeṣam asat-svarūpaṃ $ svapnābham asta-dhiṣaṇaṃ puru-duḥkha-duḥkham &amp;tvayy eva nitya-sukha-bodha-tanāv anante % māyāta udyad api yat sad ivāvabhāti
+22. ekas tvam ātmā puruṣaḥ purāṇaḥ satyaḥ svayaṃ-jyotir ananta ādyaḥ /
+23. evaṃ-vidhaṃ tvāṃ sakalātmanām api svātmānam ātmātmatayā vicakṣate /
+24. ātmānam evātmatayāvijānatāṃ tenaiva jātaṃ nikhilaṃ prapañcitam /
+25. ajñāna-saṃjñau bhava-bandha-mokṣau dvau nāma nānyau sta ṛta-jña-bhāvāt /
+26. tvām ātmānaṃ paraṃ matvā param ātmānam eva ca /
+27. antar-bhave 'nanta bhavantam eva hy atat tyajanto mṛgayanti santaḥ /
+28. athāpi te deva padāmbuja-dvaya- prasāda-leśānugṛhīta eva hi /
+29. tad astu me nātha sa bhūri-bhāgo bhave 'tra vānyatra tu vā tiraścām /
+30. aho 'ti-dhanyā vraja-go-ramaṇyaḥ stanyāmṛtaṃ pītam atīva te mudā /
+31. aho bhāgyam aho bhāgyaṃ nanda-gopa-vrajaukasām /
+32. eṣāṃ tu bhāgya-mahimācyuta tāvad āstām $ ekādaśaiva hi vayaṃ bata bhūri-bhāgāḥ &amp;etad-dhṛṣīka-caṣakair asakṛt pibāmaḥ % śarvādayo 'ṅghry-udaja-madhv-amṛtāsavaṃ te
+33. tad bhūri-bhāgyam iha janma kim apy aṭavyāṃ $ yad gokule 'pi katamāṅghri-rajo-'bhiṣekam &tad bhūri-bhāgyam iha janma kim apy aṭavyāṃ $ yad gokule 'pi katamāṅghri-rajo-'bhiṣekam &yaj-jīvitaṃ tu nikhilaṃ bhagavān mukundas % tv adyāpi yat-pada-rajaḥ śruti-mṛgyam eva
+34. eṣāṃ ghoṣa-nivāsinām uta bhavān kiṃ deva rāteti naś $ ceto viśva-phalāt phalaṃ tvad-aparaṃ kutrāpy ayan muhyati &eṣāṃ ghoṣa-nivāsinām uta bhavān kiṃ deva rāteti naś $ ceto viśva-phalāt phalaṃ tvad-aparaṃ kutrāpy ayan muhyati &sad-veṣād iva pūtanāpi sa-kulā tvām eva devāpitā % yad-dhāmārtha-suhṛt-priyātma-tanaya-prāṇāśayās tvat-kṛte
+35. tāvad rāgādayaḥ stenās tāvat kārā-gṛhaṃ gṛham /
+36. prapañcaṃ niṣprapañco 'pi viḍambayasi bhū-tale /
+37. jānanta eva jānantu kiṃ bahūktyā na me prabho /
+38. anujānīhi māṃ kṛṣṇa sarvaṃ tvaṃ vetsi sarva-dṛk /
+39. śrī-kṛṣṇa vṛṣṇi-kula-puṣkara-joṣa-dāyin $ kṣmā-nirjara-dvija-paśūdadhi-vṛddhi-kārin &amp;uddharma-śārvara-hara kṣiti-rākṣasa-dhrug % ā-kalpam ārkam arhan bhagavan namas te
+40. bhp_10.14.041/0 śrī-śuka uvāca
+41. tato 'nujñāpya bhagavān sva-bhuvaṃ prāg avasthitān /
+
+## Corpus chain
+previous_story_id: DKS_0050 | next_story_id: DKS_0052
+previous title: Brahma Is Bewildered and Worships Krishna
+next title: The Boys Resume Their Meal Unaware of the Lost Year

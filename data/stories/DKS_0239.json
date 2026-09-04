@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0239",
+ "title": "Fire Ranging on Grass",
+ "subtitle": "The Sarnga bow answers the Asura host at Shatpura.",
+ "story": "When Krishna set string to the Sarnga bow, the Asuras saw their death approaching — and, being Asuras, they charged straight into it.\n\nAnadhrishti and the other Yadava captains had been swallowed by the cave of Shatpura, taken one by one through the illusion of Nikumbha, the leader of the Danavas. The Yadava army still stood, but its heart lay imprisoned in the mountain. Only one answer was left, and Krishna gave it: he drew the Sarnga and moved among the Danavas.\n\nHe moved as fire ranges over dry grass — not running, not pausing, simply advancing, and everything ahead of him burned. Wherever he stepped, the Danava host found itself standing in the path of a blaze. The Danavas did not understand what they were seeing. To them he was one man with a bow, and they had a mountain's worth of weapons. They seized thousands of spiked clubs and iron maces, fiery lances and burning axes; they tore up great rocks and boulders; they hurled maddened elephants, chariots and horses — and ran at him with all of it, like locusts driven by the noose of Death into a burning fire. The whole arsenal of the mountain came down on Krishna in one tremendous shower.\n\nThe fire of Narayana — Krishna's own fire — consumed it all. The flung weapons, the stones, the elephants, the chariots: everything met the blaze of his arrows and was gone. And Krishna, smiling, baffled them all, standing under the downpour as a bull stands in autumn rain, patient, unhurt, untouched.\n\nThen the host tried to run. Some broke for the sky, rising on whatever dark power they had left, seeking the one direction an army believes is safe: upward, into the open air.\n\nIt was not safe. The sky was not empty. Above the field, hidden where only Krishna could see them, waited Indra's son Jayanta and the brahmana Pravara, called up by a single thought before the battle began. As soon as any Asura rose into the sky, their arrows met him, and he fell. The survivors looked up and understood, too late, that the one direction they had left unguarded was guarded. The sky had become a wall.\n\nCaught between the fire on the ground and the silent archers above, the Danavas had nowhere left to turn. Their numbers, their weapons, their fury — all of it ash in the path of one archer. The plain filled with the wreck of their courage; their roar died into the dust, and the rout that Nikumbha's illusion had postponed came at last, in full.\n\nKrishna lowered the Sarnga. The fire had done its ranging, and the grass was gone. Beyond the smoke stood the cave of Shatpura, still holding its prisoners.\n\nThe battle was won. The cave was not.",
+ "reflection": "The rout has the shape of a parable about fear: the host that charges a burning fire, and the few who escape, are met by the one force they forgot, the sky, where Jayanta and Pravara have waited unseen all along. Krishna's calm throughout, smiling and bearing the shower like a bull in rain, is the story's true wonder.",
+ "tradition_note": null,
+ "content_note": "Battle violence described with restraint; no graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Jayanta",
+  "Pravara",
+  "Asuras",
+  "Nikumbha"
+ ],
+ "locations": [
+  "Shatpura battlefield"
+ ],
+ "themes": [
+  "battle",
+  "divine bow",
+  "rout"
+ ],
+ "previous_story_id": "DKS_0238",
+ "next_story_id": "DKS_0240",
+ "next_story_tease": "The rout was complete, and only the question of what would be done with the conquered city remained.",
+ "hero_scene": "Krishna striding through the Danava host with the Sarnga bow drawn, each arrow bursting into flame as he moves like fire ranging over dry grass, while hurled elephants, chariots and boulders fall harmless around him.",
+ "visual_elements": [
+  "Krishna",
+  "Sarnga bow",
+  "flame-arrows",
+  "Danava host",
+  "hurled elephants and chariots",
+  "fire moving over grass",
+  "smoke and dust"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.231",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:29Z",
+  "source_event_id": "evt_0310",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

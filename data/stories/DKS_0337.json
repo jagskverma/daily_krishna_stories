@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0337",
+ "title": "Pradyumna Slays the Demon Shambara",
+ "subtitle": null,
+ "story": "Years before, the demon Shambara had crept into Dvaraka and carried off a newborn from the room where his mother lay — Pradyumna, the son of Krishna — because a prophecy warned that this child would one day destroy him. Shambara threw the baby into the sea, to be rid of the prophecy. But a great fish swallowed the child and carried him, in the end, to the demon's own house, where Shambara's wife, Mayavati, found him and raised him as her son.\n\nNow that child was a man, and every art the demon trusted had already been turned against him before he knew a battle was coming. The boy he had stolen had grown up under his own roof, and the woman of his own house had armed the man.\n\nWhen Mayavati told Pradyumna the truth of his birth, she gave him more than the truth. She gave him the Maha-vidya — the great science of countering illusion, the one art that could stand against the demon's sorcery. Armed with it, Pradyumna walked out to where Shambara was and called him to battle. He did not come by stealth, the way the demon had once come to Dvaraka; he came in the open, and he came alone.\n\nMayavati did not hold him back. She had raised the boy to this hour — taught him the arts of the demon's own house, kept the truth until he could bear it — and now she let him go.\n\nStung by the young man's harsh words as a serpent is stung by a foot, the demon seized his great mace, whirled it over his head, and hurled it at Pradyumna with all his speed. Pradyumna met the flying mace with a mace of his own and struck it down in mid-air.\n\nShambara fell back on the arts of his kind — the Daitya magic, the old demon-sorcery that the great architect Maya had taught them. He raised a storm of weapons and poured it down on the young warrior: arrows and spears and blazing darts fell like rain. Pradyumna, a great bowman, endured the storm, and the science Mayavati had given him answered every shaft before it could touch him.\n\nAt last the demon cast his grandest illusion. He conjured a hundred shapes of delusion — yakshas and gandharvas, pishachas and rakshasis, serpents and ghouls — spirits and demons of every name, a hundred dreadful forms meant to break the young man's nerve. The palace courtyard filled with howling specters. But the Maha-vidya burned in Pradyumna like a lamp in a dark house, and one by one the illusions showed themselves for what they were: shadows, tricks, the empty theater of the demon's art. The serpents dissolved; the she-demons faded mid-shriek; the yakshas broke apart like smoke. Where the demon expected panic, he found a calm gaze.\n\nPradyumna drew his sword and closed with the demon. The blade came down once, and the crowned head of Shambara fell. The hundred illusions vanished with their master, like mist burned off by morning.\n\nSilence filled the palace of the demon who had lived by trickery. The child stolen as a newborn from his mother's side in Dvaraka stood over the body of his thief — not in the room where the theft had begun, but in the heart of the demon's own home, where a great fish had brought him and a mother's love had raised him. The prophecy Shambara had stolen a baby to bury had kept its word. He had buried his doom in the sea, and the sea had nursed it for him.\n\nAnd with the deed done, Pradyumna turned toward the city of his father. Somewhere across the sea, in a palace he had never entered, a mother was still waiting to see whether the son she had lost could find his way home.",
+ "reflection": "Everything Shambara feared came to pass through his own house: the child he stole was raised in his own palace, schooled in the arts his own wife taught, and returned to fulfill the prophecy that the theft was meant to prevent. The demon who lived by illusion died by the science that sees through illusion.",
+ "tradition_note": "The Vishnu Purana numbers the illusions: Pradyumna foiled seven of the enchanter's delusions, mastered the eighth, and turned it back on Shambara himself.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Shambara",
+  "Mayavati"
+ ],
+ "locations": [
+  "Shambara's palace"
+ ],
+ "themes": [
+  "battle",
+  "illusion",
+  "vengeance"
+ ],
+ "previous_story_id": "DKS_0336",
+ "next_story_id": "DKS_0338",
+ "next_story_tease": "The slaying done, Pradyumna set out for the city of his father — a home he had never seen.",
+ "hero_scene": "In the courtyard of Shambara's palace, Pradyumna raises his sharpened sword against a whirlwind of the demon's conjured forms — towering serpents, yakshas and shadowy rakshasis dissolving into smoke — while Shambara recoils before the blade that is about to fall.",
+ "visual_elements": [
+  "Shambara hurling his great mace at Pradyumna",
+  "Pradyumna striking the mace down with his own",
+  "the rain of arrows and blazing darts from the demon's storm of weapons",
+  "the hundred conjured forms — yakshas, gandharvas, serpents, rakshasis",
+  "the severed crowned head of Shambara falling as the illusions vanish"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.55.15-23",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.27",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:28Z",
+  "source_event_id": "evt_0199",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

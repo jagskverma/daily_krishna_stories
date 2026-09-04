@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0422",
+ "title": "Kunti Pours Out Her Grief",
+ "subtitle": null,
+ "story": "That afternoon Krishna went to the house of his aunt Kunti — the mother of the five Pandava brothers, who were living in the forest while their cousins held the kingdom. Krishna had come straight from her sons, and she had been waiting for him since word of his arrival reached her.\n\nWhen he stood at her door, she could not hold back. She threw her arms around his neck and wept, remembering her sons, and the tears she had held back for months came freely at the sight of him. Only after Krishna had received the rites of hospitality and taken his seat did she speak, her face drawn, her voice choked with tears.\n\nHer sons, she said, had been gentle children. From their earliest years they had waited with reverence on their elders, held together in friendship, mastered both their anger and their joy, and spoken only the truth. Robbed of their kingdom by trickery, they had gone quietly into the forest, though they deserved to live among friends and servants. \"They left their old mother behind,\" she wept, \"and went into the woods. How do they live now, in that deep forest full of lions and tigers and elephants?\"\n\nThey had lost their father as small children, and she had raised them alone. At home they slept in high rooms on soft blankets and deerskin, and woke each morning to the grunt of elephants and the neighing of horses, the clatter of chariot wheels, the music of conches and cymbals, the singing of women and the praise-songs of the bards, with the blessings of priests at dawn. How could sons who woke to such music sleep now in a wilderness that rang with the howls of beasts? The thought was more than she could bear.\n\nThen, one by one, she asked after them, as though the telling might bring them nearer. How was Yudhishthira, her eldest — gentle, golden-skinned, the most learned of the Kurus, bearing without complaint the weight of a kingdom he could not use? How was Bhima, strong as ten thousand elephants and swift as the wind, who had slain the demons Hidimva and Vaka, who fed on men, and the warrior Kichaka besides — terrible in anger, yet quick to obey his elder brother? How was Arjuna, who could loose five hundred arrows in a single stretch, the finest bowman of his age, whose skill men compared to the fabled king Kartavirya's?\n\nKrishna answered her gently. \"What woman in the world is like you?\" he asked. \"You have borne both happiness and sorrow with a patience few can match; bear this waiting too. Your sons are well, and they send you their love through me. The time is coming — sooner than you think — when you will see them again as lords of the whole world, their foe slain and their fortunes restored.\"\n\nThe words were spoken softly, but Kunti knew the man who spoke them. She let her tears fall at last, a little lighter for being spent, for her sons were alive and well, and someone who loved them had come to speak for them.",
+ "reflection": "Kunti's lament is unbearable precisely because it is concrete: she remembers the music her sons woke to and the beds they slept in, and measures their suffering against it. Krishna does not scold her out of her grief; he answers it with a certainty, that her sons will return as lords of the world, consolation grounded in what will come to pass rather than in hope.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "grief",
+  "consolation",
+  "family"
+ ],
+ "previous_story_id": "DKS_0421",
+ "next_story_id": "DKS_0423",
+ "next_story_tease": "That same day Krishna came to Duryodhana's palace, where a feast had been prepared for him.",
+ "hero_scene": "In a dim chamber in Hastinapura, Kunti stands with her arms around Krishna's neck, weeping, her face buried against his shoulder as her tears fall, while Krishna stands still and gentle, receiving her grief.",
+ "visual_elements": [
+  "Kunti throwing her arms around Krishna's neck",
+  "tears streaming down Kunti's face, voice choked",
+  "Krishna seated after the rites of hospitality, listening",
+  "the contrast between the palatial chambers Kunti remembers and the forest she imagines",
+  "Kunti's woe-begone face as Krishna assures her"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.90",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0429",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

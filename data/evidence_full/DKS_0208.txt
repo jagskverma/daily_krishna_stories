@@ -1,0 +1,57 @@
+# STORY DKS_0208 — Krishna Wins Lakshmana at Her Svayamvara
+
+## Index entry
+title: Krishna Wins Lakshmana at Her Svayamvara
+summary: Krishna weds Bhadra, daughter of his aunt, and carries off Lakshmana of Madra from her svayamvara.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Bhadra, Lakshmana
+locations: Dvaraka, Madra
+themes: marriage, alliance
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0234
+variant_notes: bp10d_039 gives Lakshmana's own account (strung a bow, shot the fish target); bp10c_040 bundles her abduction with Bhadra's marriage.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 58 | verses 55-57 | confidence 5
+  excerpt: Krishna wed Bhadra, daughter of his aunt Srutakirti, given by her brothers; and he carried off Lakshmana, the fair daughter of the king of Madra, from her svayamvara like Garuda seizing nectar. (rendered from Sanskrit, verses 55-57)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 83 | verses 16-38 | confidence 5
+  excerpt: Asked by Draupadi how Krishna married them, Lakshmana recounts that her father arranged a svayamvara with a fish target, at which kings from everywhere failed even to string the bow. Krishna took up the bow, strung it effortlessly, and with a single arrow shot the fish, and when the envious kings attacked he cut them down with his arrows and carried Lakshmana to Dwaraka. (rendered from Sanskrit, v
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.58 (55-57)
+55. śrutakīrteḥ sutāṃ bhadrāṃ upayeme pitṛ-ṣvasuḥ /
+56. sutāṃ ca madrādhipater lakṣmaṇāṃ lakṣaṇair yatām /
+57. anyāś caivaṃ-vidhā bhāryāḥ kṛṣṇasyāsan sahasraśaḥ /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.83 (16-38)
+16. bhp_10.83.017/0 śrī-lakṣmaṇovāca
+17. jñātvā mama mataṃ sādhvi pitā duhitṛ-vatsalaḥ /
+18. yathā svayaṃ-vare rājñi matsyaḥ pārthepsayā kṛtaḥ /
+19. śrutvaitat sarvato bhū-pā āyayur mat-pituḥ puram /
+20. pitrā sampūjitāḥ sarve yathā-vīryaṃ yathā-vayaḥ /
+21. ādāya vyasṛjan kecit sajyaṃ kartum anīśvarāḥ /
+22. sajyaṃ kṛtvāpare vīrā māgadhāmbaṣṭha-cedipāḥ /
+23. matsyābhāsaṃ jale vīkṣya jñātvā ca tad-avasthitim /
+24. rājanyeṣu nivṛtteṣu bhagna-māneṣu māniṣu /
+25. tasmin sandhāya viśikhaṃ matsyaṃ vīkṣya sakṛj jale /
+26. divi dundubhayo nedur jaya-śabda-yutā bhuvi /
+27. tad raṅgam āviśam ahaṃ kala-nūpurābhyāṃ $ padbhyāṃ pragṛhya kanakoijvala-ratna-mālām &amp;nūtne nivīya paridhāya ca kauśikāgrye % sa-vrīḍa-hāsa-vadanā kavarī-dhṛta-srak
+28. unnīya vaktram uru-kuntala-kuṇḍala-tviḍ- $ gaṇḍa-sthalaṃ śiśira-hāsa-kaṭākṣa-mokṣaiḥ &unnīya vaktram uru-kuntala-kuṇḍala-tviḍ- $ gaṇḍa-sthalaṃ śiśira-hāsa-kaṭākṣa-mokṣaiḥ &rājño nirīkṣya paritaḥ śanakair murārer % aṃse 'nurakta-hṛdayā nidadhe sva-mālām
+29. tāvan mṛdaṅga-paṭahāḥ śaṅkha-bhery-ānakādayaḥ /
+30. evaṃ vṛte bhagavati mayeśe nṛpa-yūthapāḥ /
+31. māṃ tāvad ratham āropya haya-ratna-catuṣṭayam /
+32. dārukaś codayām āsa kāñcanopaskaraṃ ratham /
+33. te 'nvasajjanta rājanyā niṣeddhuṃ pathi kecana /
+34. te śārṅga-cyuta-bāṇaughaiḥ kṛtta-bāhv-aṅghri-kandharāḥ /
+35. tataḥ purīṃ yadu-patir aty-alaṅkṛtāṃ $ ravi-cchada-dhvaja-paṭa-citra-toraṇām &amp;kuśasthalīṃ divi bhuvi cābhisaṃstutāṃ % samāviśat taraṇir iva sva-ketanam
+36. pitā me pūjayām āsa suhṛt-sambandhi-bāndhavān /
+37. dāsībhiḥ sarva-sampadbhir bhaṭebha-ratha-vājibhiḥ /
+38. ātmārāmasya tasyemā vayaṃ vai gṛha-dāsikāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0207 | next_story_id: DKS_0209
+previous title: Balarama Slays Rukmi at the Dice Game
+next title: The Vrishnis Suspect Krishna of Stealing the Jewel || Hearing of Prasena's death, the Vrishnis and Andhakas suspect Krishna of stealing the Syamantaka; the innocent Krishna resolves to recover it.

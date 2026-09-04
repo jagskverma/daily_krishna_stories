@@ -1,0 +1,44 @@
+# STORY DKS_0501 — Krishna's Final Instruction to Uddhava
+
+## Index entry
+title: Krishna's Final Instruction to Uddhava
+summary: Uddhava recalls how, as the Yadavas destroyed themselves, Krishna sat at the foot of an ashvattha tree and, finding Uddhava there, granted him the ancient teaching and the supreme state, commanding him to go to Badari.
+life_stage: later_life | story_arc: uddhava_and_teachings
+characters: Krishna, Uddhava
+locations: the bank of the Sarasvati, at the foot of an ashvattha tree
+themes: the final teaching, the supreme state, grace
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0508
+variant_notes: The final teaching; cf. Uddhava's departure cluster (bpc1_024).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 4 | verses 2-18 | confidence 5
+  excerpt: Uddhava said: 'The Lord, seeing that course of his own maya, sipped the Sarasvati and sat at the foot of a tree; he said to me, go to Badari. Yet, unable to leave his feet, I followed; and he, finding me there, told me: I know your heart's desire; I grant you what is hard for others to attain. And he taught me the supreme state.' (rendered from Sanskrit, verses 2-10, 18)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.4 (2-18)
+2. bhagavān svātma-māyāyā gatiṃ tām avalokya saḥ /
+3. ahaṃ cokto bhagavatā prapannārti-hareṇa ha /
+4. tathāpi tad-abhipretaṃ jānann aham arindama /
+5. adrākṣam ekam āsīnaṃ vicinvan dayitaṃ patim /
+6. śyāmāvadātaṃ virajaṃ praśāntāruṇa-locanam /
+7. vāma ūrāv adhiśritya dakṣiṇāṅghri-saroruham /
+8. tasmin mahā-bhāgavato dvaipāyana-suhṛt-sakhā /
+9. tasyānuraktasya muner mukundaḥ pramoda-bhāvānata-kandharasya /
+10. bhp_03.04.011/0 śrī-bhagavān uvāca
+11. sa eṣa sādho caramo bhavānām āsāditas te mad-anugraho yat /
+12. purā mayā proktam ajāya nābhye padme niṣaṇṇāya mamādi-sarge /
+13. ity ādṛtoktaḥ paramasya puṃsaḥ pratikṣaṇānugraha-bhājano 'ham /
+14. ko nv īśa te pāda-saroja-bhājāṃ sudurlabho 'rtheṣu caturṣv apīha /
+15. karmāṇy anīhasya bhavo 'bhavasya te durgāśrayo 'thāri-bhayāt palāyanam /
+16. mantreṣu māṃ vā upahūya yat tvam akuṇṭhitākhaṇḍa-sadātma-bodhaḥ /
+17. jñānaṃ paraṃ svātma-rahaḥ-prakāśaṃ provāca kasmai bhagavān samagram /
+18. ity āvedita-hārdāya mahyaṃ sa bhagavān paraḥ /
+
+## Corpus chain
+previous_story_id: DKS_0500 | next_story_id: DKS_0502
+previous title: Arjuna Asks Krishna to Repeat the Gita; Krishna Offers the Anugita
+next title: Krishna Sends Uddhava to Vrindavan

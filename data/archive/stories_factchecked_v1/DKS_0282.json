@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0282",
+ "title": "The Fire That Burned Varanasi",
+ "subtitle": null,
+ "story": "The fire that Sudakshina raised to burn Dwaraka fell instead on Varanasi — and on the man who had conjured it.\n\nKrishna had recently struck down the impostor Paundraka, and with him the king of Kashi, who had sheltered the pretender. The queen and the kin of the fallen king mourned him, and his son Sudakshina performed the rites for his father's passing. But grief was not the only thing in the young prince's heart. When the ceremonies were done, he took his teachers with him and went to worship Shiva at Avimukta, the sacred heart of Kashi. He fasted, he chanted, he pressed his worship upon the Lord of that place with the single-mindedness of a man who has already chosen his request — and he prayed as a man who intends to be answered.\n\nShiva was pleased with him and offered a boon. Sudakshina asked for the southern fire — the fire of black magic, tended by brahmana priests, that would accomplish his purpose against the man he called impious: Krishna of Dwaraka. What he wanted was not wealth or protection but a weapon: a fire that would burn one enemy and spare everything else. The boon was granted. And from the fire pit there rose a demon of living flame.\n\nIt was terrible to look upon, the verses say — fangs set in a face of iron, brows knotted, a tongue that licked out like a serpent's, feet the size of palm trunks that shook the earth with every step. The priests who served that fire stood with Sudakshina and watched it take shape, and their own faces were white. The conjured thing set out across the country, walking toward Dwaraka — not like a beast, but like a purpose: unhurried, straight, and hungry. Everything in its path knew that it meant burning.\n\nIn Dwaraka the citizens saw it from the walls, and their courage failed. They ran through the streets to the assembly hall, where Krishna sat playing dice with his companions, and the cry went up: the fire of black magic is coming. Krishna looked up from the dice. The people of the city were afraid, and the household of Krishna trembled with them.\n\nKrishna, who is witness within and without all things, needed no report. He heard the distress of the people and saw the fear of his own. The Sudarshana discus blazed into being — like ten million suns, like the fire that ends a world — and went to meet the demon.\n\nIt struck the conjured thing and broke it. Its face shattered, the demon turned and fled back along the road it had come — and fell upon the city of its making. It burned Sudakshina and the priests who had raised it, in Varanasi. The black magic consumed its own master.\n\nBut the discus was not finished. It entered Varanasi itself — through the ramparts, past the assembly halls and the markets, along streets that had never known an enemy — and burned the whole city. The city that had been inaccessible even to the gods was wrapped in flames, with all its princes and their followers. Where Varanasi had stood, there was ash and silence.\n\nThose who raise fire for others should consider the wind. Sudakshina had asked for a fire to destroy his enemy, and the fire had destroyed his home, his priests, and himself — and the discus had done in a single night what no army, no god, had ever done to the city he loved.",
+ "reflection": "The story turns on a terrible symmetry: the fire raised for Dwaraka fell on its raiser, and the discus that broke the conjured demon then ended the city that had sent it. A harm intended for another comes home to the one who sets it in motion, and even a city inviolable to the gods could not stand against the power of Vishnu's weapon.",
+ "tradition_note": "The Vishnu Purana tells the same episode without naming the Kashi king's son and gives the whole burning to the discus alone; the Bhagavata Purana names the prince Sudakshina.",
+ "content_note": "A conjured fire-demon and the burning of a city; described with restraint, but may warrant a word of context for younger listeners.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Sudakshina",
+  "Sudarshana"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Varanasi"
+ ],
+ "themes": [
+  "black magic",
+  "divine protection",
+  "destruction"
+ ],
+ "previous_story_id": "DKS_0281",
+ "next_story_id": "DKS_0283",
+ "next_story_tease": "The embers of Varanasi had barely cooled when a new storm gathered far to the north — one that began at a svayamvara in Hastinapura.",
+ "hero_scene": "Krishna's Sudarshana discus, blazing like a million suns, meets the conjured fire-demon in mid-air before the walls of Dwaraka — the demon's fanged face breaking as the discus strikes — while terrified citizens watch from the ramparts.",
+ "visual_elements": [
+  "Krishna",
+  "Sudarshana discus",
+  "the fire-demon",
+  "Sudakshina",
+  "Dwaraka",
+  "Varanasi",
+  "flames",
+  "terror",
+  "destruction"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.66.25-42",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.34",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:41Z",
+  "source_event_id": "evt_0233"
+ },
+ "editorial_status": "unreviewed"
+}

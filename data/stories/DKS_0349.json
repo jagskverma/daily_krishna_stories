@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0349",
+ "title": "A Family Too Vast to Count",
+ "subtitle": null,
+ "story": "Who could count the Yadavas? In Dwaraka, the golden city by the sea, Krishna's family was too vast for anyone to number — not even the old book that tells his story. It begins with the man at the center of the count: Krishna, a householder in the truest sense, the keeper of the home-fire.\n\nThen the book turns to his queens, and the counting fails almost at once. Sixteen thousand and more than a hundred queens made their home in Dwaraka. Eight of them an earlier passage names as the chief among the jewel-women, Rukmini at their head; the rest move through the account as a crowd. On every one of these queens Krishna fathered ten sons. The arithmetic alone runs past a hundred and sixty thousand — more sons than any father could know by face, more than any court could hold.\n\nAmong so many, a few names rise to the surface: Pradyumna, who carried the war to Shalva's illusions and to Bana's city; Aniruddha, who had been stolen away as a boy and brought home again; Samba; Diptiman; Bhanu; Pushkara; Vedabahu; Shrutadeva; Sunandana. Behind even the named ones stretched a line no one could number. No one born into this family was poor, and no one had only a few children; the men of the line of Yadu were famous for their deeds. Where the old reckoning attempts a total, the number runs into the tens of millions — and even then the counting is not done, and the book stops and asks its question once more: who could count the Yadavas?\n\nThrough the middle of that great family ran the line of the firstborn. Pradyumna married the daughter of Rukmi, and their son Aniruddha married Rukmi's granddaughter — the same house joined twice over, as if to bind the line with a double knot. From Aniruddha came Pratibahu, and from Pratibahu came Subahu, names that trail off into a line too long to follow. But one name from this line the book holds up like a seed: Vajra, the grandson of Pradyumna through Aniruddha, who alone would survive the destruction by the mace — those last days of Dwaraka, when the houses of the Yadavas turned their own weapons upon one another and left the whole unnumbered family to a single thread.\n\nAnd why such a family at all? The book offers its reason quietly. In the long war between the gods and the demons, the terrible demon-lords had been slain; to hold such forces in check, the gods themselves, the book says, took birth in the line of Yadu. Hari — Krishna himself — stood among them as their measure and their master, the one against whom the whole line was weighed.\n\nHaving said all this, the book turns from counting to the smallest of records: how Krishna slept and sat, walked and spoke, played and bathed among his own family. After millions upon millions, the truest measure of the man turns out to be an ordinary day in the middle of it all — a householder at the home-fire, exactly where the account began.",
+ "reflection": "The passage counts what cannot be counted and then stops to ask who could — the unnumbered family becomes the sign of the divine's entanglement with human history, gods taking birth in Yadu's line to hold the demons in check. Against that ocean of names, the single survivor, Vajra, stands out as the whole continuity reduced to one thread.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Pradyumna",
+  "Aniruddha",
+  "Vajra",
+  "Rukmini"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "lineage",
+  "progeny",
+  "continuity"
+ ],
+ "previous_story_id": "DKS_0348",
+ "next_story_id": "DKS_0350",
+ "next_story_tease": "Before the counting, there was the beginning: Dwaraka's founding days, and Balarama's marriage to Revati.",
+ "hero_scene": "In the great courtyard of Dwaraka, Krishna sits among his queens and sons — the gathered thousands of the Yadu house stretching out of sight, Rukmini at his side and children at his knees.",
+ "visual_elements": [
+  "the queens of Dwaraka in their thousands, eight chief among them with Rukmini at their head",
+  "Krishna among his sons, Pradyumna and Aniruddha at the fore",
+  "the chain of the firstborn: Pradyumna, Aniruddha, Pratibahu, Subahu, and the seed-name Vajra",
+  "an uncountable crowd of Yadavas filling the courtyards and streets",
+  "Krishna at the simplest domestic acts among his family"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.90.28-45",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:55:52Z",
+  "source_event_id": "evt_0500",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

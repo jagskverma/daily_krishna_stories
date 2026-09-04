@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0358",
+ "title": "The Suta Who Would Not Rise",
+ "subtitle": null,
+ "story": "The talk in Dwaraka had turned to the coming war — the Kurus and the Pandavas, two branches of one royal family, sharpening blades against each other — and Balarama, the elder brother of Krishna, who had no taste for what was coming, went walking.\n\nHe was a pilgrim in those days. He bathed at Prabhasa, and made his offerings to the gods, the seers and the ancestors. He visited the holy waters one after another — Prithudaka, Bindu-saras, Tritakupa, Sudarshana — and the tirthas — the holy bathing places — strung along the Yamuna and the Ganga like beads on a thread. At last he came to the forest of Naimisha, where the sages were holding a long sacrifice, a satra that ran on season after season.\n\nThe sages saw him coming and rose to meet him, every one of them, like a field of grass bending to the wind. They honored him, seated him with his company, and made him welcome among them. It was then that Balarama's eyes found the one man in that whole assembly who had not risen.\n\nHe was a suta — a bard, of the charioteer line rather than the priestly line — and he sat among the brahmanas, the priests and scholars of the rite, on a seat of honor, unmoving. He had not stirred when Balarama arrived. He had not offered the folded hands of greeting. His name was Romaharshana, and the long sacrifice had made him great: he had been a pupil of the blessed seer Vyasa himself, and he had learned much, and he sat there full of his learning, in the seat the sages had given him, and rose for no one.\n\nBalarama looked at him, and the anger came up like a tide. A suta — however learned, however honored — seated above the brahmanas, refusing to rise in their own sacrifice, before the very sages who had raised him. Untamed, undisciplined, vainly proud of his scholarship. Balarama spoke so that all could hear: \"This is the very purpose for which I was born into this world.\" He bent and plucked one blade of kusha grass — the sacred grass used in their rites — from the earth, charged it with his power, and struck the suta down.\n\nRomaharshana fell, and did not rise.\n\nThen the cry went up — \"Ha! Ha!\" — a sound of grief that ran through the forest like wind through dry leaves. The sages came crowding around the fallen man, and they turned to Balarama with faces he had not expected. Not anger. Grief, and dismay. \"O prince of the Yadus,\" they said, \"we ourselves gave him this seat. It was we who raised him to the brahmana's seat; it was our gift that made him what he was. What you have done, you have done without knowledge. You have slain a brahmana. This is brahma-hatya — the killing of a brahmana — and there is no heavier sin.\"\n\nBalarama stood over the man he had struck down and heard them. He had been certain — he had said so aloud, that this was the very purpose of his birth. And the sages, who had honored him to his face, told him that in that single stroke, done without knowledge, he had committed the one sin that stains even the stain-removers.\n\n\"If there is any purifier of this sin,\" they said, \"O purifier of the worlds, tell us — and we will show you the way to it.\"\n\nThe forest was quiet. The long sacrifice had stopped. Balarama, who had come to Naimisha for peace and for purity, stood in the middle of it over the body of a man he had been certain it was right to kill — and heard, from the mouths of the sages, that the certainty itself had been his error.",
+ "reflection": "The episode keeps two judgments alive at once: Balarama sees a suta who will not rise, while the sages see a brahmana they themselves raised up. What is striking is that the slaying is called \"done without knowledge\" — the sin is real, yet the certainty that produced it was the error. Even the purifier of worlds can act from ignorance, and must be purified in turn.",
+ "tradition_note": null,
+ "content_note": "Mild violence: a man is struck dead (with a blade of grass, no gore). The episode turns on caste and honor, and the sages themselves dispute the act.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Romaharshana",
+  "the Naimisha sages"
+ ],
+ "locations": [
+  "Naimisha forest"
+ ],
+ "themes": [
+  "transgression",
+  "consequence",
+  "caste honor"
+ ],
+ "previous_story_id": "DKS_0357",
+ "next_story_id": "DKS_0359",
+ "next_story_tease": "The sages would show him the penance for his unwitting sin — and it began with a demon who defiled their sacrifice.",
+ "hero_scene": "In the Naimisha forest, among the gathered sages, Balarama holds a single blade of kusha grass as the suta Romaharshana lies struck down at his feet and the sages cry out with grief around them.",
+ "visual_elements": [
+  "Balarama bathing at Prabhasa and visiting the tirthas of the Yamuna and Ganga",
+  "the sages rising to honor Balarama at the long sacrifice in Naimisha forest",
+  "the suta Romaharshana seated on the seat of honor among the brahmanas, not rising",
+  "Balarama holding a single blade of kusha grass, anger on his face",
+  "Romaharshana struck down, the sages crowding around with cries of grief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.78.15-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0272",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

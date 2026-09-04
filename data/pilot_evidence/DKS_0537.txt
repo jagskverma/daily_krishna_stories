@@ -1,0 +1,44 @@
+# STORY DKS_0537 — Bhrigu Tests the Three Gods
+
+## Index entry
+title: Bhrigu Tests the Three Gods
+summary: Sent by the sages to test who is greatest, Bhrigu finds Brahma and Shiva angered, but Vishnu, far from being offended, apologizes and serves him, proving Vishnu supreme.
+life_stage: other | story_arc: other
+characters: Bhrigu, Brahma, Shiva, Vishnu
+locations: Brahmaloka, Kailasa, Vaikuntha
+themes: supremacy, forbearance, test
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0524
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 89 | verses 1-18 | confidence 5
+  excerpt: To settle which of the three gods is greatest, the sages send Bhrigu; Brahma grows angry at Bhrigu's disrespect but restrains himself, and Shiva raises his trident to slay him till the goddess intervenes. Vishnu, however, on being kicked in the chest by Bhrigu, rises and apologizes, asking the sage to forgive him — and Bhrigu, moved, declares Vishnu alone the abode of peace and fearlessness. (rend
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.89 (1-18)
+1. tasya jijñāsayā te vai bhṛguṃ brahma-sutaṃ nṛpa /
+2. na tasmai prahvaṇaṃ stotraṃ cakre sattva-parīkṣayā /
+3. sa ātmany utthitam manyum ātmajāyātmanā prabhuḥ /
+4. tataḥ kailāsam agamat sa taṃ devo maheśvaraḥ /
+5. naicchat tvam asy utpatha-ga iti devaś cukopa ha /
+6. patitvā pādayor devī sāntvayām āsa taṃ girā /
+7. śayānaṃ śriya utsaṅge padā vakṣasy atāḍayat /
+8. sva-talpād avaruhyātha nanāma śirasā munim /
+9. punīhi saha-lokaṃ māṃ loka-pālāṃś ca mad-gatān /
+10. adyāhaṃ bhagavaṃl lakṣmyā āsam ekānta-bhājanam /
+11. bhp_10.89.012/0 śrī-śuka uvāca
+12. punaś ca satram āvrajya munīnāṃ brahma-vādinām /
+13. tan niśamyātha munayo vismitā mukta-saṃśayāḥ /
+14. dharmaḥ sākṣād yato jñānaṃ vairāgyaṃ ca tad-anvitam /
+15. munīnāṃ nyasta-daṇḍānāṃ śāntānāṃ sama-cetasām /
+16. sattvaṃ yasya priyā mūrtir brāhmaṇās tv iṣṭa-devatāḥ /
+17. tri-vidhākṛtayas tasya rākṣasā asurāḥ surāḥ /
+18. bhp_10.89.019/0 śrī-śuka uvāca
+
+## Pilot chain
+previous_story_id: DKS_0530 | next_story_id: None
+previous title: The Hunter Jara Shoots Krishna's Foot

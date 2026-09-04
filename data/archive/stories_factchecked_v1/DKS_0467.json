@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0467",
+ "title": "A Chariot for Satyaki",
+ "subtitle": "Krishna lends his own car to the Satwata hero",
+ "story": "Some gifts are given a day before they are needed, and only the giver knows why.\n\nThe afternoon of that battle had turned on the death of the ruler of the Sindhus. Karna, unable to bear the slaughter of Bhurisravas, had rushed toward Arjuna, and Satyaki, with the two Panchala princes, had rushed to meet him. Arjuna had wanted to drive into the fight himself; Krishna had held him back, speaking of the blazing dart that Karna kept for him. Then the field had taken its own course: the Satwata hero closed with the son of Radha, and the duel began.\n\nWhat Krishna knew, he had known since before the encounter began. Janardana knows both the past and the future, and in his heart he had already seen what was coming: the heroic Satyaki would be vanquished in that fight. It was not that Krishna doubted the Satwata hero — only that morning, when Arjuna had wanted to charge into the fight himself, Krishna had said that the mighty-armed Satyaki was singly a match for Karna. But being a match was not the same as winning; the blazing dart that Karna carried changed every reckoning, and Krishna had done the only thing that could not be argued with.\n\nAnd so, beforehand, he had done a strange thing. The blast of his conch had carried over the camp, and when his charioteer Daruka came, Krishna had commanded him: \"Let my car be kept equipped tomorrow.\"\n\nDaruka had obeyed. While the armies slept, the great car stood ready — the car that resembled the blazing fire or the sun in effulgence, the car of the friend of the Pandavas, harnessed and gleaming, its armor in place and its banners furled, waiting for a morning no one else had seen coming.\n\nNow the hour Krishna had foreseen arrived. Satyaki's fight against Karna went against him, as it had always been going to; the Satwata hero was pressed and vanquished, his own car unable to save him. And then, across the field, came the car that had been readied for this moment: Krishna's own celestial car, guided by Daruka, blazing like fire, like the sun. With Krishna's permission, Satyaki mounted it.\n\nThink of what that meant on a battlefield where every chariot was a fortress: the friend of the Pandavas, who had driven Arjuna through the wars, handing over his own car — the one he rode in, the one whose rattle the Kauravas had learned to fear — to a warrior who was not even one of the five brothers. He did not ask what Satyaki had done to deserve it. He had seen the fight coming, and he had prepared for it while the armies slept, quietly, as if help were the most ordinary thing in the world.\n\nSatyaki, upon that blazing car guided by Daruka, turned again toward Karna. And the son of Radha, who had come to settle the account of Bhurisravas, found himself facing not the failing car of a tired warrior, but the car of the charioteer of the Pandavas himself, driven by Krishna's own hands' servant, gleaming like the sun over the field.\n\nKrishna watched him go — the warrior he had armed with his own hands, in his own car, with his own driver. It was the kind of help that cannot be returned: not a weapon given, but the chariot itself, and with it the knowledge that someone had seen the danger coming long before and had already made the road ready.",
+ "reflection": "The gift is prepared before the need appears — the car readied and equipped while the armies slept — because Krishna knows the future without needing to see it. It is the quietest kind of divine aid: help that was already on the road, so that when Satyaki's hour came, help and need arrived together.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Satyaki",
+  "Daruka",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "divine aid",
+  "comradeship",
+  "foreknowledge"
+ ],
+ "previous_story_id": "DKS_0466",
+ "next_story_id": "DKS_0468",
+ "next_story_tease": "That night, when the field fell quiet, Krishna would embrace Arjuna and praise him before the army.",
+ "hero_scene": "Krishna's celestial car, blazing like the sun and guided by Daruka, sweeps across the field to the hard-pressed Satyaki, who mounts it with Krishna's permission while Karna's chariot approaches in the distance.",
+ "visual_elements": [
+  "Satyaki and the two Panchala princes rushing to meet Karna's chariot",
+  "Krishna summoning Daruka with the blast of his conch",
+  "Daruka keeping the great car equipped through the night, its armor in place and banners furled",
+  "the blazing, sun-like celestial car crossing the field guided by Daruka",
+  "Satyaki mounting Krishna's car with permission",
+  "Karna's chariot approaching the newly armed Satwata hero"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.146",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:23:00Z",
+  "source_event_id": "evt_0461"
+ },
+ "editorial_status": "unreviewed"
+}

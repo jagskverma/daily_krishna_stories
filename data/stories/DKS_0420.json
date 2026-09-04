@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0420",
+ "title": "Duryodhana Resolves to Imprison Krishna",
+ "subtitle": "Bhishma Departs in Anger",
+ "story": "The debate over Krishna's welcome had barely settled when Duryodhana rose, and to the surprise of the hall he agreed with Vidura on one point alone: that Krishna could never be separated from the Pandavas.\n\n\"All that Vidura has said about Krishna is truly said,\" Duryodhana declared. \"Krishna is devoted to the Pandavas and can never be torn from them. So let no wealth be bestowed on him. He is not unworthy of our worship, of course — but this is neither the time nor the place for it. If we honour him now, he will only think we worship him out of fear, and no warrior who respects himself brings such disgrace upon his own head. Krishna deserves the reverence of the three worlds. But war has been decided, and war should never be put off by hospitality. Give him nothing.\"\n\nThen Bhishma, the grandsire of the Kuru house, answered in his deep old voice. \"Worshipped or not worshipped, Krishna never becomes angry,\" he said. \"But no one may treat him with disrespect, for he is not a man to be slighted. Whatever he sets his mind to, no one can frustrate, by any means, with all his power. Do without hesitation what Krishna of the mighty arms advises, and bring about peace with the Pandavas through him. He has a virtuous soul, and he will speak only what is right and profitable. So answer him, with all your friends, only with what is agreeable to him.\"\n\nDuryodhana's answer came like a blow. \"Grandsire, I cannot by any means live sharing this swelling prosperity of mine with the Pandavas. Listen — this is the great resolution I have formed. I will imprison Krishna, who is the refuge of the Pandavas. He comes here tomorrow morning, and once he is confined, the Vrishnis, Krishna's own clan, and the Pandavas — aye, the whole earth — will submit to me. Tell me how it may be done, so that Krishna does not guess our purpose and no danger overtakes us.\"\n\nA silence fell over the hall. Even Dhritarashtra, who had yielded to his son in so much, recoiled. At the fearful words about imprisoning Krishna, the king and all his counsellors were deeply pained. \"Never say such a thing again,\" he said to Duryodhana. \"This is not the ancient custom. Krishna comes to us as an ambassador. He is our kin, dear to us, and he has done us no wrong. How then does he deserve imprisonment?\"\n\nBut the old king's protest only released the older man's wrath. Bhishma rose from his seat. \"This wicked son of yours has his hour upon him, Dhritarashtra,\" he said. \"Set before good and evil, he chooses evil, though his own well-wishers beg him otherwise — and you follow in the wake of this wicked wretch, treading the thorny path, setting at naught the words of every friend. This son of yours, with all his counsellors, will come into contact with Krishna of unstained acts and be destroyed in a moment. I will not listen to the words of this sinful wretch who has abandoned all virtue.\"\n\nAnd having said this, the aged chief of the Bharata race, blazing with anger, rose and left the hall — the assembly staring after him, the blind king stricken, the prince unmoved. And the plan to imprison the ambassador stood in the middle of the hall, like a storm that had not yet broken.",
+ "reflection": "Duryodhana's resolution turns diplomacy into a siege: he will imprison the ambassador who came to make peace, confident that holding one man will bend the whole earth. Bhishma's rage is the measure of the folly — he walks out rather than listen, naming the ruin he already sees coming.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Bhishma",
+  "Dhritarashtra"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "plot",
+  "imprisonment",
+  "foreshadowing"
+ ],
+ "previous_story_id": "DKS_0419",
+ "next_story_id": "DKS_0421",
+ "next_story_tease": "At dawn, Krishna would enter Hastinapura and walk into the middle of that broken council to meet Dhritarashtra.",
+ "hero_scene": "Bhishma, tall and white-bearded, rises in rage from the Kuru assembly and turns his back on Duryodhana, who sits flushed and defiant, while Dhritarashtra bows his head in pain.",
+ "visual_elements": [
+  "Duryodhana declaring his resolution before the assembly",
+  "Bhishma rising in rage from his seat",
+  "Dhritarashtra stricken and pained on the throne",
+  "the counsellors in stunned silence",
+  "the Kuru court of Hastinapura",
+  "defiance and foreboding, a storm gathering"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.88",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0427",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

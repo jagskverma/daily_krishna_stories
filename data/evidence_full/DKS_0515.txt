@@ -1,0 +1,83 @@
+# STORY DKS_0515 — The Miserly Brahmin of Avanti
+
+## Index entry
+title: The Miserly Brahmin of Avanti
+summary: A wealthy but miserly brahmin of Avanti, spurned by his own relatives and stripped of his wealth, is seized with dispassion, becomes a wandering mendicant, and, enduring the mockery and blows of the crowd, sings the song of the mendicant: the mind alone is the cause of joy and sorrow.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the Avanti brahmin, the townspeople
+locations: Avanti, roads and villages
+themes: greed, renunciation, forbearance, the mind
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0535
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 23 | verses 5-60 | confidence 5
+  excerpt: The brahmin of Avanti, once wealthy, miserly and cruel, saw his wealth taken by relatives and thieves; dispassion arose, and he became a silent, wandering mendicant. Though people seized his staff, mocked and struck him, he sang: 'Neither people, nor gods, nor fate are the cause of my joy and sorrow — it is the mind alone that turns the wheel of existence.' (rendered from Sanskrit, verses 5-11, 41
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.23 (5-60)
+5. avantiṣu dvijaḥ kaścid āsīd āḍhyatamaḥ śriyā /
+6. jñātayo 'tithayas tasya vāṅ-mātreṇāpi nārcitāḥ /
+7. duhśīlasya kadaryasya druhyante putra-bāndhavāḥ /
+8. tasyaivaṃ yakṣa-vittasya cyutasyobhaya-lokataḥ /
+9. tad-avadhyāna-visrasta- puṇya-skandhasya bhūri-da /
+10. jñātyo jagṛhuḥ kiñcit kiñcid dasyava uddhava /
+11. sa evaṃ draviṇe naṣṭe dharma-kāma-vivarjitaḥ /
+12. tasyaivaṃ dhyāyato dīrghaṃ naṣṭa-rāyas tapasvinaḥ /
+13. sa cāhedam aho kaṣṭaṃ vṛthātmā me 'nutāpitaḥ /
+14. prāyeṇāthāḥ kadaryāṇāṃ na sukhāya kadācana /
+15. yaśo yaśasvināṃ śuddhaṃ ślāghyā ye guṇināṃ guṇāḥ /
+16. arthasya sādhane siddhe utkarṣe rakṣaṇe vyaye /
+17. steyaṃ hiṃsānṛtaṃ dambhaḥ kāmaḥ krodhaḥ smayo madaḥ /
+18. ete pañcadaśānarthā hy artha-mūlā matā nṛṇām /
+19. bhidyante bhrātaro dārāḥ pitaraḥ suhṛdas tathā /
+20. arthenālpīyasā hy ete saṃrabdhā dīpta-manyavaḥ /
+21. labdhvā janmāmara-prārthyaṃ mānuṣyaṃ tad dvijāgryatām /
+22. svargāpavargayor dvāraṃ prāpya lokam imaṃ pumān /
+23. devarṣi-pitṛ-bhūtāni jñātīn bandhūṃś ca bhāginaḥ /
+24. vyarthayārthehayā vittaṃ pramattasya vayo balam /
+25. kasmāt saṅkliśyate vidvān vyarthayārthehayāsakṛt /
+26. kiṃ dhanair dhana-dair vā kiṃ kāmair vā kāma-dair uta /
+27. nūnaṃ me bhagavāṃs tuṣṭaḥ sarva-deva-mayo hariḥ /
+28. so 'haṃ kālāvaśeṣeṇa śoṣayiṣye 'ṅgam ātmanaḥ /
+29. tatra mām anumoderan devās tri-bhuvaneśvarāḥ /
+30. bhp_11.23.031/0 śrī-bhagavān uvāca
+31. sa cacāra mahīm etāṃ saṃyatātmendriyānilaḥ /
+32. taṃ vai pravayasaṃ bhikṣum avadhūtam asaj-janāḥ /
+33. kecit tri-veṇuṃ jagṛhur eke pātraṃ kamaṇḍalum /
+34. annaṃ ca bhaikṣya-sampannaṃ bhuñjānasya sarit-taṭe /
+35. yata-vācaṃ vācayanti tāḍayanti na vakti cet /
+36. kṣipanty eke 'vajānanta eṣa dharma-dhvajaḥ śaṭhaḥ /
+37. aho eṣa mahā-sāro dhṛtimān giri-rāḍ iva /
+38. ity eke vihasanty enam eke durvātayanti ca /
+39. evaṃ sa bhautikaṃ duḥkhaṃ daivikaṃ daihikaṃ ca yat /
+40. paribhūta imāṃ gāthām agāyata narādhamaiḥ /
+41. bhp_11.23.042/0 dvija uvāca
+42. mano guṇān vai sṛjate balīyas tataś ca karmāṇi vilakṣaṇāni /
+43. anīha ātmā manasā samīhatā hiraṇ-mayo mat-sakha udvicaṣṭe /
+44. dānaṃ sva-dharmo niyamo yamaś ca śrutaṃ ca karmāṇi ca sad-vratāni /
+45. samāhitaṃ yasya manaḥ praśāntaṃ dānādibhiḥ kiṃ vada tasya kṛtyam /
+46. mano-vaśe 'nye hy abhavan sma devā manaś ca nānyasya vaśaṃ sameti /
+47. tam durjayaṃ śatrum asahya-vegam arun-tudaṃ tan na vijitya kecit /
+48. dehaṃ mano-mātram imaṃ gṛhītvā mamāham ity andha-dhiyo manuṣyāḥ /
+49. janas tu hetuḥ sukha-duḥkhayoś cet kim ātmanaś cātra hi bhaumayos tat /
+50. duḥkhasya hetur yadi devatās tu kim ātmanas tatra vikārayos tat /
+51. ātmā yadi syāt sukha-duḥkha-hetuḥ kim anyatas tatra nija-svabhāvaḥ /
+52. grahā nimittaṃ sukha-duḥkhayoś cet kim ātmano 'jasya janasya te vai /
+53. karmāstu hetuḥ sukha-duḥkhayoś cet kim ātmanas tad dhi jaḍājaḍatve /
+54. kālas tu hetuḥ sukha-duḥkhayoś cet kim ātmanas tatra tad-ātmako 'sau /
+55. na kenacit kvāpi kathañcanāsya dvandvoparāgaḥ parataḥ parasya /
+56. etāṃ sa āsthāya parātma-niṣṭhām adhyāsitāṃ pūrvatamair maharṣibhiḥ /
+57. bhp_11.23.058/0 śrī-bhagavān uvāca
+58. sukha-duḥkha-prado nānyaḥ puruṣasyātma-vibhramaḥ /
+59. tasmāt sarvātmanā tāta nigṛhāṇa mano dhiyā /
+60. ya etāṃ bhikṣuṇā gītāṃ brahma-niṣṭhāṃ samāhitaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0514 | next_story_id: DKS_0516
+previous title: The Swan Teaches the Kumaras
+next title: Pururava's Lament for Urvashi

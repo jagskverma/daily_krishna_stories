@@ -1,0 +1,118 @@
+# STORY DKS_0035 — Krishna Uproots the Twin Arjuna Trees (Named Damodara)
+
+## Index entry
+title: Krishna Uproots the Twin Arjuna Trees (Named Damodara)
+summary: Dragging the mortar to which he is tied, the crawling Krishna passes between the two trees and uproots them.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna
+locations: Gokula
+themes: liberation, divine_strength
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0050
+variant_notes: HV/VP fold in the mortar-binding beat.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 10 | verses 23-26 | confidence 5
+  excerpt: Pulling the mortar after him, Krishna passes between the two arjuna trees and, with a single tug, brings them crashing down. (rendered from Sanskrit, verse 23-26)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 62 | verses  | confidence 4
+  excerpt: Placing that mortar between the two trees he began to drag it... those two Arjuna trees were uprooted with their roots and branches... From that day in which he was bound with the rope Krishna was called Damodara.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 6 | verses  | confidence 4
+  excerpt: Fastening a cord round his waist, she tied him to the wooden mortar... the lotus-eyed Krishńa... pulled the mortar after him to the space between two Arjuna trees... and as Krishńa pulled it through, it pulled down the trunks of the trees... It is hence that Krishńa is called Dámodara.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.10 (23-26)
+23. ṛṣer bhāgavata-mukhyasya satyaṃ kartuṃ vaco hariḥ /
+24. devarṣir me priyatamo yad imau dhanadātmajau /
+25. ity antareṇārjunayoḥ kṛṣṇas tu yamayor yayau /
+26. bālena niṣkarṣayatānvag ulūkhalaṃ tad $ dāmodareṇa tarasotkalitāṅghri-bandhau &amp;niṣpetatuḥ parama-vikramitātivepa- % skandha-pravāla-viṭapau kṛta-caṇḍa-śabdau
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.62 ()
+TITLE: THE CHILDISH FREAKS OF KRISHNA
+
+Vaishampayana said:—As time went on those two boys, named Krishna and
+Sangkarshana, began to crawl on their legs. Those two beautiful boys,
+resembling the rising sun, the same person in two bodies, as if turned
+out by one mould, began to assume the same form, to lie down on the same
+bed, to live on the same food, and to put on the same dress. They thus
+sported there like boys (1–3). Those two great energies, identical with
+the witness of the worlds, although of one body, assumed two human forms
+for the destruction of the demons and for accomplishing the only great
+work of the resuscitation of sacrifices. Although they were the
+protectors of the entire universe they were born, for this, as cow-herds
+(4-5). While they sported there they appeared like the sun and moon in
+the sky possessed by each other’s rays (6). Going every where, they,
+having arms like serpents, appeared like two proud young elephants
+covered with dust (7). And sometimes with their persons pasted with
+ashes and powdered cow-dung they shone like two princes of fire (8).
+Sometimes they used to walk on knees and enter cow-sheds and used to
+sport there with their persons and hairs covered with cow-dung (9).
+Sometimes committing mischiefs to the inhabitants of Vraja those two
+boys used to create the delight of their sire with their laughing (10).
+Those two beautiful boys, of moon-like countenances, used to appear more
+charming when filled with curiosity and their locks disturbing their
+eyes (11). They grew exceedingly playful and naughty and used to walk
+all over Vraja. And Nanda could not (by any means) check them (12). One
+day Yasoda, worked up with anger, brought the lotus-eyed Krishna near
+the carriage. And fastening a rope round his waist and tying it to a
+mortar she repeatedly remonstrating with him, said "Go, if you are
+capable of doing it." Saying this she engaged in her work (13–14). When
+Yashodā was engaged in her household works, Krishna, with a view to
+surprise the inhabitants of Vraja and play, issued out of the courtyard
+(15).
+
+Going out of the courtyard with that mortar Krishna went to the forest
+where the huge trees Yamala and Arjuna were (16). Placing that mortar
+between the two trees he began to drag it. For his thus dragging it the
+mortar was firmly fixed at the root of the trees. He then began to drag
+the trees Arjuna and Yamala. Being thus drawn by him with great force
+those two Arjuna trees were uprooted with their roots and branches. In
+order to show this to the milk-men the Lord, resorting to his heavenly
+strength, began to laugh there. That rope, by his power, became stronger
+(17-19). The milk-women, who were then going to the bank of the river
+Yamunā, saw the child in that condition and were filled with wonder. And
+weepingly they approached Yashodā (20). The women, with sorry faces,
+said to her:—"Tarry not a moment, O Yashodā and come with us quickly
+(21). The two huge trees, that are being worshipped as gods on account
+of their granting objects of desire, have fallen on your son (22). Being
+bound by a rope like a calf under the belly (of the cow) your boy is
+laughing between the two trees (23). Get up and go, O foolish woman. You
+think you are wise but you are stupid. Your son is alive as if he has
+been released from the mouth of Death" (14).
+
+(Hearing this) she was stricken with fear and began to bewail. She then
+went where the two trees were uprooted (25). She saw there her child
+placed between the two trees with the rope round his waist and dragging
+the mortar (26). All the milk-men and women, aged or youthful, of Vraja
+went there quickly to witness this wonderful scene (27). Those milk-men,
+who range in the forest, began to speak amongst themselves "Who has
+uprooted these two huge trees as if forming the extent of our village
+(28)? There is no storm, no rain, no fall of thunderbolt and no mischief
+created by elephants. Then why have these two trees, all on a sudden,
+fallen down (29)? Alas! being felled down on the ground these two trees
+are shorn of beauty like clouds divested of water. O Nanda, these two
+Arjuna trees are very favourably disposed towards you and bent upon
+doing you good. Although they are huge they have fallen in such a way
+saving your child that his body has not been wounded in the least
+(30–31). Before this Putanā had been slain and the carriage broken. And
+this uprooting of the trees is the third portend in Vraja (32). It is
+not meet for the milkmen to live any longer in this village, for these
+portends do not auger well" (33).
+
+Thereupon releasing the lotus-eyed Krishna from the mortar, taking him
+up on his lap and looking at him again and again as if he had returned
+from the land of the dead Nanda could not attain to the consummation of
+happiness. Remonstrating then with Yashoda, he, followed by all
+milk-men, returned to Vraja (34–35). From that day in which he was bound
+with the rope Krishna was called _Dāmodara_ by all the milk-men of that
+village (36).
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0034 | next_story_id: DKS_0036
+previous title: Yasoda Binds Krishna to the Mortar
+next title: The Two Devotees Are Liberated from the Trees
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

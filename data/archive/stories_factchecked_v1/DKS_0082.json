@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0082",
+ "title": "Krishna Argues for Worshipping Govardhana Hill",
+ "subtitle": null,
+ "story": "Krishna listened to his father's answer, and then he spoke, and what he said overturned a custom as old as the rains.\n\nHe began where everything, in his telling, begins and ends: with what a person does. A being is born by its own actions, he said, and by its own actions it comes to its end. Joy and sorrow, fear and safety, all of it is reached through what one has done. And if there is some lord who hands out the fruits of other people's deeds, that lord only follows the one who acts; he has no power over one who has done nothing. So what need, he asked, is there of Indra here, when every creature is simply walking the road its own nature has laid down?\n\nThe cows, he said, were the point. Look at how this village lives. They are not cultivators tied to a plot of soil, not merchants counting their goods. Among the ways a man may earn his bread, tilling and trading and tending cattle and lending, theirs has always been the cattle. The herd is their whole wealth and their whole work, and the herd does not live on Indra's favour. It lives on grass and water and the shelter of the hills.\n\nThe clouds do pour down rain, he allowed, but not because a king in heaven commands them. It is nature itself, the restless force the texts call rajas, that drives the clouds to rain in every direction, and by that rain the creatures thrive. What, then, has the great Indra to do with it?\n\nAnd there was more. What is a cowherd's god? A man should honour the very thing by which he lives, for whoever thrives by one thing and bows to another finds no security in it; whoever is helped by one and worships another, he said, meets calamity both in this world and in the next. He said it plainly, with an image the villagers would not forget, comparing such a man to a faithless woman who leaves her own home for strangers and in the end keeps nothing. We have no cities, he reminded them, no towns, no walled houses. We are people of the forest, and we have always lived among forests and hills. Then let the hills be honoured, and the cows that feed us, and the brahmins who bless us. Let the sacrifice be for them.\n\nHe told them exactly how to do it. Let them take the very offerings they had gathered for Indra, the grain and the milk and the fuel and the gifts, and give them instead to the hill. Let them cook the rich dishes and the milk-rice. Let the brahmins feed the fires. Let food be given to every guest, even the lowliest, and fodder to the cows, and the oblation to the hill itself. Then, washed and dressed and fed, let them walk in a circle around the cows and the brahmins and the fire and the mountain.\n\n\"This is my thought, father,\" he said. \"Do it, if it pleases you. This sacrifice, to the cows, the brahmins, and the hills, is dear to me.\"\n\nThe text is candid about what he was doing. He was the Lord of time itself, and he had set out to break Indra's pride. But he did not say that to Nanda. He spoke of grass and rain and the shape of a cowherd's life, and he made it sound like the plainest common sense in the world.\n\nAnd so it must have seemed to the men who heard him, because they agreed to do exactly as he said.",
+ "reflection": "Krishna's argument is striking because he does not attack ritual itself. He redirects it to the things that actually sustain the cowherds, grass and water and the hill and the herd, and asks them to honour the source of their own living rather than a distant king of heaven.",
+ "tradition_note": "The Harivamsha (1.70) and the Vishnu Purana (5.10) give the same argument in nearly the same words, the cowherds reasoning that cattle are their livelihood and the forest their home, so the cow, the mountain, and the forest should receive the offering rather than Indra.",
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Krishna",
+  "Nanda"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "karma",
+  "devotion",
+  "challenge to Indra"
+ ],
+ "previous_story_id": "DKS_0081",
+ "next_story_id": "DKS_0083",
+ "next_story_tease": "And so the cowherds took the offerings meant for Indra and carried them to the hill, where something wonderful was waiting for them.",
+ "hero_scene": "Krishna speaking earnestly to the cowherd elders, gesturing toward Govardhana hill and the grazing cattle, arguing that the hill and the cows, not Indra, deserve the sacrifice.",
+ "visual_elements": [
+  "Krishna speaking with conviction",
+  "Nanda and the cowherd elders listening",
+  "Govardhana hill",
+  "grazing cattle",
+  "forest and pasture",
+  "offerings gathered for the sacrifice",
+  "reason and quiet certainty"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.24.12-29",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.70",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.10",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:06:08Z",
+  "source_event_id": "evt_0093"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

@@ -1,0 +1,103 @@
+# STORY DKS_0375 — Krishna Vows the Earth Shall Drink the Blood of the Pandavas' Foes
+
+## Index entry
+title: Krishna Vows the Earth Shall Drink the Blood of the Pandavas' Foes
+summary: Visiting the exiled Pandavas in the forest, an enraged Krishna vows that the earth shall drink the blood of Duryodhana, Karna, Dussasana and Sakuni, and that Yudhishthira will be reinstalled on the throne.
+life_stage: pandava_period | story_arc: pandava_friendship
+characters: Krishna, Yudhishthira, Duryodhana, Karna
+locations: Kamyaka forest
+themes: vow, righteous-wrath, justice, friendship
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0402
+variant_notes: Forest-visit vow; parallel to pre-war vow in mb_b_001/mb_b_002.
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 3 | chapter/section 12 | verses  | confidence 4
+  excerpt: Kesava mournfully said, 'The earth shall drink the blood of Duryodhana and Karna, of Dussasana and the wicked Sakuni! Slaying these in battle and defeating their followers along with their royal allies, will we all install Yudhishthira the just on the throne! The wicked deserve to be slain! Verily, this is eternal morality.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 3.12 ()
+(Arjunabhigamana Parva)
+
+Vaisampayana said, ‘Hearing that the Pandavas had been banished, the
+Bhojas, the Vrishnis, and the Andhakas went to those heroes residing in
+affliction in the great forest. And the consanguineous relatives of
+Panchala, and Dhrishtaketu the king of Chedi, and those celebrated and
+powerful brothers--the Kaikeyas, their hearts fired with wrath, went to
+the forest to see the sons of Pritha. And reproaching the sons of
+Dhritarashtra, they said, ‘What should we do?’ And those bulls of the
+Kshatriya race, with Vasudeva at their head, sat themselves down round
+Yudhishthira the just. And respectfully saluting that foremost of the
+Kurus, Kesava mournfully said, ‘The earth shall drink the blood of
+Duryodhana and Karna, of Dussasana and the wicked Sakuni! Slaying these
+in battle and defeating their followers along with their royal allies,
+will we all install Yudhishthira the just on the throne! The wicked
+deserve to be slain! Verily, this is eternal morality.’
+
+Vaisampayana continued, ‘And when on account of the wrongs of Pritha’s
+sons, Janardana had thus got into a passion, and seemed bent upon
+consuming all created things, Arjuna exerted himself to pacify him. And
+beholding Kesava angry, Falguna began to recite the feats achieved in his
+former lives by that soul of all things, himself immeasurable, the
+eternal one, of infinite energy, the lord of Prajapati himself, the
+supreme ruler of the worlds, Vishnu of profound wisdom!’
+
+“Arjuna said, ‘In days of old, thou, O Krishna, hadst wandered on the
+Gandhamadana mountains for ten thousand years as a Muni having his home
+where evening fell! Living upon water alone, thou hadst, in days of old,
+O Krishna, also dwelt for full eleven thousand years by the lake of
+Pushkara! And, O slayer of Madhu, with arms upraised and standing on one
+leg, thou hadst passed a hundred years on the high hills of Vadari,[16]
+living all the while upon air! And leaving aside thy upper garment, with
+body emaciated and looking like a bundle of veins, thou hadst lived on
+the banks of the Saraswati, employed in thy sacrifice extending for
+twelve years! And, O Krishna of mighty energy, in observance of thy vow
+thou hadst stood on one leg for the length of a thousand years of the
+celestials, on the plains of Prabhasa which it behoveth the virtuous to
+visit! Vyasa hath told me that thou art the cause of the creation and its
+course! And, O Kesava, the lord of Kshetra,[17] thou art the mover of all
+minds, and the beginning and end of all things! All asceticism resteth in
+thee, and thou too art the embodiment of all sacrifices, and the eternal
+one! Slaying the Asura Naraka, offspring of the Earth-first begotten,
+thou hadst obtained his ear-rings, and performed, O Krishna, the first
+horse-sacrifice (offering up that Asura as the sacrificial horse)! And, O
+bull of all the worlds, having performed that feat, thou hast become
+victorious over all! Thou hadst slain all the Daityas and Danavas
+mustered in battle, and giving the lord of Sachi (Indra) the sovereignty
+of the universe, thou hast, O Kesava of mighty arms, taken thy birth
+among men! O slayer of all foes, having floated on the primordial waters,
+thou subsequently becamest Hari,[18] and Brahma and Surya and Dharma, and
+Dhatri and Yama and Anala and Vasu, and Vaisravana, and Rudra, and Kala
+and the firmament the earth, and the ten directions! Thyself increate,
+thou art the lord of the mobile and the immobile universe, the Creator of
+all, O thou foremost of all existences! And, O slayer of Madhu, O thou of
+abundant energy, in the forest of Chitraratha thou didst, O Krishna,
+gratify with thy sacrifice the chief of all the gods, the highest of the
+high! O Janardana, at each sacrifice thou didst offer, according to
+shares, gold by hundreds and thousands. And, O son of the Yadava race,
+becoming the son of Aditi, O exalted one of the supreme attributes, thou
+hast been known as the younger brother of Indra! And, O thou chastiser of
+foes, even while a child thou didst, O Krishna, in consequence of thy
+energy, fill by three steps only the heaven, the firmament, and the
+earth! And, O thou soul of all covering the heaven and the firmament
+(while thou wert thus transformed), thou didst dwell in the body of the
+sun and afflict him with thy own splendour! And, O exalted one, in thy
+incarnations on those thousand occasions, thou hadst slain, O Krishna,
+sinful Asuras by hundreds! By destroying the Mauravas and the Pashas, and
+slaying Nisunda and Naraka. Thou hast again rendered safe the road to
+Pragjyotisha! Thou hast slain Ahvriti at Jaruthi, and Kratha and Sisupala
+with his adherents, and Jarasandha and Saivya and Satadhanwan! And on thy
+car roaring like unto clouds and effulgent like the sun, thou didst
+obtain for thy queen the daughter of Bhoja, defeating Rukmi in battle!
+Thou didst in fury slay Indradyumna and the Yavana called Kaseruman! And
+slaying Salwa the lord of Saubha, thou didst destroy that city of Saubha
+itself! These have all been s
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0374 | next_story_id: DKS_0376
+previous title: Agni, in Brahman Disguise, Seeks Krishna and Arjuna's Help to Burn Khandava
+next title: Arjuna Pacifies the Wrathful Krishna

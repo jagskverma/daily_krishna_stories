@@ -1,0 +1,30 @@
+# STORY DKS_0217 — Satyabhama Reports Her Father's Murder || Satyabhama finds her father slain, and hastens to Hastinapura to tell Krishna, who laments with Balarama.
+
+## Index entry
+title: Satyabhama Reports Her Father's Murder || Satyabhama finds her father slain, and hastens to Hastinapura to tell Krishna, who laments with Balarama.
+summary: Satyabhama finds her father slain, and hastens to Hastinapura to tell Krishna, who laments with Balarama.
+life_stage: dwaraka | story_arc: syamantaka_jewel
+characters: Satyabhama, Krishna, Balarama
+locations: Dvaraka, Hastinapura
+themes: grief, duty, family
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0243
+variant_notes: Cross-ref: Satadhanva cluster (bp10c_032/hv_a_007).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 57 | verses 6-8 | confidence 5
+  excerpt: Satyabhama, seeing her father killed, wailed 'father, father, I am slain'; she laid his body in a vat of oil and went to Hastinapura to tell Krishna, who, hearing it, wept with Balarama. (rendered from Sanskrit, verses 6-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.57 (6-8)
+6. satyabhāmā ca pitaraṃ hataṃ vīkṣya śucārpitā /
+7. taila-droṇyāṃ mṛtaṃ prāsya jagāma gajasāhvayam /
+8. tad ākarṇyeśvarau rājann anusṛtya nṛ-lokatām /
+
+## Corpus chain
+previous_story_id: DKS_0216 | next_story_id: DKS_0218
+previous title: Satadhanva Murders Satrajit for the Jewel
+next title: Krishna Pursues and Slays Satadhanva

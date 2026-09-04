@@ -1,0 +1,33 @@
+# STORY DKS_0092 — Krishna Steals the Gopis' Clothes
+
+## Index entry
+title: Krishna Steals the Gopis' Clothes
+summary: Krishna carries off the gopis' garments as they bathe, climbs a kadamba tree, and teasingly bids them come and take them back.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Yamuna river
+themes: playfulness, modesty, sport
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0085
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 22 | verses 6-11 | confidence 5
+  excerpt: While the gopis bathe, Krishna gathers up their clothes, climbs a kadamba tree, and, laughing, tells them to come and receive their garments one by one. (rendered from Sanskrit, verse 6-11)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.22 (6-11)
+6. nadyāḥ kadācid āgatya tīre nikṣipya pūrva-vat /
+7. bhagavāṃs tad abhipretya kṛṣno yogeśvareśvaraḥ /
+8. tāsāṃ vāsāṃsy upādāya nīpam āruhya satvaraḥ /
+9. atrāgatyābalāḥ kāmaṃ svaṃ svaṃ vāsaḥ pragṛhyatām /
+10. na mayodita-pūrvaṃ vā anṛtaṃ tad ime viduḥ /
+11. tasya tat kṣvelitaṃ dṛṣṭvā gopyaḥ prema-pariplutāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0091 | next_story_id: DKS_0093
+previous title: The Gopis Perform the Katyayani Vow
+next title: Krishna Returns the Clothes and Blesses the Gopis

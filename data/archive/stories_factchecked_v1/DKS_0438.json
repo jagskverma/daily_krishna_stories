@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0438",
+ "title": "Vidula's Rebuke: Rise, O Coward",
+ "subtitle": null,
+ "story": "Kunti had not finished with Krishna. When he had received her charge for Yudhishthira, she drew him into an older story — the tale of a mother who would not let her son lie defeated.\n\n\"In this connection, O chastiser of foes, is cited an old story of the conversation between Vidula and her son,\" she said. \"It behoveth thee to say unto Yudhishthira anything that can be gathered from this, or anything more beneficial than that.\"\n\nThere was a high-born dame of great foresight named Vidula. She was famous, slightly wrathful, of crooked disposition, and devoted to Kshatriya virtues. Well educated, she was known to all the kings of the earth, and she had listened to the speeches and instructions of teachers of diverse minds. One day the princess Vidula rebuked her own son — who, after his defeat by the king of the Sindhus, lay prostrate, his heart depressed with despair.\n\nHer first words were chosen to cut. \"Thou art not my son, O enhancer of the joys of foes. Begotten thou hast not been by myself and thy father! Whence hast thou come? Without wrath as thou art, thou canst not be counted as a man. Thy features betray thee to be a eunuch. Sinkest thou in despair as long as thou livest? If thou art desirous of thy own welfare, bear the burden of thy affairs on thy shoulders. Do not disgrace thy soul. Do not suffer it to be gratified with a little. Set thy heart on thy welfare, and be not afraid. Abandon thy fears. Rise, O coward. Do not lie down thus after thy defeat, delighting all thy foes and grieving thy friends, reft of all sense of honour.\"\n\nThen the rebuke turned to proverb-making, and the proverbs were fierce. Little streams are filled with only a quantity of water; the palms of a mouse are filled with only a small quantity. A coward is soon gratified with acquisitions that are small. \"Rather perish in plucking the fangs of a snake than die miserable like a dog. Put forth thy prowess even at the risk of thy life. Like a hawk that fearlessly rangeth the sky, do thou also wander fearlessly, or put forth thy prowess, or silently watch thy foes for an opportunity.\"\n\n\"Why dost thou lie down like a carcass, or like one smitten by thunder? Rise, O coward; do not slumber after having been vanquished by the foe. Do not disappear from the sight of all so miserably. Make thyself known by thy deeds. Never occupy the intermediate, the low, or the lowest station. Blaze up like a well-fed fire. Like a brand of Tinduka wood, blaze up even for a moment, but never smoulder from desire, like a flameless fire of paddy chaff. It is better to blaze up for a moment than smoke for ever and ever.\"\n\nShe spoke of what a royal son owes his race. \"Let no son be born in a royal race who is either exceedingly fierce or exceedingly mild. Repairing to the field of battle and achieving every great feat that is possible for man to achieve, a brave man is freed from the debt he oweth to the duties of the Kshatriya order. Such a person never disgraceth his own self. Whether he gaineth his object or not, he that is possessed of sense never indulgeth in grief.\"\n\n\"If fall and sink one must, he should seize the foe by the hips and fall with the foe. Even if one's roots are cut off, he should not yet give way to despair. Horses of high mettle put forth all their prowess for dragging or bearing heavy weights. Remembering their behaviour, muster all thy strength and sense of honour. Know also in what thy manliness consists. Exert thyself in raising that race which hath sunk in consequence of thee.\"\n\nAnd the naming of what a coward is became almost unbearable. \"He that hath not achieved a great feat forming the subject of men's conversation only increaseth the number of population. He is neither man nor woman. He whose fame is not founded in respect of charity, asceticism, truth, learning and acquisition of wealth is only his mother's excreta.\" The idle, wretched profession of mendicancy, worthy only of a coward, was not for him; friends find no happiness in the weak man at whose sight foes are delighted.\n\n\"Alas,\" Vidula cried at last, \"exiled from our kingdom, driven from home, deprived of all means of enjoyment and pleasure, destitute of resources, we shall have to perish from want of the very means of life! Misbehaving in the midst of those that are good, and the destroyer of thy race and family — by bringing thee forth, O Sanjaya, I have brought forth Kali himself in the shape of a son. Oh, let no woman bring forth such a son as thou, without wrath, without exertion, without energy, the joy of foes. Do not smoulder. Blaze thou up, effectively displaying thy prowess.\"\n\nSo the tale ended, and Kunti looked at Krishna. The message for Yudhishthira was plain: a mother's love, when her son has been defeated, may take the shape of a fury that will not let him lie down. If Vidula could say such things of her own Sanjaya, the Pandavas' mother expected Krishna to repeat them all.",
+ "reflection": "Kunti chooses, as her exemplar for Yudhishthira, a mother shaming her own defeated son — the harshest form of love. Vidula's fury is never cruel for its own sake: every insult is an argument that the son still owes his race the effort of rising, and that the coward's quiet is a kind of death already chosen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti",
+  "Vidula",
+  "Sanjaya"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "courage",
+  "exhortation",
+  "war"
+ ],
+ "previous_story_id": "DKS_0437",
+ "next_story_id": "DKS_0439",
+ "next_story_tease": "Before Krishna left, Kunti had parting words for every one of her sons.",
+ "hero_scene": "Vidula stands over her defeated son Sanjaya, one arm thrust out, commanding him to rise from the ground where he lies prostrate in despair.",
+ "visual_elements": [
+  "Vidula standing over the prostrate Sanjaya",
+  "her outstretched, commanding arm",
+  "the defeated son lying with his face turned away",
+  "the quiet chamber where Kunti tells the tale to Krishna",
+  "the image of the hawk ranging the sky fearlessly"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.133",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:58Z",
+  "source_event_id": "evt_0445"
+ },
+ "editorial_status": "unreviewed"
+}

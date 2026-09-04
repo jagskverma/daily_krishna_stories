@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0182",
+ "title": "The Disguise Cast Off",
+ "subtitle": "Krishna names himself and his companions, and Jarasandha chooses his opponent.",
+ "story": "Jarasandha, the king of Magadha, had given his word to the three strangers in his hall: ask, and it is yours — even my head. He was a king whose open hand was famous in every land, and he meant every word. What he did not know was that the three brahmanas were Krishna and his cousins Bhima and Arjuna, come in disguise from the country of the Kurus; and what they meant to ask of him was not alms.\n\nNow the moment had come to say what they had crossed half the world to ask. Give us battle, said Krishna. That is our request. If you think fit, let it be single combat, man to man — we are not suppliants for grain or gold. We are warriors, and we have come desiring war, and nothing else.\n\nAnd because the time for masks was over, he went on and named them, one by one, in the king's own hall. This man is Bhima, a son of Pandu — and this is his brother Arjuna. And know me: I am Krishna, their cousin, and your enemy.\n\nHe spoke the names the way a host introduces his guests at a feast, and in that hall the courtesy died. These were not three wandering brahmanas who had come to test a king's charity. These were the men who had crossed his lands, walked through his gate, and stood in his hall to tell him they had come to fight him. And Krishna did not soften it. You have brought the warrior kings of the world here as captives, he said — kings of every country your armies reached — and you keep them to offer in sacrifice to Rudra, the fierce god. The slaughter of human beings as an offering to the gods was never seen among the virtuous. Set those kings free — or make your own journey to Yama, king of the dead.\n\nJarasandha threw back his head and laughed aloud. It was not a small laugh, and it was not kind. He answered that he could not recollect ever having wronged the three; that even searching his memory he found no injury done to them. A warrior king, he said, does not imprison a king who has not first been vanquished in fair war. Every man in his prison had been beaten in battle before he was chained — that was the law of his order, to bring others under his power by strength and then hold them. And if he were to free them now because three men came to his door and asked, what would remain of the duty he had kept all his life? Then he turned on Krishna, and his words went for the throat.\n\nI will not fight you, he said. You are a coward. When the pressure came, you abandoned your own city of Mathura and fled to the sea — you hid yourself in the salt water and called it a kingdom. Your valor fails you in the field; there is no honor in crossing blades with a man who ran from his own capital. You are not worth my mace.\n\nBut the other two he measured differently. Arjuna, he judged, would not be a fighter for him — not his match. Bhima, though: Bhima was his equal in years and his equal in strength. That was the one he wanted, the fight that would mean something. So the king of Magadha made his choice. He had a great mace brought and handed it to Bhima, took a second mace for himself, and without another word walked out of his hall and through his city gates, down to the level ground outside the walls where kings settled such accounts.\n\nBhima followed him. Behind them came Krishna and Arjuna, and behind them, gathering as word spread through the streets, came the city of Girivraja itself — to see the strongest man in Magadha meet the man who had come for his prisoners, with nothing left between them but the duel.",
+ "reflection": "Jarasandha's taunt — that Krishna fled Mathura and hid by the sea — is the insult of a man who measures courage only by what he would do himself. Krishna does not answer it; he has already answered it by walking into Girivraja disguised, which is the kind of nerve that gets a man inside an enemy's gates without losing a single soldier.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Bhima",
+  "Arjuna",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Girivraja"
+ ],
+ "themes": [
+  "challenge",
+  "insult",
+  "honor"
+ ],
+ "previous_story_id": "DKS_0181",
+ "next_story_id": "DKS_0183",
+ "next_story_tease": "Outside the city gates the ground was open, and the two champions took their places.",
+ "hero_scene": "In Jarasandha's hall, Krishna casts off the brahmana's guise and names himself with Bhima and Arjuna; Jarasandha laughs aloud, then presses a great mace into Bhima's hands and takes a second for himself as the hall falls silent around them.",
+ "visual_elements": [
+  "Krishna revealing himself in Jarasandha's hall",
+  "Bhima and Arjuna standing with him",
+  "Jarasandha laughing",
+  "the two great maces",
+  "the hall of Girivraja",
+  "the open dueling ground outside the city gates"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.72.27-32",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.22",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:20Z",
+  "source_event_id": "evt_0011",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

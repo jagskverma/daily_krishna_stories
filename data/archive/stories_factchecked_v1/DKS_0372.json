@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0372",
+ "title": "Birth Rites for Abhimanyu",
+ "subtitle": null,
+ "story": "The rites of infancy are a family's quiet business, but for the son Subhadra bore at Indraprastha, they were performed by Krishna's own hands. He had come to the city with all the pomp of the Vrishni host — Balarama and Akrura and Uddhava, Satyaka and Kritavarman, his own sons and brothers, a great company of heroes riding in with nuptial presents, their coming made festival by streets swept and watered and decked with floral wreaths, sprinkled with cool, fragrant sandalwood water. And when the celebration was over, he stayed. The high-souled Vasudeva remained there with Arjuna in the delightful city, and the two friends were in no hurry to part.\n\nThe palace was still learning its own harmony, for it had not always been easy. When Arjuna first brought Subhadra home, Draupadi had met him with the sharpness of a woman who feels her place taken. \"Why do you tarry here, son of Kunti?\" she had asked. \"Go where the daughter of the Satwata race is! A second tie always relaxes the first one upon a faggot.\" Arjuna had pacified her and asked her forgiveness, and Subhadra, sent into the inner apartments not as a queen but in the simple garb of a cowherd woman, had gone straight to Draupadi and bowed. \"I am thy maid,\" she said. Draupadi herself had risen and embraced her — the sister of Madhava — and blessed the marriage: \"Let thy husband be without a foe!\" From that time, the text says, the household had lived happily, and Kunti also became very happy.\n\nNow the household was growing. Subhadra, the favourite sister of Kesava, gave birth to an illustrious son. The news ran through Indraprastha, and among all who came to see the child, none was awaited more eagerly than his mother's brother. The son that Subhadra brought forth was called Abhimanyu, and from the first hour the child's name was spoken with pride in both houses — the name of the Yadavas' own blood now running in the line of the Pandavas.\n\nUpon his birth, Krishna performed the usual rites of infancy. It was the plainest of services — the ceremonies that welcome a child into the world, mark his naming, and set the first blessing on his days — and Krishna performed them himself, as an uncle does who loves a child before the child can know him. No vision was seen and no miracle recorded; the passage simply tells that the rites were done, and the child began to grow up like the Moon of the bright fortnight.\n\nAnd the child grew dear to Krishna. The boy who would one day be remembered as a warrior of the Pandavas was, in those first years, simply his uncle's joy — a brightening in the palace that no one could miss, growing night by night as the moon grows, without haste and without shadow. Indraprastha had many splendours in those days — the wealth of the new capital, the court of the five brothers, the friendship between the Yadavas and the sons of Pandu — but this small one was watched over most closely of all. In the boy's laughter, in his first steps, in the way he reached for his uncle, the two houses that had joined at Subhadra's wedding were joined again, in the most ordinary and lasting way.\n\nKrishna lingered in the city through the child's earliest years, and when at last he spoke of returning to Dwaraka, the parting was a real one. He left behind a sister happy in her new home, a friend in Arjuna, and a nephew whose first rites had been performed by his own hand — a bond that would be remembered every time the boy's name was spoken in the years to come.",
+ "reflection": "The rites are performed without spectacle — no prophecy, no miracle — and that is the point: Krishna gives the child the most ordinary of services, the welcome a family gives a new life. The story's devotion lives in the uncle's plain attendance, not in any display.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Subhadra",
+  "Abhimanyu"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "kinship",
+  "family",
+  "affection"
+ ],
+ "previous_story_id": "DKS_0371",
+ "next_story_id": "DKS_0373",
+ "next_story_tease": "That summer, Krishna was still at Indraprastha when Arjuna proposed an outing to the banks of the Yamuna.",
+ "hero_scene": "In the lamplit inner chambers of the Indraprastha palace, the newborn Abhimanyu lies on Subhadra's lap while Krishna bends over him performing the rites of infancy, Arjuna watching from the doorway as the household gathers in quiet celebration.",
+ "visual_elements": [
+  "newborn Abhimanyu on Subhadra's lap",
+  "Krishna performing the rites of infancy",
+  "Arjuna watching from the doorway",
+  "the inner chambers of the Indraprastha palace",
+  "lamplight and quiet celebration",
+  "the household gathering"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.223",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:00Z",
+  "source_event_id": "evt_0387"
+ },
+ "editorial_status": "unreviewed"
+}

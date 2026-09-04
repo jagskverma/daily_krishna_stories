@@ -1,0 +1,70 @@
+{
+ "id": "DKS_0207",
+ "title": "The Dice Game at Bhojakata",
+ "subtitle": null,
+ "story": "The wedding of Aniruddha, Krishna's grandson, to Rukmi's granddaughter had gone off in perfect peace — which was remarkable, because Rukmi had spent years as Krishna's enemy. He had sworn to destroy the man who carried off his sister Rukmini, and had been defeated instead; the defeat had never sat well with him. But for the sake of his daughter and his granddaughter he had swallowed the old grievance, and the two families had feasted together in his city of Bhojakata as if there had never been a quarrel.\n\nThen the ceremony was over, and the kings fell to sport.\n\nIt was the Kalinga king who first saw the opportunity. Balarama, Krishna's elder brother, loved a game of dice and played it like a cowherd — which, the gathered kings reminded one another with smiles, was exactly what he was. Rukmi was an expert at the game. So a word passed among them — the king of Ashmaka, Rukmi's own son Shrutarva, Chanura, Kratha, Anshuman, Jayatsena, and half a dozen princes of the Deccan — and they urged Rukmi to sit down with Krishna's brother and teach him the difference between a plow and a pair of dice.\n\nThe hall was a beautiful one, with golden pillars and a floor strewn with flowers and sprinkled with sandal water, and the kings took their golden seats. Balarama joined them gladly, saying he was only sporting, and the dice were shaken out. The wagers climbed — a hundred coins, a thousand, ten thousand — until Rukmi set a stake of a hundred thousand, and Balarama matched it, and lost.\n\nAnger rose in Balarama like the sea at high tide, and he mastered it. He offered one last wager: everything he owned, on a single throw. Rukmi played false even on that throw — yet when the dice came to rest, they had fallen Balarama's way.\n\nThen a voice spoke from the sky, clear enough for the whole hall to hear: the stake had been won by Balarama, and by Balarama alone.\n\nRukmi, stung to the heart, refused to hear it. Urged on by the very kings who had set the trap, he stood up and jeered at the guest he had just feasted. \"Cowherds who live in the forest,\" he said, \"know nothing of dice.\" The kings laughed with him, and the Kalinga king laughed loudest of all, showing every tooth.\n\nThen the laughter stopped.\n\nBalarama rose from his seat. He seized the Kalinga king where he sat and dashed him to the floor, and the teeth that had gleamed in that laugh were knocked from his mouth. The kings who had mocked him he struck down where they stood, one after another, until the flower-strewn hall was littered with the fallen. And Rukmi — the author of it all, the man who had staked his honor on a rigged game — Balarama struck down dead with his iron club.\n\nIn the sudden silence, Krishna said nothing — neither good nor ill of it. The dead man was Rukmini's brother, and there was no word he could speak that would not wound her. He said nothing then, and that silence was remembered longer than any word spoken at the feast.\n\nThe wedding party gathered itself and left Bhojakata the same night, Aniruddha and his bride placed in the best of the chariots, the long road to Dwaraka stretching ahead of them. Behind them the gaming hall stood empty among the marriage garlands — the place where a family had made peace, and a game of dice had unmade it.",
+ "reflection": "Rukmi is destroyed not by the dice but by the taunt: the game was lost, the voice from the sky had named the winner, and one sneer about cowherds turned a defeat into a funeral. The wedding that was meant to heal the family's old wound reopens it — and Krishna's silence, out of care for Rukmini, is the most telling detail in the scene.",
+ "tradition_note": "The Bhagavata says Balarama killed Rukmi with his iron club; the Vishnu Purana instead says he struck him dead with the very board the game was played on. Both agree a heavenly voice declared Balarama the true winner, and the Harivamsha adds that the Kalinga king's teeth were knocked out.",
+ "content_note": "Contains violence: Balarama kills Rukmi and injures the other kings at a dice game. Described with restraint, but may warrant parental awareness for younger listeners.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Balarama",
+  "Rukmi",
+  "Krishna",
+  "Kalinga king"
+ ],
+ "locations": [
+  "Bhojakata",
+  "Dwaraka"
+ ],
+ "themes": [
+  "gambling",
+  "pride",
+  "retribution"
+ ],
+ "previous_story_id": "DKS_0206",
+ "next_story_id": "DKS_0208",
+ "next_story_tease": "For Krishna himself another svayamvara was already waiting — this one with a fish for a target and a bow that no king of the earth could string.",
+ "hero_scene": "Balarama in the flower-strewn gaming hall, iron club raised above the fallen Rukmi, the Kalinga king thrown to the floor beside them, while the other kings scatter and Krishna stands apart in silence.",
+ "visual_elements": [
+  "Balarama with iron club raised",
+  "Rukmi fallen in the gaming hall",
+  "the Kalinga king dashed to the floor, teeth struck out",
+  "golden pillars and flower-strewn, sandal-sprinkled floor",
+  "scattered dice and gold coins",
+  "Krishna standing silent and apart",
+  "wedding garlands in the background"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.61.26-39",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.118",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.28",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:42:35Z",
+  "source_event_id": "evt_0231",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0044",
+ "title": "Krishna Slays the Calf-Demon Vatsasura",
+ "subtitle": null,
+ "story": "Not long after the cowherds had settled in Vrindavan, the boys of the village were given a new piece of work. The calves had grown old enough to leave the pens, and it was time for them to be taken out to grass with the older herd. So the boys were set to watch over them. It was light work, and it suited them. Krishna and Balarama went out with the rest, and the days settled into an easy rhythm of sun and river and slow-moving cattle.\n\nThe pasture lay on the bank of the Yamuna, where the grass grew thick and the water was always near. All day the boys moved through it, and they did not keep watch in silence. The old verses remember how they passed the hours. Sometimes one of them played the flute while the others drifted closer to listen. Sometimes they flung their throwing-ropes at a mark on the ground, testing who could strike truest. And sometimes the two brothers squared off against each other, pawed the earth, and roared, and wrestled like a pair of young bulls while the other boys made a ring and shouted first for one side and then the other. It was play, and it held the long day together.\n\nAnd it was into this quiet, sunlit routine that the demon came.\n\nHe was called Vatsasura. He did not come as himself. He took the shape of a calf — so young, so harmless-looking that no one would look twice — and he stepped in among the herd as though he had been born to it. Among all those grazing backs and twitching tails, one more calf was nothing at all. He moved through them slowly, waiting.\n\nBut Krishna saw him. It is the strange and wonderful thing about these early stories that he always sees. The moment the false calf edged close, he reached out, caught it by the hind legs, and took the tail in the same grip. Then he lifted the creature clean off the grass.\n\nHe whirled it. Around his head he swung it, once and again, gathering speed, and then he let it fly, and the creature in its stolen calf's body went tumbling through the air and struck a wood-apple tree with a force no living calf could have survived. It fell lifeless to the ground and lay still beneath the tree, in the very shape it had borrowed, and it did not rise again. Whatever the demon had meant to do to the boys, he never did it.\n\nThe boys stood astonished for a long, still moment. Then the wonder broke, and they shouted together, \"Well done! Well done!\"\n\nThe verses close on a line worth pausing over. These two, they say, had become calf-herders — and those same two were the keepers of all the worlds. The day's work looked small: a single false calf among a hundred real ones. But the hand that threw it was the hand that held everything. The herd went on grazing as though nothing had happened, and the boys went back to their watching, a little quieter than before.",
+ "reflection": "Krishna's strength shows itself first in the most ordinary work — watching calves on a riverbank. The story does not separate the boy who plays the flute and wrestles like a young bull from the keeper of all the worlds; they are the same pair of hands.",
+ "tradition_note": null,
+ "content_note": "A demon in calf form is flung against a tree and killed; the violence is brief and not described in detail.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Vatsasura"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "protecting_the_herd",
+  "divine_strength"
+ ],
+ "previous_story_id": "DKS_0043",
+ "next_story_id": "DKS_0045",
+ "next_story_tease": "But Kamsa had more than one creature at his command, and a greater one was already winging toward the pasture.",
+ "hero_scene": "Krishna whirling the false calf by its hind legs and tail high above his head, about to hurl it toward a wood-apple tree, while the cowherd boys watch with open mouths on the bank of the Yamuna.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "cowherd boys",
+  "calves grazing",
+  "Vatsasura disguised as a calf",
+  "wood-apple tree",
+  "Yamuna riverbank",
+  "flute and wrestling play",
+  "astonishment turning to cheers"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.11.36-44",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:01Z",
+  "source_event_id": "evt_0056"
+ },
+ "editorial_status": "unreviewed"
+}

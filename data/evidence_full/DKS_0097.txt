@@ -1,0 +1,47 @@
+# STORY DKS_0097 — The Brahmanas Repent and Praise Krishna
+
+## Index entry
+title: The Brahmanas Repent and Praise Krishna
+summary: Reflecting that their wives' devotion surpassed their own empty rituals, the brahmanas lament their blindness and sing Krishna's praise, longing to see him.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: brahmanas, Krishna
+locations: Vrindavan
+themes: repentance, humility
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0090
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 23 | verses 32-51 | confidence 5
+  excerpt: Realizing that the Lord they had spurned was Vishnu himself, the brahmanas reproach their own pride and empty rites, and, praising Krishna, yearn for his sight yet do not dare approach, fearing Kamsa. (rendered from Sanskrit, verse 32-51)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.23 (32-51)
+32. śravaṇād darśanād dhyānān mayi bhāvo 'nukīrtanāt /
+33. bhp_10.23.034/0 śrī-śuka uvāca
+34. tatraikā vidhṛtā bhartrā bhagavantaṃ yathā-śrutam /
+35. bhagavān api govindas tenaivānnena gopakān /
+36. evaṃ līlā-nara-vapur nr-lokam anuśīlayan /
+37. athānusmṛtya viprās te anvatapyan kṛtāgasaḥ /
+38. dṛṣṭvā strīṇāṃ bhagavati kṛṣṇe bhaktim alaukikīm /
+39. dhig janma nas tri-vṛd yat tad dhig vrataṃ dhig bahu-jñatām /
+40. nūnaṃ bhagavato māyā yoginām api mohinī /
+41. aho paśyata nārīṇām api kṛṣṇe jagad-gurau /
+42. nāsāṃ dvijāti-saṃskāro na nivāso gurāv api /
+43. tathāpi hy uttamaḥ-śloke kṛṣṇe yogeśvareśvare /
+44. nanu svārtha-vimūḍhānāṃ pramattānāṃ gṛhehayā /
+45. anyathā pūrṇa-kāmasya kaivalyādy-aśiṣāṃ pateḥ /
+46. hitvānyān bhajate yaṃ śrīḥ pāda-sparśāśayāsakṛt /
+47. deśaḥ kālaḥ pṛthag dravyaṃ mantra-tantrartvijo 'gnayaḥ /
+48. sa eva bhagavān sākṣād viṣṇur yogeśvareśvaraḥ /
+49. tasmai namo bhagavate kṛṣṇāyākuṇṭha-medhase /
+50. sa vai na ādyaḥ puruṣaḥ sva-māyā-mohitātmanām /
+51. iti svāgham anusmṛtya kṛṣṇe te kṛta-helanāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0096 | next_story_id: DKS_0098
+previous title: The Wives Refuse to Return and Krishna Welcomes Them
+next title: Krishna Vanishes

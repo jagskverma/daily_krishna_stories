@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0534",
+ "title": "Krishna Entrusts the Women to Vasudeva",
+ "subtitle": "One last walk through the city before the end",
+ "story": "Before the sea rose, before the last pyres burned, Krishna came back to Dwaraka one final time. The city was still standing, but it was no longer a city. The men were gone — the Yadavas had destroyed one another at Prabhasa, and the streets that had once rung with their voices now belonged to the women, the children, and the very old, who moved through the empty avenues like people in a dream.\n\nKrishna had not come to stay. He had sent his charioteer Daruka racing to the Kurus with the news of the slaughter and a summons for Arjuna. He had watched Vabhru, the last survivor of the fighting, fall to the iron bolt that pursued the cursed Yadavas to the very end. Balarama was waiting for him at the edge of the forest. There was only one thing left to do in the city, and he had come back to do it.\n\nHe went to his father.\n\nVasudeva, who had lived to see his sons become the lords of the earth, looked at his son and heard the words that ended everything. \"Protect all the ladies of our house,\" Krishna told him, \"until Dhananjaya comes.\" Arjuna would come, he said. Arjuna would take charge of them. \"At the skirts of the forest,\" he went on, \"Rama is waiting for me. I shall meet him today. I have beheld this great carnage of the Yadavas, just as I beheld the carnage of the foremost Kshatriyas of Kuru's race. It is impossible for me to see this city of the Yadavas without the Yadavas beside me. Know that I am going to the woods, to practise penances with Rama in my company.\"\n\nHe had given his father a task — protect the women until Arjuna comes — and a task was the one gift that could hold a man upright when everything else had been taken from him.\n\nThen Krishna touched his father's feet with his head, the reverence of a son for the father who had carried him across a river on a night of storm, and he left quickly, because farewells that last too long become unbearable.\n\nHe had not reached the gate before the sound came after him: a loud wail of sorrow rising from the ladies and children of his house, a cry that followed him down the street like a second shadow. Krishna stopped. He retraced his footsteps, walked back through the courtyard, and stood before the weeping women.\n\n\"Arjuna will come here,\" he said. \"That foremost of men will relieve you of your grief.\"\n\nThat was all he could promise them, and it was everything he had left to give. He had sent for the one man on earth he trusted to carry his family forward, and he told them so, plainly and gently, and then he turned and left again.\n\nThis time he did not stop. He walked out of the palace and out of the city, through the streets of the Dwaraka he had built and loved, past the golden towers and the gardens he would never see again, toward the forest where his elder brother sat waiting in solitude. The women stood in the courtyard behind him, holding the promise he had left them, watching the doorway long after he was gone.\n\nHe had come into the city one last time to make sure that those he left behind would be cared for, to bow to his father, to answer the wailing with a promise. Then he walked out of Dwaraka for the last time, into the forest, into the silence, toward the end that was waiting for him beneath a tree.",
+ "reflection": "Krishna's last acts in Dwaraka are entirely for other people: he gives his father a task that will keep him upright, he promises the weeping women that Arjuna will come, and he turns back, one last time, to answer their grief. The son touches his father's feet even as the father has lost everything he had; the farewell is a gift to the ones left behind.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Krishna",
+  "Vasudeva",
+  "Arjuna",
+  "Balarama",
+  "Daruka"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "farewell",
+  "filial duty",
+  "compassion"
+ ],
+ "previous_story_id": "DKS_0533",
+ "next_story_id": "DKS_0535",
+ "next_story_tease": null,
+ "hero_scene": "In the courtyard of the palace at Dwaraka, Krishna touching his father Vasudeva's feet with his head in a final reverence, while the ladies and children of the house weep behind them.",
+ "visual_elements": [
+  "Krishna bowing to touch Vasudeva's feet",
+  "the wailing ladies and children of the house",
+  "the empty streets of Dwaraka",
+  "the courtyard of the palace",
+  "a mood of farewell and quiet sorrow"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "16.4",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:19:20Z",
+  "source_event_id": "evt_0516"
+ },
+ "editorial_status": "unreviewed"
+}

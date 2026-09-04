@@ -1,0 +1,31 @@
+# STORY DKS_0386 — Krishna Grants the Khadava Forest to Agni
+
+## Index entry
+title: Krishna Grants the Khadava Forest to Agni
+summary: Krishna, as Arjuna's charioteer, helps him give the Khadava forest to Agni, who bestows the Gandiva bow and inexhaustible quivers.
+life_stage: pandava_period | story_arc: pandava_friendship
+characters: Krishna, Arjuna, Agni, Maya
+locations: Khadava forest
+themes: alliance, fire, divine gifts
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0376
+variant_notes: Condensed Bhagavata account of the Khandava episode; cf. mb_a1_012 (Brahmana arrives), mb_a1_013 (Agni seeks help).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 58 | verses 23-26 | confidence 5
+  excerpt: Dwelling there for the Pandavas' good, Krishna acted as Arjuna's charioteer when Arjuna gave the Khadava forest to Agni; pleased, Agni gave Arjuna the Gandiva bow, inexhaustible quivers and an invincible chariot, and the rescued Maya built the assembly hall. (rendered from Sanskrit, verses 23-26)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.58 (23-26)
+23. yadaiva kṛṣṇaḥ sandiṣṭaḥ pārthānāṃ paramādbutam /
+24. bhagavāṃs tatra nivasan svānāṃ priya-cikīrṣayā /
+25. so 'gnis tuṣṭo dhanur adād dhayān śvetān rathaṃ nṛpa /
+26. mayaś ca mocito vahneḥ sabhāṃ sakhya upāharat /
+
+## Pilot chain
+previous_story_id: DKS_0380 | next_story_id: DKS_0396
+previous title: Krishna Eats a Single Grain and Satisfies Durvasa and His Disciples
+next title: Krishna Receives the First Honor (Arghya) at the Rajasuya

@@ -1,0 +1,73 @@
+{
+ "id": "DKS_0085",
+ "title": "Krishna Lifts Govardhana Hill",
+ "subtitle": null,
+ "story": "The rain began out of season, and it did not fall like rain. It fell in sheets and struck like stones. Hail rattled on the roofs, a wind rose that bent the trees flat, and in the pastures of Vrindavan the cattle trembled, pressing their calves against their sides. The cowherds stood in their doorways watching the sky turn black, and they cried out the one name that came to them: \"Krishna! Krishna!\"\n\nKrishna was a boy of that village, not yet grown, and he understood at once what was happening. This was no ordinary storm. This was Indra, king of the gods and lord of the rain, and he was angry.\n\nThe anger had a reason. Every year the cowherds offered a sacrifice to Indra, thanking the god who sends the rains. But that year, at Krishna's urging, the cowherd king had offered a different sacrifice instead — a sacrifice of the cows — and the offering that had always gone to Indra was not made. Indra's pride was wounded, and a wounded god of rain knows one way to answer.\n\nKrishna looked at the people of Vrindavan, beaten by wind and falling ice, and he read the storm for what it was: Indra's show of power over the village that had turned away from his worship. He did not answer with anger of his own. He answered by sheltering his people — and by breaking the pride of those who fancy themselves lords of the world.\n\nHe called to the cowherds: come, all of you, with your cattle. Then, before their eyes, Krishna put out one hand — one hand — and lifted the whole of Govardhana hill. He raised it from the earth and held it aloft as lightly as a child holds up an umbrella, as lightly, they say, as if it sat on the tip of his finger.\n\n\"Under here,\" he said. \"All of you. Bring the cows.\"\n\nNo one needed telling twice. The cowherds and their wives, the children and the calves, the whole of Vrindavan crowded in beneath the hill, and there, under that one raised hand, they were dry.\n\nFor seven days and seven nights the storm went on. Indra's clouds poured their rain upon the village, the hail fell, and the wind howled around the rim of the hill. But beneath Govardhana, held up by a boy's hand, the people stood safe and the cattle stood safe, and the storm could not reach them. It battered the hill from every side, and still the mountain did not waver, and still the hand beneath it did not tire.\n\nThrough it all Krishna stood unmoved, the hill balanced on his hand, no more troubled by its weight than by the weight of a flower. The cowherds looked up at the mountain hanging above them, and down at the boy holding it, and for seven days they did not grow tired of looking.\n\nOn the seventh day the storm broke. The clouds emptied themselves and drifted away, the wind fell, and the rain stopped. Indra's pride was broken. He had hurled the fury of the sky against Vrindavan, and it had done nothing. The people he meant to humble had stood dry beneath a hill held up by a boy.\n\nThen Krishna set the hill down again. The people came out from under it into the washed, quiet air, and they looked at the child who had sheltered them, and they understood something they had not understood before.",
+ "reflection": "Krishna's answer to Indra's fury is not a counter-attack but shelter. The storm that was meant to humble Vrindavan instead reveals whose protection is real, and Indra's pride breaks not against force but against a hill held up for love of his people.",
+ "tradition_note": "The Harivamsha and Vishnu Purana specify that the rain lasted seven days and nights.",
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "vrindavan",
+ "story_arc": "govardhan_and_indra",
+ "characters": [
+  "Krishna",
+  "Indra",
+  "cowherds"
+ ],
+ "locations": [
+  "Govardhana",
+  "Vrindavan"
+ ],
+ "themes": [
+  "protection",
+  "divine_power",
+  "pride"
+ ],
+ "previous_story_id": "DKS_0074",
+ "next_story_id": "DKS_0099",
+ "next_story_tease": null,
+ "hero_scene": "A young Krishna holds Govardhana hill aloft on the raised palm of one hand like an umbrella, while cowherds, women, children and cattle crowd beneath it, safe and dry, as hail and rain lash the dark landscape beyond the hill's rim.",
+ "visual_elements": [
+  "Krishna holding the hill on one hand",
+  "Govardhana hill raised like an umbrella",
+  "cowherds, women, children and cattle sheltering beneath",
+  "hail and driving rain outside the shelter",
+  "dark storm clouds",
+  "awe and relief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.25.10-19",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.31-32",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.73",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.11",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:49Z",
+  "source_event_id": "evt_0096",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

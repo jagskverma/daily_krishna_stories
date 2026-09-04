@@ -1,0 +1,110 @@
+# STORY DKS_0314 — The Yogamaya Appears Before Krishna and Rama || The illusory daughter of Yashoda — the goddess born the same moment as Krishna — appears before Krishna and Rama, who embrace her and seat her between them as the Vrishni women worship her.
+
+## Index entry
+title: The Yogamaya Appears Before Krishna and Rama || The illusory daughter of Yashoda — the goddess born the same moment as Krishna — appears before Krishna and Rama, who embrace her and seat her between them as the Vrishni women worship her.
+summary: The illusory daughter of Yashoda — the goddess born the same moment as Krishna — appears before Krishna and Rama, who embrace her and seat her between them as the Vrishni women worship her.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Baladeva, Yogamaya, Vrishni women
+locations: Dwarka, assembly hall
+themes: goddess, reunion, worship
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0332
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 248 | verses  | confidence 4
+  excerpt: the illusory daughter of Yashoda... appeared before Krishna and Rāma... Mādhava approached her... and held her by the hand. The highly powerful Rāma too... embraced her and smelt her head... The Vrishni women then saw her between her two brothers Rāma and Krishna
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.248 ()
+TITLE: NARADA DESCRIBES THE FEAT OF KRISHNA
+
+Krishna said:—"Ye pious Yādavas, by virtue of your ascetic power and
+that of mental concentration, and on account of his own sin Bhumi’s son
+Naraka has been slain. Many beautiful maidens have been released from
+his inner appartment and the summit of the mount Mani has been uprooted
+and brought here. My servants have also brought this collection of
+riches. You are now the masters of all these things."
+
+Having said this the Lord stopped. Hearing the words of Vasudeva, the
+Bhojas, Andhakas and Vrishnis, having their hairs stand erect in joy,
+worshipped Janārddana. Afterwards those heroic men, with folded hands,
+said to them: "O large-armed son of Devaki, it is no wonder to thee that
+thou hast accomplished, for the gods, a highly difficult feat and hast
+propitiated thy own people with riches and other objects of pleasure
+acquired by thy own power" (1-6).
+
+Thereupon the wives of the Dāshārhas and Ahuka, filled with joy,
+repaired to the Hail for seeing Krishna. The seven queens of Vasudeva,
+headed by Devaki and the beautiful-faced Rohini saw the large-armed Rāma
+and Krishna seated at ease. Having saluted first Rohini Rama and Krishna
+afterwards saluted Devaki. As Aditi, the mother of gods, looks beautiful
+in the company of Mitra and Varuna so the goddess shone in the company
+of her two lotus-eyed-sons (7–10).
+
+Thereupon, the illusory daughter of Yashoda, whom the people describe as
+one and without any parts, with whom, the Purusottam Krishna, the king
+of gods, was born at the same moment and for whom he slew Kansa with his
+relatives, appeared before Krishna and Rāma, the foremost of men. Up to
+this time she was being adored in the Vrishni family and was being
+brought up and maintained like a daughter. She, whom the people of the
+world know as the irrepressible Yoga maiden, and as one and without any
+parts, was born for the protection of Keshava. Because she protected
+Keshava with her goddess-like celestial body the Yadavas used to worship
+her with great pleasure. As soon as she entered the Hall, Mādhava
+approached her, like unto a man his beloved female friend and held her
+by the hand. The highly powerful Rāma too held her by his right hand,
+embraced her and smelt her head. The Vrishni women then saw her between
+her two brothers Rāma and Krishna like unto the goddess Sree, with
+golden lotuses in her hands and seated on a lotus too. They then
+showered fried paddy and diverse flowers and repaired to their
+respective quarters (11-19).
+
+Afterwards speaking highly of the wonderful deeds of Janarddana and
+honoring him the Yadavas sat delightedly on their respective thrones.
+Thus adored by his god-like kinsmen the mighty-armed and highly
+illustrious Mādhava, the enhancer of the joy of the citizens, began to
+live there happily with them (20–21).
+
+After the Yadavas had all taken their seats, the worshipful saint
+Nārada, according to the order of the king of gods, came to Janārddana
+at the meeting. Then worshipped by the heroic Yadu chiefs and shaking
+hands with Govinda he sat on a most excellent throne. Seated at ease he
+said to the Vrishnis:—"O foremost of men, know that I have come here at
+the mandate of the king of gods. O leading kings, hear now of all the
+heroic deeds which Krishna, the slayer of Keshi, has performed from his
+boyhood (22–25).
+
+"Having oppressed the Yadavas and put in chains his father Ahuka, the
+wicked son of Ugrasena, Kansa secured for himself the kingdom. Seeking
+refuge with his father-in-law Jarāsandha, that wicked-minded wretch, the
+curse of his family, used to hate the other Bhojas, Vrishnis and
+Andhakas. In order to accomplish a good work for his kinsmen and protect
+Ugrasena the powerful Vasudeva preserved his own son (26–28). You have
+all heard of the highly wondrous deeds which the slayer of Madhu
+performed before Shurasena and others while living with the milkmen in
+the suburb of Mathurā. One day while Janārddana was sporting under a
+cart, the highly powerful, dreadful, grim-visaged She-demon Putanā,
+under the guise of a bird, wished to make him suck her poisoned breast.
+He however killed her. Beholding however the dreadful, grim-visaged
+daughter of Bali, Putanā slain, the forest-ranging Gopas regarded him as
+one born again and gave him the name of _Adhokhshaja_. The Purusottama,
+in his infancy, performed another wonderful feat. While playing he upset
+a cart with his feet. He injured some of the boys for which Yashodā tied
+him to a wooden mortar. He, in that condition, uprooted two Arjuna trees
+for which he obtained the name of Dāmodara. The highly powerful and
+irrepressible Kālya Nāga was vanquished by him in the lake of Yamunā
+while sporting. Adored by the Nāgas in their house in the presence of
+Akrura the Lord assumed a celestial body. Observing the cows assailed by
+cold and wind, the high-souled and intelligent son of Vasudeva, Krishna,
+although a child, held up, for saving them, the mount Govardhana for
+seven nights (29–38). The wicked, highl
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0313 | next_story_id: DKS_0315
+previous title: Indra and Krishna Install the Four Young Kings || Indra and Krishna divide Vajranabha's conquered kingdom into four parts and anoint the four young princes — Vijaya and the sons of Pradyumna, Shamba and Gada — as kings of the Vajra realm.
+next title: Mayavati Reveals the Truth to Pradyumna || When the grown Pradyumna recoils at Mayavati's advances, she reveals he is not her son but the child of Rukmini and Vasudeva, stolen by Shamvara, and that she is his former wife.

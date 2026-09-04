@@ -1,0 +1,35 @@
+# STORY DKS_0027 — Trinavarta the Whirlwind Carries Off the Baby
+
+## Index entry
+title: Trinavarta the Whirlwind Carries Off the Baby
+summary: Kamsa's servant Trinavarta, in the form of a whirlwind, snatches the child away, blinding Gokula with dust as Yasoda searches in vain.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Trinavarta, Krishna, Yasoda
+locations: Gokula
+themes: danger, separation
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0041
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 7 | verses 17-24 | confidence 5
+  excerpt: The demon Trinavarta, as a whirlwind of dust and grit, sweeps up the child so that Yasoda cannot find him, and the whole village is plunged into darkness and confusion. (rendered from Sanskrit, verse 17-24)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.7 (17-24)
+17. ekadāroham ārūḍhaṃ lālayantī sutaṃ satī /
+18. bhūmau nidhāya taṃ gopī vismitā bhāra-pīḍitā /
+19. daityo nāmnā tṛṇāvartaḥ kaṃsa-bhṛtyaḥ praṇoditaḥ /
+20. gokulaṃ sarvam āvṛṇvan muṣṇaṃś cakṣūṃṣi reṇubhiḥ /
+21. muhūrtam abhavad goṣṭhaṃ rajasā tamasāvṛtam /
+22. nāpaśyat kaścanātmānaṃ paraṃ cāpi vimohitaḥ /
+23. iti khara-pavana-cakra-pāṃśu-varṣe suta-padavīm abalāvilakṣya mātā /
+24. ruditam anuniśamya tatra gopyo bhṛśam anutapta-dhiyo 'śru-pūrṇa-mukhyaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0026 | next_story_id: DKS_0028
+previous title: The Infant Krishna Overturns the Cart with His Foot
+next title: Trinavarta Is Crushed by the Child's Weight

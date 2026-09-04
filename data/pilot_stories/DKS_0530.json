@@ -1,0 +1,69 @@
+{
+ "id": "DKS_0530",
+ "title": "The Hunter Jara Shoots Krishna's Foot",
+ "subtitle": null,
+ "story": "The curse spoken over Krishna's own people had come due at last. The Yadavas — the clan into which the Lord of the universe had been born as a man — had turned on one another at Prabhasa, on the seashore, and destroyed themselves almost to the last man. When it was done, a great silence lay over the shore, and Krishna walked into a forest near the sea and sat down alone. He had watched his elder brother Balarama depart, and he had seen the last of his people fall; there was no one left for him to stay for. The forest was quiet around him, and the sea lay somewhere beyond the trees.\n\nAt the foot of a pipal tree he seated himself, and there he sat in meditation, perfectly still, and let his own form change.\n\nIt was the form he did not often show: four-armed, bearing on his chest the curled mark called the Shrivatsa, dark as a raincloud, bright with the splendour of molten gold. His face was a smiling lotus framed in dark curls. A yellow cloth girded his waist, a sacred thread crossed his chest; a diadem, bracelets, and armlets adorned him; a garland of forest flowers lay about his body; and his own weapons, alive and embodied, stood about him. He drew his right foot up upon his thigh and rested there, quiet, as if he had come to the end of a long road.\n\nNot far off, an iron arrowhead carried a long story. Long before, an iron club had come into being in the Yadava house — a doom made into metal, foretold to crush the whole race. It had been ground to dust and thrown into the sea, so that its power might be scattered, but the sea gave the dust back as rushes along the shore. And now the last fragment of that iron, hammered into a blade, sat on the shaft of a hunter who had come into the forest in search of deer.\n\nHis name was Jara. From a distance he saw Krishna's foot, and he mistook it for the face of a deer. He loosed the arrow, and it lodged in the sole.\n\nHe ran forward quickly to claim his prey — and saw what he had done. A four-armed Lord sat there, radiant, and terror took hold of him. He fell at Krishna's feet and begged his pardon. He had loosed the arrow without knowing what he aimed at, he said; let the sin of a poor hunter of deer be forgiven, for even the remembrance of that name, men say, scatters the darkness of ignorance. What he had pierced was a form too great for even Brahma and Rudra and the wisest of the gods to know — and what could a man of no worth say before it?\n\nKrishna forgave him, and spoke to him gently, and raised him to his feet. So the last fragment of the iron that had been made to destroy his whole race found its mark at last — not on a battlefield, but in a quiet forest, by an arrow meant for a deer, loosed by a man who meant no harm and forgiven before he had even finished asking.",
+ "reflection": "The arrow that ends Krishna's earthly form is forged from the last fragment of the iron that destroyed his people, so that one doom gathers up its own loose ends. A hunter who meant no harm becomes the instrument, and is forgiven, a strange and gentle close to a life spent in the middle of wars.",
+ "tradition_note": "The Mahabharata describes Krishna lying on the earth in high yoga, pierced at the heel; the Bhagavata Purana, followed here, has him seated at the foot of a pippala tree with his foot drawn up.",
+ "content_note": "Krishna's earthly form is pierced by an arrow and he departs; the death is described gently.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Krishna",
+  "the hunter Jara",
+  "Balarama"
+ ],
+ "locations": [
+  "a forest near Prabhasa"
+ ],
+ "themes": [
+  "fate",
+  "hunters_arrow",
+  "divine_play",
+  "forgiveness"
+ ],
+ "previous_story_id": "DKS_0523",
+ "next_story_id": "DKS_0537",
+ "next_story_tease": null,
+ "hero_scene": "The four-armed Krishna seated in meditation at the foot of a pippala tree, his right foot drawn up, while the hunter Jara, bow in hand, stands frozen in terror at the edge of the forest.",
+ "visual_elements": [
+  "Krishna, four-armed and radiant",
+  "the hunter Jara",
+  "bow and iron-tipped arrow",
+  "pippala tree",
+  "forest near the sea",
+  "quiet green light",
+  "terror turning to reverence"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.30.26-39",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.37",
+   "role": "additional"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "16.4",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0371",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,44 @@
+# STORY DKS_0036 — The Two Devotees Are Liberated from the Trees
+
+## Index entry
+title: The Two Devotees Are Liberated from the Trees
+summary: From the fallen trees emerge two radiant beings who bow to Krishna, praise him, and, released from their curse, depart to the north.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Nalakuvara, Manigriva, Krishna
+locations: Gokula
+themes: liberation, devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0051
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 10 | verses 27-43 | confidence 5
+  excerpt: From the fallen trees rise two brilliant figures who bow to Krishna, extol him as the ancient Lord, and, at his word, depart; the cowherds hear the crash and marvel. (rendered from Sanskrit, verse 27-43)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.10 (27-43)
+27. tatra śriyā paramayā kakubhaḥ sphurantau $ siddhāv upetya kujayor iva jāta-vedāḥ &tatra śriyā paramayā kakubhaḥ sphurantau $ siddhāv upetya kujayor iva jāta-vedāḥ &kṛṣṇaṃ praṇamya śirasākhila-loka-nāthaṃ % baddhāñjalī virajasāv idam ūcatuḥ sma
+28. kṛṣṇa kṛṣṇa mahā-yogiṃs tvam ādyaḥ puruṣaḥ paraḥ /
+29. tvam ekaḥ sarva-bhūtānāṃ dehāsv-ātmendriyeśvaraḥ /
+30. tvaṃ mahān prakṛtiḥ sūkṣmā rajaḥ-sattva-tamomayī /
+31. gṛhyamāṇais tvam agrāhyo vikāraiḥ prākṛtair guṇaiḥ /
+32. tasmai tubhyaṃ bhagavate vāsudevāya vedhase /
+33. yasyāvatārā jñāyante śarīreṣv aśarīriṇaḥ /
+34. sa bhavān sarva-lokasya bhavāya vibhavāya ca /
+35. namaḥ parama-kalyāṇa namaḥ parama-maṅgala /
+36. anujānīhi nau bhūmaṃs tavānucara-kiṅkarau /
+37. vāṇī guṇānukathane śravaṇau kathāyāṃ $ hastau ca karmasu manas tava pādayor naḥ &amp;smṛtyāṃ śiras tava nivāsa-jagat-praṇāme % dṛṣṭiḥ satāṃ darśane 'stu bhavat-tanūnām
+38. bhp_10.10.039/0 śrī-śuka uvāca
+39. bhp_10.10.040/0 śrī-bhagavān uvāca
+40. sādhūnāṃ sama-cittānāṃ sutarāṃ mat-kṛtātmanām /
+41. tad gacchataṃ mat-paramau nalakūvara sādanam /
+42. bhp_10.10.043/0 śrī-śuka uvāca
+43. bhp_10.11.001/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0035 | next_story_id: DKS_0037
+previous title: Krishna Uproots the Twin Arjuna Trees (Named Damodara)
+next title: The Fruit-Seller Receives a Gift of Jewels

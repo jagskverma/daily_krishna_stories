@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0373",
+ "title": "The Stranger on the Yamuna",
+ "subtitle": null,
+ "story": "The summer days have set in, Arjuna told Krishna one morning at Indraprastha. Let us go to the banks of the Yamuna; sporting there in the company of friends, we will return in the evening. Krishna answered that this was his wish too. And so, with Yudhishthira's leave, the two set out with their friends, leaving behind a city that was thriving as never before.\n\nThe Pandavas, settled at Indraprastha at the command of Dhritarashtra and Bhishma, had brought the neighbouring kings under their sway, and the people lived most happily depending upon Yudhishthira the just, like a soul living happily in a body blest with auspicious marks. Yudhishthira paid homage to virtue, pleasure and profit in judicious proportion, as if each were a friend dear to him as his own self, and it seemed as if the three pursuits became personified on earth, with the king shining among them as a fourth. He was devoted to the study of the Vedas, performer of the great sacrifices, protector of all good people; and the people took delight in him not only because he was their king but from sincere affection. Under such a king, the brothers could be easy with one another, and Krishna, visiting as he did, was more brother than guest.\n\nThey chose a fine spot on the Yamuna, overgrown with numerous tall trees and covered with high mansions that made the place look like the celestial city. Everything had been gathered there for pleasure: costly and well-flavoured viands and drinks, floral wreaths, various perfumes, and inner apartments adorned with precious gems of pure rays. The women of the party sported as they liked — some in the woods, some in the waters, some within the mansions, as directed by Partha and Govinda. Draupadi and Subhadra, exhilarated with wine, gave away their costly robes and ornaments to the women who sported about them. Some danced, some sang, some laughed and jested, some drank excellent wines and some obstructed one another's progress in play; flutes and guitars and kettledrums filled the groves, and the whole place, the text says, became the scene of Prosperity personified. For a day in high summer, the world seemed to have arranged itself purely for enjoyment.\n\nIn the midst of it all, Arjuna and Vasudeva slipped away to a charming spot a little apart from the others, and sat down upon two very costly seats. There, discoursing upon their past achievements of prowess and other such topics, the two friends passed the afternoon like the Aswins seated in heaven, while the music and laughter of the grove came to them from a distance, softened. It was the talk of two men who had fought side by side and trusted each other with their lives — old campaigns retold, old enemies remembered, the easy silences between.\n\nAnd then a Brahmana came to them. He was still some distance off when the two friends felt the change — the day's noise seemed to fall back from him, and the grove grew quieter as he walked. He stood like a tall Sala tree; his complexion was like molten gold; his beard was bright yellow, tinged with green; the height and thickness of his body were in just proportion; and his locks were matted. He came toward the two heroes as they sat talking of old victories — a figure blazing with splendour, the foremost of Brahmanas, and his coming put an end to the idleness of the day. He did not look like a man who had come to share their sport. The music of the grove seemed, suddenly, very far away.",
+ "reflection": "The day is all brightness and ease — music, wine, generosity, two friends at their leisure — and the stranger cuts across it like a shadow at noon. The story lets pleasure stand at its full height before the omen walks into the grove, as if to say that the world's golden hours are exactly when the unknown arrives.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Draupadi",
+  "Subhadra"
+ ],
+ "locations": [
+  "the banks of the Yamuna"
+ ],
+ "themes": [
+  "leisure",
+  "friendship",
+  "omen"
+ ],
+ "previous_story_id": "DKS_0372",
+ "next_story_id": "DKS_0374",
+ "next_story_tease": "But the Brahmana who approached them had not come for sport — he had come hungry.",
+ "hero_scene": "On a grassy bank of the Yamuna under tall trees, Krishna and Arjuna sit on two costly seats deep in conversation, while behind them the pleasure mansions rise and the river sparkles — and a towering Brahmana with molten-gold skin and a yellow-green beard walks toward them through the grove.",
+ "visual_elements": [
+  "Krishna and Arjuna seated on costly seats by the Yamuna",
+  "the towering Brahmana with molten-gold complexion and yellow-green beard approaching",
+  "tall trees and high pleasure mansions like a celestial city",
+  "women sporting in the woods and waters",
+  "flutes, guitars and kettledrums",
+  "summer light on the river"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.224",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:00Z",
+  "source_event_id": "evt_0388"
+ },
+ "editorial_status": "unreviewed"
+}

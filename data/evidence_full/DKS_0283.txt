@@ -1,0 +1,45 @@
+# STORY DKS_0283 — Samba Carries Off Duryodhana's Daughter
+
+## Index entry
+title: Samba Carries Off Duryodhana's Daughter
+summary: Samba carries off Lakshmana, Duryodhana's daughter, from her svayamvara; the Kauravas fight him and take him captive.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Samba, Lakshmana, Duryodhana, Karna
+locations: Hastinapura
+themes: abduction, valor, capture
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0216
+variant_notes: Both: Samba abducts her at the svayamvara and is captured by the Kuru chiefs.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 68 | verses 1-12 | confidence 5
+  excerpt: Samba, son of Jambavati, carried off Lakshmana, daughter of Duryodhana, from her svayamvara; Karna, Shala, Bhuri and Duryodhana fought him, and though Samba wounded them all, they surrounded and captured him with great effort. (rendered from Sanskrit, verses 1-12)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 35 | verses  | confidence 4
+  excerpt: At the choice of a husband by the daughter of Duryodhana, the princess was carried off by the hero Śámba, the son of Jámbavatí. Being pursued by Duryodhana, Karńa, Bhíshma, Drońa... he was defeated, and taken prisoner.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.68 (1-12)
+1. kauravāḥ kupitā ūcur durvinīto 'yam arbhakaḥ /
+2. badhnītemaṃ durvinītaṃ kiṃ kariṣyanti vṛṣṇayaḥ /
+3. nigṛhītaṃ sutaṃ śrutvā yady eṣyantīha vṛṣṇayaḥ /
+4. iti karṇaḥ śalo bhūrir yajñaketuḥ suyodhanaḥ /
+5. dṛṣṭvānudhāvataḥ sāmbo dhārtarāṣṭrān mahā-rathaḥ /
+6. taṃ te jighṛkṣavaḥ kruddhās tiṣṭha tiṣṭheti bhāṣiṇaḥ /
+7. so 'paviddhaḥ kuru-śreṣṭha kurubhir yadu-nandanaḥ /
+8. visphūrjya ruciraṃ cāpaṃ sarvān vivyādha sāyakaiḥ /
+9. caturbhiś caturo vāhān ekaikena ca sārathīn /
+10. taṃ tu te virathaṃ cakruś catvāraś caturo hayān /
+11. taṃ baddhvā virathī-kṛtya kṛcchreṇa kuravo yudhi /
+12. tac chrutvā nāradoktena rājan sañjāta-manyavaḥ /
+
+### Vishnu Purana (Wilson 1840) 5.35 ()
+Śámba carries off the daughter of Duryodhana, but is taken prisoner. Balaráma comes to Hastinápur, and demands his liberation: it is refused: in his wrath he drags the city towards him, to throw it into the river. The Kuru chiefs give up Śámba and his wife.MAITREYA.--I have a great desire to hear, excellent Brahman, some further account of the exploits of Balaráma. You have related to me his dragging the Yamuná, and other mighty deeds, but you can tell me, venerable sir, some other of his acts.PARÁŚARA.--Attend, Maitreya, to the achievements performed by Ráma, who is the eternal, illimitable Śesha, the upholder of the earth. At the choice of a husband by the daughter of Duryodhana, the princess was carried off by the hero Śámba, the son of Jámbavatí. Being pursued by Duryodhana, Karńa, Bhíshma, Drońa, and other celebrated chiefs, who were incensed at his audacity, he was defeated, and taken prisoner. When the Yádavas heard of the occurrence, their wrath was kindled against Duryodhana and his associates, and they prepared to take up arms against them; but Baladeva, in accents interrupted by the effects of ebriety, forbade them, and said, "I will go alone to the sons of Kuru; they will liberate Śámba at my request." Accordingly he went to the elephant-styled city (Hastinápur), but took up his abode in a grove without the town, which he did not enter. When Duryodhana and the rest heard that he had arrived there, they sent him a cow, a present of fruits and flowers, and water. Bala received the offering in the customary form, and said to the Kauravas, "Ugrasena commands you to set Śámba at liberty." When Duryodhana, Karńa, Bhíshma, Drońa, and the others, heard this, they were very angry; and Báhlíka and other friends of the Kauravas, who looked upon the Yadu race as not entitled to regal dignity, said to the wielder of the club, "What is this, Balabhadra, that thou hast uttered? What Yádava shall give orders to the chiefs of the family of Kuru? If Ugrasena issues his mandates to the Kauravas, then we must take away the white umbrella that he has usurped, and which is fit only for kings. Depart therefore, Balaráma; you are entitled to our respect; but Śámba has been guilty of improper conduct, and we will not liberate him either at Ugrasena's commands or yours. The homage that is due to us, their superiors, by the Kukkura and Andhaka tribes, may not be paid by them; but who ever heard of a command issued by a servant to his master? Elevation to an equal seat has rendered you arrogant. We have committed a great mistake in neglecting, through our friendship for you, the policy (that teaches the danger of treating the abject with deference). Our sending you to-day a respectful present was an intimation of (personal) regard, which it was neither fit for our race to have proffered, nor for your's to have expected."Having thus spoken, the Kuru chiefs, unanimously refusing to set the son of Hari at large, immediately returned into the city. Bala, rolling about with intoxication, and the wrath which their contemptuous language had excited, struck the ground furiously with his heel, so that it burst to pieces with a loud sound that reverberated through the regions of space. His eyes reddened with rage, and his brow was curved with frowns, as he exclaimed, "What arrogance is this, in such vile and pithless creatures! The sovereignty of the Kauravas, as well as our own, is the work of fate, whose decree it also is that they now disrespect or disobey the commands of Ugrasena. Indra may of right give his orders to the gods; and Ugrasena exercises equal authority with the lord of Śachí. Fie upon the pride that boasts a throne, the leavings of a hundred mortals! Is not he the sovereign of the earth, the wives of whose servants adorn themselves with the blossoms of the Párijáta tree? Ugrasena shall be the undisputed king of kings; for I will not return to his capital until I have rid the world wholly of the sons of Kuru. I will destroy Karńa, Duryodhana, Drońa, Bhíshma, Báhlíka, Duhsáśana, Bhúrisravas, Somadatta, Śalya, Bhíma, Arjuna, Yudhisht́hira, the twins, and all the other vile descendants of Kuru, with their horses, elephants, and chariots. I will rescue the hero Śámba from captivity, and carry him, along with his wife, to Dwáraká, where I shall again behold Ugrasena and the rest of my kin. Or, authorized by the king of the gods to remove the burdens of the earth, I will take this capital of the Kauravas, with all the sons of Kuru, and cast the city of the elephant into the Bhágírathí."So saying, the wielder of the club, Baladeva, his eyes red with rage, plunged the blade of his ploughshare downwards, beneath the ramparts of the city, and drew them towards him. When the Kauravas beheld Hastinápura tottering, they were much alarmed, and called loudly on Ráma, saying, "Ráma, Ráma! hold, hold! suppress your wrath! have mercy upon us! Here is Śámba, and his wife also, delivered up to thee. Forgive our sins, committed in ignor
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0282 | next_story_id: DKS_0284
+previous title: Sudarshana Consumes the Conjured Fire and Burns Varanasi/Benares
+next title: Narada Sees Krishna in Every Palace of Dvaraka || Narada visits Dvaraka to witness Krishna's household, and sees him simultaneously present in each of the 16,000 palaces performing different duties.

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0515",
+ "title": "The Miserly Brahmin of Avanti",
+ "subtitle": "A man who lost everything sings of the mind",
+ "story": "In the city of Avanti there lived a brahmin who owned more than anyone and gave away less than anyone. His wealth was a hoard, kept like a yaksha's treasure; his relatives and his guests were not honored even with a word. He was miserly by habit and cruel in manner, and one by one his own sons and kinsmen turned against him.\n\nThen the family closed in. His relatives took part of his wealth, and thieves carried off the rest, and the brahmin who had been the richest man in Avanti sat looking at his empty rooms. He had lost both worlds at once — the comforts of this one, and the merit that might have bought him the next, worn away by the contempt he had earned.\n\nFor a long time he brooded over the ruin. Then the grief turned, and he began to speak to himself. What calamity is this, he said, that I tormented myself for nothing? Wealth never gives happiness to a miser — not once, not ever. Look what it brings: theft, violence, falsehood, deceit, desire, anger, pride, intoxication. Fifteen evils grow from a single root of gold. Brothers break with brothers over the smallest amount; fathers, wives, friends, all split apart where money is. I was given a human birth, which even the immortals pray for, and the highest station of a brahmin — the very door to heaven and to freedom — and I spent it chasing a hoard. What use are riches, or the givers of riches? What use are desires, or the givers of desires? Surely the Lord, Hari, who contains all the gods, is pleased with me, to have stripped all this away. With what life is left to me I will dry up this body, and the gods of the three worlds will rejoice in me.\n\nSo he left everything. He became a wandering mendicant, silent, his senses and his breath under control, and he walked the roads and villages of the land, begging his bread.\n\nThe townspeople did not make it easy. He was old and poor and they found him sport. Some snatched his triple staff; some grabbed his bowl and his water pot. When he sat on a riverbank to eat the alms he had gathered, they took the food from his hands. They tried to make the silent man speak, and struck him when he would not. A cheat, they said, wearing the flag of religion. A fraud. Some laughed at him; some spat insults after him; here and there a man who watched him suffer in stillness would mutter, grudgingly, that he bore it like a mountain.\n\nAnd the brahmin bore it. Mocked and beaten by the base, enduring the pains that come from the world and from the body and from the gods themselves, he lifted his voice and sang a song that has been sung ever since.\n\nIt is the mind alone, he sang, that creates the qualities of nature, and from them all the varied works of men. The self does nothing — it only watches, golden and still, while the mind chases and suffers, and calls itself the doer. For a man whose mind is calm and collected, what need is there of gifts, of rites, of vows, of learning? The gods themselves fell under the mind's sway, and the mind bows to nothing else. It is an unconquerable enemy, unbearable in force, a thorn in the heart — and few there are who master it. Foolish men look at this body, which is only mind-stuff, and cry I and mine. Is it people, then, that cause our joy and sorrow? Or the gods? Or the planets? Or karma, or time? No: no one outside, anywhere, at any time, tinges the self with joy or grief. The mind alone turns the wheel of existence, and the man who knows this stands on the ground the great seers of old stood on.\n\nWhen Krishna told this story to Uddhava, he ended it with a single sentence. No one gives a person joy or sorrow, he said, except his own confusion. Therefore, my son, restrain the mind with discernment — with all your strength, restrain it. And the song the mendicant sang, the song of the man of Avanti, is the song of anyone who has understood where his suffering actually comes from.",
+ "reflection": "The brahmin's loss of wealth is not a punishment but an unwinding: it removes the one thing that kept him from seeing himself. His song is not about poverty — it is about locating the source of joy and sorrow, and the man who could not bear to part with a coin learns to part with everything, including his own misery.",
+ "tradition_note": null,
+ "content_note": "The episode includes the townspeople seizing the mendicant's staff and bowl and striking him; the violence is described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "the Avanti brahmin",
+  "the townspeople of Avanti"
+ ],
+ "locations": [
+  "Avanti",
+  "the roads and villages of the land"
+ ],
+ "themes": [
+  "greed",
+  "renunciation",
+  "forbearance",
+  "the mind"
+ ],
+ "previous_story_id": "DKS_0514",
+ "next_story_id": "DKS_0516",
+ "next_story_tease": "A king, not a beggar, was the next to learn the same truth about the mind's delusions.",
+ "hero_scene": "A thin, ragged mendicant stands serene on a riverbank while a crowd snatches his staff and bowl and points and laughs around him; his face is calm and he sings with one hand raised.",
+ "visual_elements": [
+  "the ragged, silent mendicant on the riverbank",
+  "townspeople grabbing his staff, bowl and water pot",
+  "the crowd mocking and pointing",
+  "the alms food scattered on the ground",
+  "the mendicant's serene face as he sings"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.23.5-60",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:12:23Z",
+  "source_event_id": "evt_0535"
+ },
+ "editorial_status": "unreviewed"
+}

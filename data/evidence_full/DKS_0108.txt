@@ -1,0 +1,36 @@
+# STORY DKS_0108 — Uddhava Arrives Bearing Krishna's Message
+
+## Index entry
+title: Uddhava Arrives Bearing Krishna's Message
+summary: Uddhava arrives in Vrindavan as Krishna's envoy; the gopis, pining for Krishna, surround him and ask why he has come.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Uddhava, Krishna, Gopis
+locations: Vrindavan
+themes: separation, devotion, longing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0157
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 47 | verses 1-9 | confidence 5
+  excerpt: The astonished gopis surrounded him, asking 'Who is this of wondrous beauty, wearing Achyuta's dress and ornaments?' They recognized him as a messenger sent by Krishna for love of his parents. (rendered from Sanskrit, verses 1-9)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.47 (1-9)
+1. su-vismitāḥ ko 'yam apīvya-darśanaḥ $ kutaś ca kasyācyuta-veṣa-bhūṣaṇaḥ & su-vismitāḥ ko 'yam apīvya-darśanaḥ $ kutaś ca kasyācyuta-veṣa-bhūṣaṇaḥ & iti sma sarvāḥ parivavrur utsukās % tam uttamaḥ-śloka-padāmbujāśrayam
+2. taṃ praśrayeṇāvanatāḥ su-sat-kṛtaṃ sa-vrīḍa-hāsekṣaṇa-sūnṛtādibhiḥ /
+3. jānīmas tvāṃ yadu-pateḥ pārṣadaṃ samupāgatam /
+4. anyathā go-vraje tasya smaraṇīyaṃ na cakṣmahe /
+5. anyeṣv artha-kṛtā maitrī yāvad-artha-viḍambanam /
+6. niḥsvaṃ tyajanti gaṇikā akalpaṃ nṛpatiṃ prajāḥ /
+7. khagā vīta-phalaṃ vṛkṣaṃ bhuktvā cātithayo gṛham /
+8. iti gopyo hi govinde gata-vāk-kāya-mānasāḥ /
+9. gāyantyaḥ prīya-karmāṇi rudantyaś ca gata-hriyaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0107 | next_story_id: DKS_0109
+previous title: The Great Rasa Dance
+next title: The Gopi's Lament to the Bee (Bhramara-gita)

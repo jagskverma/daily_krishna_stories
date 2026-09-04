@@ -1,0 +1,123 @@
+# STORY DKS_0026 — The Infant Krishna Overturns the Cart with His Foot
+
+## Index entry
+title: The Infant Krishna Overturns the Cart with His Foot
+summary: During the birth ceremonies, the unattended infant kicks the great cart, shattering it and scattering its vessels, to the astonishment of all.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Yasoda
+locations: Gokula
+themes: wonder, divine_strength
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0040
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 7 | verses 3-16 | confidence 5
+  excerpt: Left beneath a cart while Yasoda attends the rites, the crying infant kicks it with his tender foot; the cart overturns, its wheels and axle broken and its vessels scattered, leaving everyone amazed. (rendered from Sanskrit, verse 3-16)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 61 | verses  | confidence 4
+  excerpt: Then raising up his legs he overturned the carriage with one of them. And then crawling on his legs he began to cry for milk.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 6 | verses  | confidence 4
+  excerpt: whilst Madhusúdana was asleep underneath the waggon, he cried for the breast, and kicking up his feet he overturned the vehicle, and all the pots and pans were upset and broken.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.7 (3-16)
+3. bhp_10.07.004/0 śrī-śuka uvāca
+4. nandasya patnī kṛta-majjanādikaṃ vipraiḥ kṛta-svastyayanaṃ supūjitaiḥ /
+5. autthānikautsukya-manā manasvinī samāgatān pūjayatī vrajaukasaḥ /
+6. adhaḥ-śayānasya śiśor ano 'lpaka- pravāla-mṛdv-aṅghri-hataṃ vyavartata /
+7. dṛṣṭvā yaśodā-pramukhā vraja-striya $ autthānike karmaṇi yāḥ samāgatāḥ &amp;nandādayaś cādbhuta-darśanākulāḥ % kathaṃ svayaṃ vai śakaṭaṃ viparyagāt
+8. ūcur avyavasita-matīn gopān gopīś ca bālakāḥ /
+9. na te śraddadhire gopā bāla-bhāṣitam ity uta /
+10. rudantaṃ sutam ādāya yaśodā graha-śaṅkitā /
+11. pūrvavat sthāpitaṃ gopair balibhiḥ sa-paricchadam /
+12. ye 'sūyānṛta-dambherṣā- hiṃsā-māna-vivarjitāḥ /
+13. iti bālakam ādāya sāmarg-yajur-upākṛtaiḥ /
+14. vācayitvā svastyayanaṃ nanda-gopaḥ samāhitaḥ /
+15. gāvaḥ sarva-guṇopetā vāsaḥ-srag-rukma-mālinīḥ /
+16. viprā mantra-vido yuktās tair yāḥ proktās tathāśiṣaḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.61 ()
+TITLE: SUPERHUMAN DEEDS OF KRISHNA. HE UPSETS A CARRIAGE AND KILLS
+
+PUTANA.
+
+Vaishampayana said:—Without showing himself properly the Lord spent a
+considerable time as a milk-man in the village of Nanda (1). Of those
+two boys the eldest was named Sangkarshana and the youngest Krishna.
+They grew up there most happily (2). Incarnating himself as Krishna the
+Lord Hari, assuming the dark-blue hue of the cloud, grew up there in the
+midst of milk-men like a cloud in the ocean (3).
+
+One day while Krishna fell asleep under a carriage, Yashoda, fond of her
+sons, went to the river Yamunā leaving him there (4). Thereupon to sport
+there like a child Krishna began to cry and throw up his arms. Then
+raising up his legs he overturned the carriage with one of them. And
+then crawling on his legs he began to cry for milk (5–6). In the
+meantime, Yashodā, having finished her bath and her person wetted with
+the milk of her breast like a milch cow, when its calf is tied, came
+there with her mind stricken with fear (7). She saw there the carriage
+over turned without any wind. And then crying aloud she speedily took up
+her child (8). She could not truly make out how the carriage was
+overturned; and then filled with fear she said to her boy (9) "O my
+child, your father is highly wrathful. I do not know what he will say
+when he will come to know of your sleeping under the carriage and of its
+being overturned (10). What is the use of my bathing? What business had
+I to go to go the river. On account of this foolish act of mine I saw
+you under the overturned carriage (11)."
+
+Clad in a silken raiment Nanda had gone to the forest to tend his kine.
+When he returned to his own house in Vraja he saw the carriage upset.
+Its two wheels were raised up. The axles, the pitcher and the rod were
+all broken (12-13) Seeing this he was greatly terrified and coming
+quickly with eyes full of tears he repeatedly asked "Is my son all
+right?" (14). When he saw his son sucking the breast of Yashodā he was
+relieved of his anxiety and asked how the carriage was upset without the
+fighting of the bulls (15). Terrified and with a suppressed voice
+Yashoda replied: "O gentle one, I do not know who has upset this
+carriage. I had been to the river to wash my cloth. When I came back I
+saw it overturned (16–17)".
+
+While they were thus talking, the boys, who were present there,
+said:—"When we came here of our own accord we saw this boy upsetting the
+carriage with his feet". Hearing this the milkman Nanda was filled with
+great surprise (18–19). Pleased and terrified he began to think how
+could this be. The other milkmen, having the ordinary intelligence of
+men, placed no confidence in the words of the boys (20). Filled with
+wonder and having their eyes expanded accordingly they replaced the
+carriage and tied its wheels (21).
+
+Vaishampayana said:—Once on a time in the mid-night, Kansa’s nurse, the
+dreadful Putanā, creating the fear of life, went in the shape of a bird,
+capable of assuming forms at will, to village of milkmen, shaking her
+wings (22–23). Entering, in the mid-night, into Vraja, roaring like a
+tiger, Putanā assumed the form of a woman. And having her breast pressed
+by milk she lay down under the wheel of the carriage. When all the
+inhabitants of Vraja fell asleep she began to give milk to Krishna
+(24–25). Thereupon drink ing up all her vital breaths together with her
+milk Krishna set up a terrible sound. She too, having her breast
+sundered, fell down earth (26). At that sound, Nanda, other milk-men and
+Yashodā awoke. And they were all beside themselves with fear (27). They
+saw there Putanā lying down on the ground, bereft of her consciousness
+and breast, as if she had been crushed down by a thunder-bolt (23).
+Exclaiming "What is this? Who has done it?" all the milkmen headed by
+Nanda stood around her (29). They however could not, by any means, find
+out the cause. Exclaiming repeatedly "Wonder! Wonder!" they went to
+their own houses (30). After the milkmen had gone away to their
+respective homes filled with wonder, Nanda respectfully said to
+Yashodā:—"O timid lady, I have been struck with great wonder and have
+not been able to trace out its cause. What ever it may be, I am really
+afraid. Is there any danger for my son (31–42)?"
+
+Yashoda, too, stricken with fear, replied:—"O reverend Sir, I was asleep
+with my son and was roused up by this terrible sound. So I do not know
+what took place before" (33). Hearing the reply of Yashodā, Nanda,
+together with his friends, was filled with surprise and anticipated fear
+from Kansa (34).
+
+## Corpus chain
+previous_story_id: DKS_0025 | next_story_id: DKS_0027
+previous title: The Villagers Burn Putana's Body
+next title: Trinavarta the Whirlwind Carries Off the Baby

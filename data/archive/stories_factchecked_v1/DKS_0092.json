@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0092",
+ "title": "Krishna Steals the Gopis' Clothes",
+ "subtitle": null,
+ "story": "For a full month the young women of Vrindavan had kept their vow. Through the coldest days of early winter they rose before dawn, walked down to the Yamuna together, and bathed in water that took the breath away. They worshipped the goddess with sandal paste, garlands, incense, and small lamps of ghee, and every morning the prayer was the same: a single, unvarying request that the dark, lovely son of Nanda might one day be their own. It was a shy, impossible prayer, the kind young hearts make and tell no one but the river.\n\nThese were the girls who had stood shivering in the river every dawn, asking a goddess to grant them this very boy. They had pictured him a hundred ways — on the path at dusk, at the festival, across the fields. None of them had pictured him like this: perched high in a tree with their own clothes heaped beside him, grinning down as if the whole long winter had been leading to this one joke.\n\nThat morning, as on every other, they laid their clothes on the riverbank and stepped into the water. But this time Krishna had come down after them, and he understood at once what their long discipline had really been for. He was not a boy who happened to pass; the verses call him the master of all masters of yoga, and nothing of their hearts was hidden from him. Quietly he gathered the garments from the bank, and before any of them could turn, he had climbed a kadamba tree and settled among its branches, the bundle of clothes laid beside him like a prize. The tree stood close to the water, its leaves dark and heavy in the grey morning light.\n\nFrom the branches he laughed and called down to them. Come, he said, one by one, and take back what is yours.\n\nThe girls stood waist-deep in the cold river and looked up at him. They did not grow angry, and they did not sink away and hide. The verses say they remembered that he had never once spoken an untruth to them, and that the jest held no cruelty in it. So they did not reproach him. One by one their heads lifted, and they stole glances at one another across the water, unsure whether to laugh or to plead. All their dawn baths, all their whispered prayers, had been aimed at him; and here he was, suddenly, within arm's reach, asking them to set down the last of their shyness and stand before him as they were. They only looked up, and — the text puts it simply — they were flooded with love, the way a lamp flares when a hand is cupped too near the flame.\n\nKrishna gave no sign of climbing down. He knew them, and he knew the prayer that had sent them into the water day after day; the whole jest turned on that knowing. The clothes stayed high in the tree, and the girls stayed in the river, and between them hung a question neither side moved to answer.\n\nThe morning was very still. The current slid past, dark and cold, the leaves of the kadamba barely stirred, and the sound of his laughter still hung in the air above the water, waiting to see what the girls would do next. The water lapped against them, cold as it had been all month, but none of them moved to cover themselves or to go; they only stood, and looked up, and loved him.",
+ "reflection": "The jest is not mockery. Krishna takes the one thing the girls would be ashamed to be seen without, and by doing so he strips away the shyness that stood between them and the one they had been praying for. The verse marks no anger in them — only love — because they trust that his mischief has no cruelty in it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "playfulness",
+  "modesty",
+  "sport"
+ ],
+ "previous_story_id": "DKS_0091",
+ "next_story_id": "DKS_0093",
+ "next_story_tease": "But the clothes stayed high in the tree, and the girls still shivered in the river, waiting to see what he would ask of them.",
+ "hero_scene": "Krishna sitting high in a kadamba tree on the Yamuna's bank, a bundle of the gopis' garments beside him, laughing down at the young women who stand waist-deep in the cold river looking up at him.",
+ "visual_elements": [
+  "Krishna in the kadamba tree",
+  "bundle of bright garments",
+  "the young gopis in the river",
+  "cold grey dawn",
+  "the dark Yamuna current",
+  "morning mist",
+  "playfulness and love"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.22.6-11",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:02:47Z",
+  "source_event_id": "evt_0085"
+ },
+ "editorial_status": "unreviewed"
+}

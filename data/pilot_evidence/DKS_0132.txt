@@ -1,0 +1,95 @@
+# STORY DKS_0132 — Krishna Straightens the Hunchback Kubja
+
+## Index entry
+title: Krishna Straightens the Hunchback Kubja
+summary: Kubja gives Krishna sandal paste, and he straightens her crooked body into a beautiful woman.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Kubja
+locations: Mathura
+themes: compassion, blessing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0135
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 42 | verses 1-12 | confidence 5
+  excerpt: The hunchback woman Kubja gave Krishna her sandal paste; pleased, Krishna pressed her cheeks and straightened her crooked body into a beautiful woman, and she begged him to come to her house, and he promised. (rendered from Sanskrit, verses 1-12)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 82 | verses  | confidence 4
+  excerpt: Krishna, conversant with the art of arranging for sports, softly touched the haunch of Kuvja with his fingers... Knowing her haunch (thus) broken, the beautiful and sweet smiling Kuvja... said with love to Krishna.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 20 | verses  | confidence 4
+  excerpt: Then Krishńa, skilled in the curative art, took hold of her, under the chin, with the thumb and two fingers, and lifted up her head, whilst with his feet he pressed down her feet; and in this way he made her straight.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.42 (1-12)
+1. kā tvaṃ varorv etad u hānulepanaṃ kasyāṅgane vā kathayasva sādhu naḥ /
+2. bhp_10.42.003/0 sairandhry uvāca dāsy asmy ahaṃ sundara kaṃsa-sammatā $ trivakra-nāmā hy anulepa-karmaṇi & dāsy asmy ahaṃ sundara kaṃsa-sammatā $ trivakra-nāmā hy anulepa-karmaṇi & mad-bhāvitaṃ bhoja-pater ati-priyaṃ % vinā yuvāṃ ko 'nyatamas tad arhati
+3. rūpa-peśala-mādhurya hasitālāpa-vīkṣitaiḥ /
+4. tatas tāv aṅga-rāgeṇa sva-varṇetara-śobhinā /
+5. prasanno bhagavān kubjāṃ trivakrāṃ rucirānanām /
+6. padbhyām ākramya prapade dry-aṅguly-uttāna-pāṇinā /
+7. sā tadarju-samānāṅgī bṛhac-chroṇi-payodharā /
+8. tato rūpa-guṇaudārya- sampannā prāha keśavam /
+9. ehi vīra gṛhaṃ yāmo na tvāṃ tyaktum ihotsahe /
+10. evaṃ striyā yācyamānaḥ kṛṣṇo rāmasya paśyataḥ /
+11. eṣyāmi te gṛhaṃ su-bhru puṃsām ādhi-vikarśanam /
+12. visṛjya mādhvyā vāṇyā tām vrajan mārge vaṇik-pathaiḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.82 ()
+TITLE: KRISHNA’S ARRIVAL
+
+Vaishampayana said:—Thereupon yoking (the horses to the) car and
+ascending thereon the liberal giver Akrura set out with Krishna and
+Sangkarshana and reached the charming city of Mathurā protected by
+Kansa. And before evening when the sun was in its crimson colour he
+entered that beautiful city (1-2).
+
+Taking the heroic Krishna and Sangkarshana of beautiful colour first to
+his own house the intelligent giver of liberal presents, effulgent like
+the sun, said to them:—
+
+"O sire, for the present you are to relinquish the desire of going to
+Vasudeva’s house (3-4). For you, your old father is being day and night
+chiden by Kansa. So you should not wait here long (5). You should do
+such a good and pleasant work on his behalf that your father may attain
+to happiness (6)."
+
+Hearing this Krishna said:—"If you like O pious (Akrura) we, while
+visiting Mathura and her highways, will enter unperceived into Kansa’s
+house (7)."
+
+Vaishampāyana said:—Bowing unto Krishna in his mind Akrura too, with a
+delighted mind, went to Kansa (8). Thus instructed those two heroes went
+on visiting all the high-ways like two elephants let free from their
+posts and desirous of fighting (9). Seeing a washer-man on the way they
+asked of him beautiful clothes (10). The washer man replied to them,
+saying "Who are you? Out of ignorance you have been fearlessly wanting
+the robes of the king. It seems you are rangers of the forest (11). I
+dye, as he desires, all the clothes of the king Kansa which he gets from
+various countries (12). Methinks, born in a forest you have grown up
+with the deer. Otherwise why do long for and pray for the various dyed
+clothes (13). You are stupid and of inferior intellect, or else why do
+you desire for king’s clothes. Perhaps giving up all hopes of your life
+you have come here (14)."
+
+Destiny was against that stupid washer-man of feeble understanding and
+therefore he discharged such poisonous words. Krishna grew offended with
+him and struck him on the head with his fist strong as the thunder-bolt.
+With his head sundered he fell down lifeless on earth (15-16). Thereupon
+the wives of that washer-man, bewailing for their dead husband
+indignantly and with dishevelled hairs, soon approached Kansa’s house
+(17).
+
+Like two elephants attracted by smell those two sweet speeched brothers
+went to a shop for garlands (18). There lived a wealthy, sweet-speeched
+and good-looking garland dealer by name Gunaka. He had a large stock of
+garlands (19). Desirous of having garlands Krishna, with sweet words and
+without any hesitation, said to the shop-keeper "G
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0117 | next_story_id: DKS_0139
+previous title: Akrura Beholds the Divine Vision in the Yamuna
+next title: Krishna and Balarama Slay the Wrestlers

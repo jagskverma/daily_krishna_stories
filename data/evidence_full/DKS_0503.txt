@@ -1,0 +1,49 @@
+# STORY DKS_0503 — Uddhava Arrives in Vrindavan and Nanda Longs for Krishna
+
+## Index entry
+title: Uddhava Arrives in Vrindavan and Nanda Longs for Krishna
+summary: Uddhava reaches Vrindavan at dusk, is honored by Nanda, who asks after Krishna and remembers his deeds.
+life_stage: vrindavan | story_arc: uddhava_and_teachings
+characters: Uddhava, Nanda, Yashoda
+locations: Vrindavan
+themes: remembrance, longing
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0156
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 46 | verses 7-28 | confidence 5
+  excerpt: Uddhava arrived in Vrindavan at dusk, was embraced by Nanda and honored as Vasudeva himself, and Nanda, recounting Krishna's deeds, asked after his son; and Yashoda wept as she listened. (rendered from Sanskrit, verses 7-28)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.46 (7-28)
+7. prāpto nanda-vrajaṃ śrīmān nimlocati vibhāvasau /
+8. vāsitārthe 'bhiyudhyadbhir nāditaṃ śuśmibhir vṛṣaiḥ /
+9. itas tato vilaṅghadbhir go-vatsair maṇḍitaṃ sitaiḥ /
+10. gāyantībhiś ca karmāṇi śubhāni bala-kṛṣṇayoḥ /
+11. agny-arkātithi-go-vipra- pitṛ-devārcanānvitaiḥ /
+12. sarvataḥ puṣpita-vanaṃ dvijāli-kula-nāditam /
+13. tam āgataṃ samāgamya kṛṣṇasyānucaraṃ priyam /
+14. bhojitaṃ paramānnena saṃviṣṭaṃ kaśipau sukham /
+15. kaccid aṅga mahā-bhāga sakhā naḥ śūra-nandanaḥ /
+16. diṣṭyā kaṃso hataḥ pāpaḥ sānugaḥ svena pāpmanā /
+17. api smarati naḥ kṛṣṇo mātaraṃ suhṛdaḥ sakhīn /
+18. apy āyāsyati govindaḥ sva-janān sakṛd īkṣitum /
+19. dāvāgner vāta-varṣāc ca vṛṣa-sarpāc ca rakṣitāḥ /
+20. smaratāṃ kṛṣṇa-vīryāṇi līlāpāṅga-nirīkṣitam /
+21. saric-chaila-vanoddeśān mukunda-pada-bhūṣitān /
+22. manye kṛṣṇaṃ ca rāmaṃ ca prāptāv iha surottamau /
+23. kaṃsaṃ nāgāyuta-prāṇaṃ mallau gaja-patiṃ yathā /
+24. tāla-trayaṃ mahā-sāraṃ dhanur yaṣṭim ivebha-rāṭ /
+25. pralambo dhenuko 'riṣṭas tṛṇāvarto bakādayaḥ /
+26. bhp_10.46.027/0 śrī-śuka uvāca
+27. yaśodā varṇyamānāni putrasya caritāni ca /
+28. tayor itthaṃ bhagavati kṛṣṇe nanda-yaśodayoḥ /
+
+## Corpus chain
+previous_story_id: DKS_0502 | next_story_id: DKS_0504
+previous title: Krishna Sends Uddhava to Vrindavan
+next title: Uddhava Begs Krishna Not to Leave Him Behind

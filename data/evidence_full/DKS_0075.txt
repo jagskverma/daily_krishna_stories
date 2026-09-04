@@ -1,0 +1,50 @@
+# STORY DKS_0075 — Kaliya's Wives Plead for His Life
+
+## Index entry
+title: Kaliya's Wives Plead for His Life
+summary: The serpent's wives, with disheveled hair and folded hands, praise Krishna and beg him to spare their husband's life.
+life_stage: vrindavan | story_arc: kaliya_and_yamuna
+characters: Kaliya, Kaliya's wives, Krishna
+locations: Yamuna river
+themes: mercy, devotion, intercession
+festival_tags: Naga Panchami
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0072
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 16 | verses 30-52 | confidence 5
+  excerpt: As Kaliya lies broken, his wives come before Krishna with folded hands and, praising him, plead that the chastisement itself is grace and that their husband's life be spared. (rendered from Sanskrit, verse 30-52)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.16 (30-52)
+30. kṛṣṇasya garbha-jagato 'ti-bharāvasannaṃ $ pārṣṇi-prahāra-parirugna-phaṇātapatram &kṛṣṇasya garbha-jagato 'ti-bharāvasannaṃ $ pārṣṇi-prahāra-parirugna-phaṇātapatram &dṛṣṭvāhim ādyam upasedur amuṣya patnya % ārtāḥ ślathad-vasana-bhūṣaṇa-keśa-bandhāḥ
+31. tās taṃ su-vigna-manaso 'tha puraskṛtārbhāḥ $ kāyaṃ nidhāya bhuvi bhūta-patiṃ praṇemuḥ &tās taṃ su-vigna-manaso 'tha puraskṛtārbhāḥ $ kāyaṃ nidhāya bhuvi bhūta-patiṃ praṇemuḥ &sādhvyaḥ kṛtāñjali-puṭāḥ śamalasya bhartur % mokṣepsavaḥ śaraṇa-daṃ śaraṇaṃ prapannāḥ
+32. bhp_10.16.033/0 nāga-patnya ūcuḥ nyāyyo hi daṇḍaḥ kṛta-kilbiṣe 'smiṃs $ tavāvatāraḥ khala-nigrahāya & nyāyyo hi daṇḍaḥ kṛta-kilbiṣe 'smiṃs $ tavāvatāraḥ khala-nigrahāya & ripoḥ sutānām api tulya-dṛṣṭir % dhatse damaṃ phalam evānuśaṃsan
+33. anugraho 'yaṃ bhavataḥ kṛto hi no daṇḍo 'satāṃ te khalu kalmaṣāpahaḥ /
+34. tapaḥ sutaptaṃ kim anena pūrvaṃ nirasta-mānena ca māna-dena /
+35. kasyānubhāvo 'sya na deva vidmahe tavāṅghri-reṇu-sparaśādhikāraḥ /
+36. na nāka-pṛṣṭhaṃ na ca sārva-bhaumaṃ $ na pārameṣṭhyaṃ na rasādhipatyam &amp;na yoga-siddhīr apunar-bhavaṃ vā % vāñchanti yat-pāda-rajaḥ-prapannāḥ
+37. tad eṣa nāthāpa durāpam anyais tamo-janiḥ krodha-vaśo 'py ahīśaḥ /
+38. namas tubhyaṃ bhagavate puruṣāya mahātmane /
+39. jñāna-vijñāna-nīdhaye brahmaṇe 'nanta-śaktaye /
+40. kālāya kāla-nābhāya kālāvayava-sākṣiṇe /
+41. bhūta-mātrendriya-prāṇa- mano-buddhy-āśayātmane /
+42. namo 'nantāya sūkṣmāya kūṭa-sthāya vipaścite /
+43. namaḥ pramāṇa-mūlāya kavaye śāstra-yonaye /
+44. namaḥ kṛṣṇāya rāmāya vasudeva-sutāya ca /
+45. namo guṇa-pradīpāya guṇātma-cchādanāya ca /
+46. avyākṛta-vihārāya sarva-vyākṛta-siddhaye /
+47. parāvara-gati-jñāya sarvādhyakṣāya te namaḥ /
+48. tvaṃ hy asya janma-sthiti-saṃyamān vibho $ guṇair anīho 'kṛta-kāla-śakti-dhṛk &amp;tat-tat-svabhāvān pratibodhayan sataḥ % samīkṣayāmogha-vihāra īhase
+49. tasyaiva te 'mūs tanavas tri-lokyāṃ $ śāntā aśāntā uta mūḍha-yonayaḥ &tasyaiva te 'mūs tanavas tri-lokyāṃ $ śāntā aśāntā uta mūḍha-yonayaḥ &śāntāḥ priyās te hy adhunāvituṃ satāṃ % sthātuś ca te dharma-parīpsayehataḥ
+50. aparādhaḥ sakṛd bhartrā soḍhavyaḥ sva-prajā-kṛtaḥ /
+51. anugṛhṇīṣva bhagavan prāṇāṃs tyajati pannagaḥ /
+52. vidhehi te kiṅkarīṇām anuṣṭheyaṃ tavājñayā /
+
+## Corpus chain
+previous_story_id: DKS_0074 | next_story_id: DKS_0076
+previous title: Krishna Dances on Kaliya's Heads
+next title: Krishna Spares and Banishes Kaliya

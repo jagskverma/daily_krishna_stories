@@ -1,0 +1,69 @@
+{
+ "id": "DKS_0076",
+ "title": "Krishna Spares and Banishes Kaliya",
+ "subtitle": null,
+ "story": "The wives had fallen silent, and their prayer hung over the dark water like breath on a cold morning. Then Kaliya himself began to stir. Slowly the strength came back into his limbs and his senses returned to him, and the king of the serpents lifted his head and spoke to the boy who stood upon him.\n\n“This whole world was brought forth by you,” he said. “We serpents are fierce by our very birth, and our anger runs deep; but you are the cause of everything, the one who knows all, the lord of the world.” There was no fight left in him now. The terror of the river had become something small and quiet, speaking in the voice of a supplicant.\n\nKrishna did not strike him again. He let him live. “Do not stay in this water any longer,” he said. “Take your wives and your kin and go to the ocean.” It was a strange thing to hear from the boy who had danced on his heads — not a sentence of death but a way out, and a promise of safety to go with it. The marks of Krishna's own feet, pressed into the serpent's heads by the dance, would remain upon him; and Garuda, the great eagle who had hunted the serpents since the beginning, would see those marks and would not touch him. He told Kaliya, too, that whoever remembered this command of his, or bathed in that pool where the boy had played and offered water to the gods, would be freed of sin.\n\nSo Kaliya was let go, and he did not go empty-handed. Before he left he worshipped Krishna as one worships a god — with divine garments and garlands, with gems and ornaments of the finest kind — and he honoured the boy whose very banner is Garuda. Then, with his wives and his children and his kin, he slipped away from the pool and made for the sea, and he went to the island of Ramanaka, far out in the ocean — the very island he had left long before, when pride first sent him into the world to trouble the river.\n\nAnd where the serpent had been, the water began to change. The poison that had darkened it lifted, and the Yamuna ran sweet and clear again, as it had before. The cattle that had been perishing of its water were restored; the river became once more what it had always been — a thing the people of Vrindavan could drink without fear.\n\nLong afterward, when Krishna had left the world, Uddhava would remember this among the wonders of his friend's childhood: how he had raised up the cows that the poisoned water had brought low, subdued the king of serpents, and given the river back to those who lived beside it.",
+ "reflection": "The striking turn is that Krishna does not kill the serpent. The poison is answered not with death but with departure, and the river heals without a killing. Mercy here is the decision to leave the world intact — a fugitive sent away under a promise of safety, and a river given back to its people.",
+ "tradition_note": "The Harivamsha and the Vishnu Purana fold the dance on the serpent's hoods into this same passage, where the Bhagavata tells it in the previous episode; Uddhava's words in Bhagavata 3.2 recall the event in later life.",
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Krishna",
+  "Kaliya",
+  "Kaliya's wives"
+ ],
+ "locations": [
+  "Yamuna river",
+  "ocean"
+ ],
+ "themes": [
+  "mercy",
+  "purification"
+ ],
+ "previous_story_id": "DKS_0075",
+ "next_story_id": "DKS_0077",
+ "next_story_tease": "And there remained the older question of how the serpent had ever come to that pool.",
+ "hero_scene": "Kaliya worshipping Krishna with garlands, gems and bright garments before his departure, his family gathered around him, as the boy stands calm at the edge of the now-clearing water.",
+ "visual_elements": [
+  "Krishna standing on the water",
+  "Kaliya speaking with lowered heads",
+  "garlands and gems offered in worship",
+  "the serpent's family departing",
+  "the island of Ramanaka in the distance",
+  "the Yamuna clearing",
+  "cattle drinking safely again",
+  "mercy and departure"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.16.53-67",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.2.30",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.67",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.7",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:02:36Z",
+  "source_event_id": "evt_0073"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

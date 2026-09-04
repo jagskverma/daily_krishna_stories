@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0273",
+ "title": "The Rock-Shower That Buried Krishna",
+ "subtitle": null,
+ "story": "For one stretch of the battle, Krishna was not to be seen at all — only a growing mound of rock where his chariot had stood. Salwa, the enemy king, had come to war against Dwaraka from his flying city Saubha, a fortress of costly metal that could move through the sky wherever he willed, and Krishna had gone out to meet him in single combat in the air.\n\nThe fight had begun as a duel of archery. Krishna took up his beautiful bow and began to cut down the enemies of the gods who crowded the aerial city, loosing arrows shaped like serpents, arrows that could climb to any height and strike with fierce energy. But then the city itself vanished. It was an illusion, a trick of the king's demonic craft, and for a moment Krishna could see nothing at all to shoot at. He was filled with wonder, and while he stood waiting, the host of Danavas — creatures of frightful visage, with wild hair — set up a great howl from every quarter.\n\nThey had chosen the wrong weapon. Krishna fitted to his bowstring the shaft that strikes by sound alone, the weapon that pierces a foe whose shout betrays his place. The howl ceased; the shouters fell, slain by arrows that blazed like the sun. Then another yell rose from another quarter, and his shafts went there; and so it went, the demons shrieking from all ten directions, above and across, and each yell was answered with arrows of diverse forms, charged with mantras, until the invisible hosts were silent.\n\nThen the car of precious metals reappeared — at Pragjyotisha, bewildering his eyes — and the destroying Danavas drowned him in a mighty shower of rocks. Torrents of stone came down on Krishna, on his horses, on his charioteer, on his flagstaffs, until the crags had covered him on every side and he had grown, as he later told it, like an ant-hill with its summits and peaks. He disappeared from sight altogether.\n\nHis own army broke at the sight. The Vrishni heroes, struck with panic, fled in all directions; heaven and earth and the space between were filled with cries of Oh! and Alas!; his friends wept and wailed with heavy hearts while his enemies rejoiced, certain that the charioteer of the gods' cause was finished.\n\nAnd then, from under the mountain of stone, Krishna acted. Wielding the thunderbolt — the favourite weapon of Indra, capable of riving stones — he destroyed the entire mass of crags. Rock burst and scattered; the mound that had been his grave became rubble at his feet. His horses, afflicted by the weight of the stones and almost on the point of death, stood trembling, and his friends, beholding him again, rejoiced as men rejoice when the sun rises and disperses the clouds.\n\nHis charioteer Daruka, looking across the field, saw the enemy king at last and would not be silent. \"Behold Salwa, the owner of the car of precious metals, sitting yonder,\" he said. \"Do not disregard him. Abandon your mildness and your consideration for him. Slay Salwa — do not let him live. An enemy must be slain with every exertion, and this one has devastated Dwaraka.\"\n\nKrishna knew the words were true. Bidding Daruka to stay a moment, he fixed his blazing weapon of fire to the bowstring, and then hurled the great discus Sudarshana, sharp-edged as a razor and unstained, which reduces to ashes Yakshas and Rakshasas and Danavas in battle. It rose into the sky like a second sun at the end of an age, and fell upon the town of Saubha; the discus went right through the city of precious metal, even as a saw divides a tall tree. Cut in twain by its energy, the flying city came down, and the war that had buried Krishna under a mountain ended with his weapon rising over it like the sun.",
+ "reflection": "The story is told in Krishna's own words — a warrior's account of being buried alive by stone and answering with the one weapon that could split stone. It is a study in composure under erasure: he disappears from sight, his own army abandons him, and he simply continues. The thunderbolt, Indra's favourite weapon, is the irony of the episode — the god who had once been Krishna's rival now lends his weapon to the fight against the gods' enemies.",
+ "tradition_note": null,
+ "content_note": "A battle episode: Krishna is buried under a torrent of rocks and destroys Salwa's aerial city. Described with restraint, without gore.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Salwa",
+  "Daruka"
+ ],
+ "locations": [
+  "Saubha",
+  "Pragjyotisha"
+ ],
+ "themes": [
+  "strength",
+  "divine weapon",
+  "perseverance"
+ ],
+ "previous_story_id": "DKS_0272",
+ "next_story_id": "DKS_0274",
+ "next_story_tease": null,
+ "hero_scene": "Krishna, buried to the neck among crags with only his head and raised arms visible, gripping Indra's thunderbolt and shattering the mountain of rocks that covers him, as the rubble bursts outward and his fleeing army turns back to see the sun rise over the wreck of Salwa's flying city.",
+ "visual_elements": [
+  "Krishna covered like an ant-hill by torrents of rocks",
+  "the thunderbolt of Indra riving the mass of crags",
+  "Krishna's horses trembling, near death under the stone",
+  "the fleeing Vrishni army turning back",
+  "Daruka urging Krishna to slay Salwa",
+  "the discus Sudarshana rising like a second sun",
+  "the flying city Saubha cut in twain",
+  "perseverance and divine weapon"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "3.22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:30Z",
+  "source_event_id": "evt_0362"
+ },
+ "editorial_status": "unreviewed"
+}

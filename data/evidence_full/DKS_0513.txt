@@ -1,0 +1,37 @@
+# STORY DKS_0513 — The Serpent, the Spider and the Wasp
+
+## Index entry
+title: The Serpent, the Spider and the Wasp
+summary: The avadhuta learns from the serpent (dwelling in another's abandoned hole, homeless), from the spider (who spins the web from himself and withdraws it again), and from the wasp (who becomes what it meditates upon).
+life_stage: other | story_arc: uddhava_and_teachings
+characters: the avadhuta, the serpent, the spider, the wasp
+locations: (teaching)
+themes: homelessness, creation and withdrawal, meditation
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0533
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 9 | verses 13-22 | confidence 5
+  excerpt: The avadhuta said: 'Building a house brings only sorrow — the serpent enters another's abandoned home and thrives. As the spider sends forth the thread from its own heart, plays with it and draws it back, so the Lord creates, sustains and withdraws the world. And as the wasp, meditating on its captor, becomes like it, so the mind becomes what it dwells upon.' (rendered from Sanskrit, verses 14, 20
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.9 (13-22)
+13. eka-cāry aniketaḥ syād apramatto guhāśayaḥ /
+14. gṛhārambho hi duḥkhāya viphalaś cādhruvātmanaḥ /
+15. eko nārāyaṇo devaḥ pūrva-sṛṣṭaṃ sva-māyayā /
+16. kālenātmānubhāvena sāmyaṃ nītāsu śaktiṣu /
+17. parāvarāṇāṃ parama āste kaivalya-saṃjñitaḥ /
+18. kevalātmānubhāvena sva-māyāṃ tri-guṇātmikām /
+19. tām āhus tri-guṇa-vyaktiṃ sṛjantīṃ viśvato-mukham /
+20. yathorṇanābhir hṛdayād ūrṇāṃ santatya vaktrataḥ /
+21. yatra yatra mano dehī dhārayet sakalaṃ dhiyā /
+22. kīṭaḥ peśaskṛtaṃ dhyāyan kuḍyāṃ tena praveśitaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0512 | next_story_id: DKS_0514
+previous title: The Osprey, the Child, the Maiden and the Arrow-Maker
+next title: The Swan Teaches the Kumaras

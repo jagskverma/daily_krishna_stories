@@ -1,0 +1,33 @@
+# STORY DKS_0184 — Krishna's Signal: Jarasandha Split in Two || Knowing Jarasandha's birth secret, Krishna signals by splitting a twig; Bhima tears Jarasandha in two and kills him.
+
+## Index entry
+title: Krishna's Signal: Jarasandha Split in Two || Knowing Jarasandha's birth secret, Krishna signals by splitting a twig; Bhima tears Jarasandha in two and kills him.
+summary: Knowing Jarasandha's birth secret, Krishna signals by splitting a twig; Bhima tears Jarasandha in two and kills him.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Bhima, Arjuna, Jarasandha
+locations: outside Girivraja
+themes: divine insight, trick, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0264
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 72 | verses 39-44 | confidence 5
+  excerpt: Knowing his enemy's birth and death, Krishna, wishing to show Bhima the means, splits a twig in two as a sign. Bhima understands, seizes Jarasandha by the feet, throws him down, and tearing him apart kills him, upon which a great cry of lamentation arises. (rendered from Sanskrit, verse 39-44)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.72 (39-44)
+39. śatror janma-mṛtī vidvāñ jīvitaṃ ca jarā-kṛtam /
+40. sañcintyārī-vadhopāyaṃ bhīmasyāmogha-darśanaḥ /
+41. tad vijñāya mahā-sattvo bhīmaḥ praharatāṃ varaḥ /
+42. ekam pādaṃ padākramya dorbhyām anyaṃ pragṛhya saḥ /
+43. eka-pādoru-vṛṣaṇa- kaṭi-pṛṣṭha-stanāṃsake /
+44. hāhā-kāro mahān āsīn nihate magadheśvare /
+
+## Corpus chain
+previous_story_id: DKS_0183 | next_story_id: DKS_0185
+previous title: The Mace-Duel of Bhima and Jarasandha || Bhima and Jarasandha fight an indecisive mace-duel, exchanging blows that crush their clubs, then striking with iron-hard fists.
+next title: The Liberated Kings Behold Krishna || Twenty thousand eight hundred freed kings emerge from the mountain prison, behold Krishna's form, praise him, receive his teaching, and are sent home with honor.

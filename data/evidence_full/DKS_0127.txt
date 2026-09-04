@@ -1,0 +1,44 @@
+# STORY DKS_0127 — Narada Reveals the Truth to Kamsa
+
+## Index entry
+title: Narada Reveals the Truth to Kamsa
+summary: Narada tells Kamsa that Krishna and Balarama are the sons of Devaki and Rohini; Kamsa binds Vasudeva and Devaki.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Narada, Kamsa, Vasudeva, Devaki
+locations: Mathura
+themes: truth, imprisonment
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0129
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 36 | verses 15-18 | confidence 5
+  excerpt: Narada came and told Kamsa that Krishna and Balarama were the sons of Devaki and Rohini, whom the frightened Vasudeva had entrusted to Nanda; hearing this, Kamsa seized his sword and bound Vasudeva and Devaki in iron fetters. (rendered from Sanskrit, verses 15-18)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 15 | verses  | confidence 4
+  excerpt: Nárada went to Kansa, and related to him the whole, beginning with the transference of the child from Devakí to Yaśodá... Kansa was highly incensed with Vasudeva, and bitterly reproached him, and all the Yádavas.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.36 (15-18)
+15. ariṣṭe nihate daitye kṛṣṇenādbhuta-karmaṇā /
+16. yaśodāyāḥ sutāṃ kanyāṃ devakyāḥ kṛṣṇam eva ca /
+17. niśamya tad bhoja-patiḥ kopāt pracalitendriyaḥ /
+18. nivārito nāradena tat-sutau mṛtyum ātmanaḥ /
+
+### Vishnu Purana (Wilson 1840) 5.15 ()
+Kansa informed by Nárada of the existence of Krishńa and Balaráma: he sends Keśin to destroy them, and Akrúra to bring them to Mathurá.
+
+AFTER these things had come to pass, Arisht́a the bull-demon and Dhenuka and Pralamba had been slain, Govarddhana had been lifted up, the serpent Kálíya had been subdued, the two trees had been broken, the female fiend Pútaná had been killed, and the waggon had been overturned, Nárada went to Kansa, and related to him the whole, beginning with the transference of the child from Devakí to Yaśodá, Hearing this from Nárada, Kansa was highly incensed with Vasudeva, and bitterly reproached him, and all the Yádavas, in an assembly of the tribe. Then reflecting what was to be done, he determined to destroy both Krishńa and Ráma whilst they were yet young, and before they had attained to manly vigour: for which purpose he resolved to invite them from Vraja, under pretext of the solemn rite of the lustration of arms, when he would engage them in a trial of strength with his chief boxers, Cháńúra and Musht́ika, by whom they would assuredly be killed. "I will send," he said, "the noble Yadu, Akrúra the son of Swaphalka, to Gokula, to bring them hither: I will order the fierce Keśin, who haunts the woods of Vrindávan, to attack them, and he is of unequalled might, and will surely kill them; or, if they arrive here, my elephant Kuvalayápíd́a shall trample to death these two cow-boy sons of Vasudeva." Having thus laid his plans to destroy Ráma and Janárddana, the impious Kansa sent for the heroic Akrúra, and said to him, "Lord of liberal gifts, attend to my words, and, out of friendship for me, perform my orders. Ascend your chariot, and go hence to the station of the herdsman Nanda. Two vile boys, portions of Vishńu, have been born there, for the express object of effecting my destruction. On the fourteenth lunation I have to celebrate the festival of arms, and I wish them to be brought here by you, to take part in the games, and that the people may see them engage in a boxing match with my two dexterous athletæ, Cháńúra and Musht́ika; or haply my elephant Kuvalayápíd́a, driven against them by his rider, shall kill these two iniquitous youngsters, sons of Vasudeva. When they are out of the way, I will put to death Vasudeva himself, the cowherd Nanda, and my foolish father, Ugrasena, and I will seize upon the herds and flocks, and all the possessions, of the rebellious Gopas, who have ever been my foes. Except thou, lord of liberality, all the Yádavas are hostile to me; but I will devise schemes for their extirpation, and I shall then reign over my kingdom, in concert with thee, without any annoyance. Through regard for me, therefore, do thou go as I direct thee; and thou shalt command the cowherds to bring in with speed their supplies of milk and butter and curds."Being thus instructed, the illustrious Akrúra readily undertook to visit Krishńa, and, ascending his stately chariot, he went forth from the city of Mathurá.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0126 | next_story_id: DKS_0128
+previous title: Krishna Obtains the Celestial Hall Sudharman
+next title: Kamsa Orders the Wrestlers and Elephant to Kill Krishna

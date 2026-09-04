@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0144",
+ "title": "A Debt No Son Can Repay",
+ "subtitle": "Krishna begs his parents' forgiveness",
+ "story": "That morning Krishna had broken the great bow, felled the king's wrestlers in the arena, and brought down Kamsa himself before the whole city — the same Kamsa who had kept Krishna's own parents chained in his prison for years. Now, in that prison, Krishna stood bowed before his mother and father, asking their pardon. Of all the scenes of that day, no one had foreseen this one.\n\nHe spoke first, with Balarama at his side, and his words were not the words of a conqueror. \"Mother, father,\" he said, \"you were ever longing for us, and fate struck you down — we could not have our dwelling near you, though you wished it with all your hearts. Whatever a man is, he is born from his parents and nourished by them; the very body that becomes the seat of every purpose is theirs. The debt owed to a mother and a father, to an aged parent, to a devoted wife, to a young son — no one can repay it, not with his own self, not with all his wealth. And we, kept from you by Kamsa, our minds never at peace, could not serve you as sons should serve. Forgive us, father; forgive us, mother. We were in the power of another.\"\n\nHe had just taken back from Kamsa everything Kamsa had stolen — the city, the throne, the years — and the first thing he did with it was kneel before two people who had been helpless in their bonds for all those years, asking forgiveness for a childhood he had never been allowed to give them. He did not excuse himself. He did not say that he had been a child, or that Kamsa had forced it, or that the long separation had not been his fault. He simply named the debt — a debt no son can repay — and asked pardon for having been unable even to try.\n\nVasudeva and Devaki could not answer at first. They had spent so many years imagining this moment, turning over the words they might say to the sons who had been taken from them — and now the sons stood here, grown, asking pardon of them. The parents reached out and held them, and their tears fell on their sons' heads like rain, and the old rope of affection bound the four of them together in the middle of the prison that had held two of them for so long. Whatever they had suffered — the children taken one by one, the years of chains and dread — dissolved in that embrace, because the children who had been taken had come back, and they had come back asking forgiveness rather than giving it.\n\nThere was no anger in the prison that day, no settling of accounts. Kamsa had built his rule on the fear of these two boys, and the boys had grown into men who, given the whole of Mathura, chose first to kneel. The tyrant had stolen their childhood; they did not ask for it back. They asked only that their parents forgive them for having missed it.\n\nThe chains that had bound Vasudeva and Devaki lay on the floor where the brothers had dropped them. And in the room where a king's cruelty had once done its work, there was only the sound of weeping — but it was the weeping of a family that had found one another again, and it was not grief.",
+ "reflection": "Krishna's plea inverts the ordinary order: the one who freed the city asks his own parents' pardon for a childhood he could not choose. He frames it as a debt no son can repay — and asks forgiveness not for having done wrong, but for having been prevented from doing right.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Vasudeva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "humility",
+  "filial duty"
+ ],
+ "previous_story_id": "DKS_0143",
+ "next_story_id": "DKS_0145",
+ "next_story_tease": "But the throne of Mathura could not stand empty, and there was an old king still waiting in his cell.",
+ "hero_scene": "Krishna bowing with folded hands before Vasudeva and Devaki inside the prison cell, asking their forgiveness, while the parents weep and reach out to embrace him and Balarama.",
+ "visual_elements": [
+  "Krishna bowing with folded hands",
+  "Vasudeva and Devaki reaching out to embrace him",
+  "Balarama standing at his brother's side",
+  "the prison cell in Mathura",
+  "tears of reconciliation",
+  "fallen chains on the floor"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.1-9",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0148",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0396",
+ "title": "Krishna Receives the First Honor",
+ "subtitle": "At the Rajasuya, the assembly must decide who is honored first.",
+ "story": "The great sacrifice was done, and one question remained. Yudhishthira, king of the Pandavas, had performed the Rajasuya — the rite that declared him emperor of the world — and kings and sages from across the land had filled the hall at Indraprastha for it: monarchs in their finest robes, learned men marked by long study, warriors whose names were already legend. All that was left was the arghya, the first offering of welcome — the water and garlands and silk by which a host sets his most honored guest apart. To be honored first at such a sacrifice was no small thing; it declared, before all the world, who mattered most. But who deserved it? The assembly turned the question over, and it did not settle itself.\n\nThen Sahadeva rose. He was the youngest of the Pandava brothers, and in that company he commanded no army and wore no great crown. What he had was certainty. The honor, he said, belonged to Krishna alone. Not because Krishna ruled the greatest kingdom — he was the lord of Dwaraka and of his own clan, the Yadavas, and the hall held greater crowns than his. Not because he was the oldest or the most learned. Because in Krishna all the deities and every sacrifice had their being; the whole universe was in him, and he was one, without a second. Let the highest honor be given to Krishna, the soul of all beings, whose sight was undivided. And having said it, Sahadeva fell silent, because he knew what he knew.\n\nThe assembly did not argue. They heard him, read the agreement in one another's faces, and approved. Then Yudhishthira himself rose, and what he did next stilled the hall. Overwhelmed with love, he knelt and washed Krishna's feet; he lifted the water that had touched them and carried it to his own head, as the purest of blessings. And he worshipped Krishna with yellow silk, with garments and jewels of great worth. Around him the whole assembly stood with joined hands, and no one spoke, because there was nothing left to say.\n\nKrishna accepted it quietly, as the rite required — as one who receives what has been freely given.\n\nBut one man in that hall could not bear what he saw. Shishupala, king of Chedi, watched the worship and felt his fury rise; to him it was an insult to every king present. He swept his hand around the hall at the worthier men: there sat Bhishma, there Drona, there the old seer Dwaipayana, there Karna the mighty. What was Krishna beside these? He was not even a king, Shishupala insisted — not a priest, not a teacher, not the oldest among them, not the most learned. Why should he, of all of them, be honored first? The objection poured out of him, a tide of wounded pride — and he would not let the worship pass.\n\nBut that is another story. For this one, it is enough to hold the image: the youngest Pandava speaking a truth he had not reasoned his way to, and the eldest brother kneeling to wash the feet of the man who was, in that moment, the only one worth honoring.",
+ "reflection": "Two things stand side by side here: Sahadeva's declaration that the universe and every sacrifice abide in Krishna, and Yudhishthira's act of washing a guest's feet and lifting the water to his own head. The honor is not political; it is devotion made visible, and it divides the hall between those who bow and one man who cannot bear to watch.",
+ "tradition_note": "The Mahabharata has Bhishma judge Krishna foremost and Sahadeva present the offering; the Bhagavata, followed here, has Sahadeva himself make the declaration.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Sahadeva",
+  "Yudhishthira",
+  "Shishupala"
+ ],
+ "locations": [
+  "Indraprastha"
+ ],
+ "themes": [
+  "supremacy",
+  "honor",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0386",
+ "next_story_id": "DKS_0398",
+ "next_story_tease": "But Shishupala could not contain his fury, and before the assembly ended he would let it speak.",
+ "hero_scene": "Yudhishthira kneeling before Krishna in the crowded assembly, washing his feet and lifting the water to his own head, while kings and sages stand around with joined palms and Shishupala's face darkens at the sight.",
+ "visual_elements": [
+  "the vast Rajasuya assembly hall",
+  "kings and sages seated in their finest",
+  "Sahadeva risen to speak",
+  "Yudhishthira washing Krishna's feet",
+  "water lifted to the emperor's head",
+  "yellow silk and jewels",
+  "hands joined in approval",
+  "Shishupala's face darkening"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.74.17-28",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.36",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:16:03Z",
+  "source_event_id": "evt_0367",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

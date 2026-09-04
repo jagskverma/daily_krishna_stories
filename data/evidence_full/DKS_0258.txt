@@ -1,0 +1,31 @@
+# STORY DKS_0258 — Krishna Slays Narakasura and Weds the Sixteen Thousand || Uddhava recalls how Krishna slew the demon Naraka (Bhauma), who had seized the earth's princesses, and how the freed princesses chose Krishna as their husband, who married them all in one moment and begot sons in each.
+
+## Index entry
+title: Krishna Slays Narakasura and Weds the Sixteen Thousand || Uddhava recalls how Krishna slew the demon Naraka (Bhauma), who had seized the earth's princesses, and how the freed princesses chose Krishna as their husband, who married them all in one moment and begot sons in each.
+summary: Uddhava recalls how Krishna slew the demon Naraka (Bhauma), who had seized the earth's princesses, and how the freed princesses chose Krishna as their husband, who married them all in one moment and begot sons in each.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Narakasura (Bhauma), the sixteen thousand princesses
+locations: Pragjyotisha, Dwaraka
+themes: liberation of the captives, marriage, the demon slain
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0283
+variant_notes: Recall bundling Naraka's slaying + the 16,000 marriages; cross-ref both clusters.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 3 | verses 5-8 | confidence 5
+  excerpt: Uddhava said: 'Seeing the son of the earth-goddess who devoured the heavens, he slew him; the princesses seized by Bhauma, seeing Hari the friend of the distressed, rose and chose him, and he took their hands in one moment in their many houses, begetting ten sons in each.' (rendered from Sanskrit, verses 5-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.3 (5-8)
+5. sutaṃ mṛdhe khaṃ vapuṣā grasantaṃ dṛṣṭvā sunābhonmathitaṃ dharitryā /
+6. tatrāhṛtās tā nara-deva-kanyāḥ kujena dṛṣṭvā harim ārta-bandhum /
+7. āsāṃ muhūrta ekasmin nānāgāreṣu yoṣitām /
+8. tāsv apatyāny ajanayad ātma-tulyāni sarvataḥ /
+
+## Corpus chain
+previous_story_id: DKS_0257 | next_story_id: DKS_0259
+previous title: Varuna Pleads His Promise; Krishna Relents || Varuna pleads his vow to Vana never to part with the cows, and Krishna, honouring his truthfulness, releases both Varuna and the cows and returns to Dwarka amid the rejoicing citizens.
+next title: Krishna Restores Aditi's Earrings || Krishna restores the recovered earrings to Aditi, who blesses him; Satyabhama is promised unfading beauty.

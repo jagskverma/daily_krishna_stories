@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0126",
+ "title": "Krishna Obtains the Celestial Hall Sudharman",
+ "subtitle": null,
+ "story": "Ugrasena sat once more on the throne of Mathura, and around him the Yadava tribe had begun to recover from the long fear of Kamsa. Krishna, who had freed the old king from confinement and placed the crown back upon his head, stood before him as a servant, not a sovereign. The funeral rites for Kamsa and the rest of the slain were done. Now, Krishna said to him, command boldly what else is to be done.\n\nThere was a difficulty in the way, and Krishna named it openly. The curse of Yayati, he told the king, had pronounced their race unworthy of dominion. Long ago Yayati's son Yadu had refused to take his father's old age upon himself, and for that refusal his line was denied the right to rule. The Yadavas could hold their assemblies and their court only because they did not do so in their own name. But with me for your servant, Krishna said, you may issue your orders to the gods. How should kings disobey them?\n\nSo he set about proving it. There was a hall in the heavens, the splendid Sudharman, a court of unearthly beauty belonging to Indra himself. Krishna turned to Vayu, the god of wind, and gave him an errand. Go to Indra, he said, and desire him to lay aside his pomp, and resign to Ugrasena his splendid hall Sudharman.\n\nVayu carried the request to the king of gods, and the answer came back without hesitation. Indra laid aside his pomp, and immediately gave up to him the hall Sudharman. The celestial court that had belonged to the lord of heaven now passed into the keeping of the Yadava chiefs, who thenceforth held their assemblies beneath a roof of jewels that no mortal builder had raised.\n\nIt was a strange thing to ask for, and stranger still to receive. Krishna did not demand victory in battle, nor wealth, nor a wider kingdom. He asked for a place — a hall where the Yadavas, whom the curse of Yayati had barred from dominion, could sit and hold their counsel with the dignity of kings. And Indra, who had once anointed Krishna as Upendra and who had sent the golden seat for his consecration, surrendered the hall without a word of refusal. It was not a palace of their own making, nor a seat won in war; it was a gift from the one court that stood above all earthly kings. To hold an assembly beneath it was to be told, in the clearest terms, that the curse which barred them had found its answer.\n\nThe curse had not been lifted. The Yadavas still could not claim the crown in their own right. But under the jeweled ceiling of Sudharman they gathered as though they could — and the gods, beginning with the one who had been asked to give up his own splendor, did not dispute it.",
+ "reflection": "The gift Krishna seeks is not power but a place to stand with dignity. Barred by Yayati's curse from dominion, the Yadavas can hold a court only because Krishna, serving them, commands the gods on their behalf. Indra's instant surrender of Sudharman is the measure of that service: even the lord of heaven lays aside his pomp when asked in Ugrasena's name.",
+ "tradition_note": "The Harivamsha places the hall Sudharman later, among the splendors Krishna brings to Dwaraka; the Vishnu Purana tells it here, for Ugrasena's court at Mathura.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Vayu",
+  "Indra",
+  "Ugrasena"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "divine favour",
+  "splendour"
+ ],
+ "previous_story_id": "DKS_0125",
+ "next_story_id": "DKS_0127",
+ "next_story_tease": null,
+ "hero_scene": "The celestial hall Sudharman descending into the keeping of the Yadava chiefs, its jeweled columns and golden ceiling shining as Indra lays aside his pomp and yields the splendid court.",
+ "visual_elements": [
+  "Ugrasena on the throne of Mathura",
+  "Krishna standing as a servant before him",
+  "Vayu carrying the request to Indra",
+  "Indra laying aside his pomp",
+  "the hall Sudharman of jeweled splendor",
+  "the Yadava chiefs gathering beneath it",
+  "divine favor and splendor"
+ ],
+ "sources": [
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.21",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:17Z",
+  "source_event_id": "evt_0154"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0427",
+ "title": "Krishna's Plea Before the Assembly",
+ "subtitle": null,
+ "story": "Silence fell over the Kuru assembly as the last of the kings took his seat, and into that silence Krishna's voice came — low and full, deep as a drum, deep as the roll of clouds in the rainy season. Though he addressed Dhritarashtra, he spoke so that the whole assembly heard him, every king leaning forward into his words.\n\n\"In order that peace may be established between the Kurus and the Pandavas without a slaughter of the heroes, I have come here,\" Krishna said. \"I have no other words to offer, O king. Everything that should be learnt in this world is already known to you.\"\n\nHe reminded Dhritarashtra what his race was. The Kuru dynasty, he said, was distinguished among all royal dynasties for its learning, its behaviour, its accomplishments. Joy in the happiness of others, grief at the sight of misery, the desire to relieve distress, abstention from injury, sincerity, forgiveness, and truth — these prevailed among the Kurus. \"It would be a pity if anything improper were done by any one belonging to such a race,\" Krishna said, \"and a greater pity still if it were done by you. You are the first of those who should restrain the Kurus if they behave deceitfully toward strangers or toward their own kin.\"\n\nThen he came to the point, and the assembly heard the name it had been waiting for. \"Know that your wicked sons, headed by Duryodhana, abandoning both virtue and profit, disregarding morality, and deprived of their senses by avarice, are acting most unrighteously toward their foremost of kinsmen. The terrible danger that threatens all has its origin in the conduct of the Kurus. If you become indifferent to it, it will produce a universal slaughter. But if you are willing, you may allay that danger even yet — peace is not difficult of acquisition.\"\n\nThe establishment of peace, Krishna said, depended on two men: the king and himself. \"Set right your sons, O king, and I will set the Pandavas right. Whatever you command, it behooves your sons with their followers to obey. If they live in obedience to you, that would be the very best they could do. If you strive for peace by restraining your sons, it will be to your profit, as also to the benefit of the Pandavas. Let the sons of Pandu be your allies. Protected by the illustrious sons of Pandu, Indra himself at the head of the celestials will not be able to vanquish you — how, then, could mere earthly kings withstand your prowess?\"\n\nHe drew the king a picture of a world that did not have to burn. With Bhishma, Drona, Kripa, Karna, Aswatthaman, Vikarna, Somadatta, Vahlika, the chief of the Sindhus, the ruler of the Kalingas, and Sudakshina of the Kamvojas on one side — and with Yudhishthira, Bhimasena, Savyasachin, the twins, Satyaki, and Yuyutsu on the other — who, Krishna asked, of such misdirected intelligence would fight such a host? With both the Kurus and the Pandavas at his back, the sovereignty of the whole world and invincibility before all foes would be his. All the rulers of the earth would seek alliance with him. Protected by sons, grandsons, fathers, brothers, and friends, he would live in exceeding happiness.\n\n\"In battle, O great king, nothing but wholesale destruction is visible. In the destruction of both parties, what merit do you see? If the Pandavas are slaughtered in battle, or if your own mighty sons fall, tell me what happiness you will enjoy. All of them are brave and skilled in weapons; all of them are desirous of battle — the Pandavas as also your sons. Save them from the terrible danger that threatens them. After the battle you will not behold all the Kurus or all the Pandavas. Car-warriors slain by car-warriors, you will see the heroes of both parties reduced in numbers and strength. All the rulers of the earth have been assembled here, and inflamed with wrath, they will not stop short of destroying one another.\"\n\nWhen Krishna finished, the assembly was stiller than it had been at his first word. He had laid before the blind king the whole arithmetic of war: every warrior counted, every alliance weighed, every happiness that would survive the slaughter set against the one that would not — and the choice, plainly, was Dhritarashtra's to make.",
+ "reflection": "Krishna's plea is built on a single repeated question: in the ruin of both houses, what happiness would remain to the king? He offers Dhritarashtra sovereignty won by alliance instead of battle, and leaves the choice entirely in his hands — the peace mission succeeds or fails on whether the blind king can see what has been put before him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Dhritarashtra",
+  "Duryodhana",
+  "Yudhishthira",
+  "Arjuna",
+  "Bhimasena",
+  "Nakula",
+  "Sahadeva",
+  "Bhishma",
+  "Drona",
+  "Karna"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "peace",
+  "justice",
+  "reconciliation"
+ ],
+ "previous_story_id": "DKS_0426",
+ "next_story_id": "DKS_0428",
+ "next_story_tease": "Into that silence, the sage Parashurama rose to tell the assembly a story from the age of the world.",
+ "hero_scene": "In the great Kuru assembly at Hastinapura, Krishna stands and addresses the blind king Dhritarashtra, his voice carrying to every corner of the hall, while the assembled kings of the earth sit motionless in perfect silence, the last light of evening falling across the court.",
+ "visual_elements": [
+  "Krishna standing in the center of the Kuru assembly, speaking",
+  "Dhritarashtra seated in the midst of the Kurus, listening",
+  "the assembled kings of the earth seated in silence",
+  "Bhishma, Drona, and the Kuru elders among the listeners",
+  "the grave, hushed atmosphere of the court as Krishna finishes"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.095",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0434"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,39 @@
+# STORY DKS_0287 — Sudama's Poverty and Journey || Sudama's wife urges the destitute brahmana to seek his boyhood friend Krishna, and he sets out for Dwaraka with a humble gift of flat rice.
+
+## Index entry
+title: Sudama's Poverty and Journey || Sudama's wife urges the destitute brahmana to seek his boyhood friend Krishna, and he sets out for Dwaraka with a humble gift of flat rice.
+summary: Sudama's wife urges the destitute brahmana to seek his boyhood friend Krishna, and he sets out for Dwaraka with a humble gift of flat rice.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Sudama, Sudama's wife, Krishna
+locations: a village, Dwaraka
+themes: poverty, friendship, faith
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0275
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 80 | verses 5-16 | confidence 5
+  excerpt: Sudama, a learned and self-controlled brahmana living in great poverty, is urged by his devoted wife to visit Krishna, his boyhood friend who now dwells in Dwaraka, saying Krishna will give them wealth. She borrows four handfuls of flattened rice and ties them in a rag as a gift, and Sudama sets out for Dwaraka wondering how he may gain sight of Krishna. (rendered from Sanskrit, verse 5-16)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.80 (5-16)
+5. bhp_10.80.006/0 śrī-śuka uvāca
+6. yadṛcchayopapannena vartamāno gṛhāśramī /
+7. pati-vratā patiṃ prāha mlāyatā vadanena sā /
+8. nanu brahman bhagavataḥ sakhā sākṣāc chriyaḥ patiḥ /
+9. tam upaihi mahā-bhāga sādhūnāṃ ca parāyaṇam /
+10. āste 'dhunā dvāravatyāṃ bhoja-vṛṣṇy-andhakeśvaraḥ /
+11. sa evaṃ bhāryayā vipro bahuśaḥ prārthito muhuḥ /
+12. iti sañcintya manasā gamanāya matiṃ dadhe /
+13. yācitvā caturo muṣṭīn viprān pṛthuka-taṇḍulān /
+14. sa tān ādāya viprāgryaḥ prayayau dvārakāṃ kila /
+15. trīṇi gulmāny atīyāya tisraḥ kakṣāś ca sa-dvijaḥ /
+16. gṛhaṃ dvy-aṣṭa-sahasrāṇāṃ mahiṣīṇāṃ harer dvijaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0286 | next_story_id: DKS_0288
+previous title: Krishna's Dawn Worship in Dwaraka || Krishna rises in the brahma-muhurta, performs his ablutions, worships the Lord within, gives daily gifts of cows and wealth to brahmanas, and blesses his people.
+next title: Krishna Embraces His Old Friend || Krishna rises from his couch, embraces Sudama with tears of joy, washes his feet, and anoints him, while Rukmini fans him, astonishing the palace women.

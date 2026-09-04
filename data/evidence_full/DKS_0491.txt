@@ -1,0 +1,42 @@
+# STORY DKS_0491 — The Pilgrimage to Samanta-panchaka
+
+## Index entry
+title: The Pilgrimage to Samanta-panchaka
+summary: On the occasion of a solar eclipse, the Yadavas journey to Samanta-panchaka to bathe and give gifts, and there a vast reunion of kings and kinsfolk takes place.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, Balarama, Vasudeva, the Yadavas
+locations: Samanta-panchaka (Kurukshetra)
+themes: pilgrimage, reunion, eclipse
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0491
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 82 | verses 1-15 | confidence 5
+  excerpt: A great solar eclipse occurs, and the Yadavas, together with Vasudeva, Akrura and others, journey to Samanta-panchaka, the field where Rama had once made lakes of the kings' blood, to bathe and give cows and gifts. There they meet the kings of many realms and their own long-separated kin, and embrace one another with tears of joy. (rendered from Sanskrit, verse 1-15)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.82 (1-15)
+1. taṃ jñātvā manujā rājan purastād eva sarvataḥ /
+2. niḥkṣatriyāṃ mahīṃ kurvan rāmaḥ śastra-bhṛtāṃ varaḥ /
+3. īje ca bhagavān rāmo yatrāspṛṣṭo 'pi karmaṇā /
+4. mahatyāṃ tīrtha-yātrāyāṃ tatrāgan bhāratīḥ prajāḥ /
+5. yayur bhārata tat kṣetraṃ svam aghaṃ kṣapayiṣṇavaḥ /
+6. te rathair deva-dhiṣṇyābhair hayaiś ca tarala-plavaiḥ /
+7. vyarocanta mahā-tejāḥ pathi kāñcana-mālinaḥ /
+8. tatra snātvā mahā-bhāgā upoṣya su-samāhitāḥ /
+9. rāma-hradeṣu vidhi-vat punar āplutya vṛṣṇayaḥ /
+10. svayaṃ ca tad-anujñātā vṛṣṇayaḥ kṛṣṇa-devatāḥ /
+11. tatrāgatāṃs te dadṛśuḥ suhṛt-sambandhino nṛpān /
+12. kāmboja-kaikayān madrān kuntīn ānarta-keralān /
+13. anyonya-sandarśana-harṣa-raṃhasā protphulla-hṛd-vaktra-saroruha-śriyaḥ /
+14. striyaś ca saṃvīkṣya mitho 'ti-sauhṛda- $ smitāmalāpāṅga-dṛśo 'bhirebhire &amp;stanaiḥ stanān kuṅkuma-paṅka-rūṣitān % nihatya dorbhiḥ praṇayāśru-locanāḥ
+15. tato 'bhivādya te vṛddhān yaviṣṭhair abhivāditāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0490 | next_story_id: DKS_0492
+previous title: Vyasa Consoles Arjuna and Parikshit Is Enthroned
+next title: Reunion with Nanda and Yashoda

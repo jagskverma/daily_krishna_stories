@@ -1,0 +1,42 @@
+# STORY DKS_0197 — Rukmini's Love-Message to Krishna || Rukmini's message begs Krishna to carry her away in the rakshasa manner before Shishupala can claim her.
+
+## Index entry
+title: Rukmini's Love-Message to Krishna || Rukmini's message begs Krishna to carry her away in the rakshasa manner before Shishupala can claim her.
+summary: Rukmini's message begs Krishna to carry her away in the rakshasa manner before Shishupala can claim her.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Rukmini, Krishna, Shishupala
+locations: Kundina
+themes: love, plea, devotion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0239
+variant_notes: Cross-ref: Rukmini abduction cluster; resolve is bp10c_017.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 52 | verses 28-42 | confidence 5
+  excerpt: Rukmini's message: 'You I have chosen as my husband; come and take my hand before Shishupala, like a jackal, seizes the lion's share. Tomorrow is my marriage; carry me away by the rakshasa rite, defeating the hosts of Shishupala and Jarasandha.' (rendered from Sanskrit, verses 28-42)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.52 (28-42)
+28. taṃ bhuktavantaṃ viśrāntam upagamya satāṃ gatiḥ /
+29. kaccid dvija-vara-śreṣṭha dharmas te vṛddha-sammataḥ /
+30. santuṣṭo yarhi varteta brāhmaṇo yena kenacit /
+31. asantuṣṭo 'sakṛl lokān āpnoty api sureśvaraḥ /
+32. viprān sva-lābha-santuṣṭān sādhūn bhūta-suhṛttamān /
+33. kaccid vaḥ kuśalaṃ brahman rājato yasya hi prajāḥ /
+34. yatas tvam āgato durgaṃ nistīryeha yad-icchayā /
+35. evaṃ sampṛṣṭa-sampraśno brāhmaṇaḥ parameṣṭhinā /
+36. bhp_10.52.037/0 śrī-rukmiṇy uvāca śrutvā guṇān bhuvana-sundara śṛṇvatāṃ te $ nirviśya karṇa-vivarair harato 'ṅga-tāpam & śrutvā guṇān bhuvana-sundara śṛṇvatāṃ te $ nirviśya karṇa-vivarair harato 'ṅga-tāpam & rūpaṃ dṛśāṃ dṛśimatām akhilārtha-lābhaṃ % tvayy acyutāviśati cittam apatrapaṃ me
+37. kā tvā mukunda mahatī kula-śīla-rūpa- $ vidyā-vayo-draviṇa-dhāmabhir ātma-tulyam & kā tvā mukunda mahatī kula-śīla-rūpa- $ vidyā-vayo-draviṇa-dhāmabhir ātma-tulyam & dhīrā patiṃ kulavatī na vṛṇīta kanyā % kāle nṛ-siṃha nara-loka-mano-'bhirāmam
+38. tan me bhavān khalu vṛtaḥ patir aṅga jāyām $ ātmārpitaś ca bhavato 'tra vibho vidhehi & tan me bhavān khalu vṛtaḥ patir aṅga jāyām $ ātmārpitaś ca bhavato 'tra vibho vidhehi & mā vīra-bhāgam abhimarśatu caidya ārād % gomāyu-van mṛga-pater balim ambujākṣa
+39. pūrteṣṭa-datta-niyama-vrata-deva-vipra $ gurv-arcanādibhir alaṃ bhagavān pareśaḥ & pūrteṣṭa-datta-niyama-vrata-deva-vipra $ gurv-arcanādibhir alaṃ bhagavān pareśaḥ & ārādhito yadi gadāgraja etya pāṇiṃ % gṛhṇātu me na damaghoṣa-sutādayo 'nye
+40. śvo bhāvini tvam ajitodvahane vidarbhān $ guptaḥ sametya pṛtanā-patibhiḥ parītaḥ & śvo bhāvini tvam ajitodvahane vidarbhān $ guptaḥ sametya pṛtanā-patibhiḥ parītaḥ & nirmathya caidya-magadhendra-balaṃ prasahya % māṃ rākṣasena vidhinodvaha vīrya-śulkām
+41. antaḥ-purāntara-carīm anihatya bandhūn $ tvām udvahe katham iti pravadāmy upāyam & antaḥ-purāntara-carīm anihatya bandhūn $ tvām udvahe katham iti pravadāmy upāyam & pūrve-dyur asti mahatī kula-deva-yātrā % yasyāṃ bahir nava-vadhūr girijām upeyāt
+42. yasyāṅghri-paṅkaja-rajaḥ-snapanaṃ mahānto $ vāñchanty umā-patir ivātma-tamo-'pahatyai & yasyāṅghri-paṅkaja-rajaḥ-snapanaṃ mahānto $ vāñchanty umā-patir ivātma-tamo-'pahatyai & yarhy ambujākṣa na labheya bhavat-prasādaṃ % jahyām asūn vrata-kṛśān śata-janmabhiḥ syāt
+
+## Corpus chain
+previous_story_id: DKS_0196 | next_story_id: DKS_0198
+previous title: Rukmini Resolves to Marry Krishna and Sends a Brahmana Messenger || Princess Rukmini, hearing of Krishna's virtues, resolves to wed him and sends a brahmana to Dvaraka with her secret message.
+next title: Krishna Hastens to Kundina || Krishna receives Rukmini's message and races overnight to Kundina, where rival kings are gathering to enforce Shishupala's claim.

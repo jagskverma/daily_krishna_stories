@@ -1,0 +1,43 @@
+# STORY DKS_0384 — Akrura Counsels Dhritarashtra
+
+## Index entry
+title: Akrura Counsels Dhritarashtra
+summary: Akrura advises Dhritarashtra to treat the Pandavas as his own sons, then returns and reports to Krishna and Balarama.
+life_stage: mathura | story_arc: pandava_friendship
+characters: Akrura, Dhritarashtra, Krishna, Balarama
+locations: Hastinapura, Mathura
+themes: justice, counsel, impermanence
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0164
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 49 | verses 15-30 | confidence 5
+  excerpt: Akrura told the king: 'Act with fairness toward the Pandavas and your own sons; no one dwells here forever.' Dhritarashtra admitted the truth but confessed his mind was unsteady from love for his sons; Akrura then returned and reported all to Krishna and Rama. (rendered from Sanskrit, verses 15-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.49 (15-30)
+15. yāsyan rājānam abhyetya viṣamaṃ putra-lālasam /
+16. bhp_10.49.017/0 akrūra uvāca
+17. dharmeṇa pālayann urvīṃ prajāḥ śīlena rañjayan /
+18. anyathā tv ācaraṃl loke garhito yāsyase tamaḥ /
+19. neha cātyanta-saṃvāsaḥ kasyacit kenacit saha /
+20. ekaḥ prasūyate jantur eka eva pralīyate /
+21. adharmopacitaṃ vittaṃ haranty anye 'lpa-medhasaḥ /
+22. puṣṇāti yān adharmeṇa sva-buddhyā tam apaṇḍitam /
+23. svayaṃ kilbiṣam ādāya tais tyakto nārtha-kovidaḥ /
+24. tasmāl lokam imaṃ rājan svapna-māyā-manoratham /
+25. bhp_10.49.026/0 dhṛtarāṣṭra uvāca
+26. tathāpi sūnṛtā saumya hṛdi na sthīyate cale /
+27. īśvarasya vidhiṃ ko nu vidhunoty anyathā pumān /
+28. yo durvimarśa-pathayā nija-māyayedaṃ $ sṛṣṭvā guṇān vibhajate tad-anupraviṣṭaḥ &amp;tasmai namo duravabodha-vihāra-tantra- % saṃsāra-cakra-gataye parameśvarāya
+29. bhp_10.49.030/0 śrī-śuka uvāca
+30. śaśaṃsa rāma-kṛṣṇābhyāṃ dhṛtarāṣṭra-viceṣṭitam /
+
+## Corpus chain
+previous_story_id: DKS_0383 | next_story_id: DKS_0385
+previous title: Kunti Confides Her Sorrow to Akrura
+next title: Krishna Visits the Pandavas at Indraprastha

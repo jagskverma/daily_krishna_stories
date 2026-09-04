@@ -1,0 +1,68 @@
+{
+ "id": "DKS_0283",
+ "title": "Samba Carries Off Duryodhana's Daughter",
+ "subtitle": null,
+ "story": "A svayamvara is supposed to end with the bride choosing her husband. Samba chose first.\n\nLakshmana, the daughter of Duryodhana, had come of age, and the roads to Hastinapura, the great city of the Kurus, were crowded with princes gathered to offer themselves at her svayamvara. It is a festival of waiting: the princess moves among the assembled kings with a garland in her hand, and the choice is hers alone. For a young man with more pride than patience, it was an invitation to be bold — and among the waiting princes came Samba, the son of Krishna and Jambavati, a young Yadava of Dwaraka, handsome and headstrong, with more confidence than caution. Whatever moved him — love, pride, or the sheer pleasure of daring — he did not wait to be chosen. He lifted Lakshmana into his chariot and drove away with her, and before the guards could move, before the ceremony could recover, the chariot was gone through the gate.\n\nThe Kurus were furious. \"This boy is ill-mannered!\" \"Bind him!\" \"What will the Vrishnis dare to do?\" The house of Kuru had never thought much of the kings of Dwaraka — the Vrishnis, as the Yadavas of Dwaraka were also called — and there were those at Hastinapura who said openly that the Yadu race had no claim to royal dignity. Now a boy of that house had treated their princess like plunder, and the insult was doubled. The great chiefs flung themselves into their chariots and gave chase — Karna, the Kurus' most famous warrior, Shala, Bhuri, Yajnaketu, and Duryodhana himself, shouting \"Stop! Stop!\" as their wheels thundered over the ground after the abductor.\n\nSamba was a great chariot-warrior, and he had not stolen a bride to be caught easily. He wheeled his horses, strung his bow, and shot into the pursuers — four arrows into the horses of each of the foremost chariots, a single arrow into each charioteer — and wounded them all. For a moment the might of the Kurus flinched before a boy.\n\nBut there were too many of them, and they came on in a ring, closing the open ground from every side. They cut down his four horses and brought his chariot to a halt. Chariot-less and ringed by enemies, Samba was seized and bound — the verses note that it cost the Kurus great effort — and led back to Hastinapura a prisoner, with Lakshmana taken from him.\n\nThe news of the capture flew to Dwaraka faster than any chariot. When the Yadavas heard that one of their princes had been bound by the Kurus, their wrath kindled, and the councils of Dwaraka grew hot with talk of war.\n\nSamba had gambled everything on boldness and lost. The price of his audacity now lay in the hands of Duryodhana, and in Dwaraka proud men were already sharpening their anger.",
+ "reflection": "Samba's crime was not that he loved Lakshmana but that he treated her choice as his own — seizing her at the svayamvara as if a bride's hand were a prize to be taken. The Kurus' fury was genuine, and so was their contempt for his manners; the story leaves the question of who was right to the consequences that follow.",
+ "tradition_note": "The Vishnu Purana adds Bhishma and Drona to the pursuing chiefs; the Bhagavata Purana names Karna, Shala, Bhuri, Yajnaketu and Duryodhana, which this story follows.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Samba",
+  "Lakshmana",
+  "Duryodhana",
+  "Karna",
+  "Shala",
+  "Bhuri",
+  "Yajnaketu"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "abduction",
+  "valor",
+  "capture"
+ ],
+ "previous_story_id": "DKS_0282",
+ "next_story_id": "DKS_0284",
+ "next_story_tease": "Yet even as the Yadavas' anger smoldered, Dwaraka was about to receive a guest who came with a question stranger than any war: how one man could fill sixteen thousand homes at once.",
+ "hero_scene": "Samba, chariot-less and ringed by enemies on the open ground outside Hastinapura, draws his bow against the pursuing Kuru chiefs — Karna, Duryodhana, Shala and Bhuri — as his cut-down horses lie at the wheel and the princess is sheltered behind him.",
+ "visual_elements": [
+  "Samba",
+  "Lakshmana",
+  "Duryodhana",
+  "Karna",
+  "chariots",
+  "Hastinapura",
+  "bows and arrows",
+  "capture"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.68.1-12",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.35",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:41Z",
+  "source_event_id": "evt_0216",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

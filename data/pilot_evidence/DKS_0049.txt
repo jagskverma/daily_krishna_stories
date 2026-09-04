@@ -1,0 +1,37 @@
+# STORY DKS_0049 — Krishna Expands Into All the Calves and Boys
+
+## Index entry
+title: Krishna Expands Into All the Calves and Boys
+summary: To console their mothers, Krishna himself becomes every missing calf and boy, and for a year plays their roles in the cowherd homes.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, cowherd boys, gopis
+locations: Vrindavan
+themes: omniscience, motherly_love
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0061
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 13 | verses 17-26 | confidence 5
+  excerpt: Krishna expands himself into every vanished calf and boy, and for a full year each mother unknowingly nurses and loves the Lord himself as her own child, with a love deeper than before. (rendered from Sanskrit, verse 17-26)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.13 (17-26)
+17. tataḥ kṛṣṇo mudaṃ kartuṃ tan-mātṝṇāṃ ca kasya ca /
+18. yāvad vatsapa-vatsakālpaka-vapur yāvat karāṅghry-ādikaṃ $ yāvad yaṣṭi-viṣāṇa-veṇu-dala-śig yāvad vibhūṣāmbaram &amp;yāvac chīla-guṇābhidhākṛti-vayo yāvad vihārādikaṃ % sarvaṃ viṣṇumayaṃ giro 'ṅga-vad ajaḥ sarva-svarūpo babhau
+19. svayam ātmātma-govatsān prativāryātma-vatsapaiḥ /
+20. tat-tad-vatsān pṛthaṅ nītvā tat-tad-goṣṭhe niveśya saḥ /
+21. tan-mātaro veṇu-rava-tvarotthitā utthāpya dorbhiḥ parirabhya nirbharam /
+22. tato nṛponmardana-majja-lepanā- laṅkāra-rakṣā-tilakāśanādibhiḥ /
+23. gāvas tato goṣṭham upetya satvaraṃ huṅkāra-ghoṣaiḥ parihūta-saṅgatān /
+24. go-gopīnāṃ mātṛtāsminn āsīt snehardhikāṃ vinā /
+25. vrajaukasāṃ sva-tokeṣu sneha-vally ābdam anvaham /
+26. ittham ātmātmanātmānaṃ vatsa-pāla-miṣeṇa saḥ /
+
+## Pilot chain
+previous_story_id: DKS_0047 | next_story_id: DKS_0060
+previous title: Krishna Kills Aghasura and Revives His Friends
+next title: Krishna Swallows the Wildfire and Saves the Herd

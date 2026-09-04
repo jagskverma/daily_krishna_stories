@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0473",
+ "title": "The Dance of the Spent Dart",
+ "subtitle": "Krishna rejoices while the Pandavas mourn",
+ "story": "The Pandavas stood grieving over Ghatotkacha's fallen body — and Krishna danced.\n\nThe son of Bhima and Hidimva lay like a mountain riven in two, slain at last by the dart Karna had saved for Arjuna. All the Pandavas wept, and the troops, seeing their champion fall, began to fly away in panic. But Krishna, alone among them, was filled with delight. He uttered leonine shouts. He embraced Arjuna. He tied up the horses, roared aloud, and began to dance in a transport of joy, like a tree shaken by a tempest, slapping his own armpits and shouting from the terrace of the chariot.\n\nArjuna, whose heart was full of grief, could hardly bear the sight. \"O slayer of Madhu,\" he said, \"you show great joy at a time scarcely fit for it — an occasion for sorrow, caused by the death of Hidimva's son. Our troops are flying away, beholding Ghatotkacha slain. We too are filled with anxiety. The cause must be very grave indeed when at such a time you feel such joy. If it is not a secret, tell me truly what has removed your gravity. This lightness of heart seems to me like the drying up of the ocean, or Mount Meru itself learning to move.\"\n\nKrishna's answer came without hesitation. \"Great is the joy I feel,\" he said. \"Listen, Dhananjaya, and what I tell you will dispel your sorrow and infuse delight into your heart. Know that Karna, his dart being baffled through Ghatotkacha, is already slain in battle.\"\n\nAnd then he explained. No man existed who could stand before Karna armed with that dart, looking like Kartikeya himself in battle. With his natural armour and his ear-rings, Karna could have vanquished the three worlds single-handed — neither Indra nor Varuna nor Yama would have dared approach him. Even Arjuna bending the Gandiva, even Krishna himself uplifting the Sudarshana discus, could not have conquered him. But by good luck the armour had been taken away; by good luck the ear-rings had been taken away; and now, by good luck, the infallible dart itself was spent — through Ghatotkacha. Long ago Karna had cut off his natural armour and his brilliant ear-rings and given them to Indra in exchange for the dart, and for that he was called Vaikartana. From that day he had carried the weapon that never missed, always regarding Arjuna as already slain.\n\n\"But now,\" said Krishna, \"that dart has slain Ghatotkacha, and it is gone. Karna is like an angry snake of virulent poison stupefied by incantation, or a fire of mild flames. Deprived of his armour, his ear-rings, and the dart given him by Vasava, he is now like a man — no longer like a god.\"\n\nYet Krishna would not let Arjuna grow careless. Even without the dart, Karna could be slain by no one else; he was devoted to Brahmanas, truthful in speech, engaged in penances, kind even to foes — that was why he was called Vrisha. Heroic as a lion, blazing like the mid-day sun, he could not be vanquished by the gods themselves, and would mangle them so that their flesh and blood would fall copiously on the field. \"But there will occur one opportunity for his slaughter,\" Krishna said. \"When his car-wheels sink in the earth, avail yourself of that opportunity and slay him in that distressful situation. I will make you a sign beforehand. Warned by it, you should act.\"\n\nSo the night ended with the Pandavas weeping for Ghatotkacha and Arjuna suddenly understanding: the grief and the joy were the same event. The boy who had fought so fiercely had spent the one weapon that could have killed Arjuna, and his death had bought the war. When Krishna had danced, he had danced because he saw Arjuna standing alive — and because he already saw Karna, shorn of his armour and his charm, walking toward the moment when his chariot wheel would sink into the earth.",
+ "reflection": "Krishna's joy is not callousness but recognition: Ghatotkacha's death has already done its work before the body has fallen. The episode shows how Krishna counts costs the Pandavas cannot yet count — and it lets Arjuna's grief stand, answered rather than erased.",
+ "tradition_note": null,
+ "content_note": "The episode turns on the death of Ghatotkacha, described as a fallen mountain with no graphic detail; the focus is on Krishna's unexplained joy.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Ghatotkacha",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "divine strategy",
+  "apparent callousness",
+  "revelation"
+ ],
+ "previous_story_id": "DKS_0472",
+ "next_story_id": "DKS_0474",
+ "next_story_tease": "In the same chariot, Arjuna would ask how such enemies had ever been slain.",
+ "hero_scene": "On the torchlit night field, Krishna dances on the terrace of his chariot, arms raised in a leonine shout, while behind him the Pandavas weep over Ghatotkacha's fallen form and Arjuna stands puzzled in grief.",
+ "visual_elements": [
+  "Krishna dancing on the chariot terrace, roaring and slapping his armpits",
+  "the fallen Ghatotkacha lying like a riven mountain",
+  "the weeping Pandavas and scattering troops",
+  "Arjuna standing in grief, questioning Krishna",
+  "the spent dart lying on the field",
+  "the torchlit, grieving night"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "7.180",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T20:10:00Z",
+  "source_event_id": "evt_0467"
+ },
+ "editorial_status": "unreviewed"
+}

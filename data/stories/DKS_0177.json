@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0177",
+ "title": "The Captive Kings Appeal to Krishna",
+ "subtitle": null,
+ "story": "One morning in the hall where Krishna held his court at Dwaraka, when the brahmanas — the priests and learned men of the city — sat at ease and the business of the day had quieted, a stranger was brought in. He was not a merchant, not a soldier, not a king's man; dust lay on his clothes from a long road and hard travel. The guards let him pass because he asked, with a stranger's urgency, to see Krishna. He crossed the hall, bowed low before him, and pressed his palms together.\n\nHe had come, he said, from the kings of the earth. When Jarasandha of Magadha had set out to conquer the world, he had demanded that every king bow to him. Those who submitted kept their thrones; those who refused were taken by force and shut away in his fortress at Girivraja, in the heart of Magadha. Twenty thousand kings, the man said, lay imprisoned there — kings who had once commanded armies of their own and now sat in darkness, waiting for something that no army could bring them.\n\nThen he delivered their words, and the hall grew still. \"This world,\" the captive kings said, \"is a place where the strong cut short the hopes of the weak whenever it pleases them. We have learned it at last. The happiness of a king is only a dream that depends on others; we carried its burden in bodies that knew fear from dawn to dawn. Now, Lord, we have given all of that up. We take refuge in you from the terror of this world. Your feet remove the sorrow of those who bow down — free us from the bond of Magadha. Jarasandha holds us with the strength of ten thousand elephants and keeps us shut in his house like a lion penning sheep.\"\n\nAnd they reminded Krishna who Jarasandha was. Eighteen times, they said, this king had been broken by Krishna in battle, with his discus raised, and still he swelled with pride; still he oppressed the people who looked to Krishna for protection. \"You have come down into this world for the sake of the good and the restraint of the wicked,\" the kings said. \"If a man may cross your command and nothing follows, then we do not know what this world is. Ordain an end to it, unconquered one.\"\n\nThe messenger fell silent. Twenty thousand kings had sent their plea in the mouth of one unknown man, and the plea lay now at Krishna's feet. The brahmanas looked at one another; the courtiers looked at the floor; no one spoke. The whole hall waited for Krishna to answer, and in that stillness twenty thousand prisoners hung on a single word.",
+ "reflection": "The captive kings speak in the language of total dependence: rulers who once commanded armies now own nothing but their fear and their choice of refuge. Their appeal carries a quiet inversion — the strong, they say, decide who lives in this world, so the weak can only choose where to turn. That they turn to Krishna is itself a claim about where true strength lies.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Jarasandha",
+  "the captive kings",
+  "the royal messenger"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Girivraja (Magadha)"
+ ],
+ "themes": [
+  "oppression",
+  "refuge",
+  "liberation"
+ ],
+ "previous_story_id": "DKS_0176",
+ "next_story_id": "DKS_0178",
+ "next_story_tease": "Uddhava, however, would counsel that no army could break Jarasandha — only a single combat could.",
+ "hero_scene": "In the assembly hall at Dwaraka, a stranger of extraordinary appearance stands with joined palms before the seated Krishna, delivering the captive kings' plea; behind him, rising from his words like a shadow, the fortress of Girivraja where twenty thousand kings wait in darkness.",
+ "visual_elements": [
+  "Krishna's assembly at Dwaraka",
+  "the unknown messenger with joined palms",
+  "Krishna seated and listening",
+  "the shadow of Girivraja fortress",
+  "twenty thousand captive kings",
+  "oppression and refuge"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.70.20-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:38:03Z",
+  "source_event_id": "evt_0260",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0231",
+ "title": "The Stronghold Beneath the Mountain",
+ "subtitle": null,
+ "story": "The mountain had one more secret, and Shiva had not yet finished speaking.\n\nAll that night Krishna had kept a vigil of worship on the Parijatra. He had called the Ganga up to the mountain, bathed in her water, and offered Shiva the sacred water and the leaves of the bilva; he had praised the god until the god of gods appeared with the goddess Uma at his side upon the river and the leaves themselves, and granted him his boon — he would carry the wish-giving tree home with him, and no enemy would ever conquer him. His son Pradyumna and the warrior Satyaki kept watch nearby, and behind them the great Parijata rested on Garuda's back in the darkness. The hymn was done. The boon had been spoken. Still Shiva lingered on the dark water, and still he spoke.\n\n“On the summit of this mountain,” he said, “there is a stronghold of the Danavas, a clan of demons, called Satpura. Hidden inside that fastness live mighty Danavas of wicked soul. By a boon of Brahma, the creator, no weapon of the gods can touch them, and no god can prevail against them. Do you, O Krishna, slay them.”\n\nThe words fell into the night like a stone into still water. All day the war over the tree had been fought in the open sky, arrow against claw, for a prize that could be seen and carried. Here was a different war — one the gods could not fight at all. Beneath the very ground where Krishna stood, in the fastness of Satpura, an army of demons waited, shielded from every god by a boon older than the quarrel over the Parijata; and the charge of slaying them had been given to Krishna alone.\n\nHe had come to the mountain for a tree, and the tree was already promised to him. The night was asking him for a war the gods could not fight — and it was a command, not a choice.\n\nBefore the first grey of dawn, on the summit where the stronghold's gate lay hidden, a shrine was raised, and Krishna was enshrined within it. The mountain that had made itself small as a grinding stone at his coming held his presence from that night forward — a place of worship now, made holy by the one it sheltered, and a watch set over the fastness in its heart.\n\nWhatever the Danavas plotted in their safe hiding, they would scheme now under an eye their boon could not shield them from. When morning came, the fight with Indra would resume on the slopes below, and the Parijata would still be the prize. But the night had given Krishna more than a boon: it had given him a task — and before the sun rose, he had taken it up.",
+ "reflection": "The revelation sits oddly against the boon of the night before: Krishna is promised the Parijata, yet the stronghold he is shown is one the gods themselves cannot enter by Brahma's boon. The shrine on the summit reads like a claim — the mountain that bowed to Krishna now holds his presence, as though the hidden enemy were answered by an equally hidden protection.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Shiva",
+  "Uma",
+  "Danavas"
+ ],
+ "locations": [
+  "Parijatra mountain",
+  "Satpura stronghold"
+ ],
+ "themes": [
+  "revelation",
+  "hidden enemies",
+  "shrine"
+ ],
+ "previous_story_id": "DKS_0230",
+ "next_story_id": "DKS_0232",
+ "next_story_tease": "Dawn would bring the fight with Indra again — and Krishna carried the night's promise that the Parijata would go home with him.",
+ "hero_scene": "On the moonlit summit of the Parijatra, Shiva gestures toward the dark range of Satpura where the Danavas' stronghold lies hidden, while Krishna stands listening and the glow of the newly raised shrine rises beside them.",
+ "visual_elements": [
+  "Krishna listening to Shiva on the summit at night",
+  "Shiva pointing toward the hidden Satpura stronghold",
+  "Uma standing by Shiva",
+  "the dark mountain ranges below",
+  "the newly raised shrine on the summit",
+  "hidden threat and vigilance"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.221",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:00Z",
+  "source_event_id": "evt_0302",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

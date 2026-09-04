@@ -1,0 +1,48 @@
+# STORY DKS_0054 — Balarama Slays the Ass-Demon Dhenuka
+
+## Index entry
+title: Balarama Slays the Ass-Demon Dhenuka
+summary: Balarama shakes the palm trees to bring down the fruit, and when Dhenuka charges, he seizes the donkey and dashes it lifeless against a palm.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Balarama, Krishna, Dhenuka
+locations: Vrindavan
+themes: courage, deliverance
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0066
+variant_notes: BP attributes the deed jointly to Balarama; VP to Rama alone.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 15 | verses 27-34 | confidence 5
+  excerpt: Balarama shakes the palms till the fruit falls; the enraged Dhenuka rushes in, and Balarama, catching him by the hind legs, whirls him and hurls him dead against a great palm. (rendered from Sanskrit, verse 27-34)
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 8 | verses  | confidence 4
+  excerpt: Ráma, however, seized him by both hind legs, and whirling him round until he expired, tossed his carcass to the top of a palm tree... The animals that were of kin to Dhenuka came running to his aid; but Krishńa and Ráma treated them in the same manner.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.15 (27-34)
+27. balaḥ praviśya bāhubhyāṃ tālān samparikampayan /
+28. phalānāṃ patatāṃ śabdaṃ niśamyāsura-rāsabhaḥ /
+29. sametya tarasā pratyag dvābhyāṃ padbhyāṃ balaṃ balī /
+30. punar āsādya saṃrabdha upakroṣṭā parāk sthitaḥ /
+31. sa taṃ gṛhītvā prapador bhrāmayitvaika-pāṇinā /
+32. tenāhato mahā-tālo vepamāno bṛhac-chirāḥ /
+33. balasya līlayotsṛṣṭa- khara-deha-hatāhatāḥ /
+34. naitac citraṃ bhagavati hy anante jagad-īśvare /
+
+### Vishnu Purana (Wilson 1840) 5.8 ()
+The demon Dhenuka destroyed by Ráma.
+
+AGAIN, tending upon the herds, Keśava and Ráma wandered through the woods, and on one occasion came to a pleasing grove of palms, where dwelt the fierce demon Dhenuka, feeding upon the flesh of deer. Beholding the trees covered with fruit, and desirous of gathering it, the cowherds called out to the brothers, and said, "See, Ráma; see, Krishńa; in this grove, belonging to the great Dhenuka, the trees are loaded with ripe fruit, the smell of which perfumes the air: we should like to eat some. Will you throw some down?" As soon as the boys had spoken, Sankarshańa and Krishńa shook the trees, and brought down the fruit on the ground. Hearing the noise of the falling fruit, the fierce and malignant demon Dhenuka, in the form of an ass, hastened to the spot in a great passion, and began to kick Ráma on the breast with his hinder heels. Ráma, however, seized him by both hind legs, and whirling him round until he expired, tossed his carcass to the top of a palm tree, from the branches of which it struck down abundance of fruit, like rain drops poured upon earth by the wind. The animals that were of kin to Dhenuka came running to his aid; but Krishńa and Ráma treated them in the same manner, until the trees were laden with dead asses, and the ground was strewed with ripe fruit. Henceforward the cattle grazed unobstructed in the palm grove, and cropped the new pasturage, where they had never before ventured.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0053 | next_story_id: DKS_0055
+previous title: The Boys Long for the Palm Grove's Fruit
+next title: Krishna and Balarama Clear the Grove of Dhenuka's Kin

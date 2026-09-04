@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0063",
+ "title": "Nanda Is Seized by Varuna and Rescued",
+ "subtitle": null,
+ "story": "It happened at night, at the river. Nanda, the chief of the cowherds and the man Krishna called Father, had gone down alone to the Yamuna to bathe while the dark hours still lay over the water. The river was still, the stars lay scattered across its surface, and there was no one else about. The village slept; the only sound was the water closing softly around him as he stood in the shallows.\n\nHe had not been long in the water when hands closed on him. A servant of Varuna, the lord of the waters, had come up silently through the dark. He did not know whom he had caught; he took Nanda for an ordinary man, seized him, and drew him down — down through the cold and the silence, to the bottom of the world, where the halls of Varuna stand.\n\nOn the bank the cowherds missed him. They had bathed in that river a hundred times and thought nothing of it, but now the dark water seemed to have swallowed one of their own. They called his name, and no one answered. They searched the water with their eyes, and it gave nothing back. Fear took hold of them, and they cried out the only names that seemed to matter: \"Krishna! Rama!\"\n\nKrishna came at the sound. At the water's edge he understood at once what had happened. He did not hesitate, and he did not wait for help. Without a word he went into the river and down after his father, to the court of the lord of the waters.\n\nThere Varuna saw who had come into his presence — and the lord of the waters did not meet the boy as one meets an intruder. He rose and honored him with offerings and with worship, the way a host honors one far greater than himself. Then he bowed, and he spoke.\n\n\"Obeisance to you,\" he said, \"who are the supreme Self. My servant was a fool, and did not know what he was doing; he did not understand what was right. Forgive him. And you who see all things, grant your grace to me as well.\"\n\nKrishna accepted the honor without anger, and Varuna gave Nanda back to him. The boy brought his father up through the water to the bank, where the cowherds stood waiting with their fear.\n\nWhen they saw Nanda step out of the river, whole and unharmed, the fear let go of them all at once. They pressed around him, asking what had happened, where he had been, whether he was hurt. But Nanda climbed out into the lamplight and the familiar faces, and for a long moment he did not speak. He had seen the lord of all the waters rise and bow to the boy he had raised as his own son, and he did not know how to begin to say it.",
+ "reflection": "The story turns on a strange reversal: the father is taken, and it is the son who descends to bring him back. Varuna's apology is not to Nanda but to Krishna, and the rescue is less a battle than an act of recognition — the great god honoring the boy before a word of force is spoken.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Nanda",
+  "Varuna",
+  "Krishna"
+ ],
+ "locations": [
+  "Yamuna",
+  "Varuna's abode"
+ ],
+ "themes": [
+  "rescue",
+  "grace"
+ ],
+ "previous_story_id": "DKS_0062",
+ "next_story_id": "DKS_0064",
+ "next_story_tease": "And what Nanda had seen beneath the water he would soon tell to all his kinsmen.",
+ "hero_scene": "Krishna leading his father Nanda up out of the dark water of the Yamuna at night, the cowherds crowding the bank with torches, while far below the lord of the waters still bows in reverence.",
+ "visual_elements": [
+  "the Yamuna at night",
+  "Nanda",
+  "Krishna",
+  "Varuna, lord of the waters",
+  "a servant of Varuna",
+  "torches on the riverbank",
+  "cowherds calling out",
+  "rescue and awe"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.28.1-8",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:25Z",
+  "source_event_id": "evt_0104",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

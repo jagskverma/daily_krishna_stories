@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0400",
+ "title": "Duryodhana Falls in Maya's Hall",
+ "subtitle": null,
+ "story": "The wonder of Indraprastha was the new hall, and the wonder of the hall was that no one could trust it. Maya, the master builder, had raised it for the five Pandava brothers, and every surface in it seemed to be something it was not. Sheets of polished crystal lay so smooth and clear they looked like standing water; pools lay so still they looked like solid floor. Guests walking through tested each step, and those who watched them smiled.\n\nDuryodhana, eldest of the Pandavas' cousins from Hastinapura, walked through the hall like a man who refused to be impressed. He had come with his brothers for the Rajasuya of Yudhishthira, the eldest Pandava, and he had not liked what he saw. The palace rose around him like a second heaven, its splendor gathered from every treasury at once, as if the wealth of earthly kings, of the lords of the demons, of Indra himself had been poured into one building. Envy burned in him, and he let it show in nothing but the set of his jaw. He was proud — and pride was exactly the wrong companion for Maya's floor.\n\nHe came to a stretch of crystal so clear and still that it looked like a sheet of water laid across the hall, with the pillars reflected in it. Duryodhana, seeing water where the careful had learned to look twice, gathered the hem of his garment in his hand to keep it dry and stepped forward, the way a man steps into a pool. The floor met his foot — hard, flawless, dry. Somewhere behind him a servant bowed his head quickly to hide a smile.\n\nDuryodhana lowered his garment and walked on, his face burning. Then the hall played its second trick, crueler than the first. A little further on lay a real pool, sunk in the stone, its water so clear that the floor seemed to run on across it without a break. Duryodhana, this time certain of his footing, walked straight into the water and fell.\n\nThe laugh that broke out was Bhima's — Bhima, Yudhishthira's mighty younger brother, who could no more have held it in than he could have held a storm. The women of the court laughed, and the kings standing about laughed with them, though Yudhishthira, the host, made a sign for restraint. It was no use. The hall had given them the proud heir of Hastinapura floundering in a pool with his dignity in tatters, and the laughter ran through the assembly like wind through a grove.\n\nDuryodhana rose from the water. He said nothing — and that, to those who knew him, was the frightening part. No threat, no retort, no show of good humor. He stood dripping, burning with shame and with a hatred that fed on the shame, and he walked out of the hall in silence, out of the city, and back to Hastinapura, with the laughter following him all the way. He would remember it, and the hatred would wait for its own time.\n\nKrishna, the Pandavas' cousin and friend, had watched it all and said nothing. He saw Duryodhana's silence, and he saw further — to what that silence would one day become. But he did not soften the moment. He let the laughter ring out and let Duryodhana leave with it: the time had not yet come, and the pride of kings was doing its slow, certain work.",
+ "reflection": "The hall does not humiliate Duryodhana on purpose; it merely mirrors what is already in him. A proud man shown up before kings does not forget — he converts shame into grievance, and grievance into a score to settle. Krishna's silence is the quiet center of the scene: he lets the enmity ripen, because the events that must follow cannot be hurried.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Duryodhana",
+  "Bhima",
+  "Krishna",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "Indraprastha",
+  "Maya's assembly hall"
+ ],
+ "themes": [
+  "pride",
+  "humiliation",
+  "enmity"
+ ],
+ "previous_story_id": "DKS_0399",
+ "next_story_id": "DKS_0401",
+ "next_story_tease": "Far from the laughter of the hall, Shishupala's friend Shalva was already making a vow that would bring war to the Yadavas.",
+ "hero_scene": "Inside Maya's mirrored hall, proud Duryodhana gathers the hem of his robe before what he takes to be a sheet of water, while behind him Bhima's laughter breaks out and Krishna watches in stillness from his seat.",
+ "visual_elements": [
+  "the mirrored hall of crystal and clear pools",
+  "Duryodhana lifting his garment before the crystal floor",
+  "Duryodhana stumbling into the pool",
+  "Bhima laughing, the women and kings laughing",
+  "Yudhishthira gesturing for restraint",
+  "Krishna seated in silence, watching"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.75.30-38",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:41Z",
+  "source_event_id": "evt_0380",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

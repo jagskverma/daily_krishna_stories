@@ -1,0 +1,40 @@
+# STORY DKS_0529 — Brahma and the Gods Urge Krishna to Return to His Abode
+
+## Index entry
+title: Brahma and the Gods Urge Krishna to Return to His Abode
+summary: After one hundred and twenty-five years, Brahma and the assembled gods come to Dwaraka, praise Krishna, and remind him that the earth's burden is lifted and his clan is nearly consumed by the curse, asking him to return to his own abode.
+life_stage: later_life | story_arc: krishna_departure
+characters: Krishna, Brahma, Shiva, the gods
+locations: Dwaraka
+themes: divine counsel, fulfilment, departure
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0505
+variant_notes: Prefigures the departure; cf. bpc1_029.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 6 | verses 19-31 | confidence 5
+  excerpt: Brahma said: 'A hundred and twenty-five years have passed since you descended in the Yadu line. Your work for the gods is all but done, and this clan is nearly destroyed by the brahmins' curse. If you think fit, return to your supreme abode.' Krishna answered that the earth's burden was indeed lifted and he would go at the end of the curse. (rendered from Sanskrit, verses 24-30)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.6 (19-31)
+19. bhp_11.06.020/0 śrī-bādarāyaṇir uvāca
+20. bhp_11.06.021/0 śrī-brahmovāca
+21. dharmaś ca sthāpitaḥ satsu satya-sandheṣu vai tvayā /
+22. avatīrya yador vaṃśe bibhrad rūpam anuttamam /
+23. yāni te caritānīśa manuṣyāḥ sādhavaḥ kalau /
+24. yadu-vaṃśe 'vatīrṇasya bhavataḥ puruṣottama /
+25. nādhunā te 'khilādhāra deva-kāryāvaśeṣitam /
+26. tataḥ sva-dhāma paramaṃ viśasva yadi manyase /
+27. bhp_11.06.028/0 śrī-bhagavān uvāca
+28. tad idaṃ yādava-kulaṃ vīrya-śaurya-śriyoddhatam /
+29. yady asaṃhṛtya dṛptānāṃ yadūnāṃ vipulaṃ kulam /
+30. idānīṃ nāśa ārabdhaḥ kulasya dvija-śāpa-jaḥ /
+31. bhp_11.06.032/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0528 | next_story_id: DKS_0530
+previous title: The Abhiras Rob Arjuna
+next title: The Hunter Jara Shoots Krishna's Foot

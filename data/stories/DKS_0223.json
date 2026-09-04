@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0223",
+ "title": "The Fan and the Falling Tears",
+ "subtitle": null,
+ "story": "Krishna, the lord of Dwaraka, had brought his queens to a festival on Mount Raivataka. The day belonged to Rukmini, his first wife: the sage Narada — a wanderer who moved freely between the worlds — had arrived with a flower from the gardens of heaven, the Parijata, and the flower had gone to Rukmini. Now Narada sat with her, praising it, and one face was missing from the circle of Krishna's wives. Satyabhama was gone — and Krishna knew, before anyone told him, where she had gone and why.\n\nUnder some pretext he rose and left the festival, walking quickly toward the mansion on the hill that Vishvakarma, the gods' master builder, had raised for Satyabhama. He had left his son Pradyumna to entertain Narada, and his charioteer Daruka waited at the gate. Krishna entered alone. His queen, he knew, was burning with jealous anger, and the knowledge made his steps slower and heavier as he climbed.\n\nFrom the doorway he saw her in the room her maids called the apartment of anger, in the midst of her handmaids, sighing hot and fast. She laughed a mocking laugh at a lotus she held near her face, nipping its petals with her nails. She traced lines on the floor with one toe. She sat with her face resting on her palm. She took sandal paste from a maid's hand, touched it to her breast, and flung it aside as if it had stung her. She lay down on her bed, then sat up, then lay down again. Krishna watched the whole restless theater — a woman determined to be angry at the only man she loved — and did not announce himself.\n\nAt last she laid her head on the pillow and drew her veil over her face. This was his moment. He signed to the handmaids to keep silence, crossed the room with careful steps, took up a fan, and stood beside her, fanning her slowly and laughing a little under his breath.\n\nThe Parijata flower had left its perfume on him, and the fragrance drifted through the chamber — heavenly, rare, unmistakable. Satyabhama smelled it and wondered. She threw the veil back. \"What is this?\" Without a single glance at her husband she questioned her maids about the scent. They could only kneel, faces to the floor and palms pressed together. Perhaps the earth herself had breathed out one of her own precious perfumes, she thought — and then, looking about her, her eyes fell on Krishna. \"Ah — you,\" she said, and her eyes brimmed at once, love and jealousy crowding each other. Pouting and sighing, she turned her face away. Then she frowned, and with her eyes lifted she said: \"You look very beautiful.\" The tears she had been holding spilled down her cheeks like dew shaken from lotus petals.\n\nKrishna went to her at once and caught the falling tears in his hands, then wiped with his own fingers the tears that reached her breast. \"Why do tears fall from your eyes like dew from a pair of lotuses?\" he asked gently. \"Why does your face wear the look of the full moon in a morning sky, or of a lotus at noon? And why, today, are you dressed in plain white — the color a lady wears only when she worships the gods — instead of the safflower-sprinkled, gold-dusted silks you love?\"\n\nShe had no answer yet, and so he gave her his own. \"As flame lives in fire,\" he said, \"so my love lives in you — and in you alone.\"",
+ "reflection": "Krishna does not meet Satyabhama's jealousy with correction or a defense of his conduct; he slips past her guards, takes up the fan, and asks her why she is sad — the question of a lover, not a lord. The protest that his love dwells in her alone is all the more tender for coming while she is still turned away, still unwilling to look at him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Satyabhama"
+ ],
+ "locations": [
+  "Raivataka"
+ ],
+ "themes": [
+  "jealousy",
+  "reconciliation",
+  "tenderness"
+ ],
+ "previous_story_id": "DKS_0222",
+ "next_story_id": "DKS_0224",
+ "next_story_tease": "The flower, it turned out, was not the wound; the wound was being left out — and Krishna answered it with a promise far larger than a single flower.",
+ "hero_scene": "Krishna, fan in hand, catching Satyabhama's falling tears in his cupped hands as she sits on the edge of her bed with her face turned away and half-hidden in her veil, her handmaids kneeling silent with joined palms in the shadowed apartment of anger.",
+ "visual_elements": [
+  "Krishna holding a fan, catching Satyabhama's tears in his hands",
+  "Satyabhama turned away, pouting, face half-hidden in her veil",
+  "kneeling handmaids with palms joined and heads bowed",
+  "the plain white garments she wears",
+  "the soft lamplight of the apartment of anger",
+  "tenderness and reconciliation"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.123",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:03Z",
+  "source_event_id": "evt_0294",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

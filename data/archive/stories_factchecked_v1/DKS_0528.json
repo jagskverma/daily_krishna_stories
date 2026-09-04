@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0528",
+ "title": "The Bow That Would Not Tighten",
+ "subtitle": null,
+ "story": "Arjuna found the bodies of Krishna and Balarama and performed the funeral rites for them, and for all the slain. The eight queens of Krishna, with Rukmini at their head, embraced the body of Hari and entered the funeral fire. Revati, holding the body of Rama in her arms, climbed the blazing pyre after him, and the fire was cool to her, happy in the touch of her lord. Ugrasena, and Vasudeva with Devaki and Rohini, gave themselves to the flames as well. When the last ceremony was done, Arjuna made all the people leave the city, took the young Yadava prince Vajra with him, and led the thousands of Krishna's widowed wives out of Dwaraka — slowly, with tenderness and care, the whole city following behind him.\n\nBehind them, as they went, the sea rose and swallowed Dwaraka whole. Only the dwelling of the deity of the Yadu race stood above the water; the ocean has never washed it away, and Kesava still abides there. Whoever visits that holy shrine is freed of his sins. And on the same day that Hari departed from the earth, the dark-bodied Kali age came down upon it. The Sudharman palace and the Parijata tree, which Krishna had brought down from heaven, went back where they came from.\n\nArjuna halted the long column in the country of Panchanada, a rich and fertile spot, to rest. That was his undoing. The robbers of the neighbourhood saw the widowed women, saw the great wealth in the hands of a single man, and their desires caught fire. They gathered the villainous Abhiras, the herdsmen of the region, and roused them. \"Here is Arjuna,\" they said, \"immensely rich, guarded only by women whose husbands are slain, passing confidently among us — a disgrace to brave men. His pride is swollen from slaying Bhishma and Drona and Jayadratha and Karna. He does not know the prowess of simple villagers. Up, up! Take your long thick staves!\"\n\nThey rushed upon the unprotected people with cudgels and clods of earth. Arjuna turned to meet them, and called out in derision: \"Retire, wretches, ignorant of what is right, unless you are eager to die.\" They paid him no heed, and seized his treasure and his women.\n\nThen Arjuna braced Gandiva, the heavenly bow, irresistible in battle — and it would not tighten. The string stayed slack in his hands, and the incantations of the superhuman weapons would not come back to him. He loosed his shafts anyway, and the arrows that had once overthrown kings merely scratched the skin of the herdsmen. The arrows Agni had given him at the burning of Khandava, arrows that carried certain destruction, were themselves destroyed that day and turned against him. He tried to summon the might of Krishna, the presence that had animated his arm through a hundred wars; it was gone, and his arrows flew at random or were brushed aside by peasants. When his quiver was empty he beat at the bandits with the horn of his bow, and they only laughed. And the barbarians, before his eyes, carried off all the women of the Vrishni and Andhaka tribes and went their way.\n\nArjuna wept. \"Alas, alas, I am deserted by my lord!\" he cried, and in that same instant the bow and the heavenly arms, his chariot and his horses, perished entirely — like a donation given to an unlearned Brahman, gone to nothing. \"Resistless are the decrees of fate,\" he said, \"which have laid feebleness upon me, robbed me of my illustrious friend, and given victory to the base. These arms are mine, and this fist is mine, and this is my place, and I am Arjuna — but without that righteous aid, all of it is pithless. The valour of Arjuna and the strength of Bhima were his work. Without him I am overcome by peasants. It cannot be from any other cause.\"\n\nHe made his way to Mathura, and there installed Vajra as king of the Yadava line. In a wood outside the city he found Vyasa, and saluted the sage, lying prostrate at his feet. Vyasa surveyed him for a long time. \"How is it,\" he asked, \"that I see you thus shorn of your lustre?\"\n\nThe question hung in the air. It was the question Arjuna had been asking himself ever since the day Gandiva went slack in his hands: what is an archer, when the presence that strung his bow has left the world? The Kali age had begun, and the first thing it had taken was not a kingdom — it was the strength of the strongest man alive.",
+ "reflection": "The robbery is not a military defeat but the withdrawal of Krishna's presence made visible. Arjuna's weapons fail not because he has grown weaker but because the source of his strength has left the world — the story's way of saying that the Kali age began as a loss no skill could replace.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "later_life",
+ "story_arc": "krishna_departure",
+ "characters": [
+  "Arjuna",
+  "the Abhiras",
+  "Rukmini",
+  "Vajra",
+  "Vyasa"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Panchanada",
+  "Mathura"
+ ],
+ "themes": [
+  "decline",
+  "loss",
+  "fate"
+ ],
+ "previous_story_id": "DKS_0527",
+ "next_story_id": "DKS_0529",
+ "next_story_tease": "Even as Arjuna wept at Mathura, the gods were gathering in Dwaraka to ask Krishna to come home.",
+ "hero_scene": "Arjuna straining at the string of Gandiva while the great bow stays slack in his hands, the Abhira robbers with staves and clods of earth swarming past him toward the widowed women of the Yadavas under a dull sky.",
+ "visual_elements": [
+  "Arjuna with the flaccid bow Gandiva",
+  "Abhira robbers with long staves and clods of earth",
+  "widowed women of the Vrishni and Andhaka tribes",
+  "the fertile plain of Panchanada",
+  "the bow and chariot perishing",
+  "a mood of humiliation and decline"
+ ],
+ "sources": [
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.38",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:20:09Z",
+  "source_event_id": "evt_0517"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0073",
+ "title": "The Serpent's Coil",
+ "subtitle": null,
+ "story": "The serpents closed around Krishna in the deep, and Kaliya struck. He bit the boy — that beautiful, tender boy in the yellow cloth, with the mystic mark on his chest, the smiling face and the feet soft as a lotus's heart, who stood in the water playing without a trace of fear — and then he wound his coils about him, holding him fast. In the dark of the pool, Krishna lay wrapped in the serpent's body, and he did not move.\n\nThe cowherd boys on the bank saw it. Their friend, whom they loved above their own lives, was bound and still in the water, and the sight undid them. Grief and terror and sorrow fell on them all at once, and their minds gave way, and they dropped where they stood. The cows and the bulls and the young calves, lowing, cried out in their own tongue, as if the whole pasture were mourning at once.\n\nFar off in Vraja, signs of disaster began to appear — three kinds of terrible omens, one after another, the kind that make men certain that death has come. The cowherds saw them and were stricken with fear. With Nanda at their head, and with the children and the old men and the women — everyone, down to the last, for they all lived by Krishna as the cattle live by grass — they poured out of the village and went searching for their beloved. Balarama went with them, watching over the frightened crowd.\n\nThey followed the marks his feet had left in the dust, footprints stamped with the signs of the lotus and the barley-grain and the goad and the thunderbolt and the banner. The trail led them straight to the water. And there, in the depths of the pool, they found him — Krishna, wrapped in the serpent's coils, not moving, while around the shore his bewildered companions and the lowing cattle stood in a ring. What they saw fell on them like the end of everything, and they were crushed by it.\n\nThe gopis, whose hearts lived in him, stood remembering — his friendship, his smile, the way he looked at them, the things he said — and now that the serpent had taken their beloved, the three worlds themselves seemed to them empty, as if the sun had gone out of every sky at once. They held up Krishna's mother, Yashoda, who had come running after her child, and shared her pain and wept with her. They told one another the old beloved stories of Vraja, over and over, their eyes fixed on Krishna's face in the water, and they looked like people who had already died of grief.\n\nAnd still he did not move. The water lay dark and heavy, and the serpent's coils held.",
+ "reflection": "The verses spend little time on the serpent and much on what his grip costs everyone else — the fallen boys, the lowing cattle, the omens, the mother held up by the gopis, the world gone empty. Peril here is measured in the grief of those who watch, which is what makes the stillness of the water so unbearable.",
+ "tradition_note": null,
+ "content_note": "A serpent's venomous grip on Krishna is described briefly; the grief of his family and friends is vivid but restrained.",
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Kaliya",
+  "Krishna",
+  "cowherds",
+  "Nanda",
+  "gopis",
+  "Yashoda"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "peril",
+  "grief"
+ ],
+ "previous_story_id": "DKS_0072",
+ "next_story_id": "DKS_0074",
+ "next_story_tease": "But the serpent's grip was about to become a stage — Krishna would rise and dance upon those hoods.",
+ "hero_scene": "Kaliya's coils wrapped around the motionless Krishna in the dark water, while on the bank the cowherds, gopis, Nanda and Yashoda stand weeping, the cattle lowing, the pool churned and smoking.",
+ "visual_elements": [
+  "Kaliya coiled around Krishna",
+  "Krishna motionless in the water",
+  "cowherd boys in despair",
+  "lowing cows and calves",
+  "Nanda and Yashoda",
+  "gopis weeping",
+  "footprints with divine marks",
+  "the darkened pool",
+  "grief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.16.8-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:16Z",
+  "source_event_id": "evt_0070"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

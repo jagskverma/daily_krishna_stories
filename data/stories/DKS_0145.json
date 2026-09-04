@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0145",
+ "title": "The Throne That Was Never Meant to Be",
+ "subtitle": "Krishna crowns Ugrasena king of the Yadavas",
+ "story": "Mathura had a king all along — he had simply been in prison for years.\n\nThe one who set him free was his grandson, Krishna. Krishna had been born in Mathura, but as a baby he was carried out of the city and raised in the village of Gokula, because the man on the throne had sworn to kill him. That man was Kamsa, Ugrasena's own son, who had pushed his father aside, locked him away, and ruled the city through fear.\n\nWhen Krishna grew up and returned, he faced Kamsa in the city's great arena and ended his rule. He freed his father and mother, who had spent years in Kamsa's prison. And while the dust of the arena still hung in the air, he did something no one expected: he did not sit on the empty throne himself. He walked to the prison, released his grandfather, and led him out into the light of the city his son had stolen from him.\n\nThen, before the assembled Yadavas — the chiefs and elders of his own family — Krishna declared that Ugrasena would be king. He also explained why the throne could not pass to him, the young conqueror whom every hand in the city would have raised up. Long ago, he said, a curse had been laid upon the Yadava line: because of King Yayati, no Yadava was to sit on the throne. The kingship of the Yadavas was a charge to be carried, not a prize to be seized, and it could not be carried by one born under that curse. So the man who had won the city would serve, and the man the curse allowed would rule.\n\nUgrasena did not want it. He had seen what the throne had done to his son; he had spent years in a cell because of it. He spoke of performing the rites and retiring to the forest with his wife and daughters-in-law, and he pressed the kingdom and Kamsa's wealth upon Krishna. Krishna refused. He cared nothing, he said, for a kingdom or a royal throne; let his grandfather take the seat and win glory by becoming king. Krishna knew the law, and he would not bend it. The Harivamsha, an old telling of these events, remembers his answer as a plain instruction: place yourself on the throne, and win victory by becoming king. And so Krishna set his grandfather upon the throne that his son's death had left vacant.\n\nThere was a strangeness in the coronation that the city felt without quite understanding. The young man from Gokula had walked into Mathura that morning a stranger; by evening he was master of everything in it. Yet he stood at the foot of the throne and placed an old man upon it — the very man Kamsa had robbed of that seat years ago. He took none of it for himself: not the crown, not the wealth, not the army. He gave it all to the man his enemy had wronged.\n\nThe Yadava chiefs and the citizens looked from the old king to the young man who refused to be king, and slowly they understood that they had been given something stranger than a victory. They had been given justice.\n\nUgrasena took his seat, and Mathura had a king again — and the king was the man Kamsa had tried to erase. Krishna had said that while he served at his grandfather's side, even the gods themselves would pay tribute to that throne. The city could not see the gods, but it could see this: the tyrant's line was over, the old king had come home, and the young man who had done it all asked for nothing — not the throne, not the crown, not a single coin from the wealth lying in Kamsa's halls.\n\nThe yoke of the Yadava kingship had been carried by a usurper for years. Now it rested on the shoulders it had always belonged to, and the man who had won it back stood below it, content to serve.",
+ "reflection": "Krishna wins Mathura and immediately gives it away — to the grandfather Kamsa had imprisoned. His power is expressed as service: he refuses the throne not out of modesty but out of law, honoring the old curse on the Yadava line by letting the lawful king rule while he himself stands below the throne.",
+ "tradition_note": "The Vishnu Purana tells the same crowning in its chapter on Kamsa's funeral rites, folding the consolation of the widows into the same episode; the Bhagavata keeps the coronation and the mourning separate, and this story follows it. The Yayati curse is given only in summary in the sources.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Ugrasena"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "kingship",
+  "dharma"
+ ],
+ "previous_story_id": "DKS_0144",
+ "next_story_id": "DKS_0146",
+ "next_story_tease": "With a king at last upon the throne, there remained the wounded city and the Yadavas to be gathered.",
+ "hero_scene": "Krishna placing his grandfather Ugrasena upon the throne of Mathura in the great hall, the assembled Yadavas and citizens watching, the old king seated while Krishna stands below him with folded hands.",
+ "visual_elements": [
+  "Ugrasena seated on the throne of Mathura",
+  "Krishna standing below the throne with folded hands",
+  "the assembled Yadavas and citizens",
+  "the royal hall of Mathura",
+  "the empty crown being set on the old king's head",
+  "the mood of justice rather than triumph"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.10-13",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.87",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.21",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0149",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

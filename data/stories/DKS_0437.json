@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0437",
+ "title": "Kunti's Charge: The Duty of a Kshatriya",
+ "subtitle": null,
+ "story": "In the quiet of her rooms in Hastinapura, Kunti — mother of the five Pandavas, whose kingdom had been stolen from them in a rigged game of dice — waited to hear how the world had answered her sons' plea for peace. Now Krishna, their friend and messenger, came to her straight from the Kuru assembly, bowed and touched her feet, and sat before her; and he laid the whole embassy before her, briefly, the way one sets down a burden.\n\nHe and the sages who had sat with him had spoken words worthy of being accepted, full of reason. Duryodhana had accepted none of them. \"As for Duryodhana and his followers,\" Krishna said, \"their hour has come.\" Now, with her leave, he would hurry to the Pandavas. What should he carry to them as her instructions?\n\nKunti answered as a mother of kings, and her answer was not soft. \"Tell my son Yudhishthira these words,\" she said. \"Your virtue is wasting away, son. Do not act like a man who chants the Vedas and catches their words but never their meaning — your mind, fed on those words alone, sees nothing but virtue, and thinks that enough. Look instead at the duty of your own order. For the protection of the people, the warrior was created from the arms of Brahma, and he is to lean on the strength of his own arms.\"\n\nThen she gave Krishna a story to carry — an old tale she had heard from the aged. \"Long ago,\" she said, \"the god Vaisravana, well pleased, offered the Earth as a gift to the royal sage Muchukunda. The sage would not accept it. 'I desire to enjoy the sovereignty that is won by the strength of one's own arms,' he said. Vaisravana was filled with wonder and delight; and Muchukunda, keeping the warrior's duty whole, ruled the earth he had conquered with his own arms.\"\n\nA king's place in the world, she went on, is not a matter of comfort but of cause. A sixth part of the virtue practised by subjects well protected by their king comes to that king. A king's own virtue raises him to heaven; his sin carries him down to hell. The rod of punishment, rightly used, keeps the four orders — priests, warriors, merchants, and servants — at their own duties. And the king makes the age: he who brings the golden age to reign enjoys heaven; he who brings the age of darkness heaps up sin and lies in hell for countless years. \"The king's sins fall on the world,\" she said, \"and the world's sins fall on him.\"\n\n\"Therefore hold to the kingly duties that become your line. What you wish to practise now is not the conduct of a royal sage. A man stained by weakness of heart, clinging to compassion, unsteady — he never earns the merit of a king who cherishes his subjects with love.\"\n\nThe understanding by which Yudhishthira was acting, she said, was never what his father Pandu had wished for him, nor she, nor his grandsire. Sacrifice, generosity, courage, greatness of soul, might — these she had prayed for him, while well-wishing priests offered to the gods and the ancestors for his long life, his wealth, his children. \"Fathers and mothers and the gods themselves always desire for their children liberality, learning, sacrifice, and rule over subjects. Whether the world calls it righteous or not, you are to practise it — by the very fact of your birth.\"\n\nAnd then her voice found its hardest edge, for she spoke of what her sons now were. Though born to a high line, they were without the means of support, worn down with misery. Hungry men who come to a brave and open-handed king find food and live at his side — what virtue is higher? A man who wins a kingdom should bind all men to himself, some by gifts, some by strength, some by kind words. A priest may live by begging; a merchant lives by his wealth; a servant serves the other three. \"Begging is forbidden to you. Farming does not suit you either. You are a warrior — the protector of everyone in distress. You are to live by the strength of your own arms. Son of mighty arms, win back the share of the kingdom your father left you, by persuasion or by war.\"\n\nKrishna received the words. He would carry them unaltered to the camp at Upaplavya, where the eldest Pandava — who had staked everything on peace — would hear his mother tell him that peace was a luxury he could no longer afford.",
+ "reflection": "Kunti's message never mentions revenge. She frames Yudhishthira's patience as a failure of kingship: the Kshatriya is created to protect, and a ruler who chooses compassion over his order's duty abandons the people who depend on him. The story of Muchukunda makes the same point in reverse — refusal of a gift becomes the highest kingly act, because sovereignty is only real when it is won.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti",
+  "Yudhishthira",
+  "Muchukunda"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "duty",
+  "kshatriya_dharma",
+  "exhortation"
+ ],
+ "previous_story_id": "DKS_0436",
+ "next_story_id": "DKS_0438",
+ "next_story_tease": "Kunti had not finished; she pressed one more tale into Krishna's keeping before he could leave.",
+ "hero_scene": "In Kunti's dim chamber in Hastinapura, the aged queen, one hand raised in emphasis, delivers her charge to Krishna, who sits at her feet — a mother sending her sons to war through the mouth of a god.",
+ "visual_elements": [
+  "Krishna worshipping Kunti's feet",
+  "Kunti speaking with a raised hand and grave face",
+  "the quiet dimness of her abode in Hastinapura",
+  "the image of Muchukunda refusing the gift of the earth",
+  "Krishna receiving the message he must carry to Upaplavya"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.132",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:58Z",
+  "source_event_id": "evt_0444",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

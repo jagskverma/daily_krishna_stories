@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0021",
+ "title": "Nanda Comes to Mathura",
+ "subtitle": null,
+ "story": "Once a year, the chief of the cowherds had business in the royal city. Nanda of Gokula made the journey to Mathura to pay the tribute his people owed the crown — an errand of grain and carts and careful accounts, settled with little ceremony and less pleasure. It was a road he knew well, and he traveled it the way he did everything: plainly, without fuss, a few attendants and a line of bullock carts behind him. He had made the trip many times, and there was nothing in it to make a man hurry. But this year he came with something new behind him: in Gokula, only days before, a son had been born to him, and the rejoicing had not yet cooled in his house.\n\nIn Mathura, one man was waiting for word of him. Vasudeva heard that Nanda had arrived, and the news reached him the way a long-missed face does — sudden, welcome, and long desired. He rose at once from where he sat and went out to meet the cowherd chief, and he did not send anyone ahead of him. When he saw Nanda, he did not pause to speak. He threw his arms around him and held him close, the way a man clings when life itself seems to pour back into his body — as though, in this one visitor, something that had gone out of him had suddenly returned, and all the long waiting had ended in that single embrace.\n\n\"Brother,\" he said, and the word was no mere courtesy.\n\nThey were not brothers by blood. Nanda was a cowherd chief; Vasudeva, a man of standing in Mathura. But between them ran a kinship that needed no name — one of those unspoken debts of the heart that pass between two men without a word — and Vasudeva received him as the dearest of his own, his face bright with a joy he could not hide. For a long moment the two men stood together in the street, and the tribute, the carts, the accounts — all of it could wait. Nothing in Nanda's ledger could have weighed as much as that embrace.\n\nNanda felt the warmth in the other man's eyes and was moved by it, though he did not yet understand everything that lay behind it. He had expected the city to be all business and no welcome, and here instead was this — a man who clung to him as if to a returning life. He knew only that he was welcome, that here in the capital there was at least one man to whom his coming meant more than any payment he carried.\n\nAnd so the cowherd chief of Gokula and the nobleman of Mathura stood together as brothers, and for a little while the distance between their two worlds closed to nothing at all.",
+ "reflection": "Vasudeva's embrace of Nanda is more than courtesy; the text says life itself seemed to return to his body. Whatever secret lay between them, their bond is drawn not as duty but as a deep, wordless kinship — and it is that bond, not the tribute, that the story chooses to remember.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Nanda",
+  "Vasudeva"
+ ],
+ "locations": [
+  "Mathura",
+  "Gokula"
+ ],
+ "themes": [
+  "friendship",
+  "kinship"
+ ],
+ "previous_story_id": "DKS_0020",
+ "next_story_id": "DKS_0022",
+ "next_story_tease": "But Vasudeva's joy was shadowed by something he still had to tell the cowherd chief.",
+ "hero_scene": "In a Mathura street, Vasudeva rises from his seat and embraces the cowherd chief Nanda with both arms, his face lit with a joy he cannot hide, while Nanda's tribute carts and attendants wait behind them.",
+ "visual_elements": [
+  "Nanda the cowherd chief",
+  "Vasudeva rising to embrace him",
+  "tribute carts and attendants",
+  "Mathura city street",
+  "two men embracing as brothers",
+  "mood of warm reunion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.5.18-20",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T22:20:31+05:30",
+  "source_event_id": "evt_0035"
+ },
+ "editorial_status": "unreviewed"
+}

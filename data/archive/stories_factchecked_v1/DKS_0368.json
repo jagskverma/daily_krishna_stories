@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0368",
+ "title": "Founding Indraprastha",
+ "subtitle": "Krishna helps raise a capital from the wilds of Khandavaprastha, and then takes his leave.",
+ "story": "Half a kingdom sounds like a fortune until you stand on it. The land Dhritarashtra had granted the Pandavas — Khandavaprastha — was unreclaimed desert: thorn and dust and emptiness, no walls, no palace, no street that could be called a street. The brothers had come there content, asking only that no difference should arise again between them and their cousins. But contentment does not build cities. Work does.\n\nKrishna had not gone home. Of all those who had pressed the brothers toward Hastinapura, he was the one who came with them into the wilderness, and he stayed. With Krishna at their head, the Pandavas began to make the desert theirs. They called in the sage Vyasa — Dwaipayana — and with his assistance selected a sacred and auspicious region for the settlement. There they performed propitiatory ceremonies to hallow the ground, and measured out the piece of land on which their city would stand. Every step was deliberate: first the ground made holy, then the ground made level, then the ground made home.\n\nWhat rose from that measuring was not a camp but a capital. A trench was dug around it, wide as the sea. Walls rose over it, reaching high up toward the heavens, white as fleecy clouds or the rays of the moon. The city stood resplendent, and those who saw it said it gleamed like Bhogavati, the jewelled capital of the nether kingdom decked with its Nagas — so bright and finished did it shine against the desert it had replaced. Beautifying the place as they went, the Pandavas had made what the storytellers would call a second heaven. And the city on that measured ground came to be known as Indraprastha. The name itself sounded like a promise to men who had grown up depending on the goodwill of others: not a refuge, not a guest-house, but a capital. The brothers who had been schooled in Hastinapura on sufferance, sheltered in Panchala as refugees, now had a place that answered to their name alone.\n\nIt was the first thing in many years that belonged wholly to the Pandavas. Since their father's death they had been guests and wanderers — schooled in Hastinapura as dependents, sheltered in Panchala as refugees, then sent off with half a kingdom in the desert. Now, at last, they had walls of their own, and a trench wide as the sea, and gates that opened on a city that bore their name.\n\nAnd when the walls stood, Krishna took his leave. Having settled the Pandavas there — having seen the ground hallowed and measured, the city raised, his friends standing inside their own gates — he obtained their leave and set out for the west, with Balarama beside him, toward Dwaraka. There is little recorded of the parting itself; there was little to say. The work was done, and a friendship like that one does not need speeches. The brothers stood at the gate and watched the two cousins drive away, the dust settling slowly on the road west — and what they carried back into their new city was not the emptiness of guests left behind, but the ease of men who had been settled in their own home.\n\nThe Pandavas watched the two cousins go, the men of Dwaraka who had ever been engaged in doing what was agreeable and beneficial to Pandu's sons. Behind the brothers, the white walls of Indraprastha threw long shadows across the desert that used to be empty. Ahead of them, the road home.\n\nBut Dwaraka was not so far, and Krishna's heart was not the kind that stayed in one place. The city was built. The friendship would keep the road busy.",
+ "reflection": "Krishna does not merely wish the Pandavas well — he stays until the city stands, helping choose the ground, hallow it, measure it, raise its walls, and only then takes his leave. The gift of the kingdom was Dhritarashtra's, but the gift of a home worth ruling was made together, and the parting that follows is confident precisely because the work is complete.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Yudhishthira",
+  "Vyasa"
+ ],
+ "locations": [
+  "Khandavaprastha",
+  "Indraprastha",
+  "Dwaraka"
+ ],
+ "themes": [
+  "friendship",
+  "foundation",
+  "alliance"
+ ],
+ "previous_story_id": "DKS_0367",
+ "next_story_id": "DKS_0369",
+ "next_story_tease": "In the years that followed, Arjuna would leave the new city for a long wandering through the holy places — and Krishna would hear of it before any word was sent.",
+ "hero_scene": "Krishna standing with the Pandavas on the raw ground of Khandavaprastha, pointing across the measured land as the white walls of the new city rise behind them — a trench wide as the sea ringing the site, towers white as fleecy clouds, while Balarama waits at the roadside for the journey home.",
+ "visual_elements": [
+  "the empty desert of Khandavaprastha",
+  "Krishna at the head of the Pandavas",
+  "the trench wide as the sea",
+  "white walls rising high as the heavens",
+  "the city gleaming like Bhogavati",
+  "Balarama waiting with the chariot",
+  "the brothers watching the two cousins depart"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.209",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0407"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0041",
+ "title": "Krishna Notices the Twin Arjuna Trees",
+ "subtitle": null,
+ "story": "In the cowherd village of Gokula, there came a morning when the boy Krishna found himself quite alone. His mother Yashoda was deep in the day's work — churning, sweeping, keeping the household in order — and for a while she had no eye to spare for him. So Krishna was left to himself, a small boy with the whole courtyard open before him and nothing to do but look. From the house came the soft, steady beat of the churn — up and down, up and down — and the morning felt slow and wide, with no one hurrying him.\n\nAnd what he looked at, in that stillness, were the two arjuna trees.\n\nThey stood side by side at the edge of the yard, tall and straight, their trunks grown thick with years and their branches lacing together high overhead. Their shade lay cool across half the courtyard, and a small boy could not reach his arms around either trunk. The two leaned companionably, as if they had grown up side by side and meant to stay that way. To anyone else they were only trees — as ordinary as the wall or the well, the kind of thing a village stops seeing. But the child's eyes kept returning to them, the way a child's eyes return to the one thing in a yard that no one else notices, as if the trees were speaking to him in a language just below hearing.\n\nThey had not always been trees.\n\nOnce, long before, they had been two young men of the highest birth: Nalakuvara and Manigriva, sons of Kubera, the lord of wealth. In their father's bright halls they had lacked for nothing, waited on by the guhyakas — the celestial attendants of his court — and rich and favoured beyond anything the earth could offer, they had grown proud on their fortune. Then a single act of heedless pride threw it all away. The curse of Narada, the wandering sage, brought them down from that height and fixed them here, rooted in the earth as two arjuna trees, their names and their story buried deep inside the wood.\n\nThat was what stood in the courtyard that morning, though no one in the village knew it: a secret wearing the shape of the ordinary, waiting with a patience no person could match.\n\nAnd the child — the only child in the world who could undo such a curse — stood looking up at them. Behind him his mother went on with her work, and the house with its quiet morning. The trees kept their long silence, as they had kept it for ages, and the boy kept looking, not knowing what he saw. But this was the first morning in all those ages that the one who could end their waiting had come within reach of them.",
+ "reflection": "The whole weight of the episode rests on a child's idle glance. The drama is built from stillness — a boy left alone in a courtyard, two trees, and a hidden history that will not stay hidden. What looks ordinary can carry a long past, waiting only to be seen.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "gokul",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Nalakuvara",
+  "Manigriva"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "curiosity",
+  "foreshadowing"
+ ],
+ "previous_story_id": "DKS_0040",
+ "next_story_id": "DKS_0042",
+ "next_story_tease": "What the two had done to earn such a fate — and whose curse had fixed them to the earth — was a story of its own.",
+ "hero_scene": "The small Krishna standing alone in a quiet courtyard, gazing up at two tall straight arjuna trees side by side, his mother busy in the house behind him.",
+ "visual_elements": [
+  "Krishna as a small child",
+  "two tall arjuna trees",
+  "a quiet Gokula courtyard",
+  "Yashoda busy indoors",
+  "soft golden light",
+  "stillness",
+  "the hidden presence of two cursed beings"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.9.21-22",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:54:24Z",
+  "source_event_id": "evt_0049",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

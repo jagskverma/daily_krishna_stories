@@ -1,0 +1,120 @@
+# STORY DKS_0344 — Krishna and Shiva Duel with Divine Weapons
+
+## Index entry
+title: Krishna and Shiva Duel with Divine Weapons
+summary: The Vrishnis besiege Shonitapura; Shiva and Skanda fight for Bana, and Krishna repels Shiva's celestial weapons.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Krishna, Balarama, Shiva, Skanda, Bana
+locations: Shonitapura
+themes: war, divine combat, loyalty
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0226
+variant_notes: BP: Krishna repels Shiva's celestial weapons; Harivamsha: exchange of Indra/Shiva/Varuna/Vaishnava weapons.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 63 | verses 1-12 | confidence 5
+  excerpt: Pradyumna, Satyaki, Gada and Samba with twelve armies besieged Shonitapura; Shiva, mounted on Nandi with his hosts, fought for Bana, and Krishna countered Shiva's Brahma, wind, fire and Pashupata weapons with matching astras. (rendered from Sanskrit, verses 1-12)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 272 | verses  | confidence 4
+  excerpt: Vishnu discharged Indra's weapon at Rudra... Hara discharged the highly dreadful fiery weapon... Vāsudeva took up Vāruna weapon... the fire of the fiery weapon was extinguished... Mādhava discharged his Vaishnava weapon... all the Bhutas, Yakshas and Asuras... fled on all sides
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.63 (1-12)
+1. nāradāt tad upākarṇya vārtāṃ baddhasya karma ca /
+2. pradyumno yuyudhānaś ca gadaḥ sāmbo 'tha sāraṇaḥ /
+3. akṣauhiṇībhir dvādaśabhiḥ sametāḥ sarvato diśam /
+4. bhajyamāna-purodyāna- prākārāṭṭāla-gopuram /
+5. bāṇārthe bhagavān rudraḥ sa-sutaḥ pramathair vṛtaḥ /
+6. āsīt su-tumulaṃ yuddham adbhutaṃ roma-harṣaṇam /
+7. kumbhāṇḍa-kūpakarṇābhyāṃ balena saha saṃyugaḥ /
+8. brahmādayaḥ surādhīśā munayaḥ siddha-cāraṇāḥ /
+9. śaṅkarānucarān śaurir bhūta-pramatha-guhyakān /
+10. preta-mātṛ-piśācāṃś ca kuṣmāṇḍān brahma-rākṣasān /
+11. pṛthag-vidhāni prāyuṅkta piṇāky astrāṇi śārṅgiṇe /
+12. brahmāstrasya ca brahmāstraṃ vāyavyasya ca pārvatam /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.272 ()
+TITLE: THE FIGHT BETWEEN KRISHNA AND SHANKARA
+
+Vaishampāyana said:—Thereupon riding quickly Vinatā’s son, those three
+(heroes), stationed in the battle-field like three fire-gods, began to
+fight there. Seated on Garuda’s back those highly powerful three heroes
+assailed and dispersed the Dānava army with a downpour of arrows.
+Assailed with the strokes of discus, plough-share and arrows the
+irrepressible and huge Danava army were worked up with anger. As fire
+increases in a room with dry fuels so the fire, engendered by Krishna’s
+arrows, increased that fire burning like that of dissolution, and
+consumed thousands of Dānavas in the battle-field (1-5).
+
+Beholding his soldiers assailed and burnt with various arrows of
+Krishna, and take to their heels Vāna came there and prevented them
+saying "Born in the race of the Daityas why do ye, overwhelmed with fear
+and displaying your weakness, fly away from the battle-field? Why do you
+take to your heels leaving off your respective coats of mail, swords,
+daggers, darts, leathern protectors and axes? Think of your birth and
+living with Hara and then decide whether you should fly away. I now
+stand before you." Although they heard the words given vent to by Vāna,
+the Dānavas, beside themselves with fear, paid no heed to them and fled
+away. Of the soldiers remaining there only the Pramathas stood firm and
+desired to fight again (6-11).
+
+Beholding his soldiers routed, Kumbhānda, Vāna’s powerful minister and
+friend, said:—"O ye leading Dānavas, behold Shankara, Kārtikeya and Vāna
+in the battle-field. Still, possessed by fear, why are you flying away
+leaving your own armies? Give up hope of your lives and fight." Before
+they heard those words of Kumbhānda, the Danavas stricken with the fear
+of the fire of Krishna’s discus, fled away on all sides. Thereupon
+beholding all the soldiers routed by Krishna, Siva, of incomparable
+prowess, had his eyes reddened with anger. And in order to protect Vāna,
+he stood on his lustrous car and prepared himself for fighting. Kumāra
+too ascended a car burning like car. Powerful Rudra, ascending a car
+drawn by lions and biting his hips, drove where Hari was (12–17). At
+that time his car, as if devouring the sky, making a great sound and
+drawn by lions, looked like the full-moon freed from clouds. Filled with
+various ghosts making diverse sounds that car of the god of gods
+proceeded towards the battle-field. Of those ghosts some had the faces
+of lions, some those of tigers, some those of serpents, some those of
+horses and some those of camels; they too, filled with fear, were
+trembling. Amongst those highly powerful ghosts, some had the faces of
+asses, some those of camels, some those of peacocks, Some those of
+horses, some those of rams, and some those of cats. Some had the faces
+of sheep, some put on bark, some had tufts of hairs on their heads, some
+wore matted locks, some had hairs bound up, and some were naked. They
+all blew conch-shells and bugles when they proceeded to the
+battle-field. Of them some had beautified faces and were adorned with
+celestial weapons and flowers. Some were dwarfish and some were
+grim-visaged. Some put on lion and tiger skins. Some had faces covered
+with blood, huge-teeth and were fond of flesh. They all stood encircling
+Shankara the destroyer of great enemies in the battle-field and were
+waiting there at ease. Beholding that car of the indefatigable Rudra.
+Krishna, riding Garuda, proceeded to the battle-field. Then beholding
+Hari proceed on Garuda discharging arrows, Hara, ever standing at the
+head in a battle, struck him in anger with hundreds, of winged arrows.
+Assailed with shafts by Hara, the grinder of enemies, Hari too, irate,
+took up most excellent weapons given by Indra. Thereupon assailed by
+Krishna and Rudra the earth shook and the elephants trembled raising
+their heads. The mountains were covered with the water of streams; some
+had their summits scattered on all sides. In that encounter between Hara
+and Hari the quarters, sky and earth were as if all ablaze. Fire-brands
+fell on earth from all sides and dreadful-looking jackals began to emit
+inauspicious cries. With a great noise Indra began to send down showers
+of blood and fire-brands covered the rear of Vāna’s army. The wind blew
+high, and the luminous bodies and herbs, shorn of lustre, flew about in
+the sky. At that time the Grandfather, knowing that Rudra, the destroyer
+of Asuras, had entered upon a battle, came there encircled by the
+celestials The Apsaras, Gandharvas, Yakshas, Vidyadharas, Siddhas, and
+Chāranas, stationed in the sky, began to witness that encounter. Then
+Vishnu discharged Indra’s weapon at Rudra (18–37). Burning it went up to
+the car where Rudra was. The very next moment hundreds and thousands of
+arrows dropped before Hara’s car. Seeing it and filled with anger Hara
+discharged the highly dreadful fiery weapon. It appeared indeed highly
+wonderful. At that time Krishna and the three other heroes were entirely
+covered with arrows; and
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0343 | next_story_id: DKS_0345
+previous title: Bana Captures and Binds Aniruddha
+next title: Krishna Stupefies Shiva and Puts Skanda to Flight

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0108",
+ "title": "Uddhava Arrives Bearing Krishna's Message",
+ "subtitle": null,
+ "story": "The man who came into Vrindavan was no cowherd. The village had been quiet since Krishna left it for the city of Mathura — the cows still grazing, the flute silent — and into that quiet he walked, a stranger who did not belong to it. His name was Uddhava. He was Krishna's close friend, and Krishna had sent him, out of love, back to the home of his boyhood and the people there.\n\nThe gopis saw him from across the grove and stopped what they were doing, because there was something about him that made them stare: his dress, his ornaments, even the way he carried himself seemed to belong to someone else — to Krishna, who had gone away from them and had not come back.\n\nThey surrounded him at once, astonished. Who is this, they asked one another, so beautiful to look upon, and from where has he come, wearing Krishna's own dress and ornaments? And their astonishment was not only at his beauty. It was at the sudden, aching nearness of the one they had been pining for — as though Krishna had come back to them wearing a stranger's face. For months they had lived in the stillness of his absence, and now here was a man who wore his very clothes, as if the one they longed for had reached out and touched their world again.\n\nThey honored him before a word was spoken — received him with shy smiles and sidelong glances and gentle words, the same tenderness they would have given Krishna himself. Then they said what they had already understood: We know you serve our Krishna, they told him — Krishna, lord of the Yadavas, the clan he was born to — and he has sent you out of love for the home he left behind. Otherwise, if it were not for him, we can see nothing in this cowherd village worth the coming of a man like you. What would bring you to Vrindavan, except him?\n\nAnd there, in that greeting, the grief they had been carrying began to speak. The world, they said, makes friendship for a purpose, and when the purpose is served, the friendship is over. A woman of the streets leaves a man the moment his purse is empty; the kindness she showed him was never for him, only for his money. Subjects abandon a king the moment he can no longer rule; their loyalty was only the price of his protection. Birds forsake a tree the moment its fruit is gone, and guests walk away from a house once the meal is done. Everyone, it seemed, loved only while there was still something to be had.\n\nBut they had not loved that way. Their love was the one thing in Vrindavan that had not gone looking for something to be had. Krishna had left them, and still they spoke of no one but him; there was nothing left to gain from him, and still they would not let him go. With speech, and body, and mind fixed on Govinda — the protector of the cows, as they called him — they went on singing the deeds they loved, and weeping, with all shame gone; for grief for him was not a thing to hide.",
+ "reflection": "The gopis greet Krishna's messenger with their own hard-won knowledge of the world — that most friendship lasts only as long as its usefulness — and measure their own love against it. Theirs is the one attachment that did not break when the object of it went away.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Uddhava",
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "separation",
+  "devotion",
+  "longing"
+ ],
+ "previous_story_id": "DKS_0107",
+ "next_story_id": "DKS_0109",
+ "next_story_tease": "And as they spoke, one gopi, seeing a honeybee, would pour out her grief to it as though it were Krishna's own messenger.",
+ "hero_scene": "The gopis of Vrindavan surrounding Uddhava, astonished, recognizing Krishna's dress and ornaments on the stranger, honoring him with shy smiles while the longing for the absent Krishna shows in their faces.",
+ "visual_elements": [
+  "Uddhava in dress and ornaments like Krishna's",
+  "astonished gopis surrounding him",
+  "shy smiles and sidelong glances",
+  "cowherd groves of Vrindavan",
+  "grief beneath the welcome",
+  "longing and tenderness"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.47.1-9",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:47Z",
+  "source_event_id": "evt_0157",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_audio_minutes": 3,
+ "estimated_read_minutes": 3
+}

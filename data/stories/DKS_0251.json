@@ -1,0 +1,58 @@
+{
+  "id": "DKS_0251",
+  "title": "The Lion-Drawn Car Enters Battle",
+  "subtitle": "Shiva and Kartikeya ride out to protect Vana",
+  "story": "Krishna, his brother Balarama and his son Pradyumna had ridden the great eagle Garuda into the war at Sonitpura, where Vana, the thousand-armed demon king, had come out with all his host to stop them. Half of that host was running now — and the rest was burning.\n\nThe three heroes, blazing like three fires, had swept down on the demon ranks with a downpour of arrows. Fire from Krishna's discus ran among them and consumed thousands; the survivors scattered, dropping their mail coats, their swords, their daggers, their darts and their axes as they ran.\n\nVana himself galloped after his fleeing soldiers, shouting them back: \"Born of the demon race, will you fly from the field in fear? Think of what you are! Think of the years you have spent at Shiva's side — and then decide whether to run. I stand here before you!\" But the demons, beside themselves with terror, paid him no heed and fled. Kumbhanda, Vana's powerful minister and friend, tried his own appeal: \"Look! Shiva himself is here, and Kartikeya, and Vana — abandon hope of your lives and fight!\" The words were still in the air when the last of the runners vanished. Of all that great army, only the Pramathas — Shiva's own wild attendants — stood their ground, ready to fight again.\n\nThen Shiva's anger rose. His eyes reddened to see his soldiers routed, and to protect Vana he mounted his shining chariot and made ready for battle. Kartikeya, Shiva's son, climbed into a car that blazed like fire. And Shiva's own chariot came rolling onto the field — drawn by lions, thundering as if it meant to devour the sky, like the full moon breaking free of clouds.\n\nIt was ringed by strange companions. Some wore the faces of lions, tigers, serpents, horses, camels, asses, peacocks, rams, cats and sheep. Some had matted hair; some were dressed in bark or the skins of beasts; some were beautiful and carried shining weapons and flowers; others were small and grim, with great teeth and a hunger that never left them. They blew conch-shells and bugles as they came, and ranged themselves about Shiva's car, waiting at ease while the lion-drawn chariot bore their lord toward Krishna.\n\nKrishna saw the car coming and rode Garuda to meet it. Shiva, who always stood at the front of any fight, struck him in anger with hundreds of winged arrows, and Krishna answered with the great weapons Indra had given him. The earth shook under the exchange; the elephants trembled and lifted their heads; streams were shaken loose on the mountains and their summits came tumbling down; fire-brands fell from the sky, and jackals howled their ill-omened cries.\n\nBrahma, the grandfather of the worlds, came with the gods around him to watch, and the shining companies of the sky gathered in the air to see the encounter.\n\nThen Krishna loosed Indra's own weapon at Shiva. Burning, it flew straight at the car where the god stood — and in the same breath hundreds and thousands of arrows rose to answer it. Angered, Shiva let fly his dreadful fiery weapon, and the sight was strange beyond telling: Krishna and the three other heroes beside him were buried under arrows, and the sky over Sonitpura turned the colour of the end of the world.",
+  "reflection": "The moment Shiva enters, the war stops being a siege and becomes a confrontation between gods themselves. The ghosts with their animal faces and their conch-shells are a reminder that Shiva's power is not tidy — it is wild, old, and loyal — and Krishna rides out to meet it without hesitation while the whole sky gathers to watch.",
+  "tradition_note": null,
+  "content_note": null,
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 5,
+  "life_stage": "dwaraka",
+  "story_arc": "narakasura_and_gods",
+  "characters": [
+    "Shiva",
+    "Kartikeya",
+    "Krishna",
+    "Vana"
+  ],
+  "locations": [
+    "Sonitpura"
+  ],
+  "themes": [
+    "divine intervention",
+    "ghostly host",
+    "protecting Vana"
+  ],
+  "previous_story_id": "DKS_0250",
+  "next_story_id": "DKS_0252",
+  "next_story_tease": "Yet before that duel could be decided, a strange figure would step between Krishna and his discus.",
+  "hero_scene": "Shiva's lion-drawn car rolls onto the Sonitpura battlefield like the full moon freed from clouds, ringed by a host of ghosts with the faces of lions, tigers, serpents and horses blowing conch-shells, while Krishna on Garuda rides to meet it.",
+  "visual_elements": [
+    "the lion-drawn car of Shiva",
+    "the ghostly host with animal faces",
+    "Krishna riding Garuda",
+    "the fleeing Danava army",
+    "the burning battlefield",
+    "Brahma and the celestials watching from the sky"
+  ],
+  "sources": [
+    {
+      "work": "Harivamsha",
+      "reference": "1.272",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:43:47Z",
+    "source_event_id": "evt_0352",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "major"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0416",
+ "title": "When Krishna Met Parashurama",
+ "subtitle": null,
+ "story": "Krishna had not travelled far from Upaplavya, the camp of the Pandava brothers, when he saw ahead on the road a company of sages. Even from a distance they seemed to carry a light of their own — the radiance of men who had burned away the world's desires in long austerity. He reined in the chariot, and before the horses had fully stopped he had alighted and gone to bow before them. He travelled as the envoy of kings, but before sages every envoy bows first.\n\nAmong the sages stood Narada, the tireless traveller of the three worlds, and his presence carried its own meaning: whatever happened on this road would be known everywhere. The others, too, had that stillness about them, and Krishna honoured the whole company as it was due — and waited for their word.\n\nThen one of the sages came forward, and the air seemed to change around him. It was Parashurama, son of the sage Jamadagni — the warrior-sage of an older age, feared by every warrior in the world, feared since before the fathers of the men now gathering were born. He came to Krishna and embraced him, and the embrace was not a formality between two great men; it was the greeting of an elder who had come a long way on purpose.\n\n\"We are desirous,\" Parashurama said, \"of beholding all the Kshatriyas of the earth assembled from every side.\" The great gathering at Hastinapura would draw every king and every warrior of the world to one place, and the sages had not wanted to miss it. But they had not come only to watch. \"And we are anxious,\" the sage went on, \"to hear the words of peace that will be spoken by you unto the Kurus, in the presence of all.\"\n\nThere was something in the words that made the moment larger than a roadside courtesy. These were men who had renounced the world, yet they had journeyed to hear a speech about peace. They would take no side in the quarrel; they had come to stand as listeners where the fate of the earth was about to be spoken aloud. And it was Parashurama, the terror of warriors since an age gone by, who said that what mattered was the word Krishna would speak.\n\nKrishna received the blessing and the embrace, remounted the chariot, and gathered the reins. As the chariot rolled on toward Hastinapura, the sages stayed where they were, a company of witnesses in the dust of the road — a kind of promise that whatever words were spoken at the gathering of the Kurus would not be spoken unheard. Their light faded behind the chariot. Ahead lay the city, and the assembly, and the words that everyone had come to hear.",
+ "reflection": "The sages come as witnesses, not as advisors: they want to see the warriors of the earth gathered and to hear the words of peace spoken before them. That the ancient Parashurama, Jamadagni's son, should journey to listen rather than to act is its own quiet argument that in the coming days, the words spoken at Hastinapura may matter more than any sword.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Parashurama",
+  "Narada"
+ ],
+ "locations": [
+  "road to Hastinapura"
+ ],
+ "themes": [
+  "divinity",
+  "witness",
+  "assembly"
+ ],
+ "previous_story_id": "DKS_0415",
+ "next_story_id": "DKS_0417",
+ "next_story_tease": "With the sages' blessings behind him, Krishna turned his face toward the city of the Kurus.",
+ "hero_scene": "On the open road, Krishna bows before a band of radiant sages blazing with Brahmic lustre, while the grey-haired Parashurama, Jamadagni's son, steps forward to embrace him, the chariot waiting behind them.",
+ "visual_elements": [
+  "the company of rishis blazing with Brahmic lustre on the open road",
+  "Krishna alighting from the chariot to worship them",
+  "Narada among the assembled sages",
+  "Parashurama, Jamadagni's son, stepping forward to embrace Krishna",
+  "the chariot waiting on the road as the sages stand in witness"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.83",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:03:51Z",
+  "source_event_id": "evt_0423",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,65 @@
+{
+ "id": "DKS_0357",
+ "title": "The City Dragged Toward the Ganga",
+ "subtitle": null,
+ "story": "Hastinapura was still laughing when the earth began to groan.\n\nBalarama had been mocked out of the city that day — mocked for the cowherds he came from, mocked for the peace he had come to make, mocked in front of elders who had welcomed him and then let the mockery stand. He had not gone far. The anger that had banked itself since morning came up at last, and his eyes went red with it. He turned back toward the city, carrying with him the one thing a city cannot withstand: a man who has stopped caring about the cost.\n\nHe drove the blade of his plough deep into the earth, beneath the very ramparts of Hastinapura. \"Today,\" he said, \"I will make the earth free of the Kauravas.\" And he leaned into the plough and pulled.\n\nThe city moved.\n\nWalled and towered, gate and street and all, Hastinapura — the city of the elephant — tilted, swayed, and began to slide toward the Ganga like a boat torn loose from its mooring. Inside the walls the streets tipped, the houses groaned, and the great hall where the Yadavas had been mocked an hour before pitched like a deck. The river waited below, patient and deep, and it was plain to every soul in the city that in a few more paces Hastinapura would plunge into it like a stone into a well.\n\nThen the gates flew open, and the Kurus came out — not in war-array, but with their families, terrified, clutching children, scrambling over one another, the great gates standing open and empty behind them. They ran to Balarama and fell at his feet and poured out their hearts: \"Rama, Rama, support of all, we did not know your power. You are the one cause of creation and preservation and destruction; you yourself bear this earth upon your head, O thousand-headed one. Your anger is for the instruction of the world, not born of hatred or envy. Homage to you, soul of all beings.\"\n\nDuryodhana himself came forward and yielded. Samba was brought up out of his cell, and with him Lakshmana — the bride for whose sake the whole trouble had begun — and both were placed in Balarama's keeping. Then the Kuru king, humbled as he had never been, made his peace in the coin of kings: a herd of elephants, every one of them sixty years old, and six thousand golden chariots blazing like the sun. He even asked, he who was proud of his skill with the mace, to be taken as Balarama's pupil in club-fighting; and Balarama accepted him. An odd peace, sealed between the man who had mocked and the man he had mocked, on the tilted ground of a city that had almost drowned.\n\nBalarama accepted the gifts, released the city, and set it back upon its foundations. Then he turned for home, and in Dwaraka, in the assembly of the Yadus, among kinsmen who loved him, he told the whole tale — how he had gone for peace and been answered with pride, and how the pride had been answered with the plough.\n\nAnd Hastinapura — they say its walls have leaned toward the river ever since that day, the way a man leans after a blow. The city was set back, but it never stood quite straight again. Some marks a city carries the way a body carries a scar: for as long as it stands, and it shows them to every traveler who comes up by the river, as proof of what one man with a plough could do when he was pushed past patience.",
+ "reflection": "What frees Samba is not the argument that failed the day before but the visible proof of what Balarama is: the city is not conquered but lifted, and the Kurus' surrender takes the form of recognition — they call his anger instruction, not vengeance. Even Duryodhana's pride finds a way to bend, becoming a pupil's humility before the very mace he had mocked.",
+ "tradition_note": "The Harivamsha records that Duryodhana, after surrendering Samba, became Balarama's pupil in club-fighting; that detail is included here. The Vishnu Purana has Balarama plunge the ploughshare beneath the city's ramparts with eyes red with rage, and the city drawn toward him.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Duryodhana",
+  "Samba",
+  "Lakshmana"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Ganga"
+ ],
+ "themes": [
+  "wrath",
+  "power",
+  "surrender"
+ ],
+ "previous_story_id": "DKS_0356",
+ "next_story_id": "DKS_0358",
+ "next_story_tease": "The plough had saved a city — but a blade of grass would soon cost its wielder more than any war.",
+ "hero_scene": "On the plain beside the Ganga, Balarama leans into his great plough, its blade driven deep beneath Hastinapura's ramparts, and the entire walled city tilts like a boat on the river while terrified citizens pour from its gates.",
+ "visual_elements": [
+  "Balarama with eyes red with rage, driving the plough blade under the city's ramparts",
+  "the walled city of Hastinapura tilting and swaying like a boat toward the Ganga",
+  "terrified Kurus with their families pouring out of the gates",
+  "the Kurus falling at Balarama's feet in surrender",
+  "Samba and Lakshmana being brought out and placed in Balarama's keeping",
+  "the herd of elephants and six thousand golden chariots offered as gifts",
+  "the city's walls leaning toward the river, the lasting mark of the day"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.68.39-53",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.119",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.35",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:00:00Z",
+  "source_event_id": "evt_0217"
+ },
+ "editorial_status": "unreviewed"
+}

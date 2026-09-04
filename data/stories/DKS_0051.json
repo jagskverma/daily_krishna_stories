@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0051",
+ "title": "Brahma's Hymn of Forgiveness",
+ "subtitle": null,
+ "story": "Brahma, the four-faced creator of the universe, had come to Vrindavan to see for himself what the child Krishna was — stealing away the village's calves and cowherd boys to draw the truth out of him. Krishna had answered by becoming every one of them, and then by showing Brahma who he truly was. Now the creator lay at the child's feet, and he did not rise quickly. The words came out of him one after another, like water finding its way downhill.\n\n\"This body of yours,\" he began, \"is made of your own will. It is not made of matter, as mine is. Who can understand it?\" Those who set aside the struggle to know and simply bow and listen, he said, are the ones the truth comes to meet; while those who chase understanding alone and throw devotion away are like men threshing empty husks — all their labour, and nothing left in the hand. Even the purest-hearted, even the great seers, cannot measure your greatness, he said, for it is not the kind of thing that can be measured.\n\nThen he came to what weighed on him most. \"Look at my foolishness, Lord,\" he said. \"I was born of passion, and in my ignorance I thought myself a lord apart from you. Forgive me.\" He measured himself against what stood before him and found the measuring absurd. \"Where am I,\" he asked, \"a little body of seven hand-spans, shut inside this shell of a universe — and where is your greatness, in the pores of whose skin whole worlds drift, more worlds than I can count?\"\n\nHe remembered the day's unfolding and named it aloud. \"Today you have shown me your maya,\" he said — your power of illusion. \"First you were one. Then you were all the cowherd boys and calves. Then you were an endless company of four-armed forms, and I worshipped you along with everything that lives. Then you were as many universes. And what remained, when all of it was seen, was only the one — the unlimited.\"\n\nHe spoke, too, of the world itself, and how strange it was. \"This whole world,\" he said, \"is as unreal as a dream, and full of sorrow — and yet through your maya it shines as if it were real, resting on you alone.\"\n\nHe called him by his oldest name. \"You are Narayana,\" he said, \"the Self of every being, the witness of every world. It was from your navel, when the worlds had dissolved into water, that all of this rose again. Who among gods and sages and men and beasts can say where you have come from?\"\n\nAnd then he marvelled, not at his own smallness but at the good fortune of Vrindavan. \"How fortunate are the women who fed you at their breast as if you were their own child, tasting in your milk the nectar of the gods. How fortunate are the people of Nanda's pasture, where you have chosen to live — whose very dust, the dust of your feet, the sacred Vedas go searching for and never find enough of.\"\n\nAt last he came to the end of the hymn and to the one thing he had come to ask. He praised the one who is the joy of the Vrishni lotus, who makes the earth and the cows and the brahmins, the priests and teachers, flourish. \"Give me leave, Krishna,\" he said. \"You know everything there is to know.\" And he walked three times around the child, bowed, and went back to his own realm, leaving behind him a hymn that has not been forgotten since.",
+ "reflection": "The hymn is remarkable because it is the creator himself measuring his limits. It does not argue Krishna's greatness from above; it works from below, setting a seven-span body against pores that hold universes, and finding that the only honest posture left is praise and a request to be allowed to go.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Brahma",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "praise",
+  "humility"
+ ],
+ "previous_story_id": "DKS_0050",
+ "next_story_id": "DKS_0052",
+ "next_story_tease": "And the boys, who had been hidden all the while, would sit down to their meal as if nothing had happened.",
+ "hero_scene": "Brahma kneeling in prayer before the young Krishna, his four heads bowed, speaking his hymn while Krishna stands listening with a gentle, attentive face.",
+ "visual_elements": [
+  "Brahma with four heads bowed",
+  "Krishna",
+  "hymn of praise",
+  "body of seven hand-spans",
+  "mothers of Vraja",
+  "sandbank",
+  "devotion",
+  "awe and tenderness"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.14.1-41",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:53:32Z",
+  "source_event_id": "evt_0063",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

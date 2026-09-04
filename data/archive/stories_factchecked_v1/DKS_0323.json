@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0323",
+ "title": "Angira Falls, and the Fire-Gods Flee",
+ "subtitle": null,
+ "story": "The fire that guarded Bana's city was out, and its keepers were coming to answer for it.\n\nKrishna, Balarama and Pradyumna were crossing the sky on Garuda, bound for Sonitpura, where the thousand-armed king Bana was gathering his defences for war. Along the way, the blaze that protected his city had leapt out at the travellers and burned away their natural colour, and Garuda had drowned it with water drawn from the celestial Ganga, taken in a thousand mouths at once. That was the insult. Now the fires themselves — the gods of flame, the followers of Rudra — rose out of the earth and air around the three riders and asked one another who these dreadful men of many forms were, riding the king of birds. They stared, and wondered, and could settle nothing. And so they did the only thing left to them: they attacked.\n\nGaruda, who could change his shape at will, flew on with the speed of thought, crossing the sacred route of the Siddhas and the Charanas high above the world — but the fire-gods were swifter than that road, and they met the travellers before the city itself came into view. Krishna met them in the form he had taken for the journey — eight arms, a stature like a mountain, and in every hand a weapon of war: sword and discus, club and arrows, the great bow, the thunderbolt, the conch. Balarama rode beside him shining like the rising moon, and Pradyumna before them like the eternal youth of the gods. The noise of the clash rolled over the countryside like the roaring of lions.\n\nIn the city, Bana heard it and sent out a messenger fleet as thought to learn what was happening. Angira, chief of the fires, sent one of his own, urging the man to hurry to where the battle raged. What the messengers found was a field already burning with war: the five principal fire-gods — Kalmasha, Kusuma, Dahana, Shoshana and the powerful Tapana — fighting with all their armies, and beside them the five gods who preside over the offerings to the ancestors, Pithara, Pataga, Swarna, Agadha and Vraja, and the two effulgent gods in charge of the great sacrifices, Jyotisthoma and Vasatkara. At their head, on a chariot of flame, stood the great sage Angira himself, his blazing mace lifted high, shining over the whole field like a second sun.\n\nKrishna watched them come, and he did not frown. He smiled — smiled again and again, the way a man smiles when a matter is already settled. “Wait patiently a few moments, fire-gods,” he said. “The time of your destruction is drawing near. Within a moment, consumed by the energy of my weapons, you will fly away on all sides.”\n\nAngira heard the words and answered them by charging — running straight at Krishna with a burning trident in his hand, as if to take his life. Krishna bent his bow. Crescent-headed arrows sheared the great mace from Angira's hand, cutting it clean away, and one last arrow, death itself in flight, struck the chief of the fires on the breast. Angira fell where he stood, bathed in blood, in the middle of the field.\n\nThe fire-gods stared at their fallen leader. Then the four among them who are the sons of Brahma turned, and with them the whole host, and they fled — back to Bana's city, carrying the news that the king's protection had burned out in a single exchange of arrows.\n\nGaruda spread his wings, and the three Yadavas went on across the last stretch of sky toward Sonitpura, the air behind them empty and quiet where the fires had burned.",
+ "reflection": "Krishna's smile before the battle is the story's strangest note — anger without rage, the calm of someone who has already seen the end of the matter. The fire that had paled the travellers' skin was itself only a servant of the city, and it scattered the moment its chief fell.",
+ "tradition_note": null,
+ "content_note": "Mild battle violence: Angira is struck down by an arrow and falls bathed in blood; described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Angira",
+  "Balarama",
+  "Pradyumna",
+  "Garuda",
+  "fire-gods"
+ ],
+ "locations": [
+  "near Sonitpura"
+ ],
+ "themes": [
+  "battle",
+  "divine fire",
+  "victory"
+ ],
+ "previous_story_id": "DKS_0322",
+ "next_story_id": "DKS_0324",
+ "next_story_tease": "But in Bana's city, in the women's quarters, his daughter Usha was already dreaming of a man she had never met.",
+ "hero_scene": "Krishna, eight-armed and towering like a mountain, on Garuda's back, loosing crescent-headed arrows that shear the great mace from Angira's hand as the fire-god's blazing chariot charges across the burning sky.",
+ "visual_elements": [
+  "Krishna in his eight-armed form, sword, discus, club, arrows, bow, thunderbolt and conch in hand",
+  "Garuda the king of birds beneath him, wings spread",
+  "Angira on a chariot of flame, mace falling, struck by the final arrow",
+  "the host of fire-gods scattering and fleeing toward Bana's city",
+  "the burning, smoke-lit sky above the countryside",
+  "battle and victory"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.264",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:49:13Z",
+  "source_event_id": "evt_0342"
+ },
+ "editorial_status": "unreviewed"
+}

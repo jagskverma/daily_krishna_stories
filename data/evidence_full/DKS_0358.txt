@@ -1,0 +1,44 @@
+# STORY DKS_0358 — Balarama Slays the Suta Romaharshana || At Naimisha, Balarama, seeing the suta Romaharshana seated without rising to honor the sages, kills him with a blade of kusha grass; the sages cry out that he has committed brahma-hatya.
+
+## Index entry
+title: Balarama Slays the Suta Romaharshana || At Naimisha, Balarama, seeing the suta Romaharshana seated without rising to honor the sages, kills him with a blade of kusha grass; the sages cry out that he has committed brahma-hatya.
+summary: At Naimisha, Balarama, seeing the suta Romaharshana seated without rising to honor the sages, kills him with a blade of kusha grass; the sages cry out that he has committed brahma-hatya.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, Romaharshana, the Naimisha sages
+locations: Naimisha forest
+themes: transgression, consequence, caste honor
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0272
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 78 | verses 15-31 | confidence 5
+  excerpt: Visiting the sages' sacrifice at Naimisha, Balarama sees the suta Romaharshana, a shudra by birth, seated among the brahmanas without rising to honor them. Enraged, Balarama strikes him down with a blade of kusha grass, and the sages cry out that he has committed the sin of slaying a brahmana, saying this was done without knowledge and must be expiated. (rendered from Sanskrit, verse 15-31)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.78 (15-31)
+15. evaṃ yogeśvaraḥ kṛṣṇo bhagavān jagad-īśvaraḥ /
+16. śrutvā yuddhodyamaṃ rāmaḥ kurūṇāṃ saha pāṇḍavaiḥ /
+17. snātvā prabhāse santarpya devarṣi-pitṛ-mānavān /
+18. pṛthūdakaṃ bindu-saras tritakūpaṃ sudarśanam /
+19. yamunām anu yāny eva gaṅgām anu ca bhārata /
+20. tam āgatam abhipretya munayo dīrgha-satriṇaḥ /
+21. so 'rcitaḥ sa-parīvāraḥ kṛtāsana-parigrahaḥ /
+22. apratyutthāyinaṃ sūtam akṛta-prahvaṇāñjalim /
+23. yasmād asāv imān viprān adhyāste pratiloma-jaḥ /
+24. ṛṣer bhagavato bhūtvā śiṣyo 'dhītya bahūni ca /
+25. adāntasyāvinītasya vṛthā paṇḍita-māninaḥ /
+26. etad-artho hi loke 'sminn avatāro mayā kṛtaḥ /
+27. etāvad uktvā bhagavān nivṛtto 'sad-vadhād api /
+28. hāheti-vādinaḥ sarve munayaḥ khinna-mānasāḥ /
+29. asya brahmāsanaṃ dattam asmābhir yadu-nandana /
+30. ajānataivācaritas tvayā brahma-vadho yathā /
+31. yady etad-brahma-hatyāyāḥ pāvanaṃ loka-pāvana /
+
+## Corpus chain
+previous_story_id: DKS_0357 | next_story_id: DKS_0359
+previous title: Balarama Drags Hastinapura with His Plough
+next title: The Sages Prescribe Balarama's Penance || The sages instruct Balarama that to expiate the brahmana-slaying he must slay the demon Balvala, who defiles their sacrifice, and then perform a year-long pilgrimage.

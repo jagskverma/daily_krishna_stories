@@ -1,0 +1,91 @@
+# STORY DKS_0189 — Viswakarma Builds Dwaraka for Krishna
+
+## Index entry
+title: Viswakarma Builds Dwaraka for Krishna
+summary: Facing Kalayavana and Jarasandha together, Krishna builds the fortress-city of Dvaraka in the sea and relocates the Yadavas.
+life_stage: dwaraka | story_arc: dwaraka_founded
+characters: Krishna, Balarama, Vishvakarma
+locations: Dvaraka
+themes: strategy, protection, construction
+festival_tags: 
+age_sensitivity: all | notes: Same founding (BP 10.50, HV 1.115): Krishna selects the sea-site; the divine architect raises the city.
+
+## Canonical event
+event_id: evt_0015
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 50 | verses 42-56 | confidence 5
+  excerpt: Krishna built a fortress twelve yojanas wide within the sea, wondrous in every way, and by his mystic power conveyed all the people there; Indra sent the Sudharma hall and the Parijata tree, Varuna swift white horses. (rendered from Sanskrit, verses 42-56)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 115 | verses  | confidence 4
+  excerpt: Krishna ... thought of Viswakarmā, in his mind, so that he might come there. ... 'O ocean, if you have any respect for me, then withdraw thy form in the water extending over twelve yojanas.' ... by Viswakarma's mental effort that beautiful Vaishnava city, by name Dwarkāvati, was built.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 23 | verses  | confidence 4
+  excerpt: Krishńa solicited a space of twelve furlongs from the ocean, and there he built the city of Dwáraka, defended by high ramparts... Thither Janárddana conducted the inhabitants of Mathurá.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.50 (42-56)
+42. aṣṭādaśama saṅgrāma āgāmini tad-antarā /
+43. rurodha mathurām etya tisṛbhir mleccha-koṭibhiḥ /
+44. taṃ dṛṣṭvācintayat kṛṣṇaḥ saṅkarṣaṇa sahāyavān /
+45. yavano 'yaṃ nirundhe 'smān adya tāvan mahā-balaḥ /
+46. āvayoḥ yudhyator asya yady āgantā jarā-sutaḥ /
+47. tasmād adya vidhāsyāmo durgaṃ dvipada-durgamam /
+48. iti sammantrya bhagavān durgaṃ dvādaśa-yojanam /
+49. dṛśyate yatra hi tvāṣṭraṃ vijñānaṃ śilpa-naipuṇam /
+50. sura-druma-latodyāna- vicitropavanānvitam /
+51. rājatārakuṭaiḥ koṣṭhair hema-kumbhair alaṅkṛtaiḥ /
+52. vāstoṣpatīnāṃ ca gṛhair vallabhībhiś ca nirmitam /
+53. sudharmāṃ pārijātaṃ ca mahendraḥ prāhiṇod dhareḥ /
+54. śyāmaika-varṇān varuṇo hayān śuklān mano-javān /
+55. yad yad bhagavatā dattam ādhipatyaṃ sva-siddhaye /
+56. tatra yoga-prabhāvena nītvā sarva-janaṃ hariḥ /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.115 ()
+TITLE: THE LAYING OUT OF DWARKA
+
+Vaishampayana said:—Thereupon when the sun rose in the clear morning,
+Hrishikesha, the descendant of Yadu, having performed his morning
+ablution and sat for some time at the outskirt of the forest, began to
+survey it for finding out a site where he would build a fortress. The
+principal members of the Yudu race followed him (1–2). Thereafter in an
+auspicious day under the auspices of the planet Rohini he offered
+immense presents to the Brāhmanas and made them perform benedictory
+rites. He then commenced the work of the building of the fort. Thus when
+the construction of the fort was taken in hand, like unto Indra
+addressing the gods, the lotus-eyed slayer of Keshi, the foremost of
+creators, said to the Yadavas (3–4). "O ye Yādavas, behold the site that
+I have selected like unto the very abode of the gods. I have also
+selected the name under which it will be celebrated on earth (5). I am
+laying out courtyards, promenades, well-levelled roads and inner
+appartments, all those marks, for which this city of mine will be
+celebrated on earth by the name of Dwāravati like unto Indra’s Amarāvti
+(6-7). Taking Ugrasena before you and putting impediments in the ways of
+your enemies do you enjoy here shorn of anxiety like the celestials (8).
+Let all of you take lands for building houses; let gardens and crossings
+of four roads be laid out and let a survey of roads and walls be taken
+(9). Let artizans, expert in building houses and masons be sent round
+the country."
+
+Thus accosted the Yādavas gladly selected sites for building their own
+houses. O king, some of the Yadavas engaged in measuring their own lands
+with ropes and some of them began to worship the tutelary deity by
+adorning the Brahmanas on that auspicious day.
+
+Thereupon the high-minded Govinda said to the masons:—"Do ye build for
+me a temple for my tutelary deity, well laid out with courtyards and
+roads" (10-14). Having said "So be it" to the mighty-armed Krishna, the
+masons collected all the materials for building the fort and began to
+lay out the gate and the boundary line. Temples, in proper places, were
+built for Brahmā, the god of sacrifices, Indra, the presiding deities of
+fire and water and other gods. They then constructed the four gates of
+the temples (namely Shudrāksha, Aindra, Bhallāta and Pushpadantāka.)
+Thus when the houses of the high-souled Yadavas were constructed,
+Mādhava thought of laying out the city very soon. Thereupon there arose
+by accident a pure intellect in his mind conducive to the well-being of
+the Yadavas and of the city, by which, he could soon l
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0148 | next_story_id: DKS_0200
+previous title: Krishna Retrieves Sandipani's Son
+next title: Krishna Carries Off Rukmini

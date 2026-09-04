@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0119",
+ "title": "Nanda Departs for Vraja",
+ "subtitle": null,
+ "story": "The cowherds' time in Mathura had come to an end. Nanda and the men of Vrindavan had come to the city with their tribute — and with them had come the boys they had raised, Krishna and his elder brother, Balarama. Now it was time to turn homeward, back to the pastures and the forests of Vrindavan, where their herds and their houses waited. But one thing remained before they could leave, and it was the hardest thing of all: Krishna was not going home with them.\n\nNanda had not raised the boys as a favor. He and his wife Yashoda had taken the child and his brother into their home without hesitation, and they had loved them without reserve. They had fed them and cherished them and watched them grow, and in all those years they had never once treated the two as anything less than their own sons. It was the plain truth of that house, and it had never needed to be spoken.\n\nNow the boys stood before them grown, here in the city where Krishna had been born, and it was Krishna himself who came to Nanda and Yashoda to say the words that had waited so long to be said. You two, he said, nourished us and cherished us with such tenderness. You were a father and a mother to us, and you raised us as though we were your own sons. It was gratitude spoken straight, with no ornament, and there was no shame in it — only the plain acknowledgment of a debt that love will not let a man forget.\n\nThen he said what remained to be said. Go back to Vrindavan, dear father. And we, who are pained by this love, will not forget. He promised to come and see his kinsfolk — to return to the people and the place that had made him — and he offered the promise to Nanda and to all the people of Vrindavan together, so that no one would leave carrying only the loss.\n\nBoth homes were his now. In Mathura he had been born, Devaki's son, and here in this city lived the parents who had brought him into the world; but Vrindavan was where he had learned to walk and to play, where the man standing before him had carried him through all those years. A promise to return was the one thing that could make the parting bearable on both sides.\n\nNanda listened, and he could not keep his heart still. He embraced Krishna, and his brother with him, and the love he had carried all those years rose up and overflowed. His eyes filled with tears. The man who had fed these boys, carried them, and sung them to sleep now held them once more, and the tears came without his choosing — love that deep has no other way to say goodbye.\n\nThen Nanda and the cowherds departed, and their eyes were full as they went home.",
+ "reflection": "The farewell is remarkable for what it does not say. There is no bitterness that Nanda must go home without the boys he raised, only gratitude spoken aloud and a promise to return. The love here is measured in what is given up freely, and in tears that need no explanation.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Krishna",
+  "Nanda",
+  "Balarama",
+  "Yashoda"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "farewell",
+  "love"
+ ],
+ "previous_story_id": "DKS_0118",
+ "next_story_id": "DKS_0120",
+ "next_story_tease": null,
+ "hero_scene": "Krishna and Balarama embracing Nanda as the old cowherd's eyes fill with tears, the people of Vraja gathered around them in Mathura preparing for the long journey home.",
+ "visual_elements": [
+  "Krishna embracing Nanda",
+  "Balarama beside them",
+  "Nanda's eyes brimming with tears",
+  "Yashoda and the cowherds of Vraja gathered round",
+  "the city of Mathura behind them",
+  "a mood of tender farewell"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.45.19-24",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:13:00Z",
+  "source_event_id": "evt_0151",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

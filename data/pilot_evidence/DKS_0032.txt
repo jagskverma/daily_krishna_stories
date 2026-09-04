@@ -1,0 +1,42 @@
+# STORY DKS_0032 — Krishna Eats Mud and Shows the Cosmos in His Mouth
+
+## Index entry
+title: Krishna Eats Mud and Shows the Cosmos in His Mouth
+summary: Accused of eating dirt, Krishna opens his mouth before Yasoda, who sees the entire universe within it and is overwhelmed.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Yasoda
+locations: Gokula
+themes: cosmic_vision, mother's_love
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0046
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 8 | verses 31-45 | confidence 5
+  excerpt: When his playmates accuse him of eating mud, Krishna tells his mother to look in his mouth, and there she beholds the whole world with its mountains, oceans and stars; the Lord then veils her mind again in motherly love. (rendered from Sanskrit, verse 31-45)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.8 (31-45)
+31. ekadā krīḍamānās te rāmādyā gopa-dārakāḥ /
+32. sā gṛhītvā kare kṛṣṇam upālabhya hitaiṣiṇī /
+33. kasmān mṛdam adāntātman bhavān bhakṣitavān rahaḥ /
+34. nāhaṃ bhakṣitavān amba sarve mithyābhiśaṃsinaḥ /
+35. yady evaṃ tarhi vyādehī- ty uktaḥ sa bhagavān hariḥ /
+36. sā tatra dadṛśe viśvaṃ jagat sthāsnu ca khaṃ diśaḥ /
+37. jyotiś-cakraṃ jalaṃ tejo nabhasvān viyad eva ca /
+38. etad vicitraṃ saha-jīva-kāla- svabhāva-karmāśaya-liṅga-bhedam /
+39. kiṃ svapna etad uta devamāyā kiṃ vā madīyo bata buddhi-mohaḥ /
+40. atho yathāvan na vitarka-gocaraṃ ceto-manaḥ-karma-vacobhir añjasā /
+41. ahaṃ mamāsau patir eṣa me suto vrajeśvarasyākhila-vittapā satī /
+42. itthaṃ vidita-tattvāyāṃ gopikāyāṃ sa īśvaraḥ /
+43. sadyo naṣṭa-smṛtir gopī sāropyāroham ātmajam /
+44. trayyā copaniṣadbhiś ca sāṅkhya-yogaiś ca sātvataiḥ /
+45. bhp_10.08.046/0 śrī-rājovāca
+
+## Pilot chain
+previous_story_id: DKS_0030 | next_story_id: DKS_0033
+previous title: Garga Secretly Names Rama and Krishna
+next title: Krishna Breaks the Butter Pot

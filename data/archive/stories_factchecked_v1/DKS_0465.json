@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0465",
+ "title": "Stopped at the Tenth Step",
+ "subtitle": "Arjuna holds Krishna back from the fight",
+ "story": "Krishna stepped down from the chariot in the middle of a battle, though the grandsire's shafts had already struck him that day.\n\nThe Pandavas had won the forenoon of the day. The sun had passed a portion of his westward course when Bhishma, the grandsire, bound by the dreadful vow he had sworn at Duryodhana's words, rushed with his fleetest steeds at the army of the Pandavas, protected by a large force and by all of Dhritarashtra's sons. And a battle began such as had never been seen or heard before.\n\nThe twang of bows and the flapping of bowstrings against the leathern guards made an uproar like the splitting of hills. \"Stay — here I stand — know this one — turn back — stand — I wait for thee — strike\": these were the words heard everywhere. Coats of mail of gold, crowns and diadems and standards fell with the sound of stones falling on stony ground, and heads and arms decked with ornaments fell by hundreds and thousands. A dreadful river of blood began to flow, impetuous, miry with flesh and blood, with the bodies of dead elephants for its rocks, running toward the ocean that is the next world, delightful to vultures and jackals. Cars could not make their way for the bodies of the slain. Some, wounded almost to death, still rushed cheerfully and proudly upon the foe; others cried aloud for father, brother, friend, and kinsman not to abandon them.\n\nAnd at the heart of it moved Bhishma. With his bow drawn into a circle he shot shafts of blazing points, like snakes of virulent poison, and smote the Pandava car-warriors, naming each one beforehand. Such was the lightness of his hands that he seemed to be everywhere at once — dancing along the track of his car like a circle of fire, seen now on the east, the next moment on the west, multiplied a thousand-fold, so that every man there regarded him as having multiplied himself by illusion. No one among the Pandavas was capable of even looking at him. Kings in thousands fell upon that fire like senseless insects; with one straight shaft he despatched a single elephant as if a hill were riven by the thunderbolt; two or three elephant-riders at a time he pierced with one arrow. Whoever approached him, seen for a moment, was next beheld to fall. The vast host of Yudhishthira the just gave way in a thousand directions, trembling in the very presence of Vasudeva and the high-souled Partha.\n\nAnd then — worse than Bhishma's arrows for the watching army — Krishna rose in the chariot. No one had ever seen the charioteer leave his car; the conch had always called others to war. But he had watched the host of his friends reaped before his eyes, and his wrath kindled at the sight, and he made to end it himself, stepping down from the car onto the blood-soaked earth and striding toward the grandsire.\n\nArjuna jumped down from his own car and ran on foot after the chief of Yadu's race, his long arms outstretched, and seized him by his two hands. It took all his strength; he succeeded, O king, in stopping him with difficulty at the tenth step. \"Quell this wrath of thine,\" he said. \"Thou art the refuge of the Pandavas, O Krishna. I swear to thee that I will not withdraw from the acts to which I have pledged myself.\"\n\nHearing that promise, Krishna was gratified. His anger left him like a held breath released. He returned to the chariot, gathered the reins, and raised the conch Panchajanya to his lips and sounded it — the long, familiar blast that carried across the field and told both armies that the war would go on, and that the charioteer was still at his post. Of all the steps Krishna ever took on that field, the tenth was the one Arjuna never forgot — the step he had not taken, because a friend had asked him not to.",
+ "reflection": "Arjuna's restraint of Krishna is the war's strangest reversal — the student holding back the lord, not by force but by a vow. What stops Krishna is not Arjuna's strength but his pledge not to withdraw, and that is the kind of promise that keeps a war, or a life, on its course.",
+ "tradition_note": null,
+ "content_note": "Battle imagery includes a river of blood and severed heads and limbs, kept at a level suitable for reading aloud.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "restraint",
+  "vow",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0464",
+ "next_story_id": "DKS_0466",
+ "next_story_tease": "The war was far from over, and Karna was still waiting for his hour.",
+ "hero_scene": "On the blood-soaked field, Arjuna runs on foot after Krishna and seizes him by both hands, stopping the enraged charioteer at the tenth step as the armies watch.",
+ "visual_elements": [
+  "Bhishma's superhuman onslaught, seen as a circle of fire multiplying across the field",
+  "the dreadful river of blood flowing between the armies",
+  "Krishna rising and stepping down from the chariot, wrathful",
+  "Arjuna running on foot after Krishna and seizing him by both hands",
+  "the two held still at the tenth step",
+  "Krishna returning to the chariot and sounding the conch Panchajanya"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.59",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:21:00Z",
+  "source_event_id": "evt_0490"
+ },
+ "editorial_status": "unreviewed"
+}

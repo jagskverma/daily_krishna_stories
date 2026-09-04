@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0325",
+ "title": "One Club Against Vana's Host",
+ "subtitle": null,
+ "story": "The king of Sonitpura learned of his daughter's guest the way kings learn such things — late, and from other mouths.\n\nAniruddha had come to Bana's city the way he had come to Usha's dream: without warning, and utterly. The princess had seen him in a vision, chosen him as her husband by the boon of a goddess, and pined for him so sorely that her friend Chitralekha had crossed the sky to Dwaraka, received the sage Narada's blessing and his Tamasika learning, and stolen the sleeping prince out of his own palace. Chitralekha had found him where the moon sits among stars — surrounded by the most beautiful women of his court, wine in his hand and his mind far away — and she had known at once that his heart was busy with the dream. She had spoken to him of Usha: how the maiden wept, and yawned, and sighed, for she could not see him; how she would live if he came to her, and die in his absence. Then, by the power of her illusion, she had carried him through the sky to Sonitpura, to a maiden's rooms where Usha was waiting.\n\nNow the dream had a body. In the women's quarters of the city, Usha lived with Aniruddha as a bride with her husband, and for a little while the city of the thousand-armed king kept its secret.\n\nBut no secret survives long among the watchful. Word reached Bana that his daughter was living with a Yadava prince, Pradyumna's son, who had come unbidden into his house and into his daughter's chambers. The king did not go himself, and he did not ask questions. He sent his soldiers — the Daityas and the Danavas of his host — with a single order: kill the intruder.\n\nThey found Aniruddha at ease, and they paid for the surprise. The young prince seized a dreadful parigha, a great iron club, and fell upon them. He killed the Daityas who pressed closest, and then, single-handed, he drove the whole Danava host from the field. The soldiers of Sonitpura broke and scattered before one man, as though the city had sent its army against a single storm.\n\nWhen the field was empty, Aniruddha stood among the fallen, raised his voice in delight, and set up a leonine shout — the long cry of a victor who has enjoyed his fight — that rang across the rooftops of Sonitpura.\n\nThe shout carried into the king's palace, and Bana understood what his soldiers could not do. But the king of a thousand arms had other instruments than an army, and before long the Yadava prince would find himself a prisoner in the city he had just emptied of its host.",
+ "reflection": "Aniruddha, brought to Sonitpura by illusion and dream, meets his first trial with an iron club and open force. The story keeps him young — few words, quick action, and a shout of pure delight when the field is his — which makes the coming imprisonment all the sharper a turn.",
+ "tradition_note": null,
+ "content_note": "Mild battle violence: Aniruddha kills Daityas with an iron club and drives the demon host from the field; described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Aniruddha",
+  "Vana",
+  "Usha",
+  "Chitralekha"
+ ],
+ "locations": [
+  "Sonitpura"
+ ],
+ "themes": [
+  "battle",
+  "single combat",
+  "courage"
+ ],
+ "previous_story_id": "DKS_0324",
+ "next_story_id": "DKS_0326",
+ "next_story_tease": "But Vana had another answer than soldiers, and in his prison the prince would find himself bound by nooses of serpents.",
+ "hero_scene": "Aniruddha alone in the field of Sonitpura, the great iron parigha in his hands, the Danava host scattering before him, his head thrown back in a leonine shout as the sun strikes the rooftops of the city.",
+ "visual_elements": [
+  "Aniruddha swinging the dreadful parigha, the iron club",
+  "the Daityas and Danavas of Vana's host breaking and fleeing",
+  "the leonine shout rising over the empty field",
+  "the rooftops and palace of Sonitpura in the distance",
+  "sunlight and dust over the battlefield",
+  "single combat and courage"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.266",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:49:13Z",
+  "source_event_id": "evt_0344"
+ },
+ "editorial_status": "unreviewed"
+}

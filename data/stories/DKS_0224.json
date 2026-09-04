@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0224",
+ "title": "The Promise of the Whole Tree",
+ "subtitle": null,
+ "story": "The trouble on Mount Raivataka had begun with a flower. Satyabhama, Krishna's queen, had shut herself into her rooms because of the Parijata that the sage Narada had brought — a flower from heaven that had found its way to Rukmini's hair, and not to hers. Krishna had followed her, and by gentleness had won his way past her silence. Now he sat close to her and asked her to name the grief itself. Her sorrow, he said, seemed to burn through all his limbs. If there was no harm in it, if it was fitting for a husband who loved her to hear it, he begged her on his life to reveal it.\n\nAt last she spoke, her voice choked with tears. \"It was you yourself who raised me to honor and good fortune in the old days, and they grew famous through the world. Because I was the wife you loved best, I held my head higher than anyone. But my maids tell me that today I am laughed at — by your other wives, and by strangers too. The Parijata flower that Narada gave you, you gave to your dear Rukmini, and thought nothing of me. By giving her that priceless thing you have shown everyone where your heart lies. Narada praised her in your hearing, and you were pleased to hear your beloved praised. And even if the sage had his reasons — why was my name never spoken in all of it?\"\n\n\"And if I am to repent of having tasted the sweetness of your love,\" she went on, her voice rising, \"then I would rather have none of it. Grant me leave to go. I could not have believed, even in a dream, that you would honor another above me — yet it has come to pass, awake, before everyone's eyes. Perhaps the sage Narada has grown fond of her; what cuts me is that you sat there through it all. You have always told me that people live for honor. Dishonored as I am, I have no wish to live. My protector has become my terror.\"\n\n\"Cast off by you, I shall wither like a white lily. How could I look again on these Raivataka hills in their spring flowers? How could I breathe this breeze, ringing with cuckoo song and fragrant with blossom? How could I watch the sea below the hill, where I once rested on your lap in the water? You told me once, 'Daughter of Satrajit, there is no wife dearer to me than you.' What is left of that promise now? Who remembers it?\" Her voice broke into bitter laughter. \"I never knew you for a cheat before. Now I find you fickle and false, partial to my rival. I read your thoughts in your face, thief, however you try to hide them. Your tongue is honey — and your heart is guile.\"\n\nThen Krishna spoke. \"Say no such thing, dearest ruler of my heart. What more can I tell you, my darling? Know that I am yours entirely. To please me, the sage Narada, whose deeds are beyond reproach, gave her that flower out of generous feeling and regard — I did not give it with my own hands.\"\n\nAnd then Krishna made the promise that answered everything. \"What is a single flower?\" he said. \"I shall fetch the Parijata tree itself — the best of all trees, from the gardens of paradise — and keep it in your mansion. So be it. From this day, it is my first concern.\"\n\nThe storm in Satyabhama's eyes faltered. She had asked, in her grief, only to be remembered; he had answered by promising her a tree from heaven — not the flower that had wounded her, but the whole tree it had grown from, to be rooted in her own courtyard. Whatever she had expected from her accusation, it was not this.",
+ "reflection": "Satyabhama's long accusation is a precise anatomy of a wounded pride, and its sharpest lines are those of a woman testing whether she is still loved. Krishna's answer is not to argue with any of it but to outbid the wound: against one flower he sets a whole tree of paradise, as if the only way to prove where his heart lives is to give more than the rival received.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Satyabhama",
+  "Narada"
+ ],
+ "locations": [
+  "Raivataka"
+ ],
+ "themes": [
+  "promise",
+  "jealousy",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0223",
+ "next_story_id": "DKS_0225",
+ "next_story_tease": "But the tree belonged to Indra's heaven, and to bring it down Krishna would have to ask a king of gods who had no wish to part with it.",
+ "hero_scene": "Satyabhama seated with her face cast down and her palm against her cheek, tears on her lashes, while Krishna leans close with his hand raised in a vow, his expression tender and resolute, the promise of the whole Parijata tree hanging between them in the lamplight.",
+ "visual_elements": [
+  "Satyabhama with downcast face and tears",
+  "Krishna leaning close, hand raised in a vow",
+  "the lamplit apartment in Satyabhama's mansion",
+  "the faded white garment she wears",
+  "the imagined Parijata tree glowing faintly beyond the window",
+  "a vow and its tenderness"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.124",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:03Z",
+  "source_event_id": "evt_0295",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

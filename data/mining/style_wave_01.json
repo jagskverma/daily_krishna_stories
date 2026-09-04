@@ -1,0 +1,437 @@
+[
+ {
+  "agent_id": "n001",
+  "stories": [
+   {
+    "id": "DKS_0001",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0002",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0003",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0004",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0005",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0006",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n002",
+  "stories": [
+   {
+    "id": "DKS_0007",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0008",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0009",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0010",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0011",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0012",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n003",
+  "stories": [
+   {
+    "id": "DKS_0013",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0014",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0015",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0016",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0017",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0018",
+    "dir": "data/pilot_stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n004",
+  "stories": [
+   {
+    "id": "DKS_0019",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0020",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0021",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0022",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0023",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0024",
+    "dir": "data/pilot_stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n005",
+  "stories": [
+   {
+    "id": "DKS_0025",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0026",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0027",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0028",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0029",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0030",
+    "dir": "data/pilot_stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n006",
+  "stories": [
+   {
+    "id": "DKS_0031",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0032",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0033",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0034",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0035",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0036",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n007",
+  "stories": [
+   {
+    "id": "DKS_0037",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0038",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0039",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0040",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0041",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0042",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n008",
+  "stories": [
+   {
+    "id": "DKS_0043",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0044",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0045",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0046",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0047",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0048",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n009",
+  "stories": [
+   {
+    "id": "DKS_0049",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0050",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0051",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0052",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0053",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0054",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n010",
+  "stories": [
+   {
+    "id": "DKS_0055",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0056",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0057",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0058",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0059",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0060",
+    "dir": "data/pilot_stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n011",
+  "stories": [
+   {
+    "id": "DKS_0061",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0062",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0063",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0064",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0065",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0066",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n012",
+  "stories": [
+   {
+    "id": "DKS_0067",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0068",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0069",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0070",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0071",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0072",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n013",
+  "stories": [
+   {
+    "id": "DKS_0073",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0074",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0075",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0076",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0077",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0078",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n014",
+  "stories": [
+   {
+    "id": "DKS_0079",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0080",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0081",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0082",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0083",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0084",
+    "dir": "data/stories"
+   }
+  ]
+ },
+ {
+  "agent_id": "n015",
+  "stories": [
+   {
+    "id": "DKS_0085",
+    "dir": "data/pilot_stories"
+   },
+   {
+    "id": "DKS_0086",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0087",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0088",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0089",
+    "dir": "data/stories"
+   },
+   {
+    "id": "DKS_0090",
+    "dir": "data/stories"
+   }
+  ]
+ }
+]

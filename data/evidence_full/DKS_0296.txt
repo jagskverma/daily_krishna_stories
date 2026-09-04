@@ -1,0 +1,35 @@
+# STORY DKS_0296 — The Brahmana's Dying Sons || In Dwaraka, a brahmana's newborn sons die one after another; he lays their bodies at the palace gate and laments the king's failure to protect his subjects.
+
+## Index entry
+title: The Brahmana's Dying Sons || In Dwaraka, a brahmana's newborn sons die one after another; he lays their bodies at the palace gate and laments the king's failure to protect his subjects.
+summary: In Dwaraka, a brahmana's newborn sons die one after another; he lays their bodies at the palace gate and laments the king's failure to protect his subjects.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: the brahmana, Krishna, Arjuna
+locations: Dwaraka
+themes: grief, death, justice
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0280
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 89 | verses 20-27 | confidence 5
+  excerpt: A brahmana's infant sons die as soon as they touch the ground, and each time he lays the dead child at the palace gate, lamenting that the king's fault has slain his children. He accuses the unrighteous ruler of failing in his duty, so that his subjects perish in misery. (rendered from Sanskrit, verse 20-27)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.89 (20-27)
+20. bhp_10.89.021/0 śrī-śuka uvāca
+21. vipro gṛhītvā mṛtakaṃ rāja-dvāry upadhāya saḥ /
+22. brahma-dviṣaḥ śaṭha-dhiyo lubdhasya viṣayātmanaḥ /
+23. hiṃsā-vihāraṃ nṛpatiṃ duḥśīlam ajitendriyam /
+24. evaṃ dvitīyaṃ viprarṣis tṛtīyaṃ tv evam eva ca /
+25. tām arjuna upaśrutya karhicit keśavāntike /
+26. kiṃ svid brahmaṃs tvan-nivāse iha nāsti dhanur-dharaḥ /
+27. dhana-dārātmajāpṛktā yatra śocanti brāhmaṇāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0295 | next_story_id: DKS_0297
+previous title: Krishna Visits Shrutadeva and Bahulashva
+next title: Arjuna's Failed Vow || Arjuna boasts that he will protect the brahmana's next child, but though he fences the delivery-room with arrows, the newborn vanishes, and the brahmana rebukes him.

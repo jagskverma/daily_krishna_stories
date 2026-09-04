@@ -1,0 +1,37 @@
+# STORY DKS_0493 — Krishna's Counsel to the Gopis
+
+## Index entry
+title: Krishna's Counsel to the Gopis
+summary: Krishna meets the gopis, who have long pined for him, embraces them, and teaches them that all beings abide in him, and that their love for him grants immortality.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, the gopis
+locations: Samanta-panchaka
+themes: devotion, divine love, teaching
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0493
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 82 | verses 38-47 | confidence 5
+  excerpt: The gopis, seeing Krishna after so long, embrace him in their hearts and attain that state which even the ever-yoked cannot easily gain. Krishna asks whether they remember his friendship, and teaches them that as the wind scatters clouds, so the Lord unites and separates beings, and that devotion to him grants immortality — by which instruction the gopis, their bondage dissolved, attained him. (re
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.82 (38-47)
+38. bhp_10.82.039/0 śrī-śuka uvāca gopyaś ca kṛṣṇam upalabhya cirād abhīṣṭaṃ $ yat-prekṣaṇe dṛśiṣu pakṣma-kṛtaṃ śapanti & gopyaś ca kṛṣṇam upalabhya cirād abhīṣṭaṃ $ yat-prekṣaṇe dṛśiṣu pakṣma-kṛtaṃ śapanti & dṛgbhir hṛdī-kṛtam alaṃ parirabhya sarvās % tad-bhāvam āpur api nitya-yujāṃ durāpam
+39. bhagavāṃs tās tathā-bhūtā vivikta upasaṅgataḥ /
+40. api smaratha naḥ sakhyaḥ svānām artha-cikīrṣayā /
+41. apy avadhyāyathāsmān svid akṛta-jñāviśaṅkayā /
+42. vāyur yathā ghanānīkaṃ tṛṇaṃ tūlaṃ rajāṃsi ca /
+43. mayi bhaktir hi bhūtānām amṛtatvāya kalpate /
+44. ahaṃ hi sarva-bhūtānām ādir anto 'ntaraṃ bahiḥ /
+45. evaṃ hy etāni bhūtāni bhūteṣv ātmātmanā tataḥ /
+46. bhp_10.82.047/0 śrī-śuka uvāca
+47. āhuś ca te nalina-nābha padāravindaṃ $ yogeśvarair hṛdi vicintyam agādha-bodhaiḥ &amp;saṃsāra-kūpa-patitottaraṇāvalambaṃ % gehaṃ juṣām api manasy udiyāt sadā naḥ
+
+## Corpus chain
+previous_story_id: DKS_0492 | next_story_id: DKS_0494
+previous title: Reunion with Nanda and Yashoda
+next title: Nanda's Farewell

@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0336",
+ "title": "The Child in the Fish's Belly",
+ "subtitle": null,
+ "story": "Of all the places a lost prince might be found, the kitchen of a demon's palace seems the least likely. But that is where the sea gave Pradyumna back.\n\nFar out in the deep, a mighty fish had swallowed the infant whole — the moment the ocean closed over Rukmini's son, the child was gone into the dark belly of the sea. The fish knew nothing of what it carried. It cruised the deeps as fishes do, and in time it was caught by fishermen, hauled up with the rest of the catch, and carried to the shore.\n\nThe fishermen presented their catch as a gift to the demon Shambara, for it was a fish worthy of a great house. In Shambara's palace the fish was carried to the kitchens, where his wife Mayavati oversaw the cooks. When the great fish was cut open for the table, the cook found a living child curled inside its belly — a beautiful boy, unharmed, blinking in the lamplight of the kitchen.\n\nThe cook carried the child to Mayavati, and Mayavati knew him at once. She was not simply the demon's wife. She was Rati, the wife of Kama — the god of love, long since reduced to ashes, whose beloved she had been through all the years of his absence. And this child, she knew, was her husband reborn: the son of Vasudeva and Rukmini, stolen from the lying-in chamber of Dvaraka and thrown into the sea, delivered now by the fish and the fishermen into her very arms. She took the boy as her own, and the palace asked no questions. The demon's wife had been given a son, and that was that. She told no one who the child was; the secret sat in her heart like a stone in a stream, and the stream went on around it.\n\nSo the child grew up in Shambara's palace believing that Mayavati was his mother and the demon his father. She nursed him and reared him with care, and as he grew she taught him every art of illusion that the demon's house knew — for there was no one better placed to teach a boy the ways of Maya than the wife of the demon who lived by it. In a short time, as the tellers measure time, the son of Krishna passed into full youth: lotus-eyed and long-armed, the fairest sight in the world of men, skilled in every weapon and quick in every art.\n\nAnd then the love Mayavati had kept as a mother's turned into something else. She looked at the young man and saw her husband. She came to him as a woman comes to a man, with longing in her eyes and in her gestures. And the boy, who believed her to be his mother, stepped back in astonishment.\n\n\"Mother,\" he said, \"your mind is set otherwise. What is this? How can you look at me so?\"\n\nAnd then Mayavati told him the truth, everything at last. \"You are not my son,\" she said, \"and Shambara is not your father. You are the son of Vasudeva and Rukmini, of the Vrishni line. When you were not yet ten days old, Shambara stole you from the lying-in chamber of your father's house and cast you into the sea. That demon is the enemy of your life, and he is unconquerable only while he is unknown. Kill him, and end what he began. Your mother in Dvaraka still mourns you — she mourns you like a female osprey crying over the nest where her young are gone.\"\n\nThe boy stood in the lamplight of the kitchen where the fish had given him up, and the world rearranged itself around him. The demon he had called father was his thief. The woman who had raised him was his beloved. She had raised her own husband to the day he could be told, and now the telling was done. And somewhere across the sea, in a city he had never seen, a mother was still weeping for the son she had lost.",
+ "reflection": "The story turns on a paradox of love: Rati raises the husband she lost, hiding her love inside a mother's care until the boy is old enough to bear the truth. The kitchen — the plainest room in a demon's palace — becomes the place where a lost prince is found, and where the woman who loves him most keeps the secret that will send him to his destiny.",
+ "tradition_note": "The Harivamsha expands this episode at length, giving Mayavati a long inner monologue of recognition and her instruction of Pradyumna in all the forms of illusion.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Mayavati",
+  "Rati"
+ ],
+ "locations": [
+  "Shambara's palace"
+ ],
+ "themes": [
+  "providence",
+  "identity",
+  "love"
+ ],
+ "previous_story_id": "DKS_0335",
+ "next_story_id": "DKS_0337",
+ "next_story_tease": "Armed at last with the truth of who he was, Pradyumna turned to face the demon who had stolen him.",
+ "hero_scene": "In the lamplit kitchen of Shambara's palace, the great fish lies split open on the cutting board and the cook lifts out a living baby, blinking and unharmed, while Mayavati watches from the doorway — wonder and recognition dawning on her face.",
+ "visual_elements": [
+  "the great fish split open on the kitchen cutting board",
+  "the cook lifting the living infant from its belly",
+  "Mayavati recognizing the child as Kama reborn",
+  "Pradyumna growing into a lotus-eyed youth training with weapons",
+  "the lamplit kitchen as the setting of the truth-telling"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.55.3-14",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:28Z",
+  "source_event_id": "evt_0242"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0010",
+ "title": "Kamsa Repents and Devaki Forgives Him",
+ "subtitle": null,
+ "story": "Kamsa, king of Mathura, had come to the cell where his sister Devaki lay to destroy her newborn child, as he had destroyed every child of hers born there. He seized the baby girl and raised her high, meaning to dash her against the stone. But the girl was not crushed. She slipped from his grip and rose into the air above the cell, casting off her human shape. She stood there clothed in dark blue, crowned and garlanded, her hair unbound, and she spoke to him — not as a subject to a king, but as one who knew exactly what he had done. The child who would destroy him, she told him, was already born, and it was not this girl. Then she was gone, and Kamsa was left alone with the truth he had spent years refusing to hear.\n\nFor years he had ruled Mathura in the shadow of a single fear. A prophecy had promised that the eighth child of his sister Devaki would be his death, and he had answered it by destroying her children one by one, dashing each of them against the stone the moment it was born, until the locked cell where his own sister was kept had become a place of small graves. Still the fear had never left him. It had only grown keener with every child he killed — and keener still on the night the goddess rose from the stone and told him that his destroyer was alive, hidden somewhere beyond his reach.\n\nNow the fury that had carried him into the cell was gone, and something else rose in its place, something he had not felt in years: shame. The anger that had always answered his fear had nothing left to say. He went to Devaki, the sister whose children he had taken, and threw himself at her feet like a son.\n\n\"I throw myself at your feet like a son,\" he said. \"Be not offended with me.\"\n\nDevaki looked down at her brother. She had every reason to turn him away, or to curse him, or to send him from her in the same cold silence with which he had taken her children — and no one would have blamed her. Instead she forgave him.\n\n\"I forgive you,\" she said, \"for the sin you have committed by destroying my children.\"\n\nAnd she told him that he was not the true instrument of what had happened. Time itself had driven these events, she said; neither the mother who had lost her children nor the king who had killed them stood outside its reach. What Time had set in motion, no king and no mother could have turned aside. The wrong had been done and could not be undone — but the hand that had done it was, in the end, only a hand.\n\nShe left him there with his head still bowed: a king who had come to the prison cell to kill, and who now knelt in it asking to be forgiven.",
+ "reflection": "The striking thing in the scene is not Kamsa's fall but Devaki's answer: she forgives not because the wrong was small, but because she sees her brother as moved by a force larger than himself. It is an unexpected mercy, and it makes the cruelty that came before it all the harder to bear.",
+ "tradition_note": "This repentance is told distinctly in the Harivamsha; the Bhagavata Purana (10.4.2) folds it into the episode of the goddess Yogamaya.",
+ "content_note": "References Kamsa's killing of Devaki's children, described in passing and without detail.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Kamsa",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "repentance",
+  "forgiveness"
+ ],
+ "previous_story_id": "DKS_0009",
+ "next_story_id": "DKS_0011",
+ "next_story_tease": "But the fate that had put her children in his hands had been written long before any of them were conceived.",
+ "hero_scene": "Kamsa, no longer the furious king, kneeling at Devaki's feet in the dim prison cell, his head bowed, while Devaki looks down at him in quiet forgiveness.",
+ "visual_elements": [
+  "Kamsa kneeling, head bowed",
+  "Devaki standing above him, forgiving",
+  "the dim, locked prison cell",
+  "the shadow of the stone where the girl had been dashed",
+  "a mood of shame giving way to unexpected mercy"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.59",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T16:58:06Z",
+  "source_event_id": "evt_0031",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,64 @@
+# STORY DKS_0050 — Brahma Is Bewildered and Worships Krishna
+
+## Index entry
+title: Brahma Is Bewildered and Worships Krishna
+summary: Returning after a moment of his time, Brahma finds everything as before and, seeing all the boys as four-armed forms of Vishnu, falls at Krishna's feet in humility.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Brahma, Krishna
+locations: Vrindavan
+themes: humility, maya, wonder
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0062
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 13 | verses 27-63 | confidence 5
+  excerpt: Bewildered by what he sees, Brahma beholds all the cowherd boys and calves as countless Vishnu-forms and, understanding the Lord's majesty, bows and praises Krishna, who then restores his friends. (rendered from Sanskrit, verse 27-63)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.13 (27-63)
+27. ekadā cārayan vatsān sa-rāmo vanam āviśat /
+28. tato vidūrāc carato gāvo vatsān upavrajam /
+29. dṛṣṭvātha tat-sneha-vaśo 'smṛtātmā sa go-vrajo 'tyātmapa-durga-mārgaḥ /
+30. sametya gāvo 'dho vatsān vatsavatyo 'py apāyayan /
+31. gopās tad-rodhanāyāsa- maughya-lajjoru-manyunā /
+32. tad-īkṣaṇotprema-rasāplutāśayā jātānurāgā gata-manyavo 'rbhakān /
+33. tataḥ pravayaso gopās tokāśleṣa-sunirvṛtāḥ /
+34. vrajasya rāmaḥ premardher vīkṣyautkaṇṭhyam anukṣaṇam /
+35. kim etad adbhutam iva vāsudeve 'khilātmani /
+36. keyaṃ vā kuta āyātā daivī vā nāry utāsurī /
+37. iti sañcintya dāśārho vatsān sa-vayasān api /
+38. naite sureśā ṛṣayo na caite tvam eva bhāsīśa bhid-āśraye 'pi /
+39. tāvad etyātmabhūr ātma- mānena truṭy-anehasā /
+40. yāvanto gokule bālāḥ sa-vatsāḥ sarva eva hi /
+41. ita ete 'tra kutratyā man-māyā-mohitetare /
+42. evam eteṣu bhedeṣu ciraṃ dhyātvā sa ātma-bhūḥ /
+43. evaṃ sammohayan viṣṇuṃ vimohaṃ viśva-mohanam /
+44. tamyāṃ tamovan naihāraṃ khadyotārcir ivāhani /
+45. tāvat sarve vatsa-pālāḥ paśyato 'jasya tat-kṣaṇāt /
+46. catur-bhujāḥ śaṅkha-cakra- gadā-rājīva-pāṇayaḥ /
+47. śrīvatsāṅgada-do-ratna- kambu-kaṅkaṇa-pāṇayaḥ /
+48. āṅghri-mastakam āpūrṇās tulasī-nava-dāmabhiḥ /
+49. candrikā-viśada-smeraiḥ sāruṇāpāṅga-vīkṣitaiḥ /
+50. ātmādi-stamba-paryantair mūrtimadbhiś carācaraiḥ /
+51. aṇimādyair mahimabhir ajādyābhir vibhūtibhiḥ /
+52. kāla-svabhāva-saṃskāra- kāma-karma-guṇādibhiḥ /
+53. satya-jñānānantānanda- mātraika-rasa-mūrtayaḥ /
+54. evaṃ sakṛd dadarśājaḥ para-brahmātmano 'khilān /
+55. tato 'tikutukodvṛtya- stimitaikādaśendriyaḥ /
+56. itīreśe 'tarkye nija-mahimani sva-pramitike $ paratrājāto 'tan-nirasana-mukha-brahmaka-mitau &amp;anīśe 'pi draṣṭuṃ kim idam iti vā muhyati sati % cacchādājo jñātvā sapadi paramo 'jā-javanikām
+57. tato 'rvāk pratilabdhākṣaḥ kaḥ paretavad utthitaḥ /
+58. sapady evābhitaḥ paśyan diśo 'paśyat puraḥ-sthitam /
+59. yatra naisarga-durvairāḥ sahāsan nṛ-mṛgādayaḥ /
+60. tatrodvahat paśupa-vaṃśa-śiśutva-nāṭyaṃ $ brahmādvayaṃ param anantam agādha-bodham &amp;vatsān sakhīn iva purā parito vicinvad % ekaṃ sa-pāṇi-kavalaṃ parameṣṭhy acaṣṭa
+61. dṛṣṭvā tvareṇa nija-dhoraṇato 'vatīrya $ pṛthvyāṃ vapuḥ kanaka-daṇḍam ivābhipātya &dṛṣṭvā tvareṇa nija-dhoraṇato 'vatīrya $ pṛthvyāṃ vapuḥ kanaka-daṇḍam ivābhipātya &spṛṣṭvā catur-mukuṭa-koṭibhir aṅghri-yugmaṃ % natvā mud-aśru-sujalair akṛtābhiṣekam
+62. utthāyotthāya kṛṣṇasya cirasya pādayoḥ patan /
+63. śanair athotthāya vimṛjya locane mukundam udvīkṣya vinamra-kandharaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0049 | next_story_id: DKS_0051
+previous title: Krishna Expands Into All the Calves and Boys
+next title: Brahma Praises Krishna and Departs

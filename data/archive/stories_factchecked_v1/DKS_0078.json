@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0078",
+ "title": "Krishna Emerges and the Villagers Rejoice",
+ "subtitle": null,
+ "story": "On the bank of the Yamuna the people of Vrindavan had been waiting so long, and so still, that when Krishna finally rose out of the pool it was like the whole village drawing breath at once. Word had run through the lanes while he was gone, and the whole settlement had come down to the water to wait, and to watch, and to be afraid together. The serpent was gone now, and the water had settled, but no one on the bank had seen him go, and no one dared believe the boy would come back up. They had spent the long hours since he leapt into the serpent's water staring at the churning deep, and the fathers who had gone down to the edge could find no sign of him in all that blackness. Nanda and Yasoda had nearly lost their senses with dread.\n\nHe came up out of the water wearing a divine garland, his skin fragrant with sandal paste and his garment fine and bright. The cowherds, who had watched him vanish into the poison-dark pool and feared they would never see him again, rose to their feet as though their own breath had been given back to them. One after another they ran to him and embraced him — Yasoda and Rohini and Nanda, the gopis and the cowherd men, all of them, holding him as though he had come back from the dead.\n\nBalarama, his brother, laughed. He alone had never been afraid, for he knew what Krishna truly was, and he wrapped his arms around him with a kind of knowing joy, as if to say he had been waiting not for a rescue but for the game to end. The gopis, too, forgot their fear and broke into smiles, for the boy they had feared lost stood before them again, dripping and bright, as if nothing at all had happened.\n\nAnd then the brahmanas came. They gathered around Nanda with their families and their wives, the elders of the settlement, and they told him plainly what the moment required: “Give gifts to the twice-born, for the sake of the boy's deliverance.” For thanksgiving, in that world, was made with open hands, and Nanda gave as the occasion demanded — cows and gold, poured out for the life of his son — and the gifts went out to the learned ones as a father's gratitude made visible.\n\nAnd Yasoda, the fortunate one who had lost her child and found him again, held Krishna close and would not let him go. The river ran sweet behind them, the poison gone with the serpent, and the village was whole again. They did not hurry home, but stood a while on the bank, letting the sweetness of the river and the nearness of the boy sink in.",
+ "reflection": "The relief is physical before it is anything else — the whole village rising as though given back its breath. And the first response is not talk but giving: Nanda's cows and gold, poured out for his son's deliverance, as if gratitude needed to be made visible to be real.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Krishna",
+  "Nanda",
+  "Yasoda",
+  "Balarama",
+  "cowherds"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "reunion",
+  "gratitude"
+ ],
+ "previous_story_id": "DKS_0077",
+ "next_story_id": "DKS_0079",
+ "next_story_tease": "And soon the village would turn to its great autumn offering to Indra.",
+ "hero_scene": "Krishna rising out of the Yamuna in a divine garland and bright garment, the cowherds and Yasoda and Nanda rushing to embrace him on the bank, Balarama laughing beside them.",
+ "visual_elements": [
+  "Krishna emerging from the pool",
+  "divine garland and sandal paste",
+  "Yasoda and Rohini and Nanda",
+  "the gopis and cowherds embracing him",
+  "Balarama laughing",
+  "the brahmanas with their families",
+  "cows and gold given in gratitude",
+  "relief and reunion"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.17.12-18",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:02:36Z",
+  "source_event_id": "evt_0075"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

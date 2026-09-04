@@ -1,0 +1,36 @@
+# STORY DKS_0285 — Narada Marvels at Krishna's Yoga-Maya and Departs || Narada praises Krishna's unfathomable yoga-maya, and Krishna bids him wander singing his glories throughout the worlds.
+
+## Index entry
+title: Narada Marvels at Krishna's Yoga-Maya and Departs || Narada praises Krishna's unfathomable yoga-maya, and Krishna bids him wander singing his glories throughout the worlds.
+summary: Narada praises Krishna's unfathomable yoga-maya, and Krishna bids him wander singing his glories throughout the worlds.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Narada, Krishna
+locations: Dvaraka
+themes: wonder, divine play, praise
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0258
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 69 | verses 36-44 | confidence 5
+  excerpt: Narada, amazed, declared 'I understand your yoga-maya, hard to see even for the master of maya, revealed to me by serving your feet'; Krishna bade him roam the worlds singing his purifying pastimes, and Narada departed remembering him. (rendered from Sanskrit, verses 36-44)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.69 (36-44)
+36. athovāca hṛṣīkeśaṃ nāradaḥ prahasann iva /
+37. vidāma yoga-māyās te durdarśā api māyinām /
+38. anujānīhi māṃ deva lokāṃs te yaśasāplutān /
+39. bhp_10.69.040/0 śrī-bhagavān uvāca
+40. bhp_10.69.041/0 śrī-śuka uvāca
+41. kṛṣṇasyānanta-vīryasya yoga-māyā-mahodayam /
+42. ity artha-kāma-dharmeṣu kṛṣṇena śraddhitātmanā /
+43. evaṃ manuṣya-padavīm anuvartamāno nārāyaṇo 'khila-bhavāya gṛhīta-śaktiḥ /
+44. yānīha viśva-vilayodbhava-vṛtti-hetuḥ $ karmāṇy ananya-viṣayāṇi harīś cakāra &amp;yas tv aṅga gāyati śṛṇoty anumodate vā % bhaktir bhaved bhagavati hy apavarga-mārge
+
+## Corpus chain
+previous_story_id: DKS_0284 | next_story_id: DKS_0286
+previous title: Narada Sees Krishna in Every Palace of Dvaraka || Narada visits Dvaraka to witness Krishna's household, and sees him simultaneously present in each of the 16,000 palaces performing different duties.
+next title: Krishna's Dawn Worship in Dwaraka || Krishna rises in the brahma-muhurta, performs his ablutions, worships the Lord within, gives daily gifts of cows and wealth to brahmanas, and blesses his people.

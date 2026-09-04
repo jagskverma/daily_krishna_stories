@@ -1,0 +1,69 @@
+{
+ "id": "DKS_0265",
+ "title": "The Parijata Tree of Indra's Heaven",
+ "subtitle": null,
+ "story": "Heaven received Krishna with gifts, and lost a tree. The lord of all things had come up to the abode of Indra, king of the gods, and no one in that bright court yet knew what he had come for.\n\nHe came first as a restorer. In his hands he carried the earrings of Aditi, mother of the gods, which the demon Naraka had torn from her in his arrogance; now they were returned, blazing as they had always blazed. Indra and the gods received Krishna with worship, and Aditi, pleased beyond words, took back what was hers. There was peace between heaven and the lord who had fought heaven's battle.\n\nAnd then, quietly, the trouble began. Krishna had not come to Indra's heaven alone — Satyabhama was at his side, and she had seen the Parijata tree, the wish-fulfilling tree of the gods, the delight of heaven itself — and she wanted it for her own garden in Dwaraka. The Bhagavata Purana says it plainly, without excuse: wishing to please his beloved like an ordinary man, the lord went for the celestial tree. The ruler of the universe uprooted a tree from the middle of heaven because his wife asked him to. He lifted it whole, roots and all, and set it on Garuda's head.\n\nThe gods were not amused. The tree, Indra's wife Shachi protested, belonged to her; it was not proper, Govinda, to remove it. And Indra himself, blind with rage, rushed at Krishna with all his host — the thunderbolt-wielder and his armies came down on the man who had just done heaven a kindness, as though he were a plaything of the women, a husband indulging his wife's whim. They had seen him return the earrings, and still they misread him. The thunderbolt came down, and was turned aside like a twig. Host after host of the immortals, weapons raised, found their arms checked by a calm they could not break, a strength that gave way nowhere. One by one they were put aside. Krishna had smiled at Satyabhama, and taking the Parijata plant, had set it upon Garuda; and the lord who had come as a guest and a restorer overcame them all, and the tree stayed on Garuda's back.\n\nIn the end it was the gods who bowed. Indra, who had come raging, came at last to his senses, and the whole of heaven understood what it should have understood from the beginning: this was no mortal carrying off a tree. The king of the gods let the Parijata go, and the wish-fulfilling tree of heaven was given to the earth.\n\nThen Krishna rode down out of the clouds. As he came over Dwaraka he blew his conch, and the whole city rose at the sound, delighted, watching the sky for the shape of the great bird. He planted the Parijata in Satyabhama's garden, and there it stood, perfuming the earth for three furlongs around. And more than that, the storytellers say: whoever approached the tree could remember the events of their past lives, and the Yadavas who looked into its shade saw themselves in their original celestial forms.\n\nThe tree of heaven had come to earth at a wife's request, and the gods, who had lost it in battle, could only marvel. Uddhava remembered the episode later with the same wonder: the lord, wishing to please his beloved like a common man, had gone for the celestial tree — as though the master of all things had nothing better to do than carry a tree home for his wife. And in Satyabhama's garden, the tree settled into the earth of Dwaraka, its perfume drifting over the city like a promise kept.",
+ "reflection": "Uddhava's account frames the episode as both astonishing and tender: the lord of the universe moves heaven itself to please his wife, 'like a common man.' The miracle is not that Krishna could take the tree, but that he wanted to — divinity wearing the shape of an ordinary husband's love.",
+ "tradition_note": "The Vishnu Purana treats the restoration of Aditi's earrings and the uprooting of the Parijata as two separate visits to heaven; the Bhagavata Purana and the Harivamsha bind them into one. This story follows the Bhagavata Purana.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Satyabhama",
+  "Indra",
+  "Aditi"
+ ],
+ "locations": [
+  "Indra's heaven",
+  "Dwaraka"
+ ],
+ "themes": [
+  "desire",
+  "triumph",
+  "divine gift"
+ ],
+ "previous_story_id": "DKS_0264",
+ "next_story_id": "DKS_0266",
+ "next_story_tease": "Back in Dwaraka, the sixteen thousand one hundred maidens he had freed were waiting to become his brides.",
+ "hero_scene": "Krishna lifting the great wish-fulfilling Parijata tree onto Garuda's back above the clouds of Indra's heaven, while the thunderbolt-wielder and the routed host of the gods fall back before him.",
+ "visual_elements": [
+  "the wish-fulfilling Parijata tree of Indra's heaven",
+  "Krishna setting the tree on Garuda",
+  "Indra and the host of the gods attacking in rage",
+  "Aditi receiving back her earrings",
+  "Krishna planting the Parijata in Satyabhama's garden in Dwaraka",
+  "triumph and divine gift"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.37-40",
+   "role": "primary"
+  },
+  {
+   "work": "Bhagavata Purana",
+   "reference": "3.3.4",
+   "role": "additional"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.121",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.30",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:08Z",
+  "source_event_id": "evt_0212"
+ },
+ "editorial_status": "unreviewed"
+}

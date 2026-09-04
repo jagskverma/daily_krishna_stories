@@ -1,0 +1,99 @@
+# STORY DKS_0422 — Krishna Comforts the Grieving Kunti
+
+## Index entry
+title: Krishna Comforts the Grieving Kunti
+summary: Krishna visits his aunt Kunti, who pours out her sorrows for her exiled sons; he consoles her and assures her she will soon see the Pandavas victorious.
+life_stage: kurukshetra | story_arc: peace_mission
+characters: Krishna, Kunti
+locations: Hastinapura
+themes: grief, consolation, family
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0429
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 5 | chapter/section 090 | verses  | confidence 4
+  excerpt: Vasudeva said, 'What woman is there, O aunt, in the world who is like thee?... Endued with every virtue, and endued with great wisdom, it behoveth thee to bear with patience, both happiness and misery... The Pandavas with Krishna saluteth thee through me... Thou wilt soon behold them become the lords of the whole world, with their foe slain, and themselves invested with prosperity.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 5.090 ()
+Vaisampayana said, “Janardana, the chastiser of foes, after his meeting
+with Vidura, went then in the afternoon to his paternal aunt, Pritha. And
+beholding Krishna whose countenance beamed with the effulgence of the
+radiant sun arrived at her abode, she encircled his neck with her arms
+and began to pour forth her lamentations remembering her sons. And at the
+sight, after a long time, of Govinda of Vrishni’s race, the companion of
+those mighty children of hers, the tears of Pritha flowed fast. And after
+Krishna, that foremost of warriors, had taken his seat having first
+received the rites of hospitality, Pritha, with a woe-begone face and
+voice choked with tears addressed him, saying, ‘They, who, from their
+earliest years have always waited with reverence on their superiors;
+they, who, in friendship are attached to one another; they, who, deprived
+deceitfully of their kingdom had gone to seclusion, however worthy of
+living in the midst of friends and attendants,--they, who have subjugated
+both wrath and joy, are devoted to Brahmans, and truthful in
+speech,--those children of mine, who, abandoning kingdom and enjoyments
+and leaving my miserable self behind, had gone to the woods, plucking the
+very roots of my heart,--those illustrious sons of Pandu, O Kesava, who
+have suffered woe however undeserving of it,--how, alas, did they live in
+the deep forest abounding with lions and tigers and elephants? Deprived
+in their infancy of their father, they were all tenderly brought up by
+me. How, also, did they live in the mighty forest, without seeing both
+their parents? From their infancy, O Kesava, the Pandavas were aroused
+from their beds by the music of conchs and drums and flutes. That they
+who while at home, used to sleep in high palatial chambers on soft
+blankets and skins of the Runku deer and were waked up in the morning by
+the grunt of elephants, the neighing of steeds, the clatter of car-wheels
+and the music of conchs and cymbals in accompaniment with the notes of
+flutes and lyres,--who, adored at early dawn with sacred sounding hymns
+uttered by Brahmanas, worshipped those amongst them that deserved such
+worship with robes and jewels and ornaments, and who were blessed with
+the auspicious benedictions of those illustrious members of the
+regenerate order, as a return for the homage the latter received,--that
+they, O Janardana, could sleep in the deep woods resounding with the
+shrill and dissonant cries of beasts of prey can hardly be believed,
+undeserving as they were of so much woe. How could they, O slayer of
+Madhu, who were roused from their beds by music of cymbals and drums and
+conchs and flutes, with the honeyed strains of songstresses and the
+eulogies chanted by bards and professional reciters,--alas, how could
+they be waked in the deep woods by the yells of wild beasts? He that is
+endued with modesty, is firm in truth, with senses under control and
+compassions for all creatures,--he that hath vanquished both lust and
+malice and always treadeth the path of the righteous, he that ably bore
+the heavy burthen borne by Amvarisha and Mandhatri, Yayati and Nahusha and
+Bharata and Dilip and Sivi the son of Usinara and other royal sages of
+old, he that is endued with an excellent character and disposition, he
+that is conversant with virtue, and whose prowess is incapable of being
+baffled, he that is fit to become the monarch of the three worlds in
+consequence of his possession of every accomplishment, he that is the
+foremost of all the Kurus lawfully and in respect of learning and
+disposition, who is handsome and mighty-armed and hath no enemy,--Oh, how
+is that Yudhishthira of virtuous soul, and of complexion like that of
+pure gold? He that hath the strength of ten thousand elephants and the
+speed of the wind, he that is mighty and ever wrathful amongst the sons
+of Pandu, he that always doth good to his brothers and is, therefore,
+dear to them all, he, O slayer of Madhu, that slew Kichaka with all his
+relatives, he that is the slayer of the Krodhavasas, of Hidimva, and of
+Vaka, he that in prowess is equal unto Sakra, and in might unto the
+Wind-god, he that is terrible, and in wrath is equal unto Madhava
+himself, he that is the foremost of all smiters,--that wrathful son of
+Pandu and chastiser of foes, who, restraining his rage, might,
+impatience, and controlling his soul, is obedient to the commands of his
+elder brother,--speak to me, O Janardana, tell me how is that smiter of
+immeasurable valour, that Bhimasena, who in aspect also justifies his
+name--that Vrikodara possessing arms like maces, that mighty second son
+of Pandu? O Krishna, that Arjuna of two arms who always regardeth himself
+as superior to his namesake of old with thousand arms, and who at one
+stretch shooteth five hundred arrows, that son of Pandu who in the use of
+weapons is equal unto king Kartavirya, in energy unto Aditya, in
+restraint of senses unto a great sage, in forgiveness unto the Earth, and
+in prowess unto Indra himself,--he, by whose 
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0421 | next_story_id: DKS_0423
+previous title: Krishna Enters Hastinapura and Meets Dhritarashtra
+next title: Krishna Refuses Duryodhana's Hospitality

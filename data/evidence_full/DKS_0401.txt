@@ -1,0 +1,34 @@
+# STORY DKS_0401 — Shalva Wins the Flying City Saubha || Shalva, friend of the slain Shishupala, vows to destroy the Yadavas and wins from Shiva through austere penance the flying iron city Saubha, built by Maya.
+
+## Index entry
+title: Shalva Wins the Flying City Saubha || Shalva, friend of the slain Shishupala, vows to destroy the Yadavas and wins from Shiva through austere penance the flying iron city Saubha, built by Maya.
+summary: Shalva, friend of the slain Shishupala, vows to destroy the Yadavas and wins from Shiva through austere penance the flying iron city Saubha, built by Maya.
+life_stage: dwaraka | story_arc: rajasuya_and_sisupala
+characters: Shalva, Shiva, Maya
+locations: the Himalayas, Dwaraka (target)
+themes: revenge, penance, boon
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0267
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 76 | verses 1-7 | confidence 5
+  excerpt: Shalva, friend of Shishupala, who had been defeated at Rukmini's wedding, vows before the kings to make the earth devoid of Yadavas. To this end he worships the lord Shiva, eating a handful of dust each day, and after a year Shiva, easily pleased, offers him a boon. (rendered from Sanskrit, verse 1-7)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.76 (1-7)
+1. śiśupāla-sakhaḥ śālvo rukmiṇy-udvāha āgataḥ /
+2. śālvaḥ pratijñām akaroc chṛṇvatāṃ sarva-bhūbhujām /
+3. iti mūḍhaḥ pratijñāya devaṃ paśu-patiṃ prabhum /
+4. saṃvatsarānte bhagavān āśu-toṣa umā-patiḥ /
+5. devāsura-manuṣyāṇāṃ gandharvoraga-rakṣasām /
+6. tatheti giriśādiṣṭo mayaḥ para-puraṃ-jayaḥ /
+7. sa labdhvā kāma-gaṃ yānaṃ tamo-dhāma durāsadam /
+
+## Corpus chain
+previous_story_id: DKS_0400 | next_story_id: DKS_0402
+previous title: Duryodhana's Humiliation in Maya's Hall
+next title: Shalva Besieges Dwaraka || Shalva arrives at Dwaraka in the indestructible flying city Saubha and rains weapons, rocks and serpents upon the city, terrifying its people.

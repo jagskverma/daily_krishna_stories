@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0066",
+ "title": "A Jewel for Balarama",
+ "subtitle": null,
+ "story": "The demon Shankhachuda had carried off the women of Vrindavan — the gopis, the cowherd women of the village — and he had not reckoned on being followed. He was a servant of Kubera, the lord of treasure, strong and sure of himself, and for a little while the deed must have seemed safe enough: the forest was deep, the village far behind, and no one, he may have told himself, would come after him so quickly.\n\nBut two had come after him, and they were not walking. Through the trees behind him came Krishna and his elder brother Balarama, the cowherd boys of the village, and the verses say what the demon saw when he looked back at them: Time and Death themselves, arriving side by side. The courage went out of him in a rush. He trembled, and he ran — and Krishna ran after him wherever he ran, matching him stride for stride through the dark.\n\nIt was not a long chase, but it was a certain one. The demon flung himself this way and that through the trees, branches catching at him as he went, and whichever way he turned, Krishna was there — never quite near enough to be seized, never far enough to be lost. Again and again the demon doubled back, trying to shake the brothers off, and each time they were closer than before, until his breath came hard and the gap between them closed. He had trusted the forest to hide him, and the forest had let him down.\n\nNot far off, Krishna overtook him. He came up beside the fleeing demon and, with a single blow of his fist to the head, struck Shankhachuda down and put an end to him.\n\nThen, with the demon lying still where he had fallen and the women he had taken looking on, Krishna did a small and telling thing. He bent and took the bright jewel from the fallen demon's crest — the ornament Shankhachuda had worn at the crown of his head, gleaming there even as he ran. He did not keep it for himself. He carried it to Balarama and placed it in his brother's hands, openly, where the women could see it given; and that, the women saw, was the whole of it — the one treasure of the demon passing, by Krishna's own hand, to his elder brother, with no ceremony but that.\n\nThen the forest was quiet again. The women were safe, the chase was over, and the jewel that had once shone at a demon's brow rested now in Balarama's hands, a gift given openly before them all, with no one watching from the shadows and nothing left to fear.",
+ "reflection": "The episode is brief, but its last image is the one that lingers: Krishna lifting the demon's one treasure and, without a moment's hesitation, giving it to Balarama. The victory matters less to the story than the gift — the spoils of the fight passing to the elder brother, in full view of the women who had been taken.",
+ "tradition_note": null,
+ "content_note": "A demon is struck down with a single blow; the violence is brief and not described in detail.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Shankhachuda"
+ ],
+ "locations": [
+  "Vrindavan forest"
+ ],
+ "themes": [
+  "victory",
+  "gift"
+ ],
+ "previous_story_id": "DKS_0065",
+ "next_story_id": "DKS_0067",
+ "next_story_tease": "But a worse terror was already on its way to the herds, this time in the shape of a bull.",
+ "hero_scene": "Krishna standing over the fallen demon Shankhachuda in the forest, the bright crest-jewel in his hand, reaching to give it to his elder brother Balarama while the rescued gopis watch.",
+ "visual_elements": [
+  "Krishna",
+  "Balarama",
+  "fallen demon Shankhachuda",
+  "bright crest-jewel",
+  "gopis watching",
+  "forest",
+  "chase through trees",
+  "relief and victory"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.34.28-31",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:07:44Z",
+  "source_event_id": "evt_0108",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

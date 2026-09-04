@@ -1,0 +1,49 @@
+# STORY DKS_0516 — Pururava's Lament for Urvashi
+
+## Index entry
+title: Pururava's Lament for Urvashi
+summary: King Pururava (Aila), mad with grief when the nymph Urvashi leaves him, pursues her naked and weeping; realizing his delusion, he sings the song of Aila on the futility of attachment to women, and attains peace.
+life_stage: other | story_arc: uddhava_and_teachings
+characters: Pururava (Aila), Urvashi
+locations: a forest, the royal court
+themes: attachment, delusion, detachment, women
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0536
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 11 | chapter/section 26 | verses 3-24 | confidence 5
+  excerpt: King Aila sang: 'Alas, what delusion has seized me! A monarch, I became a plaything of a woman; I, who was emperor, followed her like a beast, naked and weeping. What is this foul body of flesh and bone, and what these charms imputed to it? So let no wise man cling to women.' (rendered from Sanskrit, verses 6-21)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 11.26 (3-24)
+3. ailaḥ samrāḍ imāṃ gāthām agāyata bṛhac-chravāḥ /
+4. tyaktvātmānaṃ vrayantīṃ tāṃ nagna unmatta-van nṛpaḥ /
+5. kāmān atṛpto 'nujuṣan kṣullakān varṣa-yāminīḥ /
+6. bhp_11.26.007/0 aila uvāca
+7. nāhaṃ vedābhinirmuktaḥ sūryo vābhyudito 'muyā /
+8. aho me ātma-sammoho yenātmā yoṣitāṃ kṛtaḥ /
+9. sa-paricchadam ātmānaṃ hitvā tṛṇam iveśvaram /
+10. kutas tasyānubhāvaḥ syāt teja īśatvam eva vā /
+11. kiṃ vidyayā kiṃ tapasā kiṃ tyāgena śrutena vā /
+12. svārthasyākovidaṃ dhiṅ māṃ mūrkhaṃ paṇḍita-māninam /
+13. sevato varṣa-pūgān me urvaśyā adharāsavam /
+14. puṃścalyāpahṛtaṃ cittaṃ ko nv anyo mocituṃ prabhuḥ /
+15. bodhitasyāpi devyā me sūkta-vākyena durmateḥ /
+16. kim etayā no 'pakṛtaṃ rajjvā vā sarpa-cetasaḥ /
+17. kvāyaṃ malīmasaḥ kāyo daurgandhyādy-ātmako 'śuciḥ /
+18. pitroḥ kiṃ svaṃ nu bhāryāyāḥ svāmino 'gneḥ śva-gṛdhrayoḥ /
+19. tasmin kalevare 'medhye tuccha-niṣṭhe viṣajjate /
+20. tvaṅ-māṃsa-rudhira-snāyu- medo-majjāsthi-saṃhatau /
+21. athāpi nopasajjeta strīṣu straiṇeṣu cārtha-vit /
+22. adṛṣṭād aśrutād bhāvān na bhāva upajāyate /
+23. tasmāt saṅgo na kartavyaḥ strīṣu straiṇeṣu cendriyaiḥ /
+24. bhp_11.26.025/0 śrī-bhagavān uvāca
+
+## Corpus chain
+previous_story_id: DKS_0515 | next_story_id: DKS_0517
+previous title: The Miserly Brahmin of Avanti
+next title: Krishna Sends Uddhava to Badarikashrama

@@ -1,0 +1,122 @@
+# STORY DKS_0350 — Balarama Marries Revati
+
+## Index entry
+title: Balarama Marries Revati
+summary: Some days after the founding of Dwaraka, Baladeva weds Revati, the daughter of king Revata, with Rishabha's consent.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, Revati, Krishna
+locations: Dwaraka
+themes: marriage
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0229
+variant_notes: Harivamsha: weds Revati, daughter of king Revata; VP: after sporting two months in Vraja, marries Revati daughter of Raivata.
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 115 | verses  | confidence 4
+  excerpt: A few days after with Reshava's consent Baladeva acquired the good-natured daughter of Revata, by name Revati.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 25 | verses  | confidence 4
+  excerpt: Thus decorated, Ráma sported two months in Vraja, and then returned to Dwáraká, where the married Revatí, the daughter of king Raivata, by whom he had two sons, Nishat́ha and Ulmuka.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.115 ()
+TITLE: THE LAYING OUT OF DWARKA
+
+Vaishampayana said:—Thereupon when the sun rose in the clear morning,
+Hrishikesha, the descendant of Yadu, having performed his morning
+ablution and sat for some time at the outskirt of the forest, began to
+survey it for finding out a site where he would build a fortress. The
+principal members of the Yudu race followed him (1–2). Thereafter in an
+auspicious day under the auspices of the planet Rohini he offered
+immense presents to the Brāhmanas and made them perform benedictory
+rites. He then commenced the work of the building of the fort. Thus when
+the construction of the fort was taken in hand, like unto Indra
+addressing the gods, the lotus-eyed slayer of Keshi, the foremost of
+creators, said to the Yadavas (3–4). "O ye Yādavas, behold the site that
+I have selected like unto the very abode of the gods. I have also
+selected the name under which it will be celebrated on earth (5). I am
+laying out courtyards, promenades, well-levelled roads and inner
+appartments, all those marks, for which this city of mine will be
+celebrated on earth by the name of Dwāravati like unto Indra’s Amarāvti
+(6-7). Taking Ugrasena before you and putting impediments in the ways of
+your enemies do you enjoy here shorn of anxiety like the celestials (8).
+Let all of you take lands for building houses; let gardens and crossings
+of four roads be laid out and let a survey of roads and walls be taken
+(9). Let artizans, expert in building houses and masons be sent round
+the country."
+
+Thus accosted the Yādavas gladly selected sites for building their own
+houses. O king, some of the Yadavas engaged in measuring their own lands
+with ropes and some of them began to worship the tutelary deity by
+adorning the Brahmanas on that auspicious day.
+
+Thereupon the high-minded Govinda said to the masons:—"Do ye build for
+me a temple for my tutelary deity, well laid out with courtyards and
+roads" (10-14). Having said "So be it" to the mighty-armed Krishna, the
+masons collected all the materials for building the fort and began to
+lay out the gate and the boundary line. Temples, in proper places, were
+built for Brahmā, the god of sacrifices, Indra, the presiding deities of
+fire and water and other gods. They then constructed the four gates of
+the temples (namely Shudrāksha, Aindra, Bhallāta and Pushpadantāka.)
+Thus when the houses of the high-souled Yadavas were constructed,
+Mādhava thought of laying out the city very soon. Thereupon there arose
+by accident a pure intellect in his mind conducive to the well-being of
+the Yadavas and of the city, by which, he could soon lay out the city.
+(He thought) that Prajāpati’s son, the powerful Viswakarmā, the foremost
+of architects, would construct the city. Thereupon, seated in a solitary
+place with his face directed towards the celestial region Krishna
+thought of Viswakarmā, in his mind, so that he might come there (15–21).
+In the meantime the highly intelligent celestial architect, Viswakarma,
+the foremost of gods, came there and stood before Krishna (22).
+
+Viswakarma said:—"O Vishnu of firm vows, despatched speedily by the king
+of gods, this thy servant has arrived here; what command am I to carry
+out (23)? O god, thou art adorable unto me as the grand-father (Brahmā)
+and the three-eyed deity (Siva). O lord, there is no difference amongst
+the three (24). O thou of large arms, do thou gladly issue command to me
+as thou dost order the three worlds (25)."
+
+Hearing the humble words of Viswakarma, Keshava, the foremost of Yudus
+and the slayer of Kansa, replied, in incomparable words (26):—"O
+foremost of gods, you were also present there and listened to our
+counsels held in private for the behoof of gods. You are now to build a
+house for me here (27). O you of firm vows, do you build a city here for
+manifesting my own self and decorate it with houses befitting my power
+(28). You are an expert, O you of great intellect; what shall I tell you
+more. Build for me such a city that it may be celebrated on earth like
+Amarāvati; you are to build here such a house for me as I have in the
+celestial region so that the mortals may see the beauty of my city and
+of the Yadu race (29–30)."
+
+Thus accosted the intelligent Viswakarmā said to Krishna of unwearied
+actions, the destroyer of the enemies of the celestials (31). "O lord, I
+shall do all that thou hast ordered. But thy city will not sufficiently
+accommodate such a number of men. So very extensive should be thy city
+that even the four oceans, in their full forms, may range here (32–33).
+O foremost of Purusas, if the ocean, of his own accord, gives a little
+more room then thy city may turn highly extensive (34)."
+
+Krishna, the foremost of orators, had already settled this. Therefore
+thus spoken to by the celestial architect he said to the ocean, the lord
+of rivers (37):—"O ocean, if you have any respect for me, then withdraw
+thy form in the water extending over twelve yojanas (36). If you give
+room, this city, abounding in wealth and enjoyments, 
+[...]
+
+### Vishnu Purana (Wilson 1840) 5.25 ()
+Balaráma finds wine in the hollow of a tree; becomes inebriated; commands the Yamuná to come to him, and on her refusal drags her out of her course: Lakshmí gives him ornaments and a dress: he returns to Dwáraká, and marries Revatí.
+
+WHILST the mighty Śesha, the upholder of the globe, was thus engaged in wandering amidst the forests with the herdsmen, in the disguise of a mortal--having rendered great services to earth, and still considering what more was to be achieved--Varuńa, in order to provide for his recreation, said to his wife Váruńí (the goddess of wine), "Thou, Madirá, art ever acceptable to the powerful Ananta; go therefore, auspicious and kind goddess, and promote his enjoyments." Obeying these commands, Váruní went and established herself in the hollow of a Kadamba tree in the woods of Vrindávana. Baladeva, roaming about, came there, and smelling the pleasant fragrance of liquor, resumed his ancient passion for strong drink. The holder of the ploughshare observing the vinous drops distilling from the Kadamba tree, was much delighted, and gathered and quaffed them along with the herdsmen and the Gopís, whilst those who were skilful with voice and lute celebrated him in their songs. Being inebriated with the wine, and the drops of perspiration standing like pearls upon his limbs, he called out, not knowing what he said, "Come hither, Yamuná river, I want to bathe." The river, disregarding the words of a drunken man, came not at his bidding: on which Ráma in a rage took up his ploughshare, which he plunged into her bank, and dragged her to him, calling out, "Will you not come, you jade? will you not come? Now go where you please (if you can)." Thus saying, he compelled the dark river to quit its ordinary course, and follow him whithersoever he wandered through the wood. Assuming a mortal figure, the Yamuná, with distracted looks, approached Balabhadra, and entreated him to pardon her, and let her go: but he replied, "I will drag you with my ploughshare in a thousand directions, since you contemn my prowess and strength." At last, however, appeased by her reiterated prayers, he let her go, after she had watered all the country. When he had bathed, the goddess of beauty, Lakshmí, came and gave him a beautiful lotus to place in one ear, and an earring for the other; a fresh necklace of lotus flowers, sent by Varuńa; and garments of a dark blue colour, as costly as the wealth of the ocean: and thus decorated with a lotus in one ear, a ring in the other, dressed in blue garments, and wearing a garland, Balaráma appeared united with loveliness. Thus decorated, Ráma sported two months in Vraja, and then returned to Dwáraká, where the married Revatí, the daughter of king Raivata, by whom he had two sons, Nishat́ha and Ulmuka.
+
+* * * * * * * * * *
+
+Footnotes
+
+* * * * * * * * * *
+
+## Corpus chain
+previous_story_id: DKS_0349 | next_story_id: DKS_0351
+previous title: Krishna's Sons and the Yadu Lineage
+next title: Krishna Defeats the Besieging Kings and Demons || Uddhava recalls how Krishna destroyed the hosts of Kala, Magadha (Jarasandha) and Shalva that besieged Dwaraka, and slew Shambara, Dvivida, Bana, Mura, Balvala, Dantavakra and others.

@@ -1,0 +1,32 @@
+# STORY DKS_0056 — Krishna Swallows the Forest Fire at Night
+
+## Index entry
+title: Krishna Swallows the Forest Fire at Night
+summary: As a forest fire surrounds the sleeping settlement at night, the villagers call on Krishna, who drinks up the fierce flames.
+life_stage: vrindavan | story_arc: vrindavan_childhood
+characters: Krishna, cowherds
+locations: Vrindavan
+themes: rescue, divine_power
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0077
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 17 | verses 20-24 | confidence 5
+  excerpt: When a blazing forest fire closes in on the sleeping Vraja, the terrified people cry out to Krishna, and the Lord, of boundless power, drinks the whole fire into himself. (rendered from Sanskrit, verse 20-24)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.17 (20-24)
+20. tadā śuci-vanodbhūto dāvāgniḥ sarvato vrajam /
+21. tata utthāya sambhrāntā dahyamānā vrajaukasaḥ /
+22. kṛṣṇa kṛṣṇa mahā-bhaga he rāmāmita-vikrama /
+23. su-dustarān naḥ svān pāhi kālāgneḥ suhṛdaḥ prabho /
+24. itthaṃ sva-jana-vaiklavyaṃ nirīkṣya jagad-īśvaraḥ /
+
+## Corpus chain
+previous_story_id: DKS_0055 | next_story_id: DKS_0057
+previous title: Krishna and Balarama Clear the Grove of Dhenuka's Kin
+next title: Pralamba Joins the Games in Disguise

@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0090",
+ "title": "The Gopis Praise Krishna's Flute",
+ "subtitle": null,
+ "story": "The flute came first — one thin, sweet sound cutting through the afternoon of Vrindavan — and the gopis knew at once who it was. The verses say the song awakened remembrance in them, the way a scent can. They did not run to see him. They stood still the way you stand still when a song has already reached you, and they began to speak of him to one another, friend to friend, because that is what the sound of Krishna's flute did to them. It made them remember.\n\nThey remembered how he had walked into the forest, and they told it back to each other as if the telling could hold him: the peacock feather in his hair, the golden-yellow cloth, the garland of forest flowers around his neck, his lips filling the hollow of the flute with their own sweetness, the cowherd boys gathered around him as he went, his fame running ahead of him like a herald. The verses call his music pleasing to every living thing, and then they let the gopis prove it, image by image.\n\n\"Look at the deer,\" they said to one another. \"Even the deer, who understand nothing, are blessed. They have stopped to listen, and they worship him with their eyes, and all they have to offer is their longing.\"\n\nThe women of heaven felt it too. In their flying chariots, high above the trees, they heard the song and went still, and the flowers fell loose from their hair, and they forgot, for a moment, everything they had been.\n\nThe cows stood with their ears lifted, drinking the music as if it were milk, and their calves forgot the milk still wet on their mouths and stood motionless, tears in their eyes, holding Govinda inside their hearts.\n\nThe birds in the trees, and the sages who had come to the forest, climbed the branches and closed their eyes and listened without a word. The rivers, hearing the song, slowed and broke their current, and reached out with arms of water to touch his feet, offering lotuses as their only gift.\n\nAnd above it all a single cloud drifted across the sun and stayed there, the verses say, like an umbrella held over Krishna and his friends as they walked the herds through the heat of the day.\n\nEven the hill felt it. Govardhana, they said, is the greatest of his servants, because his feet have touched it, and because it feeds him and his cattle with its water and its grass and its roots.\n\nSo the gopis went on, one to another, lost in remembrance. The music had gone out across the forest, and everything that heard it had answered — the deer, the rivers, the gods in the sky, the very hill. And the gopis, who loved him most of all, could only stand at the edge of it and tell each other what they had seen.",
+ "reflection": "The gopis do not praise the flute directly; they list everything the music has touched, and in that catalogue their own longing shows through. The song they describe asks nothing of the deer or the rivers or the hill, and yet every one of them answers — a quiet image of how devotion spreads without force.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "devotion",
+  "music",
+  "longing"
+ ],
+ "previous_story_id": "DKS_0089",
+ "next_story_id": "DKS_0091",
+ "next_story_tease": "And the longing the flute awakened would soon find a shape, as the young gopis rose before dawn to pray for Krishna himself.",
+ "hero_scene": "Krishna walking through the flowering forest with his flute at his lips, peacock feather in his hair and the cowherd boys around him, while the deer, the cows and the rivers all turn toward the sound.",
+ "visual_elements": [
+  "Krishna playing the flute",
+  "peacock-feather crown",
+  "golden-yellow garment and flower garland",
+  "cowherd boys",
+  "deer listening with raised heads",
+  "cows and calves with lifted ears",
+  "birds and sages silent in the trees",
+  "rivers reaching toward his feet",
+  "a single cloud as an umbrella",
+  "Govardhana hill",
+  "gopis standing apart in longing"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.21.1-19",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:31Z",
+  "source_event_id": "evt_0083"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

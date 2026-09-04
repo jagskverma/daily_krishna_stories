@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0143",
+ "title": "The Prison Doors Open",
+ "subtitle": "Krishna and Balarama free their parents",
+ "story": "The prison gates of the palace stood open, and the two brothers walked through them as though they had been waiting to do so all their lives.\n\nAll the years of Kamsa's reign those gates had held Vasudeva and Devaki — the couple whose children Kamsa had feared so much that he killed them one by one, and whose last two sons had been smuggled out of that very prison on the night of their birth. Krishna had been carried across the Yamuna in his father's arms while the rain fell and the river rose; Balarama had been taken to safety before him. The brothers had grown up in Gokula knowing their parents only as names, as a story, as the reason their lives had taken the shape they did. Now the arena was won, Kamsa was dead, and nothing stood between them and the cell where their mother and father had been bound all those years.\n\nThey found them still in bonds. Krishna and Balarama released Vasudeva and Devaki from their chains themselves, and then, before the parents could speak, the two brothers bowed and touched their feet — the full prostration of children before their elders, done with a care that made the guards who had held those cells for years look away.\n\nDevaki had spent her life afraid of these sons. She had been told, on the night of her wedding, that her eighth child would be the death of Kamsa, and she had watched Kamsa take her children from her, one after another, as they were born. She had lived with the terror that her sons would be found and killed, and with the stranger fear that if they lived, they would have to kill a king. Every fear she had carried through all the years of her imprisonment had been about these two young men who now knelt at her feet. And when she and Vasudeva raised them and held them, there was no fear left in the embrace. The parents knew, in that moment, who their sons were — that these were no ordinary boys, but the lords of the world — and knowing it, they embraced them without the smallest hesitation.\n\nThey remembered, too, the words Krishna had spoken to them at his birth, when the chains fell from their hands and he told them he would return when the time came. The promise had been kept. The child who had been given away in the night had come back a man, and he had come back to them first, before the throne, before the city, before anything else that victory might have claimed.\n\nVasudeva said little; there are reunions that words cannot carry. The chains lay on the floor of the cell, and the room that had been a cage for so many years had become, in the space of a few breaths, the place where a family stood whole. Outside, Mathura was still learning what freedom meant. Inside the prison, four people who had been parted by a tyrant's fear held one another, and the tyrant could not reach them anymore.",
+ "reflection": "The parents know their sons are the lords of the world, yet they embrace them simply as sons — knowledge does not make the reunion less intimate. And Krishna's first act after winning the city is not to claim it but to return to the prison his parents were kept in, as if that debt came before every other.",
+ "tradition_note": "The Vishnu Purana places the meeting with Kubja the maidservant on the way to the palace and tells the parents' release more briefly, adding that Vasudeva and Devaki bowed to Krishna, recalling what he had said at his birth. This story follows the Bhagavata's account.",
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Vasudeva",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "liberation",
+  "reunion"
+ ],
+ "previous_story_id": "DKS_0142",
+ "next_story_id": "DKS_0144",
+ "next_story_tease": "Freedom was given, but there was an older debt the brothers still had to confess.",
+ "hero_scene": "Krishna and Balarama releasing the chains from Vasudeva and Devaki inside the Mathura prison cell, then bowing to touch their parents' feet, the fallen shackles on the floor and tears in the parents' eyes.",
+ "visual_elements": [
+  "Krishna and Balarama bowing to touch their parents' feet",
+  "Vasudeva and Devaki freed from their bonds",
+  "the fallen chains on the prison floor",
+  "the old prison cell in Mathura",
+  "tears of reunion",
+  "an embrace without fear"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.44.49-50",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.20",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0147"
+ },
+ "editorial_status": "unreviewed"
+}

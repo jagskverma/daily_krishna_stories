@@ -1,0 +1,51 @@
+{
+ "id": "DKS_0206",
+ "title": "The Jest Unmade",
+ "subtitle": null,
+ "story": "Rukmini came to herself in Krishna's arms, and the first thing she understood was that the world had not ended — only her certainty in it.\n\nHe had lifted her from where she fell and was wiping her tears, and now, seeing her eyes open, he told her the truth at last. He had spoken in jest. He had wanted to see her face, he said — the face of a woman who loved him, trembling between love and anger. That face, he told her, was the supreme gain of a householder; no treasure in any house could equal it.\n\nShe looked at him for a long moment. Then Rukmini, who had been silent, spoke — and she did not scold him. She answered the jest as if it were the most serious question ever put to her.\n\nShe knew, she said, whom she had chosen. The kings he named were mortal lords with mortal power, and she had seen what became of such kings: Anga and Vainya, Jayanta, Nahusha and Gaya — men who had held the whole earth and, wanting only him, had laid their kingdoms down and walked into the forest. Even the guardians of the worlds, she said, carried tribute to his feet; sages who had laid aside punishment worshipped him in silence. At her own svayamvara his bow had spoken once and the kings had scattered like animals before a lion — and he had carried her off the way a lion carries off its share. Who else, after that, could she shelter under? Having once breathed the fragrance of his lotus feet, the fragrance that releases the sorrowful, what woman would choose any other refuge?\n\nLet her be a servant, she said, in the house of even one of his devotees, and she would count herself richer than any queen. A woman who does not love his feet is a living corpse — skin and bone dressed in finery — and she had no wish to be such a one. Let her love for him stand, in this world and the next. And as for his words: she did not hold them false. A wanton's heart runs after every new thing, but hers, once given, did not wander.\n\nKrishna heard her out, and when she finished he praised her — not her beauty, which every king at her svayamvara had already praised, but her faithfulness, and the vow she had kept. He had seen no wife like her, he said. At her own wedding, with all the kings of the earth gathered to claim her, she had ignored them and sent a brahmin to him in secret. She had never once complained of her brother's enmity, fearing that her words would wound him. She had sent a messenger to win her own husband; she had crossed a kingdom for him. And now, when he teased her, she had believed him — because she could not imagine that he would lie, even in play.\n\nWhatever she desired, he told her, she already held; he was hers, and his desire had nothing left to ask of her. Those who seek him only for the gifts of marriage, he said, are poor in fortune even when rich; but the devotion she had given him, given again and again, was of the kind that frees a soul from the world.\n\nThen the quiet returned to the chamber, and this time it was the right kind of quiet. The jest was unmade, the tears wiped away, and the two of them sat together in the peace that follows a storm — the peace of a house where everything has been said and forgiven.\n\nAnd the old account adds one last thing: as Krishna lived with Rukmini, so he dwelt in the homes of his other wives — the Lord of the universe, in each of their houses, simply a husband at home.",
+ "reflection": "Rukmini's long reply never argues with the jest; it simply tells who Krishna is, as if the teasing had asked her to say it aloud. And Krishna's answer is the rarer thing — he praises her not for beauty or rank but for the faithfulness of a choice made against the world.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "rukmini_and_marriages",
+ "characters": [
+  "Krishna",
+  "Rukmini"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "reconciliation",
+  "devotion",
+  "love"
+ ],
+ "previous_story_id": "DKS_0205",
+ "next_story_id": "DKS_0207",
+ "next_story_tease": "Ahead, at a wedding feast in Rukmi's city, a friendly game of dice would end in blood.",
+ "hero_scene": "Krishna raising Rukmini from the floor of the chamber and wiping the tears from her eyes as she wakes in his arms, the fallen jeweled fan still lying beside them.",
+ "visual_elements": [
+  "Krishna lifting Rukmini in his arms",
+  "tears wiped from her eyes",
+  "the fallen jeweled fan on the floor",
+  "Rukmini's face trembling between love and anger",
+  "the white couch of the inner chamber",
+  "the peace of reconciliation"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.60.28-58",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:42:35Z",
+  "source_event_id": "evt_0249"
+ },
+ "editorial_status": "unreviewed"
+}

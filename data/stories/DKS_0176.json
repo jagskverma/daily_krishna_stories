@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0176",
+ "title": "Krishna and Balarama Elude Jarasandha",
+ "subtitle": null,
+ "story": "Jarasandha, the king of Magadha, had marched on Mathura before, and every time the brothers who held the city had turned him back. He could not forgive it. Krishna and Balarama had slain the tyrant Kamsa and ended the reign that had kept Mathura in fear, and Jarasandha had sworn that the city would not stay theirs. Now he came once more, with an army so vast that it covered the plain like a rising flood. There would be no more turning back, he told his generals. This time the brothers would learn what it cost to defy him.\n\nAnd this time the two brothers did not wait to meet him. Krishna had already set the city's wealth moving — the herds and the treasure, carried away with the men he had chosen for the task. Then, with the enemy's vanguard in sight, he and Balarama abandoned whatever remained and ran. The two of them, who had faced every host the Magadha king could bring and never given ground, fled on foot as though terror had finally caught them. They did not look back. They did not slow down. They ran as men run when everything is lost.\n\nThe king of Magadha laughed out loud when he saw it. This was the pair who had broken his armies season after season; now they were running like startled deer, and their flight told him the long quarrel was ending at last. Jarasandha gave chase, and his soldiers chased with him, sure that nothing could save the brothers now. Krishna and Balarama ran until their breath burned and their legs would carry them no farther, and when they reached the great mountain that stood alone above the plain — Mount Pravarshana — they climbed, exhausted, and hid among its rocks and trees.\n\nJarasandha's men ringed the hill. They searched the slopes for footprints, for any trace of the two who had vanished into the scrub, and they found nothing at all. The king of Magadha did what besiegers do when the quarry will not come out: he set the mountain on fire. Flames raced up the grass and the dry brush, and the smoke rose in thick columns until the whole flank of Pravarshana burned like a torch. Let them burn with it, Jarasandha thought, and he turned his army toward home, certain that he had seen the last of them.\n\nBut on the burning slope, Krishna and Balarama were not waiting for the fire to reach them. They sprang from the blazing hillside and leapt eleven yojanas — an old measure of distance, and a leap so far that no eye could follow where they came down — landing beyond the ring of Jarasandha's soldiers, unseen, in the quiet darkness at the mountain's foot. While the smoke still climbed behind them, they made their way across the country and back to Dwaraka, their city by the sea, where their people had made their home behind walls of water that guarded them better than any wall of stone.\n\nBack in Magadha, Jarasandha told the story of how he had smoked the brothers out of Pravarshana and left them ashes, and he believed every word of it. What he did not know — could not know — was that the whole pursuit had been shaped from the beginning: the flight that looked like fear, the hill that looked like a trap, the fire that looked like an ending. Krishna and Balarama had chosen to be thought dead, because a king who believes his enemy is gone will stop looking. And so the brothers walked the streets of Dwaraka, unharmed and unlooked for, while the king of Magadha celebrated a victory that had never happened.",
+ "reflection": "Jarasandha's laughter is the hinge of the episode: he believes he has won because he saw the brothers run, and Krishna lets him keep the belief. The whole escape turns on an enemy defeating himself — the fire, the ashes, the triumphant return home all belong to a story that was never true, while the brothers slip, unseen, toward a city the sea will guard better than any army.",
+ "tradition_note": "The Bhagavata shows the brothers reaching their sea-girt city after eluding Jarasandha; the Harivamsha places the resolve to abandon Mathura and the founding of Dwaraka at this point in the story.",
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Balarama",
+  "Jarasandha"
+ ],
+ "locations": [
+  "Mt. Pravarshana",
+  "Dwaraka"
+ ],
+ "themes": [
+  "strategy",
+  "escape",
+  "deception"
+ ],
+ "previous_story_id": "DKS_0175",
+ "next_story_id": "DKS_0177",
+ "next_story_tease": "But in the fortress of Girivraja, twenty thousand captive kings were still waiting on their release.",
+ "hero_scene": "Krishna and Balarama leaping from the blazing slope of Mt. Pravarshana into the darkness far below, while above them the flames climb the hillside and Jarasandha's ring of soldiers searches; far off, a glimpse of the sea and the white walls of Dwaraka.",
+ "visual_elements": [
+  "Mt. Pravarshana ablaze",
+  "Krishna and Balarama leaping from the burning slope",
+  "Jarasandha's army ringing the hill",
+  "smoke rising in columns",
+  "the sea-girt city in the distance",
+  "escape and deception"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.52.1-13",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:38:03Z",
+  "source_event_id": "evt_0237",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "DKS_0204",
+  "title": "Seven Bulls and a Bride",
+  "subtitle": null,
+  "story": "The road from Indraprastha to Dwaraka was long, and it passed through kingdoms where Krishna's name was spoken with hatred. He was on his way home after his visit to the Pandavas. In Avanti, the princes Vinda and Anuvinda had long been devoted to Duryodhana, the proud prince who was the Pandavas' great rival, and their sister Mitravinda — the daughter of Krishna's own aunt — was to be given in marriage at a svayamvara, the gathering where a princess chooses her husband. The kings who gathered for it were his enemies, and the whole affair had been arranged, it seemed, to leave Krishna out of the reckoning entirely.\n\nHe did not stay out. Before the assembled kings could decide anything, Krishna lifted Mitravinda into his chariot and carried her off by force. The gathering that had been designed to keep her from him ended with the bride already gone, and the kings who had come to claim her were left shouting after a departing chariot. It was not a wooing; it was a taking, swift and complete, and Avanti learned that its gates and its alliances were no shield against Krishna.\n\nWord of it ran ahead of him. In Kosala, a different kind of test was waiting. King Nagnajit, a righteous king, had a daughter named Satya, and her fame had spread across the kingdoms because of the condition her father had set: no man could win her without first subduing seven bulls — fierce, untamable beasts that had already broken every suitor who had tried them.\n\nKrishna, hearing that Satya was to be won by taming bulls, went to Kosala. King Nagnajit rose from his seat and came forward to receive him with honor, and Satya herself, seeing Krishna, chose him in her heart — this, she knew, was the husband she had hoped for, the one her prayers had described. But her father was bound by his own promise. \"We made this agreement before all the world,\" Nagnajit said. \"These seven bulls are fierce, and beyond control. Subdue them, and my daughter is yours.\"\n\nKrishna bound up his garment and stepped into the pen. The bulls that had broken every suitor came at him — and he seemed to be everywhere at once, as if seven Krishnas stood in that pen, one for every bull. Ropes closed around them, and their pride and their strength gave way, until all seven stood roped and quiet, and the kings who had failed before him stared in silence.\n\nThe king of Kosala, amazed, gave Krishna his daughter. The queens of the palace rejoiced; conches and kettledrums sounded; there was singing and music, and the blessings of the brahmins rose over the courtyard. Krishna gave gifts in return — ten thousand cows, nine thousand elephants, and chariots in plenty — and then he placed Satya on his chariot, and with a great army around them, set out for Dwaraka.\n\nThe kings who had lost did not let them go quietly. When they heard that the bride was being led away, they raised a cry and loosed volleys of arrows at the chariot as it passed. Arjuna, the Pandava prince, riding with Krishna as a friend does, turned every shaft aside, and the bridal procession rolled on unharmed.\n\nSo Krishna came home to Dwaraka with two new brides: Mitravinda, carried off from the gathering at Avanti, and Satya, won fairly in the bull pen of Kosala. One kingdom had barred its gates to him; the other had set a test no man could pass. The gates were opened, and the test was passed — and the seven bulls of Kosala walked behind the chariot, a strange honor guard for the bride they had been set to keep from every other man.",
+  "reflection": "The two brides are won two different ways: Mitravinda is taken by force from an assembly built to exclude Krishna, while Satya is won openly, by meeting a test announced to every suitor. Nagnajit's condition shows a king who does not refuse Krishna but simply holds him to the same bargain as all the rest — and Krishna's answer to seven untamable bulls is not to kill them but to rope them, the quietest possible proof of strength.",
+  "tradition_note": "The Bhagavata presents Mitravinda's carrying off and Satya's bull-trial as one journey, though they were separate svayamvaras in separate kingdoms; the Harivamsha recalls the Satya episode separately.",
+  "content_note": null,
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 5,
+  "life_stage": "dwaraka",
+  "story_arc": "rukmini_and_marriages",
+  "characters": [
+    "Krishna",
+    "Mitravinda",
+    "Satya",
+    "Nagnajit"
+  ],
+  "locations": [
+    "Avanti",
+    "Kosala"
+  ],
+  "themes": [
+    "valor",
+    "marriage",
+    "strength"
+  ],
+  "previous_story_id": "DKS_0203",
+  "next_story_id": "DKS_0205",
+  "next_story_tease": "At home in Dwaraka, Rukmini was about to hear a strange account of the husband she had chosen.",
+  "hero_scene": "Krishna, his garment bound up, roping the last of seven great bulls in Nagnajit's pen while the king of Kosala watches astonished and Satya watches from the palace terrace.",
+  "visual_elements": [
+    "Krishna with garment bound up, roping bulls",
+    "seven subdued bulls standing roped and quiet",
+    "Nagnajit watching in amazement",
+    "Satya watching from the palace terrace",
+    "the ruined svayamvara of Avanti behind the story",
+    "valor and strength"
+  ],
+  "sources": [
+    {
+      "work": "Bhagavata Purana",
+      "reference": "10.58.29-55",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:35:00Z",
+    "source_event_id": "evt_0244",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "minor"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

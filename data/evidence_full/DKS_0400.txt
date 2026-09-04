@@ -1,0 +1,36 @@
+# STORY DKS_0400 — Duryodhana's Humiliation in Maya's Hall
+
+## Index entry
+title: Duryodhana's Humiliation in Maya's Hall
+summary: In the illusory assembly hall built by Maya, Duryodhana mistakes water for floor and falls; Bhima and the women laugh, and Duryodhana departs burning with shame and hatred.
+life_stage: pandava_period | story_arc: rajasuya_and_sisupala
+characters: Duryodhana, Bhima, Krishna, Yudhishthira
+locations: Indraprastha, Maya's assembly hall
+themes: pride, humiliation, enmity
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0380
+variant_notes: Duryodhana's humiliation follows the sacrifice; cf. bp10d_018.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 75 | verses 30-38 | confidence 5
+  excerpt: In the wondrous hall built by Maya, Duryodhana mistakes a crystal floor for water and lifts his garment, then falls where he thought the floor was, deceived by the illusion. Bhima and the women laugh despite the king's restraint, and Duryodhana, humiliated and blazing with rage, departs in silence, while Krishna remains silent, intent on relieving the earth's burden. (rendered from Sanskrit, verse
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.75 (30-38)
+30. ekadāntaḥ-pure tasya vīkṣya duryodhanaḥ śriyam /
+31. yasmiṃs narendra-ditijendra-surendra-lakṣmīr $ nānā vibhānti kila viśva-sṛjopakḷptāḥ &amp;tābhiḥ patīn drupada-rāja-sutopatasthe % yasyāṃ viṣakta-hṛdayaḥ kuru-rāḍ atapyat
+32. yasmin tadā madhu-pater mahiṣī-sahasraṃ $ śroṇī-bhareṇa śanakaiḥ kvaṇad-aṅghri-śobham &yasmin tadā madhu-pater mahiṣī-sahasraṃ $ śroṇī-bhareṇa śanakaiḥ kvaṇad-aṅghri-śobham &madhye su-cāru kuca-kuṅkuma-śoṇa-hāraṃ % śrīman-mukhaṃ pracala-kuṇḍala-kuntalāḍhyam
+33. sabhāyāṃ maya-kḷptāyāṃ kvāpi dharma-suto 'dhirāṭ /
+34. āsīnaḥ kāñcane sākṣād āsane maghavān iva /
+35. tatra duryodhano mānī parīto bhrātṛbhir nṛpa /
+36. sthale 'bhyagṛhṇād vastrāntaṃ jalaṃ matvā sthale 'patat /
+37. jahāsa bhīmas taṃ dṛṣṭvā striyo nṛpatayo pare /
+38. sa vrīḍito 'vag-vadano ruṣā jvalan niṣkramya tūṣṇīṃ prayayau gajāhvayam /
+
+## Corpus chain
+previous_story_id: DKS_0399 | next_story_id: DKS_0401
+previous title: The Rajasuya Completed
+next title: Shalva Wins the Flying City Saubha || Shalva, friend of the slain Shishupala, vows to destroy the Yadavas and wins from Shiva through austere penance the flying iron city Saubha, built by Maya.

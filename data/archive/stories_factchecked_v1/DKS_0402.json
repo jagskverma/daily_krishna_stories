@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0402",
+ "title": "Shalva Besieges Dwaraka",
+ "subtitle": null,
+ "story": "The noon sky over Dwaraka turned dark, and the people looked up to see a thing no one could name. It was not a cloud. It hung above their city — an iron city, dark as a storm, vast, moving slowly of its own will, with ramparts and towers and gates of its own. A piece of the night had come visiting in the middle of the day. Around it and behind it, the sky filled with the shapes of an army.\n\nShalva had come. He remembered the enmity of the Vrishnis: his friend Shishupala dead at the Rajasuya, his own defeat at Rukmini's wedding. He had brought his vengeance home in the form of Maya's city. Saubha moved over Dwaraka and opened itself, and everything it carried came down at once.\n\nWeapons first, in their hundreds. Then stones, and whole trees torn up by the roots and flung, and thunderbolts that struck the towers and split them, and serpents that rained hissing out of the sky, and showers of gravel that rattled on the roofs like hail. The gardens of Dwaraka, the famous groves and pleasure grounds where the city walked in the evening, were shredded. The gates were shattered, the walls dented, the palaces and ramparts and upper terraces cracked and smoking. The golden city by the sea was being pounded from above, and its people ran through the streets looking up at a doom that would not come down to fight them — only to torment them from the sky, where no arrow could reach and no wall could answer. What Shalva wanted was not the city but its courage, and he meant to break that too.\n\nTerror was Shalva's real weapon. A city can stand a siege on the ground, can man its walls and count its enemies and wait. It cannot easily stand a siege that hangs overhead and will not be reached — a moving mountain of iron that chose its spot in the sky and opened itself again and again. There was no front line to hold and no enemy to charge; only a darkness overhead that went on dropping ruin.\n\nThen a voice cut through the panic. Pradyumna, Krishna's son by Rukmini, had seen his people afflicted — seen his own people tormented — and he would not watch them break. He mounted his chariot and rode out into the open, and his cry rang over the streets: \"Do not fear!\" The cry passed from street to street, and where it passed, panic began to turn back into purpose.\n\nThe Yadava warriors heard it and rallied. Satyaki came out, and Charudeshna, and Samba, and Akrura with his younger brothers; and behind them the great archers, the leaders of the chariot troops, all those who had built Dwaraka's name in battle. They poured through the broken gates, horses straining, bows ready, and arrayed themselves against the iron city and the host that moved beneath it. The two hosts met in the shadow of the flying city, and the clash of it rolled over the sea like thunder.\n\nThe battle that followed was unlike any Dwaraka had fought, because the enemy did not stand on the earth. Saubha wheeled above them, loosing weapons and magic at will, now high, now low, and the Yadavas answered from below, chasing a foe that had no fixed place. Pradyumna, the son of Rukmini, met the illusions of the lord of Saubha with divine weapons of his own, arrow for illusion, until the sky over the city was a snarl of light and iron, and the ground beneath it was littered with the wreckage of the morning.\n\nAnd their lord was not among them. Krishna had gone to Indraprastha, summoned by Yudhishthira for the sacrifice, and the news of what hung over his city had not yet reached him. His people fought on without him, under a sky that would not stop falling.",
+ "reflection": "Shalva's siege works precisely because it cannot be answered: terror from above has no face, no line of battle, no place to be met. The people's salvation is not a miracle but the courage of their own princes — Pradyumna's \"Do not fear\" is leadership as pure action, spoken only after he has already ridden into the open.",
+ "tradition_note": null,
+ "content_note": "Siege warfare with weapons, stones, trees and serpents raining on the city; described with restraint and no graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Shalva",
+  "Pradyumna",
+  "Satyaki",
+  "the Yadavas"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "siege",
+  "terror",
+  "war"
+ ],
+ "previous_story_id": "DKS_0401",
+ "next_story_id": "DKS_0403",
+ "next_story_tease": "But the omens had already reached Krishna in Indraprastha — he was on his way home.",
+ "hero_scene": "The iron city Saubha hangs over Dwaraka, raining rocks and serpents and blazing weapons onto shattered gates and gardens, while below Pradyumna rides out on his chariot, one arm raised, crying \"Do not fear!\" to the terrified people.",
+ "visual_elements": [
+  "the iron city Saubha darkening the noon sky over Dwaraka",
+  "weapons, stones, trees, serpents and gravel raining onto the city",
+  "shattered gates and smoking palaces and ramparts",
+  "people running through the streets, looking up in terror",
+  "Pradyumna on his chariot crying \"Do not fear!\"",
+  "Satyaki, Charudeshna, Samba and Akrura sallying forth",
+  "the Yadava archers arrayed against the flying city"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.76.7-16",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:41Z",
+  "source_event_id": "evt_0268"
+ },
+ "editorial_status": "unreviewed"
+}

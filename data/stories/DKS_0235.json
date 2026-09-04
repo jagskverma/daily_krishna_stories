@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0235",
+ "title": "The Vow Before Indra",
+ "subtitle": "Krishna returns the Parijata to heaven",
+ "story": "When Krishna carried the Parijata tree back to heaven, more came home than a tree. That very tree had once set him and Indra at war with each other — a quarrel that ended only when Kashyapa and Aditi, sent by Brahma, stopped the fighting, and the two gods bathed in the sacred river Jahnvi and made peace. A year of festival in Dwaraka had passed since then. Now Krishna set the tree back in the garden it had left, and in the court of heaven he bowed to Indra, then to Aditi and Kashyapa — a son's greeting at his parents' door. The court that had watched them fight now watched them stand together, and the sight carried its own peace.\n\nAditi received it exactly that way. After Krishna had bowed to her, she spoke. \"May you both always entertain such brotherly feeling,\" she said. \"You are to satisfy this desire of mine.\"\n\n\"It shall be so,\" said Krishna.\n\nThen, having honored his parents, he turned to the king of gods, and his words changed the mood of the meeting. \"O king of gods,\" he said, \"I have been commanded by Shiva to destroy all the unslayable Danavas who live on earth. From today, within ten days, I will kill all those Asuras. At the time of that battle, Pravara, together with the heroic Jayanta, must wait in the sky to slay the Danavas. Of them, one is a god in human form, and the other is the son of a god.\"\n\nIt was a strange vow, and Indra knew why. These Danavas — demons of an ancient line — were unslayable by the gods. They carried a boon from Brahma, and no weapon of heaven could touch them; that was why they had lived so long on earth, proud and untroubled. Yet here was Krishna promising to finish them within ten days, and asking that his two chosen watchers stand ready in the sky when he did — as though the ruin of the invincible were a thing that could be scheduled. The gods gathered closer at the words, for it was not every day that the lord who lived among mortals set a date for war. Indra had long known these Danavas as a burden heaven could not lift; now, for the first time, he heard someone promise to lift it.\n\nKrishna explained it plainly. \"Although those Danavas, proud of the boon conferred on them by Brahma, cannot be killed by the gods,\" he said, \"we will kill them, for I am now a man.\"\n\nThere was the whole secret, and it turned the vow from a boast into a promise. The boon that shielded the Danavas from every god left them helpless against a man — and Krishna, who had just spent a year at festival among mortals, spoke of that human form as his weapon. He was the man who would do what heaven could not, and the gods had only to watch the sky when the killing began.\n\nIndra, pleased, answered, \"So it will be.\" Then the king of gods and the lord of Dwaraka embraced — the quarrel over the Parijata finished at last with an embrace, and a different war agreed upon in the same breath, one to be fought on earth within ten days. Far below, the Danavas went on living as though no such promise existed. The ten days had begun to run, and the earth did not yet know it.",
+ "reflection": "The vow's logic is the striking thing: the Danavas' invincibility is a gift from Brahma, and it is precisely that gift which makes them killable — by a man. Krishna speaks of his human form not as a weakness but as the one door the boon left open, and the embrace with Indra seals both reconciliation and war in a single moment.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Indra",
+  "Aditi",
+  "Kashyapa",
+  "Shiva"
+ ],
+ "locations": [
+  "heaven",
+  "Dwaraka"
+ ],
+ "themes": [
+  "vow",
+  "promise",
+  "return"
+ ],
+ "previous_story_id": "DKS_0234",
+ "next_story_id": "DKS_0236",
+ "next_story_tease": "Within those ten days, Krishna would be drawn to a sacrifice at Shatpura where the Danavas were already making demands.",
+ "hero_scene": "Krishna before Indra in the celestial city, one hand resting on the returned Parijata tree, as he vows to destroy the Danavas within ten days while Indra listens and Aditi looks on.",
+ "visual_elements": [
+  "the Parijata tree returned to the celestial city",
+  "Krishna saluting Indra, Aditi and Kashyapa",
+  "Aditi asking for lasting brotherly feeling",
+  "Krishna making his vow before the king of gods",
+  "the embrace of Krishna and Indra",
+  "grave, solemn mood turning warm"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.223",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:41Z",
+  "source_event_id": "evt_0305",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

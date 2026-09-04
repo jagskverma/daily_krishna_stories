@@ -1,0 +1,139 @@
+# STORY DKS_0202 — Krishna Marries Rukmini
+
+## Index entry
+title: Krishna Marries Rukmini
+summary: Rukmi founds the city of Bhojakata, and Krishna formally weds Rukmini in Dvaraka amid citywide celebration.
+life_stage: dwaraka | story_arc: rukmini_and_marriages
+characters: Krishna, Rukmini, Rukmi
+locations: Dvaraka, Bhojakata
+themes: marriage, celebration, honor
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0197
+variant_notes: VP 5.26 bundles Pradyumna's birth with the marriage; Harivamsha notes Rukmini as first wife and mother of ten sons.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 54 | verses 35-59 | confidence 5
+  excerpt: The disgraced Rukmi built the city of Bhojakata, vowing not to return to Kundina; Krishna brought Rukmini to Dvaraka and wed her with full rites, and there was a great festival in every house of the Yadu city. (rendered from Sanskrit, verses 35-59)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 116 | verses  | confidence 4
+  excerpt: When Rāma, with the Vrishni army, arrived at Dwārakā the powerful Keshavā duly espoused Rukshmini. ... The powerful Mādhava begat on her ten sons—all mighty car-warriors, namely the highly powerful Pradyumna ...
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 26 | verses  | confidence 4
+  excerpt: After the defeat of Rukmin, Krishńa married Rukminí in due form, having first made her his own by the Rákshasa ritual. She bore him the gallant Pradyumna, a portion of the deity of love.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.54 (35-59)
+35. kṛṣṇāntikam upavrajya dadṛśus tatra rukmiṇam /
+36. asādhv idaṃ tvayā kṛṣṇa kṛtam asmaj-jugupsitam /
+37. maivāsmān sādhvy asūyethā bhrātur vairūpya-cintayā /
+38. bandhur vadhārha-doṣo 'pi na bandhor vadham arhati /
+39. kṣatriyāṇām ayaṃ dharmaḥ prajāpati-vinirmitaḥ /
+40. rājyasya bhūmer vittasya striyo mānasya tejasaḥ /
+41. taveyaṃ viṣamā buddhiḥ sarva-bhūteṣu durhṛdām /
+42. ātma-moho nṛṇām eva kalpate deva-māyayā /
+43. eka eva paro hy ātmā sarveṣām api dehinām /
+44. deha ādy-antavān eṣa dravya-prāṇa-guṇātmakaḥ /
+45. nātmano 'nyena saṃyogo viyogaś casataḥ sati /
+46. janmādayas tu dehasya vikriyā nātmanaḥ kvacit /
+47. yathā śayāna ātmānaṃ viṣayān phalam eva ca /
+48. tasmād ajñāna-jaṃ śokam ātma-śoṣa-vimohanam /
+49. bhp_10.54.050/0 śrī-śuka uvāca
+50. prāṇāvaśeṣa utsṛṣṭo dviḍbhir hata-bala-prabhaḥ /
+51. ahatvā durmatiṃ kṛṣṇam apratyūhya yavīyasīm /
+52. bhagavān bhīṣmaka-sutām evaṃ nirjitya bhūmi-pān /
+53. tadā mahotsavo nṝṇāṃ yadu-puryāṃ gṛhe gṛhe /
+54. narā nāryaś ca muditāḥ pramṛṣṭa-maṇi-kuṇḍalāḥ /
+55. sā vṛṣṇi-pury uttambhitendra-ketubhir $ vicitra-mālyāmbara-ratna-toraṇaiḥ &amp;babhau prati-dvāry upakḷpta-maṅgalair % āpūrṇa-kumbhāguru-dhūpa-dīpakaiḥ
+56. sikta-mārgā mada-cyudbhir āhūta-preṣṭha-bhūbhujām /
+57. kuru-sṛñjaya-kaikeya- vidarbha-yadu-kuntayaḥ /
+58. rukmiṇyā haraṇaṃ śrutvā gīyamānaṃ tatas tataḥ /
+59. dvārakāyām abhūd rājan mahā-modaḥ puraukasām /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.116 ()
+TITLE: RUKSHMI ATTACKS KRISHNA AND IS DEFEATED
+
+Vaishampāyana said:—Hearing that his sister had been carried away by
+Krishna Rukshmi, filled with anger, promised before Bhishmaka saying "I
+shall not return to the city of Kundina without slaying Krishna and
+bringing back Rukshmini" (1–2). Saying this in anger the heroic Rukshmi
+get upon a car abounding in dreadful weapons and flags. And surrounded
+by a large army he speedily set out (3). Bhishmaka’s sons, the foremost
+of car-warriors, Krātha, Angshuman Shrutarvā, the valiant Venudāri, the
+kings of Deccan and other mighty car-warriors, headed by Kratha and
+Kaishika followed him (4-5). Having wended a great distance in anger
+they saw Govinda with his beloved wife near the river Narmada (6).
+Having kept his army there proud Rukshmi, in order to fight a duel of
+cars, went to the slayer of Madhu and pierced him with sixty four
+sharpened arrows. Janārddana too wounded him in return with seventy
+arrows (7-8). Although Rukshmi was very careful the highly powerful and
+valiant Mādhava cut off the standard of his car and the head of his
+charioteer from his body (6). Seeing him in difficulty the kings of
+Deccan, bent upon killing him, encircled Janārddana (10). The mighty
+armed Anshumāna struck him with ten arrows Shutarvā with five and
+Venudāri with seven (11).
+
+Thereupon when the energetic Govinda wounded the breast of Angshuman
+that king, in pain, sat down on his car (12). Thereafter having slain
+with four shafts the four horses of Shrutarvā Mādhava cut down
+Venudāri’s standard and and wounded his right arm (13). The very next
+moment he wounded Shrutava with five arrows who, in great-pain, sat
+down, holding the standard of the car (14).
+
+While Vāsudeva began thus to make a downpour of arrows, all the mighty
+car-warriors, Krātha, Kaishika and others ran towards him (15).
+Janārddana, in anger, cut off their arrows with his own. And although
+they were very careful he wounded them all (16). Having wounded all
+those kings with sixty four arrows that highly powerful one ran towards
+other angry kings (17). Beholding his army taking to their heels
+Rukshmi, filled with anger, wounded Keshava on the breast with five
+sharpened arrows, his charioteer with three such shafts and sundered his
+standard with a bent one (18-19). Piercing in anger, Rukshmi with sixty
+arrows Keshava cut off his bow although he was very careful (20). Taking
+up another such bow the energetic Rukshmi began to discharge celestial
+weapons for killing Keshava (21). Counteracting his weapons with his own
+the highly powerful Mādhava again cut off his bow and car with three
+arrows (22). Thus having his bow and car sundered the heroic and valiant
+king Rukshmi, taking up his sword and shield, jumped down from the car
+(23). Beholding him thus leap down Keshava, in anger, cut off his sword
+which fell down on the battle-field and pierced his breast with three
+winged arrows (24). Thereupon the mighty-armed king Rukshmi, resounding
+the whole earth, fell down unconscious like a mighty demon struck down
+by a thunderbolt (55). Thereupon Keshava began to assail other kings
+with his arrows. They however, beholding Rukshmi fallen, took to their
+heels (26).
+
+Beholding her brother lying down motionless on earth, Rukshmini, for his
+life, fell at Vishnu’s feet (27). Keshava took up her, embraced and
+consoled her. And then promising safety to Rukshmi he set out for his
+own city (28).
+
+On the other hand having vanquished Jarāsandha and others, the Vrishnis,
+headed by Rāma, gladly set out for Dwarka (29). After the departure of
+the lotus-eyed Keshava Shutarvā came to the battle-field, placed Rukshmi
+on his own car and took him to his own city (30). Being unable to bring
+back his sister and seeing his promise broken the haughty and sensitive
+Rukshmi did not like to enter into the city of Kundina (31). For his
+residence he built another city in the province of Bidharbha which is
+celebrated on earth under the name of Bhojakata (32). Residing in that
+city the highly powerful Rukshmi began to govern the southern districts
+and the mighty-armed king Bhishmaka lived in the city of Kundina (33).
+When Rāma, with the Vrishni army, arrived at Dwārakā the powerful
+Keshavā duly espoused Rukshmini (34). Thereupon as did Rāma lively
+happily with Sitā, as Purandara lived with Sachi, Puloma’s daughter so
+he enjoyed in the company of his sweet partner (35). That beautiful,
+good natured and chaste Rukshmini, endued with all accomplishments, was
+the first wife of Krishna (36). The powerful Mādhava begat on her ten
+sons—all mighty car-warriors, namely the highly powerful Pradyumna,
+Chārudeshna, Sudeshna, Sushena, Charugupta, the valiant Charuvaha,
+Chāruvinda, Suchāru, Bhadracharu and Chāru, the foremost of the strong
+and a daughter by name Chārumati. They were all masters of weapons,
+dreadful in battle and well read in religious lore and political science
+(37-39). The mighty-armed Madhusudana married seven other beautiful and
+accomplished maidens born i
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0201 | next_story_id: DKS_0203
+previous title: Krishna Defeats and Spares Rukmi
+next title: Krishna Weds Kalindi at the Yamuna

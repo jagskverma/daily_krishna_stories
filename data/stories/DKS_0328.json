@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0328",
+ "title": "Where Has Aniruddha Gone?",
+ "subtitle": null,
+ "story": "The weeping began in Aniruddha's palace and did not stop. Krishna's young grandson had vanished from his own home; how he had been taken, or by whom, no one in Dwaraka could say.\n\nHis wives and their companions wept in his empty rooms like ewes crying for a lost lamb. “Even under the protection of Krishna we are grieving,” they cried. “The gods themselves live without fear in the shelter of his arms — and yet his own grandson has been carried off. Who has stolen him away? Whoever did this has no fear left in the world, but he stands before the open teeth of Death.”\n\nTheir cries rose over the palace like the noise of ospreys crying in the sky, and the whole city heard. The Yadu chiefs rushed out of their houses as lions come from their caves when roused. “Krishna protects us completely,” they said to one another. “Why this fear, then? What is this uproar in Aniruddha's house?” The great war-bugle of Krishna's court was brought and sounded, and at its call the Yadavas — the warriors of Krishna's clan — assembled. They asked one another what had happened, and each answered with the little he had heard. The eyes of those grim warriors, red with anger, filled with tears; they sat and sighed, helpless.\n\nOnly one of them spoke. Viprithu, a Yadava chief, looked at Krishna — who sat sighing again and again — and said: “Krishna, foremost of men, why are you troubled? Your people live freely under the shelter of your arms. Leave the care of success and defeat to you, and even Indra, the king of the gods, sleeps peacefully. But your kinsmen are sunk in a grief they cannot measure. Save them. What is the cause of your worry? Why do you not speak? Do not sit brooding in silence.”\n\nKrishna sighed for a long time before he answered. “Viprithu, I have been anxiously thinking about this. Even thinking, I have not been able to settle anything — that is why I could not answer you. Hear the truth. Because of Aniruddha's captivity, every king on earth and all my friends will think me powerless. Once an enemy king named Shalwa carried off our king Ahuka himself, and we brought him back after a dreadful fight. And the demon Shamvara stole Pradyumna, Rukmini's child and my own son, while he was still a baby — but Pradyumna slew his captor and came home. Where has Aniruddha been taken? I do not remember ever feeling sorrow like this. And I will kill in battle, with all his people, the one who has set an ash-covered foot upon my head — who has dared to shame me so.”\n\nThen Satyaki, Krishna's kinsman and a trusted warrior, spoke: “Krishna, send spies in every direction to find Aniruddha. Let them search the earth with its mountains and forests. Let open and secret messengers be sent out on this work.”\n\nKing Ahuka heard, and acted at once. He gave the messengers horses and chariots. “Search every country on the earth and under it,” he ordered. “Go soon, on horseback. Search the mountains Rikshavan and Raivataka, covered with trees and creepers. Enter the gardens and forests without hesitation; look into every creek and corner. On horses and on elephants, find Aniruddha, the joy of the Yadavas.”\n\nThey went. They searched the mountains and the forests, the cities and the hidden places, the countries above the earth and below it — and they came home empty-handed. “We saw Aniruddha nowhere,” the messengers said. The great hall of Dwaraka fell silent again, heavier than before. The search was over, and the waiting had begun.",
+ "reflection": "Krishna's grief here is entirely human and undecorated: he admits he cannot settle his own mind and that he has never felt such sorrow. The passage is striking because the protector of the world does not stand above his family's anguish — he sits in the middle of it, sighing like everyone else.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Krishna",
+  "Viprithu",
+  "Satyaki",
+  "Ahuka",
+  "Aniruddha's wives"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "grief",
+  "search",
+  "family anxiety"
+ ],
+ "previous_story_id": "DKS_0327",
+ "next_story_id": "DKS_0329",
+ "next_story_tease": "The answer would come not from the search parties, but from a visitor descending from the sky.",
+ "hero_scene": "The great hall of Dwaraka at dusk: the Yadava chiefs gathered in silence, their eyes red with anger and tears, while Krishna sits apart, sighing again and again, the whole city's grief resting on one bowed figure.",
+ "visual_elements": [
+  "the weeping wives of Aniruddha in the palace",
+  "the Yadava chiefs rushing out like lions from caves",
+  "the great bugle of Krishna's court sounding the assembly",
+  "Krishna sitting silent and sighing amid the gathered Yadavas",
+  "messengers riding out with horses and chariots toward Rikshavan and Raivataka",
+  "the empty hall after the search parties return"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.268",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:07Z",
+  "source_event_id": "evt_0346",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

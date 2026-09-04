@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0447",
+ "title": "Krishna's Verdict on Ashvatthama",
+ "subtitle": null,
+ "story": "The son of Drona was brought in bound, and the camp came out to see him.\n\nArjuna led him up with a rope about him, dragging him along like an animal, his face averted, and the man who had captured him looked away from his own errand in disgust. It was an uncomfortable sight for everyone: the warrior who had crept into the camp by night and killed Draupadi's sleeping sons, now brought low before the very people he had wronged.\n\nBhima saw him and could not contain himself. \"Do not spare him, Arjuna!\" he cried. \"This unworthy son of a brahmin — kill him! For what is he but the kind of man who would strike the mad, the careless, the sleeping, children, women, the helpless — who feeds his own life on the lives of others? Such a one is a cruel wretch, and his death is the only good thing left in him.\" And Bhima reminded them all of the promise. \"You swore to Panchali that you would bring his head,\" he said, \"and I was listening when you swore it. Let this sinner die — this assailant, this slayer of his own kindred.\"\n\nKrishna heard it all — Bhima's fury and the vow he recalled, Draupadi's grief and what it demanded — and the tent waited for him to speak.\n\nBut Draupadi, who had more right than anyone to demand that death, could not bear the sight of him bound and dragged like cattle. She spoke, and her voice unsettled the certainties of the tent. Drona, she reminded them, had been the master of the secret science of weapons, the whole art of discharging and recalling them; and that blessed teacher lived on, she said, in the form of his son. \"Honor his family,\" she pleaded. \"Let his mother Gautami, devoted as she is to her husband, not weep for this.\"\n\nThe tent fell into the silence of two truths pulling against each other. Nakula and Sahadeva stood by, Satyaki and Arjuna waited, and Bhima, still burning, insisted that for such a man death itself was the only mercy. What was owed to the children who lay dead? What was owed to the mother who lived?\n\nThen Krishna, the four-armed one, who had heard Bhima's words and Draupadi's both, gave his judgment. \"A brahmin's unworthy son is not to be slain,\" he said, \"yet an assailant deserves punishment. Both are my ordinances; uphold them. Keep the promise you made to your beloved, and satisfy Bhima, Panchali, and me.\"\n\nArjuna understood what Krishna's heart intended. He stepped forward and, with his own hand, cut the jewel away from the head of Drona's son — the jewel along with the hair, so that the man who had thought to wear a warrior's glory walked away shorn and stripped of his treasure. Then Arjuna released him from his bonds and drove him from the camp.\n\nThe promise had asked for his head. What the camp saw was the jewel from that head, taken; the shaven scalp of a man who would never again be mistaken for a warrior; and a life, spared. The splendor of the child-killer was gone, struck down — as the old tellers would say — by the very children he had killed.\n\nThe camp watched him go, and no one cheered. Bhima's fury had its answer, Draupadi's tears had theirs, and the vow that had sent Arjuna riding into the night had been kept in the only way that could keep them all: a punishment that took everything but life.",
+ "reflection": "Krishna's judgment holds two ordinances together — the law that forbids slaying even an unworthy brahmin's son, and the law that an assailant must not go unpunished — and resolves them by making the punishment public and complete without making it fatal. The promise is kept in a way no one had imagined: not the head, but the honor the head carried, forfeited.",
+ "tradition_note": null,
+ "content_note": "The episode turns on Ashvatthama's killing of the sleeping children, recalled without detail; his punishment is humiliation rather than violence.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Ashvatthama",
+  "Draupadi",
+  "Bhima"
+ ],
+ "locations": [
+  "the Pandava camp",
+  "Hastinapura"
+ ],
+ "themes": [
+  "justice",
+  "mercy",
+  "dharma",
+  "punishment"
+ ],
+ "previous_story_id": "DKS_0446",
+ "next_story_id": "DKS_0448",
+ "next_story_tease": "On the field where the war had ended, Bhishma still lay on his bed of arrows, waiting for the sun to turn north.",
+ "hero_scene": "In the lamplit tent, Krishna stands between Bhima's fury and Draupadi's plea, one hand raised, while Arjuna kneels before the bound Ashvatthama, cutting the jewel away with a lock of his hair.",
+ "visual_elements": [
+  "Arjuna leading the bound, averted-face Ashvatthama to the camp",
+  "Bhima pointing at the captive, urging death",
+  "Draupadi pleading for mercy with Krishna listening",
+  "the brothers and Satyaki gathered in the tent",
+  "Krishna's raised hand pronouncing the judgment",
+  "Arjuna cutting the jewel and hair from Drona's son",
+  "the shorn Ashvatthama walking out of the camp"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "1.7.32-56",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:00Z",
+  "source_event_id": "evt_0413"
+ },
+ "editorial_status": "unreviewed"
+}

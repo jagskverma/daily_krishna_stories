@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0496",
+ "title": "Krishna Substitutes an Iron Statue for Bhima",
+ "subtitle": null,
+ "story": "The blind king of Hastinapura was coming to meet the men who had killed his sons — and he was coming with open arms.\n\nThe war was over. King Dhritarashtra, whose hundred sons lay dead on the field of Kurukshetra, had set out from his city, grief weighing on him like a stone. It should have been a simple meeting — a nephew going to comfort an uncle — but the whole court watched it with a dread no one spoke aloud. Yudhishthira, now king in his place, heard that his uncle was coming and went out to meet him, taking his brothers and Krishna with him, and Yuyudhana of the Vrishnis and Yuyutsu, the one son of the old king who had fought beside the Pandavas. Draupadi, wife of the five brothers, followed, burning with grief. On the banks of the Ganga they found the ladies of the Bharata court, weeping like a flight of ospreys, their arms raised in anguish, crying out that the king's righteousness was nowhere to be seen, that truth and compassion had gone from the world while fathers and brothers and teachers and sons and friends lay slain. Yudhishthira passed through them in silence and saluted his uncle's feet, and his brothers announced themselves, each giving his own name.\n\nDhritarashtra embraced Yudhishthira — a reluctant embrace, brief, with a few words of comfort — and then he asked for Bhima. His grief had kindled into something else: a fire, the story says, fanned by the wind of his sorrow, ready to burn everything that came near it, and Bhima most of all. He wanted the man who had killed his son Duryodhana. He wanted to hold Bhima in his arms.\n\nAnd Krishna knew it. He had known it from the very outset — that was why an iron statue of Bhima, made long ago at Duryodhana's order, had been kept ready. Before the embrace could happen, Krishna quietly drew the real Bhima away and set the statue in his place. The blind king, told that Bhima stood before him, seized it with both arms, thinking it to be Bhima himself in flesh and blood.\n\nThe strength of Dhritarashtra was the strength of ten thousand elephants. He crushed the iron Bhima as if it were a reed, shattering it into fragments. But the blow recoiled on him: his own breast was bruised and broken, and blood poured from his mouth. Covered in blood, he fell to the ground like a great flowering tree brought down by the weight of its own blossoms. His charioteer Sanjaya ran to him, raised him, and steadied him. \"Do not act so,\" Sanjaya said. And the old king, his wrath spent at last, wept aloud: \"Alas, oh Bhima — alas, oh Bhima!\"\n\nOnly then did Krishna speak. \"Do not grieve, Dhritarashtra,\" he said. \"You have not slain Bhima. That was an iron statue you broke. I saw the rage in you, and I dragged Bhima out of the jaws of Death. There is none equal to you in bodily strength — what man could endure the pressure of your arms? As no one escapes Death itself with his life, so no one comes out safe from your embrace. That statue, made by your son, had been kept ready for this moment. Grief for your sons has pulled your mind away from righteousness, and in that darkness you sought to slay Bhima. But what good would his death have done you? Your sons will not be revived by it. Accept what we have done for the sake of peace, and do not set your heart on grief.\"\n\nBhima, who had stood within an arm's length of death, was alive. And on the banks of the Ganga he stood among his brothers — the real Bhima, in flesh and blood — while the blind king wept out his grief and his wrath together.",
+ "reflection": "Krishna's mercy here works in two steps: he lets the king's rage spend itself against iron rather than flesh, and only then tells the truth. The substitution saves Bhima; the timing saves Dhritarashtra, who is allowed to discover that he is not a murderer and that his grief is not, in the end, a weapon.",
+ "tradition_note": null,
+ "content_note": "A grieving king crushes an iron statue in his embrace, wounding his own breast and vomiting blood; intense but not graphic.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "Dhritarashtra",
+  "Bhima",
+  "Yudhishthira",
+  "Sanjaya"
+ ],
+ "locations": [
+  "Kurukshetra",
+  "banks of the Ganga"
+ ],
+ "themes": [
+  "protection",
+  "foresight",
+  "compassion"
+ ],
+ "previous_story_id": "DKS_0495",
+ "next_story_id": "DKS_0497",
+ "next_story_tease": "The old king's wrath was spent, but his grief still needed one more word from Krishna.",
+ "hero_scene": "On the banks of the Ganga, the blind king Dhritarashtra crushes an iron statue of Bhima in his terrible embrace, shattering it into fragments as blood pours from his own mouth, while Krishna stands quietly nearby with the real Bhima held back, and the weeping ladies of the Bharata court look on.",
+ "visual_elements": [
+  "the banks of the Ganga",
+  "the blind king Dhritarashtra crushing an iron statue in his embrace",
+  "the statue shattering into fragments",
+  "blood pouring from the king's mouth",
+  "Krishna standing calmly with the real Bhima held aside",
+  "grieving Bharata ladies with raised arms"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "11.12",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:15:06Z",
+  "source_event_id": "evt_0509",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

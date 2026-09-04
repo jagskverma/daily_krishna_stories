@@ -1,0 +1,99 @@
+# STORY DKS_0479 — Krishna Points Out Karna's Rampage and Urges Arjuna
+
+## Index entry
+title: Krishna Points Out Karna's Rampage and Urges Arjuna
+summary: Krishna, as Arjuna's charioteer, shows Arjuna how Yudhishthira is being pursued and how Karna is ravaging the Pandava army, urging him to advance and slay Karna.
+life_stage: kurukshetra | story_arc: kurukshetra_war
+characters: Krishna, Arjuna, Karna, Yudhishthira
+locations: Kurukshetra
+themes: war counsel, urgency, duty
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0473
+variant_notes: 
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 8 | chapter/section 60 | verses  | confidence 4
+  excerpt: Meanwhile Krishna, pointing out king Yudhishthira the just, unto Kunti's son Partha, addressed him in these words: 'Yonder, O son of Pandu, your brother (Yudhishthira) is being pursued by many mighty and great bowmen... Righteously setting thy heart on battle, advance against that leader of car-warriors.'
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 8.60 ()
+"Sanjaya said, 'Meanwhile Krishna, pointing out king Yudhishthira the
+just, unto Kunti's son Partha, addressed him in these words: "Yonder, O
+son of Pandu, your brother (Yudhishthira) is being pursued by many mighty
+and great bowmen amongst the Dhartarashtras, all inspired with the desire
+of slaughtering him. The mighty Pancalas, difficult of defeat in battle,
+are proceeding after the high-souled Yudhishthira from desire of rescuing
+him. Yonder, Duryodhana, O Partha, the king of the whole world, clad in
+mail and accompanied by a large car force, is pursuing the Pandava king.
+Impelled by the desire of slaughtering his rival, the mighty Duryodhana,
+O tiger among men, is pursuing him, accompanied by his brothers, the
+touch of whose weapons is as fatal as that of poisonous snakes and who
+are all conversant with every mode of warfare. Those Dhartarashtra
+elephants and horses and car-warriors and foot-soldiers are advancing to
+seize Yudhishthira like poor men after a precious gem. Behold, checked by
+Satyaki and Bhima, they have again been stupefied, like the Daityas, that
+desired to take away the Amrita, made motionless by Sakra and Agni. The
+mighty car-warriors (of the Kuru army), however, in consequence of the
+vastness of their numbers, are again proceeding towards Yudhishthira like
+a vast quantity of water in the season of rains rushing towards the
+ocean. Those mighty bowmen are uttering leonine roars, blowing their
+conchs, and shaking their bows. I regard Kunti's son Yudhishthira, thus
+brought under the influence of Duryodhana, to be already within the jaws
+of Death or already poured as a libation on the sacrificial fire. The
+army of Dhritarashtra's son, O Pandava, is arrayed and equipped duly.
+Sakra himself, coming within the range of its arrows, can scarcely
+escape. Who will in battle bear the impetuosity of the heroic Duryodhana
+who shoots showers of arrows with the greatest celerity and who, when
+angry, resembles the Destroyer himself? The force of the heroic
+Duryodhana's shafts, or Drona's son's or Kripa's or Karna's would break
+down the very mountains. That scorcher of foes, viz., king Yudhishthira,
+was once compelled by Karna to turn his back upon the field. The son of
+Radha is endued with great might and great lightness of hand. Possessed
+of great skill, he is accomplished in battle. He is competent to afflict
+the eldest son of Pandu in fight, specially when he is united with the
+mighty and brave son of Dhritarashtra. Of rigid vows, when the son of
+Pritha (Yudhishthira) had been engaged in battle with all those warriors,
+other great car-warriors had struck him and contributed to his defeat.
+The king, O best of the Bharatas, is exceedingly emaciated in consequence
+of his fasts. He is endued with Brahma-force, but the puissant one is not
+endued with much of Kshatriya-might. Assailed, however, by Karna, the
+royal son of Pandu, Yudhishthira, that scorcher of foes, hath been placed
+in a situation of great peril. I think, O Partha, that king Yudhishthira
+has fallen. Indeed, since that chastiser of foes, the wrathful Bhimasena,
+coolly heareth the leonine roars of the frequently shouting
+Dhartarashtra's longing for victory and blowing their conchs, I think, O
+bull among men, that Pandu's son Yudhishthira is dead. Yonder Karna urges
+forward the mighty car-warriors of the Dhartarashtras towards the son of
+Pritha with the weapons called Sthunakarna, Indrasjaha and Pasupata, and
+with clubs and other weapons. The king, O Bharata, must be deeply
+afflicted and exceedingly weakened, because the Pancalas and the
+Pandavas, those foremost of all wielders of weapons, are seen to proceed
+with great speed towards him at a time when speed is of the highest
+moment like strong men rushing to the rescue of a person sinking in a
+bottomless sea. The king's standard is no longer visible. It has probably
+been struck down by Karna with his shafts. In the very sight of the
+twins, O Partha, and of Satyaki and Shikhandi, and Dhrishtadyumna and
+Bhima and Satanika, O lord, as also of all the Pancalas and the Cedis, O
+Bharata, yonder Karna is destroying the Pandava division with his arrows,
+like an elephant destroying an assemblage of lotuses. There, those
+car-warriors of thy army, O son of Pandu, are flying away. See, see, O
+Partha, how those great warriors are retreating. Those elephants, O
+Bharata, assailed by Karna in battle, are flying away in all directions,
+uttering cries of pain. There those crowds of car-warriors, routed in
+battle, O Partha, by Karna, that crusher of foes, are flying away in all
+directions. Behold, O Partha, that foremost of standards, of the Suta's
+son, on his car, bearing the device of the elephant's rope, is seen to
+move all over the field. There, the son of Radha is now rushing against
+Bhimasena, scattering hundreds of shafts as he proceeds and slaughtering
+thy army therewith. There, those mighty car-warriors of the Pancalas are
+being routed (by Karna) even as the Daityas had been routed by Sakra in
+dreadful
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0478 | next_story_id: DKS_0480
+previous title: Krishna Urges Yudhishthira to Speak the Untruth
+next title: Krishna Advises Arjuna to See the Wounded King First

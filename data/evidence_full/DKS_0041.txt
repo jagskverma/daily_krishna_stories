@@ -1,0 +1,29 @@
+# STORY DKS_0041 — Krishna Notices the Twin Arjuna Trees
+
+## Index entry
+title: Krishna Notices the Twin Arjuna Trees
+summary: While his mother is busy, Krishna sees the two arjuna trees that were once the guhyaka sons of Kubera, Nalakuvara and Manigriva.
+life_stage: gokul | story_arc: vrindavan_childhood
+characters: Krishna, Nalakuvara, Manigriva
+locations: Gokula
+themes: curiosity, foreshadowing
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0049
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 9 | verses 21-22 | confidence 5
+  excerpt: Left to himself, Krishna catches sight of the twin arjuna trees, who in a former life had been Nalakuvara and Manigriva, the sons of Kubera. (rendered from Sanskrit, verse 21-22)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.9 (21-22)
+21. kṛṣṇas tu gṛha-kṛtyeṣu vyagrāyāṃ mātari prabhuḥ /
+22. purā nārada-śāpena vṛkṣatāṃ prāpitau madāt /
+
+## Corpus chain
+previous_story_id: DKS_0040 | next_story_id: DKS_0042
+previous title: Uddhava Recalls Krishna's Cowherd Childhood and Kamsa's Demons
+next title: Narada Curses Nalakuvara and Manigriva

@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0067",
+ "title": "A Bull the Colour of Rain",
+ "subtitle": null,
+ "story": "The first warning was a sound — a bellow that rolled across the grazing grounds of Vrindavan and set the herd moving before anyone understood why. Then the cattle saw what had made it, and they did not wait to be told. They scattered in every direction, lowing in fear, for standing at the edge of the pasture was a bull that was no bull.\n\nHe was the demon Arishta, come in the shape of a bull to break the cowherds' world. He was the colour of a cloud heavy with rain, with vast horns and eyes like two fiery suns. His tongue kept licking his lips, his tail stood erect, a hump of enormous size rose between his shoulders, his dewlap hung low at his throat, and his face was scarred from years of butting against trees. Wherever he planted a hoof, he tore up the earth. He had haunted the wild forests in this shape, destroying the hermits and ascetics who lived there, and now he had come to Vrindavan.\n\nThe cows fled, and the cowherds' cries went up. Krishna, the cowherd boy of Vrindavan, saw his people and their cattle driven to flight by the brute, and he did not run. He walked out onto the pasture and called the demon out, demanding how the lowest of beings dared terrorize the cowherds and their animals, and he slapped his arms together so that the sound rang across the grass, goading the bull on.\n\nArishta needed no goading. Enraged, he pawed the ground with his hoof, lowered the points of his horns, fixed his reddened eyes on Krishna, and charged.\n\nKrishna did not step aside. He stood where he was and waited for the bull to reach him, then met the rush, seized him by the horns, and flung him a full eighteen paces, so that the great demon landed in a heap on the earth. For a moment the cowherds must have thought the fight was over.\n\nBut Arishta rose again, and came again, more furious than before. This time Krishna caught hold of him by the horns and forced him down, pressing the great bull to the ground with his foot. And there, pinned beneath Krishna, the demon in him died — his legs kicked out, his eyes rolled and found no rest, and then he lay still.\n\nWhen it was over, the herdsmen glorified Krishna, and the gods rained flowers down on him from the sky. The cowherds sang of him as heaven had once sung of Indra's victory over the demon Jambha. The bull that had scattered the herd was finished. The people who had scattered gathered close around Krishna once more, and the cattle, one by one, came drifting back to graze, as if the pasture had already forgotten its fright.",
+ "reflection": "Arishta is not described as an army but as a single animal, and that is precisely what makes him frightening: he is terror of the ordinary, everyday kind, the thing that can scatter a herd in a heartbeat. Krishna meets him without weapons and without retreat, and the story's comfort is that the fear itself is what gets flung down and finished.",
+ "tradition_note": "The Vishnu Purana describes the killing differently: Krishna tears off one of the bull's horns and beats him to death with it, after wringing his throat like a wet cloth. The Bhagavata, followed here, has him fling the bull aside and press him to the ground. The two agree on the essentials.",
+ "content_note": "A bull-demon is slain; the fight is described with some force but not graphically.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "Arishta"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "demon-slaying",
+  "protection"
+ ],
+ "previous_story_id": "DKS_0066",
+ "next_story_id": "DKS_0068",
+ "next_story_tease": "But Kamsa had not finished with Vrindavan, and his next messenger would arrive in the shape of a horse.",
+ "hero_scene": "Krishna seizing the raging bull-demon Arishta by the horns and forcing him to the ground, the dark rain-cloud-coloured bull kicking beneath him while the frightened cattle scatter behind.",
+ "visual_elements": [
+  "Krishna",
+  "bull-demon Arishta",
+  "vast horns",
+  "hump of enormous size",
+  "scattering cattle",
+  "cowherds",
+  "grazing grounds",
+  "rain-cloud colour",
+  "fear and defiance"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.36.1-14",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.14",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:07:44Z",
+  "source_event_id": "evt_0119",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

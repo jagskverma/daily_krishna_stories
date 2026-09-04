@@ -1,0 +1,58 @@
+{
+  "id": "DKS_0203",
+  "title": "The Vow at the Yamuna",
+  "subtitle": null,
+  "story": "Krishna was a guest at Indraprastha, the Pandavas' new city on the Yamuna, and the days passed in friendship — feasts, long talks, and the easy company of Arjuna, one of the five Pandava brothers. One morning the two of them mounted Arjuna's chariot, the one that flew the monkey banner, took up their bows and armor, and rode out into the great forest to hunt. It was the pastime of princes, and they were good at it: tigers, wild boars, buffaloes, and antelope fell to their arrows, and the servants carried the best of the kill back to the city, for the king's table on the coming festival day.\n\nThe hunt ended at the river. The two friends bathed in the clear, slow water of the Yamuna, drank from it, and rested on the bank — and there, near the water's edge, they saw a maiden. She stood alone, graceful and lovely, with the stillness of someone who had been waiting a long time and had grown patient with it. Krishna sent Arjuna to her, to ask her name, and her family, and what it was she hoped for.\n\n\"I am Kalindi,\" she said, \"daughter of the Sun, and I live in the waters of the Yamuna. I have no other choice to make: I will take no husband but him in whom all beauty dwells.\"\n\nArjuna carried her words back to Krishna. She had not asked to be rescued, or claimed, or taken away. She had simply declared — with the calm of a vow kept for years — that her husband had been chosen long before he came. Her penance, her waiting in the river, had been for Vishnu himself, for the one her heart had settled on years ago, sight unseen: Krishna. The question Krishna had sent Arjuna to ask had been answered before it was even spoken.\n\nSo Krishna went to her, took her onto his chariot, and in time, at an auspicious hour when the season and the stars were favorable, married her. The wedding itself was quiet and complete: no armies, no gathering of suitors, no chase, no envoys, no long bargaining — a meeting by the water, a vow spoken plainly, and a wedding. She had chosen him with no expectation of being chosen in return, and her choice was honored. The daughter of the Sun came out of her long penance and into the household where Krishna lived, and she is remembered by the river's own name: Kalindi, the maiden of the Yamuna.\n\nThe Yamuna kept its part of the story. It had sheltered her through the years of waiting, held her in its waters, been the place where her resolve lived — and it was the place where the waiting ended. Some vows are answered by battles and miracles; hers was answered by a chariot stopping on a riverbank, and a question asked kindly of a stranger.",
+  "reflection": "Kalindi's vow is striking because it is entirely one-sided: she decides on a husband she has never met and then waits for him to appear. Her penance is not performed to earn a reward but to declare a choice, and the Yamuna, where she made her home, becomes the quiet witness of a devotion that asked for nothing but the chance to give itself.",
+  "tradition_note": null,
+  "content_note": null,
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 4,
+  "life_stage": "pandava_period",
+  "story_arc": "rukmini_and_marriages",
+  "characters": [
+    "Krishna",
+    "Kalindi",
+    "Arjuna"
+  ],
+  "locations": [
+    "Yamuna river",
+    "Indraprastha"
+  ],
+  "themes": [
+    "penance",
+    "marriage",
+    "devotion"
+  ],
+  "previous_story_id": "DKS_0202",
+  "next_story_id": "DKS_0204",
+  "next_story_tease": "On the road that led home to Dwaraka, another svayamvara was about to be interrupted.",
+  "hero_scene": "Krishna's chariot halted by the Yamuna at golden dusk, a graceful maiden in white standing at the water's edge, while Arjuna, sent ahead, approaches her through the reeds.",
+  "visual_elements": [
+    "chariot with the monkey banner by the river",
+    "Kalindi standing at the Yamuna's edge",
+    "Arjuna approaching with the question",
+    "clear slow water at dusk",
+    "the long stillness of waiting",
+    "penance and devotion"
+  ],
+  "sources": [
+    {
+      "work": "Bhagavata Purana",
+      "reference": "10.58.12-28",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:35:00Z",
+    "source_event_id": "evt_0375",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "minor"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

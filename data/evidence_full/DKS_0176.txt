@@ -1,0 +1,40 @@
+# STORY DKS_0176 — Krishna and Balarama Elude Jarasandha || Krishna and Balarama feign flight from Jarasandha, escape to Dvaraka over the sea, and Jarasandha falsely believes them burned.
+
+## Index entry
+title: Krishna and Balarama Elude Jarasandha || Krishna and Balarama feign flight from Jarasandha, escape to Dvaraka over the sea, and Jarasandha falsely believes them burned.
+summary: Krishna and Balarama feign flight from Jarasandha, escape to Dvaraka over the sea, and Jarasandha falsely believes them burned.
+life_stage: dwaraka | story_arc: jarasandha_and_kings
+characters: Krishna, Balarama, Jarasandha
+locations: Pravarshana hill, Dvaraka
+themes: strategy, escape, deception
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0237
+variant_notes: Cross-ref: Harivamsha resolve to abandon Mathura (hv_a_001) and the founding (bp10c_012/vp5_023_02).
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 52 | verses 1-13 | confidence 5
+  excerpt: Pursued by Jarasandha, Krishna and Rama fled on foot and climbed Mt. Pravarshana; Jarasandha set fire to the hill, but the two leapt down eleven yojanas and returned unseen to their sea-girt city, while Jarasandha wrongly believed them burned. (rendered from Sanskrit, verses 1-13)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.52 (1-13)
+1. saṃvīkṣya kṣullakān martyān paśūn vīrud-vanaspatīn /
+2. tapaḥ-śraddhā-yuto dhīro niḥsaṅgo mukta-saṃśayaḥ /
+3. badary-āśramam āsādya nara-nārāyaṇālayam /
+4. bhagavān punar āvrajya purīṃ yavana-veṣṭitām /
+5. nīyamāne dhane gobhir nṛbhiś cācyuta-coditaiḥ /
+6. vilokya vega-rabhasaṃ ripu-sainyasya mādhavau /
+7. vihāya vittaṃ pracuram abhītau bhīru-bhīta-vat /
+8. palāyamānau tau dṛṣṭvā māgadhaḥ prahasan balī /
+9. pradrutya dūraṃ saṃśrāntau tuṅgam āruhatāṃ girim /
+10. girau nilīnāv ājñāya nādhigamya padaṃ nṛpa /
+11. tata utpatya tarasā dahyamāna-taṭād ubhau /
+12. alakṣyamāṇau ripuṇā sānugena yadūttamau /
+13. so 'pi dagdhāv iti mṛṣā manvāno bala-keśavau /
+
+## Corpus chain
+previous_story_id: DKS_0175 | next_story_id: DKS_0177
+previous title: Krishna Grants Muchukunda His Boon || Krishna reveals himself to Muchukunda, who renounces all boons and asks only for devotion; Krishna grants him liberation in a future birth.
+next title: The Captive Kings Appeal to Krishna || A royal messenger arrives in Krishna's assembly and reports that Jarasandha has imprisoned twenty thousand defeated kings in Girivraja, who beg Krishna for release.

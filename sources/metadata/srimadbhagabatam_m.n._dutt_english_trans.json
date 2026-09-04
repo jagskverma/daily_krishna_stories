@@ -1,0 +1,19 @@
+{
+  "work": "Srimadbhagabatam (M.N. Dutt English translation, OCR)",
+  "translator": "Manmatha Nath Dutt",
+  "edition": "Calcutta: Elysium Press, 1895-96; archive.org OCR scans (Books 1-2: proseenglishtran12dutt; Books 7-12: india.history.resource.40625)",
+  "publication_year": 1896,
+  "download_url": "https://archive.org/download/india.history.resource.40625/40625_djvu.txt",
+  "download_date": "2026-09-01",
+  "format": "djvu.txt (OCR)",
+  "copyright_status": "public domain (translator died 1905)",
+  "license_notes": "PD translation; OCR is degraded/incomplete — kept as raw reference artifact only, NOT canonical",
+  "sha256": "07ba02b9b9426b71d94d8a097781adf90586fa1f656214336df67701c3d3f0e1",
+  "files": [
+    "bhagavata/dutt_srimadbhagabatam_books1-2_djvu.txt",
+    "bhagavata/dutt_srimadbhagabatam_books7-12_djvu.txt"
+  ],
+  "role": "reference artifact; OCR quality low, chapters missing/scrambled; NOT used for citations",
+  "quality": "OCR ~85-90% legible in body, incomplete chapter coverage (Canto 10: Kaliya/Govardhan absent)",
+  "confidence": 1
+}

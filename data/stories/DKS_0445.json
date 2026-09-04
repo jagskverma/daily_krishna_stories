@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0445",
+ "title": "Krishna Reports the Failure of Peace",
+ "subtitle": null,
+ "story": "Krishna's chariot rolled into Upaplavya, the camp of the five Pandava brothers, and the report of the peace mission came with it. He had gone to Hastinapura, the city of their cousins the Kauravas, to ask for peace in the name of the Pandavas, who hoped to win back the kingdom they had lost. Now he told them everything that had happened there, and sat long in consultation with them. Then, wearied, he went to his own quarters for rest.\n\nThe Pandavas sent away the kings who had gathered around them, with Virata, king of the Matsyas, at their head. When the sun had set they said their evening prayers, their hearts on Krishna. At last they brought him into their midst again and deliberated once more on what they should do. Yudhishthira spoke first, as one speaks to a refuge. \"Tell us all that you said to Dhritarashtra's son in the assembly of the Kurus,\" he said. \"Tell us every word of it.\"\n\n\"Having gone to Hastinapura,\" Krishna answered, \"I addressed Dhritarashtra's son in the assembly with words that were true, reasonable, and meant for his good. That wicked-minded fellow would not accept them.\"\n\nThe mission had failed. But Yudhishthira did not want the summary; he wanted everything. When Duryodhana chose the wrong path, what had the aged grandsire said — Bhishma, whose vow had once saved the Kuru line? What had Drona, their old teacher of arms, said? What had Duryodhana's own parents said — Dhritarashtra, the blind king of the Kurus, and Gandhari, his queen? What had Vidura said — the one they also called Kshattri, their father's younger brother, the wisest and most righteous man of the Kuru house, who grieved over the brothers' misfortunes as though they were his own sons? And what had all the kings who sat in that assembly said? \"Tell us all of it exactly as it happened,\" Yudhishthira said. \"You have already told us the disagreeable words of the Kuru chiefs, but they have slipped from my memory. I want to hear them again. You are our refuge, our lord, our guide.\"\n\nSo Krishna began, and the night closed over Upaplavya while he spoke. \"Hear, then, the words that were addressed to Duryodhana in the midst of the assembly of the Kurus, and bear them in mind. When my words were ended, Dhritarashtra's son laughed aloud.\"\n\nThat laugh had decided more than the assembly knew. Deeply angered, Bhishma rose and spoke for the preservation of their race. He reminded Duryodhana of the vow he himself had taken long ago. His father Shantanu, he said, had feared that with only one son the royal line would come to an end; so Bhishma had gone to the chief of the fishermen and asked for that chief's daughter, a girl named Kali, to be his father's second wife — and to win her he had bound himself by a promise that set aside his own claim to the throne forever. From Kali a half-brother was born to him, Vichitravirya by name. When Shantanu died, Bhishma set the young king upon the throne and served under him faithfully. And when Vichitravirya died and disorder seized the realm, the king of the gods held back the rain; the starving people, wasted by sickness, came and begged Bhishma to take the crown and save them. He refused. A vow, once taken, is kept.\n\nAnd now, Bhishma said, the line he had sacrificed his own kingship to preserve was being led toward ruin by the very prince who carried it.\n\nThe night stretched on, and Krishna's voice carried that whole assembly into the quiet camp — the laughter, the anger, the pleadings of parents, teacher, and grandsire, all the words that peace had not been able to make true. When at last the telling ended, nothing more remained to be said about peace, and the brothers knew what they would carry with them to the field of Kurukshetra.",
+ "reflection": "Yudhishthira's insistence on hearing the assembly's words exactly, even a second time, shows how much the telling matters on the eve of war: the brothers cannot move forward until they know precisely what was said and who said it. The failure of the mission becomes, in Krishna's retelling, a story the Pandavas will carry with them to the battlefield.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Yudhishthira",
+  "Pandavas",
+  "Duryodhana"
+ ],
+ "locations": [
+  "Upaplavya",
+  "Hastinapura"
+ ],
+ "themes": [
+  "diplomacy",
+  "truth",
+  "failure"
+ ],
+ "previous_story_id": "DKS_0444",
+ "next_story_id": "DKS_0446",
+ "next_story_tease": "Peace had failed, and the battles to come would bring Krishna to Arjuna's side once more.",
+ "hero_scene": "In the lamplit night at Upaplavya, Krishna sits in the midst of the five Pandava brothers and begins his report of the failed mission, while Yudhishthira leans forward, listening with fixed attention.",
+ "visual_elements": [
+  "Krishna's chariot arriving at Upaplavya",
+  "the Pandavas at evening prayers, hearts fixed on Krishna",
+  "Yudhishthira asking Krishna to tell everything that was said",
+  "Krishna seated among the five brothers, beginning his account",
+  "the lamplit night closing over the camp as the report goes on"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.147",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:06:11Z",
+  "source_event_id": "evt_0482",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

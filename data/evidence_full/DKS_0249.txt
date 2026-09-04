@@ -1,0 +1,101 @@
+# STORY DKS_0249 — Jvara Possesses Krishna; Krishna Expels Him || The released Jvara enters Krishna's body and enfeebles him; Krishna creates a dreadful counter-Jvara from his own energy, which seizes and drags the fever out of his body.
+
+## Index entry
+title: Jvara Possesses Krishna; Krishna Expels Him || The released Jvara enters Krishna's body and enfeebles him; Krishna creates a dreadful counter-Jvara from his own energy, which seizes and drags the fever out of his body.
+summary: The released Jvara enters Krishna's body and enfeebles him; Krishna creates a dreadful counter-Jvara from his own energy, which seizes and drags the fever out of his body.
+life_stage: dwaraka | story_arc: narakasura_and_gods
+characters: Krishna, Jvara
+locations: Sonitpura battlefield
+themes: possession, counter-creation, expulsion
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0350
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 271 | verses  | confidence 4
+  excerpt: Jvara... entered into it (Krishna's body)... Krishna... created a dreadful Jvara, highly terrible unto creatures... Catching hold, by force, of the former Jvara the one, created by Krishna, presented it before him... driven out that Jvara from his body
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.271 ()
+TITLE: KRISHNA’S BOON TO JVARA
+
+Vaishampāyana said:—Considering Jvara, assailed with his arms, dead
+Krishna, the slayer of enemies, threw him down on the surface of the
+earth. Released from his arms, Jvara, of incomparable energy, did not
+leave Krishna’s body but entered into it. Possessed by Jvara (fever) of
+incomparable energy Krishna had his movements slackened and repeatedly
+supported himself by touching the ground. He was possessed by sleep, his
+steps were slackened and his hairs stood erect. He repeatedly sighed and
+yawned. Thus possessed by weakness and yawning repeatedly the great
+Yogin Krishna, the victor of the enemy’s cities, regained his natural
+state after a long time (1-5).
+
+Thereupon knowing himself possessed by Jvara Purosottama created another
+for its destruction. With his energy, the energetic Janārddana, of
+dreadful power, created a dreadful Jvara, highly terrible unto
+creatures. Catching hold, by force, of the former Jvara the one, created
+by Krishna, presented it before him. Having thus driven out that Jvara
+from his body through one created by him the highly powerful and angry
+Vāsudeva struck him down on the ground and was about to tear him into
+pieces. Thereat Jvara, bewildered, said "O Janārddana, it behoveth thee
+to protect me." However while Krishna, of incomparable energy, was about
+to strike that Jvara on the ground an invisible voice was heard in the
+sky:—"O Krishna, O large-armed Krishna, the enhancer of the delight of
+the Yādavas, do not kill this Jvara. O sinless one, he is worthy of
+being protected by thee" (5–12). Thus addressed Hari, the lord of the
+past, future and present and the great preceptor of the world let Jvara
+off. Thereupon prostrating himself with bent head at Hrishikesha’s feet
+Jvara said:—"O descendant of Yadu, O Govinda, hear what I have to submit
+unto thee. Hear, O large-armed deity, what I have got in my mind and do
+thou accomplish it. O lord, I pray from thee for this boon only that I
+may be the only Jvara in this world and no one else may flourish." The
+lord said:—"It is proper to confer a boon on one who prays for it.
+Besides you have sought my protection. May you fare well therefore, O
+Jvara. You will have what you are praying for. As before you will be the
+only Jvara. May he, whom I have created, dissolve in me" (13–18).
+
+Vaishampāyana said:—Having said this the highly illustrious Krishna, the
+foremost of strikers, again spoke to Jvara:—"Hear, how you will range in
+the world, having spread yourself amongst the entire creation mobile and
+immobile. If you seek my pleasure divide yourself into three parts. With
+one do you possess the four-legged animals, with the second the immobile
+objects and with the third the human beings. And with the fourth portion
+of your third part you will always live in the midst of the birds.
+Dividing yourself into four parts namely appearing every day, after two
+days, three days and four days you are to live amongst mankind. Hear how
+you are to live amongst other creatures. In trees you will live in the
+shape of an insect and the disease that withers up the leaves and turns
+them pale; in the fruits you will live like Aturya disease; in the
+lotuses like frost, in the earth like a desert, in the water like
+Neelikā (a plant), in the peacocks like the growing of the tuft, in the
+mountain like mineral and in the cows like _Khoraka_ or a cow-disease;
+you will live on earth under these numerous forms. With your very view
+and touch the animals will be shorn of their lives. Only gods and men
+will be able to withstand you" (19-28).
+
+Vaishampāyana said:—Hearing the words of Krishna Jvara was delighted and
+with folded hands saluted him and said:—"O Mādhava, blessed I am for thy
+giving me soverignty over all creatures and objects. O Purusottama I
+wish now to carry out any other order of yours. O large-armed Govinda,
+order me what I am to do. Formerly I had been created by Hara the slayer
+of Tripura and of other animals. Now vanquished by thee in battle I have
+become thy servant. Thou art now my master (29–32)".
+
+Vaishampāyana said:—Hearing the words of Jvara Vasudeva said:—"Hear,
+what resolution I cherish at heart." Jvara said:—"O holder of discus, I
+have been favoured and blessed with what good thou hast done for me.
+Order me, what what pleasure of thine I may carry out." The lord
+said:—"O Jvara, the man, who having saluted me, will attentively read
+this account of prowess displayed only by our arms in the great battle,
+will be freed from fever." Thus addressed by Krishna, the foremost of
+Yadus, the highly powerful Jvara said:—"So be it." Having thus obtained
+the boon and promised, Jvara, saluting Krishna, left the battle-field
+(33–37).
+
+## Corpus chain
+previous_story_id: DKS_0248 | next_story_id: DKS_0250
+previous title: Krishna Grapples with Jvara || Krishna challenges Jvara and, bearing the demon's burning weapon and blows, grinds him with his arms in a fearful struggle.
+next title: Krishna Spares Jvara and Grants Him Boons || Commanded by an invisible voice, Krishna spares Jvara and grants him boons — that he alone be the world's fever, divided into forms to afflict beasts, plants and mankind.

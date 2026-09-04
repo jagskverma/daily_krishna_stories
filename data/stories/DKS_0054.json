@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0054",
+ "title": "Balarama and the Donkey Demon",
+ "subtitle": null,
+ "story": "The palm grove stood apart from the life of Vrindavan, the cowherd village where Krishna and his elder brother Balarama were growing up. No herd was ever taken there, and no boy gathered the fruit that lay rotting beneath the trees, for a demon guarded the grove and no one had ever stood against him. But now the cowherd boys had begged the brothers for that fruit — sweet and forbidden — and the brothers did not hesitate at the grove's edge. Balarama walked straight to the nearest palm and laid his arms to its trunk, and when he shook it, the ripe fruit came down in a shower.\n\nHe moved from tree to tree, and each one he shook let go of its fruit, until the ground began to fill with it, the fruit striking the earth in a steady, sweet rain. The boys must have laughed at the sound — the soft, quick drumming of fruit falling on fruit, the first time in anyone's memory that the grove had given anything away. For a little while it seemed almost innocent: nothing in it but sunlight, palms, and the smell of ripe fruit.\n\nBut the grove had a keeper, and he heard the noise. Deep among the trees dwelt the fierce demon Dhenuka in his donkey's form, feeding on the flesh of deer. He had kept this grove his own for as long as anyone could remember, and he did not share its fruit with anyone. The crashing of the falling fruit called him out of the deep grove, He came rushing through the palms in a fury — huge, and past all reasoning. He did not pause to measure his enemy or to cry a warning; he fell upon Balarama and kicked at him with his hind legs, putting all his strength into the blows.\n\nBalarama caught him by the hind legs. The verses say he whirled the donkey round with a single hand, as easily as play, until the creature expired, and then dashed him against a great palm tree. The tree, struck by that huge-headed body, trembled from crown to root, and the blow shook down fruit like rain poured upon the earth by the wind. Dhenuka fell lifeless to the ground.\n\nThe demon who had made men his food, whose very name had kept the whole of Vrindavan out of this grove, lay dead at the foot of the tree he had guarded all his days. It was no wonder, the verses add, for the one who did it is the infinite Lord of all the worlds. The boys watched in silence, and slowly the grove grew quiet again, until there was nothing left stirring in it but the last of the falling fruit.",
+ "reflection": "There is a strange gentleness in how the verse describes it: Balarama does not labor against Dhenuka, he simply catches him and lets the demon's own fury carry him to his end. The thing that had kept everyone away for so long turns out to be no match for a boy's ease.",
+ "tradition_note": "The sources differ on the details: the Bhagavata Purana has Balarama shake down the palms and make the kill himself, while the Vishnu Purana has both brothers shake the trees and names Rama (Balarama) alone as the slayer.",
+ "content_note": "A demon in donkey form is whirled and dashed against a palm tree; the violence is brief and not described in detail.",
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Balarama",
+  "Krishna",
+  "Dhenuka"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "courage",
+  "deliverance"
+ ],
+ "previous_story_id": "DKS_0053",
+ "next_story_id": "DKS_0055",
+ "next_story_tease": "But Dhenuka's kin came rushing to avenge him.",
+ "hero_scene": "Balarama whirling the donkey-demon Dhenuka by the hind legs with a single hand, hurling him against a great palm tree as ripe fruit shakes loose and rains down through the grove.",
+ "visual_elements": [
+  "Balarama",
+  "Dhenuka the donkey-demon",
+  "Krishna",
+  "cowherd boys watching",
+  "great palm tree trembling",
+  "ripe fruit raining down",
+  "palm grove",
+  "strength and ease"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.15.27-34",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.8",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:04:15Z",
+  "source_event_id": "evt_0066",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

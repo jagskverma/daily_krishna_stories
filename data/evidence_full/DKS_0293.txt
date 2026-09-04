@@ -1,0 +1,46 @@
+# STORY DKS_0293 — Krishna and Balarama Visit Bali in Sutala
+
+## Index entry
+title: Krishna and Balarama Visit Bali in Sutala
+summary: Krishna and Balarama descend to Sutala, where Bali, the daitya king, receives them with great devotion, and Krishna reveals the true origin of Devaki's six sons.
+life_stage: later_life | story_arc: dwaraka_royal_life
+characters: Krishna, Balarama, Bali, Devaki
+locations: Sutala
+themes: descent to the underworld, devotion, revelation
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0497
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 85 | verses 33-51 | confidence 5
+  excerpt: Entering Sutala by their yoga-maya, Krishna and Balarama are received by the daitya king Bali, who rises, bows, and washes their feet with his kin. Krishna then reveals that the six sons were once the six sons of Marichi, who laughed at Brahma and were cursed to be born as demons — the very children Kamsa killed, who now dwell nearby awaiting release. (rendered from Sanskrit, verse 33-51)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.85 (33-51)
+33. bhp_10.85.034/0 ṛṣir uvāca
+34. tasmin praviṣṭāv upalabhya daitya-rāḍ $ viśvātma-daivaṃ sutarāṃ tathātmanaḥ &amp;tad-darśanāhlāda-pariplutāśayaḥ % sadyaḥ samutthāya nanāma sānvayaḥ
+35. tayoḥ samānīya varāsanaṃ mudā niviṣṭayos tatra mahātmanos tayoḥ /
+36. samarhayām āsa sa tau vibhūtibhir mahārha-vastrābharaṇānulepanaiḥ /
+37. sa indraseno bhagavat-padāmbujaṃ bibhran muhuḥ prema-vibhinnayā dhiyā /
+38. bhp_10.85.039/0 balir uvāca
+39. darśanaṃ vāṃ hi bhūtānāṃ duṣprāpaṃ cāpy adurlabham /
+40. daitya-dānava-gandharvāḥ siddha-vidyādhra-cāraṇāḥ /
+41. viśuddha-sattva-dhāmny addhā tvayi śāstra-śarīriṇi /
+42. kecanodbaddha-vaireṇa bhaktyā kecana kāmataḥ /
+43. idam ittham iti prāyas tava yogeśvareśvara /
+44. tan naḥ prasīda nirapekṣa-vimṛgya-yuṣmat $ pādāravinda-dhiṣaṇānya-gṛhāndha-kūpāt &amp;niṣkramya viśva-śaraṇāṅghry-upalabdha-vṛttiḥ % śānto yathaika uta sarva-sakhaiś carāmi
+45. śādhy asmān īśitavyeśa niṣpāpān kuru naḥ prabho /
+46. bhp_10.85.047/0 śrī-bhagavān uvāca
+47. tenāsurīm agan yonim adhunāvadya-karmaṇā /
+48. devakyā udare jātā rājan kaṃsa-vihiṃsitāḥ /
+49. ita etān praṇeṣyāmo mātṛ-śokāpanuttaye /
+50. smarodgīthaḥ pariṣvaṅgaḥ pataṅgaḥ kṣudrabhṛd ghṛṇī /
+51. ity uktvā tān samādāya indrasenena pūjitau /
+
+## Corpus chain
+previous_story_id: DKS_0292 | next_story_id: DKS_0294
+previous title: Devaki Asks for Her Slain Sons
+next title: The Six Sons Restored to Devaki

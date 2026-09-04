@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0309",
+ "title": "Prabhavati's Sword",
+ "subtitle": null,
+ "story": "Kashyapa's warning was plain, and Vajranabha let it pass the way a dying man lets pass the medicine that could save him.\n\nWhen the great sacrifice of the sage Kashyapa ended, gods and Asuras went back to their own habitations, and Vajranabha — still set on conquering the three worlds — went to his father to press his claim. Kashyapa spoke to him as a father should. \"Indra is the eldest of you all and foremost in accomplishments: strong by nature, devoted to the Brahmins, grateful, the king of the whole world and the refuge of the good. He holds his sovereignty because he works for the well-being of all creatures. You cannot vanquish him; you will be killed. He who rouses a serpent meets his own destruction.\"\n\nVajranabha heard it all, saluted his father, and went home to gather kinsmen, warriors, and friends. His first march was against the celestial region itself.\n\nAt that very time Indra and Krishna had sent their swans into the city of Vajra to bring about the Asura's ruin. When the Yadava heroes heard the swans' intelligence, they consulted together: \"Vajranabha will be killed now, and by Pradyumna. But Vajranabha's daughter and Sunabha's two daughters are the devoted wives of our house, and all three are with child, near their time. What should we do?\" They sent the swans back to the two gods, and the gods answered: \"Have no fear. Your sons will be beautiful as Kama and complete in every accomplishment; even in the womb they will master the Vedas with their auxiliaries. They will spring at once to youth, and they will be masters of every scripture.\"\n\nThe swans brought the word back to the city of Vajra. In time Prabhavati bore a son, omniscient and youthful as his father; a month later Chandravati bore Chandraprabha, the very image of Gada; and Gunavati bore Gunavan, beautiful and equally omniscient. The three boys grew swiftly, mastering every shastra, and played along the high turrets of the palaces — where the Daityas posted in the sky could see them. What the spies saw they carried straight to Vajranabha, who was already preparing his war against heaven. \"Arrest them,\" said the Asura king, \"those who have trespassed into my house.\"\n\nAt his order soldiers closed every quarter of the city, and the cry went up on all sides: \"Arrest them — kill them.\" The young mothers, who loved their sons, began to weep in fear. Pradyumna steadied them: \"While we are alive and firm, you need not fear. The Daityas will not be able to touch us.\" Then he turned to the bewildered Prabhavati and laid the whole choice before her. \"Your father, your uncles, your brothers, and all your kinsmen are waiting with clubs in their hands. For your sake they deserve our respect and honor. But the time is dreadful, and the Danava kings mean to kill us. If we bear it, we shall die; if we fight, we shall succeed. Consult with your two sisters and tell us what we should do — we are under your orders.\"\n\nPrabhavati knelt, weeping, her hands on her forehead. \"Descendant of Yadu, slayer of your enemies, take up your arms and protect yourself. If you survive, you will see your wife and sons. Remember Rukmini and Aniruddha, and save yourself from this peril. A great rishi, effulgent as sun and fire, conferred on me a boon: that I would lead a blameless life, never be a widow, and that my sons would live. I have this hope — that his words will not be falsified.\"\n\nShe rose, rinsed her mouth, and took up a sword. Then the jewel of a woman placed it in Pradyumna's hands. \"Acquire victory,\" she said. Bending low, Pradyumna bowed his head to the blade and accepted it with joy. And Chandravati, delightedly, gave a sword to Gada; and Gunavati gave another such weapon to the mighty Shamba.\n\nSo the daughters of the Asura house armed the sons of the Yadava house — and the family that love had secretly joined turned, as one, to face the armies of its own blood.",
+ "reflection": "Prabhavati's choice is the heart of the episode: with her father's soldiers at the door, she answers by placing a sword in her husband's hands and trusting a sage's blessing over her own father's command. The story honors the women who stand between two worlds — and who, at the moment of crisis, choose the family they themselves have made.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Prabhavati",
+  "Pradyumna",
+  "Chandravati",
+  "Gada",
+  "Gunavati",
+  "Shamba"
+ ],
+ "locations": [
+  "city Vajra"
+ ],
+ "themes": [
+  "wife's devotion",
+  "arming",
+  "blessing"
+ ],
+ "previous_story_id": "DKS_0308",
+ "next_story_id": "DKS_0310",
+ "next_story_tease": "Sword in hand, Pradyumna turned toward the army gathering in the city's streets.",
+ "hero_scene": "In the lamplit hall, Prabhavati kneels and places a sword in Pradyumna's hands, her head bowed low to the blade as she whispers \"Acquire victory\" — while behind them Chandravati and Gunavati arm Gada and Shamba, and the city's soldiers close in outside.",
+ "visual_elements": [
+  "Prabhavati kneeling, offering the sword to Pradyumna",
+  "Pradyumna bowing his head to the blade",
+  "Chandravati and Gunavati arming Gada and Shamba",
+  "the weeping young mothers and their newborn sons",
+  "the armed household facing the city's soldiers"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.243",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:53:20Z",
+  "source_event_id": "evt_0325"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,107 @@
+# STORY DKS_0322 — Garuda Quenches Bana's Protective Fire || As Bana's city-fire blazes out and robs the Yadavas of their lustre, Garuda assumes a thousand mouths, drinks the etherial Ganga and showers it down to extinguish the flames.
+
+## Index entry
+title: Garuda Quenches Bana's Protective Fire || As Bana's city-fire blazes out and robs the Yadavas of their lustre, Garuda assumes a thousand mouths, drinks the etherial Ganga and showers it down to extinguish the flames.
+summary: As Bana's city-fire blazes out and robs the Yadavas of their lustre, Garuda assumes a thousand mouths, drinks the etherial Ganga and showers it down to extinguish the flames.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Garuda, Krishna, Baladeva
+locations: approach to Sonitpura
+themes: fire, elemental power, Garuda's might
+festival_tags: 
+age_sensitivity: mild_violence | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0341
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 264 | verses  | confidence 4
+  excerpt: Garuda... assumed a thousand mouths... drinking profuse water, he began to shower it on the fire... the fire was at once extinguished
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.264 ()
+TITLE: KRISHNA GOES TO SONITPURA AND FIGHTS WITH RUDRA’S
+
+FOLLOWERS ON THE WAY.
+
+Vaishampāyana said:—At that time with the sound of conch-shells and
+bugles, the songs of bards and panegyrists by thousands and blessings of
+men exclaiming victory Janarddana appeared like the moon, sun and Sakra.
+O king, when Vinatā’s son flew up into the sky his, beauty, increased by
+Hari’s energy, became immense (1-3). Desirous of killing Vāna the
+lotus-eyed Keshava assumed a form having eight arms and resembling a
+mountain. At that time Janārddana, the holder of Shranga-bow, assumed
+innumerable heads. In his four right hands he had sword, discus, club
+and arrows and by his left four hands he held the leathern protector,
+the Srānga-bow, the thunder-bolt and conch-shell. Seated on Garudha’s
+back, Sanghkarshana, holding a thousand forms and white weapons,
+irrepressible unto all creatures like the mount Kailāsha with its
+summit, shone like the rising moon. With a view to display his prowess
+in battle the high-souled Pradyumna assumed a form like that of
+Sanatkumār (4–8). Thereupon shaking innumerable mountains and
+obstructing the course of the wind with the forcible flapping of his
+wings the powerful Vinatā’s son went on. Endued with the speed of the
+mind he crossed the most sacred route of the Siddhas and Chāranas. At
+that time Rāma said to Krishna, incomparable in battle:—"O Krishna, what
+wonder is this that we have all on a sudden been shorn of our
+effulgence? We have all a golden hue. What is the cause? Have we come to
+the side of the mount Sumeru?" (9–12) The Lord said:—"Methinks, O slayer
+of thy enemies, Vāna’s city is near at hand. To protect him, the fire,
+stationed in his city, is coming out blazing. O holder of plough-share,
+we have been possessed by the effulgence of the fire of oblation: this
+has changed our colour." Rāma replied:—"If by approaching the city of
+Vāna we have been shorn of the lustre of our body, do what you think
+proper afterwards" (13–15). The Lord said:—"O Vinatā’s son, do what you
+think proper. After you have found out a means I shall do what I think
+proper" (16).
+
+Vaishampāyana continued:—Hearing those words spoken by Vāsudeva the
+highly powerful Garuda, capable of assuming forms at will, assumed a
+thousand mouths (17). Afterwards the highly powerful son of Vinatā
+leaped up and went to the etherial Gangā. Then drinking profuse water,
+he began to shower it on the fire. The intelligent son of Vinatā having
+concerted this measure the fire was at once extinguished. Then seeing
+that fire extinguished with the water of the etherial Gangā, Suparna,
+filled with surprise, said:—"Oh! How powerful is this fire like that at
+the end of a cycle. It disfigured the color of even the intelligent
+Krishna." After extinguishing the fire the king of birds, Garuda, went
+on making a great sound with the flapping of his powerful wings. Seeing
+them the fires, the followers of Rudra, thought:—"Who are these three
+dreadful men of many forms who are riding Garuda? Why have they come
+here?" Those fires of the mountain thought in this way for some, but
+could not settle anything. They then began to fight with the three
+Yadus. A great noise arose when they engaged in fighting (18-26).
+
+Hearing their great uproar like that of roaring lions the intelligent
+Chief of the Fires Angirā sent a man to the scene of the action saying
+"Soon proceed where the battle is raging." Another Asura, fleet like the
+mind, was quickly despatched by Vanā saying "Go and see what is the
+matter." Saying "So be it" the man at once started and saw the fires
+fighting with Vāsudeva. He saw that the five principal fire-gods,
+Kalmāsha, Kusuma, Dahana, Shoshana and the highly powerful Tapana well
+known in the offering of Swāha and other minor fire-gods were all
+fighting with their respective armies. Pithara, Pataga, Swarna, Agādha
+and Vraja, these five presiding gods of Swadhā were also fighting; the
+two highly effulgent fire-gods, in charge of Jyotisthoma and Vasatkāra,
+were also fighting. Ascending a fiery car the great saint Angirā,
+uplifting his effulgent mace, was shining in that battle-field, in the
+midst of fire-gods. Then beholding Angira discharge his sharpened
+arrows, Krishna, filled with anger, smiled again and again and said:—"O
+ye fire-gods, wait patiently a few moments. The time of your destruction
+is drawing near. Within a moment, consumed by the energy of my weapons,
+you shall have to fly away on all sides." Thereupon in that great
+battle, as if to take Krishna’s life Angirā ran with a burning Trishula
+in his hand. Then cutting off his mace with crescent-shaped and
+sharpened arrows the intelligent Krishna, effulgent like Yama, the
+destroyer of all creatures, struck Angirā on the breast with a
+death-like-arrow. Thereat Angirā fell down bathed in blood and with his
+body mangled. Seeing it the four fire-gods, the sons of Brahmā along
+with others speedily fled away to Vāna’s city (27–40).
+
+Thereupon seeing Vāna’s city from a distance Nārada said "B
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0321 | next_story_id: DKS_0323
+previous title: Narada's Riddle: Who Is Truly Great || When Narada cryptically hails Krishna as 'wonder and blessed' and Krishna answers 'presents', the puzzled kings ask the meaning; Narada recounts a journey from tortoise to Ganga, ocean, earth, mountains, Brahma, the Vedas and the Yajnas, each deferring to the next, until the riddle resolves in Vishnu with dakshina.
+next title: Krishna Strikes Down Angira and the Fire-Gods || Bana's fire-gods, led by the chief Angira, attack Krishna on the way, and Krishna, cutting off Angira's mace, fells him with an arrow, putting the rest to flight.

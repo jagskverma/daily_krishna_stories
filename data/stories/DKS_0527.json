@@ -1,0 +1,57 @@
+{
+  "id": "DKS_0527",
+  "title": "The Sun Krishna Has Set",
+  "subtitle": null,
+  "story": "When Vidura put his question — Vidura, the wise minister of the Kuru court, who had come down to the Yamuna to hear the story of Krishna from the man who had known him best — the silence that answered it lasted a long moment. Uddhava, who had served Krishna since he was five years old and had grown old in that service, seemed for a while to have forgotten that anyone was waiting. He sat on the bank of the river with his eyes closed, lost in the sweetness of remembering Krishna's feet, his limbs trembling with love, tears slipping from beneath his lids. Then, slowly, he wiped his eyes, and when he looked up he was smiling.\n\n\"The sun has set,\" he said. \"Krishna has set. What good news can I bring to houses stripped of their fortune? Wretched is this world, and more wretched still the Yadavas — who lived with him, ate with him, fought beside him, and never knew him.\"\n\nThis was the grief that had been gathering in Uddhava since the news of Prabhasa reached him. The Yadavas had been no ordinary clan. They were subtle men, masters at reading a glance, mature in counsel, devoted to Krishna alone. And yet his own magic had touched them; the very power by which he had walked among mortals had closed their eyes. They had lived inside the miracle and never once recognised it.\n\nNow that the miracle was over, memory came back to Uddhava in fragments he could not stop. He remembered the Rajasuya of King Yudhishthira — the great sacrifice at which the Pandava king had been crowned — when the three worlds had looked upon Krishna and found their eyes blessed by the sight. He remembered the love that spilled from Krishna's laughing glance during the rasa, the night-dance with the cowherd women of Vrindavan, the look that had given worth to everyone it fell on. Who among the gods, he asked, could ever forget the dust of his lotus feet? At that same sacrifice, even Shishupala — who had hated Krishna all his life — had reached perfection, drawn by that hatred into a fixed gazing at his enemy. And in the great battles, the heroes of the earth had fallen looking upon the lotus of Krishna's face.\n\nThat was the strangest part of his sorrow. Enemies had won release by fixing their minds on Krishna, however unwillingly. The whole world had been given the sight of him. Only his own kinsmen — the ones who had been closest — had been struck blind.\n\nHe spoke too of how the deathless one had taken birth in Vasudeva's house and played at being a child, and of how Krishna, before setting out on some errand, had bowed at his parents' feet. The memory choked him. \"Who could ever forget the dust of his lotus feet?\" he said again. \"And we — we lived our whole lives beside him.\"\n\nVidura listened and asked nothing more. Uddhava, wiping his eyes once more, drew a breath and began to tell it — the long tale that Vidura would carry away with him, and that would be told again and again long after both of them were gone.\n\nHe stopped once, and said something strange: that the man seated before him on the riverbank was no ordinary minister, but a soul without equal, a master of the three worlds whose every wish had already been granted. Vidura did not answer. In the world after Krishna, Uddhava seemed to be saying, even the greatest souls went disguised, and only love could recognise them.\n\nThe river moved past them, unhurried — the same river that had flowed past the village of his boyhood, where he had grown up among the cowherds. Uddhava's voice steadied as he spoke, as if the telling itself were a kind of returning. The sun had set, but the remembering had begun.",
+  "reflection": "Uddhava's sorrow is the sorrow of proximity without recognition: the Yadavas had what the whole world longed for and could not see it. The Bhagavata frames its telling through his grief, as if the story of Krishna can only be told properly by someone who has first understood what it cost to be near him and to know him only after he was gone.",
+  "tradition_note": null,
+  "content_note": null,
+  "estimated_read_minutes": 5,
+  "estimated_audio_minutes": 5,
+  "life_stage": "other",
+  "story_arc": "krishna_departure",
+  "characters": [
+    "Uddhava",
+    "Vidura"
+  ],
+  "locations": [
+    "the bank of the Yamuna"
+  ],
+  "themes": [
+    "grief",
+    "remembrance",
+    "separation",
+    "frame narrative"
+  ],
+  "previous_story_id": "DKS_0526",
+  "next_story_id": "DKS_0528",
+  "next_story_tease": "Far to the west, the slow procession leaving Dwaraka was already drawing the eyes of robbers.",
+  "hero_scene": "Uddhava seated on the bank of the Yamuna, eyes still wet with tears, beginning to smile as he speaks, while Vidura sits before him in patient silence and the river flows past them in the evening light.",
+  "visual_elements": [
+    "Uddhava weeping, then smiling",
+    "Vidura listening in silence",
+    "the bank of the Yamuna at evening",
+    "tears wiped away with his hand",
+    "the memory of Krishna's laughing glance",
+    "a mood of grief and remembrance"
+  ],
+  "sources": [
+    {
+      "work": "Bhagavata Purana",
+      "reference": "3.2.1-20",
+      "role": "primary"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T18:20:09Z",
+    "source_event_id": "evt_0537",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "minor"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

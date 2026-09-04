@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0316",
+ "title": "The Lion Standard Comes Down",
+ "subtitle": null,
+ "story": "Above the gate of Shamvara's city stood a standard that seemed to hold up the sky: a jeweled pole with a flying pennon, and on it a lion worked in gold, so high that travelers measured the city by it. It was the pride of the demon king — a boast set in gold above his gate — and it was the first thing Pradyumna chose to break.\n\nPradyumna was not an enemy of the demon house by chance. He was Krishna's son, stolen out of Dwaraka on the seventh night of his life and raised ever since as a prince of Shamvara's city. Only Mayavati, the demon's wife, who had raised him, knew the truth, and she had told him at last: Shamvara was not his father. He was the son of Krishna and Rukmini, a prince of the Vrishnis, and the demon whose name he had grown up bearing had lifted him from his mother's room when he was a week old. The knowledge burned in him. Every time he pictured his mother in Dwaraka, mourning him like a cow separated from her calf, his anger sharpened into a blade. He would not slip out of the city by night like a thief escaping with his life. He would make Shamvara come out and fight him openly, and he would return to Dwaraka only when the demon lay dead.\n\nHe was no ordinary youth to make such a vow. Mayavati had trained him in every form of illusion, and he had become expert in the use of all sorts of weapons, quick with bow and spear, quick to read the men around him. What he had never been taught was fear of the demon house, and he did not feel it now.\n\n\"I will strike down the wonderful standard at his gate,\" he said, \"the jeweled standard with the lion, standing like Mount Sumeru itself. When Shamvara learns that his banner lies broken, he will come out to me. I will kill him in battle, and I will go home.\"\n\nHe strung his bow, fitted an arrow, and loosed it at the jewel of a standard. The great pole shuddered, leaned, and came down across the gate like a falling tree; the gold lion tumbled into the dust of the road, and the pennon that had flown above the demon city for so long lay torn underfoot. The gate that had worn that banner like a crown looked suddenly bare, and the silence after the crash was the loudest thing in the city.\n\nThe city understood what it had seen. A prince of the house bringing down the king's own standard was not mischief — it was a declaration of war, written in one stroke, in the open, before every eye. Word reached Shamvara, and the rage that flooded him was exactly what Pradyumna had counted on. The demon's answer came fast. He called his hundred sons together and ordered them out. \"Go quickly,\" he said, \"and kill Rukmini's son.\" They came with their bows strung and their chariots ready, a hundred of them, to answer one insult.\n\nThey were good bowmen, those hundred brothers, and they had lived under the same roof as the stolen boy; they thought they knew his measure. They did not know him at all. He had been schooled in every form of illusion by Mayavati's own hand, and the blood of the Vrishnis ran in him — the same blood that had flowed in his father, whose banner bore the emblem of Garuda and who was mightier than Indra himself. Pradyumna stood in the open space before the fallen standard, his bow in his hand, and waited for the brothers of the demon house to come to him.\n\nThe lion lay in the dust behind him, and the war he had come for was beginning.",
+ "reflection": "Pradyumna chooses to be known before he chooses to be safe: he breaks the standard in the open so the war must come to him. There is a kind of honesty in it — the stolen prince refuses to leave his enemy's city the way he entered it, as a secret.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Shamvara",
+  "Shamvara's sons"
+ ],
+ "locations": [
+  "Shamvara's city"
+ ],
+ "themes": [
+  "challenge",
+  "provocation",
+  "honour"
+ ],
+ "previous_story_id": "DKS_0315",
+ "next_story_id": "DKS_0317",
+ "next_story_tease": "Shamvara's answer came with a hundred of his sons at once.",
+ "hero_scene": "Pradyumna on the wall above Shamvara's gate, bow drawn, sending the jeweled lion standard toppling — the gold lion tumbling against the evening sky while the demon city erupts below.",
+ "visual_elements": [
+  "the jeweled lion standard towering over Shamvara's gate",
+  "Pradyumna with his bow drawn, alone against the city",
+  "the gold lion falling into the dust",
+  "the city streets stirred by the fall",
+  "defiance and gathering war"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.251",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:28Z",
+  "source_event_id": "evt_0335",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

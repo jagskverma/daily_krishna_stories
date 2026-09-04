@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0310",
+ "title": "The Chariot of the Serpent King",
+ "subtitle": null,
+ "story": "Pradyumna did not wait for the Asura host to strike. While the cries of \"Arrest them, kill them\" still rang through the city of Vajra, he created a chariot out of nothing — and set the king of serpents to drive it. The soldiers sent to seize the trespassers found a household already in arms, and the princes already beyond their reach.\n\nThe swords had barely left the princesses' hands. Pradyumna told his kinsmen to hold the ground and fight the Danavas below while he took the battle to the sky. Then, by his power of illusion, he created a celestial car; and for its charioteer he made Ananta, the thousand-headed serpent, foremost of his kind, his thousand hoods spread over the car like a living crown.\n\nLike fire running over dry grass, he swept through the midst of the Asura army, gladdening Prabhavati as he rode. Crescent-shaped arrows, dreadful as serpents — some sharp-headed, some blunt — streamed from his bow into the ranks of the sons of Diti. The Asuras, resolute and maddened with battle fury, struck back at him with every weapon they had, but Pradyumna cut off arms decked with armlets and heads without number, until severed heads and bodies covered the earth. Indra and the gods watched the battle between the Daityas and the Yadavas with pleasure; and the Daityas who turned upon Gada and Shamba met their destruction like boats in a mighty ocean. Sensing that the Asura king's ascetic merit had run out, spirits entered the city wherever they pleased, and the Asuras who had lived well-fed and safe behind their king's boon found their walls meaning nothing.\n\nSeeing the battle, and with the permission of Brahma, the guide of all good works, Indra and Krishna sent their aid: Krishna sent his own car to Gada, with Matali's son to drive it; Indra sent his elephant Airavata to Shamba, with the twice-born Pravara riding it; and the celestial youth Jayanta came to stand at Pradyumna's side. Then Pradyumna and Jayanta pressed through the very palaces of the city, destroying the Asuras with a net of arrows, so that no corner of Vajra was safe from them.\n\nIn the midst of the slaughter, Pradyumna called to Gada: \"Indra has sent you this car, and Matali's son is its driver. This elephant, ridden by Pravara, is for Shamba. There is a great worship of Rudra at Dwaraka today; when it ends, Krishna himself will come here tomorrow, and by his orders we will kill this sinful Vajranabha together with his kinsmen. But we must take care that he does not kill us and our sons. The destruction of one's own sons is worse than one's own death — protect your sons by every means.\"\n\nThen Pradyumna multiplied himself by his illusory power into millions of forms and dispelled the darkness the Daityas had cast over the field; wherever an enemy turned, there Krishna's son stood, so that the creatures of the field seemed to see him in every foe. The king of gods was pleased to see the destroyer of enemies everywhere at once. All through the night the battle raged. When Jayanta went down to the Ganga that issues from Vishnu's foot for his evening prayers, Pradyumna fought the Daityas alone; and when Pradyumna in his turn recited his evening prayers in the celestial Ganga, Jayanta alone held the host — two men who paused in the middle of slaughter to keep faith with their devotions, a strangeness the Daityas could not understand. When dawn came, three in every four of the Asuras lay dead.\n\nAt sunrise the field was still. The army that had marched out to conquer heaven lay broken around the city, and only its king remained — untouched, at the center of the ruin, waiting.",
+ "reflection": "The chariot with a thousand-headed serpent for charioteer is illusion, but the courage is real: Pradyumna fights alone through a night of slaughter and still turns aside for his evening prayers, trusting Jayanta to hold the line. The story's wonder is not the weapon but the balance — divine aid, human valor, and a devotion that does not pause even in battle.",
+ "tradition_note": null,
+ "content_note": "Battle violence, described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Ananta",
+  "Indra",
+  "Gada",
+  "Shamba",
+  "Jayanta",
+  "Pravara"
+ ],
+ "locations": [
+  "city Vajra",
+  "sky"
+ ],
+ "themes": [
+  "divine chariot",
+  "battle",
+  "celestial aid"
+ ],
+ "previous_story_id": "DKS_0309",
+ "next_story_id": "DKS_0311",
+ "next_story_tease": "But the Asura king himself still waited — and the duel that would end him was yet to come.",
+ "hero_scene": "A celestial car streaking across the night sky over the city of Vajra: Pradyumna at the bow with his bow drawn, and before him the thousand hoods of Ananta the serpent-king spread like a fan as charioteer, while arrows stream down into the Asura host below and the moon rides over the ruined field.",
+ "visual_elements": [
+  "the celestial car with Ananta's thousand hoods as charioteer",
+  "Pradyumna loosing crescent arrows into the Asura host",
+  "Indra's car and the elephant Airavata arriving as divine aid",
+  "the night battle with arrows falling over the palaces",
+  "dawn over the broken Asura army"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.243",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:53:20Z",
+  "source_event_id": "evt_0326"
+ },
+ "editorial_status": "unreviewed"
+}

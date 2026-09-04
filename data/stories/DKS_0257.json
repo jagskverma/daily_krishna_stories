@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0257",
+ "title": "Varuna Keeps His Word",
+ "subtitle": null,
+ "story": "The water had burned, and now the fire was dying back into the deep. Varuna, lord of the waters, stood in the shallows of his own ruined domain \u2014 his army routed, his great weapon consumed, his element itself turned against him. Krishna had come for the celestial cows of Vana, kept in Varuna's charge all these years \u2014 and still the lord of the waters had not given them up. Krishna's hand was still raised, and for a long moment the two of them looked at each other across the burning water.\n\n\"I cannot give them to you,\" Varuna said at last. \"I promised Vana, long ago, that if I lived I would never give these cows away. They were entrusted to me, and my word is bound. I have kept it through every year since, and I will not break it now, not even to save myself.\"\n\nKrishna looked down at the defeated god standing on his own promise, and something in his face changed. He could have taken the cows \u2014 Varuna had nothing left to defend them with, and the weapon of Vishnu had already shown what it could do to his element. He could have taken them and left the god humbled in the ashes of his own sea. But he did not. \"You are truthful,\" he said. \"Truthfulness is a rare thing, even among gods. Therefore, to please you, I let Vana's cows go free. And you too are released.\"\n\nThe celestial cows \u2014 the cows whose milk made men powerful, invincible, immortal \u2014 walked past the dying fire, lowing softly, and the lord of the waters bowed his head. The battle had ended not in conquest but in a kept promise, and the surrender had come from the side that had won.\n\nThen the Yadavas, Krishna's people, turned homeward, leaving the lord of the waters to his quiet domain. Garuda carried Krishna home with his brother Baladeva, his son Pradyumna and his grandson Aniruddha, his great wings beating steadily over the sea, and the celestial cows went before them, their hooves seeming to skim the waves. When they reached Dwaraka, the city came out to meet them, rejoicing: the citizens had feared for Aniruddha, and here he was home with a bride, and the war of Sonitpura was finished, and Vana's celestial cows were grazing in the fields of the Yadava capital. Streets were swept, garlands were strung, and the news ran from house to house before the riders had even dismounted.\n\nThe tale spread through the city \u2014 the thousand arms fallen like a forest, the dance before Shiva, the sea set ablaze and then calmed \u2014 and over it all, the wonder of the ending: Krishna, who could have taken the cows by force, had let them go to honour a truthful word, and had won them anyway. The cows were settled in Dwaraka, and their milk, it was said, carried the strength of the gods themselves. But what the citizens remembered longest was not the battle, and not the cattle. It was the sight of their lord returning home with a victory he had chosen not to take, and the look on his face \u2014 as if the release of the cows had pleased him more than the taking of them ever could. The great bird set down before the palace, and the women of the city came out with lamps and songs. Children ran beside the celestial cows, daring one another to touch their shining flanks, and old men leaned from their doorways and told the story of the burning sea to anyone who would listen. For a long evening the rejoicing of Dwaraka went on \u2014 the city had got back more than it had sent out to win.",
+ "reflection": "The episode ends not with conquest but with character: Varuna keeps his word even in defeat, and Krishna lets the victory go in order to reward truthfulness. Mercy here is not a softening of justice but a recognition of it.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Varuna"
+ ],
+ "locations": [
+  "Varuna's abode",
+  "Dwaraka"
+ ],
+ "themes": [
+  "honouring a vow",
+  "mercy",
+  "return"
+ ],
+ "previous_story_id": "DKS_0256",
+ "next_story_id": "DKS_0258",
+ "next_story_tease": "Back in Dwaraka, there was still a demon who had stolen the earth's princesses to answer for.",
+ "hero_scene": "Varuna, weaponless, bowing with folded hands before Krishna on Garuda, as the celestial cows of Vana walk past the dying fire of the Vaishnava weapon toward freedom.",
+ "visual_elements": [
+  "Varuna bowing with folded hands",
+  "Krishna on Garuda",
+  "the celestial cows walking past the dying fire",
+  "the calming waters of Varuna's abode",
+  "the routed army standing back",
+  "the return road to Dwaraka"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.276",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:30Z",
+  "source_event_id": "evt_0360",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

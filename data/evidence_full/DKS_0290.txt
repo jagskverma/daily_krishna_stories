@@ -1,0 +1,52 @@
+# STORY DKS_0290 — Sudama Finds His Hut a Palace || Returning home, Sudama finds his poor dwelling transformed into a celestial palace and his wife radiant, and he reflects that this is Krishna's unasked grace.
+
+## Index entry
+title: Sudama Finds His Hut a Palace || Returning home, Sudama finds his poor dwelling transformed into a celestial palace and his wife radiant, and he reflects that this is Krishna's unasked grace.
+summary: Returning home, Sudama finds his poor dwelling transformed into a celestial palace and his wife radiant, and he reflects that this is Krishna's unasked grace.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Sudama, Sudama's wife, Krishna
+locations: Sudama's village
+themes: grace, transformation, gratitude
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0279
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 81 | verses 13-37 | confidence 5
+  excerpt: Reaching his home, Sudama finds it surrounded by celestial mansions with gardens and lakes, his wife radiant like the goddess of fortune among her attendants, and his house become a palace with golden couches and jeweled lamps. He reflects that the Lord, knowing wealth would make him forget, gave him prosperity unasked, and that Krishna treasured even his single handful of rice. (rendered from San
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.81 (13-37)
+13. sa cālabdhvā dhanaṃ kṛṣṇān na tu yācitavān svayam /
+14. aho brahmaṇya-devasya dṛṣṭā brahmaṇyatā mayā /
+15. kvāhaṃ daridraḥ pāpīyān kva kṛṣṇaḥ śrī-niketanaḥ /
+16. nivāsitaḥ priyā-juṣṭe paryaṅke bhrātaro yathā /
+17. śuśrūṣayā paramayā pāda-saṃvāhanādibhiḥ /
+18. svargāpavargayoḥ puṃsāṃ rasāyāṃ bhuvi sampadām /
+19. adhano 'yaṃ dhanaṃ prāpya mādyann uccair na māṃ smaret /
+20. iti tac cintayann antaḥ prāpto niya-gṛhāntikam /
+21. vicitropavanodyānaiḥ kūjad-dvija-kulākulaiḥ /
+22. juṣṭaṃ sv-alaṅkṛtaiḥ pumbhiḥ strībhiś ca hariṇākṣibhiḥ /
+23. evaṃ mīmāṃsamānaṃ taṃ narā nāryo 'mara-prabhāḥ /
+24. patim āgatam ākarṇya patny uddharṣāti-sambhramā /
+25. pati-vratā patiṃ dṛṣṭvā premotkaṇṭhāśru-locanā /
+26. patnīṃ vīkṣya visphurantīṃ devīṃ vaimānikīm iva /
+27. prītaḥ svayaṃ tayā yuktaḥ praviṣṭo nija-mandiram /
+28. payaḥ-phena-nibhāḥ śayyā dāntā rukma-paricchadāḥ /
+29. āsanāni ca haimāni mṛdūpastaraṇāni ca /
+30. svaccha-sphaṭika-kuḍyeṣu mahā-mārakateṣu ca /
+31. vilokya brāhmaṇas tatra samṛddhīḥ sarva-sampadām /
+32. nūnaṃ bataitan mama durbhagasya śaśvad daridrasya samṛddhi-hetuḥ /
+33. nanv abruvāṇo diśate samakṣaṃ yāciṣṇave bhūry api bhūri-bhojaḥ /
+34. kiñcit karoty urv api yat sva-dattaṃ $ suhṛt-kṛtaṃ phalgv api bhūri-kārī &amp;mayopaṇītaṃ pṛthukaika-muṣṭiṃ % pratyagrahīt prīti-yuto mahātmā
+35. tasyaiva me sauhṛda-sakhya-maitrī- dāsyaṃ punar janmani janmani syāt /
+36. bhaktāya citrā bhagavān hi sampado rājyaṃ vibhūtīr na samarthayaty ajaḥ /
+37. itthaṃ vyavasito buddhyā bhakto 'tīva janārdane /
+
+## Corpus chain
+previous_story_id: DKS_0289 | next_story_id: DKS_0291
+previous title: Krishna Eats Sudama's Flat Rice || Krishna asks for the gift and eats Sudama's handful of flat rice with delight, and Sudama, too ashamed to ask for anything, returns home empty-handed.
+next title: Vasudeva's Sacrifice

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0464",
+ "title": "The Chariot Against the Grandsire",
+ "subtitle": "Krishna drives Arjuna straight at Bhishma",
+ "story": "Of all the arrows shot at Kurukshetra that morning, three were aimed at the man who did not fight.\n\nThe day had opened with the armies already locked in battle. At Duryodhana's word the combatants, cased in mail and with standards upraised, had rushed against the Pandavas, and the battle that followed made the hair stand on end. Cars and elephants churned together; shafts with beautiful feathers and sharp points fell upon horses and upon men. And at the head of the Kaurava host came Bhishma, the grandsire of the Kurus, mighty-armed, cased in mail, his bow in hand, showering an arrowy downpour on the heroes of the other side — on Abhimanyu, the son of Subhadra, on Arjuna himself, on the ruler of the Kekayas, on Virata and Dhrishtadyumna of Prishata's race, on the Chedi and the Matsya warriors. The Pandava array wavered at his onset; horsemen and car-warriors and foremost of steeds fell fast, and the car-divisions of the Pandavas began to fly away.\n\nArjuna, beholding the grandsire, turned in anger to the man who held the reins. \"Proceed to the place where the grandsire is,\" he said. \"It is evident that this Bhishma, with wrath excited, will annihilate my host for Duryodhana's benefit. And Drona, and Kripa, and Salya, and Vikarna, united with Dhritarashtra's sons and protected by this firm bowman, will slaughter the Panchalas. Even I, therefore, shall slay Bhishma for the sake of my troops.\"\n\nKrishna's answer was a warning and a promise in one breath. \"Be careful, O Dhananjaya,\" he said, \"for I will soon take thee, O hero, towards the grandsire's car.\" And he took that car — the car celebrated over the world, its numerous banners waving, its steeds handsome as a flight of white cranes, the ape roaring fiercely on its standard, of solar effulgence, its rattle like the roar of clouds — and drove it straight through the Kaurava divisions and the Surasenas, slaughtering the ranks in his path. The son of Pandu came speedily to the encounter, rushing like an infuriate elephant, frightening brave combatants and felling them with his shafts. And Bhishma, protected by the warriors headed by Saindhava, by the combatants of the East, by the Sauviras and the Kekayas, met him with great impetuosity.\n\nSo the great car swept before the car of Bhishma, and the duel began. Then Bhishma, that foremost of smiters, struck Vasudeva himself — three arrows, between his two breasts. The charioteer, who had driven his friend into the teeth of the enemy, took the shafts and did not flinch, and held the car steady.\n\nThen the arrows flew between the champions. Bhishma pierced the son of Pandu with seventy-seven arrows; Drona with twenty-five, Kripa with fifty, Duryodhana with four and sixty, Salya with nine, Drona's son with sixty, Vikarna with three, Saindhava with nine, Sakuni with five, and Artayani with three broad-headed shafts. Pierced on all sides, that great bowman wavered not, like a mountain pierced with arrows. In return the diadem-decked Arjuna pierced Bhishma with twenty-five arrows, Kripa with nine, Drona with sixty, Vikarna with three, Artayani with three, and Duryodhana with five. And Satyaki, Virata, Dhrishtadyumna of Prishata's race, the sons of Draupadi, and Abhimanyu all surrounded him in support, while the prince of the Panchalas advanced against Drona.\n\nThen Bhishma pierced the son of Pandu with eighty sharp arrows, and the combatants on Duryodhana's side were much gratified. But Arjuna, hearing the shouts of those lions among car-warriors, entered cheerfully into their midst and sported with his bow, aiming at the mighty car-warriors one after another. And king Duryodhana, beholding his own troops afflicted in battle, turned to Bhishma and spoke. Who else save the Kuru grandsire, and Drona, and Karna, could have advanced against the bearer of Gandiva? The question hung over the field. And between the two armies, the car of solar effulgence stood where Krishna had driven it — before the grandsire's car — with three arrows still standing in the breast of the man who held the reins, who had not once turned it away.",
+ "reflection": "Krishna drives the car not away from the enemy but straight at the strongest bow on the field, and takes the arrows meant for the warrior — the charioteer shields the fighter with his own body. The image of the divine driver pierced between the breasts and unmoved is the story's quiet center: protection that asks nothing back.",
+ "tradition_note": null,
+ "content_note": "Battle scene with heavy casualties and arrow exchanges, described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Bhishma"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "charioteer",
+  "battle",
+  "courage"
+ ],
+ "previous_story_id": "DKS_0463",
+ "next_story_id": "DKS_0465",
+ "next_story_tease": "But Bhishma's fury was only gathering, and soon it would bring a moment when Krishna himself left the chariot.",
+ "hero_scene": "Krishna drives the great solar-effulgent chariot with its white-crane steeds and roaring ape banner straight up to Bhishma's car, and Bhishma's three arrows strike Krishna himself between the breasts while he holds the reins unmoved.",
+ "visual_elements": [
+  "the two armies locked in battle at Kurukshetra",
+  "Bhishma cased in mail, showering arrows on the Pandava host",
+  "Arjuna asking Krishna to drive toward the grandsire",
+  "Krishna driving the celebrated car with white-crane steeds and the roaring ape standard",
+  "Bhishma striking Krishna between the breasts with three arrows",
+  "Arjuna unmoved like a mountain amid a storm of arrows",
+  "the car of solar effulgence standing before the grandsire's car"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "6.52",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:20:00Z",
+  "source_event_id": "evt_0488"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,106 @@
+# STORY DKS_0157 — Jarasandha Warns the Assembled Kings
+
+## Index entry
+title: Jarasandha Warns the Assembled Kings
+summary: At Bhishmaka's council Jarasandha warns the assembled kings that Krishna is Vishnu himself, whose arrival for the maiden spells calamity; Sunitha concurs.
+life_stage: mathura | story_arc: jarasandha_and_kings
+characters: Jarasandha, Krishna, Sunitha, Bhishmaka
+locations: Kundina
+themes: fear, counsel, recognition-of-divinity
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0179
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 105 | verses  | confidence 4
+  excerpt: This Krishna ... has come here for the maiden and forsooth he will set forth mighty exertions for acquiring her. ... Forsooth I tell you that Vishnu himself has come for this Swayamvara.
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.105 ()
+TITLE: JARASANDHA’S ADRESS TO THE KINGS
+
+Vaishampayana said:—Beholding the eternal Krishna arrive there with
+Vināta’s son the leading kings were stricken with great anxiety (1). O
+king, those kings of dreadful prowess, well-read in the science of
+Polity and expert in counsels, assembled at the golden assembly hall of
+king Bhismaka for holding consultations. As the gods sit in the
+celestial assembly hall so they sat there on seats variegated with
+coverings of diverse colors (1-3). As the king of gods addressed the
+celestials so the highly powerful Jarāsandha, of large arms and great
+energy, addressed them saying (4).
+
+"O ye foremost of kings, the best of speakers, O highly intelligent
+Bhishmaka, do you all listen to what I say according to my own
+understanding (5). This Krishna, the well known son of Vasudeva, who has
+come to the city of Kundina with Garuda and other Yādavas, is endued
+with great energy and prowess. He has come here for the maiden and
+forsooth he will set forth mighty exertions for acquiring her (6-7). O
+foremost of kings, you should behave in this matter according to the
+rules of Polity. Do yo all work so considering your own strength and
+weakness (8). You know well the highly dreadful work which these two
+powerful sons of Vasudeva performed on the mount Gomanta without the
+help of Vinatā’s son (9). I cannot say how Krishna will fight united
+with the mighty car-warriors of the Yadava, Bhoja and Andhaka races
+(10). When seated on Garuda Vishnu will set forth his exertions for
+acquiring the maiden, even Sakra, assisted by the celestials, or any
+other person, will not be able to stand in the battle-field (11). When
+the universe was submerged under one all-spreading ocean, the powerful
+Vishnu, the Prime cause of the world, assuming a boar form, released the
+earth gone down to the depth of the nether region and in his same
+boarish form killed Hiranyaksha the king of Daityas (12–13). The highly
+powerful, uuconquerable Daitya-king, Hiranyakashipu, who did not meet
+with his death in the three worlds, consisting of immortals, Daityas,
+Rishis, Gandharvas, Kinnaras, Yakshas Rakshasas and Nāgas, in the sky,
+on the earth, and in the nether region, in day or in night, from a dry
+or an wet article, was slain in the days of yore by Hari in his man-lion
+form (14–16). Binding the powerful Bali, the foremost of Asuras begotten
+by Kagyapa on Aditi, with a noose of promise Vishnu, in his form of a
+dwarf, sent him down to the nether region. When at the junction of the
+Tretā and Dwāpara ages, the king of seven insular continents, the highly
+powerful king Kārtavirya, endued with thousand arms, grew elated with
+the pride of kingdom by Dattātreya’s favour the highly energetic Vishnu
+took his birth in disguise, from Jamadagni and Renukā, as Rāma, the
+foremost of warriors and killed him with his axe, hard as the
+thunder-bolt (17–20). Dasharatha’s son Rāma, born in the race of Ikshāku
+in the days of yore, killed the heroic Rāvana, the conqueror of the
+three worlds (21). In the Tretā age in the war of which Tāraka was the
+root, the powerful Vishnu, seated on Garuda, assuming a form of eight
+arms, killed in the battle-field the Asuras, who were elated with the
+boons conferred on them. By his great Yoga power, Vishnu, having an
+universal form, killed, with his discus, effulgent like the sun, the
+demon Kālanemi who terrorized the gods (22–24). What more, innumerable
+Daityas have been despatched by him in time to the abode of Yama. By him
+as a boy in the forest, many highly powerful and forest-ranging demons,
+Dhenuka, Arishtha and Pralamva have been slain. Slaying in his cow-herd
+form Shakuni, Putanā, Keshi, Jamala, Arjuna, the elephant Kuvalayapida,
+Chānura, Mushitika and Kansa with his followers Devaki’s son sported
+there. In disguise thus he performed many superhuman feats (25–28). I
+consider Devaki’s son Keshava as the first cause of the celestials, the
+destroyer of the Asuras, as Nārāyana, the ancient Purusha, the Prime
+cause of the universe, as Truth, the creator of all creatures manifest
+and unmanifest, irrepressible unto all, the adored of all, the first,
+the middle, as devoid of destruction, eternal, self-born, unborn,
+stable, mobile and immobile, unconquerable, of three foot-steps, the
+lord of the three worlds, the destroyer of the enemies of the king of
+gods, and the eternal Vishnu. This my sure under standing, I have
+acquired from Mathurā (29–33). Can Garuda be the carrier of a man even
+if he be born in the high family of a mortal Lord Paramount (34)?
+Besides when Janarddana will display his prowess for the maiden what
+powerful man will be able to stand before Garuda (35)? Forsooth I tell
+you that Vishnu himself has come for this Swayamvara. Mighty is the
+calamity that will befall you on his arrival here (36). You should do
+whatever you think proper after this."
+
+Vaishampāyana said:—After Jarāshandha, the king of Magadha, had said
+this, the greatly wise Sunitha replied saying:
+
+"What the mighty-armed king of Mag
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0156 | next_story_id: DKS_0158
+previous title: Krishna Installs Shakradeva on the Throne of Karavira
+next title: The Kings Debate and Bhishmaka Yields

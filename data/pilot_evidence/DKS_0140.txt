@@ -1,0 +1,92 @@
+# STORY DKS_0140 — Krishna Slays Kamsa
+
+## Index entry
+title: Krishna Slays Kamsa
+summary: As Kamsa orders Nanda bound and Vasudeva killed, Krishna leaps onto the dais, seizes and slays him.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Krishna, Kamsa
+locations: Mathura arena
+themes: slaying, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0144
+variant_notes: bpc1_038 is Uddhava's recollection.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 44 | verses 28-38 | confidence 5
+  excerpt: As Kamsa ordered Nanda bound and Vasudeva killed, Krishna, enraged, leapt onto the high dais, seized Kamsa by the hair, hurled him into the arena and fell upon him, dragging his body about before all the people. (rendered from Sanskrit, verses 28-38)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 34 | confidence 5
+  excerpt: Uddhava said: 'Then, coming to the city of his parents with Balarama to free them, he hurled the leader of the enemy hosts from the high seat and dragged him lifeless upon the earth.' (rendered from Sanskrit, verse 34)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 85 | verses  | confidence 4
+  excerpt: stretching his own Parigha-like arms Krishna drew Kansa by the hair in the arena... When... Kansa breathed his last Krishna threw away his body.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 20 | verses  | confidence 4
+  excerpt: springing up to the place where he was seated, laid hold of him by the hair of his head, and struck his tiara to the ground: then casting him down upon the earth, Govinda threw himself upon him. Crushed by the weight of the upholder of the universe... Kansa the king, gave up the ghost.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.44 (28-38)
+28. gopān vayasyān ākṛṣya taiḥ saṃsṛjya vijahratuḥ /
+29. janāḥ prajahṛṣuḥ sarve karmaṇā rāma-kṛṣṇayoḥ /
+30. hateṣu malla-varyeṣu vidruteṣu ca bhoja-rāṭ /
+31. niḥsārayata durvṛttau vasudevātmajau purāt /
+32. vasudevas tu durmedhā hanyatām āśv asattamaḥ /
+33. evaṃ vikatthamāne vai kaṃse prakupito 'vyayaḥ /
+34. tam āviśantam ālokya mṛtyum ātmana āsanāt /
+35. taṃ khaḍga-pāṇiṃ vicarantam āśu śyenaṃ yathā dakṣiṇa-savyam ambare /
+36. pragṛhya keśeṣu calat-kirītaṃ nipātya raṅgopari tuṅga-mañcāt /
+37. taṃ samparetaṃ vicakarṣa bhūmau harir yathebhaṃ jagato vipaśyataḥ /
+38. sa nityadodvigna-dhiyā tam īśvaraṃ pibann adan vā vicaran svapan śvasan /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (34)
+1. yaḥ pañca-hāyano mātrā prātar-āśāya yācitaḥ /
+tan naicchad racayan yasya saparyāṃ bāla-līlayā
+2. sa kathaṃ sevayā tasya kālena jarasaṃ gataḥ /
+pṛṣṭo vārtāṃ pratibrūyād bhartuḥ pādāv anusmaran
+3. sa muhūrtam abhūt tūṣṇīṃ kṛṣṇāṅghri-sudhayā bhṛśam /
+tīvreṇa bhakti-yogena nimagnaḥ sādhu nirvṛtaḥ
+4. pulakodbhinna-sarvāṅgo muñcan mīlad-dṛśā śucaḥ /
+pūrṇārtho lakṣitas tena sneha-prasara-samplutaḥ
+5. śanakair bhagaval-lokān nṛlokaṃ punar āgataḥ /
+vimṛjya netre viduraṃ prītyāhoddhava utsmayan
+6. bhp_03.02.007/0 uddhava uvāca 
+kṛṣṇa-dyumaṇi nimloce gīrṇeṣv ajagareṇa ha /
+kiṃ nu naḥ kuśalaṃ brūyāṃ gata-śrīṣu gṛheṣv aham
+7. durbhago bata loko 'yaṃ yadavo nitarām api /
+ye saṃvasanto na vidur hariṃ mīnā ivoḍupam
+8. iṅgita-jñāḥ puru-prauḍhā ekārāmāś ca sātvatāḥ /
+sātvatām ṛṣabhaṃ sarve bhūtāvāsam amaṃsata
+9. devasya māyayā spṛṣṭā ye cānyad asad-āśritāḥ /
+bhrāmyate dhīr na tad-vākyair ātmany uptātmano harau
+10. pradarśyātapta-tapasām avitṛpta-dṛśāṃ nṛṇām /
+ādāyāntar adhād yas tu sva-bimbaṃ loka-locanam
+11. yan martya-līlaupayikaṃ sva-yoga- māyā-balaṃ darśayatā gṛhītam /
+vismāpanaṃ svasya ca saubhagarddheḥ paraṃ padaṃ bhūṣaṇa-bhūṣaṇāṅgam
+12. yad dharma-sūnor bata rājasūye nirīkṣya dṛk-svastyayanaṃ tri-lokaḥ /
+kārtsnyena cādyeha gataṃ vidhātur arvāk-sṛtau kauśalam ity amanyata
+13. yasyānurāga-pluta-hāsa-rāsa- līlāvaloka-pratilabdha-mānāḥ /
+vraja-striyo dṛgbhir anupravṛtta- dhiyo 'vatasthuḥ kila kṛtya-śeṣāḥ
+14. sva-śānta-rūpeṣv itaraiḥ sva-rūpair abhyardyamāneṣv anukampitātmā /
+parāvareśo mahad-aṃśa-yukto hy ajo 'pi jāto bhagavān yathāgniḥ
+15. māṃ khedayaty etad ajasya janma- viḍambanaṃ yad vasudeva-gehe /
+vraje ca vāso 'ri-bhayād iva svayaṃ purād vyavātsīd yad-ananta-vīryaḥ
+16. dunoti cetaḥ smarato mamaitad yad āha pādāv abhivandya pitroḥ /
+tātāmba kaṃsād uru-śaṅkitānāṃ prasīdataṃ no 'kṛta-niṣkṛtīnām
+17. ko vā amuṣyāṅghri-saroja-reṇuṃ vismartum īśīta pumān vijighran /
+yo visphurad-bhrū-viṭapena bhūmer bhāraṃ kṛtāntena tiraścakāra
+18. dṛṣṭā bhavadbhir nanu rājasūye caidyasya kṛṣṇaṃ dviṣato 'pi siddhiḥ /
+yāṃ yoginaḥ saṃspṛhayanti samyag yogena kas tad-virahaṃ saheta
+19. tathaiva cānye nara-loka-vīrā ya āhave kṛṣṇa-mukhāravindam /
+netraiḥ pibanto nayanābhirāmaṃ pārthāstra-pūtaḥ padam āpur asya
+20. svayaṃ tv asāmyātiśayas tryadhīśaḥ svārājya-lakṣmy-āpta-samasta-kāmaḥ /
+baliṃ haradbhiś cira-loka-pālaiḥ kirīṭa-koṭy-eḍita-pāda-pīṭhaḥ
+21. tat tasya kaiṅkaryam alaṃ bhṛtān no viglāpayaty aṅga yad ugrasenam /
+tiṣṭhan niṣaṇṇaṃ parameṣṭhi-dhiṣṇye nyabodhayad deva nidhārayeti
+22. aho bakī yaṃ stana-kāla-kūṭaṃ jighāṃsayāpāyayad apy asādhvī /
+lebhe gatiṃ dhātry-ucitāṃ tato 'nyaṃ kaṃ 
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0139 | next_story_id: DKS_0148
+previous title: Krishna and Balarama Slay the Wrestlers
+next title: Krishna Retrieves Sandipani's Son

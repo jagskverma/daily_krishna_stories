@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0485",
+ "title": "Krishna Urges Arjuna to Slay the Distressed Karna",
+ "subtitle": null,
+ "story": "The war at Kurukshetra between the five Pandava brothers and their hundred cousins, the Kauravas, had narrowed at last to a single duel, and all through that long afternoon the sky over the field had turned into a net of arrows. Arjuna, the Pandavas' greatest bowman, and Karna, the champion of the Kaurava host, had been searching for each other's one mistake, and neither had made it yet. The two hosts had fallen back to watch, for it seemed the whole long war had come down to these two men alone. Arjuna's chariot was driven by Krishna, his cousin and friend.\n\nEarly in the fight Arjuna had loosed a weapon that swelled with power and went careering through the air like lightning, consuming the Kaurava ranks, until the broken divisions of the Kauravas fled and stood at a distance, gazing at it. Karna alone held his ground. With showers of gold-winged shafts he baffled that burning weapon while it was still in the sky, and with a great foe-killing weapon of his own — the one he had won from Rama of the axe — he crushed it and pierced Arjuna with keen shafts. Bending his own loud-sounding bow, whose string could not be broken, he shot shower after shower of arrows, and the two closed with each other.\n\nThey struck at each other like two fierce elephants locking tusks. The points of the compass vanished behind their weapons and the very sun went invisible; the sky became one vast net of arrows with no space between, and in that dense darkness the armies could make out nothing else. The two masters of weapons kept aiming and shooting, displaying every manoeuvre they knew. Sometimes Karna prevailed over his rival, sometimes Arjuna prevailed, and every warrior on the field was filled with wonder. Even the beings in the sky applauded, crying sometimes \"Excellent, O Karna!\" and sometimes \"Excellent, O Arjuna!\" And a serpent named Aswasena, who nursed an old hatred of Arjuna, moved in that darkness of arrows, waiting for his moment.\n\nThen the turn came. The earth had been pressed deep all day under the weight of chariots and the tread of horses and elephants, and now it seemed to turn against one of its own. Karna's chariot wheel sank into the earth, and the ground held it, as though it had at last chosen its side. Karna stood stunned. The man who had never shown his back in battle was held motionless in the open, in the sight of both hosts, and he could not draw his chariot free.\n\nHe called out to Arjuna and appealed to his sense of what was right. He was in distress, he said; he had been brought low not by his enemy's hand but by the ground itself. He did not ask for mercy, only for time — the chance to free his wheel and face Arjuna as an equal, as the duty of warriors required. Let Arjuna remember that duty, he urged, and grant him the one moment's respite that a warrior in his place could rightly claim.\n\nKrishna did not let the moment pass. \"Why, son of Pandu, have you become so forgetful?\" he called out, his voice blazing. \"Those who are truly wise never spare their foes, however weak, even for a moment. Slay him, therefore, as Indra, king of the gods, slew the demon Namuci.\"\n\nArjuna's arrow answered, and the warrior who had asked for a moment received none. The wheel stayed where the earth held it, and the duel was over.",
+ "reflection": "The two pleas stand side by side and the account does not step in to say which was right. Karna asks for what dharma owes a man brought low; Krishna answers that a war is no place for such debts, and names Indra and Namuci as the precedent. That the episode ends without resolving the argument is, perhaps, the point: the hardest questions are the ones the source leaves open.",
+ "tradition_note": null,
+ "content_note": "A warrior is slain in battle; the death is described with restraint.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Karna"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "duty",
+  "ruthlessness_in_war",
+  "dharma",
+  "vulnerability"
+ ],
+ "previous_story_id": "DKS_0483",
+ "next_story_id": "DKS_0498",
+ "next_story_tease": "But the war's grief was not finished; a mother's curse was about to fall upon Krishna.",
+ "hero_scene": "Karna standing motionless beside his chariot, its wheel sunk into the earth, calling out to Arjuna while Krishna urges Arjuna to strike, the sky above them dark with a net of arrows.",
+ "visual_elements": [
+  "Krishna",
+  "Arjuna",
+  "Karna",
+  "chariot wheel sunk into the earth",
+  "Kurukshetra battlefield",
+  "net of arrows darkening the sky",
+  "two armies watching",
+  "tense, fateful"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.90",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T00:00:00Z",
+  "source_event_id": "evt_0479",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

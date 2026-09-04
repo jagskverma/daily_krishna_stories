@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0422",
+ "title": "Kunti Pours Out Her Grief",
+ "subtitle": null,
+ "story": "Kunti had not seen Krishna in a long time, and when he came to her house that afternoon, after his meeting with Vidura, his countenance beaming like the radiant sun, she could not hold back. She threw her arms around his neck and began to pour forth her lamentations, remembering her sons; the tears of Pritha flowed fast at the sight, after so long, of Govinda of the Vrishni race, the companion of those mighty children of hers. Krishna received the rites of hospitality and took his seat, and only then did Kunti speak, with a woe-begone face and a voice choked with tears.\n\nHer sons, she said, had from their earliest years always waited with reverence on their superiors; they were attached to one another in friendship; deprived deceitfully of their kingdom, they had gone to seclusion, though they were worthy of living in the midst of friends and attendants. They had subjugated both wrath and joy, were devoted to Brahmans and truthful in speech. Those children of hers, who had abandoned kingdom and enjoyments, leaving their miserable mother behind, and gone to the woods, plucking the very roots of her heart, how, she asked, did they live in the deep forest abounding with lions and tigers and elephants?\n\nThey had been deprived of their father in infancy and brought up tenderly by her. At home they had slept in high palatial chambers on soft blankets and the skins of the Runku deer, waked in the morning by the grunt of elephants, the neighing of steeds, the clatter of car-wheels and the music of conchs and cymbals, with flutes and lyres, the honeyed strains of songstresses and the eulogies chanted by bards and professional reciters, blessed at early dawn by the sacred hymns of Brahmans. That such sons should sleep in the deep woods resounding with the shrill and dissonant cries of beasts of prey could hardly be believed. How could those who were roused from their beds by music and eulogies be waked in the wild by the yells of beasts?\n\nThen, one by one, she asked after them. How was Yudhishthira, of virtuous soul and complexion like pure gold, the foremost of all the Kurus in learning and disposition, handsome and mighty-armed and without an enemy, who bore the heavy burden that royal sages of old had borne, fit to become the monarch of the three worlds? How was Bhimasena, with the strength of ten thousand elephants and the speed of the wind, the slayer of Hidimva and Vaka, he who slew Kichaka with all his relatives, terrible in wrath yet obedient to the commands of his elder brother? How was Arjuna, who at one stretch shot five hundred arrows, equal in the use of weapons to king Kartavirya, in energy to the sun, in restraint of senses to a great sage, in forgiveness to the Earth itself, and in prowess to Indra himself? So her questions went, and her grief with them.\n\nKrishna answered her gently. What woman is there in the world, he asked, who is like her? Endued with every virtue and with great wisdom, it behooved her to bear with patience both happiness and misery. The Pandavas, with Krishna, saluted her through him. And she would soon behold them become the lords of the whole world, with their foe slain and themselves invested with prosperity.\n\nThe words were spoken softly, but they carried the weight of a certainty. Kunti had poured out her sorrow to the one person who could answer it as a promise, and she let her tears fall, knowing that her sons would come back to her.",
+ "reflection": "Kunti's lament is unbearable precisely because it is concrete: she remembers the music her sons woke to and the beds they slept in, and measures their suffering against it. Krishna does not scold her out of her grief; he answers it with a certainty, that her sons will return as lords of the world, consolation grounded in what will come to pass rather than in hope.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Kunti"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "grief",
+  "consolation",
+  "family"
+ ],
+ "previous_story_id": "DKS_0421",
+ "next_story_id": "DKS_0423",
+ "next_story_tease": "That same day Krishna came to Duryodhana's palace, where a feast had been prepared for him.",
+ "hero_scene": "In a dim chamber in Hastinapura, Kunti stands with her arms around Krishna's neck, weeping, her face buried against his shoulder as her tears fall, while Krishna stands still and gentle, receiving her grief.",
+ "visual_elements": [
+  "Kunti throwing her arms around Krishna's neck",
+  "tears streaming down Kunti's face, voice choked",
+  "Krishna seated after the rites of hospitality, listening",
+  "the contrast between the palatial chambers Kunti remembers and the forest she imagines",
+  "Kunti's woe-begone face as Krishna assures her"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.90",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0429"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0093",
+ "title": "Krishna Returns the Clothes and Blesses the Gopis",
+ "subtitle": null,
+ "story": "The young women of Vrindavan stood waist-deep in the cold Yamuna, looking up at a kadamba tree on the bank. In the tree sat Krishna, Nanda's son, the cowherd boy of their village — and beside him lay the clothes they had left on the shore that morning. For a month of winter dawns they had come to this river before sunrise and prayed to the goddess Katyayani that Krishna would be theirs; and Krishna, who knew what their month of prayers had been for, had followed them down while they bathed and carried their clothes up into the branches with him. He did not relent. From the tree he repeated his jest: if they wanted their clothes back, they must come and take them.\n\nSo they answered him from the water, their voices carrying up through the cold air. They called him the dear son of Nanda, the dark and beautiful one, and they said, plainly, that they were his maidservants and would do whatever he asked. There was no pride left in them to bargain with; there was only the cold, and him, and the strange happiness of being teased by the one they had prayed for all month. They did not ask him to explain himself, and they did not call the joke cruel. They simply said yes.\n\nHe heard them out from his branch, and something in their answer — the lack of any pride, the simple readiness — was exactly what he had been waiting for. The joke had never been only a joke. It was a way of asking whether, when the last covering was gone, they would still come.\n\nAt last, shivering, all of them came out of the water together, their hands pressed together above their heads, and stood before him with nothing left to hide behind — trembling with cold, and not hiding. The morning that had begun as a game had become something else: a standing-before, a giving-over of everything at once.\n\nKrishna's jest softened. Looking at them, their hearts open and unguarded, he was pleased by the purity of what he saw. He did not simply hand the clothes back and let the morning pass. He told them the truth of what they had done: a vow kept as carefully as theirs had one flaw — they had entered the water without their clothes, and a vow kept that way had shown the gods disrespect. That disrespect would have to be answered. He said it plainly, not to shame them further, but so they would understand what they had risked. Then he set it aside, because he had understood them, and he knew whose touch their whole discipline had been seeking.\n\nThen he gave them back their clothes — and more than their clothes. \"Your resolve is known to me,\" he told them. \"This worship of me — I have seen it.\" And then came the promise they had been waiting a month to hear: \"Go back to Vraja now. The nights you have wished for will come to you.\" It was the very thing their vow had asked of the goddess — the dark son of Nanda as their own — and here he stood, not granting it from a distance, but speaking it to them himself, on the cold bank of the river, with their clothes folded in his hands.\n\nSo they put on their own garments, ready at last for the meeting they had wanted, and they felt no resentment toward him for the morning's game. They were joyful in the company of their beloved, and they went home through the cold morning, the river behind them and the winter sun just clearing the trees, carrying a promise meant for the nights to come. The shyness the jest had taken from them did not come back.",
+ "reflection": "Krishna does not end the game by scolding or by simply giving in. He names what their vow cost — the slight to the gods — and then sets it aside, because he has seen what the discipline was really for. The clothes are returned, but what they carry home is the promise that their longing will not go unanswered.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "grace",
+  "devotion",
+  "promise"
+ ],
+ "previous_story_id": "DKS_0092",
+ "next_story_id": "DKS_0094",
+ "next_story_tease": "But not everyone Krishna asked would answer so readily, as the cowherd boys were soon to learn.",
+ "hero_scene": "The gopis emerging from the cold Yamuna with hands pressed together above their heads, shivering, while Krishna, seated on the bank, returns their folded garments one by one.",
+ "visual_elements": [
+  "Krishna seated on the riverbank",
+  "the gopis with hands folded",
+  "folded garments being returned",
+  "the cold Yamuna",
+  "the kadamba tree",
+  "winter morning light",
+  "grace and relief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.22.12-27",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:02:47Z",
+  "source_event_id": "evt_0086",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

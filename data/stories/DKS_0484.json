@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0484",
+ "title": "Krishna Identifies the Snake Aswasena",
+ "subtitle": "The snake of Khandava returns as Karna's arrow",
+ "story": "All day the duel between Arjuna and Karna had hidden the sun behind a net of arrows. Arjuna, the Pandavas' greatest bowman in the war at Kurukshetra, fought from a chariot driven by Krishna, his cousin and friend; Karna, champion of their hundred cousins, the Kauravas, had matched him shaft for shaft — and had even broken the blazing weapon Arjuna loosed at him. But Karna's own wounds were many. Scorched by Arjuna's arrows, his limbs cut and bleeding, he found at last that he could not prevail — and in that hour he reached for the one shaft he had kept for years, lying alone in its quiver.\n\nHe did not know what it was. No one on the field knew.\n\nFor there was a snake beneath the earth who had been waiting for this day. His name was Aswasena, and his hatred of Arjuna was older than the war. Years before, when Arjuna fought for Agni, the god of fire, and helped him burn the great forest of Khandava, Aswasena had been in the sky, hidden within his mother's body. Arjuna's arrow slew the mother. The son escaped the flames, pierced the earth in his fury, and hid in the world below, nursing his mother's death and the hatred it planted in him. Now, seeing the fight between Karna and Arjuna, he rose from the lower world, soared up on the power that let him climb the sky, and slipped into Karna's quiver — a living snake in the shape of an arrow.\n\nWhen Karna set his heart on that single shaft and lifted it out, what he laid on his bowstring was a snake-mouthed arrow, blazing and fierce — the weapon he had long kept for Arjuna's destruction, polished with care and kept in a golden quiver amid sandal dust. He drew it to his ear and aimed it at Arjuna's head.\n\nIn that instant the guardians of the world raised their voices and wailed — Indra, the king of the gods, among them — for they saw what no man on the field could see.\n\nWeary from their long exertions, the two heroes looked at each other. The chariot stood sunk in the earth, where Krishna had pressed it down with his feet in the moment the arrow flew. And Krishna, who had seen everything from the first, spoke. \"While you stood with your bow at Khandava, serving Agni, the god of fire,\" he said, \"this snake was in the sky, hidden within his mother's body. You slew her. He escaped the flames, and remembering that deed, he comes toward you today for your destruction.\"\n\nHe named him: Aswasena.\n\nThen Krishna told Arjuna to slay the snake, and Arjuna did not ask how. The shaft Karna had loosed was met and cut down, the snake cut off, the old vengeance of Khandava ended on the field of Kurukshetra.\n\nAfterward, when the sky was clear again and the duel stood still, Krishna himself stepped down from the chariot, put his arms beneath it, and raised it from the earth with his own strength. The chariot that had carried them through every battle of the war stood level once more, as if the ground had never swallowed it.\n\nKarna's last weapon was gone. But Karna himself still stood on the field, wounded and failing — and the duel was not over.",
+ "reflection": "The snake hides in an enemy's quiver and comes for the archer who slew his mother years before — old griefs find their way back to the field in whatever shape they can. Krishna alone reads the arrow for what it is, because he alone remembers the whole history; discernment is memory made present.",
+ "tradition_note": null,
+ "content_note": "Fierce single combat and a vengeful snake-arrow; described without graphic detail.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "kurukshetra_war",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Karna",
+  "Aswasena"
+ ],
+ "locations": [
+  "Kurukshetra"
+ ],
+ "themes": [
+  "discernment",
+  "protection",
+  "retribution"
+ ],
+ "previous_story_id": "DKS_0483",
+ "next_story_id": "DKS_0485",
+ "next_story_tease": "Wounded and failing, Karna still stood on the field — and the end of the duel was yet to come.",
+ "hero_scene": "Krishna stands beside the chariot sunk in the earth, one arm beneath it lifting the car free, while the severed form of the snake Aswasena falls from the sky and Arjuna lowers his bow on the battlefield.",
+ "visual_elements": [
+  "the arrowy net darkening the sky over the duel",
+  "Aswasena the snake slipping into Karna's quiver as an arrow",
+  "Karna stringing the snake-mouthed arrow, drawing it to his ear",
+  "the Regents of the world wailing in the sky",
+  "apsaras fanning the two heroes with palm-leaf fans",
+  "Krishna naming the snake to Arjuna",
+  "Arjuna cutting the snake down",
+  "Krishna raising the sunken chariot with his arms"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "8.90",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:14:29Z",
+  "source_event_id": "evt_0478",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

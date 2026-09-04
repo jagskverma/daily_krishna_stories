@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0398",
+ "title": "Krishna Slays Shishupala",
+ "subtitle": null,
+ "story": "In the palace of the kings of Chedi, a child was born with three eyes and four arms, and the moment he entered the world he screamed like an ass. His parents were terrified, and would have given him up. But a voice without a body spoke from the sky and told them not to fear: their son would grow fortunate and superior in strength, and the man who would one day kill him had already been born.\n\nThe voice said more. The extra arms and the extra eye would vanish the day the child was placed on the lap of the one who was destined to slay him. So the kings of the earth came one by one to Chedi, curious to behold so strange a child, and one by one the boy was laid upon their laps — a thousand of them — and nothing happened. The arms remained, and the eye upon his forehead watched them all, as if it were waiting for one particular face. And so the boy grew up under a prophecy that everyone remembered and no one could explain.\n\nThen Krishna came to Chedi with his brother Balarama, to see their father's sister, who was the queen there. When the queen herself, with great tenderness, set her son upon Krishna's lap, the extra arms fell away like a pair of snakes, and the third eye upon his forehead disappeared. The queen was seized with fear, for she understood now who would take her son's life — she had watched the sign the voice promised come true before her own eyes.\n\nShe begged a boon of Krishna, and Krishna, who loved his aunt, granted it. He promised that he would bear with this boy, Shishupala, through a hundred offences before he raised a hand against him. A hundred. To a grieving mother it must have seemed a long reprieve, almost a lifetime of mercy. And so the matter was settled, and the child was cherished, and the years began to pass.\n\nShishupala grew into a king, and the old hatred in him never cooled. At the great Rajasuya sacrifice of Yudhishthira in Indraprastha, when Krishna was honoured before the assembled kings, Shishupala could not contain himself. He rose and poured out abuse against Krishna in full view of the court, one insult after another, while the elders shifted in their seats and the other kings looked from one to another. Everyone in that hall knew the story of the boon, and many had wondered how long Krishna would keep it. The offences mounted, and mounted, until the hundredth came, and the promise was spent.\n\nKrishna's own followers moved to answer the insult, but Krishna held them back. He rose himself, and with the razor-edged discus he severed Shishupala's head as the king rushed at him. A great uproar broke out in the assembly. There was no second blow, and no need of one.\n\nThen, before the eyes of everyone present, something astonishing happened. A brilliant light rose from Shishupala's body and passed into Krishna, and the two became one. For Shishupala had fixed his mind on Krishna through three births — not in love, but in enmity — and that constant, burning attention had been enough. The enemy who could not stop thinking of Krishna came at last to the very place he had spent his whole life opposing. The hatred of three births, gathered and released, had carried him home.\n\nThe assembly fell quiet. The promise had been kept to the letter, and the enmity of three lifetimes came to rest, not in destruction, but in the light it had always, without knowing it, been seeking.",
+ "reflection": "Shishupala's story turns on a paradox: the sources say he attained oneness with Krishna not through devotion but through three lifetimes of enmity, because his mind never left its object. The hundredth offence is also the hundredth proof of how completely, even in hatred, he was absorbed in Krishna.",
+ "tradition_note": null,
+ "content_note": "Shishupala is beheaded with the discus; the violence is described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Krishna",
+  "Shishupala"
+ ],
+ "locations": [
+  "Indraprastha",
+  "Rajasuya assembly"
+ ],
+ "themes": [
+  "retribution",
+  "divine justice",
+  "liberation"
+ ],
+ "previous_story_id": "DKS_0396",
+ "next_story_id": "DKS_0408",
+ "next_story_tease": null,
+ "hero_scene": "Krishna rising in the Rajasuya assembly, his own followers held back, as the razor-edged discus flies toward the rushing Shishupala while the assembled kings recoil.",
+ "visual_elements": [
+  "Krishna rising with the discus",
+  "Shishupala rushing forward",
+  "the great Rajasuya assembly at Indraprastha",
+  "the assembled kings recoiling",
+  "a brilliant light leaving Shishupala's body",
+  "the light entering Krishna",
+  "the child with three eyes and four arms on Krishna's lap",
+  "the arms falling away like snakes"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.74.42-45",
+   "role": "primary"
+  },
+  {
+   "work": "Mahabharata",
+   "reference": "2.42",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:30Z",
+  "source_event_id": "evt_0009"
+ },
+ "editorial_status": "unreviewed"
+}

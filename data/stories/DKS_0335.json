@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0335",
+ "title": "The Newborn Cast into the Sea",
+ "subtitle": null,
+ "story": "No one in Dwaraka saw the demon enter the palace, and no one saw him leave. In the deepest hour of the night, while the inner apartments slept, Shambara moved through the corridors like mist, and when morning came to the lying-in chamber, the newborn son of Rukmini was gone.\n\nThe child had been in the world not yet ten days. He was Pradyumna, the infant son of Krishna and his wife Rukmini, and the old tellers of his story knew that this child was more than an ordinary prince. He was Kama reborn — the god of love, who had once been burned to ashes, had come back to earth in the body of Krishna's son, and he had come with a purpose. Kama, whose vows were firm, had taken this birth from Rukmini — Lakshmi herself in human form — and from Krishna, and the purpose of the birth was the death of Shambara. And there was one being in the world who knew this as clearly as the tellers did. Shambara, the shape-shifting demon, carried the foreknowledge of his own end. He knew that this child, if he lived, would be his destroyer.\n\nSo the demon crept into the palace of Dwaraka, terrible as death itself, and took the child. He had waited only until the child was in the world, and then he moved. No nurse stirred, no guard raised a cry. The demon folded the infant into his arms, carried him out of the city, and came at last to the edge of the dark ocean — and there he cast the boy into the sea, into the deep swarming with monsters, where the whirlpools roar and the huge creatures of the deep make their haunts.\n\nWhat is strangest in the old account is what Krishna did that night. Nothing. The tellers are careful to say that Krishna, moving through the world wrapped in the veil of his own divine power, knew everything — knew the thief, knew where the child was going — and yet he did not strike the demon down as he crept through the palace, though to Krishna the demon was no more invincible than a shadow. The abduction was allowed to happen, as though death itself were driving the demon on, because a story was beginning that would have to unfold in its own time.\n\nThe sea closed over the child without a sound. No ripple marked the place where he had gone down.\n\nIn Dwaraka, the search began at dawn and found nothing. Rukmini, who had held her son in the world for only a handful of days, mourned him the way a cow mourns the calf that has been taken from her. The palace women wept — a few days of holding the boy, and then the empty cradle — and the city wondered at the strangeness of the loss: that a demon should pass through the heart of Krishna's own city and vanish with a prince, as if the walls themselves were made of mist.\n\nBut the sea, that night, kept its own counsel. Far below the waves, beyond the reach of the watchers on the shore, a great fish was already moving through the deep, swimming toward the place where the child had fallen. It nosed through the dark water, patient as time. The boy the ocean had taken was not lost at all — he was only being carried, as the ocean carries all things, toward the shore where he was meant to land.\n\nAnd so the child slept in the dark of the sea while his mother wept in the light of Dwaraka, and neither of them knew that the same tide was slowly bringing them back together.",
+ "reflection": "Krishna's stillness is the strangest note in this story: he knows everything, the tellers say, and yet he lets the demon take the child. The theft is not a failure of divine watchfulness but a working of destiny — the enemy must be allowed to strike so that the son can grow into the very doom the demon feared.",
+ "tradition_note": "The sources differ on the child's age when he was stolen — six days in the Vishnu Purana, the seventh night in the Harivamsha; the Bhagavata Purana simply calls him a newborn. All three agree that Shambara cast him into the sea.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Krishna",
+  "Rukmini",
+  "Shambara"
+ ],
+ "locations": [
+  "Dvaraka"
+ ],
+ "themes": [
+  "destiny",
+  "danger",
+  "rebirth"
+ ],
+ "previous_story_id": "DKS_0334",
+ "next_story_id": "DKS_0336",
+ "next_story_tease": "But the sea was not done with the child — a great fish was already swimming toward the place where he had fallen.",
+ "hero_scene": "In the moonless dark of Dvaraka's inner palace, the shape-shifting demon Shambara lifts the sleeping newborn Pradyumna from the lying-in chamber and carries him out through a corridor of flickering torchlight, while the city sleeps on, unaware.",
+ "visual_elements": [
+  "Shambara as a shadow moving through the sleeping palace corridors",
+  "the newborn Pradyumna asleep in the demon's arms",
+  "the torchlit lying-in chamber with its empty cradle",
+  "the dark ocean swallowing the child at the shore",
+  "Rukmini weeping at dawn in the palace courtyard"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.55.1-2",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.251",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.27",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:28Z",
+  "source_event_id": "evt_0198",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

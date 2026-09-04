@@ -1,0 +1,54 @@
+{
+ "id": "DKS_0421",
+ "title": "A City Rises to Receive Krishna",
+ "subtitle": null,
+ "story": "Every street of Hastinapura was adorned as though for a festival when Krishna came. The principal avenues were decorated with jewels and gems, and no one, man, woman or child, remained indoors, so eager were the citizens to see him. Even before he reached the gates the welcome had begun: all the Dhartarashtras except Duryodhana, attired in their finest robes, had gone out to meet him, together with Bhishma, Drona, Kripa and the other elders, and the people followed by thousands, on cars of diverse kinds and many on foot.\n\nKrishna had risen at day-dawn, gone through his morning rites, and taken leave of the Bharatas before setting out for the city of the Kurus; the inhabitants of Vrikasthala came out to bid farewell to that mighty one of long arms, and only when he was gone did they return to their homes. Now, meeting Bhishma of spotless deed, and Drona, and Dhritarashtra's sons on the way, he entered the city surrounded by them all. The citizens lined the streets and bent their heads down to the ground, singing eulogies in his honour as he passed through. Substantial mansions, filled with high-born ladies, seemed about to fall down under their living weight, so thickly did the women lean from the windows to see him. And although Krishna's steeds were endued with great speed, yet they moved very slowly through that dense mass of human beings.\n\nHe came at last to Dhritarashtra's ash-coloured palace, enriched with numerous buildings, and passed through the first three chambers. There he came upon the royal son of Vichitravirya, the blind king Dhritarashtra himself. At Krishna's approach, the blind monarch of great fame stood up, and with him rose Drona and Bhishma, Kripa and Somadatta, and king Vahlika also: all of them stood up to honour him. Krishna approached the king, worshipped him and Bhishma with proper words and without losing any time, then greeted the other kings according to their seniority in years, and accosted Drona and his son, Vahlika, Kripa and Somadatta.\n\nIn the chamber lay a spacious seat of beautiful workmanship, made of gold and set with jewels. At Dhritarashtra's request, Krishna took that seat, and the king's priests duly offered him a cow, honey and curds and water, the rites of hospitality performed with care. When the rites were over, Krishna remained there for a while among the Kurus, laughing and jesting with them according to his relationship with each, honoured and worshipped by the blind king. Then, with Dhritarashtra's permission, he came out, greeted all the Kurus in their assembly, and went on to the delightful abode of Vidura.\n\nVidura received him with every auspicious and desirable offering. What use, he said, in telling Krishna of the joy he felt at this advent of his, for he was the inner soul of all embodied creatures. When the hospitable reception was over, Vidura, conversant with all the principles of morality, honest and learned and free of wrath, enquired about the welfare of the Pandavas. And Krishna, to whom the past and the future were as the present, knowing that Vidura was loved by the Pandavas and friendly towards them, learned and firm in morality, honest and harbouring no wrath, began to tell him everything in detail about the doings of the sons of Pandu.\n\nThe day had begun with a city pouring out of doors to see one arrival, and it ended with Krishna speaking of his cousins in the forest, in the lamplight of Vidura's quiet house. Everyone in Hastinapura had risen to honour him, and still the true purpose of his coming, the errand of peace, waited to be spoken aloud.",
+ "reflection": "The whole city rises to honour Krishna, and he returns the honour in exact order of age and standing, paying the court its due before a single word of his mission is spoken. His first night in Hastinapura is spent not among kings but with Vidura, the one man in the palace who loves the Pandavas; even his welcome is a quiet alignment.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Dhritarashtra",
+  "Bhishma",
+  "Drona",
+  "Vidura"
+ ],
+ "locations": [
+  "Hastinapura"
+ ],
+ "themes": [
+  "hospitality",
+  "honour",
+  "entry"
+ ],
+ "previous_story_id": "DKS_0420",
+ "next_story_id": "DKS_0422",
+ "next_story_tease": "The same afternoon, Krishna went to the house of his aunt Kunti, who had not seen her sons in a long time.",
+ "hero_scene": "Krishna's chariot moving slowly through the packed streets of Hastinapura, citizens bowing with heads to the ground and singing eulogies, high-born ladies leaning from the mansions overhead, while Bhishma, Drona and Dhritarashtra's sons ride at his side.",
+ "visual_elements": [
+  "streets of Hastinapura decorated with jewels and gems",
+  "crowds of citizens lining the streets, heads bowed, singing eulogies",
+  "Krishna's chariot moving slowly through the dense crowd",
+  "ladies leaning from mansions above",
+  "Krishna seated on the jewel-set golden seat before the blind king Dhritarashtra",
+  "the lamp-lit quiet of Vidura's house at night"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.89",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:10Z",
+  "source_event_id": "evt_0428"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0115",
+ "title": "The Gopis Grieve at His Leaving",
+ "subtitle": null,
+ "story": "Nanda gave the word, and it fell on the gopis like a blow. Gather all the milk and its products, he told the cowherds; tomorrow we go to Mathura, and we will carry the king his tribute. The gopis heard it, and their world tilted.\n\nSome of them lost the light from their faces, their breath coming short. Others stopped in the middle of whatever they were doing, lost in the thought of him. Others stood remembering him — his smiles, his way of walking, his laughing glances, the softness of his look — and were afraid of the separation that was coming. They turned on Akrura.\n\nYou showed us his face, they said, framed by those dark curls, the cheeks so fair, the fine nose, the little smile that chased away every sorrow — and now you are doing us a cruel wrong, carrying him out of our sight. You are called Akrura, \"not cruel,\" and yet you are cruel indeed: you gave us these eyes, and now you steal away the very thing they were given to see.\n\nOthers thought of the city, and their fear sharpened. The night will pass pleasantly for the women of Mathura, they said; their wishes have come true. Today the eyes of the city clans will feast on him, and we will be left here with nothing. He will hear their sweet and polished speech, and he will never again endure our rustic words. He captured our hearts with words sweeter than honey, and then he wanders off to be charmed by the bashful smiles of those simple city women. Nanda's son is new to affection, and his friendship breaks in a moment. We gave up our homes, our kin, our children, our husbands, to serve him — and now, how will he ever look at us again?\n\nLet us go and stop Madhava, one of them said. What can our elders and kinsmen do to us now? There he stands, the dry-hearted one, already mounting the chariot, while the proud ones urge him on.\n\nAnd they remembered the evenings, which were the worst of all to remember. At the close of day, when Krishna came back into Vraja with the cowherds around him, the dust of hooves on his hair and garland, playing his flute and casting his smiling, sidelong glances, he would steal their hearts all over again. His smiles and his sweet words, his playful glances and his embraces, had made their nights pass by like a moment. Without him, they asked one another, how were we ever to cross the darkness that now stretched ahead?\n\nThey wept, their bracelets hanging loose upon their wasted arms, and the thought of his going sat on the whole village through the night.",
+ "reflection": "The gopis' grief is remarkable for how precise it is. They name exactly what they will lose — his face, his smile, his flute at evening, the dust of hooves on his hair — and they fear, with reason, that the polished city will outbid their rustic love. Their sorrow is not vague; it is a catalogue of a life.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "gopis",
+  "Akrura",
+  "Krishna"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "grief",
+  "separation",
+  "longing"
+ ],
+ "previous_story_id": "DKS_0114",
+ "next_story_id": "DKS_0116",
+ "next_story_tease": "But Krishna would not leave them to their weeping without a word.",
+ "hero_scene": "A cluster of gopis grieving in Vrindavan as word of the journey spreads, one pressing a hand to her heart while others look toward the road to Mathura, Akrura's chariot and the loaded carts in the background.",
+ "visual_elements": [
+  "gopis in grief",
+  "Akrura and his chariot",
+  "Nanda announcing the journey",
+  "loaded carts and milk tributes",
+  "the road to Mathura",
+  "evening light over Vrindavan",
+  "grief and dread"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.39.10-30",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.18",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:25Z",
+  "source_event_id": "evt_0125"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

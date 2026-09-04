@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0074",
+ "title": "Krishna Dances on Kaliya's Heads",
+ "subtitle": null,
+ "story": "In the deep water of the Yamuna, the great serpent Kaliya had wound himself around Krishna and was squeezing. Kaliya had made his home in that stretch of the river, and his poison had made the water deadly; Krishna, a cowherd boy of the village of Gokula, had gone down into the pool to drive the serpent out. Now the people of Gokula stood on the bank watching, helpless — the women and children most of all, for it was for their sake that Krishna had gone into the water. There was no one to pull him out, no one strong enough even to try. The village could only stand at the river's edge and grieve.\n\nThen Krishna stirred. He looked at the frightened faces on the bank, waited a single moment, the way a human boy would wait — and rose up out of the serpent's coils as easily as a man rises from a rope that has come loose.\n\nBut Kaliya was not finished. Smarting and furious, he reared up and spread his hundred heads, and stood hissing in the water, his eyes fixed on Krishna like burning coals, his forked tongue licking the air. There was poison in his glance, and fire, and the water around him grew bitter with his rage. He struck, and Krishna turned. Round and round the two of them moved in the river, the way a great eagle circles its prey, each watching for an opening that never came. The serpent had never met anyone who could match his turns, and it unsettled him; the boy was always a step ahead, always just out of reach. With every circle the serpent's strength ebbed a little, until his heads began to droop, one by one.\n\nThen Krishna climbed. He stepped up onto the serpent's broad, raised heads, and he began to dance.\n\nKaliya's heads were set with jewels, and the rubies beneath his feet turned Krishna's feet red as he moved. He danced as lightly as if the water were solid ground. Wherever a hood refused to bow, Krishna pressed it down with the sole of his foot, as a man presses down what will not yield. It was a hundred-headed thing, that serpent, but every head that rose in defiance was beaten down again, and the water around them darkened as the serpent's body failed, his strength draining out of him with every step of the dance.\n\nThe musicians and sages of heaven gathered above, the wives of the gods with them, and they did not stay silent. With drums and sweet songs they showered flowers on the boy dancing on a serpent's heads and raised their voices in praise, as if this were the most natural stage in the world. To them the dance was not cruelty; it was a wonder, and they could not look away.\n\nOne hood at a time, Kaliya's pride was crushed. Then, as the dance wore on and his strength left him, something turned inside the serpent. He remembered the ancient being who holds within himself all that moves and all that stands still — Narayana — and in his mind, beaten and bleeding, he took refuge there.\n\nIt was then that the serpent's wives came forward through the water, their clothes and hair in disarray, their ornaments slipping, their faces full of grief, and stood before the boy who danced on their husband's heads.\n\nAnd the dance slowed, and stopped. The river grew still around them, and the only sound left was the breathing of a hundred tired heads.",
+ "reflection": "Krishna does not flee when the serpent's coils loosen; he climbs and dances. The discipline is precise rather than cruel — each hood that will not bow is pressed down, and it is this that finally turns the serpent's thoughts to refuge.",
+ "tradition_note": "The Harivamsha and Vishnu Purana fold this dance into the episode of Kaliya's banishment rather than treating it as a separate moment.",
+ "content_note": "Depicts Krishna overpowering the serpent Kaliya; the serpent is trampled and injured.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "vrindavan",
+ "story_arc": "kaliya_and_yamuna",
+ "characters": [
+  "Krishna",
+  "Kaliya"
+ ],
+ "locations": [
+  "Yamuna river"
+ ],
+ "themes": [
+  "victory",
+  "divine_power"
+ ],
+ "previous_story_id": "DKS_0060",
+ "next_story_id": "DKS_0085",
+ "next_story_tease": null,
+ "hero_scene": "Krishna dances on the raised, jewelled heads of the serpent Kaliya in the waters of the Yamuna, trampling each hood that will not bow, as the snake's many heads rear and hiss around him.",
+ "visual_elements": [
+  "Krishna dancing on the serpent's heads",
+  "Kaliya with a hundred rearing hoods",
+  "the dark waters of the Yamuna",
+  "celestial beings showering flowers and music",
+  "distraught serpent wives",
+  "tension turning to stillness"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.16.22-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:49Z",
+  "source_event_id": "evt_0070",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

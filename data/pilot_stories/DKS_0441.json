@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0441",
+ "title": "Krishna Offers Karna the Kingdom",
+ "subtitle": "Karna learns he is Kunti's firstborn son.",
+ "story": "Krishna had come to Hastinapura to speak for peace, and when he left he did a stranger thing than any of his speeches. In the sight of the princes and their servants, he took Karna up onto his own chariot — Karna, the warrior the whole court knew as a charioteer's son — and drove out through the city gate with him alone, leaving the court to its whispering. No one in that city could have guessed what the two men would say to each other once the walls were behind them.\n\nOn the road beyond the walls he turned to the man beside him. His voice was low and kind, like thunder heard from far off, and his words were gentle and firm at once — true, helpful, and easy to hear. \"You have honored the Brahman priests,\" he said, \"and with a quiet mind, free of envy, you have questioned them about the truth. You know the eternal words of the Vedas, the ancient hymns, and the hidden depths of the scriptures. Then you know what the wise say of a son born to a maiden: the man who marries the maiden is the boy's father. Karna, you were born that way. By that law, you are the son of Pandu.\"\n\nHe did not stop there. \"Know this: on your father's side your brothers are the sons of Pritha — that is, the five Pandavas, sons of Kunti. On your mother's side your kin are the Vrishnis, the clan Kunti was born into. These are your own people. Come, be a king, as the scriptures allow. Ride with me from this very day, and let the Pandavas greet you as what you are — a son of Kunti, born before Yudhishthira himself.\"\n\nThen Krishna told him, piece by piece, what the offer meant, and every piece carried weight. The five Pandava brothers would bow and touch his feet. The sons of Draupadi and the son of Subhadra — Arjuna's wife, and Krishna's own sister — would do the same. Every king and prince gathered to the Pandava cause, and all the Andhakas and the Vrishnis, would honor him as their eldest. Queens and princesses would come for his crowning bearing jars of gold and silver and clay, filled with water, with sweet herbs and every kind of seed, gem, and creeper. Draupadi, the Pandavas' wife, would in time come to him as a wife. And Dhaumya, the Pandavas' calm and learned priest, would pour the offerings of butter on the sacred fire while Brahmans learned in all four Vedas performed the ceremony of his crowning.\n\nKrishna fell silent. The road was quiet, and the words hung between the two men on the chariot, heavier than anything either of them carried.\n\nThe man the world called the son of Radha — Radha, the charioteer's wife who had raised him — listened while a kingdom was set before him like a feast on the open road. Everything he had ever been denied lay in those words: a father's name, a mother's sons, a throne, a true place among his own. He had built his whole life on being a charioteer's son, and now he was being told that even that name rested on a secret no one had ever shared with him. The chariot stood still. And the offer stood waiting, unanswered.",
+ "reflection": "Krishna's gift is devastating precisely because it is true: in a single breath he hands Karna the birthright he was denied and, with it, a choice he never asked to face — to claim a kingdom at the cost of the life and loyalties he had already built. The passage does not record an answer, and that silence is its own weight.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Karna",
+  "Kunti",
+  "Yudhishthira"
+ ],
+ "locations": [
+  "near Hastinapura"
+ ],
+ "themes": [
+  "identity",
+  "loyalty",
+  "birth secret"
+ ],
+ "previous_story_id": "DKS_0408",
+ "next_story_id": "DKS_0456",
+ "next_story_tease": null,
+ "hero_scene": "On a quiet road outside the walls of Hastinapura, Krishna stands beside Karna on the halted chariot, speaking as the afternoon light falls over the two of them — the offer of a kingdom hanging in the air between them.",
+ "visual_elements": [
+  "Krishna and Karna standing on a chariot",
+  "the road outside Hastinapura's walls",
+  "the city gates behind them",
+  "Karna listening, still and grave",
+  "gold and silver water jars, herbs, seeds and gems imagined for the consecration",
+  "quiet afternoon light",
+  "the weight of an unspoken choice"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.140",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:15:44Z",
+  "source_event_id": "evt_0448",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

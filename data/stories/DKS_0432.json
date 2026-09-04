@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0432",
+ "title": "Krishna Urges the Elders to Bind Duryodhana",
+ "subtitle": null,
+ "story": "The Kuru court emptied in Duryodhana's wake, and when the last of his followers had gone, Krishna stood before the elders who remained. He had come to Hastinapura to ask peace of the Kurus for their cousins the Pandavas, and the peace had just walked out of the hall. His eyes were still red, but his voice was quiet, and what he said was not counsel any more. It was an indictment.\n\n\"Even this is a great transgression,\" he said, \"of which all the elders of the Kuru race are becoming guilty — for they do not forcibly seize and bind this wicked king.\"\n\nThe words fell on the old men of the court like a stone into still water. Bhishma had spoken of the hour of the warriors; Krishna now named who bore the blame for letting it arrive. The king's counsellors had watched Duryodhana refuse peace, insult a brother's wife, plot murder by fire and poison — and they had stood, and let him walk out. In Krishna's telling, standing by was itself a crime.\n\nThen he gave them the example they could not answer, and it was his own. \"Kamsa, the son of Ugrasena, abandoned by his relatives, was slain by me in a great encounter, from desire of benefiting my kinsmen.\"\n\nHe did not need to explain it. The old kings in that hall knew the story: Kamsa, the tyrant of Mathura, who had imprisoned his own sister and murdered her children, who had hunted his nephew across the countryside — and who had at last been struck down, not by an army, not by the gods, but by the kinsman he had wronged, acting for the sake of his kin. The wicked had been seized, bound, and ended, and the family had survived. That was what a kinsman did, Krishna said, when a kinsman turned tyrant. That was the standard by which the elders of the Kurus would now be judged.\n\n\"Binding Duryodhana fast,\" he said, \"make peace with the Pandavas.\"\n\nThe assembly heard the two halves of it, and understood that they were one command. To bind the wicked king — that was the necessary act. To make peace with the Pandavas — that was its purpose. The peace that had been begged for, pleaded for, offered in sweet words and reasonable arguments, had come to this: it could only be achieved by the elders laying hands on their own king. Krishna had come to Hastinapura asking for five villages and a chance for the cousins to live; he left the elders of the Kurus with a harder question than any he had brought. Would they seize Duryodhana to save him from himself? Or would they stand by, guiltless in their own eyes, and watch the slaughter that would follow?\n\nThe silence that answered him stretched through the hall. No elder stepped forward. No hand was laid on the king who had already left the court. And Krishna, who had done what a friend could do — who had spoken sweet words, and plain words, and terrible words — had nothing left to say to men who would not act. He had urged them to bind the wicked king, and they had not, and the hour Bhishma had seen was nearer now than it had been that morning.",
+ "reflection": "Krishna's appeal to the elders rests on a startling precedent — his own killing of Kamsa, a kinsman turned tyrant, done for the sake of his kin. The charge is that the elders' inaction is itself a crime: peace is not merely advised but demanded, and the demand exposes how far the Kurus have fallen from what kinship requires.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Bhishma",
+  "Drona",
+  "Duryodhana",
+  "Kamsa"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "justice",
+  "kinship",
+  "counsel"
+ ],
+ "previous_story_id": "DKS_0431",
+ "next_story_id": "DKS_0433",
+ "next_story_tease": "But the elders' silence was not the last word — plans were already being laid to seize Krishna himself.",
+ "hero_scene": "In the nearly empty Kuru assembly, Krishna stands facing the elders — Bhishma, Drona and the rest — with one hand extended in accusation, urging them to bind the wicked king who has just stormed out.",
+ "visual_elements": [
+  "Krishna standing in the emptying assembly, addressing the elders",
+  "Bhishma and Drona seated, silent, before him",
+  "the empty throne of the departed king",
+  "the gesture of binding, invoked by Krishna's extended hands",
+  "the heavy silence of elders who will not act"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.128",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:11Z",
+  "source_event_id": "evt_0439",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

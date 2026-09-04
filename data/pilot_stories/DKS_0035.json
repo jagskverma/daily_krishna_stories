@@ -1,0 +1,66 @@
+{
+ "id": "DKS_0035",
+ "title": "Krishna Uproots the Twin Arjuna Trees",
+ "subtitle": "How he came to be called Damodara",
+ "story": "Everyone in Gokula knew that the crawling child could not be kept still. Krishna slipped into the cow sheds and came out gray with ash and dust. He rolled in the cow dung and only laughed. Pasted with ashes and powdered dung, his small body shone like a little prince of fire. He wandered into every corner of the village; his father Nanda could not check him, and his mother Yashoda could not keep pace with him. When she caught him and began to scold him, he looked back at her with such innocent eyes that the scolding died on her lips, and she laughed in spite of herself.\n\nOne morning, though, the mischief went too far, and Yashoda's patience ran out for good. Worked up with real anger, she took up a length of rope, fastened it around the boy's waist, and tied the other end to a heavy wooden mortar, the great block on which the household pounded its grain. \"Now go,\" she told him, \"go where you will — if you can.\" Then she turned back to her work, certain the matter was settled.\n\nIt was from that day, and from that rope, that he came to be called Damodara — the one bound by a rope around his belly. But a rope could not hold him. Dragging the mortar after him, Krishna left the courtyard and made his way toward the edge of the forest, where two great arjuna trees stood side by side — twin trees, tall and straight, grown huge with years, their branches laced together overhead. He meant to surprise the people of Gokula, to play a game that only he understood. The mortar scraped behind him over the packed earth, heavier than he was, yet he dragged it as if it weighed nothing at all. At the edge of the forest the two trees rose before him, straight as two pillars of an unseen gate.\n\nHe crawled between them, pulling the mortar through the narrow space. The mortar caught against their roots and held. Krishna pulled, and pulled again, harder. And with a single tug the two trees tore up out of the earth, roots and branches and all, and came crashing down with a sound that carried through the whole of Gokula. Birds burst from the fallen branches. Dust rose in a pale cloud and hung in the air, and for a long moment no one moved. The earth where the trees had stood lay torn open, and their long roots, thick as a man's arm, pointed up at the sky.\n\nThe cowherds came running at the noise and stopped short at what they saw. Where two great trees had stood there were only two fallen trunks, their great crowns thrown across the path — and Krishna, still tied to his mortar, laughing, as if to show them all what a child could do.\n\nBut those two trees had not always been trees. They were two sons of Kubera, the lord of wealth, whom a sage had cursed to stand rooted in the earth until someone set them free. Tall as they were, broad as their branches spread, they were prisoners, and no one in Gokula had ever guessed it. Year after year the two had stood in their green stillness, leaf and branch instead of arms and legs, waiting for the sage's word to come true. It was to make that word good that Krishna passed between them. A child too small to be trusted out of the yard had, with one pull, ended their long imprisonment and drawn them back into the light.\n\nWhen the dust settled, the two great trees lay still upon the ground. And between them sat a crawling child, a rope still at his waist, laughing.",
+ "reflection": "The story holds two wonders in one image: a child too small to walk brings down two great trees, and beneath their crash two cursed beings are set free. The binding meant to restrain him becomes the very thing that liberates.",
+ "tradition_note": "The Harivamsha and Vishnu Purana fold the earlier rope-binding into this episode; the Bhagavata opens with Krishna already bound — Damodara.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yashoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "liberation",
+  "divine_strength"
+ ],
+ "previous_story_id": "DKS_0033",
+ "next_story_id": "DKS_0047",
+ "next_story_tease": null,
+ "hero_scene": "A crawling child, a rope tied around his waist to a heavy wooden mortar, sits laughing between two great fallen arjuna trees, their roots torn from the earth.",
+ "visual_elements": [
+  "Krishna as a crawling toddler",
+  "a rope around his waist",
+  "the wooden mortar",
+  "two tall arjuna trees uprooted",
+  "dust and fallen branches",
+  "wondering cowherds",
+  "Gokula forest edge"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.10.23-26",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.62",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.6",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:06:49Z",
+  "source_event_id": "evt_0049",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

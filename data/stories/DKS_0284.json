@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0284",
+ "title": "Sixteen Thousand Homes, One Krishna",
+ "subtitle": null,
+ "story": "Narada had heard an impossible thing: that Krishna, with a single body, had married sixteen thousand women and kept a household for each. The sage, who wanders the three worlds and is astonished by little, was astonished by this. He came to Dwaraka to see it with his own eyes.\n\nThe city itself was the first marvel — nine hundred thousand palaces of crystal and silver, the verses say, streets laid out with care, squares and marketplaces full of life. But the inner palace was something more: sixteen thousand mansions with coral pillars and beryl floors, hung with canopies of pearls, lit by jeweled lamps that left no corner dark, peacocks calling from the roofs, maidservants moving through the rooms in gold necklaces and fine robes.\n\nNarada entered the first mansion — the palace of Rukmini. There was Krishna, resting on a couch while his queen fanned him. The moment he saw the sage he rose, bowed, and seated him with honor; he washed Narada's feet and took the water of that washing onto his own head — the one whom the worlds worship did reverence to a guest. Then he asked what he could do for the sage.\n\nNarada's answer was praise of a strange kind. \"Nothing in you is wonderful, Lord of all worlds,\" he said, \"for friendship toward every being, firmness toward the cruel, a life descended freely for the good of the world — these are simply what you are. I have seen your feet, the refuge of all who fall. Let me never lose the memory of you.\"\n\nNarada rose and went to the second mansion — and there was Krishna again, playing dice with the lady of that house, and with Uddhava, his close friend and adviser. \"When did you arrive, sage?\" they asked him, as if he had only just come.\n\nIn the third mansion Krishna sat with small children laughing in his lap. In the fourth he poured offerings into the sacred fire, performing the five great sacrifices of a householder. In the fifth he sat in the twilight stillness, murmuring the sacred words of the Veda. In the sixth he was riding out among horses, elephants, and chariots. In the seventh he sat in counsel with his ministers, Uddhava among them. In the eighth he was giving adorned cows to the foremost brahmanas. In the ninth he laughed at a jest with his beloved. In the tenth he sat alone, absorbed in the vast silent Being behind all change. And still the mansions went on: here he made war with some kings and peace with others; there he performed the thread ceremonies and the weddings of his sons and daughters and kept the festivals of his children; elsewhere he worshipped all the gods with great sacrifices, or rode to the hunt on a Sindhu horse.\n\nIn all sixteen thousand mansions, the same. In every home Krishna was wholly present, and nowhere was he less.\n\nAfter the first few mansions Narada stopped being surprised at the sight of him and began instead to test what he saw. In one home Krishna was mid-sentence with a minister; in the next, mid-verse of a chant; yet when Narada entered, each Krishna looked up as though the sage were the only guest in the world, and greeted him with the same complete attention. The same Krishna. The same fullness.\n\nAt last Narada came before him and laughed, like a man who has seen a trick he cannot explain. \"I know your yoga-maya now,\" he said — the power by which Krishna was one, yet wholly present in every home at once. \"Even the clever cannot see it. Permit me to depart, Lord, to the worlds that are flooded with your glory.\"\n\nKrishna let him go. Narada left Dwaraka with his question dissolved: he had come to measure how one man could be husband to sixteen thousand wives, and he had learned that the question was wrongly put. In every home Krishna had been complete; nothing of him had been shared thin, nothing diminished. Some things, the sage had discovered, are not lessened by being given everywhere at once.",
+ "reflection": "Narada's wonder is the point: he comes to Krishna's sixteen thousand households as a puzzle of logistics and finds the puzzle itself dissolved — in each home Krishna is wholly present, and nothing of him is divided or lessened. The story does not explain yoga-maya; it shows it, room by room, and lets the seeing be the understanding.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Narada",
+  "Krishna",
+  "Rukmini",
+  "Uddhava"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "omnipresence",
+  "wonder",
+  "devotion"
+ ],
+ "previous_story_id": "DKS_0283",
+ "next_story_id": "DKS_0285",
+ "next_story_tease": "But even as he took leave, Narada knew the wonder was deeper than he could name — and his song of Krishna's glory was about to begin.",
+ "hero_scene": "Narada stands at the threshold of a pearl-hung Dwaraka mansion and sees Krishna within — playing dice with a wife — while in the palaces behind him the same Krishna lifts a child, pours oblations into the fire, and rides out to the hunt, all at once.",
+ "visual_elements": [
+  "Narada",
+  "Krishna",
+  "Rukmini",
+  "Uddhava",
+  "the palaces of Dwaraka",
+  "pearl canopies",
+  "dice",
+  "sacrificial fires",
+  "wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.69.1-38",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:41Z",
+  "source_event_id": "evt_0257",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

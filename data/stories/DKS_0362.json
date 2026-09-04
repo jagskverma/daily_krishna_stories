@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0362",
+ "title": "Krishna Rejoices as Arjuna Wins Draupadi",
+ "subtitle": null,
+ "story": "In the amphitheatre of Panchala, the great bow lay on its stand in the middle of the ground, and it had already beaten every king in the land. One after another the monarchs had risen, strained against it, and sat down again in failure; the bow would not bend for them. The target wheel turned high overhead, and through the hole in its rim hung a mark, waiting for the one man in the world who could send an arrow through it.\n\nThat day the prize was Draupadi, the daughter of Drupada, king of Panchala: she was to be won by the man who could string the bow and shoot the mark, and the amphitheatre held half the kings of the earth come to try. Rukma had failed, and Sunitha, and Vakra. Karna, the great archer of the charioteer's house, had failed. Duryodhana had failed. Salya, mighty among the kings, had failed. And the brahmins who had come as guests watched the royal suitors sink back one by one, while the whole hall grew heavy with their disappointment.\n\nAmong the guests sat Krishna, a prince of the Yadavas — the one man in the amphitheatre who knew that the young brahmins near the priests' seats were not what they seemed. The middle one was Arjuna, his cousin, one of the five Pandava brothers the world believed dead. Years before, on a green hill in Vrindavan, Krishna had promised to befriend Arjuna for as long as he lived.\n\nThen a young man rose from among the brahmins seated in the assembly, and a clamour went up. Some of the priests tried to stop him — how could a young brahmin, unpractised in arms, string a bow that the great warriors of the royal houses could not? If he failed, the whole company of brahmins would be mocked before the assembled kings. But others spoke for him. Did not Rama, son of Jamadagni, once defeat the whole warrior class? Did not the sage Agastya drink the fathomless ocean by his own power? Never despise a brahmin's strength, they said, for brahmins are strong in a strength of their own. Let the youth bend the bow. And the brahmins, in their hundreds, blessed him as he walked forward.\n\nThe young man was Arjuna, the middle of the five Pandava brothers, disguised as a priest. He walked around the bow, bent his head to Ishana — one of the names of Shiva, the giver of boons — and remembered Krishna. Then he took up the bow that the kings of the earth could not string, and strung it in the blink of an eye. He took up the five arrows, shot through the hole in the wheel, and the mark fell to the ground.\n\nThe sky itself applauded. The gods showered celestial flowers on the head of the young victor; thousands of brahmins waved their upper garments in joy; the musicians struck up together, and the bards sang his praises — while all around the hall, the kings who had failed cried out in grief and despair. Drupada, watching, was filled with joy and ready to lend his armies to the victor. In the uproar, Yudhishthira, the eldest of the five brothers, slipped quietly away with the twins, Nakula and Sahadeva.\n\nAnd Krishna, who had watched it all from among the crowd, saw the mark fallen and his cousin standing there shining like Indra himself — and his heart filled with joy. He moved through the celebrating throng, carrying a white robe and a garland of flowers, the honours of a victor, and placed them on Arjuna. No one in that hall understood the gesture. No one needed to.\n\nWhen Arjuna left the lists, every brahmin in the hall saluted him with reverence, and close behind him walked Draupadi, who had become his wife — while the defeated kings of the earth watched the unknown young brahmin walk out of the amphitheatre with the prize.",
+ "reflection": "Krishna's joy is different from the amphitheatre's roar: everyone else marvels at the feat or grieves over it, but Krishna moves through the crowd carrying a white robe and a garland — not celebrating the deed but honoring the man, with a private gesture in the middle of a public triumph. It is the first gift of a friendship promised years before on the slope of Govardhana, and the promise has begun to keep itself.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna",
+  "Draupadi"
+ ],
+ "locations": [
+  "Panchala",
+  "Drupada's amphitheatre"
+ ],
+ "themes": [
+  "joy",
+  "recognition",
+  "friendship"
+ ],
+ "previous_story_id": "DKS_0361",
+ "next_story_id": "DKS_0363",
+ "next_story_tease": "Before the day was out, Krishna would whisper the truth of the disguised Pandavas to Balarama.",
+ "hero_scene": "In the amphitheatre of Panchala, the great bow unstrung on its stand as the young brahmana — Arjuna in disguise — holds up his arrow after shooting the mark through the wheel, while flowers rain from the sky and Krishna moves through the crowd toward him, carrying a white robe and a garland.",
+ "visual_elements": [
+  "the great bow of Panchala on its stand",
+  "the kings of the earth gathered in the amphitheatre",
+  "Arjuna in brahmana's guise stringing the bow",
+  "the mark falling through the hole in the wheel",
+  "celestial flowers raining from the sky",
+  "the brahmanas waving their upper garments in joy",
+  "Krishna approaching with a white robe and a garland of flowers"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.190",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:19Z",
+  "source_event_id": "evt_0381",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

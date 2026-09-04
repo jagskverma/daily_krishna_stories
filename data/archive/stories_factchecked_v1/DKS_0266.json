@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0266",
+ "title": "One Hour, Sixteen Thousand Weddings",
+ "subtitle": null,
+ "story": "In Dwaraka, sixteen thousand one hundred brides were waiting — and one bridegroom who had promised himself to all of them.\n\nThe maidens Krishna had freed from Naraka's palace had come to the city with the demon's treasures, and the city had taken them in. They were princesses, daughters of kings from many lands, carried off from their families and shut away in the tyrant's seraglio. Now they were free, and they had made their choice with their own eyes the moment they saw Krishna standing in the demon's hall. They had chosen him, every one of them, before a word was spoken.\n\nKrishna, meanwhile, took possession of the wealth, the elephants and the horses recovered from Naraka, and the city absorbed them into its storehouses almost without noticing; its mind was elsewhere. At an auspicious season the wedding came. In separate mansions across Dwaraka, sixteen thousand one hundred brides were veiled and waiting; and in a single moment Krishna married them all. He multiplied himself into as many forms — one for each bride — and at the same instant received the hand of every one of them, according to the ritual, in her own house. Each bride saw only her bridegroom; each believed he was hers alone. And each of them was right.\n\nNor did the marvel end with the ceremony. Krishna took up residence in each of those houses, living with each wife as a householder lives with his own — present to her, and to all of them, at once. The text pauses over the impossibility of it: he stayed in their homes, undivided, in a way beyond all reckoning and comparison, and none but the lord could perform such a feat. Even Brahma and the other gods, it says, cannot trace his path — cannot follow the way by which one man is wholly present to sixteen thousand one hundred wives.\n\nAs for the brides themselves, they did what brides do in the old stories, but with a joy that makes the heart ache. They rose to greet him and offered him seats; they worshipped him and washed his feet; they brought him betel and rest and cooling fans, garlands and perfumes; they tended his hair, his bed, his bath. Hundreds of maidservants served each household, and the wives gave themselves to their husband with a love that only grew — laughing, glancing, shy at each new meeting, delighted at each familiar one. And their love did not cool with custom or the turning of the seasons; it kept rising, fed from within, the way the same spring feeds a hundred gardens at once. They had been prisoners, and now they were wives; their devotion poured out in the small offices of a shared life.\n\nIt is this that the storytellers cannot stop wondering at: not the scale of the wedding, but its intimacy. A king might marry many wives by proxy, or visit them in turn; this was different. Each marriage was complete. Each bride had her husband fully — not a fraction of him divided among thousands, but the whole of him, present to her alone, in her own house, every day.\n\nSo Dwaraka settled into an even stranger peace: a city of palaces, each with its bride and its lord, and a lord who was everywhere and never absent. The city, which had received the maidens as guests, came to know them as queens — each with her own house, her own garden, her own claim on the same undivided heart. The maidens Naraka had stolen were home at last, and the one who had freed them had become, to each of them, the whole of home.",
+ "reflection": "The multiplication is not a spectacle of power but a statement about intimacy: Krishna is not divided among his wives, each of whom receives him whole. The text's wonder — that even Brahma cannot trace his ways — points to something quieter: nearness to him is always total, never a share.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Princesses"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "marriage",
+  "omnipresence",
+  "grace"
+ ],
+ "previous_story_id": "DKS_0265",
+ "next_story_id": "DKS_0267",
+ "next_story_tease": null,
+ "hero_scene": "Dwaraka at the hour of the weddings: sixteen thousand one hundred mansions each lit for a bride, and in each one, simultaneously, Krishna taking the hand of his bride — the same lord, wholly present, in every house at once.",
+ "visual_elements": [
+  "sixteen thousand one hundred bridal mansions lit across Dwaraka",
+  "Krishna multiplied into as many forms, taking each bride's hand at the same moment",
+  "the brides rising to greet him, washing his feet, offering garlands and fans",
+  "the city at peace with its countless palaces",
+  "marriage and grace"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.59.41-44",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.31",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:08Z",
+  "source_event_id": "evt_0211"
+ },
+ "editorial_status": "unreviewed"
+}

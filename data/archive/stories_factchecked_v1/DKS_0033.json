@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0033",
+ "title": "Krishna Breaks the Butter Pot",
+ "subtitle": null,
+ "story": "Yasoda was churning. She sat at the churn, working the rope with both arms, and the whole of her told the story of a mother's long morning: the cloth bound at her waist with its cord, the garland of jasmine slipping from her hair, the sweat on her face, the small rings at her ears swinging as she pulled, her bangles shifting with every strain of the rope. It was the kind of morning that promised to be long and uneventful, and Yasoda was glad of it. The curd turned in the pot, and the butter was nearly ready.\n\nThen her son came to her. He was hungry, and he came and stood close, pulling at her and wanting to be held, and she could feel the churn slow as she turned to him.\n\nShe lifted him onto her lap and nursed him, and as he fed she looked down at his face and smiled. It was the still, warm moment of the day.\n\nIt did not last. Behind her, the milk she had set to boil — forgotten in the warmth of that moment — climbed the sides of its pot and began to spill, hissing onto the coals. Yasoda had to set the child down and run to it. She left him there beside the churn.\n\nHe did not take well to being put down. One moment he had been warm and fed and held; the next, he was alone on the floor.\n\nHis lower lip began to tremble. He bit it with his small teeth, angry, and looked at the churn-pot — the pot full of fresh butter — and then he broke it. The pot fell apart, and all the butter of the morning's churning lay open before him.\n\nHe took up the butter, and, being a child left to his own devices, he did not eat it all himself; with no one there to tell him otherwise, he ate only what he pleased and shared the rest. He climbed up on the upturned mortar where it stood, and there, out of Yasoda's sight, he held out the butter, and a monkey — one of the creatures that wandered freely through the cowherd lanes — came and took it from his hand, and ate it with as much delight as if it had been a feast.\n\nWhen Yasoda came back and saw the broken pot and the butter gone, she understood at once who had done it. She picked up a stick.\n\nThe boy saw the stick. He scrambled down and ran — as if he were afraid, though anyone watching would have seen that his fear was a game. And his mother ran after him.\n\nIt was a curious chase. The same child whose mind, the scriptures say, even the yogis in their long austerities cannot reach or enter — he was running through his own courtyard, and his mother was gaining on him. She ran with her full, swaying burden, her waist slender above it, her breath coming short, and still she could not quite catch him.\n\nAt last he let himself be caught. And when she had him, he did the thing that undid all her anger: he rubbed his eyes with his small, sooty hands — hands black with the collyrium and ash of the morning — and he cried, with tears that left black smears down his cheeks, the very picture of a wronged and sorry child. And Yasoda, who had come running with a stick, found the stick hanging loose in her hand, her anger already gone. The butter, the chase, the broken pot — none of it mattered now.",
+ "reflection": "The comedy is gentle because it turns on a real child's logic: interrupted at the breast, he takes the next sweet thing and shares it, then runs and pretends to cry. Even the line that the yogis cannot reach him lands lightly — the point is not his power but that a mother's chase is the one pursuit he never really outruns.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yasoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "mischief",
+  "mother's_chase"
+ ],
+ "previous_story_id": "DKS_0032",
+ "next_story_id": "DKS_0035",
+ "next_story_tease": "Yasoda's anger would not last, and soon she would go looking for a rope.",
+ "hero_scene": "In a sunlit cowherd courtyard, a young Yasoda chases a giggling toddler Krishna past an overturned churn and a broken butter pot, a stick raised in one hand and a half-eaten lump of butter in his.",
+ "visual_elements": [
+  "sunlit courtyard",
+  "overturned churn and broken butter pot",
+  "toddler Krishna running with stolen butter",
+  "Yasoda chasing with a stick",
+  "a monkey eating the shared butter",
+  "mood of warm mischief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.9.1-10",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T18:36:37+05:30",
+  "source_event_id": "evt_0046"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,39 @@
+# STORY DKS_0494 — Nanda's Farewell
+
+## Index entry
+title: Nanda's Farewell
+summary: Vasudeva, overcome with love, laments that riches blinded him to old friends, and Nanda, honored by the Yadavas with rich gifts, departs for Mathura with the cowherds.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Vasudeva, Nanda, Krishna, Balarama, Uddhava
+locations: Samanta-panchaka
+themes: friendship, gratitude, parting
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0495
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 84 | verses 58-69 | confidence 5
+  excerpt: Vasudeva, weeping as he recalls the friendship, tells Nanda that the snare called affection is hard to cast off, and that blinded by royal splendor he neglected his old friend. Nanda stays three months, honored by the Yadavas, and then, laden with rich gifts from Vasudeva, Ugrasena, Krishna and Uddhava, departs with the cowherds, his heart fixed on Krishna's lotus feet. (rendered from Sanskrit, ve
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.84 (58-69)
+58. nandas tu saha gopālair bṛhatyā pūjayārcitaḥ /
+59. vasudevo 'ñjasottīrya manoratha-mahārṇavam /
+60. bhp_10.84.061/0 śrī-vasudeva uvāca
+61. asmāsv apratikalpeyaṃ yat kṛtājñeṣu sattamaiḥ /
+62. prāg akalpāc ca kuśalaṃ bhrātar vo nācarāma hi /
+63. mā rājya-śrīr abhūt puṃsaḥ śreyas-kāmasya māna-da /
+64. bhp_10.84.065/0 śrī-śuka uvāca
+65. nandas tu sakhyuḥ priya-kṛt premṇā govinda-rāmayoḥ /
+66. tataḥ kāmaiḥ pūryamāṇaḥ sa-vrajaḥ saha-bāndhavaḥ /
+67. vasudevograsenābhyāṃ kṛṣṇoddhava-balādibhiḥ /
+68. nando gopāś ca gopyaś ca govinda-caraṇāmbuje /
+69. bandhuṣu pratiyāteṣu vṛṣṇayaḥ kṛṣṇa-devatāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0493 | next_story_id: DKS_0495
+previous title: Krishna's Counsel to the Gopis
+next title: Krishna Sports with His Sixteen Thousand Wives

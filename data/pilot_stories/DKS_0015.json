@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0015",
+ "title": "Kamsa Comes to Slay the Newborn Girl",
+ "subtitle": null,
+ "story": "The knock came in the deepest part of the night, and it tore Kamsa from his sleep. The palace lay dark and still around him, and the knock sounded like the thing he had spent years refusing to believe would come. For years he had dreaded such a summons. The prophecy spoken at his sister's wedding had never left him: Devaki's eighth child would be his death. One by one he had destroyed the children she had borne, dashing them as they came into the world, so that no child could grow into the doom that had been promised to him. Every knock at the palace door in the dark hours had carried the same question, and now, at last, the guards came quickly with the answer: in the prison, in the night, a child had been born to Devaki — a daughter.\n\nHe rose from his bed in an instant, wild-eyed and agitated, certain in his heart that the hour he feared had come at last, and rushed through the corridors of the palace to the prison. His feet carried him faster than thought, and the guard at the cell door stepped aside for him.\n\nIn the cell, Devaki held her newborn close. She was the king's own younger sister, but she had spent her years of motherhood in a locked room, watching each child taken from her before she had truly had the chance to hold it. When she saw her brother in the doorway she began to plead — not as a prisoner to a king, but as a sister to a brother. The lamplight fell soft on the child in her arms, and on her face, which was thin with the years of watching and loss.\n\n“You have killed so many of my children already,” she said, “children who were bright as fire. I am your own younger sister, wretched, with my sons taken from me. Spare this one. She is only a girl. Have mercy.”\n\nShe did not ask for freedom, or for justice, or even for her own life. She asked only that this one small child be allowed to live — of all the things a mother can ask, the smallest and the largest at once.\n\nBut Kamsa did not hear her. Her words reached his ears, but they did not reach him; the prophecy stood between them like a wall of iron, and his fear was older than mercy. He reached down, tore the child from her hands, and raised her up.\n\nThe child was only a girl, small and new, and she lay quiet in the king's raised hands. Devaki's plea hung in the air between them, unanswered. For a long moment no one in the room moved; even the guards at the door were still, the lamplight trembled, and the night waited.",
+ "reflection": "Devaki's plea names the cruelty plainly: she is not an enemy but his younger sister, and the children he has already taken were bright as fire. It is the plainness of her grief, not any violence shown, that makes the scene hard to read.",
+ "tradition_note": null,
+ "content_note": "Kamsa tears a newborn from its mother's arms and raises it to dash it; the child is not harmed within this story.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "birth",
+ "story_arc": "birth_of_krishna",
+ "characters": [
+  "Kamsa",
+  "Devaki"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "cruelty",
+  "mother's_plea"
+ ],
+ "previous_story_id": "DKS_0018",
+ "next_story_id": "DKS_0024",
+ "next_story_tease": "In the village of Gokul, an unexpected visitor was already drawing near.",
+ "hero_scene": "Kamsa in the lamplight of the prison cell, having torn the newborn girl from Devaki's arms and raised her up, while Devaki reaches toward him in grief.",
+ "visual_elements": [
+  "Kamsa wild-eyed in the prison doorway",
+  "Devaki pleading, arms reaching",
+  "the newborn girl lifted in Kamsa's hands",
+  "the dim lamplight of the cell",
+  "the locked prison room",
+  "mood of dread and a mother's grief"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.4.1-6",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:03:57Z",
+  "source_event_id": "evt_0028",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

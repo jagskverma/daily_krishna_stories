@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0418",
+ "title": "Duryodhana's Lavish Pavilions That Krishna Ignores",
+ "subtitle": null,
+ "story": "News of Krishna's coming reached the Kuru palace before Krishna did. Krishna was on his way to Hastinapura to plead for peace between the Pandavas and their cousins, and Dhritarashtra, the blind king, learned from his spies that the envoy had set out — and his hair stood on end. He called for Bhishma, the grandsire of his house; for Drona, who had taught the princes of both families the art of war; for Sanjaya, his trusted counsellor; and for the wise Vidura. And he spoke to them, with Duryodhana, his son, and the royal advisers listening.\n\n\"What strange and wonderful news we hear,\" the king said. \"Men, women, and children speak of nothing else, in the houses where people gather and in the open squares. All say that Krishna of great prowess is coming here for the sake of the Pandavas. He deserves honour and worship at our hands. A guest so honoured grants happiness; a guest slighted brings misery — and if Krishna is pleased with our offerings, all our wishes may be granted through his grace before the assembled kings. So make every arrangement for his reception without delay. Let pavilions be set up along the road, furnished with every comfort, so that he may be pleased with us. Bhishma, what do you think in this matter?\"\n\nBhishma and the others applauded the king's words. \"Excellent,\" they said.\n\nSo Duryodhana chose delightful spots at proper intervals along the route, and there rose pavilion after pavilion, glittering with gems of every kind. The king sent fine seats, attendants, perfumes and ornaments, rich robes, the best of food, drinks of many kinds, and fragrant garlands — and at Vrikasthala, where Krishna would pass the night, he raised one pavilion more beautiful than all the rest. When everything stood ready, Duryodhana informed his father that all was prepared.\n\nThe road from Vrikasthala to the capital had become a pageant. Pavilions rose at every interval like small palaces of jewels, and the air along the way carried the weight of garlands, scents, and vessels of drink laid out for a king's welcome. Travellers and townsfolk alike slowed to look at what Duryodhana had built, and the talk was all of the wealth being spent to receive one man.\n\nThen Krishna arrived at the capital of the Kurus.\n\nAnd he passed all of it by — the gem-studded pavilions, the seats, the garlands, the costly feast raised in his honour — without casting a single glance at it. Not one of the gems of diverse kinds drew his eyes. Duryodhana had built as though the visitor could be dazzled into alliance, as though magnificence itself were the language in which the Kurus and the Pandavas could still be reconciled. But Krishna needed nothing, and his chariot rolled past the last pavilion and on toward the city — leaving a court that had measured him in gold to wonder, at his silent passing, what measure would have been right.",
+ "reflection": "The reception is measured entirely in riches, and Krishna's answer is perfect indifference: the gifts say everything about the giver and nothing about the guest. A man who needs nothing cannot be won by display — only by the truthfulness of the one who receives him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Duryodhana",
+  "Dhritarashtra",
+  "Bhishma"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Vrikasthala"
+ ],
+ "themes": [
+  "pride",
+  "humility",
+  "hospitality"
+ ],
+ "previous_story_id": "DKS_0417",
+ "next_story_id": "DKS_0419",
+ "next_story_tease": "When Dhritarashtra began planning gifts meant to bind Krishna, Vidura would name the deception openly.",
+ "hero_scene": "Krishna's chariot passes gem-studded pavilions hung with garlands along the road to Hastinapura, his eyes fixed straight ahead, while the assembled display of seats, vessels, and ornaments stands ignored and unused.",
+ "visual_elements": [
+  "gem-studded pavilions raised along the route",
+  "handsome seats, garlands, viands, and vessels of drink",
+  "Krishna's chariot passing without a single glance",
+  "Duryodhana's lavish display of wealth",
+  "the road to the Kuru capital",
+  "indifference meeting opulence"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.85",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:26Z",
+  "source_event_id": "evt_0425",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

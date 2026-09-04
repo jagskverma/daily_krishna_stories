@@ -1,0 +1,46 @@
+# STORY DKS_0012 — The Gods Praise the Unborn Lord in Devaki's Womb
+
+## Index entry
+title: The Gods Praise the Unborn Lord in Devaki's Womb
+summary: Brahma, Shiva and the host of gods descend to praise the unborn Lord in Devaki's womb and then depart.
+life_stage: birth | story_arc: birth_of_krishna
+characters: Brahma, Shiva, gods, Devaki
+locations: Mathura
+themes: devotion, praise
+festival_tags: Janmashtami
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0024
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 2 | verses 24-42 | confidence 5
+  excerpt: Brahma and Shiva, with sages and gods, come to Devaki's prison and praise the unborn Lord who will lift the earth's burden; having sung his glories they return to heaven. (rendered from Sanskrit, verse 24-42)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.2 (24-42)
+24. brahmā bhavaś ca tatraitya munibhir nāradādibhiḥ /
+25. satya-vrataṃ satya-paraṃ tri-satyaṃ $ satyasya yoniṃ nihitaṃ ca satye &amp;satyasya satyam ṛta-satya-netraṃ % satyātmakaṃ tvāṃ śaraṇaṃ prapannāḥ
+26. ekāyano 'sau dvi-phalas tri-mūlaś catū-rasaḥ pañca-vidhaḥ ṣaḍ-ātmā /
+27. tvam eka evāsya sataḥ prasūtis tvaṃ sannidhānaṃ tvam anugrahaś ca /
+28. bibharṣi rūpāṇy avabodha ātmā kṣemāya lokasya carācarasya /
+29. tvayy ambujākṣākhila-sattva-dhāmni samādhināveśita-cetasaike /
+30. svayaṃ samuttīrya sudustaraṃ dyuman $ bhavārṇavaṃ bhīmam adabhra-sauhṛdāḥ &amp;bhavat-padāmbhoruha-nāvam atra te % nidhāya yātāḥ sad-anugraho bhavān
+31. ye 'nye 'ravindākṣa vimukta-māninas $ tvayy asta-bhāvād aviśuddha-buddhayaḥ &ye 'nye 'ravindākṣa vimukta-māninas $ tvayy asta-bhāvād aviśuddha-buddhayaḥ &āruhya kṛcchreṇa paraṃ padaṃ tataḥ % patanty adho 'nādṛta-yuṣmad-aṅghrayaḥ
+32. tathā na te mādhava tāvakāḥ kvacid bhraśyanti mārgāt tvayi baddha-sauhṛdāḥ /
+33. sattvaṃ viśuddhaṃ śrayate bhavān sthitau $ śarīriṇāṃ śreya-upāyanaṃ vapuḥ &amp;veda-kriyā-yoga-tapaḥ-samādhibhis % tavārhaṇaṃ yena janaḥ samīhate
+34. sattvaṃ na ced dhātar idaṃ nijaṃ bhaved $ vijñānam ajñāna-bhidāpamārjanam &sattvaṃ na ced dhātar idaṃ nijaṃ bhaved $ vijñānam ajñāna-bhidāpamārjanam &guṇa-prakāśair anumīyate bhavān % prakāśate yasya ca yena vā guṇaḥ
+35. na nāma-rūpe guṇa-janma-karmabhir nirūpitavye tava tasya sākṣiṇaḥ /
+36. śṛṇvan gṛṇan saṃsmarayaṃś ca cintayan $ nāmāni rūpāṇi ca maṅgalāni te &amp;kriyāsu yas tvac-caraṇāravindayor % āviṣṭa-cetā na bhavāya kalpate
+37. diṣṭyā hare 'syā bhavataḥ pado bhuvo $ bhāro 'panītas tava janmaneśituḥ &diṣṭyā hare 'syā bhavataḥ pado bhuvo $ bhāro 'panītas tava janmaneśituḥ &diṣṭyāṅkitāṃ tvat-padakaiḥ suśobhanair % drakṣyāma gāṃ dyāṃ ca tavānukampitām
+38. na te 'bhavasyeśa bhavasya kāraṇaṃ vinā vinodaṃ bata tarkayāmahe /
+39. matsyāśva-kacchapa-nṛsiṃha-varāha-haṃsa- $ rājanya-vipra-vibudheṣu kṛtāvatāraḥ &amp;tvaṃ pāsi nas tri-bhuvanaṃ ca yathādhuneśa % bhāraṃ bhuvo hara yadūttama vandanaṃ te
+40. diṣṭyāmba te kukṣi-gataḥ paraḥ pumān $ aṃśena sākṣād bhagavān bhavāya naḥ &diṣṭyāmba te kukṣi-gataḥ paraḥ pumān $ aṃśena sākṣād bhagavān bhavāya naḥ &mābhūd bhayaṃ bhoja-pater mumūrṣor % goptā yadūnāṃ bhavitā tavātmajaḥ
+41. bhp_10.02.042/0 śrī-śuka uvāca
+42. bhp_10.03.001/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0011 | next_story_id: DKS_0013
+previous title: The Conception of Devaki and the Six Demon Embryos
+next title: Krishna Is Born at Midnight in the Prison

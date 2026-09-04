@@ -1,0 +1,132 @@
+# STORY DKS_0495 — Krishna Sports with His Sixteen Thousand Wives
+
+## Index entry
+title: Krishna Sports with His Sixteen Thousand Wives
+summary: Krishna sports in the lakes with his sixteen thousand wives, splashing and being splashed, while the women's songs of longing express their single-hearted devotion.
+life_stage: later_life | story_arc: post_war_krishna
+characters: Krishna, the sixteen thousand queens
+locations: Dwaraka
+themes: divine play, love, beauty
+festival_tags: 
+age_sensitivity: mild_violence | notes: Same scene (HV 1.235, BP 10.90): Krishna's water-sports; each queen believes she alone is favoured.
+
+## Canonical event
+event_id: evt_0012
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 90 | verses 1-24 | confidence 5
+  excerpt: Krishna, delighting in Dwaraka, sports with his sixteen thousand wives, bathing and playing in the lakes, splashing them as they splash him, like the lord of the yakshas among his yakshinis. The queens, wholly devoted to Krishna, pour out songs of longing to the birds, the moon, the wind and the clouds, and by such constant love attain the supreme state. (rendered from Sanskrit, verse 1-24)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 235 | verses  | confidence 4
+  excerpt: amongst the women of Keshava every one thought:—"I am the most favourite of Keshava: he is sporting only with me"... at the command of Vāsudeva the water of the ocean was freed from salt
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.90 (1-24)
+1. strībhiś cottama-veṣābhir nava-yauvana-kāntibhiḥ /
+2. nityaṃ saṅkula-mārgāyāṃ mada-cyudbhir mataṅ-gajaiḥ /
+3. udyānopavanāḍhyāyāṃ puṣpita-druma-rājiṣu /
+4. reme ṣoḍaśa-sāhasra- patnīnāṃ eka-vallabhaḥ /
+5. protphullotpala-kahlāra- kumudāmbhoja-reṇubhiḥ /
+6. vijahāra vigāhyāmbho hradinīṣu mahodayaḥ /
+7. upagīyamāno gandharvair mṛdaṅga-paṇavānakān /
+8. sicyamāno 'cyutas tābhir hasantībhiḥ sma recakaiḥ /
+9. tāḥ klinna-vastra-vivṛtoru-kuca-pradeśāḥ $ siñcantya uddhṛta-bṛhat-kavara-prasūnāḥ &amp;kāntaṃ sma recaka-jihīrṣayayopaguhya % jāta-smarotsmaya-lasad-vadanā virejuḥ
+10. kṛṣṇas tu tat-stana-viṣajjita-kuṅkuma-srak $ krīḍābhiṣaṅga-dhuta-kuntala-vṛnda-bandhaḥ &kṛṣṇas tu tat-stana-viṣajjita-kuṅkuma-srak $ krīḍābhiṣaṅga-dhuta-kuntala-vṛnda-bandhaḥ &siñcan muhur yuvatibhiḥ pratiṣicyamāno % reme kareṇubhir ivebha-patiḥ parītaḥ
+11. naṭānāṃ nartakīnāṃ ca gīta-vādyopajīvinām /
+12. kṛṣṇasyaivaṃ viharato gaty-ālāpekṣita-smitaiḥ /
+13. ūcur mukundaika-dhiyo gira unmatta-vaj jaḍam /
+14. bhp_10.90.015/0 mahiṣya ūcuḥ kurari vilapasi tvaṃ vīta-nidrā na śeṣe $ svapiti jagati rātryām īśvaro gupta-bodhaḥ & kurari vilapasi tvaṃ vīta-nidrā na śeṣe $ svapiti jagati rātryām īśvaro gupta-bodhaḥ & vayam iva sakhi kaccid gāḍha-nirviddha-cetā % nalina-nayana-hāsodāra-līlekṣitena
+15. netre nimīlayasi naktam adṛṣṭa-bandhus $ tvaṃ roravīṣi karuṇaṃ bata cakravāki & netre nimīlayasi naktam adṛṣṭa-bandhus $ tvaṃ roravīṣi karuṇaṃ bata cakravāki & dāsyaṃ gata vayam ivācyuta-pāda-juṣṭāṃ % kiṃ vā srajaṃ spṛhayase kavareṇa voḍhum
+16. bho bhoḥ sadā niṣṭanase udanvann alabdha-nidro 'dhigata-prajāgaraḥ /
+17. tvaṃ yakṣmaṇā balavatāsi gṛhīta indo $ kṣīṇas tamo na nija-dīdhitibhiḥ kṣiṇoṣi &amp;kaccin mukunda-gaditāni yathā vayaṃ tvaṃ % vismṛtya bhoḥ sthagita-gīr upalakṣyase naḥ
+18. kiṃ nv ācaritam asmābhir malayānila te 'priyam /
+19. megha śrīmaṃs tvam asi dayito yādavendrasya nūnaṃ $ śrīvatsāṅkaṃ vayam iva bhavān dhyāyati prema-baddhaḥ &amp;aty-utkaṇṭhaḥ śavala-hṛdayo 'smad-vidho bāṣpa-dhārāḥ % smṛtvā smṛtvā visṛjasi muhur duḥkha-das tat-prasaṅgaḥ
+20. priya-rāva-padāni bhāṣase mṛta-sañjīvikayānayā girā /
+21. na calasi na vadasy udāra-buddhe kṣiti-dhara cintayase mahāntam artham /
+22. śuṣyad-dhradāḥ karaśitā bata sindhu-patnyaḥ $ sampraty apāsta-kamala-śriya iṣṭa-bhartuḥ &amp;yadvad vayaṃ madhu-pateḥ praṇayāvalokam % aprāpya muṣṭa-hṛdayāḥ puru-karśitāḥ sma
+23. haṃsa svāgatam āsyatāṃ piba payo brūhy aṅga śaureḥ kathāṃ $ dūtaṃ tvāṃ nu vidāma kaccid ajitaḥ svasty āsta uktaṃ purā &haṃsa svāgatam āsyatāṃ piba payo brūhy aṅga śaureḥ kathāṃ $ dūtaṃ tvāṃ nu vidāma kaccid ajitaḥ svasty āsta uktaṃ purā &kiṃ vā naś cala-sauhṛdaḥ smarati taṃ kasmād bhajāmo vayaṃ % kṣaudrālāpaya kāma-daṃ śriyam ṛte saivaika-niṣṭhā striyām
+24. bhp_10.90.025/0 śrī-śuka uvāca
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.235 ()
+TITLE: THE YADAVAS SPORT IN THE OCEAN
+
+Janamejaya said:—O Muni, I have thus listened to an account of the
+necessary destruction of Andhaka, by which the intelligent Mahadeva
+restored peace in the three worlds. It behoves thee to describe to me
+why the second body of Nikumbha was destroyed by Krishna, the holder of
+discus (1-2).
+
+Vaishampāyana said:—O sinless king, you have the greatest reverences for
+listening to the history of Hari, the highly powerful lord of the
+universe. I should therefore describe it to you (3). O king, while
+living in the city of Dwārkā Hari, of incomparable energy, sailed by sea
+for the sacred shrine of Pindaraka (4). O descendant of Bharata, at that
+time Ugrasena and Vasudeva remained as the governors of the city. All
+others followed Nārāyana (5). O king, Baladeva, Janārddana, and the
+parties of other princes, energetic like the immortals, set out
+separately (6). O king, thousands of dancing girls accompanied the
+beautiful Vrishni princes adorned with ornaments (7). O hero, removing
+the ocean from its own bed the powerful Yadavas had settled those
+thousands of dancing girls in Dwāravati (8). Those beautiful dancing
+girls, on account of their accomplishments, became the objects of
+enjoyment to the princes (9). O lord, thinking that the Yadavas might
+not suffer from an internal feud for women the intelligent Krishna
+established this practice amongst the Bhaimas (10). While sporting in
+the water, the powerful Baladeva, the foremost of Yadus, inebrite with
+drinking wine and adorned with a garland of wild flowers, was enjoying
+only with Revati like a Chakravāka bird. Making an enclosure with his
+own persons Govinda, the creator of all, having eyes black like a cloud,
+was sporting separately in the ocean with his sixteen thousand wives. O
+king, at that time, amongst the women of Keshava every one thought:—"I
+am the most favourite of Keshava: he is sporting only with me" (11-14).
+All those damsels, having signs of sporting all over their person, were
+flirting with Govinda (15). Amongst those good women the beautiful
+damsels of Nārāyana felt conceited by thinking "I alone am the most
+favourite of Keshava." Krishna’s women, as if with their eyes, were
+drinking the ambrosia of Keshava’s countenance. All those damsels, whose
+minds and eyes were fixed only on Keshava, looked more beautiful than
+before. The Lord Nārāyana, having pleased them all, those women, having
+their minds and eyes fixed on one man, did not cherish jealousy against
+one another. As if possessed entirely by Keshava those beautiful women
+began to shake their heads with pride (116-121). In pursuance of the
+ways of his universal form the self-controlled Hari began to sport with
+those women in this way in the pure water of the ocean (22). O hero, at
+that time at the command of Vāsudeva the water of the ocean was freed
+from salt and the great ocean began to carry transparent water,
+possessing all sorts of fragrance (23). The ocean yielded its water to
+whatever extent the women wanted, either up to their knees, thighs or
+breast (24). As the rivers pour their watery contents down into the
+ocean, and as the clouds pour water on the blossoming creepers, so in
+that watery sport Keshava’s women sprinkled him with water (25). Some of
+them, having eyes like a deer, held Hari by the neck, and said:—"O Hari,
+I am being drowned, save me" (26). Some handsome damsels began to row in
+wooden boats of the shape of herons and serpents (27). Some began to row
+in Makara-shaped boats and others in boats of various shapes (28). In
+order to please Janārddana in the water of the ocean some women swam
+depending on their own breast and some on water jars. (29). Krishna
+himself, filled with joy, began to sport with Rukshmini. Nārāyana’s
+wives did what pleased most Keshava, the foremost of immortals (30).
+There amongst those thin-built damsels, having cloud like eyes and
+wearing clothes of fine texture some imitated the movements of Vāsudeva.
+Entering into the minds of those women, Keshava, conversant with the
+mental desire of all, satisfied whatever they wanted (31–33). Although
+lord of all self-controlled persons, the powerful, eternal, divine
+Hrishikesha, according to the exigencies of time, brought himself under
+the control of his beloved wives (33). Wonder! the damsels regarded
+Janāddana remaining there in human guise as their becoming husband both
+as regards birth and accomplishments. In this way those clever women
+began to seek with devotion and offer sufficient honor to Krishna endued
+with kindliness and always smiling before speaking (34-35).
+
+In order to sport with the women in water the princes formed a separate
+party. Those heroes, the mines of accomplishments, were sporting under
+water (36), O king, the women, proficient in the art of singing and
+dancing whom the princes had brought there by force, were pleased with
+their kind behaviour. Seeing the charming acting of those beautiful
+women, and hearing the music of bugles and their songs the Yad
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0494 | next_story_id: DKS_0496
+previous title: Nanda's Farewell
+next title: Krishna Substitutes an Iron Statue for Bhima

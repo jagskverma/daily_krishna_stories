@@ -1,0 +1,37 @@
+# STORY DKS_0138 — Chanura Challenges Krishna and Balarama
+
+## Index entry
+title: Chanura Challenges Krishna and Balarama
+summary: Chanura invites Krishna and Balarama to wrestle; Krishna answers that they are boys, but Chanura insists.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Chanura, Krishna, Balarama
+locations: Mathura arena
+themes: challenge
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0141
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 43 | verses 30-39 | confidence 5
+  excerpt: Chanura addressed Krishna and Balarama, inviting them to wrestle for the king's pleasure; Krishna replied that they were boys and would play with equals, but Chanura urged, 'Fight me, and let Mushtika fight Balarama.' (rendered from Sanskrit, verses 30-39)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.43 (30-39)
+30. janeṣv evaṃ bruvāṇeṣu tūryeṣu ninadatsu ca /
+31. he nanda-sūno he rāma bhavantau vīra-sammatau /
+32. priyaṃ rājñaḥ prakurvatyaḥ śreyo vindanti vai prajāḥ /
+33. nityaṃ pramuditā gopā vatsa-pālā yathā-sphuṭam /
+34. tasmād rājñaḥ priyaṃ yūyaṃ vayaṃ ca karavāma he /
+35. tan niśamyābravīt kṛṣṇo deśa-kālocitaṃ vacaḥ /
+36. prajā bhoja-pater asya vayaṃ cāpi vane-carāḥ /
+37. bālā vayaṃ tulya-balaiḥ krīḍiṣyāmo yathocitam /
+38. bhp_10.43.039/0 cāṇūra uvāca
+39. tasmād bhavadbhyāṃ balibhir yoddhavyaṃ nānayo 'tra vai /
+
+## Corpus chain
+previous_story_id: DKS_0137 | next_story_id: DKS_0139
+previous title: The Citizens Rejoice in the Arena
+next title: Krishna and Balarama Slay the Wrestlers

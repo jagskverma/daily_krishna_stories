@@ -1,0 +1,49 @@
+{
+ "id": "DKS_0134",
+ "title": "The King's Sleepless Night",
+ "subtitle": null,
+ "story": "The news reached Kamsa the way a stone drops into still water: the great bow was broken, and the men he had set to guard it were dead.\n\nHe had known the two young men were coming; he had known it for years, and watched for them the way a man watches a door he is afraid will open. He had trusted in the weight of his city and the number of his soldiers and the long favor fortune had shown him. Now, in a single day, the two of them had walked his streets as if the city belonged to them, and the bow that was worshipped — the bow that was his, the bow that stood for the festival and for his reign — lay in pieces on the floor of its hall.\n\nThat night Kamsa did not sleep. He lay in the dark of the palace, and the dark would not settle into rest. Fear kept him awake, and through the fear came omens, one after another, in his waking hours and in what little sleep he could snatch. The palace that had always been his fortress felt, for the first time, like a place with too many shadows and not enough walls. His servants slept, his guards kept their posts, and still he was alone with the dark in a way he had never been before. To a man who had spent his whole life reading the signs of his enemies, the night read like a verdict delivered in a language he could not turn away from. He turned restlessly, and the bed that had always held him seemed to press back against him.\n\nHe looked into a mirror and could not see his own head in the reflection, though his face should have been there, plain as day. The glass was not cracked and the room was not dim; the thing missing was his own head, and he could not will it back into the reflection. He turned, and turned back, and the figure that stared out at him had no head above the shoulders. He looked down at his shadow and saw a hole running through it, a rent in the very shape of him, as if his body had already begun to come apart at the edges. He strained to hear the sound of his own breathing, and heard nothing at all, as if the noise of life had gone out of him while he still stood.\n\nThen the dreams came, brief and terrible. In one he embraced a corpse and woke with the feel of cold flesh still upon him, the arms of the dead around him in the dark. In another he rode an ass through the long night, a mount for the dead and the disgraced, going nowhere along a road that had no end. He woke sweating, the dream already fading and the dread of it not fading at all. And over everything settled a heaviness, a dejection, that no torch, no servant, no comfort in the whole palace could lift.\n\nBy morning he had seen his own death in every sign — in the glass, in his shadow, in the silence of his breath, in the dreams that would not leave him. The omens all said the same thing, and Kamsa was not a man who could misunderstand them. He understood them perfectly, and that was the worst of it.",
+ "reflection": "No sword is drawn against Kamsa in this passage, and that is the point: fear has already begun the work. The man who made a city afraid now finds the world turning its signs against him, and each omen is only the truth he has spent his reign refusing to see.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Kamsa"
+ ],
+ "locations": [
+  "Mathura"
+ ],
+ "themes": [
+  "fear",
+  "omens"
+ ],
+ "previous_story_id": "DKS_0133",
+ "next_story_id": "DKS_0135",
+ "next_story_tease": "But dawn would bring not relief but resolve, and Kamsa would turn his fear into a plan.",
+ "hero_scene": "Kamsa lying awake in the dark of his palace chamber at night, staring into a mirror in which he cannot see his own head, while shadows and omens close in around him.",
+ "visual_elements": [
+  "Kamsa alone in a dark palace chamber",
+  "a mirror showing no head",
+  "a shadow with a hole through it",
+  "dreams of a corpse and an ass",
+  "a moonless, ominous night",
+  "a mood of dread"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.42.23-30",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:20Z",
+  "source_event_id": "evt_0137"
+ },
+ "editorial_status": "unreviewed"
+}

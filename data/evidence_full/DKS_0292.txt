@@ -1,0 +1,34 @@
+# STORY DKS_0292 — Devaki Asks for Her Slain Sons
+
+## Index entry
+title: Devaki Asks for Her Slain Sons
+summary: Devaki, remembering the six sons Kamsa killed, tearfully asks Krishna and Balarama to bring back her dead children.
+life_stage: later_life | story_arc: dwaraka_royal_life
+characters: Devaki, Krishna, Balarama
+locations: Dwaraka
+themes: mother's grief, divine grace, restoration
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0496
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 85 | verses 26-32 | confidence 5
+  excerpt: Hearing of how Krishna and Balarama had brought back their guru's son, Devaki, remembering the sons slaughtered by Kamsa, tearfully asks them to grant her wish to see her slain children restored. She recalls that they had once fetched their guru's dead son as a fee, and entreats them to bring back the sons slain by the Bhoja king. (rendered from Sanskrit, verse 26-32)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.85 (26-32)
+26. atha tatra kuru-śreṣṭha devakī sarva-devatā /
+27. kṛṣṇa-rāmau samāśrāvya putrān kaṃsa-vihiṃsitān /
+28. bhp_10.85.029/0 śrī-devaky uvāca
+29. kala-vidhvasta-sattvānāṃ rājñām ucchāstra-vartinām /
+30. yasyāṃśāṃśāṃśa-bhāgena viśvotpatti-layodayāḥ /
+31. cirān mṛta-sutādāne guruṇā kila coditau /
+32. tathā me kurutaṃ kāmaṃ yuvāṃ yogeśvareśvarau /
+
+## Corpus chain
+previous_story_id: DKS_0291 | next_story_id: DKS_0293
+previous title: Vasudeva's Sacrifice
+next title: Krishna and Balarama Visit Bali in Sutala

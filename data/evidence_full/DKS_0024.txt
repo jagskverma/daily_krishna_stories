@@ -1,0 +1,114 @@
+# STORY DKS_0024 — Krishna Drains the Demoness Putana's Life
+
+## Index entry
+title: Krishna Drains the Demoness Putana's Life
+summary: Putana offers the baby her poisoned breast, but Krishna sucks out her very life-breath, and she falls dead, revealing her true demon form.
+life_stage: gokul | story_arc: early_gokul_childhood
+characters: Krishna, Putana
+locations: Gokula
+themes: protection, divine_power, justice
+festival_tags: 
+age_sensitivity: mild_violence | notes: 
+
+## Canonical event
+event_id: evt_0038
+variant_notes: bpc1_032 is Uddhava's recollection of the same episode.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 6 | verses 6-12 | confidence 5
+  excerpt: Taking the baby to her breast, the demoness is seized in her vital parts; Krishna drinks out her life along with her milk, and with a terrible cry she dies and crashes down in her monstrous true form. (rendered from Sanskrit, verse 6-12)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 22 | confidence 5
+  excerpt: Uddhava said: 'Alas! The wicked Putana, who with murderous intent gave him her breast of deadly poison, attained the goal of a nurse. To what other compassionate one could we turn for refuge?' (rendered from Sanskrit, verse 22)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 61 | verses  | confidence 4
+  excerpt: Thereupon drinking up all her vital breaths together with her milk Krishna set up a terrible sound. She too, having her breast sundered, fell down earth.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 5 | verses  | confidence 4
+  excerpt: the female fiend Pútaná, the child-killer, came thither by night, and finding the little Krishńa asleep, took him up, and gave him her breast to suck... but Krishńa... sucked it with such violence, that he drained it of the life.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.6 (6-12)
+6. bāla-grahas tatra vicinvatī śiśūn yadṛcchayā nanda-gṛhe 'sad-antakam /
+7. vibudhya tāṃ bālaka-mārikā-grahaṃ carācarātmā sa nimīlitekṣaṇaḥ /
+8. tāṃ tīkṣṇa-cittām ativāma-ceṣṭitāṃ vīkṣyāntarā koṣa-paricchadāsivat /
+9. tasmin stanaṃ durjara-vīryam ulbaṇaṃ $ ghorāṅkam ādāya śiśor dadāv atha &amp;gāḍhaṃ karābhyāṃ bhagavān prapīḍya tat- % prāṇaiḥ samaṃ roṣa-samanvito 'pibat
+10. sā muñca muñcālam iti prabhāṣiṇī niṣpīḍyamānākhila-jīva-marmaṇi /
+11. tasyāḥ svanenātigabhīra-raṃhasā sādrir mahī dyauś ca cacāla sa-grahā /
+12. niśā-carītthaṃ vyathita-stanā vyasur $ vyādāya keśāṃś caraṇau bhujāv api &amp;prasārya goṣṭhe nija-rūpam āsthitā % vajrāhato vṛtra ivāpatan nṛpa
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (22)
+1. yaḥ pañca-hāyano mātrā prātar-āśāya yācitaḥ /
+tan naicchad racayan yasya saparyāṃ bāla-līlayā
+2. sa kathaṃ sevayā tasya kālena jarasaṃ gataḥ /
+pṛṣṭo vārtāṃ pratibrūyād bhartuḥ pādāv anusmaran
+3. sa muhūrtam abhūt tūṣṇīṃ kṛṣṇāṅghri-sudhayā bhṛśam /
+tīvreṇa bhakti-yogena nimagnaḥ sādhu nirvṛtaḥ
+4. pulakodbhinna-sarvāṅgo muñcan mīlad-dṛśā śucaḥ /
+pūrṇārtho lakṣitas tena sneha-prasara-samplutaḥ
+5. śanakair bhagaval-lokān nṛlokaṃ punar āgataḥ /
+vimṛjya netre viduraṃ prītyāhoddhava utsmayan
+6. bhp_03.02.007/0 uddhava uvāca 
+kṛṣṇa-dyumaṇi nimloce gīrṇeṣv ajagareṇa ha /
+kiṃ nu naḥ kuśalaṃ brūyāṃ gata-śrīṣu gṛheṣv aham
+7. durbhago bata loko 'yaṃ yadavo nitarām api /
+ye saṃvasanto na vidur hariṃ mīnā ivoḍupam
+8. iṅgita-jñāḥ puru-prauḍhā ekārāmāś ca sātvatāḥ /
+sātvatām ṛṣabhaṃ sarve bhūtāvāsam amaṃsata
+9. devasya māyayā spṛṣṭā ye cānyad asad-āśritāḥ /
+bhrāmyate dhīr na tad-vākyair ātmany uptātmano harau
+10. pradarśyātapta-tapasām avitṛpta-dṛśāṃ nṛṇām /
+ādāyāntar adhād yas tu sva-bimbaṃ loka-locanam
+11. yan martya-līlaupayikaṃ sva-yoga- māyā-balaṃ darśayatā gṛhītam /
+vismāpanaṃ svasya ca saubhagarddheḥ paraṃ padaṃ bhūṣaṇa-bhūṣaṇāṅgam
+12. yad dharma-sūnor bata rājasūye nirīkṣya dṛk-svastyayanaṃ tri-lokaḥ /
+kārtsnyena cādyeha gataṃ vidhātur arvāk-sṛtau kauśalam ity amanyata
+13. yasyānurāga-pluta-hāsa-rāsa- līlāvaloka-pratilabdha-mānāḥ /
+vraja-striyo dṛgbhir anupravṛtta- dhiyo 'vatasthuḥ kila kṛtya-śeṣāḥ
+14. sva-śānta-rūpeṣv itaraiḥ sva-rūpair abhyardyamāneṣv anukampitātmā /
+parāvareśo mahad-aṃśa-yukto hy ajo 'pi jāto bhagavān yathāgniḥ
+15. māṃ khedayaty etad ajasya janma- viḍambanaṃ yad vasudeva-gehe /
+vraje ca vāso 'ri-bhayād iva svayaṃ purād vyavātsīd yad-ananta-vīryaḥ
+16. dunoti cetaḥ smarato mamaitad yad āha pādāv abhivandya pitroḥ /
+tātāmba kaṃsād uru-śaṅkitānāṃ prasīdataṃ no 'kṛta-niṣkṛtīnām
+17. ko vā amuṣyāṅghri-saroja-reṇuṃ vismartum īśīta pumān vijighran /
+yo visphurad-bhrū-viṭapena bhūmer bhāraṃ kṛtāntena tiraścakāra
+18. dṛṣṭā bhavadbhir nanu rājasūye caidyasya kṛṣṇaṃ dviṣato 'pi siddhiḥ /
+yāṃ yoginaḥ saṃspṛhayanti samyag yogena kas tad-virahaṃ saheta
+19. tathaiva cānye nara-loka-vīrā ya āhave kṛṣṇa-mukhāravindam /
+netraiḥ pibanto nayanābhirāmaṃ pārthāstra-pūtaḥ padam āpur asya
+20. svayaṃ tv asāmyātiśayas tryadhīśaḥ svārājya-lakṣmy-āpta-samasta-kāmaḥ /
+baliṃ haradbhiś cira-loka-pālaiḥ kirīṭa-koṭy-eḍita-pāda-pīṭhaḥ
+21. tat tasya kaiṅkaryam alaṃ bhṛtān no viglāpayaty aṅga yad ugrasenam /
+tiṣṭhan niṣaṇṇaṃ parameṣṭhi-dhiṣṇye nyabodhayad deva nidhārayeti
+22. aho bakī yaṃ stana-kāla-kūṭaṃ jighāṃsayāpāyayad apy asādhvī /
+lebhe gatiṃ dhātry-ucitāṃ tato 'nyaṃ kaṃ vā dayāluṃ śaraṇaṃ vrajema
+23. manye 'surān bhāgavatāṃs tryadhīśe saṃrambha-mārgābhiniviṣṭa-cittān /
+ye saṃyuge 'cakṣata tārkṣya-putram aṃse sunābhāyudham āpatantam
+24. vasudevasya devakyāṃ jāto bhojendra-bandhane /
+cikīrṣur bhagavān asyāḥ śam ajenābhiyācitaḥ
+25. tato nanda-vrajam itaḥ pitrā kaṃsād vibibhyatā /
+ekādaśa samās tatra gūḍhārciḥ sa-balo 'vasat
+26. parīto vatsapair vatsāṃś cārayan vyaharad vibhuḥ /
+yamunopavane kūjad- dvija-saṅkulitāṅghripe
+27. kaumārīṃ darśayaṃś ceṣṭāṃ prekṣaṇīyāṃ vrajaukasām /
+rudann iva hasan mugdha- bāla-siṃhāvalokanaḥ
+28. sa eva go-dhanaṃ lakṣmyā niketaṃ sita-go-vṛṣam /
+cārayann anugān gopān raṇad-veṇur arīramat
+29. prayuktān bhoja-rājena māyinaḥ kāma-rūpiṇaḥ /
+līlayā vyanudat tāṃs tān bālaḥ krīḍanakān iva
+30. vipannān viṣa-pānena nigṛhya bhujagādhipam /
+utthāpyāpāyayad gāvas tat toyaṃ prakṛti-sthitam
+31. ayājayad go-savena gopa-rājaṃ dvijottamaiḥ /
+vittasya coru-bhārasya cikīrṣan sad-vyayaṃ vibhuḥ
+32. varṣatīndre vrajaḥ kopād bhagnamāne 'tivihvalaḥ /
+gotra-līlātapatreṇa trāto bhadrānugṛhṇatā
+33. śarac-chaśi-karair mṛṣṭaṃ mānayan rajanī-mukham /
+gāyan kala-padaṃ reme strīṇāṃ maṇḍala-maṇḍanaḥ
+34. bhp_03.03.001/0 uddhava uvāca 
+tataḥ sa āgatya puraṃ sva-pitroś cikīrṣayā śaṃ baladeva-saṃyutaḥ /
+nipātya tuṅgād ripu-yūtha-nāthaṃ hataṃ vyakarṣad vyasum ojasorvyām
+
+## Corpus chain
+previous_story_id: DKS_0023 | next_story_id: DKS_0025
+previous title: Putana Enters Gokula Disguised as a Woman
+next title: The Villagers Burn Putana's Body
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

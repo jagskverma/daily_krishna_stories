@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0369",
+ "title": "Reunion at Prabhasa",
+ "subtitle": "In the middle of his exile, Arjuna is met on the western shore by the friend of his oldest story — the two who were Nara and Narayana of old.",
+ "story": "Somewhere along the shores of the western ocean, a wanderer came to a place that felt like home, though he had never been there.\n\nArjuna, one of the five Pandava brothers and the finest archer of his age, was passing the years of a long exile in pilgrimage, moving from one sacred water to the next and bathing where the old stories said the gods had bathed. At last he reached Prabhasa, a beautiful stretch of coast held holy by every traveller. He had told no one he was coming and sent no word ahead. The old account calls him the invisible Arjuna: he went from shrine to shrine without herald, telling no one where he was bound.\n\nBut Krishna heard of it.\n\nFrom Dwaraka, his city by the sea, Krishna — Arjuna's cousin and oldest friend — heard that the wanderer had reached Prabhasa, and he went to him at once, across the land and down to the shore, to the place where his friend stood. They met and embraced on the sacred ground, two friends asking after each other's welfare with the easy closeness of men who had never needed distance between them. The storytellers add a strange and beautiful note: these dear friends, they say, were none other than the sages Nara and Narayana of old, two ancient seers bound to each other through the ages. Anyone watching the pair on that shore would have understood why the tale was told.\n\nThey sat down together, and Krishna asked the question that mattered. \"Why, Arjuna, do you wander over the earth, visiting all these sacred waters and holy places?\"\n\nArjuna told him everything — the long roads, the rivers, the reasons that had sent him out into the world. Krishna heard him out and answered only, \"This is as it should be.\" No lecture, no plan to shorten the exile, no argument. His friend had chosen a hard road, and Krishna honoured the choice.\n\nThe two spent their time at Prabhasa as they pleased, sporting together by the sea. Then Krishna drew him onward to Raivataka mountain, where they would pass some days. Everything had been seen to beforehand: at Krishna's command, craftsmen had adorned the mountain, and food had been gathered in plenty. Arjuna watched the actors and the dancers, dismissed them all with proper thanks, and lay down on an excellent bed prepared for him. As he lay there in the dark he described to Krishna everything he had seen in his wandering — the sacred waters, the lakes, the mountains, the rivers, the forests — and his friend listened. In the middle of his telling, sleep stole upon him.\n\nHe woke to sweet songs and the singing of the vina, a stringed instrument, and the blessings of the bards — a king's morning, arranged for a guest who had been living like a pilgrim. After the morning's rites, Krishna greeted him warmly, and Arjuna rode out on a golden car toward Dwaraka, the city of the Yadavas, Krishna's own people.\n\nThe city had dressed itself for him. At Krishna's command every garden and house had been adorned, and the citizens, eager to see the son of Kunti, poured into the streets by the hundreds of thousands. In the squares, women and men of the Bhojas, the Vrishnis, and the Andhakas — the clans of Krishna's family — crowded together to welcome him, and the young men of the Yadava tribe embraced him again and again, old friends greeting the wanderer returned. Arjuna honoured the elders who deserved it and took their blessings in turn. Then he went to Krishna's mansion, filled with gems and every comfort, and made his home there — and there he stayed, with Krishna, for many days.\n\nNo one hurried him. The exile would resume; the road was still waiting. But for those days, the invisible Arjuna was simply the guest of his oldest friend, in the most beautiful house in Dwaraka.",
+ "reflection": "The storyteller names Krishna and Arjuna as Nara and Narayana of old, and the embrace at Prabhasa carries that weight: the friendship is older than either man's fame. Krishna asks why his friend wanders, listens to everything, and answers only, \"This is as it should be\" — acceptance rather than rescue, which is exactly what Arjuna, in the middle of his own long exile, most needed.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "pandava_period",
+ "story_arc": "pandava_friendship",
+ "characters": [
+  "Krishna",
+  "Arjuna"
+ ],
+ "locations": [
+  "Prabhasa",
+  "Raivataka",
+  "Dwaraka"
+ ],
+ "themes": [
+  "friendship",
+  "reunion",
+  "hospitality"
+ ],
+ "previous_story_id": "DKS_0368",
+ "next_story_id": "DKS_0370",
+ "next_story_tease": "At the festival on Raivataka, Krishna would notice where his friend's gaze kept lingering — and would counsel him to act.",
+ "hero_scene": "On the sacred seashore at Prabhasa, Krishna and Arjuna embrace in greeting, the western ocean stretching behind them — two friends who were said to be the Rishis Nara and Narayana of old, meeting again in the middle of the wanderer's exile.",
+ "visual_elements": [
+  "the seashore at Prabhasa",
+  "Krishna and Arjuna embracing in greeting",
+  "the western ocean behind them",
+  "the adorned Raivataka mountain",
+  "Arjuna on a golden car approaching Dwaraka",
+  "the crowds of Bhojas, Vrishnis and Andhakas filling the streets",
+  "Krishna's gem-filled mansion"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "1.220",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:10:00Z",
+  "source_event_id": "evt_0384",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

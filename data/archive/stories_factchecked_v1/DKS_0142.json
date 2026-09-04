@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0142",
+ "title": "The Widows of Mathura Weep",
+ "subtitle": "Kamsa's funeral rites are performed",
+ "story": "The arena fell quiet in a way no crowd's silence could explain. Kamsa lay dead, his brothers with him, and the men of Mathura stood stunned among the fallen. But already another sound was rising over the field, thin at first and then everywhere at once — the weeping of women.\n\nThe wives of the slain warriors had found their husbands where they lay, on the field where heroes sleep their last sleep. They knelt in the dust and gathered the bodies into their arms, and their cries rose together and tangled in the air. They called to the fallen men by every name love keeps for the dead — lord, beloved, knower of righteousness, kind to the shelterless — and asked the question that all such grief asks: who will protect this city now that you are gone? The men who had died that day were not all loved, but they were all mourned. Even Kamsa's widows wept, and the sound of it reached the palace and the streets.\n\nKrishna did not turn away from the grief he had caused. He walked among the royal women and comforted them, and his gentleness there was the same hand that had broken the bow and struck the king down. He had the customary funeral rites prepared for all the dead, so that no wife would be left to burn her husband's pyre without honor.\n\nThen Ugrasena came to him. The old king, Kamsa's father, approached burning with grief for his son, breathing like a man who had drunk poison, and in the assembly of the Yadavas he reproached himself aloud. \"By my childish folly and my anger,\" he said, \"I have made widows of these thousand women. They bewail their husbands so piteously that even the regent of the dead would pity them. And yet — Kamsa was sinful, hated by the pious, ruthless of temper. Death is better than such a life, and what pity should there be for him? The wicked are constrained by death to reap their fruits; the pious reach auspicious ones.\" Then he made his request. \"Let me perform the after-death rites of my son. Let me build his pyre, put fire to it, and offer the water-oblation, and so discharge my debt to him. After that, with my wife and daughters-in-law, I will range in the forest with the animals. This is my only prayer.\"\n\nKrishna heard him out and was filled with surprise, and there was something like tenderness in the answer he gave. \"What you have said befits your age, your family, and your nature. But the inevitable work is done — why speak as if it were not? Though dead, Kamsa will receive funeral honors befitting a king. You are born of a great race and know everything that should be known; understand that destiny is inevitable.\" He did not refuse his grandfather the rites he asked for.\n\nSo they placed Kamsa's body in a palanquin, as the ritual law required, and carried it through the city to the northern bank of the Yamuna. There they raised the pyre, and set the fire, and performed the obsequial rites for the dead king while the smoke rose slow over the river. The widows' mourning went on into the evening, until grief had worn itself thin enough to let the city begin its long work of living again.\n\nThe day that had begun with a wrestling match had ended with a funeral. Mathura had its freedom, but freedom, too, must bury its dead before it can be enjoyed.",
+ "reflection": "The episode is grief without vengeance: the man who slew Kamsa comforts the widows and sees that the funeral rites are done, and even the king who hunted him for years is buried with the honors of a king. Krishna's power over the city is shown not in what he takes but in how he lets it mourn.",
+ "tradition_note": "The Bhagavata keeps this episode brief; the Harivamsha expands it into a long exchange in which Ugrasena reproaches himself for his son's death and begs Krishna's leave for the funeral rites. This story follows both, keeping the Bhagavata's shape and the Harivamsha's detail.",
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Kamsa's wives",
+  "Ugrasena"
+ ],
+ "locations": [
+  "Mathura",
+  "the Yamuna riverbank"
+ ],
+ "themes": [
+  "lament",
+  "funeral rites"
+ ],
+ "previous_story_id": "DKS_0141",
+ "next_story_id": "DKS_0143",
+ "next_story_tease": "The pyre had barely cooled when the brothers turned toward the prison where their own parents still lay in bonds.",
+ "hero_scene": "The funeral pyre burning on the northern bank of the Yamuna at dusk, Kamsa's body carried in a palanquin, the widows of Mathura kneeling in mourning beside the water while smoke rises into a darkening sky.",
+ "visual_elements": [
+  "the funeral pyre on the Yamuna's bank",
+  "Kamsa's body in a palanquin",
+  "the widows of the slain warriors weeping",
+  "Krishna comforting the royal women",
+  "Ugrasena bowed in grief",
+  "smoke rising over the river at dusk"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.44.41-48",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.87",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:35:25Z",
+  "source_event_id": "evt_0146"
+ },
+ "editorial_status": "unreviewed"
+}

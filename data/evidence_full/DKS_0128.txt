@@ -1,0 +1,122 @@
+# STORY DKS_0128 — Kamsa Orders the Wrestlers and Elephant to Kill Krishna
+
+## Index entry
+title: Kamsa Orders the Wrestlers and Elephant to Kill Krishna
+summary: Kamsa summons Chanura and Mushtika and orders Krishna and Balarama killed by wrestling and by the elephant Kuvalayapida.
+life_stage: mathura | story_arc: mathura_and_kamsa
+characters: Kamsa, Chanura, Mushtika
+locations: Mathura
+themes: conspiracy
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0130
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 36 | verses 19-26 | confidence 5
+  excerpt: Kamsa summoned Chanura, Mushtika and his other wrestlers and ministers, and ordered that Krishna and Balarama be brought to Mathura to be killed in a wrestling match, with the elephant Kuvalayapida set at the arena gate to slay them. (rendered from Sanskrit, verses 19-25)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 83 | verses  | confidence 4
+  excerpt: 'Forsooth, fighting in the arena with those two forest-ranging cow-herd boys Krishna and Sangkarshana... you will be able to throw them on earth and kill them.'... 'Keep at the gate of the arena the... elephant Kuvalayapida.'
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.36 (19-26)
+19. pratiyāte tu devarṣau kaṃsa ābhāṣya keśinam /
+20. tato muṣṭika-cāṇūra śala-tośalakādikān /
+21. bho bho niśamyatām etad vīra-cāṇūra-muṣṭikau /
+22. rāma-kṛṣṇau tato mahyaṃ mṛtyuḥ kila nidarśitaḥ /
+23. mañcāḥ kriyantāṃ vividhā malla-raṅga-pariśritāḥ /
+24. mahāmātra tvayā bhadra raṅga-dvāry upanīyatām /
+25. ārabhyatāṃ dhanur-yāgaś caturdaśyāṃ yathā-vidhi /
+26. ity ājñāpyārtha-tantra-jña āhūya yadu-puṅgavam /
+
+### Harivamsha (Dutt, Gutenberg #61937) 1.83 ()
+TITLE: ARRANGEMENTS FOR THE MATCH
+
+Vaishampayana said:—Meditating on the incident of the breaking of the
+bow Kansa, of Bhoja race, was greatly stricken with grief and
+absent-mindedness (1). He began to think:—"How could a boy fearlessly
+break down an iron bow guarded by men and go out (2). None can withstand
+destiny by manliness for now, as predicted by Nārada, that has come to
+pass for which out of fear I perpetrated a dreadful and highly
+censurable deed and destroyed the six heroic sons of Devaki" (3-4).
+
+Thus thinking and issuing out of his own apartment the king went to the
+arena for examining the platforms (5). This hall was constructed by
+clever artizans, abounded in well fixed platforms and was adorned with
+turrets consisting of beautiful rooms. It had a spacious courtyard and a
+number of pillars of the same size. It was bedecked on all sides with
+strong tusks of elephants and with spacious, high and royal seats. It
+had many passages, could carry the burden of many men and was filled
+with altars. Beholding this spacious well-built, and strong arena that
+intelligent best of kings issued the mandate "(tomorrow) the bow
+sacrifice will take place. Let the platforms, turrets and passages be
+embellished with garlands, flags and covers and be sweet-scented (6-11).
+Let the enclosures be adorned with bells, covers and becoming edibles
+and place there profuse cow-dung (12). Let excellent golden jars full of
+water be placed in due order (13). Let jars full of edibles and scents
+be placed and invite all those who are clever judges of warfare and the
+citizens (14). Issue my mandate to the wrestlers and visitors and let
+beautifully decked and enclosed platforms be set apart (15)." Issuing
+this command regarding the arrangement of the party Kansa left the arena
+for his own appartment (16).
+
+Having entered his own room Kansa sent for Chānura and Mushthika the two
+wrestlers of unequalled strength (17). Following Kansa’s order those two
+highly powerful energetic and large armed wrestlers entered his room
+with a delighted heart (18). Beholding those two world-renowned
+wrestlers before him king Kansa addressed to them the following words
+pregnant with propriety (19). "You are both my heroic wrestlers
+well-known (in the world). You are worthy particularly of good treatment
+and therefore I always regard you (20). If you remember the honors I
+have showered upon you then engage in a great work with your energy on
+my behalf (21). Forsooth, fighting in the arena with those two
+forest-ranging cow-herd boys Krishna and Sangkarshana who have grown in
+Vraja for me you will be able to throw them on earth and kill them
+(22–23). You will be perfectly careful in killing them; do not disregard
+them as boys of fickle nature (24). If those two boys are killed in
+battle in the arena I shall meet with well-being both in present and
+future (25)."
+
+Hearing these affectionate words of the king the wrestlers Chānura and
+Mushthika, mad after fight, delightedly replied (26):—"If those two
+helpless boys, the very sin of the Gopas, come before us know them as
+already slain and existing in the shape of ghosts (27). On our being
+worked up with anger if those two forest-rangers, enveloped in
+calamities, withstand us, we will destroy them in your very presence
+(28)." Giving vent to these poisonous words and commanded by king Kansa
+those two foremost of wrestlers Chānura and Mushthika returned to their
+own habitations (29).
+
+Thereupon Kansa said to his elephant-trainer Mahāmātra:—"Keep at the
+gate of the arena the fickle-natured and powerful elephant Kuvalayapida,
+the oppressor of other elephants, whose temples are soaked with temporal
+juice, eyes are always inebriate and who is always angry with men
+(30–31). When the mean forest-ranging sons, of Vasudeva, will come do
+you so drive that elephant at them that they might at once be deprived
+of their lives (32). If by you, through that elephant-chief those two
+irrepressible Gopas are killed in the arena my eyes will derive pleasure
+from seeing you (33). Beholding them slain, Vasudeva, with his root cut
+off and helpless, will meet with destruction along with his wife (34).
+Beholding Krishna thrown down all the stupid Yādavas will give up hope
+and be slain (35). Having myself slain those two cow-herd boys through
+the wrestlers or the elephant I shall divest the city of Mathurā of all
+the Yādavas and live here happily (36). I have forsaken my father
+because he belongs to the Yadu race and I do now forsake the remaining
+Yādavas devoted to Krishna (37). Verily as said by Nārada I am not
+begotten by Ugrasena a man of feeble energy who hankers after a son
+(38)."
+
+Mahamatra said:—"How did the celestial saint Nārada describe the
+wonderful story related by thee, O king, O thou, the slayer of thy
+enemies (39). O king, how couldst thou take thy birth from any other
+person save thy father Ugrasena? How could thy mother perpetrate such an
+abominable deed which even the ordinary women cannot? O great king,
+curious I am
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0127 | next_story_id: DKS_0129
+previous title: Narada Reveals the Truth to Kamsa
+next title: Kamsa Sends Akrura to Fetch Krishna

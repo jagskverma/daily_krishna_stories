@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0286",
+ "title": "Krishna's Dawn Worship in Dwaraka",
+ "subtitle": null,
+ "story": "The birds of Dwaraka sang the sun up before it showed itself, a chorus at every window like heralds crying that the day belonged to Krishna. Inside the palace, in the deep quiet of the brahma-muhurta, Rukmini lay awake beside him, and could not bear the coming moment — the moment when her lord would rise from their bed and the night would be over.\n\nBut rise he did, as he rose every day. In the first grey light Krishna touched the water and cleansed himself for what came next. Then he sat, and turned inward, to the one reality that shines of itself, that has no second and no end, that no impurity can touch — and for a while the palace, the city, the sea beyond it, all fell away. It was not an escape from the day but the day's foundation; everything that followed stood on that stillness.\n\nHe bathed in clear water, according to the rite, performing each act as though it were the only act in the world — unhurried, complete, attentive. He put on fresh garments and performed the sandhya worship at the turning of night into day, feeding the sacred fire with oblations while his speech stayed still and his mind rode the chant. He saluted the rising sun, and offered the first worship of the day to his own senses, asking them to serve him rather than rule him.\n\nThen the giving began. Every day, the texts say, Krishna gave away herds of milk-giving cows — cows with horns of gold and hooves of silver, strung with pearls, each with linen and sesame beside it, everything a household could need. The brahmanas came forward in turn, each receiving from the king's own hand, and his face showed no fatigue at the giving, only the same unhurried attention he gave to everything. He honored the cows and the brahmanas, the gods and the elders, his teachers, and every living being that came before him. He adorned himself, and those who saw him said the ornament of the human world had dressed itself in its own finery.\n\nHe looked into the mirror, as the custom of kings was, and saw the auspicious things set before him: clarified butter, cows and bulls, brahmanas, the images of the gods. He gave garlands, betel leaf and unguents to the brahmanas who waited on him, and they blessed him and went their way.\n\nThe sun was fully up. His charioteer brought the great chariot to the gate, and Krishna took his driver's hand and mounted, while the women of the inner palace watched him go with shy, loving glances. Through the streets of Dwaraka he rode, and the city rose around him like one living thing, until he came to the hall of Sudharma — the ancient assembly hall of the Yadus.\n\nThere the lords of the Vrishnis were gathered, Uddhava and Satyaki among them. Krishna took the highest seat, and the hall seemed to gather its light around him, as though the four directions brightened where he sat. The ministers brought their humor, jesting with their king as trusted friends do, and the sound of mridanga and vina, of flute and cymbals and conch, rose and filled the hall.\n\nSo the day of the lord of Dwaraka began — not in display but in order: water and fire, silence and song, gifts given and people heard. Those who watched him at his worship said he performed it not as a king performing for his court, but as a servant of the Lord within him — the same Lord whose service in Dwaraka meant the service of everyone who came before him.",
+ "reflection": "The wonder of the episode is its plainness: the lord of the universe performs the small disciplines of an ordinary king's day — ablutions, meditation, charity, court — and the disciplines are not beneath him but the very shape of his days. Devotion here is not spectacle but faithful repetition.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Rukmini",
+  "Uddhava",
+  "Satyaki"
+ ],
+ "locations": [
+  "Dwaraka",
+  "Sudharma hall"
+ ],
+ "themes": [
+  "daily worship",
+  "charity",
+  "kingship"
+ ],
+ "previous_story_id": "DKS_0285",
+ "next_story_id": "DKS_0287",
+ "next_story_tease": "Far from Dwaraka, in a poor village, a brahmana who had once been Krishna's schoolmate was about to set out on a long journey.",
+ "hero_scene": "Krishna, robed and adorned at sunrise in a Dwaraka courtyard, placing a golden-horned cow strung with pearls into the hands of a brahmana, while the city wakes behind him.",
+ "visual_elements": [
+  "Krishna robed and adorned at sunrise",
+  "a golden-horned cow with pearls being given away",
+  "brahmanas receiving gifts from Krishna's own hand",
+  "the courtyard of the palace in first light",
+  "the sea and towers of Dwaraka beyond"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.70.1-19",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:23Z",
+  "source_event_id": "evt_0259"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "DKS_0161",
+ "title": "Kalayavana Marches on Mathura",
+ "subtitle": null,
+ "story": "Of all the honors Kalayavana had ever received, none weighed like the message he held that day — the kings of the earth had asked him to vanquish Krishna.\n\n\"Happily honored and blessed am I,\" he said, \"and my life is crowned with success, since numberless kings have requested me for vanquishing Krishna. The kings have appointed me in the work of subduing Krishna, who is invincible in the three worlds, even unto gods and Asuras. And they have blessed me so that I will achieve victory. While the kings, with delighted hearts, have declared my victory, I shall, by the very pouring of their water-like words, achieve success. Whatever it may be, I shall carry out the command of the Emperor Jarasandha, issued at the request of the kings. Even my discomfiture in it will be tantamount to my success. O king, today the day and the stars are auspicious, and in this auspicious moment I shall even today start for Mathura, to defeat Keshava in the battlefield.\"\n\nHe honored Shalya of Soubha duly with highly precious gems and dresses. For acquiring unstinted blessings he gave away various riches to his guest and to the brahmins, and duly offered libations to fire. Then, after the performance of benedictory rites, he set out with his army for vanquishing Janarddana. And Shalya, his desire fully achieved, embraced the lord of the Yavanas and set out with a delighted heart for his own city, carrying the answer of the Yavanas back to the kings.\n\nFew in the host that marched behind Kalayavana knew the story of their king's birth, though all of India would soon learn it. The sage Gargya, called impotent by his brother-in-law in an assembly of the Yadavas, was deeply offended by the laughter that followed and repaired to the shores of the western sea, where he engaged in arduous penance to obtain a son who should be a terror to the tribe of Yadu. For twelve years he propitiated Mahadeva, living upon iron sand, until the deity at last was pleased with him and gave him the desired boon. The childless king of the Yavanas became Gargya's friend, and by the king's wife Gargya begot a son as black as a bee — whose breast was as hard as the point of the thunderbolt — and the child was therefore called Kalayavana. The old king placed his son upon the throne and retired to the woods. Inflated with the conceit of his prowess, Kalayavana demanded of Narada who were the most mighty heroes on earth, and the sage answered: \"The Yadavas.\" It was an answer the king of the Yavanas never forgot, and it named the only enemies he thought worth marching against.\n\nAccordingly Kalayavana assembled many myriads of Mlechchhas and barbarians, and with a vast armament of elephants, cavalry, chariots and foot, advanced impatiently against Mathura and the Yadavas — wearying every day the animal that carried him, but insensible of fatigue himself, and driving the whole host on at the pace of his own restlessness. The name of Kalayavana ran ahead of that army like fire: the king of the Yavanas was coming to Mathura, he had vowed not to turn back until Keshava was defeated in the battlefield, and he had sworn that even his own defeat would not count as failure.",
+ "reflection": "Kalayavana's boast contains its own admission — even his discomfiture, he says, will count as success. A king who sets out expecting that nothing he does can be failure has already stopped weighing his chances.",
+ "tradition_note": "The Vishnu Purana tells this march differently: there, Kalayavana learns from Narada that the Yadavas are the mightiest heroes on earth and advances on his own, with no embassy from Jarasandha. This account follows the Harivamsha.",
+ "content_note": null,
+ "life_stage": "mathura",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Kalayavana",
+  "Shalya",
+  "Krishna",
+  "Gargya",
+  "Narada"
+ ],
+ "locations": [
+  "Yavana capital",
+  "Mathura"
+ ],
+ "themes": [
+  "pride",
+  "war-march",
+  "boast"
+ ],
+ "previous_story_id": "DKS_0160",
+ "next_story_id": "DKS_0162",
+ "next_story_tease": "As the Yavana host drew near Mathura, Krishna prepared a warning sealed in a jar.",
+ "hero_scene": "Kalayavana at the head of his vast army — elephants, cavalry, chariots and foot stretching to the horizon — riding out of the Yavana capital toward Mathura, dust rising around him.",
+ "visual_elements": [
+  "Kalayavana at the head of his army",
+  "elephants, cavalry, chariots and foot",
+  "the host stretching to the horizon",
+  "dust rising on the march",
+  "the Yavana capital behind",
+  "pride and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.111",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.23",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:55Z",
+  "source_event_id": "evt_0188"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

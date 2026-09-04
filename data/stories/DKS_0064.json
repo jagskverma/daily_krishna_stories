@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0064",
+ "title": "Krishna Reveals His Supreme Abode",
+ "subtitle": null,
+ "story": "Nanda came back from the river with a story, and he could not keep it to himself. He had been seized in the dark water by a servant of Varuna and carried down to the lord of the waters; and there, before his own eyes, Varuna had risen and honored Krishna, and had bowed to him, and had begged his grace. Nanda told his kinsmen all of it, and the cowherds listened, and something quickened in them.\n\nThey had always loved the boy. They had carried him and fed him and scolded him, and all the while, beneath the ordinary love, a question had been waiting. Now it stirred. If the lord of the waters bowed to this child, they whispered to one another, then perhaps the child was more than a child; perhaps the one they called their own was the Lord himself. The thought took hold of them, and with it came a longing they could hardly have put into words: they wanted to see where he truly dwelt.\n\nKrishna knew. He sees everything, and he saw what was stirring in the hearts of his people, and it moved him. He thought of how men and women live — bound by desire, by the small work of every day, by all they have done and left undone, unable by themselves to see past the moment to the light that never fails. And being full of mercy, he resolved to give them what they yearned for, though it was a thing that could not be shown in any ordinary way.\n\nHe led them to the water and took them down into the lake of Brahman and let them sink beneath it. There, beyond all darkness, he revealed to them his own abode — the eternal light of Brahman, which is truth, and knowledge, and the infinite. It was not the light of the sun or of the moon, which rise and set; it was the light from which all lights are born, without beginning and without end. The cowherds saw it and were lost in it, and were filled with a bliss beyond anything the world can give.\n\nThen Krishna drew them up again, out of the water and back into the air of Vrindavan. They stood on the bank blinking in the ordinary light, carrying inside them a sight they would never find words for. And when they looked at the boy before them — wet from the river, small and familiar — they knew, as they had not known before, who it was they had been loving all along. The vision did not push them away from him; it only deepened the wonder, and the wonder only deepened the love.",
+ "reflection": "Krishna does not take his people away to show them heaven; he lets them sink into the light and then brings them back to the riverbank. The vision is given not to detach them from the world but to answer a longing with a glimpse — and then to return them, changed, to the boy they had always known.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "vrindavan_childhood",
+ "characters": [
+  "Krishna",
+  "cowherds"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "revelation",
+  "liberation"
+ ],
+ "previous_story_id": "DKS_0063",
+ "next_story_id": "DKS_0065",
+ "next_story_tease": "But the world they returned to still held its dangers, and a demon was watching their next night in the forest.",
+ "hero_scene": "The cowherds submerged in the shining water of the lake of Brahman, gazing up at a boundless eternal light, while Krishna stands among them, calm, his small familiar form haloed by the radiance.",
+ "visual_elements": [
+  "the lake of Brahman",
+  "Krishna",
+  "cowherds submerged in water",
+  "a boundless eternal light",
+  "truth, knowledge and the infinite",
+  "the riverbank of Vrindavan",
+  "bliss and stillness"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.28.9-16",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:03:25Z",
+  "source_event_id": "evt_0105",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3
+}

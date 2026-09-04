@@ -1,0 +1,61 @@
+{
+ "id": "DKS_0306",
+ "title": "The Duel at the Mouth of the Cave",
+ "subtitle": "Nikumbha fells Arjuna and Pradyumna with his thorned club — and Krishna, enraged, seizes Kaumodaki and runs to meet him.",
+ "story": "The demon came out of the cave the way a storm comes off the sea — all at once, and swinging.\n\nThe anger behind that charge had been building for days, and it had begun, strangely enough, with a stolen bride. While the Yadavas were busy with their games, Nikumbha, the demon chief and master of illusion, had slipped past the garden of the women's apartments and carried off Bhanumati, the beautiful young daughter of Bhanu, a nobleman of Krishna's own clan. He had an old score to settle: Pradyumna had once carried away Prabhavati, the daughter of Nikumbha's own brother Vajranabha, and had killed the brother besides. Remembering that enmity, the demon had taken his chance — for although that garden was said to be unapproachable, at that hour no guards stood watch, since the Yadavas were all at their games.\n\nWhile the weeping maiden was being carried away, a great outcry rose through the women's apartments, and Vasudeva, Krishna's father, and the clan elder Ahuka came out in a fury. Krishna, hearing of the insult, mounted Garuda at once, with Arjuna — the Pandava prince, his dearest friend — beside him, and commanded Pradyumna, whose banner bore the makara, the great sea creature, to follow on his chariot. They overtook the demon before he could reach the city of Vajra.\n\nPradyumna, the greatest master of illusion among them, divided himself into three. Nikumbha, as though no blow could kill him, fought all three at once with heavy clubs — holding Bhanumati in his left hand and hurling the club with his right. And here was the cruelty of it: though any one of the three could have slain the demon, none could strike him for fear of wounding the maiden in his arms. They fought with restraint, sighing with pity for her, until Arjuna — the way a skilled archer strikes the serpent coiled around a camel and leaves the camel unhurt — began to wound the demon with his slim, cane-like arrows.\n\nThen Nikumbha resorted to his illusion and vanished with the maiden, so completely that no one could tell where he had gone; and the three pursued him as he fled, now taking the shape of a yellow vulture against the sky. The chase ranged across the whole earth, over all seven of the great island-continents, until the demon dropped down at last with the maiden on the bank of the river Chela Ganga, high on the summit of Mount Gokarna — a mountain that neither gods, nor demons, nor the greatest of ascetics could cross, for the power of Shiva himself guarded it. There Pradyumna seized Bhanumati back from him, while Krishna and Arjuna drove the demon from the mountain's northern slope to its southern with their arrows, pursuing him on Garuda.\n\nBroken and furious, Nikumbha fled into Shatpura, the city of his kinsmen, and Krishna and Arjuna spent the night at the mouth of the cave. With Krishna's permission, Pradyumna carried the maiden home to Dwaraka in triumph, and then returned to find his father and Arjuna waiting before the cave where he had left them.\n\nThey did not wait long. Hungry for the fight, Nikumbha came out of the cave, and Arjuna met him at the threshold with arrows from his great bow, the Gandiva, blocking the way. It made no difference. The demon came on, took up his club — a great staff covered with thorns — and struck Arjuna on the head. Blood poured from the prince's mouth, and he lost consciousness on the spot. Then the master of illusions smiled, and with a stroke no eye could see he struck the heroic son of Rukmini, himself a master of illusion, on the head. Pradyumna fell senseless beside his friend.\n\nFor a moment there was silence at the mouth of the cave. Then Krishna, king of Dwaraka, seized his great mace Kaumodaki and ran toward Nikumbha.",
+ "reflection": "The three heroes are helpless not because the demon is stronger but because the maiden in his arms makes every true blow a wound to her — restraint, not fear, brings them down. And when the club finally strikes, restraint is exhausted: the whole war narrows to one man running forward with a mace, and the duel that will decide it begins.",
+ "tradition_note": null,
+ "content_note": "Battle violence: Arjuna and Pradyumna are struck senseless by Nikumbha's thorned club, with a brief mention of blood; described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Nikumbha",
+  "Arjuna",
+  "Pradyumna",
+  "Krishna",
+  "Bhanumati",
+  "Indra"
+ ],
+ "locations": [
+  "mouth of Shatpura cave",
+  "Mount Gokarna"
+ ],
+ "themes": [
+  "single combat",
+  "club-fight",
+  "fury"
+ ],
+ "previous_story_id": "DKS_0305",
+ "next_story_id": "DKS_0307",
+ "next_story_tease": "But an older enmity still hung over Dwaraka — the tale of Vajranabha's unbreachable city, and the promise Krishna had made to Indra.",
+ "hero_scene": "At the mouth of the Shatpura cave, Nikumbha stands over the fallen Arjuna and Pradyumna, his thorned club in hand, while Krishna strides toward him with the mace Kaumodaki raised.",
+ "visual_elements": [
+  "Nikumbha emerging from the cave swinging his thorned club",
+  "Arjuna and Pradyumna fallen senseless at the cave's mouth",
+  "Krishna running forward with the mace Kaumodaki raised",
+  "the pursuit across Mount Gokarna with the maiden Bhanumati",
+  "the yellow vulture against the sky",
+  "fury and single combat"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.237",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:03Z",
+  "source_event_id": "evt_0317",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

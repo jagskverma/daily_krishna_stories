@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0241",
+ "title": "Heaven Sings at Sea",
+ "subtitle": "The celestial Chhalikya song comes down to the Yadava fleet.",
+ "story": "The war at Shatpura, the city of the demons, was over. Krishna and his people, the Yadavas, were at sea — the fleet that carried the Yadava court had sailed out into open water — and there, at Krishna's command, a celebration began such as the world had never heard.\n\nIt began with Balarama, Krishna's elder brother. Warmed by wine, his eyes gently reddened, he sat sporting with Revati, the daughter of King Revata, looking at her face and finding in it all the delight he needed. Seeing his brother so content, Krishna summoned the Apsaras, the dancers of heaven, and the beautiful women came to the boats to please Balarama and Revati. They had dressed themselves as the women of the Yadava country. They saluted the couple first, and then, as the couple wished and the Yadavas asked, they danced in time, displaying gesture after gesture of the celestial dance, and sang, in the Yadava tongue, songs set to a thousand tunes.\n\nAnd the songs they sang were the deeds of Krishna himself. They sang of Kamsa's destruction and the fall of Pralamba and Chanura; of the child tied to the mortar, who earned the name Damodara; of Putana's end and the great trees pulled up by the roots; of the serpent Kaliya pressed down in the lake; of Govardhan held aloft on one hand for the sake of Gokula; of the hump-backed woman cured, the dwarf form assumed, the wolves sent against the forest, the flying city Saubha brought down, Subhadra carried away from her brothers, the battle with Valahaka and Jamvumali, and the jewels taken from Indra himself. Every wonder of his life came back to him as song, sung before the whole company — and Balarama, delighted, began to sing with Revati, clapping the time.\n\nKrishna, to please his brother, sang with Satyabhama. Arjuna, who had come aboard for the sea voyage, joined his sister Subhadra and Krishna in the singing. Then the whole fleet joined in — Gada and Sarana, Pradyumna, Samba and Satyaki, Charudeshna; Balarama's sons Nishatha and Ulmukha; the commander Akrura, Sankha, and all the leading heroes of the Yadava house — and sang together in one great chorus. By Krishna's power the boats themselves grew to hold them all, and the music carried over the water until the whole world was filled with joy and the sins of those who listened were washed away.\n\nThen Narada came down — the wandering singer of heaven, guest of the celestials — bearing his vina, the stringed instrument he carried on all his travels. He played, and he sang for Krishna with such intensity that a portion of his matted hair melted away in the heat of his own devotion. He composed songs on the spot and sang them again and again with every gesture his body could make. He smiled on Balarama and Revati, on Krishna and Arjuna, on Satyabhama and Subhadra; and though Krishna's wives were patient by nature, the sage who loved a joke made them laugh whether they wished to or not. He sang tunes high and low, laughed aloud, and wept tears of joy.\n\nAnd Krishna himself danced. To the music of his own flute he performed the dance called the Hallishaka before them all, and the Apsaras answered him step for step — the beautiful Rambha rising to dance before Balarama and Krishna, and Urvashi with her.\n\nThe celestial song called the Chhalikya, which until that day had been heard only in heaven, was brought down then and sung for mankind — and the world listened from its rooftops and its boats.\n\nWhen the music finally ended, the dancers of heaven moved through the company at Krishna's command, giving away the best jewels of the earth, beautiful raiments and garlands, until every guest was laden with gifts. And the fleet sailed on, singing: heaven's song riding on mortal water, where a boy's deeds were remembered, and the war was, for one night, nothing but a song.",
+ "reflection": "The soiree turns the war's end into a festival of memory: every great deed of Krishna's life is sung back to him, and the celestial Chhalikya is brought down to human ears. Heaven does not stay above, it comes aboard the boats, dances, and weeps with joy, and the story's quiet point is that the divine rejoices to be remembered by the world it saved.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Narada",
+  "Arjuna",
+  "Rambha",
+  "Urvashi",
+  "Pradyumna",
+  "Baladeva"
+ ],
+ "locations": [
+  "ocean boats"
+ ],
+ "themes": [
+  "music",
+  "celestial song",
+  "festival"
+ ],
+ "previous_story_id": "DKS_0240",
+ "next_story_id": "DKS_0242",
+ "next_story_tease": "The celebration ended, and Nikumbha still lived.",
+ "hero_scene": "On a moonlit sea, a fleet of great boats rings with music: Narada plays the vina, Krishna dances the Hallishaka with his flute in hand, while the Apsaras Rambha and Urvashi dance before Balarama and Revati.",
+ "visual_elements": [
+  "moonlit sea",
+  "fleet of boats",
+  "Narada with vina",
+  "Krishna dancing with flute",
+  "Rambha and Urvashi",
+  "Balarama and Revati",
+  "music and celebration"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.236",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:45:29Z",
+  "source_event_id": "evt_0314",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

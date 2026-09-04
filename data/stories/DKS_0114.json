@@ -1,0 +1,67 @@
+{
+ "id": "DKS_0114",
+ "title": "Akrura Reveals Kamsa's Plan",
+ "subtitle": null,
+ "story": "The man Kamsa had sent was, of all things, an honest one. Kamsa, the king of Mathura, had sent Akrura to the cowherd village of Vrindavan to summon Krishna and his brother Balarama to the city — the brothers who had been raised there since infancy, far from the court where their own parents were held prisoner. But Akrura was of Krishna's own family, a Yadava as the brothers were, and the moment he beheld Krishna he had bowed to the ground. The errand no longer sat easily in his mouth. Now he stood before Krishna and Balarama, and Krishna welcomed him as a kinsman, though his greeting carried an edge. Why do you ask after our welfare, Krishna said, when the trouble in our own family only grows? And then he asked what message had brought Akrura all this way.\n\nAkrura gave it to him, all of it. He told of Kamsa's long enmity toward the Yadavas, the hatred the king of Mathura had nursed for years. He told of Kamsa's resolve to kill Vasudeva, their father. And he told them the reason he himself had been sent as a messenger: the king meant to use this errand to draw the two brothers to the city, where he could destroy them.\n\nThen, because he was a Yadava himself and could not keep it in, he spoke of their parents. Your father, he said, has grown old in sorrow; his limbs have wasted away, and Kamsa of sinful designs oppresses him still. Out of fear for the king and grief at your absence, his mind burns with anxiety day and night. And Devaki — he would not soften it — your mother is growing lean with grief, like a cow separated from her calf. Her sons never lay at her breast. Her eyes have sunk into their sockets like the moon caught in an eclipse, and she wears soiled garments and spends her days poorly. Since your infancy she has been parted from you, never once hearing your childish talk, never once seeing your moon-like face. If, by giving birth to you, she must only repent, what need had she of a son at all? A woman without children suffers but one grief; a woman whose sons do not accomplish their purpose knows no end of sorrow. As the earth bears you, so Devaki deserves your reverence — save her, a goddess sunk into the water of sorrow.\n\nYou vanquished the serpent Kaliya in the waters of the Yamuna, Akrura went on. You lifted the hill Govardhana for the sake of the cows. You destroyed Arishta the bull-demon and wicked Keshi the horse-demon. Now make one more exertion, with the same care, and save your aged parents from their grief. You are the saviour of even your enemies, your prowess like Indra's, your accomplishments without equal — and yet the mother who bore you lives in a grief she never asked for. Though they are aged, your parents now serve another master, and Kamsa insults them on your account. Those who saw your father insulted in Kamsa's own court are all shedding tears. A son is born owing his parents a debt, one the scriptures set down, and it is paid only by care. If you show them this favour, they will lay down their grief — and you will have done your duty.\n\nKrishna had known all of it before Akrura opened his mouth. He took no offence at the words. He simply said, \"So be it.\"\n\nHearing that, the cowherds of Vrindavan, led by Nanda — the chief who had raised the brothers as his own — resolved to obey Kamsa's summons: they would go to Mathura. They dressed themselves and set about arranging their tributes — buffaloes and bulls, curd, milk, and clarified butter — and the heads of the cowherd clans made ready their offerings. Akrura spent the night without sleep, speaking with Krishna and Balarama, and in the dawn, when the birds began to sound and the last stars faded, the village stirred and prepared to travel.",
+ "reflection": "Akrura's honesty is the quiet centre of this episode: sent as Kamsa's messenger, he speaks the truth of his own mission and pleads for the parents left behind in Mathura, while Krishna, who already knew it all, listens to the end before he answers.",
+ "tradition_note": "The Vishnu Purana (5.18) has Krishna answer with a specific vow, that within three nights he would slay Kamsa and his adherents; the Bhagavata Purana, followed here, records the revelation and the reason for the mission without that promise.",
+ "content_note": null,
+ "life_stage": "vrindavan",
+ "story_arc": "akrura_and_departure",
+ "characters": [
+  "Akrura",
+  "Krishna",
+  "Balarama"
+ ],
+ "locations": [
+  "Vrindavan"
+ ],
+ "themes": [
+  "revelation",
+  "compassion",
+  "duty"
+ ],
+ "previous_story_id": "DKS_0113",
+ "next_story_id": "DKS_0115",
+ "next_story_tease": "But when Nanda proclaimed the journey to the whole village, the gopis heard it — and their grief would not be silenced.",
+ "hero_scene": "Akrura speaking earnestly before Krishna and Balarama in Vrindavan, describing the sorrow of Vasudeva and Devaki in Mathura, while the two brothers listen in stillness.",
+ "visual_elements": [
+  "Akrura speaking with urgency",
+  "Krishna and Balarama listening",
+  "the settlement of Vrindavan",
+  "cowherds preparing tributes of curd, milk, and butter",
+  "dawn light over Vraja",
+  "gravity and resolve"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.39.1-9",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.81",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.18",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:25Z",
+  "source_event_id": "evt_0124",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4
+}

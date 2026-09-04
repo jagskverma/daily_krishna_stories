@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0163",
+ "title": "Jarasandha Hurls His Mace toward Mathura",
+ "subtitle": null,
+ "story": "From the heights of Girivraja, the king of Magadha lifted a mace and began to whirl it — once, and again, and ninety-nine turns in all — until the iron seemed less a weapon than the shape of his anger. Then, with everything he had behind it, he hurled it toward Mathura.\n\nThe enmity between Jarasandha and Krishna had begun some time before, when Kamsa was slain. It was not a grudge to be taken lightly. Jarasandha was the son of Vrihadratha, and the story of his rise was known wherever kings gathered. When the great ascetic Chandakausika had come into the country of the Magadhas, King Vrihadratha, filled with joy at the sage's advent, had gone out to receive him with his ministers, his priest, his wives, and his son, and had offered the Rishi his whole kingdom along with the boy. The sage, well pleased, accepted the worship and gave the king a prophecy instead: this son would grow in prosperity and prowess; other monarchs would never be able to equal his energy; weapons hurled at him even by the celestials would fail to cause him the least pain; he would blaze forth above the heads of all that wore crowns, and, like the sun dimming the lustre of all luminous bodies, rob all monarchs of their splendour; and all the kings of the earth would live in obedience to his commands. Vrihadratha installed the boy on the throne, and, having come to feel a great distaste for worldly pleasures, retired into the woods with his two wives. The prophecy kept its word. Jarasandha ruled like a father, and by his valour brought numerous kings under his sway.\n\nAnd this was the man whose mace now flew toward Mathura, where Krishna of wonderful deeds was residing. The weapon fell near the city, at a distance of ninety-nine yojanas from Girivraja, and the place where it struck came to be called Gadavasan, adjacent to Mathura itself. The citizens, beholding the whole circumstance well, went to Krishna and informed him of the fall of the mace.\n\nThere was no mistaking the message. Jarasandha had two supporters, Hansa and Dimvaka, both incapable of being slain by weapons, both foremost among intelligent men in the science of politics and morality; together with Jarasandha, they were held to be more than a match for the three worlds. It was for this reason that the powerful Kukkura, Andhaka, and Vrishni tribes, acting from motives of policy, had never deemed it proper to fight with him. And now that strength had been hurled across the country and left lying near Mathura — a line drawn on the earth between Girivraja and the city where Krishna lived.\n\nKrishna heard the citizens out. The mace lay at Gadavasan, close to the city's edge, and the warning was complete in itself: the king of Magadha had measured the distance to Mathura with his own arm, and a weapon that could cover that distance could be followed by the army that owned it. Whatever came next, the citizens had done what they could. They had brought the news to Krishna, and the weight of what it meant now rested with him.",
+ "reflection": "A mace hurled across the country was a king's way of drawing a line: the distance from Girivraja to Mathura, measured by his own strength, as a notice that the enmity over Kamsa's death would not quietly fade. The weapon itself was a warning, and it was also an announcement of the long conflict to come.",
+ "tradition_note": null,
+ "content_note": null,
+ "life_stage": "pandava_period",
+ "story_arc": "jarasandha_and_kings",
+ "characters": [
+  "Krishna",
+  "Jarasandha",
+  "Kamsa"
+ ],
+ "locations": [
+  "Girivraja",
+  "Mathura"
+ ],
+ "themes": [
+  "enmity",
+  "threat",
+  "warning"
+ ],
+ "previous_story_id": "DKS_0162",
+ "next_story_id": "DKS_0164",
+ "next_story_tease": "But the king of Magadha was only beginning; the time would come when Krishna proposed meeting that strength directly.",
+ "hero_scene": "Jarasandha, on the high ground of Girivraja, whirling a great mace above his head ninety-nine times with fury, the weapon a dark blur against the sky, aimed far across the plains toward distant Mathura.",
+ "visual_elements": [
+  "Jarasandha whirling the mace on the heights of Girivraja",
+  "the mace arcing across the sky toward Mathura",
+  "the mace fallen at Gadavasan near Mathura",
+  "citizens of Mathura gathered around the fallen mace",
+  "Krishna hearing the citizens' report",
+  "threat and warning"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "2.19",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:36:01Z",
+  "source_event_id": "evt_0390"
+ },
+ "editorial_status": "unreviewed",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4
+}

@@ -1,0 +1,53 @@
+{
+ "id": "DKS_0317",
+ "title": "One Hundred Sons Against One",
+ "subtitle": null,
+ "story": "A hundred sons of Shamvara came against him at once, and the young man from Dwaraka did not give ground.\n\nThey came on as a storm comes, showering him from every side with arrows, spears, axes, javelins and maces at the same moment, and the field before the gate turned dark with their shafts. Pradyumna, angered, answered each of them with five arrows of his own, and the field rang with bowstrings and the shriek of arrows. The sons of the demon were all good bowmen, and they wove a net of weapons over him to bring him down; Pradyumna cut straight through it. In the first exchanges he killed the ten strongest of the brothers; the next moment, with a broad-headed arrow, he took off Chitrasena's head. The last of them, seeing their brothers fall, united against him in a single rush, shooting as they came — and he cut off their heads, the old text says, as if in sport.\n\nWhen it was over, all hundred lay on the field. Every one of them had been a good bowman; every one of them was dead. Pradyumna, the pride of Rukmini's heart, stood untouched among the fallen, and the field was quiet except for the wind moving in the fallen flags. He looked toward the city, still wanting battle.\n\nIn the palace, the news struck Shamvara like a blow: his hundred sons, gone in a single day. Wrath filled him, and he called for his charioteer, who saluted with his head touching the ground, brought the king's car, and roused the soldiers to readiness. The car itself was a thing out of nightmare — drawn by a thousand bears, bound with ropes of serpents, armored in tiger skin, hung with a net of small bells and painted over with stars, ringed with wooden fenders on iron axles, its deck reached by ten stairs, its flags bearing the figures of lions, its height like the summit of Mount Mandara, decked with waving chowries, gold flashing from every standard. Shamvara put on golden armor, took up his bow and arrows, and set out, as if urged on by death itself, with his four ministers around him — Durdhara, Ketumali, Shatruhanta and Pramardana — and his army spread across the plain behind him: two hundred chariots, ten thousand elephants, eight thousand horses, and ten lakh foot soldiers.\n\nThe sky itself seemed to turn against the march. Cranes screamed overhead; firebrands fell among the columns; jackals howled at the army; vultures settled on the tops of the standards, already thirsty for the blood of Danavas. Headless figures seemed to drop upon the king's car. The moon was eclipsed and ringed with its dark disc; his left eye and left arm danced, presaging calamity; the horses' pace slackened of their own accord; Indra sent down a shower of blood mixed with live coals and cinders; the reins slipped from the charioteer's hands.\n\nShamvara paid no attention to any of it. Rage had closed his eyes to omens. He drove on, bent on slaying Pradyumna, and the earth shook under the sound of bugles, conch shells and drums blown together; beasts and birds fled in terror from the noise.\n\nOn the far side of the field, Krishna's son stood alone among the fallen, and he too was bent on slaying his enemy. He watched the horizon darken with the dust of an army, and at its head the monstrous chariot drawn by bears. He had called the demon out, and the demon was coming — and the boy who had mastered every form of illusion stood his ground and waited.",
+ "reflection": "The omens read the end before the battle begins — the eclipse, the vultures, the blood falling from a clear sky — and only Shamvara refuses to see them. Rage, the text suggests, is the one blindness no seer can cure.",
+ "tradition_note": null,
+ "content_note": "Battle violence: Pradyumna kills the hundred sons of Shamvara in a single fight; the deaths are recounted without graphic detail.",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Pradyumna",
+  "Shamvara",
+  "Chitrasena",
+  "Shamvara's sons"
+ ],
+ "locations": [
+  "battlefield",
+  "Shamvara's city"
+ ],
+ "themes": [
+  "battle",
+  "youthful prowess",
+  "slaying"
+ ],
+ "previous_story_id": "DKS_0316",
+ "next_story_id": "DKS_0318",
+ "next_story_tease": "The father himself was coming — and he did not come alone.",
+ "hero_scene": "The battlefield strewn with the fallen hundred; Pradyumna standing alone amid the wreck of bows and standards, bow in hand, as the horizon darkens with the dust of Shamvara's monstrous bear-drawn chariot and his army.",
+ "visual_elements": [
+  "the hundred sons of Shamvara falling before Pradyumna's arrows",
+  "Pradyumna standing untouched among the fallen",
+  "Shamvara's chariot drawn by a thousand bears, bound with serpent ropes",
+  "the eclipsed moon and vultures over the marching army",
+  "battle and omen"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.252",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:51:28Z",
+  "source_event_id": "evt_0336"
+ },
+ "editorial_status": "unreviewed"
+}

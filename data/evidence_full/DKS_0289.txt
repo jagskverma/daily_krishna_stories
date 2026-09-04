@@ -1,0 +1,40 @@
+# STORY DKS_0289 — Krishna Eats Sudama's Flat Rice || Krishna asks for the gift and eats Sudama's handful of flat rice with delight, and Sudama, too ashamed to ask for anything, returns home empty-handed.
+
+## Index entry
+title: Krishna Eats Sudama's Flat Rice || Krishna asks for the gift and eats Sudama's handful of flat rice with delight, and Sudama, too ashamed to ask for anything, returns home empty-handed.
+summary: Krishna asks for the gift and eats Sudama's handful of flat rice with delight, and Sudama, too ashamed to ask for anything, returns home empty-handed.
+life_stage: dwaraka | story_arc: dwaraka_royal_life
+characters: Krishna, Sudama
+locations: Dwaraka
+themes: humility, grace, contentment
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0278
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 81 | verses 2-12 | confidence 5
+  excerpt: Krishna asks his friend what gift he has brought, saying even a trifle offered with love pleases him, and taking the flattened rice from Sudama's robe, eats one handful and reaches for a second — but the goddess of fortune, pleased, stays his hand, saying this much suffices to grant all riches. Sudama spends the night, and returns home without asking Krishna for any wealth. (rendered from Sanskrit
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.81 (2-12)
+2. bhp_10.81.003/0 śrī-bhagavān uvāca
+3. patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati /
+4. ity ukto 'pi dviyas tasmai vrīḍitaḥ pataye śriyaḥ /
+5. sarva-bhūtātma-dṛk sākṣāt tasyāgamana-kāraṇam /
+6. patnyāḥ pati-vratāyās tu sakhā priya-cikīrṣayā /
+7. itthaṃ vicintya vasanāc cīra-baddhān dvi-janmanaḥ /
+8. nanv etad upanītaṃ me parama-prīṇanaṃ sakhe /
+9. iti muṣṭiṃ sakṛj jagdhvā dvitīyāṃ jagdhum ādade /
+10. etāvatālaṃ viśvātman sarva-sampat-samṛddhaye /
+11. brāhmaṇas tāṃ tu rajanīm uṣitvācyuta-mandire /
+12. śvo-bhūte viśva-bhāvena sva-sukhenābhivanditaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0288 | next_story_id: DKS_0290
+previous title: Krishna Embraces His Old Friend || Krishna rises from his couch, embraces Sudama with tears of joy, washes his feet, and anoints him, while Rukmini fans him, astonishing the palace women.
+next title: Sudama Finds His Hut a Palace || Returning home, Sudama finds his poor dwelling transformed into a celestial palace and his wife radiant, and he reflects that this is Krishna's unasked grace.
+
+## NOTE: this story already exists in the pilot (data/pilot_stories/) — do not rewrite it.

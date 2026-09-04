@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0426",
+ "title": "Krishna Enters the Kuru Assembly",
+ "subtitle": null,
+ "story": "Before the sun was fully up, the sound of conchs and cymbals drifted into Vidura's house, where Krishna had passed the night in talk. A band of choristers and bards with melodious voices had gathered at the door to wake Kesava with music, and the city of Hastinapura, which had slept through the darkest hours of the night, stirred with the first news that the messenger of peace was awake.\n\nKrishna rose and went through the customary acts of the morning: the cleansing bath, the sacred mantras, the libations of clarified butter poured on the sacrificial fire. He decked his person and began his worship of the rising sun, and while he was still at his devotions, Duryodhana and Sakuni, the son of Suvala, came to him.\n\n\"Dhritarashtra is seated in his court,\" they said, \"with all the Kurus headed by Bhishma, and with all the kings of the earth. They are all soliciting your presence, O Govinda, like the celestials in heaven desiring the presence of Indra himself.\"\n\nKrishna greeted them both with sweet and courteous enquiries, and when the sun had climbed a little higher, he summoned a number of Brahmanas and made them presents of gold, robes, kine, and steeds. Then his driver Daruka came and saluted him, and soon returned with his master's car: a large, blazing car furnished with rows of tinkling bells and harnessed with excellent steeds, producing a rattle deep as the rumbling of mighty masses of clouds.\n\nKrishna walked round the sacred fire and the band of Brahmanas, put on the gem known as the Kaustubha, and mounted the car, blazing with beauty, surrounded by the Kurus and well protected by the Vrishnis. Vidura, conversant with every precept of religion, followed on his own car; Duryodhana and Sakuni followed on one car; and Satyaki, Kritavarman, and the other mighty car-warriors of the Vrishni race rode behind on cars, on steeds, and on elephants.\n\nThey came out upon a broad street that had been swept and watered, fit for the highest of kings. Cymbals began to play, conchs were blown, and other instruments poured forth their music. A great number of youthful heroes, foremost in the world for heroism and possessed of lion-like prowess, surrounded the car of Sauri. Thousands of soldiers in variegated dresses, bearing swords, lances, and axes, marched in advance of Kesava. Full five hundred elephants followed, and chariots by thousands. All the citizens of the capital, of every age and both sexes, came out into the streets, desiring to behold Janardana; the terraces and balconies of the houses were so thronged by ladies that the houses seemed ready to fall down with the weight. Worshipped by the Kurus, listening to sweet speeches, and returning the greetings of all as each deserved, Kesava went along the street, casting his eyes on all.\n\nAt last he reached the Kuru court, and his attendants loudly blew their conchs and trumpets and filled the sky with the blare. The whole assembly of kings trembled with delight at the expectation of soon setting eyes on Krishna. Hearing the rattle of his car, rumbling like the deep roll of rain-charged clouds, the monarchs understood that Krishna was near, and the hair of their bodies stood erect with joy.\n\nAt the gate of the court, Krishna alighted from his car, which resembled the summit of Kailasa, and entered the court — a place that looked like a mass of newly risen clouds, blazing with beauty, like the very abode of great Indra. And that illustrious hero entered arm-in-arm with Vidura and Satyaki on either side, overshadowing with his own the splendour of all the Kurus. The kings made way; the Rishis who had come to the assembly were given their seats; and Krishna, the guest for whom the whole city had poured into the streets, took his seat in the midst of the assembly.\n\nThere he sat, the calm centre of a court that had dressed itself in all its glory to receive him — a glory that seemed, in that moment, borrowed from his presence rather than lent to it.",
+ "reflection": "The procession into the Kuru court is honor laid on like cloth of gold, and Krishna accepts all of it — the music, the crowds, the trembling delight of the kings — without once bending toward its vanity. He is the guest the whole city turned out to see, yet the calm at the center of that splendour belongs to a man who has come on other business entirely.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Vidura",
+  "Satyaki",
+  "Dhritarashtra",
+  "Bhishma",
+  "Duryodhana",
+  "Sakuni",
+  "Daruka"
+ ],
+ "locations": [
+  "Hastinapura",
+  "Kuru assembly"
+ ],
+ "themes": [
+  "assembly",
+  "honour",
+  "divinity"
+ ],
+ "previous_story_id": "DKS_0425",
+ "next_story_id": "DKS_0427",
+ "next_story_tease": "Once the assembly had settled into silence, Krishna rose to make his plea for peace.",
+ "hero_scene": "At the gate of the Kuru court in Hastinapura, Krishna, wearing the Kaustubha gem, alights from his blazing car and enters the cloud-like hall arm-in-arm with Vidura and Satyaki on either side, his radiance overshadowing the splendour of all the assembled Kurus.",
+ "visual_elements": [
+  "Krishna in his blazing car with tinkling bells, drawn by excellent steeds",
+  "the swept and watered street of Hastinapura lined with crowds",
+  "citizens and ladies thronging terraces and balconies",
+  "five hundred elephants and chariots by thousands following the procession",
+  "Krishna alighting at the gate of the Kuru court, entering arm-in-arm with Vidura and Satyaki",
+  "the assembly of kings with hair standing erect with delight"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.094",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:04:54Z",
+  "source_event_id": "evt_0433"
+ },
+ "editorial_status": "unreviewed"
+}

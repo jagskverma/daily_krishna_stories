@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0340",
+ "title": "Bana's Thousand Arms and Shiva's Boon",
+ "subtitle": null,
+ "story": "Bana, the king of Shonitapura, had a thousand arms, and he had begun to find them a burden. It was a strange complaint for any king to make — and stranger still for the eldest son of Bali, one of the great asura kings, the powerful demon lords of the old world. Bana ruled a beautiful city and served Shiva with a devotion that never wavered. The god had given him the thousand arms himself, and for years Bana had worn them like a second crown. But there were only so many weapons a man could hold and only so many foes worth fighting in the world, and the arms had begun to feel like a gift with nothing great to do.\n\nHe could have been content. He was lord of a fair city, honored among the other asura kings, and Shiva's favorite. But pride grows in an empty field faster than anywhere else, and Bana had begun to measure his worth by the strength he had been given rather than by the peace he had been granted. He wanted the world to test him. He wanted an enemy worthy of those thousand arms — and he had begun, in the privacy of his own heart, to believe that no such enemy existed.\n\nOne day, swollen with pride in his own valor, Bana stood before Shiva and spoke his mind. \"I bow to you, Mahadeva — Great God, teacher and lord of the worlds,\" he said. \"The thousand arms you gave me have become a burden. They itch for battle, and I wish to test them against the great elephants that guard the four corners of the world.\" He meant it as praise — look what your gift has made of me — but Shiva, who reads hearts as easily as other men read faces, heard the boasting underneath the worship.\n\nAnger rose in the god at the pride of his own worshipper. \"When your banner falls,\" Shiva said, \"then your pride will be humbled, in battle with a rival worthy of you.\"\n\nIt was a warning, but Bana heard a promise in it. His foolish heart seized on the one thing it wanted to hear — that a worthy rival existed somewhere, that battle and glory were coming — and let the rest fall away. He went home delighted, already imagining the day, already seeing himself victorious over the rival Shiva had promised him, never stopping to ask what kind of battle it would be that humbled his pride.\n\nAbove the gates of Shonitapura, the royal banner snapped and cracked in the wind, exactly as it had every day of his reign. Bana walked past it without a second glance. It never once occurred to him to wonder what the day would look like when that banner fell.",
+ "reflection": "Bana receives a warning and hears a promise, because pride translates everything into its own language. The story's tension is that Shiva's anger passes over him entirely — the god speaks, the devotee rejoices, and the doom is already sealed in the delight.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "pradyumna_and_aniruddha",
+ "characters": [
+  "Bana",
+  "Shiva"
+ ],
+ "locations": [
+  "Shonitapura"
+ ],
+ "themes": [
+  "pride",
+  "boon",
+  "destiny"
+ ],
+ "previous_story_id": "DKS_0339",
+ "next_story_id": "DKS_0341",
+ "next_story_tease": "In that same city, Bana's daughter Usha was about to wake from a dream of a stranger.",
+ "hero_scene": "Bana stands before Shiva with his thousand arms spread wide in proud worship, his face lifted in delight, while the great god regards him with anger; beyond the city gates behind them, the royal banner snaps in the wind.",
+ "visual_elements": [
+  "Bana's thousand arms, muscled and restless",
+  "Shiva standing beside him, anger gathering in his face",
+  "the beautiful city of Shonitapura with its gates and towers",
+  "the royal banner snapping above the gates",
+  "Bana walking homeward, delighted and blind"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.62.1-10",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:58:51Z",
+  "source_event_id": "evt_0250",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

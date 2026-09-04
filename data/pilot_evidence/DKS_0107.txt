@@ -1,0 +1,104 @@
+# STORY DKS_0107 — The Great Rasa Dance
+
+## Index entry
+title: The Great Rasa Dance
+summary: Krishna multiplies himself to dance between every gopi in the moonlit rasa; the gods watch and rain flowers.
+life_stage: vrindavan | story_arc: rasa_and_gopis
+characters: Krishna, gopis
+locations: Yamuna bank
+themes: rasa dance, divine play
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0118
+variant_notes: bpc1_037 is Uddhava's recollection.
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 33 | verses 1-24 | confidence 5
+  excerpt: There Govinda began the rasa dance with the gopis, multiplying himself to stand between every pair; the gods rained flowers, the celestial women watching were bewildered, and Krishna sported with them through the moonlit autumn nights. (rendered from Sanskrit, verses 1-24)
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 3 | chapter/section 2 | verses 33 | confidence 5
+  excerpt: Uddhava said: 'Honouring the face of night washed by the rays of the autumn moon, he sang sweet songs and sported as the ornament of the circle of the women.' (rendered from Sanskrit, verse 33)
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 75 | verses  | confidence 4
+  excerpt: Thus encircled by the milk-women Krishna used to sport, of his own accord, in the autumnal night adorned by the moon.
+- Vishnu Purana (Wilson 1840) | book/canto 5 | chapter/section 13 | verses  | confidence 4
+  excerpt: Krishńa thought the lovely moonlight night of autumn propitious to the Rasa dance... Then proceeded the dance to the music of their clashing bracelets, and songs that celebrated in suitable strain the charms of the autumnal season.
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.33 (1-24)
+1. tatrārabhata govindo rāsa-krīḍām anuvrataiḥ /
+2. rāsotsavaḥ sampravṛtto gopī-maṇḍala-maṇḍitaḥ /
+4. valayānāṃ nūpurāṇāṃ kiṅkiṇīnāṃ ca yoṣitām /
+5. tatrātiśuśubhe tābhir bhagavān devakī-sutaḥ /
+6. pāda-nyāsair bhuja-vidhutibhiḥ sa-smitair bhrū-vilāsair $ bhajyan madhyaiś cala-kuca-paṭaiḥ kuṇḍalair gaṇḍa-lolaiḥ &amp;svidyan-mukhyaḥ kavara-rasanāgranthayaḥ kṛṣṇa-vadhvo % gāyantyas taṃ taḍita iva tā megha-cakre virejuḥ
+7. uccair jagur nṛtyamānā rakta-kaṇṭhyo rati-priyāḥ /
+8. kācit samaṃ mukundena svara-jātīr amiśritāḥ /
+9. kācid rāsa-pariśrāntā pārśva-sthasya gadā-bhṛtaḥ /
+10. tatraikāṃsa-gataṃ bāhuṃ kṛṣṇasyotpala-saurabham /
+11. kasyāścin nāṭya-vikṣipta kuṇḍala-tviṣa-maṇḍitam /
+12. nṛtyatī gāyatī kācit kūjan nūpura-mekhalā /
+13. gopyo labdhvācyutaṃ kāntaṃ śriya ekānta-vallabham /
+14. karṇotpalālaka-viṭaṅka-kapola-gharma- $ vaktra-śriyo valaya-nūpura-ghoṣa-vādyaiḥ &amp;gopyaḥ samaṃ bhagavatā nanṛtuḥ sva-keśa- % srasta-srajo bhramara-gāyaka-rāsa-goṣṭhyām
+15. evaṃ pariṣvaṅga-karābhimarśa- snigdhekṣaṇoddāma-vilāsa-hāsaiḥ /
+16. tad-aṅga-saṅga-pramudākulendriyāḥ keśān dukūlaṃ kuca-paṭṭikāṃ vā /
+17. kṛṣṇa-vikrīḍitaṃ vīkṣya mumuhuḥ khe-cara-striyaḥ /
+18. kṛtvā tāvantam ātmānaṃ yāvatīr gopa-yoṣitaḥ /
+19. tāsāṃ rati-vihāreṇa śrāntānāṃ vadanāni saḥ /
+20. gopyaḥ sphurat-puraṭa-kuṇḍala-kuntala-tviḍ- $ gaṇḍa-śriyā sudhita-hāsa-nirīkṣaṇena &amp;mānaṃ dadhatya ṛṣabhasya jaguḥ kṛtāni % puṇyāni tat-kara-ruha-sparśa-pramodāḥ
+21. tābhir yutaḥ śramam apohitum aṅga-saṅga- $ ghṛṣṭa-srajaḥ sa kuca-kuṅkuma-rañjitāyāḥ &tābhir yutaḥ śramam apohitum aṅga-saṅga- $ ghṛṣṭa-srajaḥ sa kuca-kuṅkuma-rañjitāyāḥ &gandharva-pālibhir anudruta āviśad vāḥ % śrānto gajībhir ibha-rāḍ iva bhinna-setuḥ
+22. so 'mbhasy alaṃ yuvatibhiḥ pariṣicyamānaḥ $ premṇekṣitaḥ prahasatībhir itas tato 'ṅga &so 'mbhasy alaṃ yuvatibhiḥ pariṣicyamānaḥ $ premṇekṣitaḥ prahasatībhir itas tato 'ṅga &vaimānikaiḥ kusuma-varṣibhir īdyamāno % reme svayaṃ sva-ratir atra gajendra-līlaḥ
+23. tataś ca kṛṣṇopavane jala-sthala prasūna-gandhānila-juṣṭa-dik-taṭe /
+24. evaṃ śaśāṅkāṃśu-virājitā niśāḥ sa satya-kāmo 'nuratābalā-gaṇaḥ /
+
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 3.2 (33)
+1. yaḥ pañca-hāyano mātrā prātar-āśāya yācitaḥ /
+tan naicchad racayan yasya saparyāṃ bāla-līlayā
+2. sa kathaṃ sevayā tasya kālena jarasaṃ gataḥ /
+pṛṣṭo vārtāṃ pratibrūyād bhartuḥ pādāv anusmaran
+3. sa muhūrtam abhūt tūṣṇīṃ kṛṣṇāṅghri-sudhayā bhṛśam /
+tīvreṇa bhakti-yogena nimagnaḥ sādhu nirvṛtaḥ
+4. pulakodbhinna-sarvāṅgo muñcan mīlad-dṛśā śucaḥ /
+pūrṇārtho lakṣitas tena sneha-prasara-samplutaḥ
+5. śanakair bhagaval-lokān nṛlokaṃ punar āgataḥ /
+vimṛjya netre viduraṃ prītyāhoddhava utsmayan
+6. bhp_03.02.007/0 uddhava uvāca 
+kṛṣṇa-dyumaṇi nimloce gīrṇeṣv ajagareṇa ha /
+kiṃ nu naḥ kuśalaṃ brūyāṃ gata-śrīṣu gṛheṣv aham
+7. durbhago bata loko 'yaṃ yadavo nitarām api /
+ye saṃvasanto na vidur hariṃ mīnā ivoḍupam
+8. iṅgita-jñāḥ puru-prauḍhā ekārāmāś ca sātvatāḥ /
+sātvatām ṛṣabhaṃ sarve bhūtāvāsam amaṃsata
+9. devasya māyayā spṛṣṭā ye cānyad asad-āśritāḥ /
+bhrāmyate dhīr na tad-vākyair ātmany uptātmano harau
+10. pradarśyātapta-tapasām avitṛpta-dṛśāṃ nṛṇām /
+ādāyāntar adhād yas tu sva-bimbaṃ loka-locanam
+11. yan martya-līlaupayikaṃ sva-yoga- māyā-balaṃ darśayatā gṛhītam /
+vismāpanaṃ svasya ca saubhagarddheḥ paraṃ padaṃ bhūṣaṇa-bhūṣaṇāṅgam
+12. yad dharma-sūnor bata rājasūye nirīkṣya dṛk-svastyayanaṃ tri-lokaḥ /
+kārtsnyena cādyeha gataṃ vidhātur arvāk-sṛtau kauśalam ity amanyata
+13. yasyānurāga-pluta-hāsa-rāsa- līlāvaloka-pratilabdha-mānāḥ /
+vraja-striyo dṛgbhir anupravṛtta- dhiyo 'vatasthuḥ kila kṛtya-śeṣāḥ
+14. sva-śānta-rūpeṣv itaraiḥ sva-rūpair abhyardyamāneṣv anukampitātmā /
+parāvareśo mahad-aṃśa-yukto hy ajo 'pi jāto bhagavān yathāgniḥ
+15. māṃ khedayaty etad ajasya janma- viḍambanaṃ yad vasudeva-gehe /
+vraje ca vāso 'ri-bhayād iva svayaṃ purād vyavātsīd yad-ananta-vīryaḥ
+16. dunoti cetaḥ smarato mamaitad yad āha pādāv abhivandya pitroḥ /
+tātāmba kaṃsād uru-śaṅkitānāṃ prasīdataṃ no 'kṛta-niṣkṛtīnām
+17. ko vā amuṣyāṅghri-saroja-reṇuṃ vismartum īśīta pumān vijighran /
+yo visphurad-bhrū-viṭapena bhūmer bhāraṃ kṛtāntena tiraścakāra
+18. dṛṣṭā bhavadbhir nanu rājasūye caidyasya kṛṣṇaṃ dviṣato 'pi siddhiḥ /
+yāṃ yoginaḥ saṃspṛhayanti samyag yogena kas tad-virahaṃ saheta
+19. tathaiva cānye nara-loka-vīrā ya āhave kṛṣṇa-mukhāravindam /
+netraiḥ pibanto nayanābhirāmaṃ pārthāstra-pūtaḥ padam āpur asya
+20. svayaṃ tv asāmyātiśayas tryadhīśaḥ svārājya-lakṣmy-āpta-samasta-kāmaḥ /
+baliṃ haradbhiś cira-loka-pālaiḥ kirīṭa-koṭy-eḍita-pāda-pīṭhaḥ
+21. tat tasya kaiṅkaryam alaṃ bhṛtān no viglāpayaty aṅga yad ugrasenam /
+tiṣṭhan niṣaṇṇaṃ parameṣṭhi-dhiṣṇye nyabodhayad deva nidhārayeti
+22. aho bakī yaṃ stana-kāla-kūṭaṃ jighāṃsayāpāyayad apy asādhvī /
+lebhe gatiṃ dhātry-ucitāṃ tato 'nyaṃ kaṃ 
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0099 | next_story_id: DKS_0117
+previous title: The Gopis Abandon Their Homes
+next title: Akrura Beholds the Divine Vision in the Yamuna

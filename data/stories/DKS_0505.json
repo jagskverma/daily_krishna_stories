@@ -1,0 +1,58 @@
+{
+ "id": "DKS_0505",
+ "title": "Yadu Meets the Wandering Avadhuta",
+ "subtitle": null,
+ "story": "\"Listen,\" Krishna said, \"and I will tell you what freedom looks like.\" Uddhava, Krishna's close friend, had asked for teaching, and Krishna answered as he often did — with a story.\n\nThere was once a king named Yadu, of the line of Nahusha, who ruled a great kingdom and knew its burdens: ministers who angled for favor, petitions without end, wars that had to be fought to keep the peace. One day his party halted in a forest, and down the road came a wandering brahmin — an avadhuta, a man who had put aside everything: home, family, ritual, even the marks of his order.\n\nThe king could not take his eyes off him. The man owned nothing and feared nothing. He moved without hurry, laughed like a child, stood as still as a ghost — and yet there was a serenity in him that Yadu had never seen at court. There every man wore his rank like armor; here was one who wore nothing and needed no armor, and the difference struck the king like a blow.\n\nThe world around them was burning, and Yadu thought of it constantly: people consumed by the forest fire of desire and greed, everyone running after what the next man had. His own ministers would have cut each other's throats over a district; the neighboring kings measured friendship in brides and borders; even the ascetics who came to the palace asked for something — a cow, a village, an audience. This man asked for nothing and was afraid of no one, and he walked through the middle of the burning world untouched.\n\nYadu dismounted and approached him. \"Men spend their lives on dharma, wealth, pleasure, and the itch of curiosity,\" he said, \"and burn in that fire all the same. But you are capable, wise, skilled, fortunate; your speech is like nectar; for those who ask, you are the very cause of joy. You act like a child, a madman, a ghost — and yet you are a sage. How did you gain such wisdom?\"\n\nThe brahmin smiled, the way a man smiles who has been taught by everything he ever met. \"O king, I have many gurus. Twenty-four of them. From each one I learn whatever I learn.\"\n\nAnd he named them, one after another: earth, wind, sky, water, fire, the moon, the sun; the pigeon, the python, the ocean; the moth, the bee, the elephant, the honey-gatherer; the deer, the fish, Pingala, the osprey; the child, the maiden, the arrow-maker, the serpent, the spider, the cricket.\n\nYadu stared. Twenty-four teachers — and not one of them a scholar or a sage. Every child knew the sun and the moon were holy, but a python? A fish? A maiden? And Pingala — the name sounded like a woman's, and the king's curiosity sharpened at the thought that she too had taught this man something. He had paid the finest brahmins in the land to instruct him and had mastered the texts and the rituals; here was a penniless wanderer who had studied with rivers and birds.\n\n\"Then teach me,\" Yadu said.\n\nThe avadhuta looked at him for a long moment — at the king's ornaments, the armed guard, the fine horse cropping the grass — and it seemed to Yadu that the man was not judging him but weighing something far older: whether the question had come from the king's boredom or from his hunger. Then he nodded, as if he had been waiting for it all along. And he began with the first of his teachers: the earth itself.",
+ "reflection": "The wonder of the avadhuta is that his wisdom has no human source at all: a king who spent his life being taught by the best of men finds that the deepest freedom was being taught, all along, by the simplest things. The list of twenty-four gurus — rivers and pigeons and a woman named Pingala — quietly reverses the order of the world: the lowliest teacher may hold the greatest lesson.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "other",
+ "story_arc": "uddhava_and_teachings",
+ "characters": [
+  "Krishna",
+  "Uddhava",
+  "King Yadu",
+  "the avadhuta brahmin"
+ ],
+ "locations": [
+  "a forest road"
+ ],
+ "themes": [
+  "wisdom",
+  "detachment",
+  "guru",
+  "teaching"
+ ],
+ "previous_story_id": "DKS_0504",
+ "next_story_id": "DKS_0506",
+ "next_story_tease": "And his first lesson came from the earth beneath their feet.",
+ "hero_scene": "King Yadu, in royal robes, dismounts on a forest road to address a wandering brahmin in rags who stands serene and smiling, one hand raised, while the king's retinue waits at a distance.",
+ "visual_elements": [
+  "King Yadu's halted party at the edge of a forest road",
+  "the wandering avadhuta moving without fear, half smiling",
+  "Yadu dismounting to approach the renunciate",
+  "the avadhuta naming his teachers, counting on his fingers",
+  "the king's ornaments and guard contrasted with the sage's rags"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "11.7.23-35",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:31Z",
+  "source_event_id": "evt_0525",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

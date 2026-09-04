@@ -1,0 +1,76 @@
+# STORY DKS_0408 — Krishna Protects Draupadi with Endless Robes
+
+## Index entry
+title: Krishna Protects Draupadi with Endless Robes
+summary: Moved by Draupadi's call, Krishna comes to her aid from compassion; the unseen Dharma covers her so that as each garment is dragged off another appears, hundreds of robes protecting her honour.
+life_stage: pandava_period | story_arc: draupadi_honour
+characters: Krishna, Draupadi, Dussasana, Dharma
+locations: Hastinapura (Kuru assembly)
+themes: divine-protection, miracle, honour, compassion
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0401
+variant_notes: Protection beat; cf. mb_a2_019.
+
+## Sources and evidence excerpts
+- Mahabharata (Ganguli translation) | book/canto 2 | chapter/section 66 | verses  | confidence 4
+  excerpt: Hearing the words of Draupadi, Krishna was deeply moved. And leaving his seat, the benevolent one from compassion, arrived there on foot. ... the illustrious Dharma, remaining unseen, covered her with excellent clothes of many hues. And, O monarch as the attire of Draupadi was being dragged, after one was taken off, another of the same kind, appeared covering her. ... owing to the protection of Dh
+
+## Primary source passage(s)
+### Mahabharata (Ganguli translation) 2.66 ()
+Vaisampayana said,--“Intoxicated with pride, the son of Dhritarashtra
+spake,--‘Fie on Kshatta! and casting his eyes upon the Pratikamin in
+attendance, commanded him, in the midst of all those reverend seniors,
+saying,--‘Go Pratikamin, and bring thou Draupadi hither. Thou hast no
+fear from the sons of Pandu. It is Vidura alone that raveth in fear.
+Besides, he never wisheth our prosperity!’”
+
+Vaisampayana continued,--“Thus commanded, the Pratikamin, who was of the
+Suta caste, hearing the words of the king, proceeded with haste, and
+entering the abode of the Pandavas, like a dog in a lion’s den,
+approached the queen of the sons of Pandu. And he said,--‘Yudhishthira
+having been intoxicated with dice, Duryodhana, O Draupadi, hath won thee.
+Come now, therefore, to the abode of Dhritarashtra. I will take thee, O
+Yajnaseni, and put thee in some menial work.’
+
+Draupadi said,--‘Why, O Pratikamin, dost thou say so? What prince is
+there who playeth staking his wife? The king was certainly intoxicated
+with dice. Else, could he not find any other object to stake?’
+
+“The Pratikamin said,--‘When he had nothing else to stake, it was then
+that Ajatasatru, the son of Pandu, staked thee. The king had first staked
+his brothers, then himself, and then thee, O princess.’
+
+“Draupadi said,--‘O son of the Suta race, go, and ask that gambler
+present in the assembly, whom he hath lost first, himself, or me.
+Ascertaining this, come hither, and then take me with thee, O son of the
+Suta race.’
+
+Vaisampayana continued,--“The messenger coming back to the assembly told
+all present the words of Draupadi. And he spoke unto Yudhishthira sitting
+in the midst of the kings, these words,--Draupadi hath asked thee, Whose
+lord wert thou at the time thou lost me in play? Didst thou lose thyself
+first or me? Yudhishthira, however sat there like one demented and
+deprived of reason and gave no answer good or ill to the Suta.
+
+“Duryodhana then said,--‘Let the princess of Panchala come hither and put
+her question. Let every one hear in this assembly the words that pass
+between her and Yudhishthira.’
+
+Vaisampayana continued,--“The messenger, obedient to the command of
+Duryodhana, going once again to the palace, himself much distressed, said
+unto Draupadi,--‘O princess, they that are in the assembly are summoning
+thee. It seemeth that the end of the Kauravas is at hand. When
+Duryodhana, O princess, is for taking thee before the assembly, this
+weak-brained king will no longer be able to protect his prosperity.’
+
+“Draupadi said,--‘The great ordainer of the world hath, indeed, ordained
+so. Happiness and mis
+[...]
+
+## Pilot chain
+previous_story_id: DKS_0398 | next_story_id: DKS_0441
+previous title: Krishna Slays Shishupala
+next title: Krishna Reveals Karna's Birth and Offers Him the Kingdom

@@ -1,0 +1,56 @@
+{
+ "id": "DKS_0444",
+ "title": "Karna Worships Krishna and Takes His Leave",
+ "subtitle": null,
+ "story": "The evening deepened on the road from Hastinapura, and still the two had not parted. Krishna had told Karna — the Kurus' champion, known to all as a charioteer's son — who he truly was, and offered him a kingdom; Karna had refused and pledged himself to Duryodhana. Now he said his last words of the day.\n\n\"You know everything, Krishna,\" he said. \"Why do you still try to win me over?\" He had listened to it all — the revelation of his birth, the offer of a kingdom, the plea to change his course — and before answering he had bowed to Krishna, honoring the man who had spoken them. His answer was not the answer of a man who could be turned. The destruction of the whole earth was at hand, he said, and its causes were Sakuni, Duryodhana's cunning uncle; Dussasana, his brother; and king Duryodhana himself. A great battle was coming between the Pandavas and the Kurus — one that would cover the earth with bloody mire — and the kings and princes who followed Duryodhana would be consumed by fire of weapons and go to the abode of Yama, the world of the dead.\n\nThen, to show Krishna that he spoke with open eyes, he told what he had seen. The omens were everywhere and pointed one way. Saturn afflicted Rohini; Mars wheeled toward Jyeshtha and Anuradhas, sign of a great slaughter of friends; Mahapat lay heavy over Chitra. The stain on the moon had shifted, and Rahu crept toward the sun. Meteors fell with loud noise and trembling. Elephants cried out in fright; horses wept and refused food and water. In Duryodhana's camps the men ate little and passed much — a sign the wise called a defect — while the Pandavas' elephants and horses were cheerful and wheeled right, an omen of success. The same beasts turned left around Duryodhana's host, and bodiless voices called overhead. Auspicious birds — peacocks, swans, cranes — followed the Pandavas; vultures, kankas, hawks, wolves, and bees followed the Kauravas. Duryodhana's drums gave no sound, while the Pandavas' drums sounded without being struck. The wells of the Kaurava camp roared like bulls. The gods rained flesh and blood on Duryodhana's soldiers; castles of mist rose over their camp; a black ring circled the sun. Both twilights were terrible; jackals howled. One-winged, one-eyed, one-legged birds shrieked in the dark, and black-winged birds with red legs hung over the camp at nightfall. Duryodhana's soldiers had come to hate their priests, then their teachers, then their own servants. The east was red, the south the color of weapons, the west earthy, and all the quarters around the camp seemed to burn. \"In all these portents,\" Karna said, \"great is the danger that is indicated.\"\n\nHe had seen more than omens — a vision. Yudhishthira was ascending with his brothers a palace held up by a thousand columns, all in white robes and white headdresses, on white seats. Krishna himself was wrapping the blood-soaked earth in weapons. Standing on a heap of bones, Yudhishthira gladly ate payasa — sweet milk-rice — from a golden cup and swallowed the clod of earth Krishna handed him, meaning he would rule the earth. Bhima, whom men called Vrikodara — the wolf-bellied — stood on a height, mace in hand, devouring the earth — meaning he would slay them all in battle. Karna recited all of it without flinching — every sign of his own side's ruin — as a man might recite a verdict already delivered.\n\nKrishna heard him to the end. His answer was short — and the most terrible thing Karna would hear that day. \"When even my words cannot find a home in your heart,\" he said, \"the destruction of the earth is indeed at hand.\"\n\nThen Karna pressed Krishna to his chest and held him once, as a man holds a friend he may never see again. Dismissed by Krishna, he stepped down from the chariot. The two parted on the road, each knowing what the other knew, each having said everything there was to say — and the earth went on toward its destruction.",
+ "reflection": "Karna's catalogue of omens is the testimony of a man who sees his own side's ruin and refuses to look away; he does not read the portents as a warning to flee but as a truth to accept. Krishna's reply, that the destruction of the earth is at hand when even his words cannot reach Karna's heart, turns the omens inward: the deepest sign lies not in the sky but in the failure of persuasion.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "kurukshetra",
+ "story_arc": "peace_mission",
+ "characters": [
+  "Krishna",
+  "Karna"
+ ],
+ "locations": [
+  "Hastinapura",
+  "road to Upaplavya"
+ ],
+ "themes": [
+  "fate",
+  "honesty",
+  "parting"
+ ],
+ "previous_story_id": "DKS_0443",
+ "next_story_id": "DKS_0445",
+ "next_story_tease": "Krishna rode on to Upaplavya, where the Pandavas waited for his report.",
+ "hero_scene": "Karna presses Krishna to his bosom in farewell beside the chariot on the road from Hastinapura, while above them the sky gathers omens, meteors falling and the sun ringed with black.",
+ "visual_elements": [
+  "Karna worshipping Krishna beside the chariot",
+  "Karna recounting the omens with a raised hand",
+  "meteors falling and a black circle around the sun",
+  "Karna pressing Krishna to his bosom in farewell",
+  "the two men parting on the open road"
+ ],
+ "sources": [
+  {
+   "work": "Mahabharata",
+   "reference": "5.143",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:06:11Z",
+  "source_event_id": "evt_0481",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0101",
+ "title": "Krishna Relents and Sports with the Gopis",
+ "subtitle": null,
+ "story": "The sound of them reached him before anything else. Across the dark water of the Yamuna the gopis were calling his name, and Krishna — who needed nothing from anyone, who was already complete in himself — listened for a long while before he moved. The night was full of their voices, and he let it be full for a little longer.\n\nThese were the milkmaids of Vrindavan, the ones who had left their homes at the sound of his flute and followed him to the river on a full-moon night. Earlier that evening he had tested them, sending them back with words meant to turn them away, to see whether their devotion could survive his refusal. It had. They had not turned back and gone home. They had only grieved, and gone on calling for him, their longing unbroken by his absence. It was that grief, more than anything else, that moved him at last.\n\nNow, hearing how they grieved, he could hold back no longer. The verses are careful to say he was already self-satisfied, already full, and that nothing he did that night came from any need of his own. Yet he smiled — not the smile of a man who has been won over, but a smile that meant favor — and he came to them, and he showed them grace. The gopis had asked for nothing but him, and that was exactly what they received.\n\nHe came down to the cool, sandy bank of the river, into the soft light of the full moon. The moment they saw him, their faces opened like flowers. They began to sing to him, and he sang with them; one voice answered another across the pale sand, a hundred voices braided together in the night. They sang to him, and he answered with his own song, and for a little while there was nothing in the world but the two sounds answering each other, grief turning to gladness without a single word being changed.\n\nThen he spread his arms wide and drew them near, and the gopis pressed in around him. The verses say he embraced them, holding each of them close the way a person holds what he loves, and that he returned their affection with the light play of his fingertips. There was laughter, a hand at the fold of a garment — the breathless, easy joy of a long parting ending. The text touches all of it lightly and does not linger, as if to say that some happiness is too simple to describe.\n\nThere was no audience to that night, and no proof of it afterwards. The verses record only that it happened, and that it happened on the bank of the Yamuna, on sand that stayed cool through the heat of the night. The gopis asked for nothing more, and they received everything.\n\nWhat the text insists on is quieter still. These women, who moments before had believed themselves abandoned, now felt themselves the most blessed women alive. Not because they had earned him — they would have said they had not. But because he had chosen to come back to them, and his coming was enough.",
+ "reflection": "The source is careful to say Krishna was self-satisfied, complete, in need of nothing — and that the favor he showed was therefore pure gift. The gopis' happiness is not a reward for endurance but the answer to longing that asked for nothing but him.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "vrindavan",
+ "story_arc": "rasa_and_gopis",
+ "characters": [
+  "Krishna",
+  "gopis"
+ ],
+ "locations": [
+  "Yamuna"
+ ],
+ "themes": [
+  "union",
+  "grace"
+ ],
+ "previous_story_id": "DKS_0100",
+ "next_story_id": "DKS_0102",
+ "next_story_tease": "But the night's joy would not hold; Krishna was about to slip away from among them.",
+ "hero_scene": "Krishna on the moonlit sandy bank of the Yamuna, arms spread wide as the gopis press in around him and sing, their faces lifted with relief and joy.",
+ "visual_elements": [
+  "Krishna with open arms on the riverbank",
+  "the gopis gathered around him singing",
+  "moonlight on the Yamuna",
+  "cool pale sand",
+  "faces opening like flowers",
+  "relief and joy"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.29.42-46",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:10:23Z",
+  "source_event_id": "evt_0111"
+ },
+ "editorial_status": "unreviewed"
+}

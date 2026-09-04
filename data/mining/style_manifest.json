@@ -1,0 +1,2724 @@
+{
+ "agents": [
+  {
+   "agent_id": "n001",
+   "stories": [
+    {
+     "id": "DKS_0001",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0002",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0003",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0004",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0005",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0006",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n002",
+   "stories": [
+    {
+     "id": "DKS_0007",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0008",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0009",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0010",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0011",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0012",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n003",
+   "stories": [
+    {
+     "id": "DKS_0013",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0014",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0015",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0016",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0017",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0018",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n004",
+   "stories": [
+    {
+     "id": "DKS_0019",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0020",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0021",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0022",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0023",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0024",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n005",
+   "stories": [
+    {
+     "id": "DKS_0025",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0026",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0027",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0028",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0029",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0030",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n006",
+   "stories": [
+    {
+     "id": "DKS_0031",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0032",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0033",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0034",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0035",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0036",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n007",
+   "stories": [
+    {
+     "id": "DKS_0037",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0038",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0039",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0040",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0041",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0042",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n008",
+   "stories": [
+    {
+     "id": "DKS_0043",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0044",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0045",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0046",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0047",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0048",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n009",
+   "stories": [
+    {
+     "id": "DKS_0049",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0050",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0051",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0052",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0053",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0054",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n010",
+   "stories": [
+    {
+     "id": "DKS_0055",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0056",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0057",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0058",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0059",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0060",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n011",
+   "stories": [
+    {
+     "id": "DKS_0061",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0062",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0063",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0064",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0065",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0066",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n012",
+   "stories": [
+    {
+     "id": "DKS_0067",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0068",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0069",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0070",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0071",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0072",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n013",
+   "stories": [
+    {
+     "id": "DKS_0073",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0074",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0075",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0076",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0077",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0078",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n014",
+   "stories": [
+    {
+     "id": "DKS_0079",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0080",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0081",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0082",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0083",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0084",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n015",
+   "stories": [
+    {
+     "id": "DKS_0085",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0086",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0087",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0088",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0089",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0090",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n016",
+   "stories": [
+    {
+     "id": "DKS_0091",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0092",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0093",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0094",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0095",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0096",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n017",
+   "stories": [
+    {
+     "id": "DKS_0097",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0098",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0099",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0100",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0101",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0102",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n018",
+   "stories": [
+    {
+     "id": "DKS_0103",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0104",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0105",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0106",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0107",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0108",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n019",
+   "stories": [
+    {
+     "id": "DKS_0109",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0110",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0111",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0112",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0113",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0114",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n020",
+   "stories": [
+    {
+     "id": "DKS_0115",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0116",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0117",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0118",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0119",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0120",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n021",
+   "stories": [
+    {
+     "id": "DKS_0121",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0122",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0123",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0124",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0125",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0126",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n022",
+   "stories": [
+    {
+     "id": "DKS_0127",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0128",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0129",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0130",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0131",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0132",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n023",
+   "stories": [
+    {
+     "id": "DKS_0133",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0134",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0135",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0136",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0137",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0138",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n024",
+   "stories": [
+    {
+     "id": "DKS_0139",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0140",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0141",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0142",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0143",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0144",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n025",
+   "stories": [
+    {
+     "id": "DKS_0145",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0146",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0147",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0148",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0149",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0150",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n026",
+   "stories": [
+    {
+     "id": "DKS_0151",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0152",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0153",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0154",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0155",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0156",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n027",
+   "stories": [
+    {
+     "id": "DKS_0157",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0158",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0159",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0160",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0161",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0162",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n028",
+   "stories": [
+    {
+     "id": "DKS_0163",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0164",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0165",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0166",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0167",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0168",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n029",
+   "stories": [
+    {
+     "id": "DKS_0169",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0170",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0171",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0172",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0173",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0174",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n030",
+   "stories": [
+    {
+     "id": "DKS_0175",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0176",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0177",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0178",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0179",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0180",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n031",
+   "stories": [
+    {
+     "id": "DKS_0181",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0182",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0183",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0184",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0185",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0186",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n032",
+   "stories": [
+    {
+     "id": "DKS_0187",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0188",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0189",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0190",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0191",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0192",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n033",
+   "stories": [
+    {
+     "id": "DKS_0193",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0194",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0195",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0196",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0197",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0198",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n034",
+   "stories": [
+    {
+     "id": "DKS_0199",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0200",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0201",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0202",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0203",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0204",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n035",
+   "stories": [
+    {
+     "id": "DKS_0205",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0206",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0207",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0208",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0209",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0210",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n036",
+   "stories": [
+    {
+     "id": "DKS_0211",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0212",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0213",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0214",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0215",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0216",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n037",
+   "stories": [
+    {
+     "id": "DKS_0217",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0218",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0219",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0220",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0221",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0222",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n038",
+   "stories": [
+    {
+     "id": "DKS_0223",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0224",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0225",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0226",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0227",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0228",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n039",
+   "stories": [
+    {
+     "id": "DKS_0229",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0230",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0231",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0232",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0233",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0234",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n040",
+   "stories": [
+    {
+     "id": "DKS_0235",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0236",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0237",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0238",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0239",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0240",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n041",
+   "stories": [
+    {
+     "id": "DKS_0241",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0242",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0243",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0244",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0245",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0246",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n042",
+   "stories": [
+    {
+     "id": "DKS_0247",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0248",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0249",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0250",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0251",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0252",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n043",
+   "stories": [
+    {
+     "id": "DKS_0253",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0254",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0255",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0256",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0257",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0258",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n044",
+   "stories": [
+    {
+     "id": "DKS_0259",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0260",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0261",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0262",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0263",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0264",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n045",
+   "stories": [
+    {
+     "id": "DKS_0265",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0266",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0267",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0268",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0269",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0270",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n046",
+   "stories": [
+    {
+     "id": "DKS_0271",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0272",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0273",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0274",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0275",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0276",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n047",
+   "stories": [
+    {
+     "id": "DKS_0277",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0278",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0279",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0280",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0281",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0282",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n048",
+   "stories": [
+    {
+     "id": "DKS_0283",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0284",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0285",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0286",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0287",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0288",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n049",
+   "stories": [
+    {
+     "id": "DKS_0289",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0290",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0291",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0292",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0293",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0294",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n050",
+   "stories": [
+    {
+     "id": "DKS_0295",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0296",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0297",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0298",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0299",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0300",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n051",
+   "stories": [
+    {
+     "id": "DKS_0301",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0302",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0303",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0304",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0305",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0306",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n052",
+   "stories": [
+    {
+     "id": "DKS_0307",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0308",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0309",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0310",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0311",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0312",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n053",
+   "stories": [
+    {
+     "id": "DKS_0313",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0314",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0315",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0316",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0317",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0318",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n054",
+   "stories": [
+    {
+     "id": "DKS_0319",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0320",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0321",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0322",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0323",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0324",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n055",
+   "stories": [
+    {
+     "id": "DKS_0325",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0326",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0327",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0328",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0329",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0330",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n056",
+   "stories": [
+    {
+     "id": "DKS_0331",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0332",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0333",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0334",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0335",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0336",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n057",
+   "stories": [
+    {
+     "id": "DKS_0337",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0338",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0339",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0340",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0341",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0342",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n058",
+   "stories": [
+    {
+     "id": "DKS_0343",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0344",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0345",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0346",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0347",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0348",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n059",
+   "stories": [
+    {
+     "id": "DKS_0349",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0350",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0351",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0352",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0353",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0354",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n060",
+   "stories": [
+    {
+     "id": "DKS_0355",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0356",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0357",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0358",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0359",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0360",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n061",
+   "stories": [
+    {
+     "id": "DKS_0361",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0362",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0363",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0364",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0365",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0366",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n062",
+   "stories": [
+    {
+     "id": "DKS_0367",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0368",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0369",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0370",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0371",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0372",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n063",
+   "stories": [
+    {
+     "id": "DKS_0373",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0374",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0375",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0376",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0377",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0378",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n064",
+   "stories": [
+    {
+     "id": "DKS_0379",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0380",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0381",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0382",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0383",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0384",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n065",
+   "stories": [
+    {
+     "id": "DKS_0385",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0386",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0387",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0388",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0389",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0390",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n066",
+   "stories": [
+    {
+     "id": "DKS_0391",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0392",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0393",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0394",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0395",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0396",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n067",
+   "stories": [
+    {
+     "id": "DKS_0397",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0398",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0399",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0400",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0401",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0402",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n068",
+   "stories": [
+    {
+     "id": "DKS_0403",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0404",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0405",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0406",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0407",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0408",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n069",
+   "stories": [
+    {
+     "id": "DKS_0409",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0410",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0411",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0412",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0413",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0414",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n070",
+   "stories": [
+    {
+     "id": "DKS_0415",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0416",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0417",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0418",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0419",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0420",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n071",
+   "stories": [
+    {
+     "id": "DKS_0421",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0422",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0423",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0424",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0425",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0426",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n072",
+   "stories": [
+    {
+     "id": "DKS_0427",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0428",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0429",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0430",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0431",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0432",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n073",
+   "stories": [
+    {
+     "id": "DKS_0433",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0434",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0435",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0436",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0437",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0438",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n074",
+   "stories": [
+    {
+     "id": "DKS_0439",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0440",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0441",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0442",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0443",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0444",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n075",
+   "stories": [
+    {
+     "id": "DKS_0445",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0446",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0447",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0448",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0449",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0450",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n076",
+   "stories": [
+    {
+     "id": "DKS_0451",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0452",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0453",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0454",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0455",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0456",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n077",
+   "stories": [
+    {
+     "id": "DKS_0457",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0458",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0459",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0460",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0461",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0462",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n078",
+   "stories": [
+    {
+     "id": "DKS_0463",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0464",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0465",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0466",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0467",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0468",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n079",
+   "stories": [
+    {
+     "id": "DKS_0469",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0470",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0471",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0472",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0473",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0474",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n080",
+   "stories": [
+    {
+     "id": "DKS_0475",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0476",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0477",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0478",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0479",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0480",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n081",
+   "stories": [
+    {
+     "id": "DKS_0481",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0482",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0483",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0484",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0485",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0486",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n082",
+   "stories": [
+    {
+     "id": "DKS_0487",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0488",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0489",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0490",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0491",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0492",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n083",
+   "stories": [
+    {
+     "id": "DKS_0493",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0494",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0495",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0496",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0497",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0498",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n084",
+   "stories": [
+    {
+     "id": "DKS_0499",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0500",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0501",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0502",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0503",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0504",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n085",
+   "stories": [
+    {
+     "id": "DKS_0505",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0506",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0507",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0508",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0509",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0510",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n086",
+   "stories": [
+    {
+     "id": "DKS_0511",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0512",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0513",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0514",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0515",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0516",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n087",
+   "stories": [
+    {
+     "id": "DKS_0517",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0518",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0519",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0520",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0521",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0522",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n088",
+   "stories": [
+    {
+     "id": "DKS_0523",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0524",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0525",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0526",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0527",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0528",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n089",
+   "stories": [
+    {
+     "id": "DKS_0529",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0530",
+     "dir": "data/pilot_stories"
+    },
+    {
+     "id": "DKS_0531",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0532",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0533",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0534",
+     "dir": "data/stories"
+    }
+   ]
+  },
+  {
+   "agent_id": "n090",
+   "stories": [
+    {
+     "id": "DKS_0535",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0536",
+     "dir": "data/stories"
+    },
+    {
+     "id": "DKS_0537",
+     "dir": "data/pilot_stories"
+    }
+   ]
+  }
+ ],
+ "waves": [
+  {
+   "wave_id": "nw01",
+   "agent_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "wave_id": "nw02",
+   "agent_indices": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "wave_id": "nw03",
+   "agent_indices": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "wave_id": "nw04",
+   "agent_indices": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "wave_id": "nw05",
+   "agent_indices": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "wave_id": "nw06",
+   "agent_indices": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  }
+ ]
+}

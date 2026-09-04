@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0268",
+ "title": "The Only Vasudeva",
+ "subtitle": null,
+ "story": "Word reached the city of Karavira that Krishna and his warriors were coming, and King Shrigala, certain they meant to attack, decided to strike first. So the king — terrible in battle, said to be endued with the prowess of Indra — rode out of his city instead of waiting behind its walls.\n\nHis chariot alone was a sight to stop an army: golden axles, a car packed with weapons and quivers that never ran empty, drawn by horses so swift the whole machine coursed along like Garuda, shining like the sun, the very car of Indra come down to earth. The king stood in it with a bow in his hand, his fiery eyes sweeping the field, whirling the weapon about him like a flash of lightning, burning in the lustre of his ornaments. The earth, it was said, sank beneath his weight. And he came at Krishna the way an insect comes at a flame.\n\nKrishna watched him come and was not pained. He sat at ease while the great car thundered closer, and when Shrigala was within earshot, the king did not hesitate to speak his mind.\n\n\"I have heard of your work among the weak kings on Mount Gomanta,\" he called out, \"and of the defeat of those useless Kshatriyas who had no leader. But I stand here as emperor of the world. You are not expert in the art of war — you will fly away the moment I obstruct you. You are alone, and I have my army, so I will not fight you with all of them. Come: I shall fight you alone, and one of us will meet his death in a fair fight. If you are slain, I shall be the only Vasudeva in the world. And if I am slain, you shall be the only one.\"\n\nKrishna, who could forgive anything, looked at the blazing king and said simply: \"Strike me as you wish.\" And he held up his discus. Then the two came together, and for a moment the field had the look of two infuriated elephants meeting in a forest — the air gone still before the clash.\n\nShrigala lost his senses in anger. He loosed a net of arrows at Krishna; he hurled maces and every weapon that came to hand, weapons that flew trailing flame. And Krishna stood there, motionless, like a mountain taking the weather. The king of Karavira fought the way a storm fights a mountain: he emptied his quivers, flung his maces, sent weapon after weapon streaming fire at the motionless man — and the mountain did not move.\n\nThen Krishna moved. Wrath filled him at last, and he hurled the discus at Shrigala's breast. It struck as it always had — the king's heart pierced, his life and his joy gone in the same instant. Shrigala fell from his chariot, bleeding like a cleft mountain, the emperor of the world brought down like a mountain struck by a thunderbolt. The king who had made the earth sink beneath his weight lay still upon it.\n\nHis soldiers lost heart and fled at the sight. Some rushed weeping into the city; some stayed beside their fallen king, performing the rites for the dead and bewailing him with hearts laden with grief. And over the field, Krishna raised his hand.\n\n\"Do not fear,\" he told the people assembled there, his voice like the rumbling of clouds. \"Do not fear.\"\n\nThe subjects and ministers of Karavira wept over their king, fallen in his pride, and then Shrigala's queens came out of the city with their sons, and seeing their royal husband lying in that plight, struck their breasts and wept.\n\nThe king who had wanted to be the only Vasudeva in the world was gone. And the man he had challenged stood over his body, telling his people not to fear.",
+ "reflection": "Shrigala measures Krishna by the only scale he has — titles, armies, the art of war — and rides to his death like an insect approaching a flame. The quietest proof of who Krishna is comes after the battle: not in the discus, but in \"Do not fear,\" spoken to the weeping city of the man he had just slain.",
+ "tradition_note": null,
+ "content_note": "A battle episode ending in the king's death by discus; the violence is described with restraint.",
+ "estimated_read_minutes": 5,
+ "estimated_audio_minutes": 5,
+ "life_stage": "mathura",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Shrigala",
+  "Sudarshana"
+ ],
+ "locations": [
+  "Karavira"
+ ],
+ "themes": [
+  "combat",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0267",
+ "next_story_id": "DKS_0269",
+ "next_story_tease": null,
+ "hero_scene": "Shrigala's gilded war-chariot, drawn by swift horses and ringing like a storm, charges across the field while the king whirls his lightning-like bow — and Krishna stands before it motionless as a mountain, the Sudarshana discus rising in his hand.",
+ "visual_elements": [
+  "Shrigala's golden chariot with swift horses and golden axles",
+  "the king whirling his bow like lightning",
+  "Krishna standing motionless like a mountain",
+  "the Sudarshana discus blazing from his hand",
+  "the fallen king, bleeding like a cleft mountain",
+  "weeping queens and citizens of Karavira",
+  "combat and mercy"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.100",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:52:06Z",
+  "source_event_id": "evt_0174"
+ },
+ "editorial_status": "unreviewed"
+}

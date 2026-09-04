@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0018",
+ "title": "Vasudeva Carries Krishna Across the Yamuna",
+ "subtitle": null,
+ "story": "Vasudeva could not have said where the thought came from. It was not his own, this certainty; it arrived like a quiet command he had somehow been waiting to hear. The child was only a few hours old, and the prison was locked and guarded, and yet he knew, with a calm that surprised him, that he must carry the child out, now, in the middle of the night.\n\nHe lifted the baby from the lying-in room and stepped toward the door. The child lay quiet against his chest, and the cell behind them was dark and close. Outside, the guards slept where they stood. It was not ordinary sleep; it had come over them like a spell, the kind that takes a man in the middle of his watch and leaves him dreaming on his feet. It was as if the goddess of sleep herself had passed among them and drawn down their eyelids. Even the townspeople beyond the walls were asleep, and not a door creaked and not a dog stirred as he passed.\n\nAnd the doors of the prison opened by themselves. As Vasudeva approached with the child, the great doors swung back on their own, the way darkness gives way before the sun. Bar and bolt gave no sound, and the iron that should have held him let him through as though it had been waiting for him all along.\n\nThen he was outside, and the night was not kind. It was raining hard, a heavy rain falling from the clouds of night, pouring down as if the sky meant to test him. The rain came down in sheets, and the road toward the river turned to mud under his feet. But Vasudeva did not slow. He walked on through the storm with the child pressed to his chest. And as he walked, something followed him, not a guard, not a man, but Shesha, the many-headed serpent, who spread his hoods wide above the father and the child like a living roof, so that not a drop touched them. The rain beat on the serpent's hoods and ran off in streams to either side, and between them the father walked dry.\n\nHe came to the Yamuna, the great river, and it was in full flood, deep and swift and foaming, its waters dark and rising. In places its current dragged at the banks with the pull of whirlpools, and a man alone might have turned back. But the river knew what it carried. As Vasudeva stepped into the water, the Yamuna parted. It made a path for him, and the waters that would have been chest-deep were stilled and rose no higher than his knee. The water that should have swallowed him held itself back, as if bowing. He crossed with the child held close, and the river let them pass.\n\nOn the far bank he did not look back. He carried the child on through the storm toward Gokul, the settlement of the cowherds across the water, where the child would be kept safe. Behind him, the river closed over the path again, and the rain went on falling, and no one in the sleeping city knew that anything had happened at all.",
+ "reflection": "Every lock, watchman, and mile that should have stopped him instead opened, slept, or gave way. The escape is told not as a man overcoming obstacles but as a line of protection drawn around the child: a spell on the guards, a serpent for a roof, and a river that stands aside.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "birth",
+ "story_arc": "krishna_reaches_gokul",
+ "characters": [
+  "Vasudeva",
+  "Krishna",
+  "Shesha"
+ ],
+ "locations": [
+  "Mathura",
+  "Yamuna river"
+ ],
+ "themes": [
+  "divine_escape",
+  "protection",
+  "miracle"
+ ],
+ "previous_story_id": "DKS_0013",
+ "next_story_id": "DKS_0015",
+ "next_story_tease": "But Kamsa would not wait for morning.",
+ "hero_scene": "Vasudeva wading through the parted waters of the Yamuna at night, the newborn held against his chest, while the many-headed serpent Shesha spreads his hoods above them like an umbrella against the rain.",
+ "visual_elements": [
+  "Vasudeva carrying the newborn against his chest",
+  "the many-headed serpent Shesha spreading his hoods as a roof",
+  "the Yamuna parted into a path",
+  "sleeping guards at the prison doors",
+  "heavy night rain",
+  "the prison doors swung open",
+  "mood of hushed miracle and protection"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.3.46-49",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.3",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:03:57Z",
+  "source_event_id": "evt_0026"
+ },
+ "editorial_status": "unreviewed"
+}

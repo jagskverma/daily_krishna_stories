@@ -1,0 +1,465 @@
+{
+ "schema_version": "1.0",
+ "pilot_count": 48,
+ "selection_principle": "Deliberate range, not top-scores: fixed life-stage quotas; mix of famous/obscure, funny/emotional/action/philosophical/devotional/friendship; roles: child, king/statesman, adviser/teacher; includes morally complex and tone-sensitive pieces to calibrate the editorial voice.",
+ "stories": [
+  {
+   "id": "DKS_0003",
+   "reason": "The opening prophecy — establishes Kamsa, the doom, and the stakes for the whole biography. Famous, dramatic, sets the series tone.",
+   "mix": [
+    "famous",
+    "dramatic",
+    "prophecy"
+   ],
+   "selected_as": "DKS_0003"
+  },
+  {
+   "id": "DKS_0013",
+   "reason": "The midnight birth in the prison cell — the most iconic image of the entire tradition.",
+   "mix": [
+    "famous",
+    "devotional",
+    "birth"
+   ],
+   "selected_as": "DKS_0013"
+  },
+  {
+   "id": "DKS_0018",
+   "reason": "The night crossing of the Yamuna with the newborn — wonder and protective love; classic visual.",
+   "mix": [
+    "famous",
+    "wonder",
+    "birth"
+   ],
+   "selected_as": "DKS_0018"
+  },
+  {
+   "id": "DKS_0015",
+   "reason": "Kamsa comes to kill the newborn girl and the illusion slips away — dramatic reversal; tests the devotional voice.",
+   "mix": [
+    "dramatic",
+    "reversal",
+    "birth"
+   ],
+   "selected_as": "DKS_0015"
+  },
+  {
+   "id": "DKS_0024",
+   "reason": "Putana, the demon nurse — eerie, famous, and the first of the childhood demons; establishes Gokul.",
+   "mix": [
+    "famous",
+    "eerie",
+    "child"
+   ],
+   "selected_as": "DKS_0024"
+  },
+  {
+   "id": "DKS_0028",
+   "reason": "Trinavarta the whirlwind — pure childhood action with a twist (the child heavier than the world).",
+   "mix": [
+    "action",
+    "child"
+   ],
+   "selected_as": "DKS_0028"
+  },
+  {
+   "id": "DKS_0033",
+   "reason": "Butter-stealing — the funniest and most human story in the corpus; calibrates humour in the voice.",
+   "mix": [
+    "funny",
+    "child"
+   ],
+   "selected_as": "DKS_0033"
+  },
+  {
+   "id": "DKS_0032",
+   "reason": "Krishna eats mud and shows the universe in his mouth — the cosmos-in-a-mouthbeat; philosophical wonder.",
+   "mix": [
+    "philosophical",
+    "child"
+   ],
+   "selected_as": "DKS_0032"
+  },
+  {
+   "id": "DKS_0035",
+   "reason": "The mortar and the twin trees (the name 'Damodara') — famous, combines mischief with liberation.",
+   "mix": [
+    "famous",
+    "wonder",
+    "child"
+   ],
+   "selected_as": "DKS_0035"
+  },
+  {
+   "id": "DKS_0030",
+   "reason": "Garga names the boys in secret — warm, ceremonial, explains the names; rarely told.",
+   "mix": [
+    "warm",
+    "naming",
+    "child"
+   ],
+   "selected_as": "DKS_0030"
+  },
+  {
+   "id": "DKS_0074",
+   "reason": "The dance on Kaliya's hoods — the most famous Vrindavan image after Govardhan; action + surrender.",
+   "mix": [
+    "famous",
+    "action",
+    "wonder"
+   ],
+   "selected_as": "DKS_0074"
+  },
+  {
+   "id": "DKS_0085",
+   "reason": "Krishna lifts Govardhan Hill — the central statement of the childhood; test of the peak-and-resolution structure.",
+   "mix": [
+    "famous",
+    "wonder",
+    "devotional"
+   ],
+   "selected_as": "DKS_0085"
+  },
+  {
+   "id": "DKS_0107",
+   "reason": "The rasa dance — the most delicate story in the corpus; requires the devotional-but-not-preachy voice at its best.",
+   "mix": [
+    "famous",
+    "devotional",
+    "romantic"
+   ],
+   "selected_as": "DKS_0107"
+  },
+  {
+   "id": "DKS_0099",
+   "reason": "The gopis leave their homes to follow Krishna — emotional counterpart to the rasa; separation and love.",
+   "mix": [
+    "emotional",
+    "devotional"
+   ],
+   "selected_as": "DKS_0099"
+  },
+  {
+   "id": "DKS_0060",
+   "reason": "Krishna swallows the wildfire to save the herd — pure wonder, a visual feast, less famous than Kaliya/Govardhan.",
+   "mix": [
+    "action",
+    "wonder"
+   ],
+   "selected_as": "DKS_0060"
+  },
+  {
+   "id": "DKS_0047",
+   "reason": "Aghasura — the giant serpent-demon and the friends' rescue; eerie and heroic at once.",
+   "mix": [
+    "action",
+    "eerie"
+   ],
+   "selected_as": "DKS_0047"
+  },
+  {
+   "id": "DKS_0049",
+   "reason": "After Brahma hides the calves, Krishna becomes all the calves and boys — philosophical multiplication; a subtle classic.",
+   "mix": [
+    "philosophical",
+    "wonder"
+   ],
+   "selected_as": "DKS_0049"
+  },
+  {
+   "id": "DKS_0117",
+   "reason": "Akrura sees the divine vision in the Yamuna on the way to Mathura — mystical; bridges Vrindavan to Mathura.",
+   "mix": [
+    "mystical",
+    "transition"
+   ],
+   "selected_as": "DKS_0117"
+  },
+  {
+   "id": "DKS_0140",
+   "reason": "The slaying of Kamsa — the first great climax of the biography; ends the childhood half.",
+   "mix": [
+    "famous",
+    "climax",
+    "action"
+   ],
+   "selected_as": "DKS_0140"
+  },
+  {
+   "id": "DKS_0139",
+   "reason": "The wrestling match with Mushtika and Chanura — arena action; the crowd, the kings, the arena.",
+   "mix": [
+    "action",
+    "dramatic"
+   ],
+   "selected_as": "DKS_0139"
+  },
+  {
+   "id": "DKS_0132",
+   "reason": "Kubja the hunchback — Krishna's kindness and a flash of wit; a small, human story.",
+   "mix": [
+    "funny",
+    "kindness"
+   ],
+   "selected_as": "DKS_0132"
+  },
+  {
+   "id": "DKS_0148",
+   "reason": "Retrieving the preceptor's son from the underworld — adventure, a compact quest with gods and sea.",
+   "mix": [
+    "adventure",
+    "underworld",
+    "student"
+   ],
+   "selected_as": "DKS_0148"
+  },
+  {
+   "id": "DKS_0200",
+   "reason": "Krishna carries off Rukmini — the great romance; also the model for the 'message' story.",
+   "mix": [
+    "famous",
+    "romance",
+    "action"
+   ],
+   "selected_as": "DKS_0200"
+  },
+  {
+   "id": "DKS_0214",
+   "reason": "The Syamantaka jewel: accusation, the bear-king, the wrestling match — mystery and vindication.",
+   "mix": [
+    "famous",
+    "action",
+    "mystery"
+   ],
+   "selected_as": "DKS_0214"
+  },
+  {
+   "id": "DKS_0262",
+   "reason": "Narakasura's slaying and the rescue of the princesses — a Dwaraka classic; big action set-piece.",
+   "mix": [
+    "famous",
+    "action"
+   ],
+   "selected_as": "DKS_0262"
+  },
+  {
+   "id": "DKS_0289",
+   "reason": "Krishna eats Sudama's flat rice — the friendship story; tests restraint and tenderness.",
+   "mix": [
+    "friendship",
+    "emotional",
+    "famous"
+   ],
+   "selected_as": "DKS_0289"
+  },
+  {
+   "id": "DKS_0298",
+   "reason": "The brahmana's sons restored — an obscure mystery-adventure with a cosmic tour; proof the index holds treasures.",
+   "mix": [
+    "mystery",
+    "adventure",
+    "obscure"
+   ],
+   "selected_as": "DKS_0298"
+  },
+  {
+   "id": "DKS_0189",
+   "reason": "Viswakarma builds Dwaraka — Krishna as statesman and city-builder; the founding of the sea-city.",
+   "mix": [
+    "statesman",
+    "founding"
+   ],
+   "selected_as": "DKS_0189"
+  },
+  {
+   "id": "DKS_0281",
+   "reason": "Paundraka, the false Vasudeva — a striking identity story (a king who claims to BE Krishna); obscure.",
+   "mix": [
+    "obscure",
+    "action",
+    "identity"
+   ],
+   "selected_as": "DKS_0281"
+  },
+  {
+   "id": "DKS_0408",
+   "reason": "Draupadi's endless robes — the most famous miracle of protection; emotional and iconic.",
+   "mix": [
+    "famous",
+    "emotional",
+    "miracle"
+   ],
+   "selected_as": "DKS_0409"
+  },
+  {
+   "id": "DKS_0386",
+   "reason": "The burning of Khandava — Krishna and Arjuna vs Indra; epic action and the gift of the forest.",
+   "mix": [
+    "action",
+    "epic"
+   ],
+   "selected_as": "DKS_0387"
+  },
+  {
+   "id": "DKS_0398",
+   "reason": "The slaying of Shishupala at the Rajasuya — court drama, the hundred-offences prophecy, the discus.",
+   "mix": [
+    "famous",
+    "dramatic"
+   ],
+   "selected_as": "DKS_0399"
+  },
+  {
+   "id": "DKS_0396",
+   "reason": "Krishna receives the first honour at the Rajasuya — statesmanship, ritual, and the seeds of Shishupala's rage.",
+   "mix": [
+    "statesman",
+    "ritual"
+   ],
+   "selected_as": "DKS_0397"
+  },
+  {
+   "id": "DKS_0370",
+   "reason": "Krishna counsels Arjuna to abduct Subhadra — the matchmaker; light, funny, and warm.",
+   "mix": [
+    "funny",
+    "matchmaker"
+   ],
+   "selected_as": "DKS_0371"
+  },
+  {
+   "id": "DKS_0380",
+   "reason": "The Durvasa test — Krishna eats one grain and the sage's hunger is satisfied; clever and quietly funny.",
+   "mix": [
+    "clever",
+    "obscure"
+   ],
+   "selected_as": "DKS_0381"
+  },
+  {
+   "id": "DKS_0456",
+   "reason": "Arjuna's despair before the war — the emotional opening of the Gita; the human entry into the teaching.",
+   "mix": [
+    "famous",
+    "emotional",
+    "philosophical"
+   ],
+   "selected_as": "DKS_0457"
+  },
+  {
+   "id": "DKS_0458",
+   "reason": "The Vishvarupa — the cosmic form; the philosophical peak of the corpus; a vision story.",
+   "mix": [
+    "famous",
+    "philosophical",
+    "vision"
+   ],
+   "selected_as": "DKS_0459"
+  },
+  {
+   "id": "DKS_0441",
+   "reason": "Krishna reveals Karna's birth and offers him the kingdom — identity, loyalty, and heartbreak.",
+   "mix": [
+    "famous",
+    "emotional",
+    "identity"
+   ],
+   "selected_as": "DKS_0442"
+  },
+  {
+   "id": "DKS_0483",
+   "reason": "Krishna sinks the chariot to save Arjuna from Karna's dart — the charioteer's loyalty made literal.",
+   "mix": [
+    "action",
+    "loyalty"
+   ],
+   "selected_as": "DKS_0484"
+  },
+  {
+   "id": "DKS_0477",
+   "reason": "The Ashvatthama stratagem — Krishna's most morally contested decision; the adviser under pressure.",
+   "mix": [
+    "adviser",
+    "moral-complexity"
+   ],
+   "selected_as": "DKS_0478"
+  },
+  {
+   "id": "DKS_0485",
+   "reason": "Krishna urges Arjuna to slay the distressed Karna — the hardest moral test in the corpus; essential for editorial calibration.",
+   "mix": [
+    "adviser",
+    "moral-complexity",
+    "controversial"
+   ],
+   "selected_as": "DKS_0486"
+  },
+  {
+   "id": "DKS_0498",
+   "reason": "Gandhari's curse — Krishna accepts it with a smile; grief, anger, and grace at the war's end.",
+   "mix": [
+    "famous",
+    "emotional",
+    "curse"
+   ],
+   "selected_as": "DKS_0499"
+  },
+  {
+   "id": "DKS_0523",
+   "reason": "The Yadava fratricide at Prabhasa — the tragedy of the house; the turning point of the end.",
+   "mix": [
+    "tragic",
+    "famous"
+   ],
+   "selected_as": "DKS_0524"
+  },
+  {
+   "id": "DKS_0530",
+   "reason": "The hunter Jara's arrow — the tender, strange ending of the earthly life; the final image.",
+   "mix": [
+    "famous",
+    "tender",
+    "ending"
+   ],
+   "selected_as": "DKS_0531"
+  },
+  {
+   "id": "DKS_0537",
+   "reason": "Bhrigu tests the three gods — a philosophical fable about where greatness truly lives; obscure and sharp.",
+   "mix": [
+    "unusual",
+    "philosophical"
+   ],
+   "selected_as": "DKS_0538"
+  },
+  {
+   "id": "DKS_0511",
+   "reason": "Pingala the courtesan's renunciation — an Uddhava parable of letting go; unusual and moving.",
+   "mix": [
+    "unusual",
+    "emotional",
+    "parable"
+   ],
+   "selected_as": "DKS_0512"
+  },
+  {
+   "id": "DKS_0507",
+   "reason": "The pigeon and the hunter's net — a parable of love and loss; the most poignant of the Uddhava tales.",
+   "mix": [
+    "unusual",
+    "poignant",
+    "parable"
+   ],
+   "selected_as": "DKS_0508"
+  },
+  {
+   "id": "DKS_0277",
+   "reason": "King Nriga freed from a lizard's body — a bizarre, moral fable in the middle of Dwaraka; very rarely told.",
+   "mix": [
+    "unusual",
+    "bizarre"
+   ],
+   "selected_as": "DKS_0277"
+  }
+ ]
+}

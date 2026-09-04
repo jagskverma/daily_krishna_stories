@@ -1,0 +1,213 @@
+{
+ "schema_version": "1.0",
+ "description": "Canonical story arcs for Daily Krishna Stories. Every index entry maps to an arc; arcs are ordered chronologically (order). chronological_order of a story is assigned by sorting (order, internal position).",
+ "arcs": [
+  {
+   "slug": "prophecy_of_kamsa",
+   "order": 10,
+   "name": "The prophecy of Kamsa",
+   "life_stage": "birth",
+   "summary": "Narada and the sages reveal Kamsa's doom; Devaki's children are killed."
+  },
+  {
+   "slug": "birth_of_krishna",
+   "order": 20,
+   "name": "Birth of Krishna",
+   "life_stage": "birth",
+   "summary": "The night birth in Mathura prison; the crossing of the Yamuna."
+  },
+  {
+   "slug": "krishna_reaches_gokul",
+   "order": 30,
+   "name": "Krishna reaches Gokul",
+   "life_stage": "gokul",
+   "summary": "The exchange of babies; Krishna and Balarama grow up in Nanda's home."
+  },
+  {
+   "slug": "early_gokul_childhood",
+   "order": 40,
+   "name": "Early Gokul childhood",
+   "life_stage": "gokul",
+   "summary": "Putana, Trinavarta, the cart, the mortar, naming, and household miracles."
+  },
+  {
+   "slug": "vrindavan_childhood",
+   "order": 50,
+   "name": "Vrindavan childhood",
+   "life_stage": "vrindavan",
+   "summary": "Forest life: the demons of Vrindavan, the cowherd boys, the flute, nature miracles."
+  },
+  {
+   "slug": "kaliya_and_yamuna",
+   "order": 60,
+   "name": "Kaliya and the Yamuna",
+   "life_stage": "vrindavan",
+   "summary": "The serpent in the poisoned river; the dance on Kaliya's hoods."
+  },
+  {
+   "slug": "govardhan_and_indra",
+   "order": 70,
+   "name": "Govardhan and Indra",
+   "life_stage": "vrindavan",
+   "summary": "Krishna redirects the sacrifice; lifts Govardhan for seven days; Indra submits."
+  },
+  {
+   "slug": "rasa_and_gopis",
+   "order": 80,
+   "name": "Rasa and the gopis",
+   "life_stage": "vrindavan",
+   "summary": "The autumn nights; the rasa dance; the gopis' love and Krishna's grace."
+  },
+  {
+   "slug": "akrura_and_departure",
+   "order": 90,
+   "name": "Akrura's arrival and departure",
+   "life_stage": "vrindavan",
+   "summary": "Kamsa's summons; Akrura's journey; the painful parting from Vrindavan."
+  },
+  {
+   "slug": "mathura_and_kamsa",
+   "order": 100,
+   "name": "Mathura and Kamsa",
+   "life_stage": "mathura",
+   "summary": "The wrestling match, Kamsa's death, the liberation of the prisoners."
+  },
+  {
+   "slug": "jarasandha_and_kings",
+   "order": 110,
+   "name": "Jarasandha and the kings",
+   "life_stage": "mathura",
+   "summary": "Kamsa's allies; Jarasandha's sieges; Kalayavana; the flight to Dwaraka."
+  },
+  {
+   "slug": "dwaraka_founded",
+   "order": 120,
+   "name": "Dwaraka founded",
+   "life_stage": "dwaraka",
+   "summary": "The building of the sea city; Krishna as king; the Yadava court."
+  },
+  {
+   "slug": "rukmini_and_marriages",
+   "order": 130,
+   "name": "Rukmini and the marriages",
+   "life_stage": "dwaraka",
+   "summary": "The brides of Dwaraka: Rukmini, Satyabhama, Jambavati, the 16,100."
+  },
+  {
+   "slug": "syamantaka_jewel",
+   "order": 140,
+   "name": "Syamantaka jewel",
+   "life_stage": "dwaraka",
+   "summary": "The jewel's curse: loss, accusation, the bear-king, and Krishna's vindication."
+  },
+  {
+   "slug": "narakasura_and_gods",
+   "order": 150,
+   "name": "Narakasura and the gods",
+   "life_stage": "dwaraka",
+   "summary": "The deliverance of the earth's earrings; the 16,000 princesses; Indra's flag."
+  },
+  {
+   "slug": "pandava_friendship",
+   "order": 160,
+   "name": "The Pandavas: friendship",
+   "life_stage": "pandava_period",
+   "summary": "Meeting the Pandavas, Draupadi's svayamvara, Khandava, the Rajasuya plan."
+  },
+  {
+   "slug": "rajasuya_and_sisupala",
+   "order": 170,
+   "name": "Rajasuya and Shishupala",
+   "life_stage": "pandava_period",
+   "summary": "Jarasandha's defeat, the great sacrifice, the slaying of Shishupala."
+  },
+  {
+   "slug": "draupadi_honour",
+   "order": 180,
+   "name": "Draupadi's honour",
+   "life_stage": "pandava_period",
+   "summary": "The dice game; the disrobing; Krishna's protection of Draupadi."
+  },
+  {
+   "slug": "peace_mission",
+   "order": 190,
+   "name": "The peace mission",
+   "life_stage": "kurukshetra",
+   "summary": "Krishna's embassy to Hastinapura; the offer to Duryodhana; the failure of peace."
+  },
+  {
+   "slug": "kurukshetra_war",
+   "order": 200,
+   "name": "Kurukshetra war",
+   "life_stage": "kurukshetra",
+   "summary": "The Gita, the vow, the charioteer's role in the great battles."
+  },
+  {
+   "slug": "post_war_krishna",
+   "order": 210,
+   "name": "Post-war Krishna",
+   "life_stage": "later_life",
+   "summary": "After the war: Gandhari's curse, Krishna's visits, the Anugita, the end of the age."
+  },
+  {
+   "slug": "uddhava_and_teachings",
+   "order": 220,
+   "name": "Uddhava and the teachings",
+   "life_stage": "later_life",
+   "summary": "Uddhava's visit; the final instructions; the parables of the Uddhava Gita."
+  },
+  {
+   "slug": "end_of_yadavas",
+   "order": 230,
+   "name": "The end of the Yadavas",
+   "life_stage": "later_life",
+   "summary": "The sages' curse, the iron pestle, the destruction at Prabhasa."
+  },
+  {
+   "slug": "krishna_departure",
+   "order": 240,
+   "name": "Krishna's departure",
+   "life_stage": "later_life",
+   "summary": "The hunter's arrow; the end of the Lord's earthly play; Dwaraka drowned."
+  },
+  {
+   "slug": "other",
+   "order": 900,
+   "name": "Other / frame stories",
+   "life_stage": "other",
+   "summary": "Frame narratives, glories of Krishna, teachings without a fixed life-stage."
+  },
+  {
+   "slug": "dwaraka_royal_life",
+   "order": 155,
+   "name": "Dwaraka court and royal life",
+   "life_stage": "dwaraka",
+   "summary": "Court life, royal episodes, visits, and Dwaraka's minor miracles (Nriga, Paundraka, Sudama, the brahmana's sons)."
+  },
+  {
+   "slug": "pradyumna_and_aniruddha",
+   "order": 157,
+   "name": "Pradyumna and Aniruddha",
+   "life_stage": "dwaraka",
+   "summary": "The adventures of Krishna's sons: Pradyumna's cycles and the Aniruddha-Usha romance with the Bana war."
+  },
+  {
+   "slug": "balarama_stories",
+   "order": 158,
+   "name": "Balarama's stories",
+   "life_stage": "dwaraka",
+   "summary": "Balarama-focused episodes: marriages, Vraja visits, the plough's feats, Dvivida, Romaharshana, Samba's rescue."
+  }
+ ],
+ "life_stage_order": [
+  "birth",
+  "gokul",
+  "vrindavan",
+  "mathura",
+  "dwaraka",
+  "pandava_period",
+  "kurukshetra",
+  "later_life",
+  "other"
+ ]
+}

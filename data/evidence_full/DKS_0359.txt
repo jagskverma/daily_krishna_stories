@@ -1,0 +1,35 @@
+# STORY DKS_0359 — The Sages Prescribe Balarama's Penance || The sages instruct Balarama that to expiate the brahmana-slaying he must slay the demon Balvala, who defiles their sacrifice, and then perform a year-long pilgrimage.
+
+## Index entry
+title: The Sages Prescribe Balarama's Penance || The sages instruct Balarama that to expiate the brahmana-slaying he must slay the demon Balvala, who defiles their sacrifice, and then perform a year-long pilgrimage.
+summary: The sages instruct Balarama that to expiate the brahmana-slaying he must slay the demon Balvala, who defiles their sacrifice, and then perform a year-long pilgrimage.
+life_stage: dwaraka | story_arc: balarama_stories
+characters: Balarama, the Naimisha sages, Balvala
+locations: Naimisha forest
+themes: penance, atonement, instruction
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0273
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 78 | verses 32-39 | confidence 5
+  excerpt: The sages tell Balarama that his atonement is to slay the cruel demon Balvala, son of Ilvala, who rains filth upon their sacrifice at every parvan, and then to wander Bharatavarsha bathing at the sacred fords for twelve months to be purified. Balarama accepts, undertaking the expiation for the world's benefit. (rendered from Sanskrit, verse 32-39)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.78 (32-39)
+32. bhp_10.78.033/0 śrī-bhagavān uvāca
+33. dīrgham āyur bataitasya sattvam indriyam eva ca /
+34. bhp_10.78.035/0 ṛṣaya ūcuḥ
+35. bhp_10.78.036/0 śrī-bhagavān uvāca
+36. kiṃ vaḥ kāmo muni-śreṣṭhā brūtāhaṃ karavāṇy atha /
+37. bhp_10.78.038/0 ṛṣaya ūcuḥ
+38. taṃ pāpaṃ jahi dāśārha tan naḥ śuśrūṣaṇaṃ param /
+39. tataś ca bhārataṃ varṣaṃ parītya su-samāhitaḥ /
+
+## Corpus chain
+previous_story_id: DKS_0358 | next_story_id: DKS_0360
+previous title: Balarama Slays the Suta Romaharshana || At Naimisha, Balarama, seeing the suta Romaharshana seated without rising to honor the sages, kills him with a blade of kusha grass; the sages cry out that he has committed brahma-hatya.
+next title: Balarama Slays the Demon Balvala || When Balvala appears at the sacrifice raining impurity, Balarama drags him down with his plough and crushes his head with his mace, and the sages shower Balarama with honors.

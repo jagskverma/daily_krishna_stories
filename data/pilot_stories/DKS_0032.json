@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0032",
+ "title": "Krishna Shows the Cosmos in His Mouth",
+ "subtitle": null,
+ "story": "The cowherd boys of Gokula came running to Yasoda one afternoon, all talking at once.\n\n\"Krishna ate mud,\" they told her, their faces bright with the importance of the news. \"We saw him. He ate dirt while no one was looking.\"\n\nThey were certain of it; they had played with him all afternoon and knew what they had seen. Krishna was Yasoda's son, a small boy who had grown up in her house, but a mother still had to ask. She took him by the hand, drew him to her, and scolded him gently, the way a mother scolds a child she wants to keep safe — not so much angry as wanting the truth.\n\n\"Why did you eat mud in secret, when no one was looking?\" she asked. \"You know it is not good for you.\"\n\n\"I did not eat it, mother,\" Krishna said, meeting her eyes. \"They are saying what is not true.\"\n\nYasoda looked at him. There was one sure way to settle it — the oldest trick a mother knows.\n\n\"Then open your mouth,\" she said. \"If you have eaten nothing, there will be nothing to see.\"\n\nAnd Krishna opened his mouth, and Yasoda looked inside it.\n\nWhat she saw there has been told for thousands of years. In the small mouth of her small son she saw the whole universe: the earth with its mountains and its oceans, the sky, and the slow turning circle of the stars and planets. She saw water and fire and air and the vast space between them. She saw every living thing, and time itself, and the long tangle of deeds and their results, and all the hidden differences between one being and another — the whole world, moving and still, held between a few small teeth. And still his mouth was small enough to kiss.\n\nWhat the sages seek through whole lifetimes of study — through the Vedas and the Upanishads and the long disciplines of the mind — Yasoda saw in a single moment, freely given, in her son's open mouth. She stood still, overwhelmed, and her own mind asked the only questions it could form. Is this a dream? she wondered. Is it some divine illusion? Or has a delusion come over my own mind?\n\nShe could not hold the vision, so she reached for what had always held her. I am Yasoda, she told herself. Nanda is my husband. This is my son. I am the wife of the chief of the cowherds, mistress of all his wealth. And the child standing before her was only her child again.\n\nThen the vision was veiled from her, as gently as it had come, and the memory of it slipped away with it. She bent down, lifted her son onto her lap, and was simply his mother again. She never knew that she had seen the whole universe in his mouth — and the world, small and ordinary once more, was enough.",
+ "reflection": "The story shows the infinite and then gently takes it back. Yasoda is not denied the vision because she is unworthy, but because her love needs him small; the mother who has seen the whole cosmos in his mouth is given back the child she can hold, and that is presented not as a loss but as a mercy.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "gokul",
+ "story_arc": "early_gokul_childhood",
+ "characters": [
+  "Krishna",
+  "Yasoda"
+ ],
+ "locations": [
+  "Gokula"
+ ],
+ "themes": [
+  "cosmic_vision",
+  "mother's_love"
+ ],
+ "previous_story_id": "DKS_0030",
+ "next_story_id": "DKS_0033",
+ "next_story_tease": "And the days went back to being ordinary again — which, in that house, meant mischief.",
+ "hero_scene": "Yasoda kneels before the toddler Krishna, whose small open mouth reveals a vast, luminous universe within it — mountains, oceans, stars, and planets turning — while she stares, overwhelmed.",
+ "visual_elements": [
+  "toddler Krishna with mouth open",
+  "the whole cosmos glowing within his mouth",
+  "mountains, oceans, sky, stars and planets",
+  "Yasoda staring in awe",
+  "warm domestic setting",
+  "mood of philosophical wonder"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.8.31-45",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T18:36:37+05:30",
+  "source_event_id": "evt_0045",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

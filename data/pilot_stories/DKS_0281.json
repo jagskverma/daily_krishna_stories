@@ -1,0 +1,66 @@
+{
+ "id": "DKS_0281",
+ "title": "Krishna Slays Paundraka and the King of Kashi",
+ "subtitle": null,
+ "story": "In the kingdoms east of Dwaraka there ruled a king who came to believe he was Krishna — or rather, that Krishna was himself. Paundraka had been an ordinary king once, no better and no worse than a hundred others, but flattery had undone him. His courtiers and priests, too eager to please him, told him he was Vasudeva, the Lord descended to earth, until he forgot who he really was and accepted the title as true. It was a strange kind of theft, because the man he was stealing from was the very man he claimed to be.\n\nHe dressed himself in yellow silk like Krishna's and marked his chest with the shrivatsa, the sacred curl that marked the true Lord. He took up the conch, the discus, the sword and the mace, strung the great bow called Sharnga, and raised a banner bearing an eagle. In every particular he made himself look like Krishna, so that a man who saw him from a distance might honestly have mistaken one for the other. And it was no disguise worn for a single hour: he wore it so long and so completely that he could no longer tell where the pretence ended and he began.\n\nAt last he sent a messenger to Krishna with a demand. Let Krishna relinquish the discus, lay aside Paundraka's insignia, his name, and the character of Vasudeva, and come to Karusha to do him homage — and he, Paundraka, would grant him the means to live. The impostor was offering, with perfect seriousness, to spare the man he was copying and to keep him as a dependent.\n\nKrishna heard the message and laughed. “Go back to Paundraka,” he told the messenger, “and tell him I will send him my discus. He will rightly understand my meaning. I will come to his city with it, and I will deliver it to him, and there will be no delay.” The discus, Krishna knew, could be delivered in only one way, and Paundraka would soon discover what that way was.\n\nPaundraka was not alone in his delusion. The king of Kashi had made himself his friend and ally, a rear-guard at his back, ready to defend him. So Krishna marched against them both, and the two armies met before the walls of Kashi, where the impostor and his ally would learn whether a borrowed name could stand in a real battle.\n\nWhen Krishna saw Paundraka in the field — wearing the borrowed yellow silk and the borrowed banner, looking so like himself that the likeness was almost a mockery — he laughed again. Then he fought. With mace and discus and a stream of arrows he scattered the combined army of the two kings, the way a fire at the end of an age sweeps through a field, until the ground before the city was cleared of everything that had stood against him.\n\nHe turned to Paundraka. “O Paundraka,” he said, “I will now make you give up my name, which you, a fool, have falsely taken.” With sharp arrows he struck Paundraka from his chariot, and with the discus he cut off his head. Then he turned on the king of Kashi, cut off that king's head with his arrows, and sent it flying over the walls and into the city, where it fell at the palace gate.\n\nSo the false Vasudeva died as he had lived, with his whole mind fixed on Krishna. And that, the old story says, was the strange mercy of it. Because Paundraka had thought of Krishna without ceasing, even if only in envious imitation, that constant thought had quietly burned away every bond that held him. The man who stole Krishna's name ended by arriving at the very place he had spent his whole life pretending to stand.",
+ "reflection": "Paundraka is the reverse of everything a devotee should be, yet the sources close his story with a startling grace: because his mind never left Krishna, even in enmity and imitation, the impostor was freed. The costume he wore in mockery became, in the end, the only true thing about him.",
+ "tradition_note": "The Vishnu Purana extends the episode: after the two kings fall, the son of the king of Kashi sends a magical being against Krishna, and Krishna's discus destroys it and sets the city of Varanasi ablaze. This story follows the Bhagavata Purana, which ends with the two beheadings.",
+ "content_note": "Paundraka and the king of Kashi are beheaded in battle; the violence is described with restraint.",
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Krishna",
+  "Paundraka",
+  "King of Kashi"
+ ],
+ "locations": [
+  "Kashi"
+ ],
+ "themes": [
+  "battle",
+  "imposture",
+  "identity",
+  "justice"
+ ],
+ "previous_story_id": "DKS_0277",
+ "next_story_id": "DKS_0289",
+ "next_story_tease": null,
+ "hero_scene": "Krishna on the battlefield before the walls of Kashi, seeing Paundraka arrayed in counterfeit yellow silk and an eagle banner that mirror his own, laughing as he raises the discus while the impostor's borrowed emblems glint in the dust.",
+ "visual_elements": [
+  "Paundraka in Krishna's counterfeit dress",
+  "yellow silk and the shrivatsa mark",
+  "the conch, discus, sword, mace and Sharnga bow",
+  "the eagle banner",
+  "Krishna laughing on the battlefield",
+  "the discus in flight",
+  "the head of the king of Kashi falling at the palace gate with its earrings",
+  "the walls of Kashi",
+  "a cleared battlefield"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.66.9-24",
+   "role": "primary"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.34",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T13:18:30Z",
+  "source_event_id": "evt_0232",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

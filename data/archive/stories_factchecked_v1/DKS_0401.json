@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0401",
+ "title": "Shalva Wins the Flying City Saubha",
+ "subtitle": null,
+ "story": "The kings of the earth had not all gone home from the Rajasuya when a man stood up among them and made an oath that turned every head. His name was Shalva, and he was the friend of Shishupala, the king of Chedi whom Krishna had struck down at the sacrifice. Shalva had also been at Rukmini's wedding, in that company which had come to claim her and had gone away defeated; the Yadavas had humbled him once, and now they had killed his friend. In the hearing of all the kings he vowed: the earth would be made empty of Yadavas.\n\nThe kings heard it, and some were glad, for it is easier to applaud a vow than to keep one. Others shook their heads, remembering how many oaths had been spoken at that sacrifice and how few had survived the journey home. Shalva meant his. He turned away from courts and went up into the Himalayas, seeking the lord Shiva, the Pasupati, the husband of Uma, and he set himself to win Shiva as an ally.\n\nThe penance he took up was terrible. Day after day, in the cold and the silence of the mountains, he ate nothing but a handful of dust. That was his whole austerity — not fire, not staged fasts, not chants — dust, a single handful each day, taken like a man who had forgotten that food was a thing of the world he had left behind. The seasons turned above him, and he did not turn with them. The snows came and went on the ridges; the king who had made the vow grew thin, then thinner, until he was a shadow kneeling before a shrine, and still the handful of dust was his only meal.\n\nShiva is easily pleased. The old accounts say it almost with affection: quickly contented, swift to give. At the year's end the lord of the mountains appeared before Shalva and offered him a boon. Shalva asked for a citadel that nothing could destroy: a city that would move through the sky at its master's will, a fortress that no god, no demon, no man, no gandharva, no serpent, no rakshasa could overcome or even approach. It was a request that named every power in the three worlds — and set itself above them all. Shiva heard him out and nodded once, for a year of dust deserved a straight answer, and the request was granted.\n\nShiva said yes, as he does to those who give him everything, and he gave the making of the thing to Maya. Maya was the architect whose works had stood against the gods themselves, the one they called the conqueror of enemy cities. At the mountain-lord's command he built Saubha: an iron city, dark as a storm, hard to assail, moving wherever its master willed it. It rose from the mountain into the sky like a piece of night that had decided to travel, and the world looked up at it and felt fear, because a fortress that can move is a fortress that can arrive. The wise named it the abode of darkness, for it sailed wrapped in a gloom of its own, and no weapon of god or demon could assail it.\n\nShalva climbed into his city. He had his fortress, his weapon, his flying home, and an army gathered beneath its shadow. He stood at the iron ramparts and watched the earth fall away below him, the rivers turning to threads, the ranges to wrinkles. And in the long silences of that flying iron, with the world turning far beneath his feet, his thought went where it had been pointed from the beginning: toward Dwaraka, and the house of the Yadavas.",
+ "reflection": "Shalva's vow is the mirror-image of Krishna's silence in the crystal hall: where Krishna waits, Shalva converts grief into a single purpose and gives it a year of his life. The penance buys him power, not wisdom — Shiva grants what is asked, and Shalva asks for war, and the universe politely supplies the weapon.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "rajasuya_and_sisupala",
+ "characters": [
+  "Shalva",
+  "Shiva",
+  "Maya"
+ ],
+ "locations": [
+  "the Himalayas",
+  "Dwaraka (target)"
+ ],
+ "themes": [
+  "revenge",
+  "penance",
+  "boon"
+ ],
+ "previous_story_id": "DKS_0400",
+ "next_story_id": "DKS_0402",
+ "next_story_tease": "In the flying city, Shalva set his course for Dwaraka and the enmity of the Vrishnis.",
+ "hero_scene": "On a Himalayan ridge, the emaciated king Shalva kneels before the lord Shiva, a single handful of dust raised to his lips, while behind him in the sky the iron city Saubha rises like a piece of traveling night.",
+ "visual_elements": [
+  "Shalva making his vow before the assembled kings",
+  "the emaciated king eating a handful of dust in the Himalayas",
+  "Shiva appearing at the year's end to grant a boon",
+  "Maya forging the iron city Saubha",
+  "Saubha rising into the sky, dark as a storm"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.76.1-7",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:05:41Z",
+  "source_event_id": "evt_0267"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "DKS_0248",
+ "title": "The Grapple with the Fever-Demon",
+ "subtitle": null,
+ "story": "The fever-demon Jvara had come to the battlefield to protect the routed Asura army, and in one terrible stroke he had nearly destroyed the mightiest man on the field: his burning weapon had fallen on Balarama's breast and begun to consume him. Krishna had saved his brother with an embrace, and the fire had gone out. Now Krishna turned to the demon himself. \"Come and fight with me,\" he said. \"Show me the full extent of your strength and power in this battle.\"\n\nJvara, the follower of Rudra, three-legged, three-headed, six-armed, with nine faces and a consuming weapon, answered with a weapon already burning. The field had emptied around them: the Asura army had fled, and only the two of them stood face to face in the middle of it.\n\nWith his right hand he discharged his great burning weapon straight at Krishna's body. It struck home, and Krishna, the foremost of strikers, felt the burning for a few moments. Then the fire went out. It had touched him, spent itself against him, and died, the way fire dies when it meets what it cannot consume.\n\nThen Jvara, his long arms like serpents, struck Krishna on the neck and dealt a blow to his breast. Thus there took place a great encounter, in the middle of that field, between the fever-demon and the foremost of men. The sound of their striking arms rolled across the plain like thunder striking a mountain summit: blow after blow exchanged by the two most powerful beings on that field, strokes that would have felled armies. Krishna returned each stroke; the demon, who could range the sky, met a man who would not be shaken from his ground. And in the midst of it, strange to hear above the din, came words as if one fighter were instructing the other: \"Do not strike this way. Strike this way.\"\n\nFor a long moment the Lord of the Universe, hidden in the guise of a man, wrestled with the sky-ranging Jvara, who gleamed with golden ornaments. He fought as a man fights, as if his own end were possible, as if this one body were all he had. And then he caught the fever-demon in his arms and ground him down, grinding the golden-adorned, sky-ranging Jvara with his arms, the way a pestle grinds grain in a mortar, until the demon's strength ran out of him like water from a broken jar. In that great battle the two had fought for a moment, and that moment had decided everything.\n\nAt last Krishna threw the broken Jvara down upon the earth, and for a moment he believed the field was won.\n\nBut the fever-demon, released from that crushing embrace, did not flee the field. He did what no beaten enemy had done before: he entered Krishna's body.",
+ "reflection": "In the midst of the duel come strange words of instruction, 'Do not strike this way, strike this way,' as though the fight itself were a lesson being given and received. And Krishna, wearing a mortal body, lets the burning touch him for a few moments before it goes out: even what wounds him is held within his own order.",
+ "tradition_note": null,
+ "content_note": "A wrestling duel between Krishna and the demon Jvara; described without gore.",
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Krishna",
+  "Jvara"
+ ],
+ "locations": [
+  "Sonitpura battlefield"
+ ],
+ "themes": [
+  "single combat",
+  "endurance",
+  "strength"
+ ],
+ "previous_story_id": "DKS_0247",
+ "next_story_id": "DKS_0249",
+ "next_story_tease": "The fever-demon, released from that crushing embrace, did not flee: he entered Krishna's body.",
+ "hero_scene": "Krishna and the golden-adorned, sky-ranging Jvara locked together in the middle of the battlefield, the demon's serpent-like arms around Krishna's neck while Krishna grinds him down, the air trembling with the sound of thunder striking a mountain summit.",
+ "visual_elements": [
+  "the burning weapon striking Krishna's body and the fire going out",
+  "Jvara's serpent-like long arms striking Krishna's neck and breast",
+  "the two locked in a great encounter",
+  "the sound of striking arms like thunder on a mountain summit",
+  "Krishna in the guise of a man grinding the sky-ranging Jvara with his arms",
+  "the golden ornaments of the demon gleaming",
+  "a mood of fearful, straining single combat"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.270",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:07Z",
+  "source_event_id": "evt_0349"
+ },
+ "editorial_status": "unreviewed"
+}

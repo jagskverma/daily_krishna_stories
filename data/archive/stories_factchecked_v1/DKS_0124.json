@@ -1,0 +1,55 @@
+{
+ "id": "DKS_0124",
+ "title": "Krishna's Royal Consecration",
+ "subtitle": null,
+ "story": "The white seat of gold had been placed among the assembled kings, and Krishna was seated upon it. Around him stood the kings of Vidarbha and the gathered princes of the swayamvara, and overhead the emissary of Indra had already delivered his charge. There was nothing left now but the ceremony itself — an abhisheka, a royal unction — and everyone present understood that it would not be performed by human hands alone.\n\nThe sign came from the sky. Celestial jars began to pour down from above, like clouds opening after a long drought, and what they poured was no common water. It was water mixed with gold and gems, with flowers and scented powders, falling over the seated Krishna in a steady, glittering rain. One after another the vessels descended and emptied themselves upon him, until the whole of the ceremony seemed to be performed not by priests but by the heavens themselves.\n\nThen came the eight jars the voice had promised — jars born of the treasures of the lord of riches, made of celestial gold and studded with jewels, carrying ornaments that belonged to no mortal treasury. They moved among the kings and joined in the anointing, as if even the wealth of the earth had been summoned to crown this one man. The kings watched in silence, for this was no ceremony any of them could perform for another — the water, the wealth, the ornaments all descended of their own accord, as though the universe had been waiting to honor a single man.\n\nAnd Indra himself came down to finish what he had set in motion. The king of the gods, who had once anointed Krishna as Upendra in another age, now adorned him before the very presence of the kings, and sprinkled him from the welkin as the rite required. It was the full abhisheka, performed duly according to the rites laid down in scripture, with Krishna seated on the seat marked with the emblem of a lion — the emperor of kings assembled at the behest of Indra.\n\nThe kings of Vidarbha, Kratha and Kaishika, had offered their kingdom; the heavens had answered with a consecration that no earthly monarch could have granted. Where a lesser ceremony would have needed a priest to raise the water, here the water raised itself and came down. Where a crown might have been carried in on a cushion, here it fell with the scented rain, mixed with gold and flowers, until the distinction between gift and giver had no meaning left.\n\nWhen it was done, the man whom Jarasandha had mocked as having no throne and no city sat enthroned before kings from every quarter, anointed not by the favor of men but by the gods themselves. The question that had hung over the swayamvara — how shall he sit among kings? — had been answered, and not by argument.",
+ "reflection": "The consecration is remarkable for how little it depends on human agency. The brothers offer the kingdom, but the sky performs the rite: the water, the gold, the scented powders all descend of their own accord. Indra, who once anointed Krishna as Upendra, now completes the imperial abhisheka before the kings — an honor no earthly sovereign could confer and no earthly sovereign could withhold.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 3,
+ "life_stage": "mathura",
+ "story_arc": "mathura_and_kamsa",
+ "characters": [
+  "Krishna",
+  "Indra",
+  "Kaishika",
+  "Kratha",
+  "Garuda"
+ ],
+ "locations": [
+  "Vidarbha"
+ ],
+ "themes": [
+  "consecration",
+  "divinity"
+ ],
+ "previous_story_id": "DKS_0123",
+ "next_story_id": "DKS_0125",
+ "next_story_tease": "Yet when Krishna returned to Mathura, he would not keep this empire for himself.",
+ "hero_scene": "Krishna seated on the white seat of gold marked with a lion emblem, as celestial jars pour a glittering rain of water mixed with gold, gems, flowers and scented powders over him, while Indra adorns him before the assembled kings.",
+ "visual_elements": [
+  "the white seat of gold with a lion emblem",
+  "celestial jars pouring from the sky",
+  "water mixed with gold and gems",
+  "flowers and scented powders falling",
+  "eight jars of celestial gold and jewels",
+  "Indra adorning Krishna",
+  "the assembled kings looking on",
+  "awe and splendor"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.107",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-pro",
+  "generated_at": "2026-09-01T17:11:17Z",
+  "source_event_id": "evt_0182"
+ },
+ "editorial_status": "unreviewed"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "DKS_0202",
+  "title": "A Festival in Every House",
+  "subtitle": null,
+  "story": "Rukmi never went back to Kundina. He was Rukmini's brother — the one who had sworn to kill Krishna and bring his sister home, and who had been spared on the battlefield only because Rukmini begged for his life. A man who had sworn to return in triumph could not bear to return in defeat, and his broken oath lay on that battlefield behind him. He built a new capital in the province of Vidarbha, a city called Bhojakata, and from there he ruled the southern districts, while his father Bhishmaka stayed on in Kundina. The wedding his sister had chosen for herself had cost him his home.\n\nThe Yadava host came home to Dwaraka — Balarama at its head, having settled with Jarasandha and the pursuing kings — and Krishna entered the city with Rukmini at his side: the princess of Vidarbha whom he had carried off from Kundina when her family was giving her to Shishupala, king of Chedi. What had begun on the open road, in the old manner of kings, was to be completed before the whole city. Krishna wed Rukmini in due form, with the full rites, before the fire and the witnesses of the Yadu court, and Rukmini, who had chosen him before she ever saw him, at last became his queen. The rush of the escape, the dust of the chase, the fury of her brother — all of it receded, and what remained was the moment she had staked everything on.\n\nThen Dwaraka gave itself to festival. Every house in the Yadu city held its own celebration, from the great mansions to the smallest homes, and the poorest lane kept festival as eagerly as the palace. The streets were sprinkled with water to lay the dust of the procession; the doorways were hung with mango-leaf garlands and ropes of fresh flowers; strings of gems and bright cloth swung above every door; auspicious pots stood at the thresholds; and the air carried incense and the glow of lamps. Banners bearing the emblem of Indra, king of the gods, rose above the gates, and from every quarter of the city came the sound of conches and drums and singing. Men and women put on their finest — jewels and earrings, fresh-washed cloth, bright colors — as if the whole city had dressed for the bride.\n\nGuests came from every quarter: kings of the Kuru, Srijaya, and Kaikeya lands, of Vidarbha, of the Yadu and Kunti houses. And wherever they gathered, the story was told and retold — how Rukmini had been carried off from the wedding gathering at Kundina, under the eyes of the greatest kings of the age. The tale that had sent those kings chasing in fury across the plain was sung in Dwaraka as a love story, and the city rejoiced at every telling of it. Great joy filled every house, and the marriage of Krishna and Rukmini was celebrated from the palace to the waterfront, with singing and music and blessings rising into the evening air.\n\nIn the years that followed, Rukmini bore Krishna a son, Pradyumna, whom the Vishnu Purana calls a portion of the god of love himself; the boy would grow into one of the Yadus' greatest warriors. And of all Krishna's queens, the old accounts name Rukmini the first and foremost.\n\nNight fell on Dwaraka, and the lamps burned in every window, and singing drifted through the streets. A marriage that had begun in a stolen moment on an open road had come home.",
+  "reflection": "Rukmini's marriage is one of the few tales that begins in open conflict and ends in unalloyed festival: the abduction that enraged the kings is sung in Dwaraka as a love story. And Rukmi's exile is entirely his own work — the oath he swore against Krishna turns out to be the very thing that keeps him from his home.",
+  "tradition_note": "The Vishnu Purana closes its account of the marriage with the birth of their son Pradyumna, while the Harivamsha names Rukmini Krishna's first wife and lists ten sons. The Bhagavata keeps its focus on the wedding itself and the city's celebration.",
+  "content_note": null,
+  "estimated_read_minutes": 4,
+  "estimated_audio_minutes": 4,
+  "life_stage": "dwaraka",
+  "story_arc": "rukmini_and_marriages",
+  "characters": [
+    "Krishna",
+    "Rukmini",
+    "Rukmi"
+  ],
+  "locations": [
+    "Dvaraka",
+    "Bhojakata"
+  ],
+  "themes": [
+    "marriage",
+    "celebration",
+    "honor"
+  ],
+  "previous_story_id": "DKS_0201",
+  "next_story_id": "DKS_0203",
+  "next_story_tease": "On the banks of the Yamuna, years later, another maiden was keeping a vow that would lead her to Krishna.",
+  "hero_scene": "Dwaraka at night in festival: lamp-lit doorways hung with mango-leaf garlands and woven toranas, streets freshly sprinkled with water, and Krishna leading Rukmini in her bridal finery through a lane of celebrating citizens.",
+  "visual_elements": [
+    "lamp-lit doorways with mango-leaf garlands and toranas",
+    "sprinkled streets",
+    "auspicious pots, incense and lamps",
+    "banners with Indra's emblem",
+    "Krishna and Rukmini in bridal finery",
+    "celebrating citizens of Dwaraka"
+  ],
+  "sources": [
+    {
+      "work": "Bhagavata Purana",
+      "reference": "10.54.35-59",
+      "role": "primary"
+    },
+    {
+      "work": "Harivamsha",
+      "reference": "1.116",
+      "role": "additional"
+    },
+    {
+      "work": "Vishnu Purana",
+      "reference": "5.26",
+      "role": "additional"
+    }
+  ],
+  "generation_metadata": {
+    "corpus_version": "V1",
+    "model": "deepseek-v4-flash",
+    "generated_at": "2026-09-01T17:35:00Z",
+    "source_event_id": "evt_0197",
+    "style_normalization": {
+      "pass": "v1",
+      "model": "deepseek-v4-flash",
+      "changed": "minor"
+    }
+  },
+  "editorial_status": "unreviewed"
+}

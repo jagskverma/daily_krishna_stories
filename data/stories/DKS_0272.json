@@ -1,0 +1,59 @@
+{
+ "id": "DKS_0272",
+ "title": "Why Bhanumati Was Taken",
+ "subtitle": null,
+ "story": "Dwaraka had its princess back, and no one could say what had happened. Bhanumati, the daughter of Bhanu, had been snatched from the women's garden by the demon Nikumbha while the city was absorbed in its sports; Krishna, Arjuna and Pradyumna had chased him across the whole earth and brought her safely home. The demon was shut up in his mountain stronghold, the maiden was safe — and yet the thing nagged at everyone who heard the story. Why had it happened at all? Why her, why then, and why had the demon been so lucky in the stealing?\n\nIt was the sage Narada who finally supplied the answer. Narada moved between the worlds of gods and men as a matter of course, carrying news and riddles alike, and he came to Dwaraka with the explanation no one had been able to reach. Bhanumati's abduction, he said, had not been an accident of an unguarded garden. It had been the working of a curse.\n\nLong before, on some forgotten occasion, the girl had roused the anger of Durvasa, the foremost of sages — a wandering ascetic whose temper was so famous that the gods themselves kept out of his path. In his wrath Durvasa laid a curse upon her, and the words of the curse were precise and terrible: she must fall into the hands of an enemy. A curse from a sage of Durvasa's power does not lapse or fade on its own. It waits, and it finds its way.\n\nBut the curse had not been allowed to run its full course. The sages, Narada said, had softened it. What had been destined to be a complete disaster became a limited one: the daughter of Bhanu would indeed fall into the hands of an enemy, as the words demanded — but there the working of the curse ended. She would be taken, and she would be restored. The abduction by Nikumbha, the long chase across the earth, the rescue at Mount Gokarna: all of it, seen from Narada's vantage, was the curse doing exactly what it had been permitted to do, and no more.\n\nThe listeners understood the shape of it now. The demon had believed he was avenging an old wrong and choosing his own hour. Perhaps he was. But beneath his malice had run an older current, set in motion years before by a sage's anger and a company of sages' mercy — and that current had carried Bhanumati into an enemy's hands and then, just as surely, carried her out again.\n\nWhat remained was to set the matter right. In the days that followed, Bhanu gave his daughter in marriage to Sahadeva, the youngest of the five Pandava brothers. The girl whose fate had been a curse's plaything became a bride, and the story that had begun with a demon's theft ended in a wedding in Dwaraka.\n\nIt was an ending, the elders said, that no one had predicted — not the demon who had counted on his cunning, nor the city that had despaired of seeing her again.",
+ "reflection": "The story reads fate backward, as Narada's stories often do: what looked like a demon's clever malice was the working of an old curse, and what the curse ordained was softened by the sages into something survivable. The marriage to Sahadeva is the quiet proof that a destiny may be narrowed but not erased — and that mercy can redraw the lines of even a sage's anger.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "dwaraka_royal_life",
+ "characters": [
+  "Narada",
+  "Bhanumati",
+  "Bhanu",
+  "Sahadeva",
+  "Durvasa"
+ ],
+ "locations": [
+  "Dwaraka"
+ ],
+ "themes": [
+  "curse",
+  "fate",
+  "marriage"
+ ],
+ "previous_story_id": "DKS_0271",
+ "next_story_id": "DKS_0273",
+ "next_story_tease": null,
+ "hero_scene": "The sage Narada, serene amid the court of Dwaraka, telling the assembled elders how an old curse of Durvasa, softened by the sages, had shaped Bhanumati's abduction — while behind him, Bhanu leads his veiled daughter toward her wedding to Sahadeva.",
+ "visual_elements": [
+  "Narada, the wandering sage, speaking in the court of Dwaraka",
+  "Bhanumati restored to her family",
+  "the unseen thread of Durvasa's curse",
+  "Bhanu giving his daughter in marriage to Sahadeva",
+  "a wedding in Dwaraka",
+  "curse and fate turned to mercy"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.237",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:50:30Z",
+  "source_event_id": "evt_0319",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "minor"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

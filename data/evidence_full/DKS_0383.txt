@@ -1,0 +1,41 @@
+# STORY DKS_0383 — Kunti Confides Her Sorrow to Akrura
+
+## Index entry
+title: Kunti Confides Her Sorrow to Akrura
+summary: In Hastinapura, Kunti tearfully tells Akrura of the Pandavas' persecution and prays to Krishna for protection.
+life_stage: mathura | story_arc: pandava_friendship
+characters: Kunti, Akrura, Vidura, Krishna
+locations: Hastinapura
+themes: sorrow, devotion, faith
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0163
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 49 | verses 1-14 | confidence 5
+  excerpt: Weeping, Kunti said: 'Krishna, Krishna, great yogin, soul of the universe, protect me who am sinking with my children; I see no refuge but your lotus feet.' Akrura and Vidura consoled her. (rendered from Sanskrit, verses 1-14)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.49 (1-14)
+1. saha-putraṃ ca bāhlīkaṃ bhāradvājaṃ sa-gautamam /
+2. yathāvad upasaṅgamya bandhubhir gāndinī-sutaḥ /
+3. uvāsa katicin māsān rājño vṛtta-vivitsayā /
+4. teja ojo balaṃ vīryaṃ praśrayādīṃś ca sad-guṇān /
+5. kṛtaṃ ca dhārtarāṣṭrair yad gara-dānādy apeśalam /
+6. pṛthā tu bhrātaraṃ prāptam akrūram upasṛtya tam /
+7. api smaranti naḥ saumya pitarau bhrātaraś ca me /
+8. bhrātreyo bhagavān kṛṣṇaḥ śaraṇyo bhakta-vatsalaḥ /
+9. sapatna-madhye śocantīṃ vṛkānāṃ hariṇīm iva /
+10. kṛṣṇa kṛṣṇa mahā-yogin viśvātman viśva-bhāvana /
+11. nānyat tava padāmbhojāt paśyāmi śaraṇaṃ nṛṇām /
+12. namaḥ kṛṣṇāya śuddhāya brahmaṇe paramātmane /
+13. bhp_10.49.014/0 śrī-śuka uvāca
+14. sama-duḥkha-sukho 'krūro viduraś ca mahā-yaśāḥ /
+
+## Corpus chain
+previous_story_id: DKS_0382 | next_story_id: DKS_0384
+previous title: Krishna Sends Akrura to Hastinapura
+next title: Akrura Counsels Dhritarashtra

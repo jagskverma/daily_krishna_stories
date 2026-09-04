@@ -1,0 +1,63 @@
+{
+ "id": "DKS_0244",
+ "title": "The Play That Drained a City",
+ "subtitle": null,
+ "story": "The demon king Vajranabha could not be killed, and his city of Vajra could not be entered — even the wind could not pass its walls unless he willed it. So Krishna chose a way in that had nothing to do with walls: a play. By the time the company of actors reached the lands of the demons, its fame ran ahead of it. Everywhere they performed, the demons rose from their seats, delighted, and pressed jewels into their hands; in the city of Supura the people were so enchanted that they begged for more. What the demons never guessed was that the troupe's newest players were not actors at all — they were Pradyumna, the son of Krishna, with Gada, Shamba and the other Yadava heroes in the costumes of the stage, led by Bhadra, the actor who had been granted the boon to wander freely through all three worlds.\n\nWhen Vajranabha heard of the marvellous actors, he did what any patron of the arts would do: he sent a messenger and invited them in. The demons of the branch cities brought the troupe to the city of Vajra, lodged them in a house built by the celestial architect, and supplied everything they could need, by the hundred. Vajranabha raised a beautiful pavilion and made a festival of the visit. The women of his family watched from behind a screen, where they could see everything; the king himself sat among his kinsmen. And the actors began.\n\nFirst came the instruments — bells, flutes and drums — and then the women of the troupe sang the celestial song called the Chhalikya, the very music the Yadavas had brought down from heaven. They sang of the descent of the Ganga, the heavenly river, in seven scales and three modes and in the springtime raga called Vasanta — so sweetly that the demons rose again and again to heap rewards on them. Then came the Ramayana itself: they acted the birth of Vishnu, who came into the world to destroy the demon king Ravana, and how the young sage Rishyashringa was brought to King Dasharatha's court. The demons were startled by the likeness of the players — it seemed impossible that actors should resemble Rama, Lakshmana and Bharata so closely — and they rose from their seats, called out their praise, and gave away necklaces of gold and precious stone, bracelets and cloth.\n\nAfter the Ramayana, Pradyumna himself, still in the guise of an actor, conducted the prologue with Gada and Shamba, and then sang the hymn of the Ganga's descent with beautiful gestures. Then came the drama called Rambhabhisara. Shura played Ravana, Monovati played Rambha — the dancer of heaven whom Ravana had wronged — Pradyumna played Nalakuvara, and Shamba was his jester. By their powers of illusion the Yadavas conjured the very scene of Mount Kailasha, and acted how the furious Nalakuvara cursed the wicked Ravana, and how Rambha was consoled.\n\nThe demons of Vajra were enchanted. Costly garments, jewelled necklaces, chariots that rode the sky, celestial elephants, cool sandalwood and rare perfumes — and at last the fabled gem Chintamani, which grants whatever its owner thinks of — all of it rained down upon the actors, scene after scene, until the treasuries of the demon lords ran dry. Even the women of the demon chiefs gave away their jewels. The demons were being emptied of their riches, in the very act of trying to spend them.\n\nOnly slowly did they understand what they had done. They had paid their enemies to entertain them — and the Yadavas, welcomed through gates that no army could ever have breached, had walked into the unbreachable city of Vajra.\n\nBehind the screen, where the women of the demon king's own family sat watching, a quieter message was arriving. Vajranabha's daughter Prabhavati had heard from her friend Suchimukhi — a goose, who could fly where she pleased — and Suchimukhi whispered that she had been to Dwaraka and seen Pradyumna himself, and that he had appointed this very evening to meet her. 'The Yadavas never speak an untruth,' said the goose, 'and Pradyumna has given his word. Tonight you will see your love.'",
+ "reflection": "The city that no army could enter was entered by applause: the demons paid their enemies to entertain them and never suspected that the pleasure they bought was their own ruin. There is something almost courteous in the way the Yadavas take Vajra — not by storm, but by invitation.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 3,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Pradyumna",
+  "Gada",
+  "Shamba",
+  "Vajranabha",
+  "Bhadra",
+  "Prabhavati"
+ ],
+ "locations": [
+  "City Vajra",
+  "Supura"
+ ],
+ "themes": [
+  "disguise",
+  "performance",
+  "deception"
+ ],
+ "previous_story_id": "DKS_0243",
+ "next_story_id": "DKS_0245",
+ "next_story_tease": "The emptied treasuries were only the beginning, for Vajranabha had already set his heart on conquering heaven.",
+ "hero_scene": "Inside the pavilion of Vajra, Pradyumna in actor's costume performs the role of Nalakuvara upon a stage that, by illusion, shows the very summit of Kailasha, while the Danava lords rise around him to shower gold, gems and sky-chariots upon the players.",
+ "visual_elements": [
+  "the pavilion stage in the city of Vajra",
+  "Pradyumna as Nalakuvara",
+  "Shura as Ravana and Monovati as Rambha",
+  "the illusion of Mount Kailasha",
+  "Vajranabha and his kinsmen watching",
+  "women watching from behind a screen",
+  "jewels, garments and sky-chariots raining on the actors",
+  "deception and applause"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.240",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:44:13Z",
+  "source_event_id": "evt_0322",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

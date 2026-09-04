@@ -1,0 +1,50 @@
+{
+ "id": "DKS_0493",
+ "title": "Krishna's Counsel to the Gopis",
+ "subtitle": null,
+ "story": "The gopis had come to Samanta-panchaka like everyone else — to bathe at the eclipse, to see the great gathering — but they had come for one face. They had not seen Krishna in years, and in all that time they had measured the days by his absence: the nights when the flute stayed silent, the mornings when the road to the forest was just a road. They had grown older in his absence, and would not have traded the waiting for anything, because the waiting had kept him near. When at last they stood where he could see them, they did not rush forward. They embraced him in their hearts, and in that inward embrace they attained a state that even the ever-yoked, the ascetics who have bound their minds for lifetimes, can hardly reach. Their eyes had once cursed their own eyelids for blinking and stealing him from their sight; now their eyes held him, and would not let him go.\n\nKrishna saw them and came to them, drawing them aside to a quiet place away from the crowds — he came to them alone, the way he had come to them in the old days in Vraja, without fanfare and without warning. And he asked them, gently: \"Do you remember our friendship?\" And then: \"Or do you think ill of me — do you suspect that I am ungrateful?\"\n\nIt was not a question they expected. They had come with their longing, not their grievances; in all the years of waiting they had asked nothing of him, only waited. But he did not wait for an answer; he gave them the answer instead.\n\n\"As the wind gathers the clouds and scatters them,\" he said, \"as it lifts the dry grass, the cotton, the dust, and lets them fall where it wills, so I bring beings together and carry them apart. I am the one who joins, and I am the one who separates. No meeting lasts by its own strength; every parting that grieves you is woven into the world I wind and unwind. But there is one bond that is not broken — devotion to me. Devotion is what grants immortality to beings. Hold to that, and no separation can touch you. I am the beginning of all beings and their end; I am inside them and outside them; there is nowhere you can go where I am not.\"\n\nThe gopis heard him in the quiet place, with the eclipse-darkened sky above the camp, and their bondage dissolved. The years of longing, the nights of calling his name to the moon, the fear that he had forgotten them — all of it fell away, and they attained him then, in that moment, in a way that no practice could have given them. What he had told them was not that they would never be parted, but that parting itself was his weaving, and that their love of him ran deeper than the weave.\n\nBefore they rose, they spoke their answer as a prayer: \"O lotus-naveled one, may your lotus feet — which the lords of yoga contemplate in their hearts with their profound wisdom, the one support for those fallen into the well of this world — always rise in our minds, even for us who dwell at home.\"\n\nHe had given them back their friendship, and then he had given them something larger: the knowledge that the friendship had never left them. The gopis returned to their camp walking lightly, as if the road were not there. For the rest of the pilgrimage they moved among the other pilgrims like women who had been shown the end of a long road — having gained, in a single hour, what even the ever-yoked can hardly gain.",
+ "reflection": "Krishna answers the gopis' longing not with a promise that they will never be parted, but with the truth that no being is ever really parted from him — he is the beginning, the end, and the inside of all things. Their love, which had looked like grief, turns out to be the one thing that cannot be lost.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "later_life",
+ "story_arc": "post_war_krishna",
+ "characters": [
+  "Krishna",
+  "the gopis"
+ ],
+ "locations": [
+  "Samanta-panchaka"
+ ],
+ "themes": [
+  "devotion",
+  "divine love",
+  "teaching"
+ ],
+ "previous_story_id": "DKS_0492",
+ "next_story_id": "DKS_0494",
+ "next_story_tease": "The reunion at Samanta-panchaka could not last forever — soon Nanda would take the road back to Mathura.",
+ "hero_scene": "In a quiet corner of the eclipse camp, Krishna speaks gently to the gopis, who gaze at him with unblinking eyes and joined hands as the darkened sky glows above them.",
+ "visual_elements": [
+  "Krishna speaking gently to the gopis in a quiet place",
+  "the gopis' unblinking, tear-filled eyes",
+  "the darkened eclipse sky above the camp",
+  "the gopis' prayer with joined hands",
+  "the distant crowds of the pilgrimage"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.82.38-47",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T18:11:49Z",
+  "source_event_id": "evt_0493"
+ },
+ "editorial_status": "unreviewed"
+}

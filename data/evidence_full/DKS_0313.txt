@@ -1,0 +1,106 @@
+# STORY DKS_0313 — Indra and Krishna Install the Four Young Kings || Indra and Krishna divide Vajranabha's conquered kingdom into four parts and anoint the four young princes — Vijaya and the sons of Pradyumna, Shamba and Gada — as kings of the Vajra realm.
+
+## Index entry
+title: Indra and Krishna Install the Four Young Kings || Indra and Krishna divide Vajranabha's conquered kingdom into four parts and anoint the four young princes — Vijaya and the sons of Pradyumna, Shamba and Gada — as kings of the Vajra realm.
+summary: Indra and Krishna divide Vajranabha's conquered kingdom into four parts and anoint the four young princes — Vijaya and the sons of Pradyumna, Shamba and Gada — as kings of the Vajra realm.
+life_stage: dwaraka | story_arc: pradyumna_and_aniruddha
+characters: Indra, Krishna, Vijaya, Chandraprabha
+locations: city Vajra, mount Sumeru side
+themes: division, anointing, succession
+festival_tags: 
+age_sensitivity: all | notes: | [arc-remap by curator rule]
+
+## Canonical event
+event_id: evt_0329
+variant_notes: 
+
+## Sources and evidence excerpts
+- Harivamsha (Dutt, Gutenberg #61937) | book/canto 1 | chapter/section 244 | verses  | confidence 4
+  excerpt: Indra and Upendra divided Vajranābha's kingdom into four parts... one-fourth... to Jayanta's son Vijaya, one-fourth to Pradyumna's son, one-fourth to Shāmva's son and the remaining one-fourth to Gada's son Chandraprabha
+
+## Primary source passage(s)
+### Harivamsha (Dutt, Gutenberg #61937) 1.244 ()
+TITLE: THE DESTRUCTION OF VAJRANABHA
+
+Vaishampāyana said:—Thereupon after the sun, the eye of the world, had
+risen for three Muhurttas the deity Hari came there riding on Garuda,
+the enemy of the serpents [1]. O descendant of Kuru, the king of birds
+Garuda, coursing more quickly than even the swans, air and the wind,
+went to Sakra in the etherial region (2). Coming near Vāsava, the lord
+Krishna duly blew the conch Panchajunya which increased the fear of the
+Daityas (3). Hearing that sound Pradyumna, the slayer of his enemies,
+came near His father Keshava who said to him "Speedily kill Vajraalbha"
+(4). Afterwards he again said to him "Go there on Garuda’s back"
+Saluting the foremost of celestials Indra and Upendra he did so. O
+emperor Bhārata, riding on Garuda, fleet like the mind Pradyumna
+approached his great rival Vajranābha (5–6). Seated on Garuda firmly the
+the heroic Pradyumna, well read in the use of all weapons, struck
+Vajranābha (7). The highly powerful Vrajranābha was wounded on the
+breast with a club by the high-souled Krishna’s son seated on Garuda.
+That Daitya hero, sorely mailed by Pradyumna with his club, lost
+consciousness; and bewildered like one dead he vomitted blood again and
+again (9). Thereat Krishna’s son, irrepressible in battle, told him "Be
+consoled". Thereupon on regaining his consciousness in a moment the
+heroic Vajranabha said to Pradyumna:—"Well done! Oh highly powerful
+Yadava. By your prowess you have become an illustrious enemy of mine.
+Now is the time for me to strike you in return; wait here firmly
+(10-11)." Saying this and roaring like a hundred clouds the king of
+Daityas discharged, with great force, a huge club adorned with bells.
+(12). O king wounded sorely on his forehead with that club that foremost
+of Yadus, Pradyumna, vomitted blood and lost his conciousness (13).
+Seeing it the divine Krishna, the slayer of his enemies, blew his
+Panchajanya conch as if consoling his son. At the sound of that
+Panchanjanya bow the highly powerful Pradyumna revived and stood up. O
+Bhārata, beholding Pradyumna consoled, all the worlds especially Indra
+and Keshava were greatly delighted (14-15).
+
+O Janamejaya, afterwards according to Krishna’s desire his discus, set
+with thousands of sharpened axles and destructive of the Daityas, came
+into the hand of his son. Saluting the high souled Indra and Upendra he
+discharged it for destroying his enemy. O Bhārata, that discus,
+discharged by Nārāyana’s son, separated Vajranābha’s head from his body
+before the very presence of the Daityas (16–18). The dreadful Sunābha,
+bent upon killing his enemies and taking delight in battles, was killed
+by Gada in the battle-field although he was very careful. With sharpened
+arrows Shāmva, the aggrandiser of his enemies, converted in the
+battle-field, the enemies of the immortals into the family members of
+Yama. After the destruction of the great Asura Vajranābha, Nikumbha, in
+fear of Nārāyana, fled to the city of Shatpura (19–21).
+
+In this way, after the irrepressible enemy of the gods, Vajranabha had
+been slain, the two high-souled Haris came down to the city of Vajra
+(22). Having consoled the boys and old persons stricken with fear those
+two foremost of celestials established peace there (23). O king,
+thereupon following Vrihaspati’s advice and consulting (with him) about
+the present and future (arrangements) the highly powerful and great
+Indra and Upendra divided Vajranābha’s kingdom into four parts. O king,
+one-fourth of that kingdom, gained by conquest, was given to Jayanta’s
+son Vijaya, one-fourth to Pradyumna’s son, one-fourth to Shāmva’s son
+and the remaining one-fourth to Gada’s son Chandraprabha (24–26). O
+king, with great pleasure Sakra and Keshava divided into four parts also
+the four koti villages and one thousand prosperous branch cities like
+the town of Vajra of the kingdom of Vajranābha. O hero, the heroic
+Vāsava and Keshava also divided, into four parts, various warm
+clothings, deer-skin, cloths and jewels (27–28). Thereupon those heroic
+kings, the great descendants of Sakra and Mādhava, were annointed there
+before the Rishis by the gods Sakra and Krishna with the water of Gangā
+issuing from Vishnu’s feet, accompanied with the music of celestial
+bugles (29–30). Vijaya, from before, could range in the etherial region,
+Mādhava’s descendants, on account of the virtues inherited from their
+mother, practised it also (31).
+
+Having thus installed them all the Divine Vāsava said to Jayanta "O
+heroic victor of armies, it behoves you to protect all these kings. O
+sinless one, of them one is a perpetuator of my race and the other three
+are born in the family of Keshava. By my command none amongst creatures
+will be able to kill them. They will acquire practice of going to the
+celestial region and Dwarakā protected by the Bhaimas through the
+etherial way. Give them, as they like, elephants born from those of the
+quarter, horses born from the race of Ucchaisrava and chariots
+constructed by the celestial Arch
+[...]
+
+## Corpus chain
+previous_story_id: DKS_0312 | next_story_id: DKS_0314
+previous title: Pradyumna Slays Vajranabha with Krishna's Discus || Krishna's discus comes into Pradyumna's hand, and with it he severs Vajranabha's head, while Gada slays Sunabha and Shamba destroys the remaining Asuras.
+next title: The Yogamaya Appears Before Krishna and Rama || The illusory daughter of Yashoda — the goddess born the same moment as Krishna — appears before Krishna and Rama, who embrace her and seat her between them as the Vrishni women worship her.

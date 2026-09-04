@@ -1,0 +1,62 @@
+{
+ "id": "DKS_0353",
+ "title": "The Night the Yamuna Was Dragged",
+ "subtitle": null,
+ "story": "The wine came to him from a tree.\n\nIt happened during the two months Balarama had come to spend in Vraja, in the groves along the Yamuna. Deep in the forest where he was sporting with the gopis, the goddess Varuni — sent by Varuna, the lord of the waters — flowed out of the hollow of an old tree. The fragrance of that honey-stream rode the wind to where the cowherds sat, and Balarama, who had never needed an excuse for joy, drank. Around him the gandharvas sang; overhead the sky sounded with drums, and flowers rained down on the grove. The evening had turned to gold.\n\nBy the time the moon rose, the wine had done its work, and the whole grove seemed brighter for it. Balarama wore a single earring and a garland of wildflowers; his blue cloth hung loose about him; his eyes rolled with pleasure, and the women sang his deeds back to him as he laughed among them. He was, the cowherds said, like the moon in an autumn night — all light and play.\n\nThen he turned to the river. The Yamuna ran broad and dark through the groves, and Balarama, standing at her bank, called to her by name. He spoke to her as a man speaks to a woman he desires — \"O great river, you who flow to the ocean, come in your bodily form, and let us sport together in your waters.\"\n\nThe river kept her silence. Perhaps she thought the words were only the wine speaking; perhaps a river that had flowed to the sea since the beginning of the world did not know how to answer a summons. He called again — \"Will you not come? Will you not come?\" — and when the Yamuna still gave no answer, the mood of the evening changed.\n\nThe joy in Balarama's face did not fade slowly; it simply went out, and in its place came the wrath of the plough-bearer. He seized his great plough and drove its point into the river's bank, and he dragged. The earth groaned. The bank tore open. The water, wrenched from its ancient course, followed the plough like a woman dragged by the hand — currents tangling, fish and water-creatures flung about in bewilderment, the white geese scattering in panic. The river that had chosen its own path since the beginning of time now flowed where Balarama chose.\n\nAnd the Yamuna, afraid at last, begged his pardon. \"Rama, Rama, mighty-armed,\" she said, \"I did not know your valour. Forgive me — forgive the river that did not know the glory of the Blessed One.\"\n\nHer words went into him like water into dry ground. His anger was gone as quickly as it had come. He released her. He stepped into her waters, bathed, and sported as he had first asked to do, at his ease in the current, and the night settled back into its old peace. The gopis and cowherds on the bank, who had watched with their hearts in their mouths, let out their breath at last. When he came out he put on blue garments and a golden garland, and the river lay quiet and restored along her course.\n\nLong afterward, the cowherds of Vraja would point to the path where the river had been dragged — the scar in the land, the channel pulled from its old course — and say: there. That is where the Yamuna learned Balarama's name.\n\nAnd of the night itself, the only thing anyone could say was this: it passed like a single moment, as all nights pass in Vraja when the heart is full.",
+ "reflection": "The river is dragged not out of cruelty but out of a drunkard's insistence on being answered, and the moment she names his power he lets her go. Even the wrath of the plough-bearer turns out to be a form of play — he wanted her company, and once she gave him her fear and her pardon, he was satisfied.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 4,
+ "life_stage": "dwaraka",
+ "story_arc": "balarama_stories",
+ "characters": [
+  "Balarama",
+  "Yamuna"
+ ],
+ "locations": [
+  "Yamuna river",
+  "the groves of Vraja"
+ ],
+ "themes": [
+  "power",
+  "intoxication",
+  "wrath"
+ ],
+ "previous_story_id": "DKS_0352",
+ "next_story_id": "DKS_0354",
+ "next_story_tease": "Far from the Yamuna's banks, meanwhile, a raging ape was laying waste to the land in the name of his slain friend.",
+ "hero_scene": "Night on the Yamuna: the intoxicated Balarama, garlanded and blue-clad, driving his great plough into the river's bank and dragging her from her course, the water and its creatures tumbling in bewilderment behind the ploughshare.",
+ "visual_elements": [
+  "Varuni flowing from the hollow of a tree, fragrance riding the wind",
+  "Balarama drinking among the gopis, gandharvas singing, flowers raining",
+  "Balarama in his single earring and wildflower garland, eyes rolling with pleasure",
+  "Balarama calling to the Yamuna from her bank",
+  "the plough cutting into the river's bank and dragging the water from its course",
+  "the terrified river begging pardon, then lying quiet and restored"
+ ],
+ "sources": [
+  {
+   "work": "Bhagavata Purana",
+   "reference": "10.65.18-33",
+   "role": "primary"
+  },
+  {
+   "work": "Harivamsha",
+   "reference": "1.102",
+   "role": "additional"
+  },
+  {
+   "work": "Vishnu Purana",
+   "reference": "5.25",
+   "role": "additional"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:57:39Z",
+  "source_event_id": "evt_0003"
+ },
+ "editorial_status": "unreviewed"
+}

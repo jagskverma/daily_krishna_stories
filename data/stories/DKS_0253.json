@@ -1,0 +1,57 @@
+{
+ "id": "DKS_0253",
+ "title": "The Boast of a Thousand Arms",
+ "subtitle": "Vana vaunts, and Krishna answers with the Sarnga bow",
+ "story": "Krishna, lord of Dwaraka, had marched on the city of Sonitpura to free his grandson Aniruddha, who lay bound in the palace of its king. Now that king, Vana of the thousand arms, had come out to meet him, and the war would be decided on the open field.\n\n\"Wait! Wait!\" Vana shouted across it. \"You will not escape me alive to Dwaraka and see your friends there. You have eight arms \u2014 how will you fight me, who have a thousand? Slain with all your friends here in Shonita, you will remember Dwaraka too late. Today you will see my thousand arms, bright with weapons and ornaments, multiply into a million.\"\n\nHis words rolled over the field like the waves of a storm-driven sea, and his angry eyes shone like two suns rising.\n\nFrom the top of the palace, Narada laughed aloud, so loudly that the sky seemed to split in two. The sage, who loved to watch the doings of the world, shifted about on his seat, eager to miss nothing of the battle.\n\nKrishna answered him from the back of Garuda, the great eagle, with the patience of a man who had heard many boasts. \"Why do you roar like this, Vana? Heroes do not vaunt. If words could win a battle, yours would have won it already. Come \u2014 either defeat me, or be defeated and lie on the earth for good.\"\n\nThe fight that followed was unlike anything the field had seen. Krishna struck first, with arrows that cut Vana to the quick. Vana answered with burning arrows, and then with iron clubs and maces, spears and javelins, until Krishna was buried beneath the storm of weapons. Thousand-armed Vana fought easily; Krishna, with his eight arms, fought on. Seeing that skill was against him, Vana grew blind with rage and loosed the great weapon that Brahma the creator had shaped long ago for the demon king Hiranyakashipu. Darkness swallowed every quarter of the sky. Dread omens crowded the air. The world itself seemed to pass out of sight. The demons who watched cried, \"Well done! Well done!\" while the gods cried out, \"Alas!\" A rain of burning arrows poured down, and while Krishna burned beneath it, even the wind and the clouds held still.\n\nThen Krishna took up the weapon of Indra, king of the gods \u2014 and the moment it was ready, the darkness fell away, the fire died, and the demons lost heart. Seeing their weapon undone, the watching gods laughed and roared like lions.\n\nBeside himself with rage, Vana shouted curses at Krishna on Garuda's back and buried him once more under maces and clubs. Krishna parried every blow \u2014 and then, from his great bow Sarnga, he loosed arrows like thunderbolts. They shattered Vana's chariot, with its horses and banners, all together. His shining crown fell, and his coat of mail, his bow and his shield, struck from him one after another, and winged arrows struck him on the breast. Cut to the quick, the king of the thousand arms lost his senses and went down among the wreckage of his chariot.\n\nFrom the palace roof, Narada leapt up clapping. \"Great fortune! Great fortune! Blessed is my life, for I have seen Krishna's prowess this day. Finish what you came for \u2014 destroy Vana!\"\n\nAnd high above the field, the standards fought their own battle. The horses of gods and demons clashed beneath them, and Garuda and the peacock of Vana's banner struck at each other with wings, beaks and talons \u2014 until the great eagle, leaping up in anger, caught the peacock's head in his beak, and the banner of Sonitpura came down.",
+ "reflection": "Narada's laughter at the boast and his applause at the defeat frame the whole duel as a spectacle: the ascetic watches from the palace rooftop, and the mightiest warriors of the universe perform for him. The hundred arms multiply into a million only in Vana's own telling \u2014 in the end, it is one bow that dismantles them.",
+ "tradition_note": null,
+ "content_note": null,
+ "estimated_read_minutes": 4,
+ "estimated_audio_minutes": 5,
+ "life_stage": "dwaraka",
+ "story_arc": "narakasura_and_gods",
+ "characters": [
+  "Vana",
+  "Krishna",
+  "Narada"
+ ],
+ "locations": [
+  "Sonitpura"
+ ],
+ "themes": [
+  "boasting",
+  "battle",
+  "dismantling the enemy"
+ ],
+ "previous_story_id": "DKS_0252",
+ "next_story_id": "DKS_0254",
+ "next_story_tease": "But Vana's life was not yet decided \u2014 the goddess would step between them once more.",
+ "hero_scene": "Vana's thousand arms spread in fury as Krishna's arrows from the Sarnga bow shatter his chariot, crown, mail, bow and shield, while Narada claps from the palace rooftop and Garuda battles the peacock overhead.",
+ "visual_elements": [
+  "Vana's thousand arms with weapons and ornaments",
+  "Krishna drawing the Sarnga bow on Garuda",
+  "the sundered chariot with horses and standards",
+  "the crown, mail, bow and shield falling away",
+  "Narada clapping from the palace rooftop",
+  "Garuda and the peacock clashing in the sky"
+ ],
+ "sources": [
+  {
+   "work": "Harivamsha",
+   "reference": "1.275",
+   "role": "primary"
+  }
+ ],
+ "generation_metadata": {
+  "corpus_version": "V1",
+  "model": "deepseek-v4-flash",
+  "generated_at": "2026-09-01T17:43:47Z",
+  "source_event_id": "evt_0355",
+  "style_normalization": {
+   "pass": "v1",
+   "model": "deepseek-v4-flash",
+   "changed": "major"
+  }
+ },
+ "editorial_status": "unreviewed"
+}

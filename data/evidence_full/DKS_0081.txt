@@ -1,0 +1,32 @@
+# STORY DKS_0081 — Nanda Explains the Indra Worship
+
+## Index entry
+title: Nanda Explains the Indra Worship
+summary: Nanda explains that Indra, lord of rain, is worshipped with offerings produced by his own showers.
+life_stage: vrindavan | story_arc: govardhan_and_indra
+characters: Nanda, Krishna
+locations: Vrindavan
+themes: tradition, rain, duty
+festival_tags: 
+age_sensitivity: all | notes: 
+
+## Canonical event
+event_id: evt_0092
+variant_notes: 
+
+## Sources and evidence excerpts
+- Srimad Bhagavata Purana (Sanskrit, GRETIL) | book/canto 10 | chapter/section 24 | verses 7-11 | confidence 5
+  excerpt: Nanda replied: 'Indra is the lord of the clouds, and by his showers all beings are nourished; we and other men worship him with offerings made of the things his rain produces.' (rendered from Sanskrit, verses 7-8)
+
+## Primary source passage(s)
+### Srimad Bhagavata Purana (Sanskrit, GRETIL) 10.24 (7-11)
+7. bhp_10.24.008/0 śrī-nanda uvāca
+8. taṃ tāta vayam anye ca vārmucāṃ patim īśvaram /
+9. tac-cheṣeṇopajīvanti tri-varga-phala-hetave /
+10. ya enaṃ visṛjed dharmaṃ paramparyāgataṃ naraḥ /
+11. bhp_10.24.012/0 śrī-śuka uvāca
+
+## Corpus chain
+previous_story_id: DKS_0080 | next_story_id: DKS_0082
+previous title: Indra Becomes Furious
+next title: Krishna Argues for Worshipping Govardhana Hill
